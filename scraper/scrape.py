@@ -32,8 +32,12 @@ USER_AGENT = (
 )
 HEADERS = {"User-Agent": USER_AGENT}
 
-PROGRAMS_COURSES_BASE = "https://programs-courses.uq.edu.au/course.html?course_code={code}"
 COURSE_PROFILES_BASE = "https://course-profiles.uq.edu.au"
+
+# JacSON GitHub repo — used to discover profile URLs (class codes + semesters)
+JACSON_REPO_OWNER = "uq-course-profiles"
+JACSON_REPO_NAME = "jacson"
+GITHUB_TREE_API = "https://api.github.com/repos/{owner}/{repo}/git/trees/{branch}?recursive=1"
 
 REQUEST_DELAY = 1.0  # seconds between requests (be polite to UQ servers)
 REQUEST_TIMEOUT = 30  # seconds
@@ -81,100 +85,111 @@ def load_course_list() -> list[str]:
 
 
 # ---------------------------------------------------------------------------
-# Discovery: find profile links for a course code
+# Discovery: find profile URLs via JacSON GitHub repo
 # ---------------------------------------------------------------------------
 
-def get_course_profile_links(course_code: str) -> list[dict]:
-    """
-    Hit programs-courses.uq.edu.au to discover current and archived
-    course profile links, plus sidebar metadata.
+# Module-level cache for the repo file index (fetched once per run)
+_repo_index_cache: dict | None = None
 
-    Returns a dict with:
-      - profile_links: list of dicts with url, semester, location, mode
-      - sidebar: dict of metadata from the sidebar (faculty, school, etc.)
+
+def _fetch_repo_index() -> dict[str, list[dict]]:
     """
-    url = PROGRAMS_COURSES_BASE.format(code=course_code)
+    Fetch the JacSON GitHub repo tree to build an index of available
+    course profiles, keyed by course code.
+
+    Returns e.g.:
+      {
+        "MGTS1601": [
+          {"full_code": "MGTS1601-20353-7620", "semester": "7620",
+           "path": "profiles/7620/MGTS1601-20353-7620.json"},
+          ...
+        ],
+        ...
+      }
+    """
+    global _repo_index_cache
+    if _repo_index_cache is not None:
+        return _repo_index_cache
+
+    url = GITHUB_TREE_API.format(
+        owner=JACSON_REPO_OWNER, repo=JACSON_REPO_NAME, branch="main"
+    )
+    log.info("Fetching JacSON repo index from GitHub Tree API...")
 
     try:
         resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
         resp.raise_for_status()
     except requests.RequestException as e:
-        log.warning(f"  Failed to fetch programs-courses page for {course_code}: {e}")
-        return {"profile_links": [], "sidebar": {}}
+        log.error(f"Failed to fetch JacSON repo index: {e}")
+        _repo_index_cache = {}
+        return _repo_index_cache
 
-    soup = BeautifulSoup(resp.text, "html.parser")
+    data = resp.json()
+    tree = data.get("tree", [])
 
-    # --- Extract sidebar metadata ---
-    sidebar = {}
-    sidebar_fields = {
-        "Course level": "course_level",
-        "Faculty": "faculty",
-        "School": "school",
-        "Units": "units",
-        "Duration": "duration",
-        "Attendance mode": "attendance_mode",
-        "Class hours": "class_hours",
-        "Incompatible": "incompatible",
-        "Prerequisite": "prerequisite",
-        "Companion": "companion",
-        "Recommended Prerequisite": "recommended_prerequisite",
-        "Restriction": "restriction",
-        "Course enquiries": "course_enquiries",
-        "Study Abroad": "study_abroad",
-    }
+    index: dict[str, list[dict]] = {}
 
-    for dt_tag in soup.find_all("dt"):
-        label = dt_tag.get_text(strip=True)
-        if label in sidebar_fields:
-            dd_tag = dt_tag.find_next_sibling("dd")
-            if dd_tag:
-                # For fields with links (e.g. Faculty), get text
-                value = dd_tag.get_text(separator=" ", strip=True)
-                sidebar[sidebar_fields[label]] = value
+    # Pattern: profiles/{semester}/{COURSE-CLASS-SEM}.json
+    pattern = re.compile(
+        r"^profiles/(\d{4})/([A-Z]{4}\d{4})-(\d+)-(\d{4})\.json$"
+    )
 
-    # Also try to get course description from programs-courses page
-    desc_heading = soup.find("h2", string=re.compile(r"Course description", re.I))
-    if desc_heading:
-        desc_parts = []
-        sibling = desc_heading.find_next_sibling()
-        while sibling and sibling.name not in ("h2", "h3"):
-            text = sibling.get_text(strip=True)
-            if text:
-                desc_parts.append(text)
-            sibling = sibling.find_next_sibling()
-        if desc_parts:
-            sidebar["course_description_short"] = " ".join(desc_parts)
+    for item in tree:
+        if item.get("type") != "blob":
+            continue
+        match = pattern.match(item["path"])
+        if not match:
+            continue
 
-    # --- Extract profile links ---
-    profile_links = []
-    for a_tag in soup.find_all("a", href=True):
-        href = a_tag["href"]
-        if "course-profiles.uq.edu.au/course-profiles/" in href:
-            # Skip archived profiles
-            if "archive.course-profiles" in href:
-                continue
-            # Try to get the row context (semester, location, mode)
-            row = a_tag.find_parent("tr")
-            row_data = {"url": href}
-            if row:
-                cells = row.find_all("td")
-                if len(cells) >= 3:
-                    row_data["semester"] = cells[0].get_text(strip=True)
-                    row_data["location"] = cells[1].get_text(strip=True)
-                    row_data["mode"] = cells[2].get_text(strip=True)
-            profile_links.append(row_data)
+        semester = match.group(1)
+        course_code = match.group(2)
+        class_code = match.group(3)
+        sem_code = match.group(4)
+        full_code = f"{course_code}-{class_code}-{sem_code}"
 
-    return {"profile_links": profile_links, "sidebar": sidebar}
+        if course_code not in index:
+            index[course_code] = []
+        index[course_code].append({
+            "full_code": full_code,
+            "semester": semester,
+            "class_code": class_code,
+            "path": item["path"],
+            "url": f"{COURSE_PROFILES_BASE}/course-profiles/{full_code}",
+        })
+
+    log.info(
+        f"Indexed {sum(len(v) for v in index.values())} profiles "
+        f"across {len(index)} courses from JacSON repo"
+    )
+    _repo_index_cache = index
+    return index
+
+
+def discover_profile_urls(
+    course_code: str, semester_filter: str | None = None
+) -> list[dict]:
+    """
+    Look up available profile URLs for a course code from the JacSON
+    GitHub repo index.
+
+    Returns list of dicts with: url, full_code, semester, class_code, path
+    """
+    index = _fetch_repo_index()
+    entries = index.get(course_code, [])
+
+    if semester_filter:
+        entries = [e for e in entries if e["semester"] == semester_filter]
+
+    return entries
 
 
 # ---------------------------------------------------------------------------
 # Profile scraping: extract everything from a course profile page
 # ---------------------------------------------------------------------------
 
-def scrape_profile(url: str, sidebar_data: dict | None = None) -> dict | None:
+def scrape_profile(url: str) -> dict | None:
     """
     Scrape a single course profile page and return enriched data.
-    sidebar_data is optional metadata from programs-courses.uq.edu.au.
     """
     try:
         resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
@@ -224,10 +239,6 @@ def scrape_profile(url: str, sidebar_data: dict | None = None) -> dict | None:
 
     # --- Policies and procedures ---
     _extract_policies(soup, profile)
-
-    # --- Merge sidebar data from programs-courses page ---
-    if sidebar_data:
-        profile["catalog_data"] = sidebar_data
 
     return profile
 
@@ -828,7 +839,8 @@ def save_profile(profile: dict, base_dir: Path | None = None) -> bool:
 def scrape_course(course_code: str, semester_filter: str | None = None) -> dict:
     """
     Scrape all available profiles for a given course code.
-    Returns a results dict with success/failure info.
+    Uses the JacSON GitHub repo index to discover profile URLs,
+    then scrapes each profile from course-profiles.uq.edu.au.
     """
     result = {
         "course_code": course_code,
@@ -837,31 +849,22 @@ def scrape_course(course_code: str, semester_filter: str | None = None) -> dict:
         "errors": [],
     }
 
-    # Step 1: Discover profile links and get sidebar data
-    discovery = get_course_profile_links(course_code)
-    profile_links = discovery["profile_links"]
-    sidebar_data = discovery["sidebar"]
-    time.sleep(REQUEST_DELAY)
+    # Step 1: Discover profile URLs from JacSON repo index
+    profile_entries = discover_profile_urls(course_code, semester_filter)
 
-    if not profile_links:
-        log.warning(f"  No profile links found for {course_code}")
-        result["errors"].append("No profile links found")
+    if not profile_entries:
+        log.warning(f"  No profiles found in JacSON repo for {course_code}")
+        result["errors"].append("No profiles found in JacSON repo index")
         return result
 
-    log.info(f"  Found {len(profile_links)} profile link(s) for {course_code}")
+    log.info(f"  Found {len(profile_entries)} profile(s) for {course_code}")
 
-    # Step 2: Scrape each profile
-    for link_info in profile_links:
-        url = link_info["url"]
-
-        # Semester filter: if specified, only scrape matching semesters
-        if semester_filter:
-            match = re.search(r"/([A-Z]{4}\d{4}-\d+-(\d{4}))$", url)
-            if match and match.group(2) != semester_filter:
-                continue
-
+    # Step 2: Scrape each profile page
+    for entry in profile_entries:
+        url = entry["url"]
         log.info(f"  Scraping: {url}")
-        profile = scrape_profile(url, sidebar_data)
+
+        profile = scrape_profile(url)
         time.sleep(REQUEST_DELAY)
 
         if profile:
@@ -915,6 +918,9 @@ def main(
 
     log.info(f"Scraping {len(courses)} course(s)...")
     log.info("-" * 60)
+
+    # Pre-fetch the JacSON repo index (single GitHub API call)
+    _fetch_repo_index()
 
     # Scrape
     results = {
