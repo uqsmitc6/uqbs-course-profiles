@@ -59,6 +59,15 @@ jobs:
           fi
           python scraper/scrape.py $ARGS
 
+      - name: Rebuild site manifest
+        if: always()
+        run: |
+          if [ -d "profiles" ] && [ "$(find profiles/ -name '*.json' 2>/dev/null)" ]; then
+            python scraper/build_manifest.py
+          else
+            echo "No profiles — skipping manifest regen"
+          fi
+
       - name: Commit and push updated profiles
         if: always()
         run: |
@@ -67,7 +76,7 @@ jobs:
 
           # Only add profiles if the directory has content
           if [ -d "profiles" ] && [ "$(find profiles/ -name '*.json' 2>/dev/null)" ]; then
-            git add profiles/
+            git add profiles/ docs/assets/manifest.json
             if git diff --cached --quiet; then
               echo "No changes to commit"
             else

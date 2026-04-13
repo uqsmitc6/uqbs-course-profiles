@@ -132,6 +132,3 @@ Pattern: digit 0 = decade base (7 for 2020s), digit 1 = year offset from 2020, d
 - beautifulsoup4
 - requests
 
----
-
-*Built by Sean Smith, Learning Designer, UQ Business School, with assistance from Claude (Anthropic).*

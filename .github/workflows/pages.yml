@@ -1,0 +1,72 @@
+name: Deploy Course Profile Viewer to GitHub Pages
+
+on:
+  # Rebuild and redeploy whenever profiles, taxonomy, or the site itself change
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'profiles/**'
+      - 'taxonomy/**'
+      - 'scraper/build_manifest.py'
+      - '.github/workflows/pages.yml'
+
+  # Allow manual rebuild
+  workflow_dispatch:
+
+# Single deploy at a time; cancel queued runs so we don't waste Actions minutes
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Rebuild manifest
+        run: python scraper/build_manifest.py
+
+      - name: Stage data into docs/ for deploy
+        run: |
+          # Copy (not symlink) so the uploaded artefact is self-contained
+          mkdir -p docs/profiles docs/taxonomy
+          cp -r profiles/* docs/profiles/ 2>/dev/null || true
+          cp -r taxonomy/* docs/taxonomy/ 2>/dev/null || true
+          echo "Staged files:"
+          ls -la docs/
+          echo "Profiles semesters:"
+          ls docs/profiles/ 2>/dev/null || echo "(none)"
+          echo "Taxonomy files:"
+          ls docs/taxonomy/ 2>/dev/null || echo "(none)"
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artefact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
