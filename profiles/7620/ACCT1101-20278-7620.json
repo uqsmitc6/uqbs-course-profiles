@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT1101-20278-7620",
-  "scraped_at": "2026-04-13T10:37:48.065699+00:00",
+  "scraped_at": "2026-04-13T11:04:18.294016+00:00",
   "course_code": "ACCT1101",
   "class_code": "20278",
   "semester_code": "7620",
@@ -31,10 +31,12 @@
   ],
   "course_staff": [
     {
+      "role": "Lecturer",
       "name": "Dr Kirsty Dunbar"
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note\n: Teaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you emailﾠ\nbusiness.mytimetable@uq.edu.au\nﾠfrom your UQ student email account with the following details:\nFull name\nStudent ID\nCourse Code",
+  "course_aims": "This course aims to equip students from a wide variety of backgrounds and disciplines with awareness and knowledge in relevant fields of accounting essential to decision making in business.",
   "learning_outcomes": [
     {
       "number": "LO1.",
@@ -60,21 +62,31 @@
   "assessment_summary": [
     {
       "category": "Tutorial/ Problem Set",
-      "title": "Inspera Case Study Part 1Online",
+      "title": "Inspera Case Study Part 1",
       "weight": "20%",
-      "due_date": "Week 5, Fri 3:00 pm"
+      "due_date": "Week 5, Fri 3:00 pm",
+      "conditions": [
+        "Online"
+      ]
     },
     {
       "category": "Tutorial/ Problem Set",
-      "title": "Inspera Case Study Part 2Online",
+      "title": "Inspera Case Study Part 2",
       "weight": "30%",
-      "due_date": "Week 9, Fri 3:00 pm"
+      "due_date": "Week 9, Fri 3:00 pm",
+      "conditions": [
+        "Online"
+      ]
     },
     {
       "category": "Examination",
-      "title": "End-of-Semester ExaminationIdentity VerifiedIn-person",
+      "title": "End-of-Semester Examination",
       "weight": "50%",
-      "due_date": "End of Semester Exam Period6/06/2026 - 20/06/2026"
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
     }
   ],
   "assessment_details": [

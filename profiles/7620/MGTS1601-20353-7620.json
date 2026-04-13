@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS1601-20353-7620",
-  "scraped_at": "2026-04-13T10:31:53.890417+00:00",
+  "scraped_at": "2026-04-13T11:03:54.940571+00:00",
   "course_code": "MGTS1601",
   "class_code": "20353",
   "semester_code": "7620",
@@ -29,6 +29,7 @@
   ],
   "course_staff": [
     {
+      "role": "Lecturer",
       "name": "Dr Marissa Edwards",
       "email": "m.edwards@business.uq.edu.au"
     }
@@ -66,9 +67,13 @@
     },
     {
       "category": "Tutorial/ Problem Set",
-      "title": "Team WorkshopTeam or group-basedIn-person",
+      "title": "Team Workshop",
       "weight": "20%",
-      "due_date": "in tutorial Week 7,in tutorial Week 8,in tutorial Week 9,"
+      "due_date": "in tutorial Week 7,; in tutorial Week 8,; in tutorial Week 9,",
+      "conditions": [
+        "Team or group-based",
+        "In-person"
+      ]
     },
     {
       "category": "Paper/ Report/ Annotation",
@@ -78,9 +83,13 @@
     },
     {
       "category": "Examination",
-      "title": "Final ExaminationIdentity VerifiedIn-person",
+      "title": "Final Examination",
       "weight": "30%",
-      "due_date": "End of Semester Exam Period7/06/2026 - 21/06/2026"
+      "due_date": "End of Semester Exam Period; 7/06/2026 - 21/06/2026",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
     }
   ],
   "assessment_details": [
