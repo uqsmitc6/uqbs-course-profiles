@@ -1,0 +1,331 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ECON2300-20808-7620",
+  "scraped_at": "2026-04-13T11:13:38.732311+00:00",
+  "course_code": "ECON2300",
+  "class_code": "20808",
+  "semester_code": "7620",
+  "full_course_code": "ECON2300-20808-7620",
+  "course_title": "Introductory Econometrics",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Economics School",
+  "course_description": "Introductory applied econometric course for students with basic economic statistics background. Topics covered include: economic models and role of econometrics, linear regression with single and multiple regressors, hypothesis testing and confidence intervals, dummy variables and nonlinear regression functions, internal and external validity of regression models, panel data models, binary response models, instrumental variable regressions, experiments and quasi-experiments, as well as basic time series analysis. Practical problems are solved using the R econometrics software.\n\nThis is an introductory course in applied econometrics. It reviews and builds on the simple linear regression model taught in introductory statistics courses such as ECON1310 and ECON1320. The models studied in this course have numerous applications in economics, finance, marketing, management and related areas.ﾠA feature of the course is the way examples and exercises are drawn from these different discipline areas to illustrate the usefulness and limitations of certain econometric/statistical techniques. Hands-on experience in applying these techniques is gained through the use of R, an econometric computer software package available in the BEL computer laboratories. Note also that students can freely download R at [https://www.r-project.org].",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ECON1310",
+      "ECON1010",
+      "STAT2004",
+      "We recommend completing the following courses before enrolling in this one:",
+      "ECON1020",
+      "ECON1050"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Alicia Rambaldi",
+      "email": "ECON2300@uq.edu.au",
+      "notes": "ECON2300@uq.edu.auContact Hours Per Week: LEC 2Hours/Week TUT 2 Hours/Week.Please see Course's Blackboard site for full consultation timetable for lecturer and tutors."
+    },
+    {
+      "role": "School enquiries",
+      "name": "School Enquiries, School of Economics",
+      "email": "enquiries@economics.uq.edu.au",
+      "notes": "All enquiries regarding student and academic administration (i.e. non-course content information, e.g., class allocation, timetables, extension to assessment due date, etc.) should be directed toﾠenquiries@economics.uq.edu.au.ﾠEnquiries relating specifically to course content should be directed toECON2300@uq.edu.au."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Alicia Rambaldi",
+      "email": "ECON2300@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Ms April Deng"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Davis Dingle"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Dominic Byrne"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Eugene Clark"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Ryan Leung"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Clancy McMahon"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr . Andriyanto"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Juan Rico"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Kan Dong"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Tom Gargan"
+    },
+    {
+      "role": "Senior tutor",
+      "name": "Ms April Deng"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLectures commence in Week 1.\nTutorials commence in Week 2.\nPlease see the Learning Activities section of this Course Profile for the timetabling implications of public holidays.\nImportant Dates:\nPublic Holidays\n: Fri 3 April (Good Friday), Mon 4 May (Labour Day).\nMid-Semester Break\n: 6 April - 10 April. Semester 1 classes recommence on Mon 13 April.\nStudents should refer to the timetable prior to the commencement of classes to ensure that they have the most up to date information, as from time to time late room changes may occur.",
+  "course_aims": "The aims of this course are to",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Apply the concept of linear regression to data and interpret results."
+    },
+    {
+      "number": "LO2.",
+      "description": "Critically evaluate underlying theories, concepts, assumptions and arguments in econometrics."
+    },
+    {
+      "number": "LO3.",
+      "description": "Conduct inference using OLS with one variable and multiple variables in analysing real-world data."
+    },
+    {
+      "number": "LO4.",
+      "description": "Extend the linear regression framework to FE estimators, instrumental variables, and nonlinear regression analysis in the estimation of econometric models."
+    },
+    {
+      "number": "LO5.",
+      "description": "Communicate (with potential users) econometric analysis by tables and figures with proper interpretation and policy recommendations."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz, Tutorial/ Problem Set",
+      "title": "Weekly Quiz",
+      "weight": "35%  7 best out of 10",
+      "due_date": "Due during the tutorials in weeks 3,4,5, and 7-13.",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Project",
+      "title": "Project: Assignment and Brief Research Report",
+      "weight": "20%",
+      "due_date": "28/04/2026 4:00 pm; The project can be submitted at anytime before the due date.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "End-of-semester Exam",
+      "weight": "45%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Weekly Quiz",
+      "mode": "Written",
+      "category": "Quiz, Tutorial/ Problem Set",
+      "weight": "35% 7 best out of 10",
+      "due_date": "Due during the tutorials in weeks 3,4,5, and 7-13.",
+      "other_conditions": "Time limited, Secure.See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "7 best out of 10 quizzes which will take place in person during the tutorials in weeks 3, 4, 5, and 7-13. Each quiz takes the form of multiple choice question(s) checking that the concepts covered in the lectures and tutorials up the previous week have been understood.As these tests require to be taken in person, it is essential that you enrol in a tutorial slot that you can really attend. The final mark of this assessment item is the best 7 out of 10 quizzes, please do not contact us if you cannot make up your regular tutorial. You could check if there is a seat at another tutorial if you exceptionally cannot attend your regular one but do not wish to miss a test. Enrolled students in a class will always have priority.This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. The use of any electronic device will not be permitted. Students are allowed to bring one A4 sheet of written notes. Students will need to place their student ID on their desk space for the tutor to verify while they are completing the task.Read full task descriptionHide full task description",
+      "submission_guidelines": "Students must place their ID on the table during the quiz for the tutor to verify their identity.  The quiz must be completed during the tutorial. The gradescope bubble sheet to be handed to the tutor before leaving the tutorial room.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nLate submission\nYou will receive a mark of 0 if this assessment issubmitted late.\nNo late submission allowed.  The best 7 out of 10 will be counted towards the final grade.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment issubmitted late.",
+      "ai_statement": "7 best out of 10 quizzes which will take place in person during the tutorials in weeks 3, 4, 5, and 7-13. Each quiz takes the form of multiple choice question(s) checking that the concepts covered in the lectures and tutorials up the previous week have been understood.As these tests require to be taken in person, it is essential that you enrol in a tutorial slot that you can really attend. The final mark of this assessment item is the best 7 out of 10 quizzes, please do not contact us if you cannot make up your regular tutorial. You could check if there is a seat at another tutorial if you exceptionally cannot attend your regular one but do not wish to miss a test. Enrolled students in a class will always have priority.This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. The use of any electronic device will not be permitted. Students are allowed to bring one A4 sheet of written notes. Students will need to place their student ID on their desk space for the tutor to verify while they are completing the task.Read full task descriptionHide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. The use of any electronic device will not be permitted. Students are allowed to bring one A4 sheet of written notes. Students will need to place their student ID on their desk space for the tutor to verify while they are completing the task.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Project: Assignment and Brief Research Report",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "20%",
+      "due_date": "28/04/2026 4:00 pmThe project can be submitted at anytime before the due date.",
+      "other_conditions": "Student specific.See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L03, L05",
+      "task_description": "You are expected to formulate hypothesis relevant to a research project. Analyse the data using techniques covered under the Learning Objectives as indicated above. Submit a research report summarising your findings and offering policy advice based on your findings.Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Students are required to submit an electronic copy through the course webpage (Blackboard).\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nRequests for the granting of extensions must be submitted through my.UQ:Applying for an extension - my.UQ - University of Queenslandwith supporting documentation before the submission due date/time. If an extension is approved, the new agreed date for submission will be noted on the application and the student notified through their student email. Extensions cannot exceed the number of days you suffered from a medical condition, as stated on the medical certificate.\nExtensions are limited to 7 calendar days to ensure timely feedback to other students.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "You are expected to formulate hypothesis relevant to a research project. Analyse the data using techniques covered under the Learning Objectives as indicated above. Submit a research report summarising your findings and offering policy advice based on your findings.Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "End-of-semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "45%",
+      "due_date": "End of Semester Exam Period6/06/2026 - 20/06/2026",
+      "other_conditions": "Time limited, Secure.See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "This is a closed book exam (one A4 single sided sheet of written or typed notes permitted) to be sat in a designated examination room at the St Lucia campus. The exam is comprehensive. However, emphasis will be on:Regression with Panel DataRegression with Binary Dependent VariableInstrumental Variables RegressionExperiments and Quasi-ExperimentsBig DataPlease note UQ's policy on approved calculators that can be brought into examination rooms:https://my.uq.edu.au/services/manage-my-program/exams-and-assessment/sitting-exam/approved-calculatorsThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "exam_details": "Planning time10 minutesDuration120 minutesCalculator options(In person) Casio FX82 series only or UQ approved and labelled calculatorOpen/closed bookClosed book examination - specified written materials permittedMaterialsOne A4 sheet of handwritten or typed notes, single sided, is permittedNon-electronic bilingual dictionaryExam platformPaper basedInvigilationInvigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able todefer this exam.\nRequests for deferring the final examination must be submitted through my.UQ:Applying for Deferral - my.UQ - University of Queensland.",
+      "deferral_or_extension": "You may be able todefer this exam.",
+      "ai_statement": "This is a closed book exam (one A4 single sided sheet of written or typed notes permitted) to be sat in a designated examination room at the St Lucia campus. The exam is comprehensive. However, emphasis will be on:Regression with Panel DataRegression with Binary Dependent VariableInstrumental Variables RegressionExperiments and Quasi-ExperimentsBig DataPlease note UQ's policy on approved calculators that can be brought into examination rooms:https://my.uq.edu.au/services/manage-my-program/exams-and-assessment/sitting-exam/approved-calculatorsThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find therequired and recommended resourcesfor this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1(23 Feb - 01 Mar)",
+      "activity_type": "Lecture",
+      "topic": "IntroductionIntroduction to econometrics; review of statistical concepts; introduction to R.Learning outcomes:L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 2(02 Mar - 08 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Linear Regression with One Regressorthe linear regression model; estimating the coefficients; measure of fit; the least squares assumptions; sampling distribution of the OLS estimator.Learning outcomes:L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 3(09 Mar - 15 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Single Regressor Models: Inferencetesting hypotheses about one of the regression coefficients; confidence intervals for a regression coefficient; dummy variable regressors; heteroskedasticity and homoskedasticity; foundations of OLS; t-statistics and sample size.Learning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 4(16 Mar - 22 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Linear Regression with Multiple Regressorsomitted variable bias; the multiple regression model; the OLS estimator in multiple regression; measure of fit in multiple regression; the least squares assumption in multiple regression; the distribution of the OLS estimator in the multiple regression; multicollinearity.Learning outcomes:L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 5(23 Mar - 29 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Multiple Regression: Inferencehypothesis tests and confidence intervals for single coefficient; tests of joint hypotheses; testing single restrictions involving multiple coefficients; model specification for multiple regression; case study: test score data.Learning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 6(30 Mar - 05 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Nonlinear Regression Functionsa general strategy for modeling nonlinear regression functions; nonlinear functions of a single independent variable; interactions between independent variables; case study: nonlinear effects on test scores.Learning outcomes:L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break(06 Apr - 12 Apr)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Mid-Semester Break"
+    },
+    {
+      "learning_period": "Week 7(13 Apr - 19 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Assessing Studies Based on Multiple Regressioninternal and external validity; threats to internal validity of multiple regression analysis; internal and external validity when the regression is used for forecasting; case study: test scores and class size.Learning outcomes:L02, L03, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8(20 Apr - 26 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Regression with Panel Datadescription and examples of panel data; panel data with two time periods; fixed effects regression; regression with time fixed effects; the fixed effects regression assumptions and standard errors for fixed effects regression; case study: drunk driving laws and traffic deaths.Learning outcomes:L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 9(27 Apr - 03 May)",
+      "activity_type": "Lecture",
+      "topic": "Regression with a Binary Dependent Variablebinary dependent variable and the linear probability model; probit and logit regression; estimation and inference in the probit and logit models; case study: Boston HDMA data.Learning outcomes:L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 10(04 May - 10 May)",
+      "activity_type": "Lecture",
+      "topic": "Instrumental Variables Regressionthe IV estimator with a single regressor and a single instrument; the general IV regression model; checking instrument validity; finding valid instruments; case study: demand for cigarettes.Learning outcomes:L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 11(11 May - 17 May)",
+      "activity_type": "Lecture",
+      "topic": "Experiments and Quasi-Experimentspotential outcomes, causal effects, and idealized experiments; threats to validity of experiments; quasi-experiments and potential problems; case study: effect of class size reductions.Learning outcomes:L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 12(18 May - 24 May)",
+      "activity_type": "Lecture",
+      "topic": "Big DataOLS with many regressors; predictive regression model; oracle prediction; shrinkage; ridge regression; the lasso; principal components analysis"
+    },
+    {
+      "learning_period": "Week 13(25 May - 31 May)",
+      "activity_type": "Lecture",
+      "topic": "Revisionreview lecture; exam preparation"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the:Student Code of Conduct PolicyStudent Integrity and Misconduct PolicyandProcedureAssessment ProcedureExaminations ProcedureReasonable Adjustments for Students PolicyandProcedureAI for Assessment GuideLearn more about UQ policies onmy.UQand thePolicy and Procedure Library.Learning activities"
+}

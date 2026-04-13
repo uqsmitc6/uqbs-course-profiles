@@ -1,0 +1,277 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN4204-20104-7620",
+  "scraped_at": "2026-04-13T11:13:13.484146+00:00",
+  "course_code": "BSAN4204",
+  "class_code": "20104",
+  "semester_code": "7620",
+  "full_course_code": "BSAN4204-20104-7620",
+  "course_title": "Business Analytics Project",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "This project-based course uses live case studies to deliver a signature learning experience in business analytics. Participating businesses offer for study an analytics problem or strategic decision. Further, the partner businesses will make relevant decision-makers and information available to the students. Each student focuses on one of the participating businesses, meeting with their key decision makers and addressing their project to the needs of the partner business. Working under academic supervision, students develop project plans, and write and present their project reports to an audience including representatives of their partner businesses. Finally, each student delivers its partner business with a decision support system embedding its analytics in a graphical user interface. A lecture series on the principles of agile analytics complements the project-based learning.\n\nBSAN4204 requires students to produce a one‑page pitch for a business analytics project, research the technical requirements needed to deliver it, and develop a low‑fidelity prototype or a functional application (e.g., an analytics dashboard or web app). Students will work under the guidance of both the BSAN4204 teaching team and an industry partner.\n\nThe business problem will be introduced in Week 1. In Week 2, the industry partner will advise on research and ideation, focusing on agile workflows, building a minimum viable product, distinguishing user and technical research, and understanding how analytics products are commercialised. The industry partner will join in one of the “sprint sessions” in the latter half in the semester, giving students the chance to present their work in progress to the industry partner (optional, not assessed) to receive feedback on how well their applications address real business needs.\n\nCourse Changes in Response to Previous Student Feedback\n\nThe assessment schedule and formats of BSAN4204 have been changed in response to student feedback.\n\nThe one‑page pitch remains unchanged. The research project now comes before the technical demonstration (instead of after) and the application is now demonstrated (instead being submitted as a fully functional app via a deployed URL). This makes the research project forward‑looking rather than reflective, and makes technical demonstration focus on showcasing/explaining the rationale behind in-progress prototype features rather than on documenting the code of a fully functional deployment.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "BISM2201",
+      "BSAN2201"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "BISM4204"
+    ]
+  },
+  "course_staff": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Thomas Magor"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Ms Shannon Lutze"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note\n: Teaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull name\nStudent ID\nCourse Code",
+  "course_aims": "This capstone course aims to provide students with unique opportunities to approach and solve authentic business problems, working collaboratively with industry and academic stakeholders, using innovative business analytic skill sets.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Recognise and explain the application of business analytics to solving practical and strategic business problems."
+    },
+    {
+      "number": "LO2.",
+      "description": "Understand how the principles and methods of business analytics can address business problems and improve business performance."
+    },
+    {
+      "number": "LO3.",
+      "description": "To create a project proposal for the design and development of a business analytics project that addresses a problem faced by business, government or society."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply a range of software tools for completing analytics projects and embedding analytics into decision support systems."
+    },
+    {
+      "number": "LO5.",
+      "description": "Assess the value of analytics projects to business and the costs and benefits of investments in analytics projects and teams."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Poster",
+      "title": "One Page Pitch (A1)",
+      "weight": "20%",
+      "due_date": "2/04/2026 4:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Product/ Design",
+      "title": "Research Project (A2)",
+      "weight": "50%",
+      "due_date": "8/05/2026 4:00 pm"
+    },
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Technical Demonstration (A3)",
+      "weight": "30%",
+      "due_date": "Week 12 - Week 13; Scheduled during Weeks 12/13.",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "One Page Pitch (A1)",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Poster",
+      "weight": "20%",
+      "due_date": "2/04/2026 4:00 pm",
+      "other_conditions": "Work integrated learning.See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "A one page pitch that outlines the ideation process for an analytics dashboard (web app) solution to the business problem introduced in Week 1. The industry partner will provide advice on business analytics project ideation in Week 2. The seminars in Weeks 3 through 6 will run as sprint sessions to develop the pitches, as well as instructive sessions focused on developing a deeper understanding of the business problem, data, tools for visual prototyping, and project management.The one page pitch should focus on the main way(s) in which the project may provide value to end-users. Students should aim to maximise the interpretability of their pitch using a combination of written text and visual elements to communicate.A full briefing of the One Page Pitch (A1) will be provided in class, covering more specific requirements of the pitch (i.e., extending what is outlined above).Formatting Requirements:Maximum length:1 pagePage size:A4Submission format:PDF(.pdf)There is no strict word count. Students should focus onclear and concise communication, using minimal text and supporting it withvisual elements(e.g., images, diagrams, graphics) to effectively convey key ideas.Artificial Intelligence (AI) and Machine Translation (MT)are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT^.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.^ - Include as a text comment when submitting.Read full task descriptionHide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "A one page pitch that outlines the ideation process for an analytics dashboard (web app) solution to the business problem introduced in Week 1. The industry partner will provide advice on business analytics project ideation in Week 2. The seminars in Weeks 3 through 6 will run as sprint sessions to develop the pitches, as well as instructive sessions focused on developing a deeper understanding of the business problem, data, tools for visual prototyping, and project management.The one page pitch should focus on the main way(s) in which the project may provide value to end-users. Students should aim to maximise the interpretability of their pitch using a combination of written text and visual elements to communicate.A full briefing of the One Page Pitch (A1) will be provided in class, covering more specific requirements of the pitch (i.e., extending what is outlined above).Formatting Requirements:Maximum length:1 pagePage size:A4Submission format:PDF(.pdf)There is no strict word count. Students should focus onclear and concise communication, using minimal text and supporting it withvisual elements(e.g., images, diagrams, graphics) to effectively convey key ideas.Artificial Intelligence (AI) and Machine Translation (MT)are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT^.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.^ - Include as a text comment when submitting.Read full task descriptionHide full task description\nArtificial Intelligence (AI) and Machine Translation (MT)are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT^.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Research Project (A2)",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Paper/ Report/ Annotation, Product/ Design",
+      "weight": "50%",
+      "due_date": "8/05/2026 4:00 pm",
+      "other_conditions": "Work integrated learning.See the conditions definitions",
+      "learning_outcomes_assessed": "L04, L05",
+      "task_description": "A 10 page (approx. 3000 word) research project on the technical requirements of the proposed analytics dashboard (web app) solution to the business problem (i.e., investigating the feasibility of the ideas presented in the one page pitch). The purpose of the research project is to determine the feasibility of the solution within the constraints of the available data, software tools and personal skills. The research project should provide a detailed analysis of potential challenges and barriers to moving the solution beyond the prototype stage. These may include business-related issues, practical implementation difficulties, regulatory or compliance requirements, and any other factors that could impact deployment. The research project should include an implementation plan that outlines the steps required to develop and promote the solution as a commercialised product, including timelines and resources.The research project should be completed concurrently alongside working on developing the technical implementation of the solution as a low-fidelity prototype or a functional deployment of an analytics dashboard (web app). The research project should include example snippets of code and screenshots of their work in progress.A full briefing of theResearch Project (A2)will be provided in class, covering more specific requirements within each section of the research project (i.e., extending what is outlined above).Formatting Requirements:Word count:3,000 words (+/- 300 words, excludes text in tables, figures, title page, table of contents, headings, headers, footers and references)Page count:10 pages(maximum)Page size:A4Submission format:PDF(.pdf),Word Doc(.docx), orHTML(.html)Artificial Intelligence (AI) and Machine Translation (MT)are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT^.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.^ - Include as a text comment when submitting.Read full task descriptionHide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "A 10 page (approx. 3000 word) research project on the technical requirements of the proposed analytics dashboard (web app) solution to the business problem (i.e., investigating the feasibility of the ideas presented in the one page pitch). The purpose of the research project is to determine the feasibility of the solution within the constraints of the available data, software tools and personal skills. The research project should provide a detailed analysis of potential challenges and barriers to moving the solution beyond the prototype stage. These may include business-related issues, practical implementation difficulties, regulatory or compliance requirements, and any other factors that could impact deployment. The research project should include an implementation plan that outlines the steps required to develop and promote the solution as a commercialised product, including timelines and resources.The research project should be completed concurrently alongside working on developing the technical implementation of the solution as a low-fidelity prototype or a functional deployment of an analytics dashboard (web app). The research project should include example snippets of code and screenshots of their work in progress.A full briefing of theResearch Project (A2)will be provided in class, covering more specific requirements within each section of the research project (i.e., extending what is outlined above).Formatting Requirements:Word count:3,000 words (+/- 300 words, excludes text in tables, figures, title page, table of contents, headings, headers, footers and references)Page count:10 pages(maximum)Page size:A4Submission format:PDF(.pdf),Word Doc(.docx), orHTML(.html)Artificial Intelligence (AI) and Machine Translation (MT)are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT^.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.^ - Include as a text comment when submitting.Read full task descriptionHide full task description\nArtificial Intelligence (AI) and Machine Translation (MT)are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT^.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Technical Demonstration (A3)",
+      "mode": "Oral, Product/ Artefact/ Multimedia",
+      "category": "Practical/ Demonstration",
+      "weight": "30%",
+      "due_date": "Week 12 - Week 13Scheduled during Weeks 12/13.",
+      "other_conditions": "Work integrated learning, Secure.See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L05",
+      "task_description": "An in-person 5-minute demonstration of a low-fidelity prototype or a functional deployment of an analytics dashboard (web app) solution to the business problem, i.e., the technical implementation of the ideas initially proposed in the One Page pitch (A1) and refined in the Research Project (A2).The demonstration should showcase the apps main features, overall structure, and user experience. It should illustrate how the application enables users to derive data-driven insights that effectively address the business problem in a technically sound and creative way. A detailed technical explanation of the underlying code is not required.A full briefing of theTechnical Demonstration (A3)will be provided in class, covering more specific requirements of the demonstration (i.e., extending what is outlined above).Formatting Requirements:Length:5 minutesFormat: Verbal explanation supported by on-screen interaction with the app. Accompanying slides or pre-recorded content are not permitted.Students demonstrate their app via the in-class projector (using either their own laptop or the in-class computer).Artificial Intelligence (AI) and Machine Translation (MT)are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT^.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.^ - Include as a text comment when submitting.Read full task descriptionHide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "An in-person 5-minute demonstration of a low-fidelity prototype or a functional deployment of an analytics dashboard (web app) solution to the business problem, i.e., the technical implementation of the ideas initially proposed in the One Page pitch (A1) and refined in the Research Project (A2).The demonstration should showcase the apps main features, overall structure, and user experience. It should illustrate how the application enables users to derive data-driven insights that effectively address the business problem in a technically sound and creative way. A detailed technical explanation of the underlying code is not required.A full briefing of theTechnical Demonstration (A3)will be provided in class, covering more specific requirements of the demonstration (i.e., extending what is outlined above).Formatting Requirements:Length:5 minutesFormat: Verbal explanation supported by on-screen interaction with the app. Accompanying slides or pre-recorded content are not permitted.Students demonstrate their app via the in-class projector (using either their own laptop or the in-class computer).Artificial Intelligence (AI) and Machine Translation (MT)are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT^.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.^ - Include as a text comment when submitting.Read full task descriptionHide full task description\nArtificial Intelligence (AI) and Machine Translation (MT)are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT^.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on theUQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Seminar",
+      "topic": "Introduction & Problem FramingIntroduction to the course project and a business problem which will form the basis for their business analytics project. Students explore the problem space, stakeholders, and rationale for applying business analytics to real-world decision-making. Students are introduced to the responsible use of AI tools to support exploration, idea generation, and problem framing.Learning outcomes:L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Seminar",
+      "topic": "Industry Engagement 1: Project DiscoverySession with the industry partner to discuss how analytics projects typically begin, including ideation, problem framing, discovery activities, and early decision-making.Learning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Seminar",
+      "topic": "Sprint Session 1: Exploration and Insight GenerationStudents explore a project dataset (supplied) using appropriate analytical tools to examine data structure and patterns, surface potential insights, and begin developing a narrative grounded in user needs in the context of the business problem discussed in Week 1. AI can be used to help formulate the approach to highlighting patterns in the data and to explain unfamiliar data structures.Learning outcomes:L01, L02, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Seminar",
+      "topic": "Sprint Session 2: Concept Design and PrototypingIntroduction to low fidelity prototyping methods. Students translate insights and user needs into initial requirements, and design and communicate application concepts and user flows prior to technical implementation. AI can support idea generation, requirement articulation, and early prototyping concepts, while students maintain ownership of design decisions.Learning outcomes:L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Seminar",
+      "topic": "Sprint Session 3: User Experience and Value PropositionFocus on shaping analytics outputs that are intuitive and meaningful for end-users, and that clearly communicate value in a decision-making context.Learning outcomes:L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Seminar",
+      "topic": "Sprint Session 4: Validation and FeedbackPeer review and testing of early concepts or prototypes. Students evaluate logic, clarity, and alignment with user needs.Learning outcomes:L01, L02, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Midsemester BreakNo class this week"
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Seminar",
+      "topic": "Sprint Session 5: Refinement and PlanningReflection on assessment feedback and project direction. Students prioritise features, refine scope, and plan the next phase of development.Learning outcomes:L01, L02, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Seminar",
+      "topic": "Sprint Session 6: Technical Feasibility and Implementation PlanningExploration of technical options and constraints. Students research tools, libraries, or integrations and assess feasibility of proposed features. AI can support code exploration, package research, and troubleshooting strategies, while students critically evaluate all outputs.Learning outcomes:L01, L02, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Seminar",
+      "topic": "Sprint Session 7: Build and IntegrationDevelopment and integration of analytical components into the application. Students connect analysis, design, and functionality, and document limitations and future considerations. AI can assist with coding suggestions, debugging, and documentation, but ownership and validation remain with the student.Learning outcomes:L01, L02, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Seminar",
+      "topic": "No classLabour Day Public Holiday - Monday 4th May 2026- Check Blackboard for announcements about affected classes."
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Seminar",
+      "topic": "Sprint Session 8: Deployment and TestingApplication deployment and troubleshooting. Focus on handling edge cases, refining presentation, and reflecting on development decisions and trade-offs.Learning outcomes:L01, L02, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Seminar",
+      "topic": "Technical Demonstrations (A3) - Session 1In-class technical demonstrations of a low-fidelity prototype or a functional deployment of an analytics dashboard (web app) solution to the business problem. Students present their app to the class showcasing its functionality, analytical approach, and design rationale.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Seminar",
+      "topic": "Technical Demonstrations (A3) - Session 2Continuation of in-class technical demonstrations.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the:Student Code of Conduct PolicyStudent Integrity and Misconduct PolicyandProcedureAssessment ProcedureExaminations ProcedureReasonable Adjustments for Students PolicyandProcedureAI for Assessment GuideLearn more about UQ policies onmy.UQand thePolicy and Procedure Library.Learning activities"
+}

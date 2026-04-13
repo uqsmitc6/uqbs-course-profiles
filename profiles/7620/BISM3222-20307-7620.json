@@ -1,0 +1,387 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BISM3222-20307-7620",
+  "scraped_at": "2026-04-13T11:12:49.524460+00:00",
+  "course_code": "BISM3222",
+  "class_code": "20307",
+  "semester_code": "7620",
+  "full_course_code": "BISM3222-20307-7620",
+  "course_title": "Information Analysis and System Design",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "Structured analysis and design for business; data analysis and design; object-oriented analysis and design; testing and quality assurance; practical group experience with computer-assisted software engineering tools for business applications.\n\nThis course teaches you how to use design thinking principles to analyse and design business information systems. This course will provide you with the skills and knowledge necessary to effectively design and implement business information systems that meet the needs of organisations and their stakeholders. This course builds your digital skills for many career opportunities, specifically for roles such as a Systems Analyst, Business Analyst, and Project Manager.\n\nCourse Changes in Response to Previous Student Feedback\n\nSustainable Development Goals- UQ Business School is a proud supporter and Advanced Signatory of theUnited Nations Principles for Responsible Management Education (UN PRME). As part of the largest global collaboration between business schools and the UN, the school emphasises its role in empowering students to drive societal transformation through theSustainable Development Goals. The SDGs highlight that a thriving economy relies on a healthy environment, aiming to balance economic growth, social well-being, and environmental protection for a sustainable future.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "BISM2202"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "BISM7255",
+      "INFS3222"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Sabine Matook",
+      "email": "s.matook@business.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Sabine Matook"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note\n: Teaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you write an email to\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\n1) Full name\n2) Student ID\n3) Course Code\n4) Your request/ issue you need help with",
+  "course_aims": "The overall course objective is to provide the concepts and skills required to analyse information and design systems.  The course concentrates on requirements elicitation and techniques for communicating to developers, as well as giving a low-code experience with prototyping an application.  The course discusses the placement of information analysis and system design in the context of project management, data and enterprise architecture, as well as system maintenance.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Describe the major alternative methodologies used in developing information systems and the considerations involved in choosing which methodology to use."
+    },
+    {
+      "number": "LO2.",
+      "description": "Analyse a business need within a complex environment and develop an appropriate strategy to meet the need, and provide the required information service."
+    },
+    {
+      "number": "LO3.",
+      "description": "Prepare and use various information gathering techniques for eliciting user information requirements and system expectations."
+    },
+    {
+      "number": "LO4.",
+      "description": "Construct a variety of system description documents, following agile methodology, including a working prototype."
+    },
+    {
+      "number": "LO5.",
+      "description": "Explain, collaborate, and innovate through information systems development to address business challenges as an individual and as part of a team."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Examination",
+      "title": "In-Semester examination",
+      "weight": "40%",
+      "due_date": "In-semester Saturday; 28/03/2026 - 3/05/2026; This exam is centrally scheduled which means the exam date depends on when the university schedules this exam. The In-Semester Exam is confirmed for Saturday 18 April, 2026.",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Examination, Practical/ Demonstration",
+      "title": "Analysis and Design UML Modelling with Enterprise Architect Assessment",
+      "weight": "35%",
+      "due_date": "Week 9 Mon - Fri; The assessment takes place during the tutorial time in Week 9.  Student can only take the assessment during their enrolled tutorial times.",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Creative Production/ Exhibition, Paper/ Report/ Annotation, Practical/ Demonstration, Presentation, Product/ Design",
+      "title": "Analysis and Design Project",
+      "weight": "25%",
+      "due_date": "Written Project Report (word file and slides) Week 11, Fri 2:00 pm; Presentation during Tutorials Week 12, Mon 9:00 am; The assessment focus is a team presentation on the design, analysis and development of an information system (i.e., an app). To support the presentation, project report (Word file and the slides) must be submitted via the available Blackboard link. The presentation is in Week 12 (and if required, Week 13) during the tutorial time.",
+      "conditions": [
+        "Team or group-based",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-Semester examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "In-semester Saturday28/03/2026 - 3/05/2026This exam is centrally scheduled which means the exam date depends on when the university schedules this exam. The In-Semester Exam is confirmed for Saturday 18 April, 2026.",
+      "other_conditions": "Time limited, Secure.See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "The In-Semester Exam tests students' knowledge about the course. It will be short answer questions and MCQs.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the UQ Student Code of Conduct.Read full task descriptionHide full task description",
+      "exam_details": "Planning time10 minutesDuration90 minutesCalculator options(In person) Casio FX82 series only or UQ approved and labelled calculatorOpen/closed bookClosed book examination - no written materials permittedExam platformInsperaInvigilationInvigilated in person",
+      "submission_guidelines": "Submission via Inspera software.\nStudents must bring their own devices for the exam.\nStudents must install the UQ safe browser per the guidelines: https://elearning.uq.edu.au/student-guides-original/inspera-assessment-original/safe-exam-browser-inspera-original\nDeferral or extension\nYou may be able todefer this exam.",
+      "deferral_or_extension": "You may be able todefer this exam.",
+      "ai_statement": "The In-Semester Exam tests students' knowledge about the course. It will be short answer questions and MCQs.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the UQ Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the UQ Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Analysis and Design UML Modelling with Enterprise Architect Assessment",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Examination, Practical/ Demonstration",
+      "weight": "35%",
+      "due_date": "Week 9 Mon - FriThe assessment takes place during the tutorial time in Week 9.  Student can only take the assessment during their enrolled tutorial times.",
+      "other_conditions": "Time limited.See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "In this assessment, you will be presented with scenarios, and you will need to utilize Enterprise Architecture to create specific UML models for each scenario as requested.The assessment will take place in Week 9 during the enrolled tutorial time.  Alternative arrangements will be announced in the lecture.You are welcome to bring handwritten notes and printed materials. You are not allowed to use any other materials, esp. not to browse the Internet or use Artificial Intelligence solutions to create the models for you.The assignment details are given on the course's Blackboard site (i.e., the course's Learn.UQ site).This assessment addresses at least one PRME Sustainable Development Goal and is an opportunity to add an innovative solution to your ePortfolio.AI Statement:This assessment task evaluates students' abilities, skills, and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "exam_details": "Planning time10 minutesDuration60 minutesCalculator optionsNo calculators permittedOpen/closed bookOpen book examination - any written or printed material is permitted; material may be annotatedMaterialsHand-written materials and printed materials only - You are not allowed to use any digital or IT devices or materials for help, esp. not to browse the Internet or use Artificial Intelligence solutions to create the models for you.Exam platformOtherInvigilationInvigilated in person",
+      "submission_guidelines": "Submitted an Enterprise Architect File via Blackboard assessment link at the end of the assessment period while you are still sitting in the classroom. For details please refer to the assignment specification on the Blackboard site for the course.\nName the file with your name and student ID.\nDeferral or extension\nYou may be able todefer this exam.",
+      "deferral_or_extension": "You may be able todefer this exam.",
+      "ai_statement": "In this assessment, you will be presented with scenarios, and you will need to utilize Enterprise Architecture to create specific UML models for each scenario as requested.The assessment will take place in Week 9 during the enrolled tutorial time.  Alternative arrangements will be announced in the lecture.You are welcome to bring handwritten notes and printed materials. You are not allowed to use any other materials, esp. not to browse the Internet or use Artificial Intelligence solutions to create the models for you.The assignment details are given on the course's Blackboard site (i.e., the course's Learn.UQ site).This assessment addresses at least one PRME Sustainable Development Goal and is an opportunity to add an innovative solution to your ePortfolio.AI Statement:This assessment task evaluates students' abilities, skills, and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nYou are welcome to bring handwritten notes and printed materials. You are not allowed to use any other materials, esp. not to browse the Internet or use Artificial Intelligence solutions to create the models for you.\nThis assessment task evaluates students' abilities, skills, and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.\nHand-written materials and printed materials only - You are not allowed to use any digital or IT devices or materials for help, esp. not to browse the Internet or use Artificial Intelligence solutions to create the models for you.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Analysis and Design Project",
+      "mode": "Oral, Product/ Artefact/ Multimedia, Written",
+      "category": "Creative Production/ Exhibition, Paper/ Report/ Annotation, Practical/ Demonstration, Presentation, Product/ Design",
+      "weight": "25%",
+      "due_date": "Written Project Report (word file and slides) Week 11, Fri 2:00 pmPresentation during Tutorials Week 12, Mon 9:00 amThe assessment focus is a team presentation on the design, analysis and development of an information system (i.e., an app). To support the presentation, project report (Word file and the slides) must be submitted via the available Blackboard link. The presentation is in Week 12 (and if required, Week 13) during the tutorial time.",
+      "other_conditions": "Peer assessed, Longitudinal.See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "During the semester, students learn how to analyse, design, and develop information systems. The assessment tests students' skills related to these tasks with a focus on effective implementation of the formative feedback and an authentic presentation. Details about the assessment are on Blackboard in week 2.This assessment is based on group work: Each group can have a maximum of 5 students, all of whom must come from the same tutorial.Students will be asked to submit an early report for this project (after Week 3) and receive formative in-person feedback. By this time, the group members have to be known and submitted.The presentations will be scheduled for week 12 (and, if necessary, in Week 13). The schedule will be created once enrolments are finalised. All students must be present at their group presentation; otherwise, the student will receive a failing grade. Students' grades are also determined based on peer assessment.Please note:The presentation will be recorded to aid teaching staff with marking in accordance with UQ Policy.AI Statement:This assessment task evaluates students' abilities, skills, and knowledge in analysing and designing information systems. As taught in the course, these activities can be supported by AI. Thus, students are free to use generative Artificial Intelligence (AI) in this assessment; however, the report and presentation must clearly explain how (i.e., which software and which features) it was used and where it was applied. Failure to do so will impact the marks.  Use of AI when declared will not result in reduced marks.Read full task descriptionHide full task description",
+      "submission_guidelines": "The report (including a Word file and a PowerPoint presentation) will be submitted as a zip.file via the links provided on Blackboard, and the project (app and ppt) is to be presented during the presentation.\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions or deferrals are not available for an in-class presentation. An extension may be available for the submitted material only.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nLate submission penalties apply when the report is unavailable for the marker to prepare for the presentation.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "During the semester, students learn how to analyse, design, and develop information systems. The assessment tests students' skills related to these tasks with a focus on effective implementation of the formative feedback and an authentic presentation. Details about the assessment are on Blackboard in week 2.This assessment is based on group work: Each group can have a maximum of 5 students, all of whom must come from the same tutorial.Students will be asked to submit an early report for this project (after Week 3) and receive formative in-person feedback. By this time, the group members have to be known and submitted.The presentations will be scheduled for week 12 (and, if necessary, in Week 13). The schedule will be created once enrolments are finalised. All students must be present at their group presentation; otherwise, the student will receive a failing grade. Students' grades are also determined based on peer assessment.Please note:The presentation will be recorded to aid teaching staff with marking in accordance with UQ Policy.AI Statement:This assessment task evaluates students' abilities, skills, and knowledge in analysing and designing information systems. As taught in the course, these activities can be supported by AI. Thus, students are free to use generative Artificial Intelligence (AI) in this assessment; however, the report and presentation must clearly explain how (i.e., which software and which features) it was used and where it was applied. Failure to do so will impact the marks.  Use of AI when declared will not result in reduced marks.Read full task descriptionHide full task description\nThis assessment task evaluates students' abilities, skills, and knowledge in analysing and designing information systems. As taught in the course, these activities can be supported by AI. Thus, students are free to use generative Artificial Intelligence (AI) in this assessment; however, the report and presentation must clearly explain how (i.e., which software and which features) it was used and where it was applied. Failure to do so will impact the marks.  Use of AI when declared will not result in reduced marks.",
+      "special_indicators": [
+        "Team or group-based",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on theUQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Lecture",
+      "topic": "Introduction to Information Analysis and System DesignMaterials for the week:  From the course textbook \"Systems Analysis & Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapter 1.Learning outcomes:L01, L02, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Lecture",
+      "topic": "Project ManagementMaterials for the week:  From the course textbook \"Information Systems Project Management: A Process Approach\"by authors Schneider at al.; 2nd. edition:  Chapters 1-2 andFrom the course textbook \"Systems Analysis & Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapter 11.Learning outcomes:L01, L05",
+      "learning_outcomes": [
+        "L01",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Tutorial",
+      "topic": "Practical 1: Introduction and Project Management 1For materials, see the Blackboard site for the course.Learning outcomes:L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Lecture",
+      "topic": "User Requirements for Systems DesignMaterials for the week: From the course textbook \"Systems Analysis & Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition: Chapter 4 andFrom the course textbook \"Systems Analysis and Design: An Object-Oriented Approach with UML\" by authors Dennis et al., 6th ed. Chapter 3.Learning outcomes:L02, L03, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Tutorial",
+      "topic": "Practical 2: Capturing RequirementsFor materials, see the Blackboard site for the course.Learning outcomes:L02, L03, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Lecture",
+      "topic": "Development Methods - Selection and ApplicationMaterials for the week:  From the course textbook \"Systems Analysis & Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapters 10 and 12.Learning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Tutorial",
+      "topic": "Practical 3: UML modelling – Use CaseFor materials, see the Blackboard site for the course.Learning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Lecture",
+      "topic": "Sourcing and Costing of Information SystemsMaterials for the week:  From the course textbook \"Systems Analysis & Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapters 7 - 9.Learning outcomes:L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Tutorial",
+      "topic": "Practical 4: UML modelling – Activity diagramFor materials, see the Blackboard site for the course.Learning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Lecture",
+      "topic": "Public HolidayYou are given a case study and related videos for this week."
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Tutorial",
+      "topic": "Practical 5: UML modelling – Sequence diagramFor materials, see the Blackboard site for the course.Learning outcomes:L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "In-Semester BreakLearning outcomes:L05",
+      "learning_outcomes": [
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Lecture",
+      "topic": "Agile Information Systems Development TechniquesMaterials for the week:  From the course textbook \"Systems Analysis & Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapter 15 and other materials on Blackboard.Learning outcomes:L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Tutorial",
+      "topic": "Practical 6: UML modelling – Class diagramFor materials, see the Blackboard site for the course.Learning outcomes:L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Lecture",
+      "topic": "DevOps Foundations: Integrating Development and Operations in Information SystemsMaterials for the week:  From the course textbook \"Systems Analysis & Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Pages 462-471;  Deeper Dive chapters 16.5 Deeper Dives: DevOps Deployment in an Age of Options and other materials on Blackboard.Learning outcomes:L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Tutorial",
+      "topic": "Practical 7: UML modelling – State machineFor materials, see the Blackboard site for the course.Learning outcomes:L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Lecture",
+      "topic": "User Interface DesignMaterials for the week:  From the course textbook \"Systems Analysis & Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapter 4 and 6.Learning outcomes:L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Tutorial",
+      "topic": "Practical 9: In-Tutorial -- UML Design AssessmentFor materials, see the Blackboard site for the course.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Lecture",
+      "topic": "Testing of SystemsMaterials for the week:  From the course textbook \"Systems Analysis & Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapter 5.And from textbook \"Systems Analysis and Design in a Changing World\",  7th Edition byJohn W. Satzinger, Robert B. Jackson and Stephen D. Burd. Chapter 7.Learning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Tutorial",
+      "topic": "Practical 10: App DevelopmentFor materials, see the Blackboard site for the course.Learning outcomes:L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Lecture",
+      "topic": "Effective people leadership in Information Systems DevelopmentMaterials for the week:  From the course textbook \"Information Systems Project Management: A Process Approach\"by authors Schneider at al.; 2nd. edition:  Chapter 3.Learning outcomes:L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Tutorial",
+      "topic": "Practical 11: App DevelopmentFor materials, see the Blackboard site for the course.Learning outcomes:L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Lecture",
+      "topic": "Deployment of Systems, Production Readiness and Change ManagementMaterials for the week:  From the course textbook \"Systems Analysis & Design in an Age of Options\" by authors Spurrier and Topi, 2nd. edition:  Chapter 16.Learning outcomes:L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Tutorial",
+      "topic": "Practical 12: PresentationStudents, in teams, present their semester-long project.Learning outcomes:L02, L03, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Lecture",
+      "topic": "Summary Lecture and Semester ReflectionLearning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Tutorial",
+      "topic": "Practical 13: PresentationStudents, in teams, present their semester-long project."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the:Student Code of Conduct PolicyStudent Integrity and Misconduct PolicyandProcedureAssessment ProcedureExaminations ProcedureReasonable Adjustments for Students PolicyandProcedureAI for Assessment GuideLearn more about UQ policies onmy.UQand thePolicy and Procedure Library.Learning activities"
+}

@@ -1,0 +1,437 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/FINM2411-20326-7620",
+  "scraped_at": "2026-04-13T11:14:05.561899+00:00",
+  "course_code": "FINM2411",
+  "class_code": "20326",
+  "semester_code": "7620",
+  "full_course_code": "FINM2411-20326-7620",
+  "course_title": "Principles of Financial Management",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "Provides a comprehensive introduction to financial management and financial analysis. Focus is on creating shareholder value. Topics include financial modelling, the time value of money, stock and bond valuation, capital budgeting and net present value, risk and diversification, and the Capital Asset Pricing Model.\n\nThis introductory course lays out the main foundations of financial management. We begin by developing a suite of tools for converting cash flows between present and future values, which is followed by applications to stock and bond valuation and mortgages, as well as applications to the evaluation of new projects in a corporate setting. Investment diversification and a range of asset pricing models that can be used to estimate investment returns conditional on risk are also investigated.\n\nCourse Changes in Response to Previous Student Feedback\n\nMore practical/workshop style exercises and cases using Excel and Python.",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "FINM2401"
+    ],
+    "restrictions": [
+      "Restricted to students enrolled in the BAdvFinEcon(Hons)"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Stephen Gray",
+      "email": "s.gray@business.uq.edu.au",
+      "phone": "+61 7 3346 8032"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Stephen Gray"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note\n: Teaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull name\nStudent ID\nCourse Code",
+  "course_aims": "This course aims to provide you with a solid grounding in the key components of financial management. The skills developed in this course will enable students to determine the value of various financial instruments, evaluate proposed new capital investments, and determine a fair return given the risk of an investment. These skills will be further developed and expanded in subsequent courses.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Value assets and assess proposed investments by converting cash flows between present and future values."
+    },
+    {
+      "number": "LO2.",
+      "description": "Value financial instruments such as stocks and bonds and understand the markets in which they trade."
+    },
+    {
+      "number": "LO3.",
+      "description": "Determine whether a proposed new project creates value for shareholders and justify your reasoning through the application of rigorous financial analysis."
+    },
+    {
+      "number": "LO4.",
+      "description": "Implement a range of asset pricing models in order to determine a fair return given the risk of a particular investment."
+    },
+    {
+      "number": "LO5.",
+      "description": "Assess the merits of a proposed new capital investment and prepare a detailed financial analysis and report."
+    },
+    {
+      "number": "LO6.",
+      "description": "Demonstrate basic proficiency in accessing data from Bloomberg."
+    },
+    {
+      "number": "LO7.",
+      "description": "Work constructively as part of a team."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Python case project",
+      "weight": "10%",
+      "due_date": "25/03/2026 3:00 pm",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "In-Semester Exam",
+      "weight": "30%",
+      "due_date": "Week 6, Thu; During Class",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Presentation",
+      "title": "NPV case project",
+      "weight": "20%",
+      "due_date": "Report - 3PM - 29/04/2026; Presentation times arranged via Blackboard Week 10 - Week 11",
+      "conditions": [
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Efficient frontier case",
+      "weight": "10%",
+      "due_date": "27/05/2026 3:00 pm",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final exam",
+      "weight": "30%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026; The exact date of the Final Exam will be communicated via the course Blackboard site.",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Python case project",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "10%",
+      "due_date": "25/03/2026 3:00 pm",
+      "other_conditions": "Peer assessed.See the conditions definitions",
+      "learning_outcomes_assessed": "L03, L04, L05, L06, L07",
+      "task_description": "Python-Based Financial Calculations and Analysis:In a group, develop and apply Python functions to solve key financial tasks, including basic valuation computations and the analysis of historical trading strategies. Results should be concisely summarized in a PDF report, with code appended and properly documented.All materials are to be submitted electronically via Blackboard. Detailed instructions, guidelines, and supporting resources, including the peer assessment process, will be available on the course Blackboard site.AI Statement:This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
+      "submission_guidelines": "Online via Blackboard.  Only one team member is to submit.  All team member names and student numbers must appear on the cover page.\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Python-Based Financial Calculations and Analysis:In a group, develop and apply Python functions to solve key financial tasks, including basic valuation computations and the analysis of historical trading strategies. Results should be concisely summarized in a PDF report, with code appended and properly documented.All materials are to be submitted electronically via Blackboard. Detailed instructions, guidelines, and supporting resources, including the peer assessment process, will be available on the course Blackboard site.AI Statement:This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.\nTo pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In-Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "30%",
+      "due_date": "Week 6, ThuDuring Class",
+      "other_conditions": "Time limited, Secure.See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02",
+      "task_description": "The in-semester exam covers material from classes 1-4 inclusive.The exam will consist of three questions, each of which has a number of parts. Questions will cover time value of money, and valuation of stocks, bonds and mortgages. All questions will require numerical calculations.More information about the in-semester exam will be shared in class and posted to the course Blackboard site.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "exam_details": "Planning time10 minutesDuration90 minutesCalculator optionsAny calculator permittedOpen/closed bookClosed book examination - specified written materials permittedMaterialsTwo A4 pages, both sides, written or typed.Exam platformPaper basedInvigilationInvigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able todefer this exam.",
+      "deferral_or_extension": "You may be able todefer this exam.",
+      "ai_statement": "The in-semester exam covers material from classes 1-4 inclusive.The exam will consist of three questions, each of which has a number of parts. Questions will cover time value of money, and valuation of stocks, bonds and mortgages. All questions will require numerical calculations.More information about the in-semester exam will be shared in class and posted to the course Blackboard site.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "NPV case project",
+      "mode": "Oral, Written",
+      "category": "Paper/ Report/ Annotation, Presentation",
+      "weight": "20%",
+      "due_date": "Report - 3PM - 29/04/2026Presentation times arranged via Blackboard Week 10 - Week 11",
+      "other_conditions": "Peer assessed.See the conditions definitions",
+      "learning_outcomes_assessed": "L03, L05, L07",
+      "task_description": "Part 1: NPV Case SubmissionDescription:Working in teams, students will develop a regulatory financial model for a large-scale infrastructure project, encompassing both regulated and unregulated revenue streams. The objective is to ensure that investors receive a fair return on capital (the “just made whole” principle), while also conducting a full NPV analysis under chosen discount rates. Teams should compare real-world returns against regulated assumptions, incorporate relevant parameters (e.g., required returns, tax, gamma), and identify key sensitivities using data tables. A concise written report and accompanying Excel model will be submitted electronically.Part 2: NPV Project PresentationDescription:After submitting the NPV analysis, each team will deliver a 15-minute presentation summarizing their findings. This includes key financial conclusions, the impact of critical assumptions, and potential strategic considerations. The presentation should be clear, visually supported, and professional, with teams prepared to address questions regarding assumptions, regulatory conditions, and potential adjustments to improve project viability.Please Note:The presentation will be recorded for marking purposes per UQ Policy.AI Statement - both tasks:This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nExtensions or deferrals are not available for an in-class presentation. An extension may be available for the submitted material only.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\n10% Late Penalty applies to submitted material only. Late submissions are not accepted for in-class presentations. Failure to present at the scheduled time will result in a mark of zero for the presentation portion of this assessment.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Part 1: NPV Case SubmissionDescription:Working in teams, students will develop a regulatory financial model for a large-scale infrastructure project, encompassing both regulated and unregulated revenue streams. The objective is to ensure that investors receive a fair return on capital (the “just made whole” principle), while also conducting a full NPV analysis under chosen discount rates. Teams should compare real-world returns against regulated assumptions, incorporate relevant parameters (e.g., required returns, tax, gamma), and identify key sensitivities using data tables. A concise written report and accompanying Excel model will be submitted electronically.Part 2: NPV Project PresentationDescription:After submitting the NPV analysis, each team will deliver a 15-minute presentation summarizing their findings. This includes key financial conclusions, the impact of critical assumptions, and potential strategic considerations. The presentation should be clear, visually supported, and professional, with teams prepared to address questions regarding assumptions, regulatory conditions, and potential adjustments to improve project viability.Please Note:The presentation will be recorded for marking purposes per UQ Policy.AI Statement - both tasks:This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.\nTo pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.",
+      "special_indicators": [
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Efficient frontier case",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "10%",
+      "due_date": "27/05/2026 3:00 pm",
+      "other_conditions": "Peer assessed.See the conditions definitions",
+      "learning_outcomes_assessed": "L04, L06, L07",
+      "task_description": "Construction of efficient frontier using real-world data:In a group, use historical stock returns to construct an efficient frontier. Use that frontier to perform calculations about the balance of superannuation accounts. Results should be concisely summarized in a PDF report, with code appended and properly documented.All materials are to be submitted electronically via Blackboard. Detailed instructions, guidelines, and supporting resources, including the peer assessment process, will be available on the course Blackboard site.AI Statement:This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
+      "submission_guidelines": "Online via Blackboard. Only one team member is to submit. All team member names and student numbers must appear on the cover page.\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Construction of efficient frontier using real-world data:In a group, use historical stock returns to construct an efficient frontier. Use that frontier to perform calculations about the balance of superannuation accounts. Results should be concisely summarized in a PDF report, with code appended and properly documented.All materials are to be submitted electronically via Blackboard. Detailed instructions, guidelines, and supporting resources, including the peer assessment process, will be available on the course Blackboard site.AI Statement:This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.\nTo pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-4",
+      "title": "Final exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "30%",
+      "due_date": "End of Semester Exam Period6/06/2026 - 20/06/2026The exact date of the Final Exam will be communicated via the course Blackboard site.",
+      "other_conditions": "Time limited, Secure.See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "The final-term exam will cover all of the course material, but with a bias towards topics that were covered after the in-semester exam. All questions will require numerical calculations.Further detail will be provided on Blackboard.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "exam_details": "Planning time10 minutesDuration120 minutesCalculator options(In person) Casio FX82 series only or UQ approved and labelled calculatorOpen/closed bookClosed book examination - specified written materials permittedMaterialsTwo A4 pages of notes, written or typed, both sides.Exam platformPaper basedInvigilationInvigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able todefer this exam.",
+      "deferral_or_extension": "You may be able todefer this exam.",
+      "ai_statement": "The final-term exam will cover all of the course material, but with a bias towards topics that were covered after the in-semester exam. All questions will require numerical calculations.Further detail will be provided on Blackboard.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on theUQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Lecture",
+      "topic": "Present value mechanics IPresent value, future value, annuities, perpetuities, compound interest.Learning outcomes:L01, L06",
+      "learning_outcomes": [
+        "L01",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Tutorial",
+      "topic": "T1 - Excel basics - optional help sessionLearning outcomes:L01, L06",
+      "learning_outcomes": [
+        "L01",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Lecture",
+      "topic": "Present value mechanics IIAdvanced present value calculations.Learning outcomes:L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Tutorial",
+      "topic": "T2 - Present Value MechanicsLearning outcomes:L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Lecture",
+      "topic": "Bond valuation and credit ratingsLearning outcomes:L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Tutorial",
+      "topic": "T3 - Bond Valuation and Credit RatingsLearning outcomes:L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Lecture",
+      "topic": "Stock valuationLearning outcomes:L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Tutorial",
+      "topic": "T4 - Stock ValuationLearning outcomes:L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Lecture",
+      "topic": "Net present value and in-semester exam reviewLearning outcomes:L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Tutorial",
+      "topic": "T5 - In-Semester Exam ReviewLearning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Lecture",
+      "topic": "In-Semester Exam"
+    },
+    {
+      "learning_period": "Mid-sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "In-Semester break"
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Tutorial",
+      "topic": "T6 Case assignment helpLearning outcomes:L03, L05, L07",
+      "learning_outcomes": [
+        "L03",
+        "L05",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Lecture",
+      "topic": "NPV case help sessionLearning outcomes:L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Tutorial",
+      "topic": "T7 Case assignment help"
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Lecture",
+      "topic": "Stock return dynamics and investor utilityNo Classes - Working on Case Study AssignmentLearning outcomes:L03, L05, L07",
+      "learning_outcomes": [
+        "L03",
+        "L05",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Tutorial",
+      "topic": "T8 Stock return dynamics and investor utilityLearning outcomes:L03, L05, L07",
+      "learning_outcomes": [
+        "L03",
+        "L05",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Lecture",
+      "topic": "Portfolio mechanics and the efficient frontierLearning outcomes:L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Tutorial",
+      "topic": "T9: Portfolio mechanics and the efficient frontierLabour Day Public Holiday - Monday 4th May 2026- Check Blackboard for announcements about affected classes.Learning outcomes:L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Lecture",
+      "topic": "The Capital Asset Pricing ModelPortfolio diversification.Learning outcomes:L03, L05, L07",
+      "learning_outcomes": [
+        "L03",
+        "L05",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Tutorial",
+      "topic": "No tutorials - team case presentationsLearning outcomes:L04, L07",
+      "learning_outcomes": [
+        "L04",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Lecture",
+      "topic": "No lecture - team case presentationsPresentation times to be arranged via Blackboard.Learning outcomes:L04, L05, L07",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Tutorial",
+      "topic": "T10: The Capital Asset Pricing ModelPresentation times to be arranged via Blackboard.Learning outcomes:L04, L07",
+      "learning_outcomes": [
+        "L04",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Lecture",
+      "topic": "CAPM parameter estimationLearning outcomes:L06",
+      "learning_outcomes": [
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Tutorial",
+      "topic": "T11: CAPM parameter estimationLearning outcomes:L06",
+      "learning_outcomes": [
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Lecture",
+      "topic": "Review session"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the:Student Code of Conduct PolicyStudent Integrity and Misconduct PolicyandProcedureAssessment ProcedureExaminations ProcedureReasonable Adjustments for Students PolicyandProcedureAI for Assessment GuideLearn more about UQ policies onmy.UQand thePolicy and Procedure Library.Learning activities"
+}

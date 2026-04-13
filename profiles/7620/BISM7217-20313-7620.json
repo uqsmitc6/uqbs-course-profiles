@@ -1,0 +1,411 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BISM7217-20313-7620",
+  "scraped_at": "2026-04-13T11:12:57.469853+00:00",
+  "course_code": "BISM7217",
+  "class_code": "20313",
+  "semester_code": "7620",
+  "full_course_code": "BISM7217-20313-7620",
+  "course_title": "Machine Learning for Analysis",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "In this course, students will analyse real-world data using advanced Machine Learning (ML) techniques. The course will be hands-on, with an emphasis on technical aspects so that students learn how analysts apply ML to improve business decision-making.\n\nThis course is an advanced course concerned with machine learning (ML), which refers to the ways in which enterprises such as businesses, non-profits, and governments can use data to gain insights and make better decisions. With the increasing availability of broad and deep sources of data, ML is becoming an even more critical capability for enterprises of all types and all sizes. The ability to use data effectively to drive timely, precise and profitable decisions has been a critical strategic advantage for companies and is in high demand in the industry.\n\nIn this course, students will learn state-of-art techniques and critical skills to address existing business problems in today’s data-rich environments. The course will be hands-on and the emphasis will be placed on the know-how aspect - how to extract and apply ML to improve business decision-making. This course analyses real-world business data using advanced ML techniques. We use Python to develop and test advanced predictive and descriptive models.\n\nIn particular, this course covers techniques and skills related to:\n\nIn addition to these techniques, the course will provide business insights from several market leaders, offering a practical context for the concepts covered.\n\nPrior programming experience is not required, as the course will begin with foundational Python skills tailored for ML applications. From there, we will delve deeper into ML concepts and techniques.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "BISM7233",
+      "INFS7233"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "BISM3206",
+      "MGTS3206",
+      "MGTS7217"
+    ],
+    "restrictions": [
+      "Quota: Minimum of 15 enrolments"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Morteza Namvar",
+      "email": "bism7217@business.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Mr James Boyce"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Mr Hetiao (Slim) Xie"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note\n: Teaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull name\nStudent ID\nCourse Code",
+  "course_aims": "This course aims to train you to extract patterns in vast amounts of data and discover actionable insights and equip you with machine learning (ML) skills highly valuedﾠin the current job market. Specifically, this course has three goals. The first is to help you think critically about data and the analyses based on those data - whether conducted by you or someone else. The second is to enable you to identify opportunities for creating value using ML. The third is to help you estimate the value created using MLﾠto address an opportunity. Machine Learning is an integral part of modern management - this course should provide you with the foundation you need to understand and apply these methods to derive value.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Enhance knowledge and skills in the current trends in the management and use of machine learning (ML)."
+    },
+    {
+      "number": "LO2.",
+      "description": "Build your ML capabilities to use data for innovative business solutions."
+    },
+    {
+      "number": "LO3.",
+      "description": "Differentiate, design, and assess various ML models."
+    },
+    {
+      "number": "LO4.",
+      "description": "Implement efficient ML strategies to solve current business problems."
+    },
+    {
+      "number": "LO5.",
+      "description": "Identify and translate real-world business problems into ML models."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "ML Mastery Quizzes",
+      "weight": "15%",
+      "due_date": "Week 2 Mon - Week 9 Fri; During Tutorials",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "In Semester Exam - Essential ML",
+      "weight": "40%",
+      "due_date": "In-semester Saturday; 27/03/2026 - 3/05/2026",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Project",
+      "title": "Jupyter Lifecycle Mastery in ML Project",
+      "weight": "45%",
+      "due_date": "Progress Check 1 - During Tutorial Week 11,; Progress Check 2 - During Tutorial Week 12,; Final Submission Week 13, Fri 3:00 pm; Progress Checks are during your tutorial in the allocated weeks."
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "ML Mastery Quizzes",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "15%",
+      "due_date": "Week 2 Mon - Week 9 FriDuring Tutorials",
+      "other_conditions": "Time limited.See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Eight quizzes will be given during tutorials in weeks 2-9 of the semester. Attendance in your tutorial class is mandatory for quiz participation. A missed quiz will result in a score of zero. Your final quiz grade will be based on your five highest quiz scores. This allows for three missed quizzes without affecting your final grade.AI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThere are no extensions or deferral's for this activity as the best 5 of 8 attempts are used, a missed quiz will be marked as 0.\nLate submission\nExams submitted after the end of the submission time will incur alate penalty.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
+      "ai_statement": "Eight quizzes will be given during tutorials in weeks 2-9 of the semester. Attendance in your tutorial class is mandatory for quiz participation. A missed quiz will result in a score of zero. Your final quiz grade will be based on your five highest quiz scores. This allows for three missed quizzes without affecting your final grade.AI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In Semester Exam - Essential ML",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "In-semester Saturday27/03/2026 - 3/05/2026",
+      "other_conditions": "Time limited, Secure.See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "The Essential ML Exam thoroughly assesses your knowledge and skills in modules 1, 2, and 3 encompassing theoretical foundations and practical implementation of machine learning (ML) techniques.Comprising two parts, the first involves multiple-choice questions gauging your adeptness in handling data within Jupyter Notebooks, a crucial skill for robust ML model construction. It specifically evaluates your capability to import raw datasets and utilize libraries like Pandas to effectively clean and pre-process data.The second part evaluates your comprehension of fundamental concepts, including classification, clustering, and their evaluation. Proficiency in model evaluation, hyperparameter tuning, and problem-solving is expected to be demonstrated.The In-Semester Exam takes place during the Saturday In-Semester Exam Period.The exam date will be confirmed when the Saturday In-Semester Exam timetable is released.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "exam_details": "Planning time10 minutesDuration90 minutesCalculator optionsNo calculators permittedOpen/closed bookClosed book examination - no written materials permittedExam platformPaper basedInvigilationInvigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able todefer this exam.",
+      "deferral_or_extension": "You may be able todefer this exam.",
+      "ai_statement": "The Essential ML Exam thoroughly assesses your knowledge and skills in modules 1, 2, and 3 encompassing theoretical foundations and practical implementation of machine learning (ML) techniques.Comprising two parts, the first involves multiple-choice questions gauging your adeptness in handling data within Jupyter Notebooks, a crucial skill for robust ML model construction. It specifically evaluates your capability to import raw datasets and utilize libraries like Pandas to effectively clean and pre-process data.The second part evaluates your comprehension of fundamental concepts, including classification, clustering, and their evaluation. Proficiency in model evaluation, hyperparameter tuning, and problem-solving is expected to be demonstrated.The In-Semester Exam takes place during the Saturday In-Semester Exam Period.The exam date will be confirmed when the Saturday In-Semester Exam timetable is released.AI Statement:This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Jupyter Lifecycle Mastery in ML Project",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Computer Code, Project",
+      "weight": "45%",
+      "due_date": "Progress Check 1 - During Tutorial Week 11,Progress Check 2 - During Tutorial Week 12,Final Submission Week 13, Fri 3:00 pmProgress Checks are during your tutorial in the allocated weeks.",
+      "other_conditions": "Longitudinal.See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "This individual assignment provides a comprehensive opportunity for hands-on engagement with the entire lifecycle of an ML project. The primary objective is to gain practical experience in the sequential processes of conceptualizing, constructing, evaluating, refining, and ultimately presenting an ML model. The assignment is designed to enhance your proficiency in utilizing Jupyter Notebook as the exclusive platform for model development.Throughout this project, you will delve into the intricacies of data pre-processing, model selection, and hyperparameter tuning to craft robust and effective ML models. Emphasis will be placed on understanding the iterative nature of model refinement, as you work to enhance the model's performance based on evaluation metrics.The deliverable for this assignment is the Jupyter Notebook containing your entire workflow. This serves as a testament to your skills in model development and showcases your understanding of the practical applications of ML in a business context. This assignment aims to equip you with practical insights and skills that can be directly applied in real-world scenarios, fostering a holistic understanding of the ML project lifecycle.Progress Checks:To receive full marks in the assignment, you are required to successfully complete two progress checks during your enrolled tutorial sessions. There is no alternative for the progress checks.If you successfully complete the progress checks, you can earn full marks for the assignment. However, if you miss one or both progress checks, you will lose the opportunity to earn full marks.For example, to earn full marks for the data exploration part of the assignment, your work must be deemed \"very good,\" and you must have completed Progress Check 1. If your data exploration work meets the \"very good\" criteria but you have not completed Progress Check 1, you will only receive 90% of the total marks allocated for data exploration. Conversely, if you have completed Progress Check 1, you will receive 100% of the allocated marks.AI Statement:Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.Students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "The assignment must be submitted electronically through the Blackboard Assessment link.\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This individual assignment provides a comprehensive opportunity for hands-on engagement with the entire lifecycle of an ML project. The primary objective is to gain practical experience in the sequential processes of conceptualizing, constructing, evaluating, refining, and ultimately presenting an ML model. The assignment is designed to enhance your proficiency in utilizing Jupyter Notebook as the exclusive platform for model development.Throughout this project, you will delve into the intricacies of data pre-processing, model selection, and hyperparameter tuning to craft robust and effective ML models. Emphasis will be placed on understanding the iterative nature of model refinement, as you work to enhance the model's performance based on evaluation metrics.The deliverable for this assignment is the Jupyter Notebook containing your entire workflow. This serves as a testament to your skills in model development and showcases your understanding of the practical applications of ML in a business context. This assignment aims to equip you with practical insights and skills that can be directly applied in real-world scenarios, fostering a holistic understanding of the ML project lifecycle.Progress Checks:To receive full marks in the assignment, you are required to successfully complete two progress checks during your enrolled tutorial sessions. There is no alternative for the progress checks.If you successfully complete the progress checks, you can earn full marks for the assignment. However, if you miss one or both progress checks, you will lose the opportunity to earn full marks.For example, to earn full marks for the data exploration part of the assignment, your work must be deemed \"very good,\" and you must have completed Progress Check 1. If your data exploration work meets the \"very good\" criteria but you have not completed Progress Check 1, you will only receive 90% of the total marks allocated for data exploration. Conversely, if you have completed Progress Check 1, you will receive 100% of the allocated marks.AI Statement:Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.Students must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nArtificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.\nStudents must clearly reference any use of AI in each instance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find therequired and recommended resourcesfor this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Lecture",
+      "topic": "Introduction to ML and PythonLearning outcomes:L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Lecture",
+      "topic": "Python coding for MLLearning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Tutorial",
+      "topic": "Data Types, Loops, and Conditionals in Python + Quiz 1Learning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Lecture",
+      "topic": "Cluster analysisLearning outcomes:L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Tutorial",
+      "topic": "k-Means in Python + Quiz 2Learning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Lecture",
+      "topic": "ClassificationLearning outcomes:L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Tutorial",
+      "topic": "Basic classifiers in Python + Quiz 3Learning outcomes:L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Lecture",
+      "topic": "Classification evaluationLearning outcomes:L02, L03, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Tutorial",
+      "topic": "Cross Validation in Python + Quiz 4Learning outcomes:L02, L03, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Lecture",
+      "topic": "Other classification techniquesLearning outcomes:L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Tutorial",
+      "topic": "SVM, XGBoost, NB and KNN in Python + Quiz 5Learning outcomes:L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "In-Semester Break"
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Lecture",
+      "topic": "Text preparation for MLLearning outcomes:L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Tutorial",
+      "topic": "Text processing in Python + Quiz 6Learning outcomes:L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Lecture",
+      "topic": "Text-Driven MLLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Tutorial",
+      "topic": "ML using text in Python + Quiz 7Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Lecture",
+      "topic": "Artificial Neural Networks + Quiz 8Learning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Tutorial",
+      "topic": "Backpropagation in PythonLearning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Lecture",
+      "topic": "Deep Learning (DL)Learning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Tutorial",
+      "topic": "DL implementationLearning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Lecture",
+      "topic": "Foundation of LLMsLearning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Tutorial",
+      "topic": "Assignment Progress Check 1 + Prompt EngineeringLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Lecture",
+      "topic": "Agentic AI with LLMsLearning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Tutorial",
+      "topic": "Assignment Progress Check 2 + LLM Agents Design ThinkingLearning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Lecture",
+      "topic": "LLM Agents in PracticeLearning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Tutorial",
+      "topic": "LLM Agents ImplementationLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the:Student Code of Conduct PolicyStudent Integrity and Misconduct PolicyandProcedureAssessment ProcedureExaminations ProcedureReasonable Adjustments for Students PolicyandProcedureAI for Assessment GuideLearn more about UQ policies onmy.UQand thePolicy and Procedure Library.Learning activities"
+}
