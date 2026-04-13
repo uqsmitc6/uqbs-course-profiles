@@ -424,25 +424,45 @@ def _extract_contacts(soup: BeautifulSoup, profile: dict):
 
 
 def _extract_staff(soup: BeautifulSoup, profile: dict):
-    """Extract course staff section (separate from contacts)."""
+    """Extract course staff section (separate from contacts).
+
+    The staff section uses a different layout to contacts:
+      <div class="staff-cards">
+        <h3 class="staff-cards__role">Lecturer</h3>
+        <div class="staff-cards__cards">
+          <article class="contact-card">...</article>
+        </div>
+      </div>
+    The role heading is a sibling above the cards group, not inside
+    each card.
+    """
     section = soup.find(id="course-staff")
     if not section:
         return
 
     staff = []
-    for card in section.select(".contact-card, article"):
-        person = {}
-        role_el = card.select_one(".contact-card__role-heading, h3")
-        if role_el:
-            person["role"] = role_el.get_text(strip=True)
-        name_el = card.select_one(".contact-card__name")
-        if name_el:
-            person["name"] = name_el.get_text(strip=True)
-        email_el = card.select_one("a[href^='mailto:']")
-        if email_el:
-            person["email"] = email_el.get_text(strip=True)
-        if any(person.values()):
-            staff.append(person)
+    seen = set()
+
+    for group in section.select(".staff-cards"):
+        role_el = group.select_one(".staff-cards__role, h3")
+        role = role_el.get_text(strip=True) if role_el else ""
+
+        for card in group.select("article.contact-card"):
+            person = {}
+            if role:
+                person["role"] = role
+            name_el = card.select_one(".contact-card__name")
+            if name_el:
+                person["name"] = name_el.get_text(strip=True)
+            email_el = card.select_one("a[href^='mailto:']")
+            if email_el:
+                person["email"] = email_el.get_text(strip=True)
+
+            # Deduplicate by name + email
+            key = (person.get("name", ""), person.get("email", ""))
+            if key not in seen and any(person.values()):
+                seen.add(key)
+                staff.append(person)
 
     if staff:
         profile["course_staff"] = staff
@@ -463,7 +483,14 @@ def _extract_timetable(soup: BeautifulSoup, profile: dict):
 
 
 def _extract_aims(soup: BeautifulSoup, profile: dict):
-    """Extract the course aims statement."""
+    """Extract the course aims statement.
+
+    The aims text can appear in two forms:
+      - Wrapped in <p> or <div> tags (e.g. MGTS1601)
+      - As bare text nodes directly inside the <section> (e.g. ACCT1101
+        where the server HTML has: <p></p>Text content here.)
+    Both forms appear before the learning outcomes <section>.
+    """
     section = soup.find(id="aim-and-outcomes--section")
     if not section:
         # Try just aim-and-outcomes
@@ -471,14 +498,25 @@ def _extract_aims(soup: BeautifulSoup, profile: dict):
     if not section:
         return
 
-    # The aims text is usually in paragraphs before the learning outcomes section
+    # Collect aims text from children before the learning outcomes section.
     aims_parts = []
     for child in section.children:
-        if isinstance(child, NavigableString):
-            continue
         if child.name == "section":
             # Hit the learning outcomes sub-section, stop
             break
+
+        # Bare text nodes (NavigableString) — some pages put the aims
+        # text directly in the section without wrapping tags.
+        if isinstance(child, NavigableString):
+            text = child.strip()
+            if text and len(text) > 10:
+                aims_parts.append(text)
+            continue
+
+        # Skip headings
+        if child.name in ("h2", "h3"):
+            continue
+
         if child.name in ("p", "div"):
             text = child.get_text(strip=True)
             if text and text.lower() != "aims and outcomes" and len(text) > 10:
@@ -594,12 +632,34 @@ def _extract_assessment(soup: BeautifulSoup, profile: dict):
         for row in summary_table.select("tbody tr"):
             cells = row.find_all("td")
             if len(cells) >= 4:
+                # Title cell may contain an <a> tag followed by an
+                # icon-list <ul> with indicators (e.g. "Identity Verified",
+                # "In-person", "Team or group-based"). Extract just the
+                # link text for the title.
+                title_link = cells[1].find("a")
+                title = (title_link.get_text(strip=True)
+                         if title_link
+                         else cells[1].get_text(strip=True))
+
+                # Special indicators from the icon-list
+                indicators = []
+                icon_list = cells[1].find("ul", class_="icon-list")
+                if icon_list:
+                    for li in icon_list.find_all("li"):
+                        indicators.append(li.get_text(strip=True))
+
+                # Due date cell may have multiple <p> tags
+                due_date = cells[3].get_text(separator="; ", strip=True)
+
                 item = {
                     "category": cells[0].get_text(strip=True),
-                    "title": cells[1].get_text(strip=True),
+                    "title": title,
                     "weight": cells[2].get_text(strip=True),
-                    "due_date": cells[3].get_text(strip=True),
+                    "due_date": due_date,
                 }
+                if indicators:
+                    item["conditions"] = indicators
+
                 summary.append(item)
 
     if summary:
