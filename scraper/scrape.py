@@ -491,10 +491,22 @@ def _extract_aims(soup: BeautifulSoup, profile: dict):
 def _extract_learning_outcomes(soup: BeautifulSoup, profile: dict):
     """Extract learning outcomes with number and description.
 
-    The page structure can vary:
-      - All LOs inside a single .learning-outcome-wrapper div, with
-        alternating <p><strong>LO1.</strong></p> <p>description</p> <p></p>
-      - Or one .learning-outcome-wrapper per LO (older layout)
+    The page structure varies between server-sent HTML and browser-rendered
+    DOM.  Two known layouts:
+
+      Layout A (server raw HTML — what requests.get() receives):
+        <p><strong>LO1.</strong> Description text here.</p>
+        <p><strong>LO2.</strong> Description text here.</p>
+        i.e. the LO number and description are in the SAME <p>.
+
+      Layout B (browser-rendered DOM after JS):
+        <p><strong>LO1.</strong> </p>
+        <p>Description text here.</p>
+        <p></p>
+        i.e. the LO number and description are in SEPARATE <p> tags.
+
+    Strategy 1 handles both by checking the same <p> first, then falling
+    back to sibling walking.
     """
     section = soup.find(id="learning-outcomes")
     if not section:
@@ -502,9 +514,7 @@ def _extract_learning_outcomes(soup: BeautifulSoup, profile: dict):
 
     outcomes = []
 
-    # Strategy 1: Find all <strong> tags that look like LO numbers,
-    # then grab the next non-empty paragraph as the description.
-    # This handles both single-wrapper and multi-wrapper layouts.
+    # Strategy 1: Find all <strong> tags that look like LO numbers.
     lo_strongs = section.find_all(
         "strong", string=re.compile(r"^LO\d+\.?$")
     )
@@ -513,27 +523,35 @@ def _extract_learning_outcomes(soup: BeautifulSoup, profile: dict):
         for strong in lo_strongs:
             number = strong.get_text(strip=True)
             description = ""
-
-            # The description is typically in the next <p> sibling
-            # (may be sibling of the <p> containing the <strong>).
-            # But we must skip <p> tags that are themselves an LO number
-            # (i.e. contain only a <strong>LO\d+.</strong>).
             parent_p = strong.find_parent("p")
+
+            # --- Try same-<p> extraction first (Layout A) ---
+            # If the <p> contains both the <strong> and description text,
+            # strip the LO number prefix to get the description.
             if parent_p:
+                full_text = parent_p.get_text(strip=True)
+                same_p_desc = re.sub(r"^LO\d+\.?\s*", "", full_text).strip()
+                if same_p_desc:
+                    description = same_p_desc
+
+            # --- Fall back to sibling walk (Layout B) ---
+            # If the same <p> only contained the LO number, look for
+            # the description in the next non-empty sibling <p>.
+            if not description and parent_p:
                 sibling = parent_p.find_next_sibling()
                 while sibling:
                     if sibling.name == "p":
                         text = sibling.get_text(strip=True)
                         # Skip empty paragraphs and LO-number-only paragraphs
-                        if text and not re.match(r"^LO\d+\.?$", text):
+                        if text and not re.match(r"^LO\d+\.?\s*$", text):
                             description = text
                             break
                     sibling = sibling.find_next_sibling()
 
-            # Fallback: description may be in the same <p> after the <strong>
-            if not description:
-                full_text = parent_p.get_text(strip=True) if parent_p else ""
-                description = full_text.replace(number, "", 1).strip()
+            # Safety: strip any stray leading LO prefix from the description
+            # (handles edge cases where text starts with "LO2.Apply...")
+            if description:
+                description = re.sub(r"^LO\d+\.?\s*", "", description).strip()
 
             if description:
                 outcomes.append({"number": number, "description": description})
