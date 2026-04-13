@@ -1,0 +1,76 @@
+name: UQBS Course Profile Scrape
+
+on:
+  # Weekly schedule: every Sunday at 9pm AEST (11:00 UTC)
+  schedule:
+    - cron: '0 11 * * 0'
+
+  # Manual trigger with options
+  workflow_dispatch:
+    inputs:
+      semester:
+        description: 'Semester code to scrape (e.g. 7620 for Sem 1 2026). Leave blank for all current.'
+        required: false
+        type: string
+      courses:
+        description: 'Specific course codes (space-separated, e.g. MGTS1601 ACCT1101). Leave blank for all UQBS.'
+        required: false
+        type: string
+      max_courses:
+        description: 'Max courses to scrape (for testing). Leave blank for all.'
+        required: false
+        type: string
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120  # 2 hours should be plenty for ~308 courses
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Run scraper
+        run: |
+          ARGS=""
+          if [ -n "${{ inputs.semester }}" ]; then
+            ARGS="$ARGS --semester ${{ inputs.semester }}"
+          fi
+          if [ -n "${{ inputs.courses }}" ]; then
+            ARGS="$ARGS --courses ${{ inputs.courses }}"
+          fi
+          if [ -n "${{ inputs.max_courses }}" ]; then
+            ARGS="$ARGS --max ${{ inputs.max_courses }}"
+          fi
+          python scraper/scrape.py $ARGS
+
+      - name: Commit and push updated profiles
+        run: |
+          git config user.name "UQBS Scraper Bot"
+          git config user.email "uqbs-scraper[bot]@users.noreply.github.com"
+          git add profiles/
+          # Only commit if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+            PROFILE_COUNT=$(find profiles/ -name "*.json" | wc -l)
+            git commit -m "Scrape update: ${PROFILE_COUNT} profiles as at ${TIMESTAMP}"
+            git push
+          fi
+
+      - name: Upload scrape logs as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scrape-logs-${{ github.run_id }}
+          path: logs/
+          retention-days: 30

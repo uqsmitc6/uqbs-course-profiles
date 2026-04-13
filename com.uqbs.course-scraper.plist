@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  macOS launchd schedule for UQBS Course Profile Scraper.
+
+  To install:
+    1. Edit the ProgramArguments path below to match your repo location
+    2. Copy to ~/Library/LaunchAgents/
+    3. Load:  launchctl load ~/Library/LaunchAgents/com.uqbs.course-scraper.plist
+    4. Check: launchctl list | grep uqbs
+
+  To unload:
+    launchctl unload ~/Library/LaunchAgents/com.uqbs.course-scraper.plist
+
+  Schedule: Sundays at 9:00 PM AEST (runs when Mac is awake)
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.uqbs.course-scraper</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <!-- UPDATE THIS PATH to your local repo location -->
+        <string>/Users/uqsmitc6_local/Documents/uqbs-course-profiles/run_scrape.sh</string>
+        <string>--push</string>
+    </array>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+        <!-- Sunday = 0, 21:00 local time -->
+        <key>Weekday</key>
+        <integer>0</integer>
+        <key>Hour</key>
+        <integer>21</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>/tmp/uqbs-scraper.log</string>
+    <key>StandardErrorPath</key>
+    <string>/tmp/uqbs-scraper-error.log</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/usr/local/bin:/usr/bin:/bin:/opt/homebrew/bin</string>
+    </dict>
+</dict>
+</plist>

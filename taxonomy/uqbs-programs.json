@@ -1,0 +1,3899 @@
+{
+  "_metadata": {
+    "description": "UQBS course-to-program mapping for JacSON viewer",
+    "source": "UQBS GA Mapping, AoL, Typologies spreadsheet",
+    "generated": "2026-04-13",
+    "total_courses": 308,
+    "total_programs": 14,
+    "total_mappings": 436
+  },
+  "programs": {
+    "BBusMan": {
+      "name": "Bachelor of Business Management",
+      "level": "UG",
+      "core": [
+        "ACCT1101",
+        "BISM1201",
+        "ECON1011",
+        "FINM1416",
+        "LAWS1100",
+        "MGTS1301",
+        "MGTS1601",
+        "MKTG1501"
+      ],
+      "majors": {
+        "Marketing": [
+          "ADVT3509",
+          "MKTG2501",
+          "MKTG2508",
+          "MKTG2509",
+          "MKTG2510",
+          "MKTG3501",
+          "MKTG3504",
+          "MKTG3506"
+        ],
+        "BIS": [
+          "BISM2202",
+          "BISM2203",
+          "BISM2206",
+          "BISM2207",
+          "BISM2208",
+          "BISM3205",
+          "BISM3206",
+          "BISM3208",
+          "BISM3222"
+        ],
+        "Leadership": [
+          "BSAN2201",
+          "DECO1100",
+          "ECON2060",
+          "MGTS2603",
+          "MGTS2606",
+          "MGTS3602",
+          "MGTS3605",
+          "MGTS3610",
+          "PSYC3052"
+        ],
+        "Business Economics": [
+          "ECON2070",
+          "ECON2410",
+          "ECON2420",
+          "ECON2540",
+          "ECON3210",
+          "ECON3430",
+          "ECON3440",
+          "ECON3820"
+        ],
+        "IB": [
+          "IBUS2301",
+          "IBUS2302",
+          "IBUS2309",
+          "IBUS3303",
+          "IBUS3306",
+          "IBUS3310",
+          "MGTS3301",
+          "MGTS3606"
+        ],
+        "HR": [
+          "MGTS2604",
+          "MGTS2607",
+          "MGTS2609",
+          "MGTS3601",
+          "MGTS3603",
+          "MGTS3604",
+          "MGTS3607",
+          "MGTS3609"
+        ],
+        "I&E": [
+          "TIMS1301",
+          "TIMS2301",
+          "TIMS2302",
+          "TIMS3302",
+          "TIMS3304",
+          "TIMS3309",
+          "TIMS3310",
+          "TIMS3311"
+        ]
+      }
+    },
+    "BTHEM": {
+      "name": "Bachelor of Tourism, Hospitality and Event Management",
+      "level": "UG",
+      "core": [
+        "ACCT1101",
+        "BISM1201",
+        "LAWS1100",
+        "MGTS1301",
+        "TOUR1000",
+        "TOUR1002",
+        "TOUR1003",
+        "TOUR1004"
+      ],
+      "majors": {
+        "HHM": [
+          "HOSP2001",
+          "HOSP2003",
+          "HOSP2005",
+          "HOSP2006",
+          "HOSP3000",
+          "HOSP3004",
+          "HOSP3005",
+          "TOUR3008"
+        ],
+        "TEM": [
+          "TRVT2000",
+          "TRVT2001",
+          "TRVT2002",
+          "TRVT2003",
+          "TRVT3001",
+          "TRVT3002",
+          "TRVT3003",
+          "TRVT3004"
+        ]
+      }
+    },
+    "BCom": {
+      "name": "Bachelor of Commerce",
+      "level": "UG",
+      "core": [
+        "ACCT1102",
+        "ACCT1110",
+        "BISM1201",
+        "ECON1011",
+        "ECON1310",
+        "FINM1415",
+        "LAWS1100",
+        "MGTS1301"
+      ],
+      "majors": {
+        "Accounting": [
+          "ACCT2102",
+          "ACCT2110",
+          "ACCT3101",
+          "ACCT3103",
+          "ACCT3104",
+          "ACCT3106",
+          "LAWS3100",
+          "LAWS3101"
+        ],
+        "BIS": [
+          "BISM2202",
+          "BISM2203",
+          "BISM2206",
+          "BISM2207",
+          "BISM2208",
+          "BISM3205",
+          "BISM3206",
+          "BISM3208",
+          "BISM3222"
+        ],
+        "BSAN": [
+          "BSAN2201",
+          "BSAN2204",
+          "BSAN2205",
+          "BSAN3204",
+          "BSAN3209",
+          "BSAN3210",
+          "BSAN3212",
+          "BSAN4204"
+        ],
+        "Finance": [
+          "ECON2300",
+          "ECON3210",
+          "FINM2415",
+          "FINM2416",
+          "FINM3403",
+          "FINM3404",
+          "FINM3405",
+          "FINM3406",
+          "FINM3407"
+        ]
+      }
+    },
+    "BAFE": {
+      "name": "Bachelor of Advanced Finance and Economics",
+      "level": "UG",
+      "core": [
+        "ACCT1111",
+        "ACCT2111",
+        "ACCT2114",
+        "ECON1050",
+        "ECON1310",
+        "ECON2011",
+        "ECON2021",
+        "ECON2030",
+        "ECON2040",
+        "ECON2050",
+        "ECON2300",
+        "ECON3210",
+        "ECON3350",
+        "FINM2411",
+        "FINM3403",
+        "FINM3411",
+        "FINM3412",
+        "FINM3414",
+        "FINM3422"
+      ],
+      "majors": {
+        "General Pathway Flexible Core": [
+          "ECON3010",
+          "ECON3020",
+          "ECON3200",
+          "ECON3360",
+          "ECON3440",
+          "ECON3450",
+          "ECON3460",
+          "ECON3520",
+          "ECON3700",
+          "ECON4390",
+          "FINM3400",
+          "FINM3405",
+          "FINM3406",
+          "FINM3407",
+          "FINM3421",
+          "FINM4412",
+          "FINM4413",
+          "FINM4414"
+        ],
+        "General Pathway Courses": [
+          "FINM4411",
+          "RBUS4411"
+        ]
+      }
+    },
+    "BAB": {
+      "name": "Bachelor of Advanced Business",
+      "level": "UG",
+      "core": [
+        "ACCT1112",
+        "ACCT2112",
+        "ACCT2113",
+        "BISM1201",
+        "BSAN2201",
+        "ECON2012",
+        "ECON2022",
+        "FINM2412",
+        "IBUS2301",
+        "LAWS1100",
+        "MGTS2301",
+        "MGTS2604",
+        "MGTS4602",
+        "MKTG1501",
+        "RBUS3900",
+        "TIMS1301"
+      ],
+      "majors": {
+        "Accounting": [
+          "ACCT2110",
+          "ACCT3101",
+          "ACCT3103",
+          "ACCT3104",
+          "ACCT3106",
+          "ACCT4101",
+          "ECON1310",
+          "LAWS3100",
+          "LAWS3101"
+        ],
+        "Marketing": [
+          "ADVT3509",
+          "MKTG2501",
+          "MKTG2508",
+          "MKTG2509",
+          "MKTG2510",
+          "MKTG3501",
+          "MKTG3504",
+          "MKTG3506",
+          "MKTG4501"
+        ],
+        "BIS": [
+          "BISM2202",
+          "BISM2203",
+          "BISM2206",
+          "BISM2207",
+          "BISM2208",
+          "BISM3205",
+          "BISM3206",
+          "BISM3222",
+          "BISM4203"
+        ],
+        "BSAN": [
+          "BSAN2204",
+          "BSAN2205",
+          "BSAN3204",
+          "BSAN3209",
+          "BSAN3210",
+          "BSAN3212",
+          "BSAN4201",
+          "BSAN4204"
+        ],
+        "Finance": [
+          "ECON3210",
+          "FINM2415",
+          "FINM2416",
+          "FINM3403",
+          "FINM3404",
+          "FINM3405",
+          "FINM3406",
+          "FINM3407",
+          "FINM4401"
+        ],
+        "IB": [
+          "IBUS2302",
+          "IBUS2309",
+          "IBUS3303",
+          "IBUS3306",
+          "IBUS3310",
+          "IBUS4301",
+          "MGTS3301",
+          "MGTS3606"
+        ],
+        "HR": [
+          "MGTS2607",
+          "MGTS2609",
+          "MGTS3601",
+          "MGTS3603",
+          "MGTS3604",
+          "MGTS3607",
+          "MGTS3609",
+          "MGTS4603"
+        ],
+        "I&E": [
+          "TIMS2301",
+          "TIMS2302",
+          "TIMS3302",
+          "TIMS3304",
+          "TIMS3309",
+          "TIMS3310",
+          "TIMS3311",
+          "TIMS4303"
+        ]
+      }
+    },
+    "Elective": {
+      "name": "Elective (cross-program)",
+      "level": "UG",
+      "core": [
+        "ACCT2103",
+        "RBUS3999",
+        "RBUS4999"
+      ],
+      "majors": {}
+    },
+    "Grad Dip": {
+      "name": "Graduate Diploma in Business Research Methods",
+      "level": "PG",
+      "core": [],
+      "majors": {
+        "BRM Electives": [
+          "ACCT6101",
+          "ACCT6102",
+          "ACCT6104"
+        ]
+      }
+    },
+    "MCom": {
+      "name": "Master of Commerce",
+      "level": "PG",
+      "core": [
+        "ACCT7101",
+        "BISM7202",
+        "ECON7002",
+        "FINM7401"
+      ],
+      "majors": {
+        "Professional Accounting": [
+          "ACCT7102",
+          "ACCT7103",
+          "ACCT7104",
+          "ACCT7107",
+          "LAWS7012",
+          "LAWS7023"
+        ],
+        "Applied Finance": [
+          "ACCT7106",
+          "ECON7300",
+          "FINM7402",
+          "FINM7403",
+          "FINM7405",
+          "FINM7406",
+          "FINM7407"
+        ],
+        "Information Systems": [
+          "BISM7206",
+          "BISM7208",
+          "BISM7209",
+          "BISM7213",
+          "BISM7216",
+          "BISM7217",
+          "BISM7221",
+          "BISM7233",
+          "BISM7255"
+        ]
+      }
+    },
+    "MBA": {
+      "name": "Master of Business Administration",
+      "level": "PG",
+      "core": [
+        "ACCT7804",
+        "FINM7805",
+        "MGTS7803",
+        "MGTS7810",
+        "MGTS7812"
+      ],
+      "majors": {
+        "Program Electives": [
+          "BISM7807",
+          "BISM7808",
+          "ECON7012",
+          "MGTS7809",
+          "MKTG7806",
+          "TIMS7811"
+        ],
+        "Flexible Core (Part A)": [
+          "MGTS7820",
+          "RBUS6901",
+          "RBUS6902",
+          "RBUS6904"
+        ],
+        "Flexible Core (Part B)": [
+          "MGTS7821",
+          "MGTS7822",
+          "RBUS7981",
+          "RBUS7984",
+          "RBUS7985"
+        ]
+      }
+    },
+    "MBus": {
+      "name": "Master of Business",
+      "level": "PG",
+      "core": [
+        "MGTS7610"
+      ],
+      "majors": {
+        "Advertising": [
+          "ADVT7506",
+          "ADVT7507",
+          "ADVT7508",
+          "ADVT7509",
+          "ADVT7510",
+          "ADVT7512",
+          "ADVT7513"
+        ],
+        "Supply Chain Management": [
+          "BISM7202",
+          "IBUS7316",
+          "IBUS7322"
+        ],
+        "Information Systems": [
+          "BISM7206",
+          "BISM7208",
+          "BISM7209",
+          "BISM7213",
+          "BISM7216",
+          "BISM7217",
+          "BISM7221",
+          "BISM7233",
+          "BISM7255"
+        ],
+        "Innovation & Entrepreneursh": [
+          "EIBS7300"
+        ],
+        "Innovation & Entrepreneurship": [
+          "EIBS7301",
+          "EIBS7311",
+          "MGTS7303",
+          "MGTS7308",
+          "MKTG7513",
+          "TIMS7301",
+          "TIMS7328",
+          "TIMS7329",
+          "TIMS7330",
+          "TIMS7331",
+          "TIMS7332"
+        ],
+        "Foundation": [
+          "FINM7409",
+          "MGTS7301",
+          "MGTS7608"
+        ],
+        "International Business": [
+          "IBUS7302",
+          "IBUS7306",
+          "IBUS7312",
+          "IBUS7316",
+          "IBUS7322",
+          "MGTS7303",
+          "MGTS7329",
+          "MGTS7523",
+          "MGTS7604"
+        ],
+        "Organisational Sustainability": [
+          "MGTS7303",
+          "MGTS7308",
+          "MGTS7309",
+          "MGTS7523",
+          "MGTS7524",
+          "MKTG7513",
+          "TIMS7317",
+          "TIMS7328",
+          "TIMS7329"
+        ],
+        "HRM": [
+          "MGTS7601",
+          "MGTS7603",
+          "MGTS7604",
+          "MGTS7605",
+          "MGTS7609",
+          "MGTS7611",
+          "MGTS7612",
+          "MGTS7618"
+        ],
+        "Leadership": [
+          "MGTS7607",
+          "MGTS7618",
+          "MGTS7619",
+          "MGTS7620",
+          "ORGC7610",
+          "TIMS7317"
+        ],
+        "Capstone": [
+          "MGTS7621"
+        ],
+        "Marketing": [
+          "MKTG7501",
+          "MKTG7502",
+          "MKTG7503",
+          "MKTG7504",
+          "MKTG7510",
+          "MKTG7512",
+          "MKTG7513"
+        ]
+      }
+    },
+    "MEI": {
+      "name": "Master of Entrepreneurship and Innovation",
+      "level": "PG",
+      "core": [
+        "EIBS7300",
+        "EIBS7301",
+        "EIBS7302",
+        "EIBS7303"
+      ],
+      "majors": {
+        "Design and Information Technology": [
+          "BISM7202"
+        ],
+        "Social and Communty Entrepreneurship": [
+          "EIBS7304",
+          "MGTS7308",
+          "MKTG7513",
+          "TIMS7329"
+        ],
+        "Capstone": [
+          "EIBS7311"
+        ],
+        "Sustainable Energy": [
+          "MGTS7523",
+          "TIMS7317",
+          "TIMS7328"
+        ],
+        "Food Entrepreneurship": [
+          "MKTG7961"
+        ],
+        "Biotechnology": [
+          "TIMS7328"
+        ]
+      }
+    },
+    "MBusAn": {
+      "name": "Master of Business Analytics",
+      "level": "PG",
+      "core": [
+        "BSAN7204",
+        "BSAN7205"
+      ],
+      "majors": {
+        "Advanced": [
+          "BSAN7206",
+          "BSAN7207",
+          "BSAN7208",
+          "BSAN7209",
+          "BSAN7210",
+          "BSAN7211",
+          "BSAN7212",
+          "BSAN7214"
+        ],
+        "Project Led Collaboration": [
+          "BSAN7213",
+          "BSAN7215"
+        ]
+      }
+    },
+    "MTHEM": {
+      "name": "Master of Tourism, Hospitality and Event Management",
+      "level": "PG",
+      "core": [
+        "TOUR7000",
+        "TOUR7031",
+        "TOUR7032"
+      ],
+      "majors": {
+        "Event Management": [
+          "EVNT7050",
+          "EVNT7051",
+          "EVNT7052",
+          "EVNT7053"
+        ],
+        "Hotel Management": [
+          "HOSP7050",
+          "HOSP7051",
+          "HOSP7052",
+          "HOSP7053"
+        ],
+        "Foundation": [
+          "TOUR7020",
+          "TOUR7021",
+          "TOUR7022",
+          "TOUR7023"
+        ],
+        "Travel and Tourism Management": [
+          "TOUR7050",
+          "TOUR7051",
+          "TOUR7052",
+          "TOUR7053"
+        ]
+      }
+    },
+    "MFIM": {
+      "name": "Master of Financial Mathematics",
+      "level": "PG",
+      "core": [
+        "FINM7101",
+        "FINM7102",
+        "FINM7103",
+        "FINM7104",
+        "FINM7105",
+        "FINM7106",
+        "FINM7107",
+        "FINM7108"
+      ],
+      "majors": {}
+    }
+  },
+  "course_programs": {
+    "ACCT1101": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Core",
+        "level": "UG"
+      },
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "ACCT1102": [
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "ACCT1110": [
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "ACCT1111": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "ACCT1112": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "ACCT2102": [
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Accounting",
+        "level": "UG"
+      }
+    ],
+    "ACCT2103": [
+      {
+        "program": "Elective",
+        "program_name": "Elective (cross-program)",
+        "role": "Unspecified",
+        "level": "UG"
+      }
+    ],
+    "ACCT2110": [
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Accounting",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Accounting",
+        "level": "UG"
+      }
+    ],
+    "ACCT2111": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "ACCT2112": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "ACCT2113": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "ACCT2114": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "ACCT3101": [
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Accounting",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Accounting",
+        "level": "UG"
+      }
+    ],
+    "ACCT3103": [
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Accounting",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Accounting",
+        "level": "UG"
+      }
+    ],
+    "ACCT3104": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Accounting",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Accounting",
+        "level": "UG"
+      }
+    ],
+    "ACCT3106": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Accounting",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Accounting",
+        "level": "UG"
+      }
+    ],
+    "ACCT4101": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Accounting",
+        "level": "UG"
+      }
+    ],
+    "ACCT6101": [
+      {
+        "program": "Grad Dip",
+        "program_name": "Graduate Diploma in Business Research Methods",
+        "role": "BRM Electives",
+        "level": "PG"
+      }
+    ],
+    "ACCT6102": [
+      {
+        "program": "Grad Dip",
+        "program_name": "Graduate Diploma in Business Research Methods",
+        "role": "BRM Electives",
+        "level": "PG"
+      }
+    ],
+    "ACCT6104": [
+      {
+        "program": "Grad Dip",
+        "program_name": "Graduate Diploma in Business Research Methods",
+        "role": "BRM Electives",
+        "level": "PG"
+      }
+    ],
+    "ACCT7101": [
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "ACCT7102": [
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Professional Accounting",
+        "level": "PG"
+      }
+    ],
+    "ACCT7103": [
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Professional Accounting",
+        "level": "PG"
+      }
+    ],
+    "ACCT7104": [
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Professional Accounting",
+        "level": "PG"
+      }
+    ],
+    "ACCT7106": [
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Applied Finance",
+        "level": "PG"
+      }
+    ],
+    "ACCT7107": [
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Professional Accounting",
+        "level": "PG"
+      }
+    ],
+    "ACCT7804": [
+      {
+        "program": "MBA",
+        "program_name": "Master of Business Administration",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "ADVT3509": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Marketing",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Marketing",
+        "level": "UG"
+      }
+    ],
+    "ADVT7506": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Advertising",
+        "level": "PG"
+      }
+    ],
+    "ADVT7507": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Advertising",
+        "level": "PG"
+      }
+    ],
+    "ADVT7508": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Advertising",
+        "level": "PG"
+      }
+    ],
+    "ADVT7509": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Advertising",
+        "level": "PG"
+      }
+    ],
+    "ADVT7510": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Advertising",
+        "level": "PG"
+      }
+    ],
+    "ADVT7512": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Advertising",
+        "level": "PG"
+      }
+    ],
+    "ADVT7513": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Advertising",
+        "level": "PG"
+      }
+    ],
+    "BISM1201": [
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Core",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Core",
+        "level": "UG"
+      },
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Core",
+        "level": "UG"
+      },
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "BISM2202": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "BIS",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "BIS",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "BIS",
+        "level": "UG"
+      }
+    ],
+    "BISM2203": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "BIS",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "BIS",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "BIS",
+        "level": "UG"
+      }
+    ],
+    "BISM2206": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "BIS",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "BIS",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "BIS",
+        "level": "UG"
+      }
+    ],
+    "BISM2207": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "BIS",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "BIS",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "BIS",
+        "level": "UG"
+      }
+    ],
+    "BISM2208": [
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "BIS",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "BIS",
+        "level": "UG"
+      },
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "BIS",
+        "level": "UG"
+      }
+    ],
+    "BISM3205": [
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "BIS",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "BIS",
+        "level": "UG"
+      },
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "BIS",
+        "level": "UG"
+      }
+    ],
+    "BISM3206": [
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "BIS",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "BIS",
+        "level": "UG"
+      },
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "BIS",
+        "level": "UG"
+      }
+    ],
+    "BISM3208": [
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "BIS",
+        "level": "UG"
+      },
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "BIS",
+        "level": "UG"
+      }
+    ],
+    "BISM3222": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "BIS",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "BIS",
+        "level": "UG"
+      },
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "BIS",
+        "level": "UG"
+      }
+    ],
+    "BISM4203": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "BIS",
+        "level": "UG"
+      }
+    ],
+    "BISM7202": [
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Core",
+        "level": "PG"
+      },
+      {
+        "program": "MEI",
+        "program_name": "Master of Entrepreneurship and Innovation",
+        "role": "Design and Information Technology",
+        "level": "PG"
+      },
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Supply Chain Management",
+        "level": "PG"
+      }
+    ],
+    "BISM7206": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Information Systems",
+        "level": "PG"
+      },
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Information Systems",
+        "level": "PG"
+      }
+    ],
+    "BISM7208": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Information Systems",
+        "level": "PG"
+      },
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Information Systems",
+        "level": "PG"
+      }
+    ],
+    "BISM7209": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Information Systems",
+        "level": "PG"
+      },
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Information Systems",
+        "level": "PG"
+      }
+    ],
+    "BISM7213": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Information Systems",
+        "level": "PG"
+      },
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Information Systems",
+        "level": "PG"
+      }
+    ],
+    "BISM7216": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Information Systems",
+        "level": "PG"
+      },
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Information Systems",
+        "level": "PG"
+      }
+    ],
+    "BISM7217": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Information Systems",
+        "level": "PG"
+      },
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Information Systems",
+        "level": "PG"
+      }
+    ],
+    "BISM7221": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Information Systems",
+        "level": "PG"
+      },
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Information Systems",
+        "level": "PG"
+      }
+    ],
+    "BISM7233": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Information Systems",
+        "level": "PG"
+      },
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Information Systems",
+        "level": "PG"
+      }
+    ],
+    "BISM7255": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Information Systems",
+        "level": "PG"
+      },
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Information Systems",
+        "level": "PG"
+      }
+    ],
+    "BISM7807": [
+      {
+        "program": "MBA",
+        "program_name": "Master of Business Administration",
+        "role": "Program Electives",
+        "level": "PG"
+      }
+    ],
+    "BISM7808": [
+      {
+        "program": "MBA",
+        "program_name": "Master of Business Administration",
+        "role": "Program Electives",
+        "level": "PG"
+      }
+    ],
+    "BSAN2201": [
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "BSAN",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Core",
+        "level": "UG"
+      },
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Leadership",
+        "level": "UG"
+      }
+    ],
+    "BSAN2204": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "BSAN",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "BSAN",
+        "level": "UG"
+      }
+    ],
+    "BSAN2205": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "BSAN",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "BSAN",
+        "level": "UG"
+      }
+    ],
+    "BSAN3204": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "BSAN",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "BSAN",
+        "level": "UG"
+      }
+    ],
+    "BSAN3209": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "BSAN",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "BSAN",
+        "level": "UG"
+      }
+    ],
+    "BSAN3210": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "BSAN",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "BSAN",
+        "level": "UG"
+      }
+    ],
+    "BSAN3212": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "BSAN",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "BSAN",
+        "level": "UG"
+      }
+    ],
+    "BSAN4201": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "BSAN",
+        "level": "UG"
+      }
+    ],
+    "BSAN4204": [
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "BSAN",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "BSAN",
+        "level": "UG"
+      }
+    ],
+    "BSAN7204": [
+      {
+        "program": "MBusAn",
+        "program_name": "Master of Business Analytics",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "BSAN7205": [
+      {
+        "program": "MBusAn",
+        "program_name": "Master of Business Analytics",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "BSAN7206": [
+      {
+        "program": "MBusAn",
+        "program_name": "Master of Business Analytics",
+        "role": "Advanced",
+        "level": "PG"
+      }
+    ],
+    "BSAN7207": [
+      {
+        "program": "MBusAn",
+        "program_name": "Master of Business Analytics",
+        "role": "Advanced",
+        "level": "PG"
+      }
+    ],
+    "BSAN7208": [
+      {
+        "program": "MBusAn",
+        "program_name": "Master of Business Analytics",
+        "role": "Advanced",
+        "level": "PG"
+      }
+    ],
+    "BSAN7209": [
+      {
+        "program": "MBusAn",
+        "program_name": "Master of Business Analytics",
+        "role": "Advanced",
+        "level": "PG"
+      }
+    ],
+    "BSAN7210": [
+      {
+        "program": "MBusAn",
+        "program_name": "Master of Business Analytics",
+        "role": "Advanced",
+        "level": "PG"
+      }
+    ],
+    "BSAN7211": [
+      {
+        "program": "MBusAn",
+        "program_name": "Master of Business Analytics",
+        "role": "Advanced",
+        "level": "PG"
+      }
+    ],
+    "BSAN7212": [
+      {
+        "program": "MBusAn",
+        "program_name": "Master of Business Analytics",
+        "role": "Advanced",
+        "level": "PG"
+      }
+    ],
+    "BSAN7213": [
+      {
+        "program": "MBusAn",
+        "program_name": "Master of Business Analytics",
+        "role": "Project Led Collaboration",
+        "level": "PG"
+      }
+    ],
+    "BSAN7214": [
+      {
+        "program": "MBusAn",
+        "program_name": "Master of Business Analytics",
+        "role": "Advanced",
+        "level": "PG"
+      }
+    ],
+    "BSAN7215": [
+      {
+        "program": "MBusAn",
+        "program_name": "Master of Business Analytics",
+        "role": "Project Led Collaboration",
+        "level": "PG"
+      }
+    ],
+    "DECO1100": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Leadership",
+        "level": "UG"
+      }
+    ],
+    "ECON1011": [
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Core",
+        "level": "UG"
+      },
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "ECON1050": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "ECON1310": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Accounting",
+        "level": "UG"
+      },
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "Core",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "ECON2011": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "ECON2012": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "ECON2021": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "ECON2022": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "ECON2030": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "ECON2040": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "ECON2050": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "ECON2060": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Leadership",
+        "level": "UG"
+      }
+    ],
+    "ECON2070": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Business Economics",
+        "level": "UG"
+      }
+    ],
+    "ECON2300": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "Core",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Finance",
+        "level": "UG"
+      }
+    ],
+    "ECON2410": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Business Economics",
+        "level": "UG"
+      }
+    ],
+    "ECON2420": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Business Economics",
+        "level": "UG"
+      }
+    ],
+    "ECON2540": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Business Economics",
+        "level": "UG"
+      }
+    ],
+    "ECON3010": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "General Pathway Flexible Core",
+        "level": "UG"
+      }
+    ],
+    "ECON3020": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "General Pathway Flexible Core",
+        "level": "UG"
+      }
+    ],
+    "ECON3200": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "General Pathway Flexible Core",
+        "level": "UG"
+      }
+    ],
+    "ECON3210": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Business Economics",
+        "level": "UG"
+      },
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "Core",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Finance",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Finance",
+        "level": "UG"
+      }
+    ],
+    "ECON3350": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "ECON3360": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "General Pathway Flexible Core",
+        "level": "UG"
+      }
+    ],
+    "ECON3430": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Business Economics",
+        "level": "UG"
+      }
+    ],
+    "ECON3440": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Business Economics",
+        "level": "UG"
+      },
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "General Pathway Flexible Core",
+        "level": "UG"
+      }
+    ],
+    "ECON3450": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "General Pathway Flexible Core",
+        "level": "UG"
+      }
+    ],
+    "ECON3460": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "General Pathway Flexible Core",
+        "level": "UG"
+      }
+    ],
+    "ECON3520": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "General Pathway Flexible Core",
+        "level": "UG"
+      }
+    ],
+    "ECON3700": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "General Pathway Flexible Core",
+        "level": "UG"
+      }
+    ],
+    "ECON3820": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Business Economics",
+        "level": "UG"
+      }
+    ],
+    "ECON4390": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "General Pathway Flexible Core",
+        "level": "UG"
+      }
+    ],
+    "ECON7002": [
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "ECON7012": [
+      {
+        "program": "MBA",
+        "program_name": "Master of Business Administration",
+        "role": "Program Electives",
+        "level": "PG"
+      }
+    ],
+    "ECON7300": [
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Applied Finance",
+        "level": "PG"
+      }
+    ],
+    "EIBS7300": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Innovation & Entrepreneursh",
+        "level": "PG"
+      },
+      {
+        "program": "MEI",
+        "program_name": "Master of Entrepreneurship and Innovation",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "EIBS7301": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Innovation & Entrepreneurship",
+        "level": "PG"
+      },
+      {
+        "program": "MEI",
+        "program_name": "Master of Entrepreneurship and Innovation",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "EIBS7302": [
+      {
+        "program": "MEI",
+        "program_name": "Master of Entrepreneurship and Innovation",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "EIBS7303": [
+      {
+        "program": "MEI",
+        "program_name": "Master of Entrepreneurship and Innovation",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "EIBS7304": [
+      {
+        "program": "MEI",
+        "program_name": "Master of Entrepreneurship and Innovation",
+        "role": "Social and Communty Entrepreneurship",
+        "level": "PG"
+      }
+    ],
+    "EIBS7311": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Innovation & Entrepreneurship",
+        "level": "PG"
+      },
+      {
+        "program": "MEI",
+        "program_name": "Master of Entrepreneurship and Innovation",
+        "role": "Capstone",
+        "level": "PG"
+      }
+    ],
+    "EVNT7050": [
+      {
+        "program": "MTHEM",
+        "program_name": "Master of Tourism, Hospitality and Event Management",
+        "role": "Event Management",
+        "level": "PG"
+      }
+    ],
+    "EVNT7051": [
+      {
+        "program": "MTHEM",
+        "program_name": "Master of Tourism, Hospitality and Event Management",
+        "role": "Event Management",
+        "level": "PG"
+      }
+    ],
+    "EVNT7052": [
+      {
+        "program": "MTHEM",
+        "program_name": "Master of Tourism, Hospitality and Event Management",
+        "role": "Event Management",
+        "level": "PG"
+      }
+    ],
+    "EVNT7053": [
+      {
+        "program": "MTHEM",
+        "program_name": "Master of Tourism, Hospitality and Event Management",
+        "role": "Event Management",
+        "level": "PG"
+      }
+    ],
+    "FINM1415": [
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "FINM1416": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "FINM2411": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "FINM2412": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "FINM2415": [
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Finance",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Finance",
+        "level": "UG"
+      }
+    ],
+    "FINM2416": [
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Finance",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Finance",
+        "level": "UG"
+      }
+    ],
+    "FINM3400": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "General Pathway Flexible Core",
+        "level": "UG"
+      }
+    ],
+    "FINM3403": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "Core",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Finance",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Finance",
+        "level": "UG"
+      }
+    ],
+    "FINM3404": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Finance",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Finance",
+        "level": "UG"
+      }
+    ],
+    "FINM3405": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "General Pathway Flexible Core",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Finance",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Finance",
+        "level": "UG"
+      }
+    ],
+    "FINM3406": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "General Pathway Flexible Core",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Finance",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Finance",
+        "level": "UG"
+      }
+    ],
+    "FINM3407": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "General Pathway Flexible Core",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Finance",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Finance",
+        "level": "UG"
+      }
+    ],
+    "FINM3411": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "FINM3412": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "FINM3414": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "FINM3421": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "General Pathway Flexible Core",
+        "level": "UG"
+      }
+    ],
+    "FINM3422": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "FINM4401": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Finance",
+        "level": "UG"
+      }
+    ],
+    "FINM4411": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "General Pathway Courses",
+        "level": "UG"
+      }
+    ],
+    "FINM4412": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "General Pathway Flexible Core",
+        "level": "UG"
+      }
+    ],
+    "FINM4413": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "General Pathway Flexible Core",
+        "level": "UG"
+      }
+    ],
+    "FINM4414": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "General Pathway Flexible Core",
+        "level": "UG"
+      }
+    ],
+    "FINM7101": [
+      {
+        "program": "MFIM",
+        "program_name": "Master of Financial Mathematics",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "FINM7102": [
+      {
+        "program": "MFIM",
+        "program_name": "Master of Financial Mathematics",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "FINM7103": [
+      {
+        "program": "MFIM",
+        "program_name": "Master of Financial Mathematics",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "FINM7104": [
+      {
+        "program": "MFIM",
+        "program_name": "Master of Financial Mathematics",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "FINM7105": [
+      {
+        "program": "MFIM",
+        "program_name": "Master of Financial Mathematics",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "FINM7106": [
+      {
+        "program": "MFIM",
+        "program_name": "Master of Financial Mathematics",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "FINM7107": [
+      {
+        "program": "MFIM",
+        "program_name": "Master of Financial Mathematics",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "FINM7108": [
+      {
+        "program": "MFIM",
+        "program_name": "Master of Financial Mathematics",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "FINM7401": [
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "FINM7402": [
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Applied Finance",
+        "level": "PG"
+      }
+    ],
+    "FINM7403": [
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Applied Finance",
+        "level": "PG"
+      }
+    ],
+    "FINM7405": [
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Applied Finance",
+        "level": "PG"
+      }
+    ],
+    "FINM7406": [
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Applied Finance",
+        "level": "PG"
+      }
+    ],
+    "FINM7407": [
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Applied Finance",
+        "level": "PG"
+      }
+    ],
+    "FINM7409": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Foundation",
+        "level": "PG"
+      }
+    ],
+    "FINM7805": [
+      {
+        "program": "MBA",
+        "program_name": "Master of Business Administration",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "HOSP2001": [
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "HHM",
+        "level": "UG"
+      }
+    ],
+    "HOSP2003": [
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "HHM",
+        "level": "UG"
+      }
+    ],
+    "HOSP2005": [
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "HHM",
+        "level": "UG"
+      }
+    ],
+    "HOSP2006": [
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "HHM",
+        "level": "UG"
+      }
+    ],
+    "HOSP3000": [
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "HHM",
+        "level": "UG"
+      }
+    ],
+    "HOSP3004": [
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "HHM",
+        "level": "UG"
+      }
+    ],
+    "HOSP3005": [
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "HHM",
+        "level": "UG"
+      }
+    ],
+    "HOSP7050": [
+      {
+        "program": "MTHEM",
+        "program_name": "Master of Tourism, Hospitality and Event Management",
+        "role": "Hotel Management",
+        "level": "PG"
+      }
+    ],
+    "HOSP7051": [
+      {
+        "program": "MTHEM",
+        "program_name": "Master of Tourism, Hospitality and Event Management",
+        "role": "Hotel Management",
+        "level": "PG"
+      }
+    ],
+    "HOSP7052": [
+      {
+        "program": "MTHEM",
+        "program_name": "Master of Tourism, Hospitality and Event Management",
+        "role": "Hotel Management",
+        "level": "PG"
+      }
+    ],
+    "HOSP7053": [
+      {
+        "program": "MTHEM",
+        "program_name": "Master of Tourism, Hospitality and Event Management",
+        "role": "Hotel Management",
+        "level": "PG"
+      }
+    ],
+    "IBUS2301": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Core",
+        "level": "UG"
+      },
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "IB",
+        "level": "UG"
+      }
+    ],
+    "IBUS2302": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "IB",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "IB",
+        "level": "UG"
+      }
+    ],
+    "IBUS2309": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "IB",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "IB",
+        "level": "UG"
+      }
+    ],
+    "IBUS3303": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "IB",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "IB",
+        "level": "UG"
+      }
+    ],
+    "IBUS3306": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "IB",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "IB",
+        "level": "UG"
+      }
+    ],
+    "IBUS3310": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "IB",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "IB",
+        "level": "UG"
+      }
+    ],
+    "IBUS4301": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "IB",
+        "level": "UG"
+      }
+    ],
+    "IBUS7302": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "International Business",
+        "level": "PG"
+      }
+    ],
+    "IBUS7306": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "International Business",
+        "level": "PG"
+      }
+    ],
+    "IBUS7312": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "International Business",
+        "level": "PG"
+      }
+    ],
+    "IBUS7316": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "International Business",
+        "level": "PG"
+      },
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Supply Chain Management",
+        "level": "PG"
+      }
+    ],
+    "IBUS7322": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "International Business",
+        "level": "PG"
+      },
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Supply Chain Management",
+        "level": "PG"
+      }
+    ],
+    "LAWS1100": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Core",
+        "level": "UG"
+      },
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "Core",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Core",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "LAWS3100": [
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Accounting",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Accounting",
+        "level": "UG"
+      }
+    ],
+    "LAWS3101": [
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Accounting",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Accounting",
+        "level": "UG"
+      }
+    ],
+    "LAWS7012": [
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Professional Accounting",
+        "level": "PG"
+      }
+    ],
+    "LAWS7023": [
+      {
+        "program": "MCom",
+        "program_name": "Master of Commerce",
+        "role": "Professional Accounting",
+        "level": "PG"
+      }
+    ],
+    "MGTS1301": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Core",
+        "level": "UG"
+      },
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "Core",
+        "level": "UG"
+      },
+      {
+        "program": "BCom",
+        "program_name": "Bachelor of Commerce",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "MGTS1601": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "MGTS2301": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "MGTS2603": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Leadership",
+        "level": "UG"
+      }
+    ],
+    "MGTS2604": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Core",
+        "level": "UG"
+      },
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "HR",
+        "level": "UG"
+      }
+    ],
+    "MGTS2606": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Leadership",
+        "level": "UG"
+      }
+    ],
+    "MGTS2607": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "HR",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "HR",
+        "level": "UG"
+      }
+    ],
+    "MGTS2609": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "HR",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "HR",
+        "level": "UG"
+      }
+    ],
+    "MGTS3301": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "IB",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "IB",
+        "level": "UG"
+      }
+    ],
+    "MGTS3601": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "HR",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "HR",
+        "level": "UG"
+      }
+    ],
+    "MGTS3602": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Leadership",
+        "level": "UG"
+      }
+    ],
+    "MGTS3603": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "HR",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "HR",
+        "level": "UG"
+      }
+    ],
+    "MGTS3604": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "HR",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "HR",
+        "level": "UG"
+      }
+    ],
+    "MGTS3605": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Leadership",
+        "level": "UG"
+      }
+    ],
+    "MGTS3606": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "IB",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "IB",
+        "level": "UG"
+      }
+    ],
+    "MGTS3607": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "HR",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "HR",
+        "level": "UG"
+      }
+    ],
+    "MGTS3609": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "HR",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "HR",
+        "level": "UG"
+      }
+    ],
+    "MGTS3610": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Leadership",
+        "level": "UG"
+      }
+    ],
+    "MGTS4602": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "MGTS4603": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "HR",
+        "level": "UG"
+      }
+    ],
+    "MGTS7301": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Foundation",
+        "level": "PG"
+      }
+    ],
+    "MGTS7303": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "International Business",
+        "level": "PG"
+      },
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Organisational Sustainability",
+        "level": "PG"
+      },
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Innovation & Entrepreneurship",
+        "level": "PG"
+      }
+    ],
+    "MGTS7308": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Organisational Sustainability",
+        "level": "PG"
+      },
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Innovation & Entrepreneurship",
+        "level": "PG"
+      },
+      {
+        "program": "MEI",
+        "program_name": "Master of Entrepreneurship and Innovation",
+        "role": "Social and Communty Entrepreneurship",
+        "level": "PG"
+      }
+    ],
+    "MGTS7309": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Organisational Sustainability",
+        "level": "PG"
+      }
+    ],
+    "MGTS7329": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "International Business",
+        "level": "PG"
+      }
+    ],
+    "MGTS7523": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "International Business",
+        "level": "PG"
+      },
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Organisational Sustainability",
+        "level": "PG"
+      },
+      {
+        "program": "MEI",
+        "program_name": "Master of Entrepreneurship and Innovation",
+        "role": "Sustainable Energy",
+        "level": "PG"
+      }
+    ],
+    "MGTS7524": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Organisational Sustainability",
+        "level": "PG"
+      }
+    ],
+    "MGTS7601": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "HRM",
+        "level": "PG"
+      }
+    ],
+    "MGTS7603": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "HRM",
+        "level": "PG"
+      }
+    ],
+    "MGTS7604": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "HRM",
+        "level": "PG"
+      },
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "International Business",
+        "level": "PG"
+      }
+    ],
+    "MGTS7605": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "HRM",
+        "level": "PG"
+      }
+    ],
+    "MGTS7607": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Leadership",
+        "level": "PG"
+      }
+    ],
+    "MGTS7608": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Foundation",
+        "level": "PG"
+      }
+    ],
+    "MGTS7609": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "HRM",
+        "level": "PG"
+      }
+    ],
+    "MGTS7610": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "MGTS7611": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "HRM",
+        "level": "PG"
+      }
+    ],
+    "MGTS7612": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "HRM",
+        "level": "PG"
+      }
+    ],
+    "MGTS7618": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "HRM",
+        "level": "PG"
+      },
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Leadership",
+        "level": "PG"
+      }
+    ],
+    "MGTS7619": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Leadership",
+        "level": "PG"
+      }
+    ],
+    "MGTS7620": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Leadership",
+        "level": "PG"
+      }
+    ],
+    "MGTS7621": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Capstone",
+        "level": "PG"
+      }
+    ],
+    "MGTS7803": [
+      {
+        "program": "MBA",
+        "program_name": "Master of Business Administration",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "MGTS7809": [
+      {
+        "program": "MBA",
+        "program_name": "Master of Business Administration",
+        "role": "Program Electives",
+        "level": "PG"
+      }
+    ],
+    "MGTS7810": [
+      {
+        "program": "MBA",
+        "program_name": "Master of Business Administration",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "MGTS7812": [
+      {
+        "program": "MBA",
+        "program_name": "Master of Business Administration",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "MGTS7820": [
+      {
+        "program": "MBA",
+        "program_name": "Master of Business Administration",
+        "role": "Flexible Core (Part A)",
+        "level": "PG"
+      }
+    ],
+    "MGTS7821": [
+      {
+        "program": "MBA",
+        "program_name": "Master of Business Administration",
+        "role": "Flexible Core (Part B)",
+        "level": "PG"
+      }
+    ],
+    "MGTS7822": [
+      {
+        "program": "MBA",
+        "program_name": "Master of Business Administration",
+        "role": "Flexible Core (Part B)",
+        "level": "PG"
+      }
+    ],
+    "MKTG1501": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Core",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "MKTG2501": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Marketing",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Marketing",
+        "level": "UG"
+      }
+    ],
+    "MKTG2508": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Marketing",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Marketing",
+        "level": "UG"
+      }
+    ],
+    "MKTG2509": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Marketing",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Marketing",
+        "level": "UG"
+      }
+    ],
+    "MKTG2510": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Marketing",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Marketing",
+        "level": "UG"
+      }
+    ],
+    "MKTG3501": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Marketing",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Marketing",
+        "level": "UG"
+      }
+    ],
+    "MKTG3504": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Marketing",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Marketing",
+        "level": "UG"
+      }
+    ],
+    "MKTG3506": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Marketing",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Marketing",
+        "level": "UG"
+      }
+    ],
+    "MKTG4501": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Marketing",
+        "level": "UG"
+      }
+    ],
+    "MKTG7501": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Marketing",
+        "level": "PG"
+      }
+    ],
+    "MKTG7502": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Marketing",
+        "level": "PG"
+      }
+    ],
+    "MKTG7503": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Marketing",
+        "level": "PG"
+      }
+    ],
+    "MKTG7504": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Marketing",
+        "level": "PG"
+      }
+    ],
+    "MKTG7510": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Marketing",
+        "level": "PG"
+      }
+    ],
+    "MKTG7512": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Marketing",
+        "level": "PG"
+      }
+    ],
+    "MKTG7513": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Marketing",
+        "level": "PG"
+      },
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Organisational Sustainability",
+        "level": "PG"
+      },
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Innovation & Entrepreneurship",
+        "level": "PG"
+      },
+      {
+        "program": "MEI",
+        "program_name": "Master of Entrepreneurship and Innovation",
+        "role": "Social and Communty Entrepreneurship",
+        "level": "PG"
+      }
+    ],
+    "MKTG7806": [
+      {
+        "program": "MBA",
+        "program_name": "Master of Business Administration",
+        "role": "Program Electives",
+        "level": "PG"
+      }
+    ],
+    "MKTG7961": [
+      {
+        "program": "MEI",
+        "program_name": "Master of Entrepreneurship and Innovation",
+        "role": "Food Entrepreneurship",
+        "level": "PG"
+      }
+    ],
+    "ORGC7610": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Leadership",
+        "level": "PG"
+      }
+    ],
+    "PSYC3052": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "Leadership",
+        "level": "UG"
+      }
+    ],
+    "RBUS3900": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "RBUS3999": [
+      {
+        "program": "Elective",
+        "program_name": "Elective (cross-program)",
+        "role": "Unspecified",
+        "level": "UG"
+      }
+    ],
+    "RBUS4411": [
+      {
+        "program": "BAFE",
+        "program_name": "Bachelor of Advanced Finance and Economics",
+        "role": "General Pathway Courses",
+        "level": "UG"
+      }
+    ],
+    "RBUS4999": [
+      {
+        "program": "Elective",
+        "program_name": "Elective (cross-program)",
+        "role": "Unspecified",
+        "level": "UG"
+      }
+    ],
+    "RBUS6901": [
+      {
+        "program": "MBA",
+        "program_name": "Master of Business Administration",
+        "role": "Flexible Core (Part A)",
+        "level": "PG"
+      }
+    ],
+    "RBUS6902": [
+      {
+        "program": "MBA",
+        "program_name": "Master of Business Administration",
+        "role": "Flexible Core (Part A)",
+        "level": "PG"
+      }
+    ],
+    "RBUS6904": [
+      {
+        "program": "MBA",
+        "program_name": "Master of Business Administration",
+        "role": "Flexible Core (Part A)",
+        "level": "PG"
+      }
+    ],
+    "RBUS7981": [
+      {
+        "program": "MBA",
+        "program_name": "Master of Business Administration",
+        "role": "Flexible Core (Part B)",
+        "level": "PG"
+      }
+    ],
+    "RBUS7984": [
+      {
+        "program": "MBA",
+        "program_name": "Master of Business Administration",
+        "role": "Flexible Core (Part B)",
+        "level": "PG"
+      }
+    ],
+    "RBUS7985": [
+      {
+        "program": "MBA",
+        "program_name": "Master of Business Administration",
+        "role": "Flexible Core (Part B)",
+        "level": "PG"
+      }
+    ],
+    "TIMS1301": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "Core",
+        "level": "UG"
+      },
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "I&E",
+        "level": "UG"
+      }
+    ],
+    "TIMS2301": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "I&E",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "I&E",
+        "level": "UG"
+      }
+    ],
+    "TIMS2302": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "I&E",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "I&E",
+        "level": "UG"
+      }
+    ],
+    "TIMS3302": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "I&E",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "I&E",
+        "level": "UG"
+      }
+    ],
+    "TIMS3304": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "I&E",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "I&E",
+        "level": "UG"
+      }
+    ],
+    "TIMS3309": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "I&E",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "I&E",
+        "level": "UG"
+      }
+    ],
+    "TIMS3310": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "I&E",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "I&E",
+        "level": "UG"
+      }
+    ],
+    "TIMS3311": [
+      {
+        "program": "BBusMan",
+        "program_name": "Bachelor of Business Management",
+        "role": "I&E",
+        "level": "UG"
+      },
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "I&E",
+        "level": "UG"
+      }
+    ],
+    "TIMS4303": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business",
+        "role": "I&E",
+        "level": "UG"
+      }
+    ],
+    "TIMS7301": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Innovation & Entrepreneurship",
+        "level": "PG"
+      }
+    ],
+    "TIMS7317": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Leadership",
+        "level": "PG"
+      },
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Organisational Sustainability",
+        "level": "PG"
+      },
+      {
+        "program": "MEI",
+        "program_name": "Master of Entrepreneurship and Innovation",
+        "role": "Sustainable Energy",
+        "level": "PG"
+      }
+    ],
+    "TIMS7328": [
+      {
+        "program": "MEI",
+        "program_name": "Master of Entrepreneurship and Innovation",
+        "role": "Biotechnology",
+        "level": "PG"
+      },
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Organisational Sustainability",
+        "level": "PG"
+      },
+      {
+        "program": "MEI",
+        "program_name": "Master of Entrepreneurship and Innovation",
+        "role": "Sustainable Energy",
+        "level": "PG"
+      },
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Innovation & Entrepreneurship",
+        "level": "PG"
+      }
+    ],
+    "TIMS7329": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Organisational Sustainability",
+        "level": "PG"
+      },
+      {
+        "program": "MEI",
+        "program_name": "Master of Entrepreneurship and Innovation",
+        "role": "Social and Communty Entrepreneurship",
+        "level": "PG"
+      },
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Innovation & Entrepreneurship",
+        "level": "PG"
+      }
+    ],
+    "TIMS7330": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Innovation & Entrepreneurship",
+        "level": "PG"
+      }
+    ],
+    "TIMS7331": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Innovation & Entrepreneurship",
+        "level": "PG"
+      }
+    ],
+    "TIMS7332": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Innovation & Entrepreneurship",
+        "level": "PG"
+      }
+    ],
+    "TIMS7811": [
+      {
+        "program": "MBA",
+        "program_name": "Master of Business Administration",
+        "role": "Program Electives",
+        "level": "PG"
+      }
+    ],
+    "TOUR1000": [
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "TOUR1002": [
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "TOUR1003": [
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "TOUR1004": [
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "TOUR3008": [
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "HHM",
+        "level": "UG"
+      }
+    ],
+    "TOUR7000": [
+      {
+        "program": "MTHEM",
+        "program_name": "Master of Tourism, Hospitality and Event Management",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "TOUR7020": [
+      {
+        "program": "MTHEM",
+        "program_name": "Master of Tourism, Hospitality and Event Management",
+        "role": "Foundation",
+        "level": "PG"
+      }
+    ],
+    "TOUR7021": [
+      {
+        "program": "MTHEM",
+        "program_name": "Master of Tourism, Hospitality and Event Management",
+        "role": "Foundation",
+        "level": "PG"
+      }
+    ],
+    "TOUR7022": [
+      {
+        "program": "MTHEM",
+        "program_name": "Master of Tourism, Hospitality and Event Management",
+        "role": "Foundation",
+        "level": "PG"
+      }
+    ],
+    "TOUR7023": [
+      {
+        "program": "MTHEM",
+        "program_name": "Master of Tourism, Hospitality and Event Management",
+        "role": "Foundation",
+        "level": "PG"
+      }
+    ],
+    "TOUR7031": [
+      {
+        "program": "MTHEM",
+        "program_name": "Master of Tourism, Hospitality and Event Management",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "TOUR7032": [
+      {
+        "program": "MTHEM",
+        "program_name": "Master of Tourism, Hospitality and Event Management",
+        "role": "Core",
+        "level": "PG"
+      }
+    ],
+    "TOUR7050": [
+      {
+        "program": "MTHEM",
+        "program_name": "Master of Tourism, Hospitality and Event Management",
+        "role": "Travel and Tourism Management",
+        "level": "PG"
+      }
+    ],
+    "TOUR7051": [
+      {
+        "program": "MTHEM",
+        "program_name": "Master of Tourism, Hospitality and Event Management",
+        "role": "Travel and Tourism Management",
+        "level": "PG"
+      }
+    ],
+    "TOUR7052": [
+      {
+        "program": "MTHEM",
+        "program_name": "Master of Tourism, Hospitality and Event Management",
+        "role": "Travel and Tourism Management",
+        "level": "PG"
+      }
+    ],
+    "TOUR7053": [
+      {
+        "program": "MTHEM",
+        "program_name": "Master of Tourism, Hospitality and Event Management",
+        "role": "Travel and Tourism Management",
+        "level": "PG"
+      }
+    ],
+    "TRVT2000": [
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "TEM",
+        "level": "UG"
+      }
+    ],
+    "TRVT2001": [
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "TEM",
+        "level": "UG"
+      }
+    ],
+    "TRVT2002": [
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "TEM",
+        "level": "UG"
+      }
+    ],
+    "TRVT2003": [
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "TEM",
+        "level": "UG"
+      }
+    ],
+    "TRVT3001": [
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "TEM",
+        "level": "UG"
+      }
+    ],
+    "TRVT3002": [
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "TEM",
+        "level": "UG"
+      }
+    ],
+    "TRVT3003": [
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "TEM",
+        "level": "UG"
+      }
+    ],
+    "TRVT3004": [
+      {
+        "program": "BTHEM",
+        "program_name": "Bachelor of Tourism, Hospitality and Event Management",
+        "role": "TEM",
+        "level": "UG"
+      }
+    ]
+  }
+}
