@@ -426,15 +426,19 @@ def _extract_contacts(soup: BeautifulSoup, profile: dict):
 def _extract_staff(soup: BeautifulSoup, profile: dict):
     """Extract course staff section (separate from contacts).
 
-    The staff section uses a different layout to contacts:
+    The staff section layout has one or more role groups inside a
+    single .staff-cards wrapper:
       <div class="staff-cards">
         <h3 class="staff-cards__role">Lecturer</h3>
         <div class="staff-cards__cards">
           <article class="contact-card">...</article>
         </div>
+        <h3 class="staff-cards__role">Course facilitator</h3>
+        <div class="staff-cards__cards">
+          <article class="contact-card">...</article>
+        </div>
       </div>
-    The role heading is a sibling above the cards group, not inside
-    each card.
+    Each <h3> applies to the .staff-cards__cards div that follows it.
     """
     section = soup.find(id="course-staff")
     if not section:
@@ -443,11 +447,20 @@ def _extract_staff(soup: BeautifulSoup, profile: dict):
     staff = []
     seen = set()
 
-    for group in section.select(".staff-cards"):
-        role_el = group.select_one(".staff-cards__role, h3")
-        role = role_el.get_text(strip=True) if role_el else ""
+    # Walk each role heading within the staff section.
+    # The cards for that role are in the next sibling
+    # .staff-cards__cards div.
+    for role_heading in section.select("h3.staff-cards__role"):
+        role = role_heading.get_text(strip=True)
 
-        for card in group.select("article.contact-card"):
+        # Find the next .staff-cards__cards sibling
+        cards_div = role_heading.find_next_sibling(
+            "div", class_="staff-cards__cards"
+        )
+        if not cards_div:
+            continue
+
+        for card in cards_div.select("article.contact-card"):
             person = {}
             if role:
                 person["role"] = role
@@ -458,8 +471,9 @@ def _extract_staff(soup: BeautifulSoup, profile: dict):
             if email_el:
                 person["email"] = email_el.get_text(strip=True)
 
-            # Deduplicate by name + email
-            key = (person.get("name", ""), person.get("email", ""))
+            # Deduplicate by name + role (same person can have
+            # different roles, e.g. Lecturer AND Course facilitator)
+            key = (person.get("name", ""), person.get("role", ""))
             if key not in seen and any(person.values()):
                 seen.add(key)
                 staff.append(person)
