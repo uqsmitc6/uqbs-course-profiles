@@ -1,0 +1,374 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN2204-20284-7520",
+  "scraped_at": "2026-04-13T23:04:45.743416+00:00",
+  "course_code": "BSAN2204",
+  "class_code": "20284",
+  "semester_code": "7520",
+  "full_course_code": "BSAN2204-20284-7520",
+  "course_title": "Methods of Business Analytics",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "This course introduces students to R for the purpose of business analytics and to basic programming concepts used in R. The focus is on an introduction to R, including R infrastructure and interfaces, manipulating and exploring data, predictive models, data export and output, and optimising R code.\n\nThe book/filmMoneyballby Michael Louis has captured the popular imagination -- showing the value of analytics of improving decision making and achieving a desired outcome.Moneyballillustrates the application of analytics to professional sports, but there any many more applications and perhaps none more important than the application of analytics to business. The application of analytics can significantly improve organisational outcomes across all aspects of business -- accounting/finance, people/talent, operations, marketing, social media, and supply chain. The course BSAN2204 R for Business Analytics is the first course in the business analytics major after the course BSAN2201 Principles of Business Analytics. The focus of R for Business Analytics is the methods of business analytics and their applications to solving business problems -- preparing students for and equipping them with the skills they need to complete the business analytics major and to pursue careers with the analytics advantage.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1040"
+    ],
+    "companions": [
+      "We recommend completing the following courses at the same time:",
+      "BISM2201",
+      "BSAN2201"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "BISM2204"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Thomas Magor",
+      "email": "t.magor@business.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Thomas Magor"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note\n: Teaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull name\nStudent ID\nCourse Code",
+  "course_aims": "The primary aim of the course is to provide students with an overview of the methods of business analytics and to prepare students to successfully enter and complete the subsequent courses in the business analytics major. The methods include data visualisation, basic statistical analysis, predictive analytics/forecasting, data mining/machine learning, and text/web analytics. The course also provides an introduction to the use of R -- a mathematical computing environment for analytics used by millions around the world. The course leverages insights from the companion course -- Principles of Business Analytics -- to show how the methods of business analytics can solve real business problems.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Recognise and explain the role of R for business analytics."
+    },
+    {
+      "number": "LO2.",
+      "description": "Explain the basic concepts used in R for managing and manipulating data."
+    },
+    {
+      "number": "LO3.",
+      "description": "Apply R for basic business analytics tasks, including data visualisation and predictive analytics/forecasting."
+    },
+    {
+      "number": "LO4.",
+      "description": "Compare and critically evaluate competing methods of business analytics."
+    },
+    {
+      "number": "LO5.",
+      "description": "Demonstrate how business analytics can inform and improve managerial decision making."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Project Report 1",
+      "weight": "50%",
+      "due_date": "11/04/2025 4:00 pm"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "title": "Project Report 2",
+      "weight": "50%",
+      "due_date": "23/05/2025 4:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Project Report 1",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "50%",
+      "due_date": "11/04/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Project 1 will provide an initial analysis of the MSD (the \"Million Song Dataset\") using R. The project must begin by introducing the dataset by using descriptive analytics of the full dataset (i.e., describing all rows and columns of the dataset). Students must then select and provide a rationale for a specific subset of observations (rows) and variables (columns) of the MSD to be used for further analysis. Students must then provide descriptive statistics for all the variables in their chosen subset, a curated selection of data visualisations (univariate and bivariate displays) and one linear regression model. Throughout the project report, students must provide brief descriptions of the R functions used to generate their outputs.It is expected that Project 1 will be written using standard word processing software (e.g., Microsoft Word).AI StatementThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
+      "submission_guidelines": "Submit via submission link on Blackboard\nDeferral or extension\nYou may be able toapply for an extension.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Project 1 will provide an initial analysis of the MSD (the \"Million Song Dataset\") using R. The project must begin by introducing the dataset by using descriptive analytics of the full dataset (i.e., describing all rows and columns of the dataset). Students must then select and provide a rationale for a specific subset of observations (rows) and variables (columns) of the MSD to be used for further analysis. Students must then provide descriptive statistics for all the variables in their chosen subset, a curated selection of data visualisations (univariate and bivariate displays) and one linear regression model. Throughout the project report, students must provide brief descriptions of the R functions used to generate their outputs.It is expected that Project 1 will be written using standard word processing software (e.g., Microsoft Word).AI StatementThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Project Report 2",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "weight": "50%",
+      "due_date": "23/05/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Project 2 will complete an extended analysis of the MSD, building upon the analysis presented in Project 1 written as an R Markdown file (.Rmd). Project 2 must include a re-writing of the initial analysis (corrected where necessary based on feedback), followed by applications of one or more techniques of model validation and dealing with missing data in their chosen subset of the MSD (the \"Million Song Dataset\"). Throughout Project 2, students must provide brief descriptions as plain text of the R functions used to generate their outputs, as well including the R syntax as R Markdown code chunks which generates the outputs included in the rendered report (.pdf).For Project 2, students must separately submit both the R Markdown file (.Rmd) and the report file (.pdf) it generates.AI StatementThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
+      "submission_guidelines": "Submit via submission link via Blackboard.\nDeferral or extension\nYou may be able toapply for an extension.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Project 2 will complete an extended analysis of the MSD, building upon the analysis presented in Project 1 written as an R Markdown file (.Rmd). Project 2 must include a re-writing of the initial analysis (corrected where necessary based on feedback), followed by applications of one or more techniques of model validation and dealing with missing data in their chosen subset of the MSD (the \"Million Song Dataset\"). Throughout Project 2, students must provide brief descriptions as plain text of the R functions used to generate their outputs, as well including the R syntax as R Markdown code chunks which generates the outputs included in the rendered report (.pdf).For Project 2, students must separately submit both the R Markdown file (.Rmd) and the report file (.pdf) it generates.AI StatementThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find therequired and recommended resourcesfor this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Lecture",
+      "topic": "Course IntroductionLearning outcomes:L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Lecture",
+      "topic": "Introduction to the Million Song DatasetLearning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial IntroductionLearning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Lecture",
+      "topic": "Descriptive AnalyticsLearning outcomes:L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Tutorial",
+      "topic": "Selecting a Subset of the MSDLearning outcomes:L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Lecture",
+      "topic": "Data VisualisationLearning outcomes:L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Tutorial",
+      "topic": "Descriptive Analytics (MSD)Learning outcomes:L03, L05",
+      "learning_outcomes": [
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Lecture",
+      "topic": "Linear RegressionLearning outcomes:L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Tutorial",
+      "topic": "Data Visualisation (MSD)Learning outcomes:L03, L05",
+      "learning_outcomes": [
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Lecture",
+      "topic": "Week 1 - 5 RecapLearning outcomes:L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Tutorial",
+      "topic": "Linear Regression (MSD)Learning outcomes:L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Lecture",
+      "topic": "Introduction to R MarkdownLearning outcomes:L01, L02, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Tutorial",
+      "topic": "Project 1 Tutorial WorkshopLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Lecture",
+      "topic": "Model ValidationGood Friday Public Holiday - Friday 18 April 2025 - Check Blackboard for announcements about affected classes.Learning outcomes:L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Tutorial",
+      "topic": "\"Using R Markdown  (for Project 2)\"Good Friday Public Holiday - Friday 18 April 2025- Check Blackboard for announcements about affected classes.Learning outcomes:L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "In-Semester Break"
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Lecture",
+      "topic": "Dealing with Missing DataLearning outcomes:L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Tutorial",
+      "topic": "Model Validation (MSD)Learning outcomes:L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Lecture",
+      "topic": "Using Models for PredictionLabour Day Public Holiday - Monday 5 May 2025 - Check Blackboard for announcements about affected classes.Learning outcomes:L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Tutorial",
+      "topic": "Dealing with Missing Data (MSD)Labour Day Public Holiday - Monday 5 May 2025- Check Blackboard for announcements about affected classes.Learning outcomes:L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Lecture",
+      "topic": "Week 7 - 10 RecapLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Tutorial",
+      "topic": "Project 2 Tutorial WorkshopLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Lecture",
+      "topic": "Project 2 Lecture WorkshopLearning outcomes:L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Tutorial",
+      "topic": "Project 2 Tutorial WorkshopLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Lecture",
+      "topic": "Course ReviewLearning outcomes:L01, L05",
+      "learning_outcomes": [
+        "L01",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Tutorial",
+      "topic": "Course ReviewLearning outcomes:L01, L05",
+      "learning_outcomes": [
+        "L01",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the:Student Code of Conduct PolicyStudent Integrity and Misconduct PolicyandProcedureAssessment ProcedureExaminations ProcedureReasonable Adjustments for Students PolicyandProcedureLearn more about UQ policies onmy.UQand thePolicy and Procedure Library.Learning activities"
+}

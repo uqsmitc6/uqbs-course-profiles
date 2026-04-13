@@ -1,0 +1,242 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7208-60199-7560",
+  "scraped_at": "2026-04-13T23:05:32.289994+00:00",
+  "course_code": "BSAN7208",
+  "class_code": "60199",
+  "semester_code": "7560",
+  "full_course_code": "BSAN7208-60199-7560",
+  "course_title": "Visual Analytics",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "External",
+  "attendance_mode": "Online",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "An important part of a business analysts' role is the appropriate and accurate visualisation of insights from analytics activities. This course provides a theoretical basis on which such visualisations are developed, and develops students' data representations skills, while also developing skills with tools and commercial powerBI, Tableau and QlikView.\n\nThis course focuses on the theories, methods, and technical tools that enable analysis, communication, and decision-making with data visualisations. It covers a range of topics from multiple disciplines such as perceptual psychology, data science, and human-computer interaction.ﾠ\n\nThe course is divided into 7 modules:\n\nThis course offers a fully online student experience that engages students through interactive content built into a learning platform. The content engagement is further enhanced with live sessions, coding activities, and discussions on a social platform. Every week has a dedicated live session to dive deeper into a topic, with further examples and activities to practise the several activities in visualisation design and visual analytics.\n\nThe course takes an individual, project-based approach to understanding and practising the steps involved in visual analytics: defining a data problem, performing (visual) exploratory data exploration, designing a visualisation, bringing interactivity, and evaluating a data visualisation. Students will use tools to explore and design (interactive) data visualisations.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "BSAN7205",
+      "DATA7001"
+    ],
+    "restrictions": [
+      "MBusAn, MDataSc"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Mark Bremhorst",
+      "email": "m.bremhorst@business.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Mark Bremhorst"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note:\nTeaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull Name\nStudent ID\nCourse Code",
+  "course_aims": "BSAN7208 Visual Analytics is designed to introduce students to data visualisation and analytics techniques, theory and practice. The course focuses on visualisation design, interaction and evaluation for various type of data to support evidence-based decision making.\n\nStudents will obtain practical skills to build efficient visualisation for data exploration andﾠ communication. The course uses various examples from business and other areas to highlight the crucial role of visualisation in analysing and presenting evidence to stakeholders.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand and apply the fundamental theories of data visualisations."
+    },
+    {
+      "number": "LO2.",
+      "description": "Create efficient and appropriate visualisations to generate insights that support decision making utilising various technologies."
+    },
+    {
+      "number": "LO3.",
+      "description": "Explore and critically evaluate data visualisations to be able to communicate key insights to various stakeholders."
+    },
+    {
+      "number": "LO4.",
+      "description": "Work effectively and collaboratively in a team by critically evaluating the contribution of individual data visualisations in communicating key insights to stakeholders."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "A1 - Problem Statement",
+      "weight": "20%",
+      "due_date": "19/09/2025 4:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Product/ Design",
+      "title": "A2 - Interactive Prototype",
+      "weight": "50%",
+      "due_date": "22/10/2025 4:00 pm"
+    },
+    {
+      "category": "Presentation",
+      "title": "Video presentation",
+      "weight": "30%",
+      "due_date": "31/10/2025 4:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "A1 - Problem Statement",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "19/09/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01",
+      "task_description": "This assessment task is an individual report that draws upon several data sets in a specific business context to support one or more of the United Nations Sustainable Development Goals. In that context, the report is to present an investment recommendation supported by data analysis and data visualisation techniques. The assignment requires that the student use at least three public data sets, taken together as a whole, related to the identified business context. These three or more data sets are then analysed in support of the development of an investment recommendation that addresses one or more SDGs. You should write the report from the perspective of a business or a government entity considering such an investment.The essay is to present an analysis and interpretation of the data using at least two different forms of data visualisation as identified in lectures. The essay is to provide a broad overview of the context of the problem, identify the sources of the data sets and their relevance to the analysis, present the analysis and interpret the results, and finally link the analysis to key supporting arguments for the investment recommendation made. You should state any assumptions you make about your analysis or recommendation.Key to success with this assessment task is succinct analysis and strong links between the data visualisation and the key supporting arguments for the recommendation. The discussion is to be supported by citing research that supports the context, analysis, interpretation, and key arguments made in support of the recommendation.REQUIREMENTSScopeThis assessment task is an individual report that draws upon several data sets. Note that in this context, a data set is simply a ‘table’ of data. It might be a listing of invoices, or employees, or of visitor numbers. Students using a nominated open data set should use at least one other open data set not provided. The report is to present a management recommendation (or recommendations) supported by data analysis and data visualisation techniques.The assignment requires that the student acquire at least three data sets. These data sets, taken together as a whole, relate to the identified context and the associated SDG related problem. Therefore, at least two data sets are to be analysed in support of the development of a management recommendation.The report is to provide a broad overview of the context of the business, identify the sources of the data sets and their relevance to the analysis, present the analysis and interpret the results, and link the analysis to key supporting arguments for the recommendation made. The analysis is to support the development of a management recommendation for a course of action, in line with an evidence-based management culture.The report is to present an analysis and interpretation of the selected data using at least three different types of data visualisation. Furthermore, at least two data sets should be evident in two different types of data visualisations presented. For example, a geo-spatial representation might have two data sets represented in it and a trend line might be used to relate two data sets to each other over time.As part of this requirement, the report should refer to at least three (3) academic, quality, peer reviewed research papers that support the issues, analysis and recommendations outlined in the report.The report should identify the sources of the data used.Generative AI statement:This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assessment task is an individual report that draws upon several data sets in a specific business context to support one or more of the United Nations Sustainable Development Goals. In that context, the report is to present an investment recommendation supported by data analysis and data visualisation techniques. The assignment requires that the student use at least three public data sets, taken together as a whole, related to the identified business context. These three or more data sets are then analysed in support of the development of an investment recommendation that addresses one or more SDGs. You should write the report from the perspective of a business or a government entity considering such an investment.The essay is to present an analysis and interpretation of the data using at least two different forms of data visualisation as identified in lectures. The essay is to provide a broad overview of the context of the problem, identify the sources of the data sets and their relevance to the analysis, present the analysis and interpret the results, and finally link the analysis to key supporting arguments for the investment recommendation made. You should state any assumptions you make about your analysis or recommendation.Key to success with this assessment task is succinct analysis and strong links between the data visualisation and the key supporting arguments for the recommendation. The discussion is to be supported by citing research that supports the context, analysis, interpretation, and key arguments made in support of the recommendation.REQUIREMENTSScopeThis assessment task is an individual report that draws upon several data sets. Note that in this context, a data set is simply a ‘table’ of data. It might be a listing of invoices, or employees, or of visitor numbers. Students using a nominated open data set should use at least one other open data set not provided. The report is to present a management recommendation (or recommendations) supported by data analysis and data visualisation techniques.The assignment requires that the student acquire at least three data sets. These data sets, taken together as a whole, relate to the identified context and the associated SDG related problem. Therefore, at least two data sets are to be analysed in support of the development of a management recommendation.The report is to provide a broad overview of the context of the business, identify the sources of the data sets and their relevance to the analysis, present the analysis and interpret the results, and link the analysis to key supporting arguments for the recommendation made. The analysis is to support the development of a management recommendation for a course of action, in line with an evidence-based management culture.The report is to present an analysis and interpretation of the selected data using at least three different types of data visualisation. Furthermore, at least two data sets should be evident in two different types of data visualisations presented. For example, a geo-spatial representation might have two data sets represented in it and a trend line might be used to relate two data sets to each other over time.As part of this requirement, the report should refer to at least three (3) academic, quality, peer reviewed research papers that support the issues, analysis and recommendations outlined in the report.The report should identify the sources of the data used.Generative AI statement:This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description\nGenerative AI statement:\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.\nTo pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "A2 - Interactive Prototype",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Paper/ Report/ Annotation, Product/ Design",
+      "weight": "50%",
+      "due_date": "22/10/2025 4:00 pm",
+      "learning_outcomes_assessed": "L02",
+      "task_description": "In this assessment, you will create an interactive visualisation prototype. It will involve the design and implementation of a set of interactive visualisations and provide a critical evaluation.The aims of this assignment are:to design a set of interactive visualisations to allow for effective visual data exploration and sense making,to provide a critical evaluation of your designIn Assignment 1, you created a set of visualisations that provide initial insight about the data and helped answer some of the questions that you are exploring.Part 1: Visualisation and interaction designIn the first phase of this section, you will reproduce at least two of the first assignment visualisations, and at least one new visualisation, using the ggplot2 library in R. The aim is to demonstrate your understanding of the principles of the Grammar of Graphics to reproduce a visualisation idiom and create a new visualisation based on requirements. The two visualisations that you must reproduce can slightly differ from the ones you created, but the resulting visualisation should be as close as possible to the original ones.For the new visualisation(s) that you will create with ggplot2, you need to:Describe your use of ggplot2’s grammar of graphics (in terms of data, layer, scale, coordinate and facets)Explain how your design choices allow for efficient visualisation of the data you want to analyse (refer to guidelines and principles from Munzner, Bertin, Tufte etc…)In the second phase of this section, you will bring interactivity to your visualisations. Your interactive visualisations should demonstrate at least three interactions (see Heer and Shneiderman’s taxonomy) and show how they help data exploration and sense-making in the report. You are encouraged to use the interactive libraries covered in Module 3.4.In the third and last phase of this section, you will provide a short evaluation of your design. This evaluation should address issues such as quality of encodings, efficient use of data/ink ratio, and other considerations covered in Module 4.Part 2: ReportStudents will prepare a major report (maximum 8 pages) based on their design and evaluation of their data visualisations. The report is free form but must contain:The ggplot2 code of the reproduced visualisations and the new visualisation(s) (Phase 1)Which interactions were implemented and how they help data exploration and sensemaking (Phase 2)A summary of your data visualisation evaluation (Phase 3)Finalised visualisations that justify the final investment recommendations.Part 3: PresentationEach student is asked to prepare and record a presentation of 15 minutes summarising their work and demonstrating key points using the interactivity they built into their visualisations.Students need to demonstrate the challenges they had in creating their visualisations and how they addressed them.Students should also describe any limitations of their visualisations and analysis. Any future directions that would be needed to better analyse or communicate the data should also be described.The key success factors in the presentation are communication (how well the key points of the investment were summarised for its stakeholders), issues identification, any assumptions made in identifying issues, and presentation style.Generative AI statement:This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "In this assessment, you will create an interactive visualisation prototype. It will involve the design and implementation of a set of interactive visualisations and provide a critical evaluation.The aims of this assignment are:to design a set of interactive visualisations to allow for effective visual data exploration and sense making,to provide a critical evaluation of your designIn Assignment 1, you created a set of visualisations that provide initial insight about the data and helped answer some of the questions that you are exploring.Part 1: Visualisation and interaction designIn the first phase of this section, you will reproduce at least two of the first assignment visualisations, and at least one new visualisation, using the ggplot2 library in R. The aim is to demonstrate your understanding of the principles of the Grammar of Graphics to reproduce a visualisation idiom and create a new visualisation based on requirements. The two visualisations that you must reproduce can slightly differ from the ones you created, but the resulting visualisation should be as close as possible to the original ones.For the new visualisation(s) that you will create with ggplot2, you need to:Describe your use of ggplot2’s grammar of graphics (in terms of data, layer, scale, coordinate and facets)Explain how your design choices allow for efficient visualisation of the data you want to analyse (refer to guidelines and principles from Munzner, Bertin, Tufte etc…)In the second phase of this section, you will bring interactivity to your visualisations. Your interactive visualisations should demonstrate at least three interactions (see Heer and Shneiderman’s taxonomy) and show how they help data exploration and sense-making in the report. You are encouraged to use the interactive libraries covered in Module 3.4.In the third and last phase of this section, you will provide a short evaluation of your design. This evaluation should address issues such as quality of encodings, efficient use of data/ink ratio, and other considerations covered in Module 4.Part 2: ReportStudents will prepare a major report (maximum 8 pages) based on their design and evaluation of their data visualisations. The report is free form but must contain:The ggplot2 code of the reproduced visualisations and the new visualisation(s) (Phase 1)Which interactions were implemented and how they help data exploration and sensemaking (Phase 2)A summary of your data visualisation evaluation (Phase 3)Finalised visualisations that justify the final investment recommendations.Part 3: PresentationEach student is asked to prepare and record a presentation of 15 minutes summarising their work and demonstrating key points using the interactivity they built into their visualisations.Students need to demonstrate the challenges they had in creating their visualisations and how they addressed them.Students should also describe any limitations of their visualisations and analysis. Any future directions that would be needed to better analyse or communicate the data should also be described.The key success factors in the presentation are communication (how well the key points of the investment were summarised for its stakeholders), issues identification, any assumptions made in identifying issues, and presentation style.Generative AI statement:This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description\nGenerative AI statement:\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.\nTo pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Video presentation",
+      "mode": "Activity/ Performance, Product/ Artefact/ Multimedia",
+      "category": "Presentation",
+      "weight": "30%",
+      "due_date": "31/10/2025 4:00 pm",
+      "learning_outcomes_assessed": "L03, L04",
+      "task_description": "This assessment will be completed as a group of 3-5. You will critically reflect on each group member’s report and prepare a group presentation to demonstrate how interactivity built into group members’ visualisations enhanced reporting.Groups need to critique the challenges students had in creating their visualisations and how they addressed them.Groups should also critique any limitations of students' visualisations and analysis. Any future directions that would be needed to better analyse or communicate the data should also be described.The key success factors in the presentation are communication (how well the key points of the investment were summarised for its stakeholders), issues identification, any assumptions made in identifying issues, and presentation style.Generative AI statement:This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assessment will be completed as a group of 3-5. You will critically reflect on each group member’s report and prepare a group presentation to demonstrate how interactivity built into group members’ visualisations enhanced reporting.Groups need to critique the challenges students had in creating their visualisations and how they addressed them.Groups should also critique any limitations of students' visualisations and analysis. Any future directions that would be needed to better analyse or communicate the data should also be described.The key success factors in the presentation are communication (how well the key points of the investment were summarised for its stakeholders), issues identification, any assumptions made in identifying issues, and presentation style.Generative AI statement:This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description\nGenerative AI statement:\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.\nTo pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find therequired and recommended resourcesfor this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Seminar",
+      "topic": "Module 1.1: Introduction to Visual AnalyticsThis topic introduces the general concepts of visual analytics.Live session:This session will focus on staff and student introductions, outlining course objectives, reviewing assessments, and discussing the visual analytics.Preparation: Students need to complete this week's self-directed material before the live session.Learning outcomes:L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Seminar",
+      "topic": "Module 2.1: Theories of visualisationThis topic introduces important theories of designing for visual analytics.Live session:This session will take you through some theories of visualisation with examples from Tufte and Few seeking feedback on the images, their flaws, the causes of problems.Preparation: Students need to complete this week's self-directed material before the live session.Learning outcomes:L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Seminar",
+      "topic": "Module 3.1: Design processThis topic extends theories of visual design to visualisation practices.Live session:This session will introduce the practice of data visualisation for exploration, how to identify various properties of the data, and how to select appropriate exploratory visualisations.Preparation: Students need to complete this week's self-directed material before the live session.Learning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Seminar",
+      "topic": "Module 3.2: Data types and visualisation idiomsThis topic introduces Munzner's approach to visual design.Live session:This session will introduce Munzner's framework to designing data visualisations.Preparation: Students need to complete this week's self-directed material before the live session.Learning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Seminar",
+      "topic": "Module 3.3: The grammar of graphicsThis topic introduces Wilkinson's Grammar of Graphics and apply it to visualisation.Live session:This session will explore ggplot templates that can be used to create different visualisation types.Preparation: Students need to complete this week's self-directed material before the live session.Learning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Seminar",
+      "topic": "Module 3.4: The importance of interactionThis topic continues to explore visualisation and interactivity.Live session:This session will explore some exemplar interactive visualisations and will demonstrate how the interactions support sense making and understanding.Preparation: Students need to complete this week's self-directed material before the live session.Learning outcomes:L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Seminar",
+      "topic": "R TutorialR tutorial: This tutorial will include R visualisation techniques using the grammar of graphics and ggplot.Learning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Seminar",
+      "topic": "Module 4.1: EvaluationThis topic consolidates how knowledge of visual design principles contribute to the evaluation of visualisations.Live session:This session will consolidate critical theories and practice of visual design.Preparation: Students need to complete this week's self-directed material before the live session.Learning outcomes:L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Seminar",
+      "topic": "Module 5.1: From data to vis to insightThis topic explores visual narrative and the use of visualisations in presentations.Live session:This session will explore examples of visual narratives in detail to understand their visual components and how they convey their messages. We will also examine examples of narrative structures using Cohn s schema to help identify their narrative categories and constituents.Preparation: Students need to complete this week's self-directed material before the live session.Kings Birthday Public Holiday - Monday 6 October 2025- Check Blackboard for announcements about affected classes.Learning outcomes:L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Mid Sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "In Semester Break"
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Seminar",
+      "topic": "Module 6.1: Practical ExamplesThis topic explores how to apply visual design principles to the evaluation of visualisations.Live session:This session will apply critical theories and practice of visual design to the critical review of visualisations.Preparation: Students need to complete this week's self-directed material before the live session.Learning outcomes:L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Seminar",
+      "topic": "R TutorialR tutorial: This tutorial will include R visualisation techniques using the grammar of graphics and ggplot.Learning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Seminar",
+      "topic": "Module 7.1: Trends and future direction in Visual AnalyticsThis topic explores future trends in data visualisation theory and practice.Live session:This session will explore immersive technologies, the visualisation practices they support, and emerging trends.Preparation: Students need to complete this week's self-directed material before the live session.Learning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the:Student Code of Conduct PolicyStudent Integrity and Misconduct PolicyandProcedureAssessment ProcedureExaminations ProcedureReasonable Adjustments for Students PolicyandProcedureLearn more about UQ policies onmy.UQand thePolicy and Procedure Library.Learning activities"
+}

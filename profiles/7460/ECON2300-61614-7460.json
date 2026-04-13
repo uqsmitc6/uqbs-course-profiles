@@ -1,0 +1,332 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ECON2300-61614-7460",
+  "scraped_at": "2026-04-13T23:06:59.177142+00:00",
+  "course_code": "ECON2300",
+  "class_code": "61614",
+  "semester_code": "7460",
+  "full_course_code": "ECON2300-61614-7460",
+  "course_title": "Introductory Econometrics",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Economics School",
+  "course_description": "Introductory applied econometric course for students with basic economic statistics background. Topics covered include: economic models and role of econometrics, linear regression with single and multiple regressors, hypothesis testing and confidence intervals, dummy variables and nonlinear regression functions, internal and external validity of regression models, panel data models, binary response models, instrumental variable regressions, experiments and quasi-experiments, as well as basic time series analysis. Practical problems are solved using the R econometrics software.\n\nThis is an introductory course in applied econometrics. It reviews and builds on the simple linear regression model taught in introductory statistics courses such as ECON1310 and ECON1320. The models studied in this course have numerous applications in economics, finance, marketing, management and related areas.ﾠA feature of the course is the way examples and exercises are drawn from these different discipline areas to illustrate the usefulness and limitations of certain econometric/statistical techniques. Hands-on experience in applying these techniques is gained through the use of R, an econometric computer software package available in the BEL computer laboratories. Note also that students can freely download R at [https://www.r-project.org].",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ECON1310",
+      "ECON1010",
+      "STAT2004",
+      "We recommend completing the following courses before enrolling in this one:",
+      "ECON1020",
+      "ECON1050"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Dong-Hyuk Kim",
+      "email": "econ2300@uq.edu.au",
+      "notes": "econ2300@uq.edu.auConsultation to be advised."
+    },
+    {
+      "role": "School enquiries",
+      "name": "Student Enquiries, School of Economics",
+      "email": "enquiries@economics.uq.edu.au",
+      "notes": "All enquiries regarding student and academic administration (i.e. non-course content information, e.g., class allocation, timetables, extension to assessment due date, etc.) should be directed toenquiries@economics.uq.edu.au.Enquiries relating specifically to course content should be directed toecon2300@uq.edu.au."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Dong-Hyuk Kim"
+    },
+    {
+      "role": "Tutor",
+      "name": "Ms April Deng"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Davis Dingle"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Francisco Tavares Garcia"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Samuel Buckland"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Matthew Chan"
+    },
+    {
+      "role": "Tutor",
+      "name": "Ms Sima Dey"
+    },
+    {
+      "role": "Senior tutor",
+      "name": "Mr Dominic Byrne"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLectures commence in Teaching Week 1.\nTutorials commence in Teaching Week 2.\nStudents should refer to the timetable prior to the commencement of classes to ensure that they have the most up to date information, as from time to time late room changes may occur.\nThe timetable is published through the UQ Public Timetable found in the APPs section of myUQ.\nPlease see the Learning Activities section of this Course Profile for the timetabling implications of public holidays.\nPublic Holidays:\nWed 14 August (Royal Queensland Show), Mon 7 October (King's Birthday).\nMid-Semester Break:\n23 - 29 September. Semester 2 classes recommence Monday 30 September.",
+  "course_aims": "The aims of this course are to",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Apply the concept of linear regression to data and interpret results."
+    },
+    {
+      "number": "LO2.",
+      "description": "Critically evaluate underlying theories, concepts, assumptions and arguments in econometrics."
+    },
+    {
+      "number": "LO3.",
+      "description": "Conduct inference using OLS with one variable and multiple variables in analysing real-world data."
+    },
+    {
+      "number": "LO4.",
+      "description": "Extend the linear regression framework to FE estimators, instrumental variables, and nonlinear regression analysis in the estimation of econometric models."
+    },
+    {
+      "number": "LO5.",
+      "description": "Communicate (with potential users) econometric analysis by tables and figures with proper interpretation and policy recommendations."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Problem Solving, Data Analysis and Short Report",
+      "weight": "30%  (7 best out of 10)",
+      "due_date": "Online Periodic Assessments Throughout the Semester"
+    },
+    {
+      "category": "Project",
+      "title": "Project I: Assignment and Brief Research Report",
+      "weight": "15%",
+      "due_date": "10/09/2024 4:00 pm"
+    },
+    {
+      "category": "Project",
+      "title": "Project II: Assignment and Brief Research Report",
+      "weight": "15%",
+      "due_date": "25/10/2024 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Problem Solving, Data Analysis and Short Report",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "30% (7 best out of 10)",
+      "due_date": "Online Periodic Assessments Throughout the Semester",
+      "learning_outcomes_assessed": "L01, L02",
+      "task_description": "Online quizzes (via Blackboard) throughout the semester from Week 2. The exact dates will be announced on Blackboard. There will be a total of 10 quizzes.1) Five will consist of multiple-choice and short-answer questions related to the material covered in lectures and tutorials.2) Five will consist of R exercises related to the material covered in lectures and tutorials.Marks will be awarded as indicated for each question on the quiz. Thehighest 7 scoresacross 10 quizzes will be counted towards a student's final grade for the course. By default, quizzes will be marked automatically by Blackboard; however, students will be given the opportunity to obtain partial marks for incorrect final answers by explaining the steps taken in the derivations and clearly identifying where the error occurred.This assessment task evaluates students' abilities, skills, and knowledge without the aid of artificial intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Online via Blackboard.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nNo extensions are possible, even with a medical certificate. CML access is blocked after the due date and time.\nLate submission\nYou will receive a mark of 0 if this assessment issubmitted late.\nNo late submission will be accepted. No extensions are possible, even with a medical certificate. CML access is blocked after the due date and time.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment issubmitted late.",
+      "ai_statement": "Online quizzes (via Blackboard) throughout the semester from Week 2. The exact dates will be announced on Blackboard. There will be a total of 10 quizzes.1) Five will consist of multiple-choice and short-answer questions related to the material covered in lectures and tutorials.2) Five will consist of R exercises related to the material covered in lectures and tutorials.Marks will be awarded as indicated for each question on the quiz. Thehighest 7 scoresacross 10 quizzes will be counted towards a student's final grade for the course. By default, quizzes will be marked automatically by Blackboard; however, students will be given the opportunity to obtain partial marks for incorrect final answers by explaining the steps taken in the derivations and clearly identifying where the error occurred.This assessment task evaluates students' abilities, skills, and knowledge without the aid of artificial intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task evaluates students' abilities, skills, and knowledge without the aid of artificial intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Project I: Assignment and Brief Research Report",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "15%",
+      "due_date": "10/09/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "You are expected to formulate hypothesis relevant to a research project. Analyse the data using techniques covered under the Learning Objectives as indicated above. Submit a research report summarising your findings and offering policy advice based on your findings.Marks awarded will depend upon the completeness of the project undertaken including the selection of techniques; setting up hypotheses (if relevant); and the quality of the research report submitted.This assessment task evaluates student’s abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Students are required to submit an electronic copy to the Course Coordinator through the course webpage (Blackboard).\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 14 calendar days to ensure timely feedback to other students.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "You are expected to formulate hypothesis relevant to a research project. Analyse the data using techniques covered under the Learning Objectives as indicated above. Submit a research report summarising your findings and offering policy advice based on your findings.Marks awarded will depend upon the completeness of the project undertaken including the selection of techniques; setting up hypotheses (if relevant); and the quality of the research report submitted.This assessment task evaluates student’s abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task evaluates student’s abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Project II: Assignment and Brief Research Report",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "15%",
+      "due_date": "25/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L04, L05",
+      "task_description": "You are expected to formulate hypothesis relevant to a research project. Analyse the data using techniques covered under the Learning Objectives as indicated above. Submit a research report summarising your findings and offering policy advice based on your findings.Marks awarded will depend upon the completeness of the project undertaken including the selection of techniques; setting up hypotheses (if relevant); and the quality of the research report submitted.This assessment task evaluates student’s abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Students are required to submit an electronic copy to the Course Coordinator through the course webpage (Blackboard).\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 14 calendar days to ensure timely feedback to other students.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "You are expected to formulate hypothesis relevant to a research project. Analyse the data using techniques covered under the Learning Objectives as indicated above. Submit a research report summarising your findings and offering policy advice based on your findings.Marks awarded will depend upon the completeness of the project undertaken including the selection of techniques; setting up hypotheses (if relevant); and the quality of the research report submitted.This assessment task evaluates student’s abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task evaluates student’s abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period2/11/2024 - 16/11/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "This is a closed book exam to be sat in a designated examination room at the St Lucia campus. The exam is comprehensive. However, emphasis will be on:Regression with Panel DataRegression with Binary Dependent VariableInstrumental Variables RegressionExperiments and Quasi-ExperimentsMarks will be shown on the paper next to each question. Up to half marks will be awarded for incorrect numerical answers, provided correct methods/formulas have been used.This assessment task provides a verifiable assessment of the students' abilities, skills and knowledge.Read full task descriptionHide full task description",
+      "exam_details": "Planning time10 minutesDuration120 minutesCalculator options(In person) Casio FX82 series only or UQ approved and labelled calculatorOpen/closed bookClosed Book examination - no written materials permittedExam platformPaper basedInvigilationInvigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able todefer this exam.",
+      "deferral_or_extension": "You may be able todefer this exam.",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find therequired and recommended resourcesfor this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1(22 Jul - 28 Jul)",
+      "activity_type": "Lecture",
+      "topic": "IntroductionIntroduction to econometrics; review of statistical concepts; introduction to R.Learning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 2(29 Jul - 04 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Linear Regression with One Regressorthe linear regression model; estimating the coefficients; measure of fit; the least squares assumptions; sampling distribution of the OLS estimator.Learning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 3(05 Aug - 11 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Single Regressor Models: Inferencetesting hypotheses about one of the regression coefficients; confidence intervals for a regression coefficient; dummy variable regressors; heteroskedasticity and homoskedasticity; foundations of OLS; t-statistics and sample size.Learning outcomes:L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 4(12 Aug - 18 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Linear Regression with Multiple Regressorsomitted variable bias; the multiple regression model; the OLS estimator in multiple regression; measure of fit in multiple regression; the least squares assumption in multiple regression; the distribution of the OLS estimator in the multiple regression; multicollinearity.NOTE: Wednesday (14/09) is the Royal Queensland Show day (public holiday). There are no tutorials or consultations on a public holiday. Attend sessions scheduled on other days.Learning outcomes:L01, L02, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 5(19 Aug - 25 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Multiple Regression: Inferencehypothesis tests and confidence intervals for single coefficient; tests of joint hypotheses; testing single restrictions involving multiple coefficients; model specification for multiple regression; case study: test score data.Learning outcomes:L02, L03, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6(26 Aug - 01 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Nonlinear Regression Functionsa general strategy for modeling nonlinear regression functions; nonlinear functions of a single independent variable; interactions between independent variables; case study: nonlinear effects on test scores.Learning outcomes:L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 7(02 Sep - 08 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Assessing Studies Based on Multiple Regressioninternal and external validity; threats to internal validity of multiple regression analysis; internal and external validity when the regression is used for forecasting; case study: test scores and class size.Learning outcomes:L03, L05",
+      "learning_outcomes": [
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8(09 Sep - 15 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Regression with Panel Datadescription and examples of panel data; panel data with two time periods; fixed effects regression; regression with time fixed effects; the fixed effects regression assumptions and standard errors for fixed effects regression; case study: drunk driving laws and traffic deaths.Learning outcomes:L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9(16 Sep - 22 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Regression with a Binary Dependent Variablebinary dependent variable and the linear probability model; probit and logit regression; estimation and inference in the probit and logit models; case study: Boston HDMA data.Learning outcomes:L01, L02, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Mid Sem break(23 Sep - 29 Sep)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "No lecture or tutorials"
+    },
+    {
+      "learning_period": "Week 10(30 Sep - 06 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Instrumental Variables Regressionthe IV estimator with a single regressor and a single instrument; the general IV regression model; checking instrument validity; finding valid instruments; case study: demand for cigarettes.Learning outcomes:L01, L02, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 11(07 Oct - 13 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Experiments and Quasi-Experimentspotential outcomes, causal effects, and idealized experiments; threats to validity of experiments; quasi-experiments and potential problems; case study: effect of class size reductions.NOTE: Monday (7/10) is King's Birthday (public holiday). There are no tutorials or consultations on a public holiday. Attend sessions scheduled on other days.Learning outcomes:L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 12(14 Oct - 20 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Prediction with Many Regressors and Big DataOLS with many regressors, Ridge regression, Lasso method, Principle Components Analysis.Learning outcomes:L01, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13(21 Oct - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "ReviewLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the:Student Code of Conduct PolicyStudent Integrity and Misconduct PolicyandProcedureAssessment ProcedureExaminations ProcedureReasonable Adjustments - Students PolicyandProcedureLearn more about UQ policies onmy.UQand thePolicy and Procedure Library.Learning activities"
+}

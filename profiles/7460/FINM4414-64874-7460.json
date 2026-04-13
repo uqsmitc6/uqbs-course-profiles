@@ -1,0 +1,281 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/FINM4414-64874-7460",
+  "scraped_at": "2026-04-13T23:10:24.232660+00:00",
+  "course_code": "FINM4414",
+  "class_code": "64874",
+  "semester_code": "7460",
+  "full_course_code": "FINM4414-64874-7460",
+  "course_title": "Advanced Financial Modelling",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 16/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "An advanced course in financial modelling with a strong focus on practical application.  Topics covered will include valuation of derivative securities, simulation and lattice methods, and volatility modelling.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "FINM3422"
+    ],
+    "restrictions": [
+      "Restricted to students enrolled in the BAdvFinEcon(Hons)"
+    ]
+  },
+  "course_staff": [
+    {
+      "role": "Course coordinator",
+      "name": "Mr Jon Aster",
+      "email": "j.hearn1@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Adrian Dudek",
+      "email": "a.dudek@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note:\nTeaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull Name\nStudent ID\nCourse Code",
+  "course_aims": "This course aims to provide students with the opportunity to apply advanced financial modelling theories and techniques to the development of solutions for industry problems. In particular, students will be equipped to work collaboratively to integrate their knowledge of a variety of financial theories, collect and analyse data, and utilise a range of technical tools in order to solve problems relevant to industry.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Value a range of options and other derivative securities."
+    },
+    {
+      "number": "LO2.",
+      "description": "Explain how derivative securities are traded in a range of markets."
+    },
+    {
+      "number": "LO3.",
+      "description": "Implement a range of techniques for modelling volatility."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply spreadsheet and programming tools in quantifying volatility and other metrics."
+    },
+    {
+      "number": "LO5.",
+      "description": "Demonstrate core collaborative competencies needed to work effectively in a team."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Examination",
+      "title": "In-Semester Exam During Class",
+      "weight": "30%",
+      "due_date": "28/08/2024 10:10 am",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Assignment - Part 1 (Individual)",
+      "weight": "30%",
+      "due_date": "20/09/2024 5:00 pm"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Assignment - Part 2 (Group)",
+      "weight": "40%",
+      "due_date": "25/10/2024 5:00 pm",
+      "conditions": [
+        "Team or group-based"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-Semester Exam During Class",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "30%",
+      "due_date": "28/08/2024 10:10 am",
+      "learning_outcomes_assessed": "L01, L02",
+      "task_description": "60-minute sit-down closed-book exam to take held inside the usual time and venue for this class.The exam will cover content delivered in weeks 1-4 inclusive and will be comprised of around 15 multiple choice questions, and 1-3 questions from each of the following formats: short answer, calculation, coding.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "exam_details": "Planning time10 minutesDuration60 minutesCalculator options(In person) Casio FX82 series orUQ approved, labelled calculator onlyOpen/closed bookClosed Book examination - no written materials permittedExam platformPaper basedInvigilationInvigilated in person",
+      "submission_guidelines": "Students to write their answers in the answer booklet provided and submit it at the end of the exam.\nDeferral or extension\nYou may be able todefer this exam.\nLate submission\nYou will receive a mark of 0 if this assessment issubmitted late.",
+      "deferral_or_extension": "You may be able todefer this exam.",
+      "late_submission": "You will receive a mark of 0 if this assessment issubmitted late.",
+      "ai_statement": "60-minute sit-down closed-book exam to take held inside the usual time and venue for this class.The exam will cover content delivered in weeks 1-4 inclusive and will be comprised of around 15 multiple choice questions, and 1-3 questions from each of the following formats: short answer, calculation, coding.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment - Part 1 (Individual)",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "30%",
+      "due_date": "20/09/2024 5:00 pm",
+      "learning_outcomes_assessed": "L01, L04",
+      "task_description": "You will design and code an algorithm that can accomplish a series of defined objectives. Detailed information about the requirements of the assignment and the marking criteria will be made available to students on Blackboard.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Electronic submission through Blackboard assignment link.\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "You will design and code an algorithm that can accomplish a series of defined objectives. Detailed information about the requirements of the assignment and the marking criteria will be made available to students on Blackboard.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment - Part 2 (Group)",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "40%",
+      "due_date": "25/10/2024 5:00 pm",
+      "learning_outcomes_assessed": "L01, L03, L04, L05",
+      "task_description": "You will be formed into pairs and will integrate, innovate and refine on each of your individual algorithms submitted for \"Assignment - Part 1 (Individual)\" in response to specific feedback provided for that item and a new series of defined objectives. Detailed information about the requirements of the assignment and the marking criteria will be made available to students on Blackboard.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Electronic submission through Blackboard assignment link.\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "ai_statement": "You will be formed into pairs and will integrate, innovate and refine on each of your individual algorithms submitted for \"Assignment - Part 1 (Individual)\" in response to specific feedback provided for that item and a new series of defined objectives. Detailed information about the requirements of the assignment and the marking criteria will be made available to students on Blackboard.This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on theUQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Seminar",
+      "topic": "Seminar 1 - Market Making and OrderbooksResource: Chapter 1, Course ReaderLecture (3 hours): Learn the concept of making a market, the role of market makers, and the mechanics of order books.Learning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeksFrom Week 2 To Week 5",
+      "activity_type": "General contact hours",
+      "topic": "Consultation with TutorsEach week from week 2 - week 5 consultations will be held that serve as additional drop-in help sessions to review course materials. There will not be defined activities for these sessions, but they will be open for you to seek assistance with course content. Consultations will NOT be held from weeks 6 onwards, but tutors will be available to assist students attending the 3-hour open labs each week.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Seminar",
+      "topic": "Seminar 2 - Introduction to PythonResource: Chapter 2, Course ReaderLecture (2 hours): Learn the course-relevant essentials of the Python programming language.Lab (1 hour): Practice programming in Python by attempting exercises.Learning outcomes:L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Seminar",
+      "topic": "Seminar 3 - Time Series Analysis IResource: Chapter 3, Course ReaderLecture (2 hours): Learn the concept of time series analysis, and about two particular models for time series data: autocorrelation and ARMA.Lab (1 hour): Practice working with autocorrelation and ARMA models.Learning outcomes:L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Seminar",
+      "topic": "Seminar 4 - Time Series Analysis IINOTE: This lecture falls on a public holiday. No class will be held and a pre-recorded video version of the lecture will be posted on Blackboard instead.Resource: Chapter 3, Course ReaderLecture (2 hours): Learn how to apply time series techniques to model stock prices.Lab (1 hour): Practice working with a trading strategy that utilises the concepts learned in this lesson: pair trading.Learning outcomes:L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Seminar",
+      "topic": "Seminar 5 - The Optibook ExchangeResource: Optibook ManualLecture (2 hours): Meet Optibook, a virtual sandbox trading platform designed by Optiver.Lab (1 hour): Get hands-on practice using Optibook.Learning outcomes:L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Seminar",
+      "topic": "Seminar 6 - Our First AlgorithmResource: Chapter 4, Course ReaderMID-SEMESTER EXAM (1 hour): In the first hour of class this week students will sit the mid-semester exam in-person in the usual venue.Lecture (1 hour): Step through the development of a trading algorithm using the concepts and tools learned in previous sessions.Lab (1 hour): Practice implementing and experimenting with the trading algorithm covered in this seminar.Learning outcomes:L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Seminar",
+      "topic": "Seminar 7 - Finishing the Algo, Market MakingResource: Chapter 4, Course ReaderOpen Lab (3 hours): Interactively refine the algorithm from the last seminar by learning to implementstellage, a strategy for scaling the size of your trades depending on the size of the spread being captured.Learning outcomes:L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Seminar",
+      "topic": "Seminar 8 - Basket TradingResource: Chapter 5, Course ReaderOpen Lab (3 hours): Implement and explore the strategy ofbasket tradingused by market makers.Learning outcomes:L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Seminar",
+      "topic": "Seminar 9 - Assignment HelpResource: N/AOpen Lab (3 hours): Get help working through your assignment.Learning outcomes:L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Mid Sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "In-Semester BreakNo classes this week."
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Seminar",
+      "topic": "Seminar 10 - Options Pricing and VolatilityResource: Chapter 6, Course ReaderLecture (2 hours): Learn about how to price options and how to estimate volatility using the market price of options.Lab (1 hour): Practice modelling volatility using the concepts from this seminar.Learning outcomes:L01, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Seminar",
+      "topic": "Seminar 11 - Options Trading IResource: Chapter 7, Course ReaderOpen Lab (3 hours): Interactively work through implementing an options trading strategy.Learning outcomes:L01, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Seminar",
+      "topic": "Seminar 12 - Options Trading IIResource: Chapter 7, Course ReaderOpen Lab (3 hours): Continue working through and improving a strategy for trading options.Learning outcomes:L01, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Seminar",
+      "topic": "Seminar 13 - SummaryResource: N/AOpen Lab (3 hours): Revise content from throughout the course.Learning outcomes:L01, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the:Student Code of Conduct PolicyStudent Integrity and Misconduct PolicyandProcedureAssessment ProcedureExaminations ProcedureReasonable Adjustments - Students PolicyandProcedureLearn more about UQ policies onmy.UQand thePolicy and Procedure Library.Learning activities"
+}

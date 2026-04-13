@@ -1,0 +1,322 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN2205-60211-7460",
+  "scraped_at": "2026-04-13T23:04:50.146812+00:00",
+  "course_code": "BSAN2205",
+  "class_code": "60211",
+  "semester_code": "7460",
+  "full_course_code": "BSAN2205-60211-7460",
+  "course_title": "Machine Learning for Business",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "Using R, this course introduces students to the family of models that define the field of predictive analytics. Specific model forms introduced in the course include linear and logistic regression, neural networks, and recommendation systems. The focus is on developing an intuition for predictive modelling and knowledge of the essential concepts.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "BISM2204",
+      "BSAN2204"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "BISM2205"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Zara Taba",
+      "email": "z.taba@business.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Zara Taba",
+      "email": "z.taba@business.uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note: Teaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull name,\nStudent ID, and\nthe Course Code",
+  "course_aims": "The broad aim of the course is to provide students with an indepth exposure to the methods of machine learning as they apply to business. Emphasis is placed on the established methods of machine learning, including tree-based methods and support vector machines. The course is applied in nature and makes extensive uses of R, which is open-source software for numerical analysis. The course is organised into four modules: preparation for machine learning, regression techniques for prediction and classification, machine learning techniques for prediction and classification, and machine learning methods for clustering. The more general goals of the course are to learn the language of machine learning, develop understanding of the key concepts in the application of machine learning, to develop appreciation of the application of machine learning business, and to develop an awareness of the policy and strategy implications of machine learning for business and beyond. The course builds on BSAN2204 Methods of Business Analytics and provides a context in which students can further develop their understanding of the R environment with a view towards becoming effective and professional business analysts.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Recognise and explain the role of machine learning for business."
+    },
+    {
+      "number": "LO2.",
+      "description": "Explain the key concepts in machine learning for business."
+    },
+    {
+      "number": "LO3.",
+      "description": "Apply the methods of machine learning to business."
+    },
+    {
+      "number": "LO4.",
+      "description": "Compare and critically evaluate the methods of machine learning."
+    },
+    {
+      "number": "LO5.",
+      "description": "Demonstrate how applications of machine learning can inform and improve business performance."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation, Project",
+      "title": "A1 - Project Proposal",
+      "weight": "20%",
+      "due_date": "2/09/2024 5:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Presentation, Project",
+      "title": "A2 - Project Report and Presentation",
+      "weight": "50%",
+      "due_date": "21/10/2024 5:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Practical/ Demonstration, Tutorial/ Problem Set",
+      "title": "A3 - R Based Analytical Take Home Exam",
+      "weight": "30%",
+      "due_date": "11/11/2024 - 15/11/2024",
+      "conditions": [
+        "Online"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "A1 - Project Proposal",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Project",
+      "weight": "20%",
+      "due_date": "2/09/2024 5:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L04",
+      "task_description": "This first assessment item is a project proposal outlining the application of a method of predictive analytics to business. The proposal is an individual and written assessment item.Students will write proposals in the range of 1,500 to 2,000. The proposal should contain several key components.1) Background2) Problem definition3) Proposed approach/method of analysis4) Data/information requirements5) Analysis plan6) Project directionsMore details of criteria and suggestions for approaching each section of the proposal will be discussed in class and provided in written form on Blackboard. Note students are expected to submit their proposals in Word format.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Submit through Blackboard.\nDeferral or extension\nYou may be able toapply for an extension.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This first assessment item is a project proposal outlining the application of a method of predictive analytics to business. The proposal is an individual and written assessment item.Students will write proposals in the range of 1,500 to 2,000. The proposal should contain several key components.1) Background2) Problem definition3) Proposed approach/method of analysis4) Data/information requirements5) Analysis plan6) Project directionsMore details of criteria and suggestions for approaching each section of the proposal will be discussed in class and provided in written form on Blackboard. Note students are expected to submit their proposals in Word format.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nArtificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task.. Students must clearly reference any use of AI in each instance.\nA failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "A2 - Project Report and Presentation",
+      "mode": "Oral, Product/ Artefact/ Multimedia",
+      "category": "Computer Code, Paper/ Report/ Annotation, Presentation, Project",
+      "weight": "50%",
+      "due_date": "21/10/2024 5:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L04, L05",
+      "task_description": "This second assessment item is a project report documenting the application of a method of predictive analytics to business. The report is an individual and written assessment item, and should follow-on from the project proposal. Students will write reports in the range of 3,000 to 3,500. The report should contain several key components.1) Background/problem definition3) Proposed approach/method of analysis4) Data/information requirements5) Analysis plan/modelling approach6) Data screening/testing assumptions7) Results and discussion/interpretations8) Summary of key findings9) Project summaryMore details of criteria and suggestions for approaching each section of the report will be discussed in class and provided in written form on Blackboard. Note students are expected to submit their proposals in PowerPoint format and further, record and submit a recording of their presentations.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Submit through Blackboard.\nDeferral or extension\nYou may be able toapply for an extension.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This second assessment item is a project report documenting the application of a method of predictive analytics to business. The report is an individual and written assessment item, and should follow-on from the project proposal. Students will write reports in the range of 3,000 to 3,500. The report should contain several key components.1) Background/problem definition3) Proposed approach/method of analysis4) Data/information requirements5) Analysis plan/modelling approach6) Data screening/testing assumptions7) Results and discussion/interpretations8) Summary of key findings9) Project summaryMore details of criteria and suggestions for approaching each section of the report will be discussed in class and provided in written form on Blackboard. Note students are expected to submit their proposals in PowerPoint format and further, record and submit a recording of their presentations.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nArtificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance.\nA failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "A3 - R Based Analytical Take Home Exam",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Practical/ Demonstration, Tutorial/ Problem Set",
+      "weight": "30%",
+      "due_date": "11/11/2024 - 15/11/2024",
+      "learning_outcomes_assessed": "L03, L05",
+      "task_description": "This third assignment item is a School-based take-home assessment will run during the final exam period. Expectations for the assessment will be discussed in class. Briefly, the assessment will consistent of short-answer style questions focused on the core content of the course and process questions that require students to run analyses in R, and report and interpret the results of their R analysis.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "All assessment is to be submitted through Blackboard , detailed submission instructions will be provided on the course Blackboard Course Site.\nDeferral or extension\nYou may be able toapply for an extension.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This third assignment item is a School-based take-home assessment will run during the final exam period. Expectations for the assessment will be discussed in class. Briefly, the assessment will consistent of short-answer style questions focused on the core content of the course and process questions that require students to run analyses in R, and report and interpret the results of their R analysis.Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nArtificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance.\nA failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find therequired and recommended resourcesfor this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Seminar",
+      "topic": "1. Course Introduction and A1 OverviewLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Seminar",
+      "topic": "2. Preparation for Machine LearningLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Seminar",
+      "topic": "3. Linear RegressionLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Seminar",
+      "topic": "4. Logistic RegressionLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Seminar",
+      "topic": "5. Time Series AnalysisLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Seminar",
+      "topic": "6. Tree-Based MethodsLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Seminar",
+      "topic": "7. Support Vector Machines and A2 OverviewLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Seminar",
+      "topic": "8. Ensemble MethodsLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Seminar",
+      "topic": "9. ClusteringLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Mid Sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "In-Semester BreakLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Seminar",
+      "topic": "10. Project WorkshopLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Seminar",
+      "topic": "11. Association Rule LearningLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Seminar",
+      "topic": "12. Collaborative FilteringLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Seminar",
+      "topic": "13. Course Revision and A3 PreparationLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the:Student Code of Conduct PolicyStudent Integrity and Misconduct PolicyandProcedureAssessment ProcedureExaminations ProcedureReasonable Adjustments - Students PolicyandProcedureLearn more about UQ policies onmy.UQand thePolicy and Procedure Library.Learning activities"
+}

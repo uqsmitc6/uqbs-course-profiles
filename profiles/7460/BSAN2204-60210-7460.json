@@ -1,0 +1,251 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN2204-60210-7460",
+  "scraped_at": "2026-04-13T23:04:44.474351+00:00",
+  "course_code": "BSAN2204",
+  "class_code": "60210",
+  "semester_code": "7460",
+  "full_course_code": "BSAN2204-60210-7460",
+  "course_title": "Methods of Business Analytics",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "This course introduces students to R for the purpose of business analytics and to basic programming concepts used in R. The focus is on an introduction to R, including R infrastructure and interfaces, manipulating and exploring data, predictive models, data export and output, and optimising R code.\n\nThe book/filmMoneyballby Michael Louis has captured the popular imagination -- showing the value of analytics of improving decision making and achieving a desired outcome.Moneyballillustrates the application of analytics to professional sports, but there any many more applications and perhaps none more important than the application of analytics to business. The application of analytics can significantly improve organsiational outcomes across all aspects of business -- accounting/finance, people/talent, operations, marketing, social media, and supply chain. The course BSAN2204 R for Business Analytics is the first course in the business analytics major after the course BSAN2201 Principles of Business Analytics. The focus of R for Business Analytics is the methods of business analytics and their applications to solving business problems -- preparing students for and equipping them with the skills they need to complete the business analytics major and to pursue careers with the analytics advantage.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1040"
+    ],
+    "companions": [
+      "We recommend completing the following courses at the same time:",
+      "BISM2201",
+      "BSAN2201"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "BISM2204"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Thomas Magor",
+      "email": "t.magor@business.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Thomas Magor",
+      "email": "t.magor@business.uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note: Teaching staff doﾠnotﾠhave access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you emailﾠ\nbusiness.mytimetable@uq.edu.au\nﾠfrom your UQ student email account with the following details:\nFull name,\nStudent ID, and\nthe Course Code",
+  "course_aims": "The primary aim of the course is to provide students with an overview of the methods of business analytics and to prepare students to successfully enter and complete the subsequent courses in the business analytics major. The methods include data visualisation, basic statistical analysis, predictive analytics/forecasting, data mining/machine learning, and text/web analytics. The course also provides an introduction to the use of R -- a mathematical computing environment for analytics used by millions around the world. The course leverages insights from the companion course -- Principles of Business Analytics -- to show how the methods of business analytics can solve real business problems.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Recognise and explain the role of R for business analytics."
+    },
+    {
+      "number": "LO2.",
+      "description": "Explain the basic concepts used in R for managing and manipulating data."
+    },
+    {
+      "number": "LO3.",
+      "description": "Apply R for basic business analytics tasks, including data visualisation and predictive analytics/forecasting."
+    },
+    {
+      "number": "LO4.",
+      "description": "Compare and critically evaluate competing methods of business analytics."
+    },
+    {
+      "number": "LO5.",
+      "description": "Demonstrate how business analytics can inform and improve managerial decision making."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Project Report 1",
+      "weight": "50%",
+      "due_date": "30/08/2024 4:00 pm"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "title": "Project Report 2",
+      "weight": "50%",
+      "due_date": "18/10/2024 4:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Project Report 1",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "50%",
+      "due_date": "30/08/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "This first project report will provide an introduction to the dataset the MSD (\"Million Song Dataset\") and demonstrate your ability to use the basic methods of business analytics introduced in the first half of the semester (data visualisation, descriptive statistics and a basic linear regression model).AI StatementThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
+      "submission_guidelines": "Submit via submission link on Blackboard\nDeferral or extension\nYou may be able toapply for an extension.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This first project report will provide an introduction to the dataset the MSD (\"Million Song Dataset\") and demonstrate your ability to use the basic methods of business analytics introduced in the first half of the semester (data visualisation, descriptive statistics and a basic linear regression model).AI StatementThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Project Report 2",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "weight": "50%",
+      "due_date": "18/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L02, L03, L04",
+      "task_description": "This second report will provide both technical documentation of the R script used in your analysis and demonstrate your ability to extend your analysis using the methods of business analytics taught in the latter half of the semester.AI StatementThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
+      "submission_guidelines": "Submit via submission link via Blackboard.\nDeferral or extension\nYou may be able toapply for an extension.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This second report will provide both technical documentation of the R script used in your analysis and demonstrate your ability to extend your analysis using the methods of business analytics taught in the latter half of the semester.AI StatementThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find therequired and recommended resourcesfor this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Seminar",
+      "topic": "Course IntroductionCourse Introduction, software requirements and information about the first assessment will be provided during this seminar.Learning outcomes:L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Seminar",
+      "topic": "Introduction to the Million Song DatasetLearning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Seminar",
+      "topic": "Data VisualisationLearning outcomes:L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Seminar",
+      "topic": "Descriptive AnalyticsLearning outcomes:L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Seminar",
+      "topic": "Linear RegressionLearning outcomes:L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Seminar",
+      "topic": "Project Report 1 WorkshopLearning outcomes:L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Seminar",
+      "topic": "Introduction to R MarkdownLearning outcomes:L01, L02, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Seminar",
+      "topic": "Extensions to Linear RegressionLearning outcomes:L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Seminar",
+      "topic": "Dealing with Missing DataLearning outcomes:L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Mid Sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "In-Semester Break"
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Seminar",
+      "topic": "Project 2 WorkshopLearning outcomes:L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "King's Birthday Public Holiday"
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Seminar",
+      "topic": "Project 2 Workshop (Troubleshooting)Learning outcomes:L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Seminar",
+      "topic": "Course ReviewLearning outcomes:L01, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the:Student Code of Conduct PolicyStudent Integrity and Misconduct PolicyandProcedureAssessment ProcedureExaminations ProcedureReasonable Adjustments - Students PolicyandProcedureLearn more about UQ policies onmy.UQand thePolicy and Procedure Library.Learning activities"
+}

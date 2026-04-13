@@ -1,0 +1,415 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ECON3360-60741-7560",
+  "scraped_at": "2026-04-13T23:07:39.206859+00:00",
+  "course_code": "ECON3360",
+  "class_code": "60741",
+  "semester_code": "7560",
+  "full_course_code": "ECON3360-60741-7560",
+  "course_title": "Causal Inference for Microeconometrics",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Economics School",
+  "course_description": "The purpose of the course is to offer advanced students in Economics, Commerce and Business an understanding of the econometric tools that apply to microeconomic data. The approach is from an applied perspective. Lectures will introduce specific cross-sectional and panel models and the techniques required to estimate/predict with the model. The course will make use of the econometric package, Stata, for purposes of analysing of the data. Core content includes the analysis of individual-level data on the economic behaviour of individuals or firms using regression methods for cross section and panel data. Skills and Perspective provided by applications in the area of labour economics, consumer choice, health and education.Assumed Background: Students are expected to have an intermediate knowledge (second year undergraduate at least) of economic theory and econometrics or statistics and mathematics (see prerequisites).\n\nThe course covers concepts and methods that are widely employed in contemporary applied microeconomics. It will be centred around the estimation of causal or treatment effects using regression-based analysis. Empirical examples will be drawn from recent research in labour, development, education, and health.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ECON2300",
+      "ECON2010",
+      "ECON2011"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ECON3300"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Julie Moschion",
+      "email": "j.moschion@uq.edu.au",
+      "notes": "Consultation announced on Blackboard."
+    },
+    {
+      "role": "School enquiries",
+      "name": "Student Enquiries, School of Economics",
+      "email": "enquiries@economics.uq.edu.au",
+      "notes": "All enquiries regarding student and academic administration (i.e. non-course content information, e.g., class allocation, timetables, extension to assessment due date, etc.) should be directed toenquiries@economics.uq.edu.au.Enquiries relating specifically to course content should be directed to the Course Coordinator/Lecturer."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Julie Moschion",
+      "email": "j.moschion@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Xinyang Li"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Mosharop Hossian"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Ryan Leung"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nTutorials commence in week 1. Students are required to log their preferences for a tutorial group through My Timetable and attend their allocated timeslot. It is essential that you attend the tutorial class you have signed to, as classes are held in labs where numbers are limited. If your tutorial is scheduled on a public holiday, you may attend another tutorial in that week.\nStudents should refer to the timetable prior to the commencement of classes to ensure that they have the most up-to-date information, as from time to time late room changes may occur.\nImportant Dates:\nPublic Holidays\n: Wed 13 August (Royal Queensland Show Holiday), Mon 6 October (King’s Birthday public holiday).\nMid-Semester Break\n: 29 September – 3 October. Semester 2 classes recommence on Tue 7 October.",
+  "course_aims": "This course aims to (i) provide students with an advanced understanding of microeconometric models and estimation methods; (ii) enable students to program and analyse econometric models using the software Stata; and (iii) allow students to read and understand advanced econometric work in academic journals.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Connect foundational economic knowledge acquired in microeconomics and econometrics to real-world issues."
+    },
+    {
+      "number": "LO2.",
+      "description": "Explain the difference between causality and correlations, and choose the appropriate econometric method in different contexts."
+    },
+    {
+      "number": "LO3.",
+      "description": "Apply econometric methods to real-world data using appropriate statistical software, report and critically interpret empirical results."
+    },
+    {
+      "number": "LO4.",
+      "description": "Summarize empirical academic papers published in economic journals and develop your own research ideas."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "2 in class quizzes",
+      "weight": "40%  (20% each)",
+      "due_date": "2/09/2025; 23/09/2025",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Article review and research idea",
+      "weight": "30%",
+      "due_date": "10/10/2025 2:00 pm"
+    },
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Problem set in Stata",
+      "weight": "30%",
+      "due_date": "31/10/2025 2:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "2 in class quizzes",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "40% (20% each)",
+      "due_date": "2/09/202523/09/2025",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "Student IDs are mandatory.Students must present a valid photo ID cardto be admitted into the room for the quiz, i.e. a university-issued ID card, a temporary university-issued ID document, a current passport, or current Aus driver’s licence or government ID card.Students should be at the venue for your quiz on time in the weeks of assessment. If you arrive late to the session, you will not receive additional time to complete the quiz.The 60-minute quizzes will contain MCQs and scenarios (sequential series of MCQs). Incorrect answers will not be subject to penalties.The first will focus on all the material taught up to lecture 4 and tutorial 5. The second will focus on all the material taught up to lecture 8 and tutorial 8.This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Quizzes are taken and submitted in class.\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 3 days. Extensions are given in multiples of 24 hours.\nRequests for sitting the replacement quiz must be submitted through my.UQ with supporting documentation on the date of the original quiz at the latest.\nYou will need to demonstrate through supporting documentation how unavoidable circumstances prevented you from sitting your quiz. When applying under medical reasons, your medical certificate must cover the date of the in-class quiz.\nIf your extension request is approved, you will be notified of the scheduled date and time of the replacement quiz.There are no provisions to defer a replacement quiz. You need to be available to sit your replacement quiz.\nLate submission\nYou will receive a mark of 0 if this assessment issubmitted late.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "You will receive a mark of 0 if this assessment issubmitted late.",
+      "ai_statement": "Student IDs are mandatory.Students must present a valid photo ID cardto be admitted into the room for the quiz, i.e. a university-issued ID card, a temporary university-issued ID document, a current passport, or current Aus driver’s licence or government ID card.Students should be at the venue for your quiz on time in the weeks of assessment. If you arrive late to the session, you will not receive additional time to complete the quiz.The 60-minute quizzes will contain MCQs and scenarios (sequential series of MCQs). Incorrect answers will not be subject to penalties.The first will focus on all the material taught up to lecture 4 and tutorial 5. The second will focus on all the material taught up to lecture 8 and tutorial 8.This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Article review and research idea",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "30%",
+      "due_date": "10/10/2025 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "- We expect students to produce a 2-page summary of an academic paper. Students will select a paper that fits with their research interests among a list of very well-established/published papers. The summary should follow a standard structure outlining the research question; the data; the empirical strategy...- The 1-page research proposal should follow the same structure and present a research idea that you would like to implement in the future (i.e based on a research question that you find exciting). It should clearly explain the potential issues with estimating the parameter of interest and the econometric method proposed to overcome these difficulties (in words and using regression notations). You have to use a method that was covered in this course. Students should describe potential datasets but are not expected to produce the empirical analysis.- Further instructions will be provided at least one week before the deadline.- You will need to demonstrate that: you understand the difference between correlations and causality when summarising an academic paper and when proposing your own research ideas. Particular attention will be given to the accurate description of econometric methods and results.This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
+      "submission_guidelines": "The assignment must be submitted via BB by the due date and time.\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 21 days. Extensions are given in multiples of 24 hours.\nLimitations to the duration of the extension apply to ensure all grades can be finalised.\nRequests for the granting of extensions must be submitted through my.UQ:Applying for an extension - my.UQ - University of Queenslandwith supporting documentation before the submission due date and time. If an extension is approved, the new agreed date for submission will be noted on the application and the student notified through their student email. Extensions cannot exceed the number of days you suffered from a medical condition, as stated on the medical certificate.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nPenalties will be applied unless an extension has been granted.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "- We expect students to produce a 2-page summary of an academic paper. Students will select a paper that fits with their research interests among a list of very well-established/published papers. The summary should follow a standard structure outlining the research question; the data; the empirical strategy...- The 1-page research proposal should follow the same structure and present a research idea that you would like to implement in the future (i.e based on a research question that you find exciting). It should clearly explain the potential issues with estimating the parameter of interest and the econometric method proposed to overcome these difficulties (in words and using regression notations). You have to use a method that was covered in this course. Students should describe potential datasets but are not expected to produce the empirical analysis.- Further instructions will be provided at least one week before the deadline.- You will need to demonstrate that: you understand the difference between correlations and causality when summarising an academic paper and when proposing your own research ideas. Particular attention will be given to the accurate description of econometric methods and results.This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.\nTo pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Problem set in Stata",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "30%",
+      "due_date": "31/10/2025 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "- The problem set consists of questions that require short answers and some calculations in STATA.- Further details about the problem set will be provided in class and posted to our course BB site.- The problem set will be given at least a week in advance of the due date.This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description",
+      "submission_guidelines": "Submit via Blackboard by the due date and time.\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLimitations to the duration of the extension apply to ensure all grades can be finalised.\nRequests for the granting of extensions must be submitted through my.UQ:Applying for an extension - my.UQ - University of Queenslandwith supporting documentation before the submission due date and time. If an extension is approved, the new agreed date for submission will be noted on the application and the student notified through their student email. Extensions cannot exceed the number of days you suffered from a medical condition, as stated on the medical certificate.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nPenalties will be applied unless an extension has been granted.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "- The problem set consists of questions that require short answers and some calculations in STATA.- Further details about the problem set will be provided in class and posted to our course BB site.- The problem set will be given at least a week in advance of the due date.This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.Read full task descriptionHide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.\nTo pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find therequired and recommended resourcesfor this course on the UQ Library website.\nOwn copy required\nYou'll need to have your own copy of the following reading resources. We've indicated below if you need a personal copy of the reading materials or your own item.\nItemDescriptionBookIntroductory econometrics: a modern approachby Wooldridge; Jeffrey M. - 2020Edition:7thPublisher:CengageISBN:9781337558860; 9781337671330; 9789355731074BookMostly harmless econometrics: an empiricist's companionby Angrist; Joshua David; Pischke; Jörn-Steffen - 2009Publisher:Princeton University PressISBN:9781400829828; 9781282608092; 9780691120348; 9780691120355",
+    "own_copy_required": "You'll need to have your own copy of the following reading resources. We've indicated below if you need a personal copy of the reading materials or your own item.\nItemDescriptionBookIntroductory econometrics: a modern approachby Wooldridge; Jeffrey M. - 2020Edition:7thPublisher:CengageISBN:9781337558860; 9781337671330; 9789355731074BookMostly harmless econometrics: an empiricist's companionby Angrist; Joshua David; Pischke; Jörn-Steffen - 2009Publisher:Princeton University PressISBN:9781400829828; 9781282608092; 9780691120348; 9780691120355"
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1(28 Jul - 03 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 1: Review linear regressionsReadings/Ref: Angrist Pischke, 2009 (chapter 3); Wooldridge, 2020 (chapters 1-4)Learning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 1(28 Jul - 03 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 1: Introduction to STATALearning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 2(04 Aug - 10 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 2: Randomised controlled trials (RCT)Readings/Ref: Angrist Pischke, 2009 (chapter 2); Wooldridge, 2020 (sections 3.2-3.4; 6.2; 8.1-8.2)Learning outcomes:L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 2(04 Aug - 10 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 2: Stata application of linear modelsFirst class in Stata. Running regressions and interpreting outputs from Stata.Learning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 3(11 Aug - 17 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 3: Instrumental variablesReadings/Ref: Angrist Pischke, 2009 (chapter 4); Wooldridge, 2020 (chapter 15)Learning outcomes:L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3(11 Aug - 17 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 3: Stata applications of RCTsPlease note that Wed 13 August is a public holiday, there will be no tutorial on this day. If you attend tutorial on this day, please attend another session for this week only.Learning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 4(18 Aug - 24 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 4: Simultaneous equations modelReadings/Ref: Wooldridge, 2020 (chapter 16)Learning outcomes:L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 4(18 Aug - 24 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 4: Stata applications of IVLearning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 5(25 Aug - 31 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 5: Regression discontinuity design (RD)Readings/Ref: Angrist Pischke, 2009 (chapter 6)Learning outcomes:L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 5(25 Aug - 31 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 5: Stata applications of IV & simultaneous equations modelLearning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 6(01 Sep - 07 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 6: Quiz & Research paperReadings/Ref: Angrist Pischke, 2009 (chapter 1); Wooldridge, 2020 (chapter 19)Learning outcomes:L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6(01 Sep - 07 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 6: Stata applications of sharp RDLearning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 7(08 Sep - 14 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 7: Difference-in-differencesReadings/Ref: Angrist Pischke, 2009 (chapter 5); Wooldridge, 2020 (chapter 13)Learning outcomes:L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 7(08 Sep - 14 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 7: Stata applications of fuzzy RDLearning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 8(15 Sep - 21 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 8: Advanced panel data methodsReadings/Ref: Angrist Pischke, 2009 (chapter 5); Wooldridge, 2020 (chapter 14)Learning outcomes:L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 8(15 Sep - 21 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 8: Stata applications of difference-in-differencesLearning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 9(22 Sep - 28 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 9: Quiz and Interactive Q&AAfter the quiz, the students will have an opportunity to ask questions about assessment 2 (article review and research idea).Learning outcomes:L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9(22 Sep - 28 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 9: Stata applications of panel data methodsLearning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Mid Sem break(29 Sep - 05 Oct)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Mid-Semester breakNo lecture or tutorials during the break."
+    },
+    {
+      "learning_period": "Week 10(06 Oct - 12 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 10: Limited dependent variable modelsReadings/Ref: Wooldridge, 2020 (chapter 17).Learning outcomes:L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 10(06 Oct - 12 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 10: Stata applications of LDV modelsLearning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 11(13 Oct - 19 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 11: Propensity score matching (PSM)Learning outcomes:L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 11(13 Oct - 19 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 11: Stata applications of PSMLearning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 12(20 Oct - 26 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 12: Quantile regressionReadings/Ref: Angrist Pischke, 2009 (chapter 7)Learning outcomes:L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 12(20 Oct - 26 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 12: Stata applications of QRLearning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 13(27 Oct - 02 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 13: Revision lectureLearning outcomes:L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the:Student Code of Conduct PolicyStudent Integrity and Misconduct PolicyandProcedureAssessment ProcedureExaminations ProcedureReasonable Adjustments for Students PolicyandProcedureLearn more about UQ policies onmy.UQand thePolicy and Procedure Library.Learning activities"
+}

@@ -1,0 +1,262 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN3209-20063-7520",
+  "scraped_at": "2026-04-13T23:04:56.695434+00:00",
+  "course_code": "BSAN3209",
+  "class_code": "20063",
+  "semester_code": "7520",
+  "full_course_code": "BSAN3209-20063-7520",
+  "course_title": "Prescriptive Analytics for Business",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "The use of analytics to support decision making is the goal of prescriptive analytics. Optimisation and simulation techniques are often the focus of prescriptive analytics exercises and are the primary focus of this course. These methods - optimisation and simulation techniques - provide analysts with powerful frameworks to solve business problems and guide decision making. The course brings these techniques to life using the R software to solve practical business problems.\n\nIn his ground-breaking book,Super Crunchers, by Ian Ayres shows that decision making informed by analytics can (positively) transform business, government, and society. Prescriptive analytics, which focuses on the use of analytics to inform decision making lies at the heart of this transformation. This improved decision making by made possible by using optimisation and simulation techniques, which are the core methods of prescriptive analytics. The application area could be any area of business from accounting and finance to management and marketing (for example, portfolio optimisation in the case of finance or revenue optimisation in the case of marketing). This course places special emphasis on linear programming, which is one of the most commonly used optimisation techniques in business. This technique and others (for example, stochastic optimisation) are brought to life using Python and R. The course provides an introduction to the key concepts in optimisation and simulation, and offers instruction and insight on the application of these techniques to problems in business.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "BISM2204",
+      "BSAN2204"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "BISM3209"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Zara Taba",
+      "email": "z.taba@business.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Zara Taba"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note\n: Teaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull name\nStudent ID\nCourse Code",
+  "course_aims": "Prescriptive analytics is more directly linked to successful decision-making than any other form of business analytics. It can help you systematically sort through your choices to optimize decisions, respond to new opportunities and risks with precision, and continually reflect new information into your decisioning process.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain the value of using prescriptive analytics to support decision making"
+    },
+    {
+      "number": "LO2.",
+      "description": "Explain the basic concepts used in prescriptive analytics, especially optimisation and simulation techniques"
+    },
+    {
+      "number": "LO3.",
+      "description": "Outline and describe a range of approaches that are used to solve optimisation problems in business, including linear and stochastic programming"
+    },
+    {
+      "number": "LO4.",
+      "description": "Implement optimisation and simulation techniques in R, especially linear programming"
+    },
+    {
+      "number": "LO5.",
+      "description": "Evaluate the value of prescriptive analytics to business practice, especially the use of optimisation and simulation techniques."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Presentation, Project",
+      "title": "A1 - Optimisation Project",
+      "weight": "35%",
+      "due_date": "17/04/2025 5:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "A2 - Simulation",
+      "weight": "35%",
+      "due_date": "19/05/2025 5:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "A3 - Quiz",
+      "weight": "30%",
+      "due_date": "Week 11, Tue 2:00 pm; During Class"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "A1 - Optimisation Project",
+      "mode": "Oral, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Presentation, Project",
+      "weight": "35%",
+      "due_date": "17/04/2025 5:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L04, L05",
+      "task_description": "This first assignment is an optimisation task for a business addressing the needs of different stakeholders. More details will be provided on Blackboard and discussed in class.Please Note:The presentation will be recorded for marking purposes per UQ Policy.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able toapply for an extension.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This first assignment is an optimisation task for a business addressing the needs of different stakeholders. More details will be provided on Blackboard and discussed in class.Please Note:The presentation will be recorded for marking purposes per UQ Policy.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "A2 - Simulation",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "35%",
+      "due_date": "19/05/2025 5:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Details will be discussed during class and provided on Blackboard.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able toapply for an extension.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Details will be discussed during class and provided on Blackboard.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "A3 - Quiz",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "30%",
+      "due_date": "Week 11, Tue 2:00 pmDuring Class",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "This third assignment item is a School-based quiz. Expectations for the assessment will be discussed in class.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able todefer this exam.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able todefer this exam.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This third assignment item is a School-based quiz. Expectations for the assessment will be discussed in class.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find therequired and recommended resourcesfor this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Seminar",
+      "topic": "Course Introduction and Assessment OverviewLearning outcomes:L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Seminar",
+      "topic": "Introduction to Business Analytics and Decision-MakingLearning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Seminar",
+      "topic": "Optimisation and Optimal Decision-MakingLearning outcomes:L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Seminar",
+      "topic": "Solving LP Problems in PythonLearning outcomes:L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Seminar",
+      "topic": "Sensitivity analysisLearning outcomes:L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Seminar",
+      "topic": "Integer Programming ModelsLearning outcomes:L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Seminar",
+      "topic": "Case studies in Integer IPLearning outcomes:L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Seminar",
+      "topic": "Linear programming case studies- R peogrammingLearning outcomes:L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Seminar",
+      "topic": "Simulation Modelling for Decision-Making Part 1Learning outcomes:L01, L02, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 10(05 May - 11 May)",
+      "activity_type": "Seminar",
+      "topic": "Simulation Modelling for Decision-Making Part 2Learning outcomes:L01, L02, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Seminar",
+      "topic": "Multi Criteria Decision MakingLearning outcomes:L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Seminar",
+      "topic": "The Future of Business Analytics and Introduction to stochastic programmingLearning outcomes:L01, L05",
+      "learning_outcomes": [
+        "L01",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Seminar",
+      "topic": "Course reviewLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the:Student Code of Conduct PolicyStudent Integrity and Misconduct PolicyandProcedureAssessment ProcedureExaminations ProcedureReasonable Adjustments for Students PolicyandProcedureLearn more about UQ policies onmy.UQand thePolicy and Procedure Library.Learning activities"
+}

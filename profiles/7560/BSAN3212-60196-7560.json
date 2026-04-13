@@ -1,0 +1,257 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN3212-60196-7560",
+  "scraped_at": "2026-04-13T23:05:04.538069+00:00",
+  "course_code": "BSAN3212",
+  "class_code": "60196",
+  "semester_code": "7560",
+  "full_course_code": "BSAN3212-60196-7560",
+  "course_title": "Deep Learning for Business",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "Businesses are increasingly finding application of artificial intelligence (AI) to their business processes, offerings, and strategies. Application areas include content recommendation and fraud detection systems, image detection and object classification, personalisation, and self-driving cars. Recent developments in artificial neural networks - referred to as \"deep learning\" - have made these applications possible. This course provides students with an in-depth exposure to the theory and models of deep learning, with an emphasis on artificial neural networks. These developments extend and greatly improve the predictive accuracy of the traditional machine learning models of predictive analytics. Furthermore, the course provides instruction on software for implementing deep learning models with reference to business and wider applications.\n\nIncreasingly, businesses are pursuing impactful and productive applications of Machine Learning (ML) to their business processes, offerings, and strategies. Examples include Netflix’s content recommendation system, Danske Bank’s fraud detection system, and Facebook’s use of image detection and object classification, and Google’s self-driving car initiative, along with the current ubiquity of large language models such as ChatGPT. All these applications have been made possible by recent significant breakthroughs in Artificial Intelligence (AI) and ML. Understanding these methods, along with their strengths and weaknesses, will only grow in importance as time goes on.\n\nThe purpose of this course is to provide students with broad coverage of the methods and models used in deep learning, with an emphasis on recent advances in the application of artificial neural networks. Students will learn the fundamentals of deep learning and gain hands-on experience applying models such as convolutional neural networks (CNNs), Recurrent Neural Networks (RNNs), and Transformers to real world examples commonly encountered in the private sector including image recognition, sentiment analysis, and fraud detection.Students will also explore how Generative AI works and how it could be used reliably in a business context. The R programming language, along with the R version of Keras/TensorFlow, will be used for this course.\n\nLike many new technologies, ML and AI present incredible promise, but can be dangerous if used improperly. Throughout the course students will be asked to reflect on the practical, ethical and legal issues that can arise when using deep learning methods in a business context, and how a successful enterprise might overcome these.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "BISM2201",
+      "BSAN2201"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "BISM3212"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Andrew Jones",
+      "email": "andrew.t.jones@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Andrew Jones"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note:\nTeaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull Name\nStudent ID\nCourse Code",
+  "course_aims": "The broad aim of the course BSAN3212 Deep Learning for Business is to provide students with in-depth exposure to the theory and models of deep learning, with an emphasis on artificial neural networks as they apply to business. The course involves instruction in using R, open-source numerical analysis software. The R software has several advanced “packages” for estimating deep learning models as well as allowing users to write theirﾠcode for estimating these models. The course is organised into four modules: (i) preparation for deep learning, (ii) neuro networks, (iii) deep learning projects, and (iv) natural language processing. The more general goals of the course are to learn the language of deep learning, develop an understanding of the key concepts in the application of deep learning, develop an appreciation of the application of deep learning to business, and develop an awareness of the policy and strategy implications of deep learning for business and beyond. The course provides a context in which students can further develop their understanding of the R environment with a view towards becoming effective and professional business analysts.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand the basic concepts of deep learning and AI and explain their relationship to and application in business."
+    },
+    {
+      "number": "LO2.",
+      "description": "Apply the methods of deep learning available in the R software environment with an emphasis on artificial neural networks."
+    },
+    {
+      "number": "LO3.",
+      "description": "Compare and critically evaluate the various approaches to artificial neural networks and assess their value for decision making."
+    },
+    {
+      "number": "LO4.",
+      "description": "Develop an understanding of how deep learning will change business, government, and society, and the associated costs and benefits."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Essay/ Critique",
+      "title": "Deep Learning for Business Essay (A1)",
+      "weight": "20%",
+      "due_date": "22/08/2025 4:00 pm"
+    },
+    {
+      "category": "Computer Code, Notebook/ Logbook",
+      "title": "Deep Learning Coding Project Journal (A2)",
+      "weight": "50%",
+      "due_date": "26/09/2025 4:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Deep Learning Project Proposal (A3)",
+      "weight": "30%",
+      "due_date": "31/10/2025 4:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Deep Learning for Business Essay (A1)",
+      "mode": "Written",
+      "category": "Essay/ Critique",
+      "weight": "20%",
+      "due_date": "22/08/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L04",
+      "task_description": "The use of deep learning methods is increasingly being adopted across various sectors of the economy, and as a result, business and society are likely to undergo significant changes.In a 2000-word essay, explore how business and society are likely to respond to these changes and what adaptations they may need to make to thrive in this new environment. Consider both the potential benefits and challenges of deep learning and the ethical considerations that must be considered. In your essay, provide specific examples of how deep learning is currently being used in various industries and speculate on how these applications may evolve in the future.AI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Submit via link on BlackBoard\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The use of deep learning methods is increasingly being adopted across various sectors of the economy, and as a result, business and society are likely to undergo significant changes.In a 2000-word essay, explore how business and society are likely to respond to these changes and what adaptations they may need to make to thrive in this new environment. Consider both the potential benefits and challenges of deep learning and the ethical considerations that must be considered. In your essay, provide specific examples of how deep learning is currently being used in various industries and speculate on how these applications may evolve in the future.AI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Deep Learning Coding Project Journal (A2)",
+      "mode": "Written",
+      "category": "Computer Code, Notebook/ Logbook",
+      "weight": "50%",
+      "due_date": "26/09/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "As you complete the five in-class deep learning projects, you are asked to produce a coding project journal that details your experience completing these projects.More details about the format, style, etc. will be discussed in class and provided on Blackboard.AI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Submit via link on BlackBoard\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "As you complete the five in-class deep learning projects, you are asked to produce a coding project journal that details your experience completing these projects.More details about the format, style, etc. will be discussed in class and provided on Blackboard.AI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Deep Learning Project Proposal (A3)",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "30%",
+      "due_date": "31/10/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "Building upon the ideas and concepts explored in the course and your practical experience with machine learning projects from A2, you will now propose a deep learning project of your own. In a 3000-word project proposal, you should aim to address a significant business challenge or opportunity within a specific industry or field that can be tackled using deep learning methods.Your project proposal should include the following sections:Introduction: Provide a brief overview of the challenge or opportunity you will be addressing with your proposed project. Explain why this challenge or opportunity is significant and why deep learning methods are well-suited to address it.Project Objectives: Define the specific objectives of your project. This should include a clear statement of the problem you will be addressing and the goals you hope to achieve with your deep learning solution.Methodology: Describe the deep learning methods you will use to achieve your project objectives. This should include a clear explanation of the algorithms, models, and techniques you will be employing and any data sources you will be using.Evaluation: Define the evaluation metrics you will use to assess the effectiveness of your deep learning solution. This should include both quantitative and qualitative metrics, as appropriate.Timeline: Provide a detailed timeline for completing your proposed project. This should include specific milestones and deadlines for each phase of the project and any potential roadblocks or challenges you anticipate.Conclusion: Summarise your project proposal, including its objectives, methodology, evaluation metrics, and timeline. Discuss the potential impact of your proposed project and how it may contribute to the broader field of deep learning.AI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Submit via link on BlackBoard\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Building upon the ideas and concepts explored in the course and your practical experience with machine learning projects from A2, you will now propose a deep learning project of your own. In a 3000-word project proposal, you should aim to address a significant business challenge or opportunity within a specific industry or field that can be tackled using deep learning methods.Your project proposal should include the following sections:Introduction: Provide a brief overview of the challenge or opportunity you will be addressing with your proposed project. Explain why this challenge or opportunity is significant and why deep learning methods are well-suited to address it.Project Objectives: Define the specific objectives of your project. This should include a clear statement of the problem you will be addressing and the goals you hope to achieve with your deep learning solution.Methodology: Describe the deep learning methods you will use to achieve your project objectives. This should include a clear explanation of the algorithms, models, and techniques you will be employing and any data sources you will be using.Evaluation: Define the evaluation metrics you will use to assess the effectiveness of your deep learning solution. This should include both quantitative and qualitative metrics, as appropriate.Timeline: Provide a detailed timeline for completing your proposed project. This should include specific milestones and deadlines for each phase of the project and any potential roadblocks or challenges you anticipate.Conclusion: Summarise your project proposal, including its objectives, methodology, evaluation metrics, and timeline. Discuss the potential impact of your proposed project and how it may contribute to the broader field of deep learning.AI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on theUQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Seminar",
+      "topic": "Course introduction and A1 overviewLearning outcomes:L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Seminar",
+      "topic": "Preparation for Deep LearningLearning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Ekka Public Holiday"
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Seminar",
+      "topic": "Deep Neural Networks and AutoencodersLearning outcomes:L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Seminar",
+      "topic": "Concurrent Neural NetworksLearning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Seminar",
+      "topic": "Recurrent Neural NetworksLearning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Seminar",
+      "topic": "TransformersLearning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Seminar",
+      "topic": "Deep Learning AlternativesLearning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Seminar",
+      "topic": "Reviewing the Fundamentals of Deep Learning and A2 finalisation workshopLearning outcomes:L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Mid Sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Mid-semester Break"
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Seminar",
+      "topic": "Deep Learning Project Proposal (A3) briefingLearning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Seminar",
+      "topic": "Generative AI and other real world applicationsLearning outcomes:L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Seminar",
+      "topic": "Deep Learning Project (A3) finalisation workshopLearning outcomes:L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Seminar",
+      "topic": "Course Review and RecapLearning outcomes:L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the:Student Code of Conduct PolicyStudent Integrity and Misconduct PolicyandProcedureAssessment ProcedureExaminations ProcedureReasonable Adjustments for Students PolicyandProcedureLearn more about UQ policies onmy.UQand thePolicy and Procedure Library.Learning activities"
+}

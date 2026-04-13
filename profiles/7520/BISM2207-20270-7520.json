@@ -1,0 +1,401 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BISM2207-20270-7520",
+  "scraped_at": "2026-04-13T23:03:11.384699+00:00",
+  "course_code": "BISM2207",
+  "class_code": "20270",
+  "semester_code": "7520",
+  "full_course_code": "BISM2207-20270-7520",
+  "course_title": "Managing Business Data",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "This course aims to develop students' ability to manage and retrieve information from Information Systems. Students will learn how to use Structured Query Language (SQL) to retrieve information critical for business decision making, and will also develop a thorough understanding of data integrity and its effects on the quality of business decisions. The course also provides a hands-on experience with conceptual modelling of data requirements for business. This course further enhances the students' employability in other areas such as the ability to work in teams, the ability to think analytically and critically, and build confidence in presenting professionally.\n\nThis course provides students with an overall understanding of the relational database model. It emphasizes the SQL query language and seeks to develop students' ability to design and retrieve information from relational databases. The course informs students of database elements including domains, nulls, recovery, concurrency, security, and other similar issues. As such, students will learn how to: use the SQL query language to retrieve relevant information for business purposes; construct semantic data models to help achieve business objectives and know how to convert these models into normalized tables; evaluate and apply integrity constraints including domains, primary keys, and foreign keys; understand the concept of nulls and how this concept applies to SQL queries and database design; understand the importance of the database elements in their application; gain an appreciation of the benefits and requirements of distributed databases.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "BISM1201"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "BISM3203",
+      "INFS1200",
+      "MGTS3203"
+    ],
+    "restrictions": [
+      "Quota: Minimum of 15 enrolments"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Reihaneh Bidar",
+      "email": "r.bidar@business.uq.edu.au",
+      "notes": "Please see Blackboard for consultation hours."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Reihaneh Bidar"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note\n: Teaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull name\nStudent ID\nCourse Code.",
+  "course_aims": "This course aims to provide students with an overall understanding of the relational database model. In doing so, it emphasises the SQL query language and seeks to develop each student's ability to design and retrieve information from relational databases. The course also aims to make students aware of domains, nulls, recovery, concurrency, security, and other similar issues. This course further enhances the students' employability in other areas such as the ability to workﾠin teams, the ability to thinkﾠanalyticallyﾠand critically, and build confidence in presenting professionally.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand and apply popular data modelling techniques and develop appropriate data structures for particular business environments."
+    },
+    {
+      "number": "LO2.",
+      "description": "Understand and apply the structured query language (SQL) to extract data from relational information systems."
+    },
+    {
+      "number": "LO3.",
+      "description": "Develop and apply data quality assurance procedures to improve data quality."
+    },
+    {
+      "number": "LO4.",
+      "description": "Research and understand current Information Systems issues and identify how to exploit available data for corporate advantage."
+    },
+    {
+      "number": "LO5.",
+      "description": "Build your ability to work in teams and develop written presentation skills, which are regarded as essential to the effective and efficient conduct of information systems development projects in organisations."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Examination, Quiz",
+      "title": "Quiz",
+      "weight": "20%",
+      "due_date": "Week 6; During Lecture time",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Product/ Design, Project",
+      "title": "System Development",
+      "weight": "40%",
+      "due_date": "23/05/2025 6:00 pm; Peer Assessment due 1 week after the assessment due date.",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Quiz",
+      "mode": "Written",
+      "category": "Examination, Quiz",
+      "weight": "20%",
+      "due_date": "Week 6During Lecture time",
+      "other_conditions": "Time limited.See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "The online quiz will take place during the Week 6 lecture time. The quiz will be 60 minutes long. This assessment task covers learning materials presented in lectures, tutorials and the relevant textbook chapters from week 1 to week 5 inclusive. Further information about the exam will be presented during lectures.AI Statement:Note: This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "exam_details": "Planning timeno planning time minutesDuration60 minutesCalculator optionsAny calculator permittedOpen/closed bookOpen Book examinationExam platformOtherInvigilationNot invigilated",
+      "submission_guidelines": "Deferral or extension\nYou may be able todefer this exam.\nLate submission\nExams submitted after the end of the submission time will incur alate penalty.",
+      "deferral_or_extension": "You may be able todefer this exam.",
+      "late_submission": "Exams submitted after the end of the submission time will incur alate penalty.",
+      "ai_statement": "The online quiz will take place during the Week 6 lecture time. The quiz will be 60 minutes long. This assessment task covers learning materials presented in lectures, tutorials and the relevant textbook chapters from week 1 to week 5 inclusive. Further information about the exam will be presented during lectures.AI Statement:Note: This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nNote: This assessment task evaluates students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "System Development",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Paper/ Report/ Annotation, Product/ Design, Project",
+      "weight": "40%",
+      "due_date": "23/05/2025 6:00 pmPeer Assessment due 1 week after the assessment due date.",
+      "other_conditions": "Peer assessed, Longitudinal.See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The main purpose of this assessment is to develop your ability to work in a team and to design, develop, and implement a well-structured relational database that effectively supports the given scenario. Students will be required to demonstrate their knowledge and ability to use SQL. The fundamental knowledge and skills required for this assessment task are expected to be cultivated through lectures and tutorials. However, students will need to conduct additional research to further enhance the skills necessary to successfully complete this assessment.Team formation and teamwork:You will undertake this project as a part of a team of 3 to 5 members.Project team members must be allocated to the same tutorial. You will submit portions of the project at intervals, receive oral comments on your work during the informal presentations from your tutor, and revise earlier submissions.Feedback on draft submissions (iterations 1 and 2):You will submit portions of the project at intervals (two draft points/iterations), receive oral comments on your work, and revise earlier submissions accordingly. These submissions are for feedback only and are not graded.Iteration 1during week 8 tutorials. The submission due date will be announced on Blackboard.Iteration 2during week 11 tutorials. The submission due date will be announced on Blackboard.Peer Assessment:students will be required to complete a self and peer evaluation as part of this assignment. The evaluation process assists the teaching team to understand how each student contributed and the findings are confidential. The peer evaluation can affect each student's mark for this assignment. A link will be provided on Blackboard for this evaluation.Working effectively in a Team:A Practical Guide MOOC explores ways in which to learn how to build effective teams, be a great team player, and manage team conflict. You are encouraged to complete this practical guide if you haven't done a team project before. Refer toTeams101x MOOC.AI Statement:This task has been designed to be challenging, authentic, and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submissions independent of AI tools. If AI has been used it must be acknowledged.Read full task descriptionHide full task description",
+      "submission_guidelines": "Submit through Blackboard Assessment links.\nDeferral or extension\nYou may be able toapply for an extension.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The main purpose of this assessment is to develop your ability to work in a team and to design, develop, and implement a well-structured relational database that effectively supports the given scenario. Students will be required to demonstrate their knowledge and ability to use SQL. The fundamental knowledge and skills required for this assessment task are expected to be cultivated through lectures and tutorials. However, students will need to conduct additional research to further enhance the skills necessary to successfully complete this assessment.Team formation and teamwork:You will undertake this project as a part of a team of 3 to 5 members.Project team members must be allocated to the same tutorial. You will submit portions of the project at intervals, receive oral comments on your work during the informal presentations from your tutor, and revise earlier submissions.Feedback on draft submissions (iterations 1 and 2):You will submit portions of the project at intervals (two draft points/iterations), receive oral comments on your work, and revise earlier submissions accordingly. These submissions are for feedback only and are not graded.Iteration 1during week 8 tutorials. The submission due date will be announced on Blackboard.Iteration 2during week 11 tutorials. The submission due date will be announced on Blackboard.Peer Assessment:students will be required to complete a self and peer evaluation as part of this assignment. The evaluation process assists the teaching team to understand how each student contributed and the findings are confidential. The peer evaluation can affect each student's mark for this assignment. A link will be provided on Blackboard for this evaluation.Working effectively in a Team:A Practical Guide MOOC explores ways in which to learn how to build effective teams, be a great team player, and manage team conflict. You are encouraged to complete this practical guide if you haven't done a team project before. Refer toTeams101x MOOC.AI Statement:This task has been designed to be challenging, authentic, and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submissions independent of AI tools. If AI has been used it must be acknowledged.Read full task descriptionHide full task description\nThis task has been designed to be challenging, authentic, and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submissions independent of AI tools. If AI has been used it must be acknowledged.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period7/06/2025 - 21/06/2025",
+      "other_conditions": "Time limited.See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "The Final Examination will consist of multiple choice, short answer, and problem-solving questions based on learning materials presented in lectures, tutorials, and the relevant chapters of the textbook from week 1 to week 13 inclusive. Further details about the exam will be discussed in lectures and posted to the Blackboard course site.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "exam_details": "Planning time10 minutesDuration90 minutesCalculator optionsNo calculators permittedOpen/closed bookClosed Book examination - no written materials permittedExam platformPaper basedInvigilationInvigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able todefer this exam.",
+      "deferral_or_extension": "You may be able todefer this exam.",
+      "ai_statement": "The Final Examination will consist of multiple choice, short answer, and problem-solving questions based on learning materials presented in lectures, tutorials, and the relevant chapters of the textbook from week 1 to week 13 inclusive. Further details about the exam will be discussed in lectures and posted to the Blackboard course site.AI Statement:This assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find therequired and recommended resourcesfor this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Lecture",
+      "topic": "Course Overview and Intro to DBMSLearning outcomes:L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Lecture",
+      "topic": "Entity-Relationship ModelLearning outcomes:L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Tutorial",
+      "topic": "T1: Data & Infomration and SQL prepLearning outcomes:L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Lecture",
+      "topic": "Relational ModelLearning outcomes:L01, L03",
+      "learning_outcomes": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Tutorial",
+      "topic": "T2: Entity-Relationship ModelLearning outcomes:L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Lecture",
+      "topic": "Database Design and Structured Query Language (I)Learning outcomes:L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Tutorial",
+      "topic": "T3: Relational ModelLearning outcomes:L01, L03",
+      "learning_outcomes": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Lecture",
+      "topic": "Structured Query Language  (II)Learning outcomes:L02, L03, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Tutorial",
+      "topic": "T4: SQL ExercisesLearning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Lecture",
+      "topic": "In-Semester QuizIn Semester Quiz during Lecture Time."
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Tutorial",
+      "topic": "T5: SQL ExercisesLearning outcomes:L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Lecture",
+      "topic": "NormalisationLearning outcomes:L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Tutorial",
+      "topic": "T6: SQL ExercisesLearning outcomes:L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Lecture",
+      "topic": "Data Quality and Cleaning, and Presentation SkillsLearning outcomes:L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Tutorial",
+      "topic": "T7:  Project Iteration 1 Presentation and Normalisation ExercisesLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "In-Semester Break"
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Lecture",
+      "topic": "Transaction Management: Recovery and ConcurrencyLearning outcomes:L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Tutorial",
+      "topic": "T8: Practical Exercises for NormalisationLearning outcomes:L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Lecture",
+      "topic": "Labour Day Public Holiday"
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Tutorial",
+      "topic": "T9: SQL exercises- Recovery and ConcurrencyLabour Day Public Holiday - Monday 5 May 2025- Check Blackboard for announcements about affected classes.Learning outcomes:L01, L02, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Lecture",
+      "topic": "Datbase Security and ControlLearning outcomes:L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Tutorial",
+      "topic": "T10: Project Iteration 2 PresentationLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Lecture",
+      "topic": "Distributed DBMSLearning outcomes:L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Tutorial",
+      "topic": "T11: Team ProjectLearning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Lecture",
+      "topic": "Big Data and Intelligence TechnologiesLearning outcomes:L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Tutorial",
+      "topic": "T12: Q&A and Exam PracticeLearning outcomes:L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the:Student Code of Conduct PolicyStudent Integrity and Misconduct PolicyandProcedureAssessment ProcedureExaminations ProcedureReasonable Adjustments for Students PolicyandProcedureLearn more about UQ policies onmy.UQand thePolicy and Procedure Library.Learning activities"
+}

@@ -1,0 +1,664 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ECON1310-61017-7460",
+  "scraped_at": "2026-04-13T23:06:14.588873+00:00",
+  "course_code": "ECON1310",
+  "class_code": "61017",
+  "semester_code": "7460",
+  "full_course_code": "ECON1310-61017-7460",
+  "course_title": "Introductory Statistics for Social Sciences",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Economics School",
+  "course_description": "Basic statistical concepts and techniques such as descriptive statistics, probability concepts, theoretical distributions, inferential statistics (confidence intervals and hypothesis testing) are applied in business and economics.\n\nECON1310 is an introductory course in quantitative analysis for business and economics. The course covers a variety of techniques applicable to the presentation, interpretation and use of data. The main emphasis is inferential statistics with estimation and hypothesis testing techniques being an important part of the course. Inferential statistics is continued in the simple linear regression topic. There is an emphasis on the use of Excel for analysis and presentation.\n\nThis course is widely regarded as challenging by many students. One reason is that the work is very cumulative. This means that it is exceptionally difficult to catch up if a student gets behind in the work. Success in the subject depends on keeping up-to-date. With this in mind, each topic is progressively assessed using various computer managed quizzes throughout the course.\n\nAs well as covering concepts that are an essential part of the analytical tool box for well-trained professionals, ECON1310 provides a foundation that is critical for success in later statistical courses, particularly ECON2300 Introductory Econometrics.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1040"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "CHEE2010",
+      "CIVL2530",
+      "MINE3214",
+      "PHRM1020",
+      "STAT1201"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Kun Zhang",
+      "email": "ECON1310@uq.edu.au",
+      "notes": "ECON1310@uq.edu.au"
+    },
+    {
+      "role": "School enquiries",
+      "name": "Student Enquiries, School of Economics",
+      "email": "enquiries@economics.uq.edu.au",
+      "notes": "All enquiries regarding student and academic administration (i.e. non-course content information, e.g., class allocation, timetables, extension to assessment due date, etc.) should be directed toenquiries@economics.uq.edu.au.Enquiries relating specifically to course content should be directed toECON1310@uq.edu.au."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Kun Zhang"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Aisling Hennessy"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Alec Watson"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Harry Clarke"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr James Lee"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Lucinda Yee"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Oliver Cathcart"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Olivia Ho"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Parisa Manshadi"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Shaun Andersen"
+    },
+    {
+      "role": "Senior tutor",
+      "name": "Mr Ryan Leung"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLive lectures only will be delivered at St Lucia. Students need to sign-on to attend the live weekly lectures. All students\nmust sign on to a live tutorial group at St Lucia via My Timetable\n(available through my.UQ dashboard).\nThis is essential\nin order to attend and pass the required\nIdentity Verified Assessment (IVA) tutorial activities\nthat run in selected tutorials during the semester. Students must enrol in a tutorial group prior to Week 2 and\nattend the same tutorial group each week.\nStudents\nmust only attend the tutorial they sign-on to for the compulsory IVA tutorial activities, otherwise they will be required to leave. Students are not allowed to swap tutorials after census date.\n•\nLecture Sign On\n: Please refer to My Timetable (available via the my.UQ dashboard).\n•\nTutorial Preferencing\n: Please refer to My Timetable (available via the my.UQ dashboard) for more information on the tutorial preferencing and allocation process.\n•\nConsultation Sign On\n: There is\nNO\nneed to sign on to attend consultation. The weekly consultation timetable will be posted in teaching Week 1 under the \"Course Help\" tab of the ECON1310 Blackboard site.\nTutorials and Consultations commence in Teaching Week 2.\nPlease see the Learning Activities section of this Course Profile for the timetabling implications of public holidays.\nPublic Holidays:\nWed 14 August (Royal Queensland Show), Mon 7 October (King's Birthday).\nIn-Semester Break:\nﾠ 23 September - 27 September. Semester 2 classes recommence Mon 30 September.\nStudents should refer to the timetable prior to the commencement of classes to ensure that they have the most up to date information, as from time to time late room changes may occur.",
+  "course_aims": "The aim of the course is for students to develop an ability to apply inferential statistics techniques to independently solve practical problems and to then explain the solutions using everyday language.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Use fundamental statistics terminology."
+    },
+    {
+      "number": "LO2.",
+      "description": "Apply theoretical concepts to construct analytical statistical techniques."
+    },
+    {
+      "number": "LO3.",
+      "description": "Describe the statistical techniques needed to solve particular problem types."
+    },
+    {
+      "number": "LO4.",
+      "description": "Conduct statistical analysis of data so as to draw statistical conclusions."
+    },
+    {
+      "number": "LO5.",
+      "description": "Communicate statistical findings for practical and professional use."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "CML 1 - Descriptive Statistics",
+      "weight": "5%  (Best 5 out of 6)",
+      "due_date": "CML 1 (1st attempt) 31/07/2024 - 13/08/2024; CML 1 (2nd attempt) 15/08/2024 - 16/08/2024; The CML; first attempt; opens at; 9am and closes at 4pm.; The CML; optional; second attempt; opens; at 9am and closes at 4pm.",
+      "conditions": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "CML 2 - Probability",
+      "weight": "5%  (Best 5 out of 6)",
+      "due_date": "CML 2 (1st attempt) 15/08/2024 - 27/08/2024; CML 2 (2nd attempt) 28/08/2024 - 30/08/2024; The CML; first attempt; opens at; 9am and closes at 4pm.; The CML; optional; second attempt; opens; at 9am and closes at 4pm.",
+      "conditions": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "CML 3 - Normal and Sampling Distributions",
+      "weight": "5%  (Best 5 out of 6)",
+      "due_date": "CML 3 (1st attempt) 28/08/2024 - 10/09/2024; CML 3 (2nd attempt) 11/09/2024 - 13/09/2024; The CML; first attempt; opens at; 9am and closes at 4pm.; The CML; optional; second attempt; opens; at 9am and closes at 4pm.",
+      "conditions": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "LBRT #1 Problem Set & IVA Tutorial Activity",
+      "weight": "25%",
+      "due_date": "LBRT #1 (1st attempt) 5/09/2024 - 6/09/2024; LBRT #1 (2nd attempt) 12/09/2024 - 13/09/2024; IVA (Tutorial 8) 16/09/2024 - 20/09/2024; The LBRT; first attempt; opens at; 9am and closes at 4pm.; The LBRT; optional; second attempt; opens; at 9am and closes at 4pm.; IVA tutorial activity at start of Tutorial 8 (i.e. in teaching week 9).",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "CML 4 - Confidence Intervals",
+      "weight": "5%  (Best 5 of 6)",
+      "due_date": "CML 4 (1st attempt) 11/09/2024 - 1/10/2024; CML 4 (2nd attempt) 2/10/2024 - 4/10/2024; The CML; first attempt; opens at; 9am and closes at 4pm.; The CML; optional; second attempt; opens; at 9am and closes at 4pm.",
+      "conditions": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "CML 5 - Hypothesis Testing",
+      "weight": "5%  (Best 5 of 6)",
+      "due_date": "CML 5 (1st attempt) 2/10/2024 - 15/10/2024; CML 5 (2nd attempt) 16/10/2024 - 18/10/2024; The CML; first attempt; opens at; 9am and closes at 4pm.; The CML; optional; second attempt; opens; at 9am and closes at 4pm.",
+      "conditions": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "LBRT #2 Problem Set & IVA Tutorial Activity",
+      "weight": "25%",
+      "due_date": "LBRT #2 (1st attempt) 10/10/2024 - 11/10/2024; LBRT #2 (2nd attempt) 17/10/2024 - 18/10/2024; IVA (Tutorial 12) 21/10/2024 - 25/10/2024; The LBRT; first attempt; opens at; 9am and closes at 4pm.; The LBRT; optional; second attempt; opens; at 9am and closes at 4pm.; IVA tutorial activity at start of Tutorial 12 (i.e. in teaching week 13)",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "CML 6 - Simpler Linear Regression",
+      "weight": "5%  (Best 5 of 6)",
+      "due_date": "16/10/2024 - 25/10/2024; NO SECOND ATTEMPT; The CML opens at; 9am and closes at 4pm.",
+      "conditions": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "LBRT #3 Problem Set (No IVA Tutorial Activity)",
+      "weight": "25%",
+      "due_date": "LBRT #3 (1st attempt) 7/11/2024 - 8/11/2024; LBRT #3 (1st attempt) 12/11/2024 - 13/11/2024; The LBRT; first attempt; opens at; 9am and closes at 4pm.; The LBRT; optional; second attempt; opens; at 9am and closes at 4pm.",
+      "conditions": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "CML 1 - Descriptive Statistics",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "5% (Best 5 out of 6)",
+      "due_date": "CML 1 (1st attempt) 31/07/2024 - 13/08/2024CML 1 (2nd attempt) 15/08/2024 - 16/08/2024The CMLfirst attemptopens at9am and closes at 4pm.The CMLoptionalsecond attemptopensat 9am and closes at 4pm.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "A set of questions on lectures and tutorials 1 & 2.Note that a student'sbest 5 out of 6 CML quizzeswill be used in calculating the aggregate result that contributes to a student's overall mark (see full details under Additional Assessment Information). If there are changes relating to any CML quiz dates and times (considered to be unlikely), they will be advised in advance to students via Blackboard. Students should monitor Blackboard regularly for CML quiz information.CML quizzes evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Enter answers into Blackboard by due date and time.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "ai_statement": "A set of questions on lectures and tutorials 1 & 2.Note that a student'sbest 5 out of 6 CML quizzeswill be used in calculating the aggregate result that contributes to a student's overall mark (see full details under Additional Assessment Information). If there are changes relating to any CML quiz dates and times (considered to be unlikely), they will be advised in advance to students via Blackboard. Students should monitor Blackboard regularly for CML quiz information.CML quizzes evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nCML quizzes evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "CML 2 - Probability",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "5% (Best 5 out of 6)",
+      "due_date": "CML 2 (1st attempt) 15/08/2024 - 27/08/2024CML 2 (2nd attempt) 28/08/2024 - 30/08/2024The CMLfirst attemptopens at9am and closes at 4pm.The CMLoptionalsecond attemptopensat 9am and closes at 4pm.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "A set of questions on lectures and tutorials 3 & 4.Note that a student'sbest 5 out of 6 CML quizzeswill be used in calculating the aggregate result that contributes to a student's overall mark (see full details under Additional Assessment Information). If there are changes relating to any CML quiz dates and times (considered to be unlikely), they will be advised in advance to students via Blackboard. Students should monitor Blackboard regularly for CML quiz information.CML quizzes evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Enter answers into Blackboard by due date and time.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "ai_statement": "A set of questions on lectures and tutorials 3 & 4.Note that a student'sbest 5 out of 6 CML quizzeswill be used in calculating the aggregate result that contributes to a student's overall mark (see full details under Additional Assessment Information). If there are changes relating to any CML quiz dates and times (considered to be unlikely), they will be advised in advance to students via Blackboard. Students should monitor Blackboard regularly for CML quiz information.CML quizzes evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nCML quizzes evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "CML 3 - Normal and Sampling Distributions",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "5% (Best 5 out of 6)",
+      "due_date": "CML 3 (1st attempt) 28/08/2024 - 10/09/2024CML 3 (2nd attempt) 11/09/2024 - 13/09/2024The CMLfirst attemptopens at9am and closes at 4pm.The CMLoptionalsecond attemptopensat 9am and closes at 4pm.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "A set of questions on lectures and tutorials 5 & 6.Note that a student'sbest 5 out of 6 CML quizzeswill be used in calculating the aggregate result that contributes to a student's overall mark (see full details under Additional Assessment Information). If there are changes relating to any CML quiz dates and times (considered to be unlikely), they will be advised in advance to students via Blackboard. Students should monitor Blackboard regularly for CML quiz information.CML quizzes evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Enter answers into Blackboard by due date and time.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "ai_statement": "A set of questions on lectures and tutorials 5 & 6.Note that a student'sbest 5 out of 6 CML quizzeswill be used in calculating the aggregate result that contributes to a student's overall mark (see full details under Additional Assessment Information). If there are changes relating to any CML quiz dates and times (considered to be unlikely), they will be advised in advance to students via Blackboard. Students should monitor Blackboard regularly for CML quiz information.CML quizzes evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nCML quizzes evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "LBRT #1 Problem Set & IVA Tutorial Activity",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "25%",
+      "due_date": "LBRT #1 (1st attempt) 5/09/2024 - 6/09/2024LBRT #1 (2nd attempt) 12/09/2024 - 13/09/2024IVA (Tutorial 8) 16/09/2024 - 20/09/2024The LBRTfirst attemptopens at9am and closes at 4pm.The LBRToptionalsecond attemptopensat 9am and closes at 4pm.IVA tutorial activity at start of Tutorial 8 (i.e. in teaching week 9).",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "LBRT #1will involve solving problems based on the learning materials covered in Weeks 1 to 4 inclusively. This includes all learning materials presented in Lectures 1 to 4, the associated tutorials, as well as CML1 and CML2. All answers must be entered into Blackboard by the due date and time.LBRTs evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "ai_statement": "LBRT #1will involve solving problems based on the learning materials covered in Weeks 1 to 4 inclusively. This includes all learning materials presented in Lectures 1 to 4, the associated tutorials, as well as CML1 and CML2. All answers must be entered into Blackboard by the due date and time.LBRTs evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nLBRTs evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    },
+    {
+      "id": "assessment-detail-4",
+      "title": "CML 4 - Confidence Intervals",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "5% (Best 5 of 6)",
+      "due_date": "CML 4 (1st attempt) 11/09/2024 - 1/10/2024CML 4 (2nd attempt) 2/10/2024 - 4/10/2024The CMLfirst attemptopens at9am and closes at 4pm.The CMLoptionalsecond attemptopensat 9am and closes at 4pm.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "A set of questions on lectures and tutorials 7 & 8.Note that a student'sbest 5 out of 6 CML quizzeswill be used in calculating the aggregate result that contributes to a student's overall mark (see full details under Additional Assessment Information). If there are changes relating to any CML quiz dates and times (considered to be unlikely), they will be advised in advance to students via Blackboard. Students should monitor Blackboard regularly for CML quiz information.CML quizzes evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Enter answers into Blackboard by due date and time.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "ai_statement": "A set of questions on lectures and tutorials 7 & 8.Note that a student'sbest 5 out of 6 CML quizzeswill be used in calculating the aggregate result that contributes to a student's overall mark (see full details under Additional Assessment Information). If there are changes relating to any CML quiz dates and times (considered to be unlikely), they will be advised in advance to students via Blackboard. Students should monitor Blackboard regularly for CML quiz information.CML quizzes evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nCML quizzes evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-5",
+      "title": "CML 5 - Hypothesis Testing",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "5% (Best 5 of 6)",
+      "due_date": "CML 5 (1st attempt) 2/10/2024 - 15/10/2024CML 5 (2nd attempt) 16/10/2024 - 18/10/2024The CMLfirst attemptopens at9am and closes at 4pm.The CMLoptionalsecond attemptopensat 9am and closes at 4pm.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "A set of questions on lectures and tutorials 9 & 10.Note that a student'sbest 5 out of 6 CML quizzeswill be used in calculating the aggregate result that contributes to a student's overall mark (see full details under Additional Assessment Information). If there are changes relating to any CML quiz dates and times (considered to be unlikely), they will be advised in advance to students via Blackboard. Students should monitor Blackboard regularly for CML quiz information.CML quizzes evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Enter answers into Blackboard by the due date and time.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "ai_statement": "A set of questions on lectures and tutorials 9 & 10.Note that a student'sbest 5 out of 6 CML quizzeswill be used in calculating the aggregate result that contributes to a student's overall mark (see full details under Additional Assessment Information). If there are changes relating to any CML quiz dates and times (considered to be unlikely), they will be advised in advance to students via Blackboard. Students should monitor Blackboard regularly for CML quiz information.CML quizzes evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nCML quizzes evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-6",
+      "title": "LBRT #2 Problem Set & IVA Tutorial Activity",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "25%",
+      "due_date": "LBRT #2 (1st attempt) 10/10/2024 - 11/10/2024LBRT #2 (2nd attempt) 17/10/2024 - 18/10/2024IVA (Tutorial 12) 21/10/2024 - 25/10/2024The LBRTfirst attemptopens at9am and closes at 4pm.The LBRToptionalsecond attemptopensat 9am and closes at 4pm.IVA tutorial activity at start of Tutorial 12 (i.e. in teaching week 13)",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "LBRT #2will involve solving problems based on the learning materials covered in Weeks 5 to 8 inclusively. This includes all learning materials presented in Lectures 5 to 8, the associated tutorials, as well as CML3 and CML4. All answers must be entered into Blackboard by the due date and time.LBRTs evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "ai_statement": "LBRT #2will involve solving problems based on the learning materials covered in Weeks 5 to 8 inclusively. This includes all learning materials presented in Lectures 5 to 8, the associated tutorials, as well as CML3 and CML4. All answers must be entered into Blackboard by the due date and time.LBRTs evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nLBRTs evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    },
+    {
+      "id": "assessment-detail-7",
+      "title": "CML 6 - Simpler Linear Regression",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "5% (Best 5 of 6)",
+      "due_date": "16/10/2024 - 25/10/2024NO SECOND ATTEMPTThe CML opens at9am and closes at 4pm.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "A set of questions on lectures and tutorials 11 & 12.Note that a student'sbest 5 out of 6 CML quizzeswill be used in calculating the aggregate result that contributes to a student's overall mark (see full details under Additional Assessment Information). If there are changes relating to any CML quiz dates and times (considered to be unlikely), they will be advised in advance to students via Blackboard. Students should monitor Blackboard regularly for CML quiz information.CML quizzes evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Enter answers into Blackboard by the due date and time.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "ai_statement": "A set of questions on lectures and tutorials 11 & 12.Note that a student'sbest 5 out of 6 CML quizzeswill be used in calculating the aggregate result that contributes to a student's overall mark (see full details under Additional Assessment Information). If there are changes relating to any CML quiz dates and times (considered to be unlikely), they will be advised in advance to students via Blackboard. Students should monitor Blackboard regularly for CML quiz information.CML quizzes evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nCML quizzes evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-8",
+      "title": "LBRT #3 Problem Set (No IVA Tutorial Activity)",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "25%",
+      "due_date": "LBRT #3 (1st attempt) 7/11/2024 - 8/11/2024LBRT #3 (1st attempt) 12/11/2024 - 13/11/2024The LBRTfirst attemptopens at9am and closes at 4pm.The LBRToptionalsecond attemptopensat 9am and closes at 4pm.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "LBRT #3will involve solving problems based on the learning materials covered in Weeks 9 to 12 inclusively. This includes all learning materials presented in Lectures 9 to 12, the associated tutorials, as well as CML5 and CML6. All answers must be entered into Blackboard by the due date and time.LBRTs evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "ai_statement": "LBRT #3will involve solving problems based on the learning materials covered in Weeks 9 to 12 inclusively. This includes all learning materials presented in Lectures 9 to 12, the associated tutorials, as well as CML5 and CML6. All answers must be entered into Blackboard by the due date and time.LBRTs evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nLBRTs evaluate students’ abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use ofAI technologies to develop responses is strictly prohibitedand may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find therequired and recommended resourcesfor this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1(22 Jul - 28 Jul)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 1: Descriptive Statistics 1statistical concepts and definitions; data   types, sources, levels; descriptive & inferential statistics; sampling methods and errors.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 2(29 Jul - 04 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 2: Descriptive Statistics 2Measures of central tendency, variation and shape for ungrouped data; box and whisker plot; linear combination of random variables; coefficient of correlation.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 2(29 Jul - 04 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 1: Descriptive Statistics 1Tutorial on work covered in Lecture 1.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 3(05 Aug - 11 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 3: Probability 1Basic probability concepts, conditional probability.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 3(05 Aug - 11 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 2: Descriptive Statistics 2Tutorial on work covered in Lecture 2.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 4(12 Aug - 18 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 4: Probability 2Discrete probability distributions, binomial probability.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 4(12 Aug - 18 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 3: Probability 1Tutorial on work covered in Lecture 3. Wednesday, August 14, is a Public Holiday. Therefore no tutorials or consultations will be held on that day.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 5(19 Aug - 25 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 5: Normal DistributionUnderstanding the basis of the normal distribution, interpreting the Standardised Normal Distribution table, computing Z - scores and finding probabilities.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 5(19 Aug - 25 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 4: Probability 2Tutorial on work covered in Lecture 4.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6(26 Aug - 01 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 6: Sampling DistributionsSampling distributions of the mean and of the proportion.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6(26 Aug - 01 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 5: Normal DistributionTutorial on work covered in Lecture 5.Practice IVA tutorial discussion activity at the start of tutorials (non-assessable but highly recommended to for all students to attend).Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7(02 Sep - 08 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 7: Confidence Intervals 1Confidence interval estimate for the mean using both Z and t distributions; confidence interval for proportion.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7(02 Sep - 08 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 6: Sampling DistributionsTutorial on work covered in Lecture 6.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8(09 Sep - 15 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 8: Confidence Intervals 2Sample size determination for the mean and proportion; confidence interval for the difference between two means.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8(09 Sep - 15 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 7: Confidence Intervals 1Tutorial on work covered in Lecture 7.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 9(16 Sep - 22 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 9: Hypothesis Testing 1Hypothesis testing methodology; one and two-tailed tests on the mean using critical value approach (Z and t); types of errors possible.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 9(16 Sep - 22 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 8: Confidence Intervals 2Tutorial on work covered in Lecture 8.IVA tutorial discussion activity (assessable) will be held at the start of the tutorial. All students should attend this assessable tutorial.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Mid Sem break(23 Sep - 29 Sep)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Mid-semester BreakPlease note, there will be no classes this week."
+    },
+    {
+      "learning_period": "Week 10(30 Sep - 06 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 10: Hypothesis Testing 2p-value approach to hypothesis testing; test for proportion; pooled variance test for difference between two means.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 10(30 Sep - 06 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 9: Hypothesis Testing 1Tutorial on work covered in Lecture 9.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 11(07 Oct - 13 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 11: Simple Linear Regression 1SLR model; equation estimation using Excel; coefficient of determination; standard error of the estimate; confidence interval for the slope.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 11(07 Oct - 13 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 10: Hypothesis Testing 2Tutorial on work covered in Lecture 10. Monday, October 7, is a Public Holiday. Therefore no tutorials or consultations will be held on that day. Students who normally attend a Monday tutorial session are welcome to attend an alternative tutorial session for this week only.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 12(14 Oct - 20 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 12: Simple Linear Regression 2Assumptions; residual analysis; hypothesis test on slope.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 12(14 Oct - 20 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 11: Simple Linear Regression 1Tutorial on work covered in Lecture 11.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13(21 Oct - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 13: ReviewReview of content from Lectures 1 - 13."
+    },
+    {
+      "learning_period": "Week 13(21 Oct - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 12: Simple Linear Regression 2Tutorial on work covered in Lecture 12.IVA tutorial discussion activity (assessable) will be held at the start of the tutorial. All students should attend this assessable tutorial.Learning outcomes:L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the:Student Code of Conduct PolicyStudent Integrity and Misconduct PolicyandProcedureAssessment ProcedureExaminations ProcedureReasonable Adjustments - Students PolicyandProcedureLearn more about UQ policies onmy.UQand thePolicy and Procedure Library.Learning activities"
+}

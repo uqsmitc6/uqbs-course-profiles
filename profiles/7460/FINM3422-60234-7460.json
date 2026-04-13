@@ -1,0 +1,308 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/FINM3422-60234-7460",
+  "scraped_at": "2026-04-13T23:10:08.241238+00:00",
+  "course_code": "FINM3422",
+  "class_code": "60234",
+  "semester_code": "7460",
+  "full_course_code": "FINM3422-60234-7460",
+  "course_title": "Financial Modelling",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "Provides students with a comprehensive set of financial modelling skills.  Covers corporate and project valuation, sensitivity and scenario analysis, optimisation, Monte Carlo simulation, value-at-risk.\n\nFinancial modelling is a quantitative task to build scientific mathematical models to reflect real-world financial situations. This subject will be focused on learning skills practically during class time and will require the use of MS Excel and Python. FINM3422 offers a practical and comprehensive guide for students to construct robust, practical and readily understandable financial models tailored for real-life examples. ﾠ\n\nThe first half of the course will focus on learning about financial turn arounds of business in crisis. This will cover strategy, operations and financial management. You will be required to translate management and financial accounting data into a detailed operational cashflow forecast model. This half of the course will be delivered by our industry partner - Vantage Performance Group Pty Ltd .\n\nFor the second half of the course, we will turn our attention to modelling asset prices and derivatives using Python. The purpose of the second half of the course is gain exposure to quantitative finance modelling and learn techniques which are often in practice only undertaken using coding software or a programming language. Compared to MS Excel, Python allows for faster computation time involving stochastic based models and very large datasets can be handled with relative ease. The specific quantitative finance topics using Python we will cover will be modelling random asset prices, creating Monte Carlo simulations for scenario testing, constructing efficient stock portfolios using optimisation techniques andﾠstress testing a portfolio’s value at risk (VaR). Each class will start with a brief presentation to provide a theoretical grounding on the topic that we will be modelling in class using Python. This half of the course has been developed in collaboration with our industry expert - Richard Howes and he will deliver the last two topics in this half of the course. With the first four topics taught by our own internal team.\n\nNo prior coding experience is necessary, but students are encouraged to participate during the class. Students will have the opportunity to become familiar with Python, learn to modify existing code, create their own code and be able to evaluate results. In order to foster students’ understanding, all issues and techniques discussed in the course will be supported with practical examples. Python is a computing language that is used extensively in many real-life applications in finance, investing, banking, machine learning and numerous other fields. Python and associated libraries can be obtained free through the latest available version of Anaconda Individual (Window or Mac) and contains all the Python related software required to undertake this course.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "FINM2411"
+    ],
+    "restrictions": [
+      "Restricted to students enrolled in the BAdvFinEcon(Hons) and BCom(Hons) programs"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Mr Mark Tanner",
+      "email": "m.tanner@business.uq.edu.au",
+      "phone": "+61 7 3346 8186"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Mr Mark Tanner",
+      "email": "m.tanner@business.uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note:\nTeaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email business.mytimetable@uq.edu.au from your UQ student email account with the following details:\nFull Name\nStudent ID\nCourse Code",
+  "course_aims": "This course aims to acquaint students with the latest state-of-the-art techniques in financial modelling. In particular,ﾠstudents will be equipped with a strong understanding in modelling issues and concepts related to finance and statistics.ﾠ",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Demonstrate how to extract and translate raw financial data into useful information"
+    },
+    {
+      "number": "LO2.",
+      "description": "Design and implement robust financial models"
+    },
+    {
+      "number": "LO3.",
+      "description": "Audit, validate and interpret financial models"
+    },
+    {
+      "number": "LO4.",
+      "description": "Develop competencies needed to function well in a team"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Product/ Design, Role play/ Simulation",
+      "title": "Turn-around Case Study",
+      "weight": "35%",
+      "due_date": "27/08/2024 2:00 pm",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Computer Code, Product/ Design, Tutorial/ Problem Set",
+      "title": "Data Cleaning and Analysis Exercise",
+      "weight": "7.5%",
+      "due_date": "2/09/2024 2:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Examination, Tutorial/ Problem Set",
+      "title": "In-Semester Exam",
+      "weight": "17.5%",
+      "due_date": "11/10/2024; During Class - more information about the due date will be provided in class and via the course Blackboard site.",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "title": "Project - Financial markets",
+      "weight": "40%",
+      "due_date": "4/11/2024 4:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Turn-around Case Study",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Product/ Design, Role play/ Simulation",
+      "weight": "35%",
+      "due_date": "27/08/2024 2:00 pm",
+      "other_conditions": "Peer assessed.See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L04",
+      "task_description": "This will be a team based assignment with 2-3 members per team and you will be tasked with creating a research report that covers:Identify key issuesDevelop key interview questionsPropose strategic options and recommendationsCreate a working modelPlease see Blackboard for additional details on the Case Study.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able toapply for an extension.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This will be a team based assignment with 2-3 members per team and you will be tasked with creating a research report that covers:Identify key issuesDevelop key interview questionsPropose strategic options and recommendationsCreate a working modelPlease see Blackboard for additional details on the Case Study.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Data Cleaning and Analysis Exercise",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Computer Code, Product/ Design, Tutorial/ Problem Set",
+      "weight": "7.5%",
+      "due_date": "2/09/2024 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "This assessment is an introductory level python assignment.You will be tasked with creating a python notebook that includes:Data ExplorationData CleaningData Analysis and presentationThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Submit through the Blackboard Assessment link.\nDeferral or extension\nYou may be able toapply for an extension.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assessment is an introductory level python assignment.You will be tasked with creating a python notebook that includes:Data ExplorationData CleaningData Analysis and presentationThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "In-Semester Exam",
+      "mode": "Activity/ Performance, Product/ Artefact/ Multimedia",
+      "category": "Computer Code, Examination, Tutorial/ Problem Set",
+      "weight": "17.5%",
+      "due_date": "11/10/2024During Class - more information about the due date will be provided in class and via the course Blackboard site.",
+      "other_conditions": "Time limited.See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "The will be a time limited coding exam.You will be tasked with answering a set of questions using a python notebook.Answers will be supplied as an Excel file with the optional submission of your notebook.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "exam_details": "Planning timeno planning time minutesDuration90 minutesCalculator options(In person) Casio FX82 series only or UQ approved and labelled calculatorOpen/closed bookClosed Book examination - specified written materials permittedMaterialsAll materials created during the course (i.e., code from lectures/workshops etc.).Students are not permitted to access external resources during the exam.Exam platformPaper basedInvigilationInvigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able todefer this exam.",
+      "deferral_or_extension": "You may be able todefer this exam.",
+      "ai_statement": "The will be a time limited coding exam.You will be tasked with answering a set of questions using a python notebook.Answers will be supplied as an Excel file with the optional submission of your notebook.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Project - Financial markets",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "weight": "40%",
+      "due_date": "4/11/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "More details to be provided on Blackboard during semester.AI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "The assignment must be submitted electronically through Turnitin, located in the Blackboard Assessment link.\nDeferral or extension\nYou may be able toapply for an extension.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "More details to be provided on Blackboard during semester.AI StatementArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on theUQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Seminar",
+      "topic": "Introduction to Course & ModellingGeneral overview of key topics for the semester, introduction to turnaround assignment and seminar on modelling basics.Learning outcomes:L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Seminar",
+      "topic": "Self-directed studySelf-directed study (Turnaround) - see Blackboard Learning PathwayLearning outcomes:L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Seminar",
+      "topic": "Self-directed studySelf-directed study (Turnaround) - see Blackboard Learning PathwayLearning outcomes:L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Seminar",
+      "topic": "Vantage Guest LectureVantage Guest Lecture - Recap of Learning Pathway - Principles of Turnaround advice and Case Study ExamplesLearning outcomes:L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Seminar",
+      "topic": "Assignment WorkshopLearning outcomes:L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Seminar",
+      "topic": "Self-directed studySelf-directed study on coding topics 1-4.Learning outcomes:L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Lecture",
+      "topic": "Coding topic 1Learning outcomes:L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Seminar",
+      "topic": "Coding topic 2Learning outcomes:L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Seminar",
+      "topic": "Coding topic 3Learning outcomes:L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Mid Sem break",
+      "activity_type": "Seminar",
+      "topic": "In-Semester BreakNo classes during In-Semester break."
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Seminar",
+      "topic": "Coding topic 4Learning outcomes:L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Seminar",
+      "topic": "Self-directed studySelf-directed study - prepare for topics 5 & 6.Learning outcomes:L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Seminar",
+      "topic": "Topics 5 and 6Learning outcomes:L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Seminar",
+      "topic": "Self-directed studySelf-directed studyLearning outcomes:L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the:Student Code of Conduct PolicyStudent Integrity and Misconduct PolicyandProcedureAssessment ProcedureExaminations ProcedureReasonable Adjustments - Students PolicyandProcedureLearn more about UQ policies onmy.UQand thePolicy and Procedure Library.Learning activities"
+}

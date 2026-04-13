@@ -1,0 +1,317 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7204-64215-7460",
+  "scraped_at": "2026-04-13T23:05:13.064860+00:00",
+  "course_code": "BSAN7204",
+  "class_code": "64215",
+  "semester_code": "7460",
+  "full_course_code": "BSAN7204-64215-7460",
+  "course_title": "Statistical Methods in Business",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Postgraduate Coursework",
+  "location": "External",
+  "attendance_mode": "Online",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "Business Analytics involves the application of statistics to understand and solve business problems. This course provides the statistical foundation for the Master of Business Analytics program, by introducing students to relevant statistical concepts required for data analysis. In addition, through a practical component, the course introduces students to applying appropriate statistical analysis through R.\n\nThis course will give you a foundational understanding of business data and the role of statistical analysis in creating value. This is a technical course in which we will empower you in analytics by introducing you to statistical computation using the R language, as well as relevant theory to help guide your understanding. Throughout the course, you will apply what you learn to a series of data sets from a range of business contexts. The assessments will be based around communicating your insights to a technical manager and other stakeholders.\n\nThe course is divided into four modules:\n\nEach topic within a module begins by leading you through a business example, showing how statistical analysis is used to describe and model the data. You then put this into practice by conducting the analysis yourself using R. We have an Ed discussion board where you can share your findings and ask questions. There is then a formative quiz, for you to check your understanding. Each week we then get together for a live session, an important opportunity to reflect on the content and look at other examples together. Recordings of these sessions will be posted on Blackboard afterwards.\n\nCheck in to Blackboard regularly to see announcements. Blackboard also has all the details for completion and submission of your assessments.",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "DATA7202",
+      "ECON7300"
+    ],
+    "restrictions": [
+      "Restricted to students in the MBusAn program"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Thomas Taimre",
+      "email": "t.taimre@uq.edu.au",
+      "phone": "+61 7 3365 2313"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Thomas Taimre",
+      "email": "t.taimre@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThere will be a one hour online (via Zoom), live session at 4:00 pm (Brisbane time) Wednesday weeks 1-2, 4-8, and 10-12. See Blackboard for details. There will be no activities on the Ekka Show day public holiday. Alternative arrangements will be made and communicated via Blackboard, if required.",
+  "course_aims": "The aim of this course is to provide foundational skills in the application of statistical methodology to understand and solve business problems.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Perform exploratory data analysis to describe data."
+    },
+    {
+      "number": "LO2.",
+      "description": "Construct and evaluate models for inferential statistical analysis for real-world problem solving."
+    },
+    {
+      "number": "LO3.",
+      "description": "Formulate data-driven insights and value propositions for stakeholders."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation, Project",
+      "title": "Exploratory Data Analysis",
+      "weight": "30%",
+      "due_date": "16/08/2024 3:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Analytics Practice",
+      "weight": "20%",
+      "due_date": "4/10/2024 3:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Presentation",
+      "title": "Technical Report and Stakeholder Presentation",
+      "weight": "50%",
+      "due_date": "25/10/2024 3:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Exploratory Data Analysis",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Project",
+      "weight": "30%",
+      "due_date": "16/08/2024 3:00 pm",
+      "learning_outcomes_assessed": "L01",
+      "task_description": "The objective of this assignment is for you to undertake an exploratory data analysis to summarise and highlight key aspects and special features of business data. You will consolidate your knowledge and develop skills in data analysis to solve business problems, provide insights and enhance your presentation and communication skills in a business context. This will further strengthen your ability to tackle problems in business data analysis and visualisation.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Submit via Blackboard\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission of assessment/Extensions to assessment due date\nA student may apply for an extension to assessment due date if they are unable to meet an assessment deadline due to extenuating circumstances.\nPlease refer to my.UQ for information on applying for assessment extension:Applying for an assessment extension\nAdditional information on extensions can be found within theAssessment Procedure.\nStudents applying for an extension must submit a request through my.UQ and provide evidence of their circumstances, as soon as it becomes evident that an extension is needed, but no later than the assessment item submission due date and time.\nRequests for extensions received after the assessment item submission due date and time must include evidence of the reasons for the late request and will require the decision maker listed in theStudent Grievance Resolution Proceduresto accept the request for consideration.\nIn the Business School, all extension requests are processed by the Business School Exams Team.\nUnless there is pedagogical reason provided in the ECP regarding limitations on extensions, Business School extensions will generally be limited to one week in the first instance.\nIn exceptional circumstances, approved extensions may be granted for more than one week but will not exceed four weeks in total. Where a student is incapacitated for a period exceeding four weeks of the teaching period, they might be advised to apply for removal of course.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nPlease refer to the following link for more details regarding the provisioning of Late Submission penalties -Click Here",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The objective of this assignment is for you to undertake an exploratory data analysis to summarise and highlight key aspects and special features of business data. You will consolidate your knowledge and develop skills in data analysis to solve business problems, provide insights and enhance your presentation and communication skills in a business context. This will further strengthen your ability to tackle problems in business data analysis and visualisation.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Analytics Practice",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "4/10/2024 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02",
+      "task_description": "The modules contain a total of eight Analytics Practice tasks. Each task is an important opportunity to put the technical skills you are learning into practice by working with a new data set and using RStudio to answer five numerical questions. Correctly answering each question is worth 0.5 marks towards your overall grade (for a maximum of 20 marks). You can attempt each question as many times as you like before the due date. (There is no penalty for incorrect answers.)You are encouraged to discuss how to answer the questions with your peers on Ed Discussion.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Complete via Blackboard\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission of assessment/Extensions to assessment due date\nA student may apply for an extension to assessment due date if they are unable to meet an assessment deadline due to extenuating circumstances.\nPlease refer to my.UQ for information on applying for assessment extension:Applying for an assessment extension\nAdditional information on extensions can be found within theAssessment Procedure.\nStudents applying for an extension must submit a request through my.UQ and provide evidence of their circumstances, as soon as it becomes evident that an extension is needed, but no later than the assessment item submission due date and time.\nRequests for extensions received after the assessment item submission due date and time must include evidence of the reasons for the late request and will require the decision maker listed in theStudent Grievance Resolution Proceduresto accept the request for consideration.\nIn the Business School, all extension requests are processed by the Business School Exams Team.\nUnless there is pedagogical reason provided in the ECP regarding limitations on extensions, Business School extensions will generally be limited to one week in the first instance.\nIn exceptional circumstances, approved extensions may be granted for more than one week but will not exceed four weeks in total. Where a student is incapacitated for a period exceeding four weeks of the teaching period, they might be advised to apply for removal of course.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nPlease refer to the following link for more details regarding the provisioning of Late Submission penalties -Click Here",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The modules contain a total of eight Analytics Practice tasks. Each task is an important opportunity to put the technical skills you are learning into practice by working with a new data set and using RStudio to answer five numerical questions. Correctly answering each question is worth 0.5 marks towards your overall grade (for a maximum of 20 marks). You can attempt each question as many times as you like before the due date. (There is no penalty for incorrect answers.)You are encouraged to discuss how to answer the questions with your peers on Ed Discussion.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Technical Report and Stakeholder Presentation",
+      "mode": "Oral, Written",
+      "category": "Paper/ Report/ Annotation, Presentation",
+      "weight": "50%",
+      "due_date": "25/10/2024 3:00 pm",
+      "learning_outcomes_assessed": "L02, L03",
+      "task_description": "The objective of this assessment is for you to work with a complex collection of data files in order to create a value proposition for a stakeholder. You will use techniques of data wrangling in R to generate and explore suitable variables to address a business question. You will then select and justify the relevant theory and advanced tools that can be applied to the variables. Your analysis should demonstrate the application the three core methods from Modules 3 and 4:Multiple linear regressionLogistic regression and multiple logistic regressionTime seriesYou will then present your insights from this analysis as a technical report to your supervisor and as a persuasive presentation to the stakeholders.Please Note:The presentation will be recorded for marking purposes.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
+      "submission_guidelines": "Further details of submission will be provided on Blackboard\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission of assessment/Extensions to assessment due date\nA student may apply for an extension to assessment due date if they are unable to meet an assessment deadline due to extenuating circumstances.\nPlease refer to my.UQ for information on applying for assessment extension:Applying for an assessment extension\nAdditional information on extensions can be found within theAssessment Procedure.\nStudents applying for an extension must submit a request through my.UQ and provide evidence of their circumstances, as soon as it becomes evident that an extension is needed, but no later than the assessment item submission due date and time.\nRequests for extensions received after the assessment item submission due date and time must include evidence of the reasons for the late request and will require the decision maker listed in theStudent Grievance Resolution Proceduresto accept the request for consideration.\nIn the Business School, all extension requests are processed by the Business School Exams Team.\nUnless there is pedagogical reason provided in the ECP regarding limitations on extensions, Business School extensions will generally be limited to one week in the first instance.\nIn exceptional circumstances, approved extensions may be granted for more than one week but will not exceed four weeks in total. Where a student is incapacitated for a period exceeding four weeks of the teaching period, they might be advised to apply for removal of course.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nPlease refer to the following link for more details regarding the provisioning of Late Submission penalties -Click Here",
+      "deferral_or_extension": "You may be able toapply for an extension.",
+      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The objective of this assessment is for you to work with a complex collection of data files in order to create a value proposition for a stakeholder. You will use techniques of data wrangling in R to generate and explore suitable variables to address a business question. You will then select and justify the relevant theory and advanced tools that can be applied to the variables. Your analysis should demonstrate the application the three core methods from Modules 3 and 4:Multiple linear regressionLogistic regression and multiple logistic regressionTime seriesYou will then present your insights from this analysis as a technical report to your supervisor and as a persuasive presentation to the stakeholders.Please Note:The presentation will be recorded for marking purposes.This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find therequired and recommended resourcesfor this course on the UQ Library website.",
+    "other_course_materials": "If we've listed something under further requirement, you'll need to provide your own.RequiredItemDescriptionFurther RequirementRise MaterialsRise Modules 1-4 on BlackboardRecommendedItemDescriptionFurther RequirementEd Discussion BoardDiscussion board for the course",
+    "required": "ItemDescriptionFurther RequirementRise MaterialsRise Modules 1-4 on Blackboard\nRecommended\nItemDescriptionFurther RequirementEd Discussion BoardDiscussion board for the course",
+    "recommended": "ItemDescriptionFurther RequirementEd Discussion BoardDiscussion board for the course"
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Not Timetabled",
+      "topic": "Topic 1.1 - Univariate AnalysisSelf-Directed Learning: What methods can we visualise our data to gain insight into patterns of variability? How can we used statistics to summarise the patterns we see?Learning outcomes:L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Seminar",
+      "topic": "Topic 1.1 - Univariate AnalysisLive sessionLearning outcomes:L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Not Timetabled",
+      "topic": "Topic 1.2 - Bivariate AnalysisSelf-Directed Learning: How can we visualise and summarise the relationships between quantitative variables?Learning outcomes:L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Seminar",
+      "topic": "Topic 1.2 - Bivariate AnalysisLive sessionLearning outcomes:L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Not Timetabled",
+      "topic": "Assessment PreparationAssignment preparation"
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Not Timetabled",
+      "topic": "Topic 2.1 - Hypothesis TestingSelf-Directed Learning: How can we draw conclusions about population comparisons using our sample data?Learning outcomes:L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Seminar",
+      "topic": "Topic 2.1 - Hypothesis TestingThere will be no activities on the Ekka Show day public holiday. Alternative arrangements will be made and communicated via Blackboard, if required.Learning outcomes:L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Not Timetabled",
+      "topic": "Topic 2.2 - Linear RegressionSelf-Directed Learning: How can we determine whether a linear relationship exists between two variables? How can we use our model to make predictions?Learning outcomes:L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Seminar",
+      "topic": "Topic 2.2 - Linear RegressionLive sessionLearning outcomes:L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Not Timetabled",
+      "topic": "Topic 3.1 - Multiple RegressionSelf-Directed Learning: How can we model the relationship between a response and multiple explanatory variables? How do we know which factors are important for making predictions?Learning outcomes:L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Seminar",
+      "topic": "Topic 3.1 - Multiple RegressionLive sessionLearning outcomes:L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Not Timetabled",
+      "topic": "Topic 3.2 - Logistic RegressionSelf-Directed Learning: How can we predict a categorical outcome? How can we know which factors affect the outcome?Learning outcomes:L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Seminar",
+      "topic": "Topic 3.2 - Logistic RegressionLive sessionLearning outcomes:L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Not Timetabled",
+      "topic": "Topic 3.3 - Time SeriesSelf-Directed Learning: How can we understand patterns of variability over time and make forecast from past data?Learning outcomes:L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Seminar",
+      "topic": "Topic 3.3 - Time SeriesLive sessionLearning outcomes:L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Not Timetabled",
+      "topic": "Assessment PreparationAssessment Preparation"
+    },
+    {
+      "learning_period": "Mid Sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "In-Semester Break"
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Not Timetabled",
+      "topic": "Topic 4.1 - Model SelectionSelf-Directed Learning: What criteria can we use to evaluate our models? How can we use these criteria to select meaningful models?Learning outcomes:L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Seminar",
+      "topic": "Topic 4.1 - Model SelectionLive sessionLearning outcomes:L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Not Timetabled",
+      "topic": "Topic 4.2 - Regression Case StudySelf-Directed Learning: What issues are important when putting theory into practice in a multiple regression model?Learning outcomes:L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Seminar",
+      "topic": "Topic 4.2 - Regression Case StudyLive sessionLearning outcomes:L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Not Timetabled",
+      "topic": "Topic 4.3 - Time Series Case StudySelf-Directed Learning: What issues are important when putting theory into practice in time series analysis?Learning outcomes:L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Seminar",
+      "topic": "Topic 4.3 - Time Series Case StudyLive sessionLearning outcomes:L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Not Timetabled",
+      "topic": "Assessment PreparationAssessment Preparation"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the:Student Code of Conduct PolicyStudent Integrity and Misconduct PolicyandProcedureAssessment ProcedureExaminations ProcedureReasonable Adjustments - Students PolicyandProcedureLearn more about UQ policies onmy.UQand thePolicy and Procedure Library.Learning activities"
+}
