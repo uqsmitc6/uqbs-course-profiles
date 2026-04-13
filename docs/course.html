@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Course — UQBS Course Profile Viewer</title>
+  <link rel="stylesheet" href="./assets/styles.css">
+</head>
+<body>
+  <header class="site">
+    <h1>UQBS Course Profile Viewer</h1>
+    <nav>
+      <a href="index.html">Courses</a>
+      <a href="program.html">Programs</a>
+      <a href="https://github.com/uqsmitc6/uqbs-course-profiles" target="_blank" rel="noopener">Repository ↗</a>
+    </nav>
+  </header>
+
+  <main>
+    <p style="margin-top:0"><a href="index.html" class="small">← Back to course browser</a></p>
+    <div id="course-root">
+      <div class="loading">Loading course profile…</div>
+    </div>
+  </main>
+
+  <footer class="site">
+    UQBS Course Profile Viewer
+  </footer>
+
+  <script src="./assets/app.js"></script>
+  <script>window.UQBS.initCourseDetail();</script>
+</body>
+</html>

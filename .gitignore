@@ -17,3 +17,7 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+# Local dev symlinks (created by docs/serve_local.sh)
+docs/profiles
+docs/taxonomy

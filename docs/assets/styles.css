@@ -1,0 +1,338 @@
+/* UQBS Course Profile Viewer — styles
+ * Palette loosely based on UQ brand: primary purple #51247A, accent gold #BB9237
+ */
+:root {
+  --uq-purple: #51247A;
+  --uq-purple-dark: #3C1A5B;
+  --uq-purple-light: #EFE8F5;
+  --uq-gold: #BB9237;
+  --ink: #1a1a1a;
+  --ink-muted: #555;
+  --ink-faint: #888;
+  --rule: #e5e5e5;
+  --bg: #fafafa;
+  --bg-card: #ffffff;
+  --chip-bg: #f0ebf7;
+  --chip-ink: #51247A;
+  --warn: #a15c07;
+  --warn-bg: #fdf3e3;
+  --ok: #1b6a2c;
+  --ok-bg: #e6f2e9;
+  --radius: 6px;
+  --shadow: 0 1px 2px rgba(0,0,0,0.06), 0 4px 12px rgba(0,0,0,0.04);
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0; padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.55;
+  color: var(--ink);
+  background: var(--bg);
+}
+
+a { color: var(--uq-purple); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Header ------------------------------------------------------------ */
+header.site {
+  background: var(--uq-purple);
+  color: white;
+  padding: 16px 24px;
+  border-bottom: 4px solid var(--uq-gold);
+}
+header.site a { color: white; }
+header.site h1 {
+  margin: 0; font-size: 20px; font-weight: 600; letter-spacing: 0.2px;
+}
+header.site nav {
+  margin-top: 6px; font-size: 14px;
+}
+header.site nav a {
+  margin-right: 16px; opacity: 0.9;
+}
+header.site nav a.active {
+  opacity: 1; border-bottom: 2px solid var(--uq-gold); padding-bottom: 2px;
+}
+
+/* Main layout ------------------------------------------------------- */
+main { max-width: 1400px; margin: 24px auto; padding: 0 24px; }
+h1, h2, h3, h4 { color: var(--uq-purple-dark); margin-top: 0; }
+h2 { font-size: 20px; margin: 32px 0 12px; border-bottom: 1px solid var(--rule); padding-bottom: 6px; }
+h3 { font-size: 16px; margin: 20px 0 8px; }
+
+.subtitle {
+  color: var(--ink-muted); font-size: 14px; margin-top: -4px;
+}
+
+.stat-bar {
+  display: flex; gap: 24px; flex-wrap: wrap;
+  background: var(--bg-card);
+  padding: 12px 20px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+.stat-bar .stat b { color: var(--uq-purple); font-weight: 600; }
+.stat-bar .stat span { color: var(--ink-muted); margin-left: 4px; }
+.btn-link {
+  background: none; border: 1px solid var(--uq-purple); color: var(--uq-purple);
+  padding: 5px 12px; border-radius: 4px; font-size: 13px; cursor: pointer;
+  font-family: inherit;
+}
+.btn-link:hover { background: var(--uq-purple); color: white; }
+.btn-link:disabled { opacity: 0.5; cursor: not-allowed; }
+
+/* Filters ----------------------------------------------------------- */
+.filters {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr 1fr;
+  gap: 12px;
+  background: var(--bg-card);
+  padding: 16px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  margin-bottom: 16px;
+}
+.filters label {
+  font-size: 12px; text-transform: uppercase; letter-spacing: 0.5px; color: var(--ink-muted);
+  display: block; margin-bottom: 4px; font-weight: 600;
+}
+.filters input, .filters select {
+  width: 100%;
+  padding: 8px 10px;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  font-size: 14px;
+  background: white;
+}
+.filters input:focus, .filters select:focus {
+  outline: 2px solid var(--uq-purple);
+  outline-offset: -1px;
+  border-color: var(--uq-purple);
+}
+
+@media (max-width: 900px) {
+  .filters { grid-template-columns: 1fr 1fr; }
+}
+
+/* Table ------------------------------------------------------------- */
+.table-wrap {
+  background: var(--bg-card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+table.courses {
+  width: 100%; border-collapse: collapse; font-size: 14px;
+}
+table.courses th {
+  background: var(--uq-purple-light);
+  color: var(--uq-purple-dark);
+  font-weight: 600;
+  text-align: left;
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--rule);
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+table.courses th:hover { background: #e3d8ee; }
+table.courses th.sort-asc::after  { content: " ▲"; font-size: 10px; color: var(--uq-purple); }
+table.courses th.sort-desc::after { content: " ▼"; font-size: 10px; color: var(--uq-purple); }
+table.courses td {
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--rule);
+  vertical-align: top;
+}
+table.courses tr:hover td { background: #fbf9fc; }
+table.courses td.code { font-family: "SF Mono", Menlo, Consolas, monospace; font-weight: 600; }
+table.courses td.code a { color: var(--uq-purple); }
+.level-pill {
+  display: inline-block; padding: 1px 7px; border-radius: 10px;
+  font-size: 11px; font-weight: 600; background: var(--chip-bg); color: var(--chip-ink);
+}
+.level-pill.pg { background: #f5eedd; color: var(--uq-gold); }
+
+/* Chips ------------------------------------------------------------- */
+.chip {
+  display: inline-block;
+  background: var(--chip-bg);
+  color: var(--chip-ink);
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 12px;
+  margin: 2px 2px 2px 0;
+  font-weight: 500;
+}
+.chip.role-core { background: #d9eadf; color: var(--ok); }
+.chip.role-elective { background: #f5ede0; color: var(--warn); }
+
+/* Course detail page ----------------------------------------------- */
+.course-header {
+  background: var(--bg-card);
+  padding: 24px 28px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  margin-bottom: 20px;
+  border-left: 4px solid var(--uq-purple);
+}
+.course-header h1 { margin: 0 0 6px; font-size: 24px; }
+.course-header .meta {
+  color: var(--ink-muted); font-size: 14px;
+}
+.course-header .code {
+  font-family: "SF Mono", Menlo, Consolas, monospace;
+  background: var(--uq-purple-light);
+  color: var(--uq-purple);
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.card {
+  background: var(--bg-card);
+  padding: 20px 24px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  margin-bottom: 16px;
+}
+
+.kv-grid {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 8px 20px;
+  font-size: 14px;
+}
+.kv-grid dt { color: var(--ink-muted); font-weight: 500; }
+.kv-grid dd { margin: 0; }
+
+ul.plain, ol.plain { padding-left: 20px; margin: 0; }
+ul.plain li, ol.plain li { margin-bottom: 6px; }
+
+/* Learning outcomes ------------------------------------------------- */
+.lo-item {
+  display: grid;
+  grid-template-columns: 60px 1fr;
+  gap: 12px;
+  padding: 10px 0;
+  border-bottom: 1px dashed var(--rule);
+}
+.lo-item:last-child { border-bottom: none; }
+.lo-code {
+  font-family: "SF Mono", Menlo, Consolas, monospace;
+  font-weight: 600;
+  color: var(--uq-purple);
+}
+
+/* Assessment table -------------------------------------------------- */
+table.assessment {
+  width: 100%; border-collapse: collapse; font-size: 14px; margin-top: 8px;
+}
+table.assessment th {
+  background: var(--uq-purple-light);
+  color: var(--uq-purple-dark);
+  padding: 8px 10px; text-align: left; border-bottom: 1px solid var(--rule);
+}
+table.assessment td {
+  padding: 8px 10px; border-bottom: 1px solid var(--rule); vertical-align: top;
+}
+table.assessment .conditions { font-size: 12px; color: var(--ink-muted); display: block; margin-top: 4px; }
+table.assessment .weight { font-weight: 600; color: var(--uq-purple); }
+
+/* Assessment detail expanded --------------------------------------- */
+.assessment-detail {
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  padding: 14px 18px;
+  margin-bottom: 12px;
+}
+.assessment-detail h4 { margin: 0 0 8px; color: var(--uq-purple-dark); }
+.assessment-detail .a-meta {
+  display: flex; gap: 16px; flex-wrap: wrap;
+  font-size: 13px; color: var(--ink-muted); margin-bottom: 10px;
+}
+.assessment-detail .a-meta b { color: var(--ink); font-weight: 600; }
+
+/* Staff cards ------------------------------------------------------ */
+.staff-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 10px;
+}
+.staff-card {
+  padding: 10px 14px;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  font-size: 14px;
+}
+.staff-card .name { font-weight: 600; }
+.staff-card .role { color: var(--uq-purple); font-size: 12px; text-transform: uppercase; letter-spacing: 0.4px; margin-top: 2px; }
+.staff-card .email { font-size: 12px; color: var(--ink-muted); margin-top: 4px; word-break: break-all; }
+.staff-card .email a { color: var(--ink-muted); }
+
+/* Empty/loading/error states ---------------------------------------- */
+.empty, .loading {
+  padding: 40px; text-align: center; color: var(--ink-muted); font-style: italic;
+}
+.error {
+  padding: 20px; background: #fbe9e9; color: #8a1f1f; border-radius: var(--radius);
+  border-left: 4px solid #c73636;
+}
+.callout {
+  padding: 12px 16px; background: var(--warn-bg); color: var(--warn);
+  border-radius: var(--radius); border-left: 3px solid var(--warn); font-size: 13px;
+  margin-bottom: 12px;
+}
+.callout.info { background: var(--uq-purple-light); color: var(--uq-purple-dark); border-left-color: var(--uq-purple); }
+
+/* Program page ----------------------------------------------------- */
+.program-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+}
+.program-card {
+  background: var(--bg-card);
+  padding: 16px 20px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  border-left: 3px solid var(--uq-purple);
+  transition: transform 0.1s;
+}
+.program-card:hover { transform: translateY(-2px); }
+.program-card h3 { margin: 0 0 4px; font-size: 16px; }
+.program-card .level { font-size: 11px; color: var(--ink-muted); text-transform: uppercase; letter-spacing: 0.5px; }
+.program-card .count { color: var(--uq-purple); font-weight: 600; margin-top: 8px; font-size: 14px; }
+
+.major-section { margin-bottom: 28px; }
+.major-section h3 {
+  color: var(--uq-purple-dark);
+  background: var(--uq-purple-light);
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+/* Footer ----------------------------------------------------------- */
+footer.site {
+  margin: 40px auto 20px;
+  padding: 20px 24px;
+  max-width: 1400px;
+  color: var(--ink-faint);
+  font-size: 12px;
+  text-align: center;
+  border-top: 1px solid var(--rule);
+}
+
+/* Utility ----------------------------------------------------------- */
+.muted { color: var(--ink-muted); }
+.small { font-size: 12px; }
+.nowrap { white-space: nowrap; }
+.mono { font-family: "SF Mono", Menlo, Consolas, monospace; }
+hr { border: 0; border-top: 1px solid var(--rule); margin: 20px 0; }

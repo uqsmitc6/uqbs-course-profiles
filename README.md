@@ -1,8 +1,16 @@
-# UQBS Course Profile Scraper
+# UQBS Course Profile Scraper + Viewer
 
-Enriched course profile scraper for UQ Business School courses. Captures a comprehensive data set from published UQ course profiles for use in learning design, Graduate Attribute mapping, and Assurance of Learning reporting.
+Enriched course profile scraper and static-site viewer for UQ Business School courses. Captures a comprehensive data set from published UQ course profiles for use in learning design, Graduate Attribute mapping, and Assurance of Learning reporting.
 
 Built on the [JacSON](https://github.com/uq-course-profiles/jacson) architecture by Geoff, extended for UQBS-specific needs.
+
+**Components:**
+
+- `scraper/` — Python scraper that produces enriched JSON per course
+- `docs/` — Static-site viewer (vanilla HTML + JS, no build step) served via GitHub Pages
+- `taxonomy/` — UQBS program/course taxonomy driving both the scraper and the viewer
+
+**Runs automatically:** The scrape workflow runs weekly on GitHub Actions. New JSONs are committed to the repo and the viewer redeploys within a minute.
 
 ## What it captures
 
@@ -80,26 +88,34 @@ profiles/
     └── ...
 ```
 
-## Scheduling (macOS)
+## Scheduling
 
-UQ servers block requests from cloud/datacenter IPs (including GitHub Actions), so the scraper needs to run from a machine with a residential or university IP address.
+**Primary: GitHub Actions** — `.github/workflows/scrape.yml` runs weekly (Sundays 9pm AEST) and supports manual dispatch with semester/course filters. `course-profiles.uq.edu.au` is accessible from GitHub Actions runners, so the full scrape runs cleanly in the cloud. The workflow commits new profiles back to the repo, which automatically triggers a viewer redeploy.
 
-To schedule weekly runs on your Mac:
+**Optional: macOS launchd** — For a local backup runner, edit the path in `com.uqbs.course-scraper.plist` and install it with `launchctl load ~/Library/LaunchAgents/com.uqbs.course-scraper.plist`. Manual run: `./run_scrape.sh --push`.
 
-1. Edit the path in `com.uqbs.course-scraper.plist` to match your local repo location
-2. Copy the plist to `~/Library/LaunchAgents/`
-3. Load it:
-   ```bash
-   launchctl load ~/Library/LaunchAgents/com.uqbs.course-scraper.plist
-   ```
+## Viewer (GitHub Pages)
 
-The default schedule is Sundays at 9:00 PM AEST. The scraper will run, then commit and push any changes to GitHub.
+The `docs/` folder is a vanilla HTML/JS static site that renders the scraped data. Three pages:
 
-To run manually at any time: `./run_scrape.sh --push`
+- `index.html` — Searchable/filterable course browser (by program, level, mode, location)
+- `course.html?file=…` — Per-course detail view showing every scraped field
+- `program.html?program=…` — Program/major navigation with course lists pulled from the taxonomy
 
-## GitHub Actions (experimental)
+**Deployment:** The `.github/workflows/pages.yml` workflow rebuilds the site whenever `profiles/`, `taxonomy/`, or `docs/` change. It regenerates the lean manifest (`docs/assets/manifest.json`), stages `profiles/` and `taxonomy/` into `docs/`, and deploys to GitHub Pages. You'll need to enable Pages in the repo settings ("Build and deployment" → Source: "GitHub Actions").
 
-A GitHub Actions workflow is included at `.github/workflows/scrape.yml` in case UQ changes their IP blocking policy. It supports manual dispatch with semester and course filters. Currently not expected to work due to UQ's IP restrictions on cloud providers.
+**Local dev:**
+
+```bash
+./docs/serve_local.sh           # rebuild manifest, stage symlinks, serve on :8000
+# then open http://localhost:8000/index.html
+```
+
+The manifest generator can be run independently:
+
+```bash
+python3 scraper/build_manifest.py   # writes docs/assets/manifest.json
+```
 
 ## Semester codes
 
