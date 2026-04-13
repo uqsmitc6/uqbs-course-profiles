@@ -515,14 +515,17 @@ def _extract_learning_outcomes(soup: BeautifulSoup, profile: dict):
             description = ""
 
             # The description is typically in the next <p> sibling
-            # (may be sibling of the <p> containing the <strong>)
+            # (may be sibling of the <p> containing the <strong>).
+            # But we must skip <p> tags that are themselves an LO number
+            # (i.e. contain only a <strong>LO\d+.</strong>).
             parent_p = strong.find_parent("p")
             if parent_p:
                 sibling = parent_p.find_next_sibling()
                 while sibling:
                     if sibling.name == "p":
                         text = sibling.get_text(strip=True)
-                        if text:
+                        # Skip empty paragraphs and LO-number-only paragraphs
+                        if text and not re.match(r"^LO\d+\.?$", text):
                             description = text
                             break
                     sibling = sibling.find_next_sibling()
@@ -594,19 +597,26 @@ def _extract_assessment(soup: BeautifulSoup, profile: dict):
             "title": h3.get_text(strip=True),
         }
 
-        # Walk through siblings to collect all fields for this item
-        # Find the container — try parent, or walk siblings until next h3
-        container = h3.parent
-        if container and container.name in ("section", "div"):
-            _extract_assessment_fields(container, item)
-        else:
-            # Walk siblings
-            fields_html = []
-            sibling = h3.find_next_sibling()
-            while sibling and not (sibling.name == "h3" and sibling.get("id", "").startswith("assessment-detail")):
-                fields_html.append(sibling)
-                sibling = sibling.find_next_sibling()
-            _extract_assessment_fields_from_elements(fields_html, item)
+        # Collect sibling elements between this h3 and the next h3
+        # (or end of parent). This scopes extraction to only this item's
+        # content, avoiding the bug where all items shared one parent
+        # <section> and all got the last item's data.
+        scoped_elements = []
+        sibling = h3.find_next_sibling()
+        while sibling:
+            # Stop at the next assessment-detail h3
+            if (sibling.name == "h3"
+                    and sibling.get("id", "").startswith("assessment-detail")):
+                break
+            scoped_elements.append(sibling)
+            sibling = sibling.find_next_sibling()
+
+        # Build a temporary container soup so the extraction helpers work
+        from bs4 import Tag
+        temp = Tag(name="div")
+        for el in scoped_elements:
+            temp.append(el.__copy__())  # copy to avoid mutating the tree
+        _extract_assessment_fields(temp, item)
 
         details.append(item)
 
