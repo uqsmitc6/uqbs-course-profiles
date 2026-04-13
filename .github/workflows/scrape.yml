@@ -21,10 +21,17 @@ on:
         required: false
         type: string
 
+# Grant write permission so the workflow can push commits
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 120  # 2 hours should be plenty for ~308 courses
+    timeout-minutes: 120
 
     steps:
       - name: Checkout repository
@@ -53,18 +60,24 @@ jobs:
           python scraper/scrape.py $ARGS
 
       - name: Commit and push updated profiles
+        if: always()
         run: |
           git config user.name "UQBS Scraper Bot"
           git config user.email "uqbs-scraper[bot]@users.noreply.github.com"
-          git add profiles/
-          # Only commit if there are changes
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
+
+          # Only add profiles if the directory has content
+          if [ -d "profiles" ] && [ "$(find profiles/ -name '*.json' 2>/dev/null)" ]; then
+            git add profiles/
+            if git diff --cached --quiet; then
+              echo "No changes to commit"
+            else
+              TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+              PROFILE_COUNT=$(find profiles/ -name "*.json" | wc -l)
+              git commit -m "Scrape update: ${PROFILE_COUNT} profiles as at ${TIMESTAMP}"
+              git push
+            fi
           else
-            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
-            PROFILE_COUNT=$(find profiles/ -name "*.json" | wc -l)
-            git commit -m "Scrape update: ${PROFILE_COUNT} profiles as at ${TIMESTAMP}"
-            git push
+            echo "No profile files found — skipping commit"
           fi
 
       - name: Upload scrape logs as artifact
