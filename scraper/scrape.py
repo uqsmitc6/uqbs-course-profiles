@@ -278,7 +278,7 @@ def _extract_overview(soup: BeautifulSoup, profile: dict):
     # Page heading / course title
     h1 = soup.find("h1")
     if h1:
-        title_text = h1.get_text(strip=True)
+        title_text = h1.get_text(separator=" ", strip=True)
         # Remove trailing semester info in parentheses if present
         title_text = re.sub(r"\s*\([^)]*\)\s*$", "", title_text)
         profile["course_title"] = title_text
@@ -295,11 +295,11 @@ def _extract_overview(soup: BeautifulSoup, profile: dict):
     }
 
     for dt_tag in overview.find_all("dt"):
-        label = dt_tag.get_text(strip=True)
+        label = dt_tag.get_text(separator=" ", strip=True)
         if label in field_map:
             dd_tag = dt_tag.find_next_sibling("dd")
             if dd_tag:
-                profile[field_map[label]] = dd_tag.get_text(strip=True)
+                profile[field_map[label]] = dd_tag.get_text(separator=" ", strip=True)
 
 
 def _extract_course_description(soup: BeautifulSoup, profile: dict):
@@ -318,7 +318,7 @@ def _extract_course_description(soup: BeautifulSoup, profile: dict):
     while sibling:
         if sibling.name in ("p", "div"):
             # Skip if it's a nested section or contains only whitespace
-            text = sibling.get_text(strip=True)
+            text = sibling.get_text(separator=" ", strip=True)
             if text and len(text) > 10:
                 description_parts.append(text)
         elif sibling.name in ("h2", "section"):
@@ -341,7 +341,7 @@ def _extract_requirements(soup: BeautifulSoup, profile: dict):
     for child in section.descendants:
         if isinstance(child, NavigableString):
             continue
-        text = child.get_text(strip=True)
+        text = child.get_text(separator=" ", strip=True)
 
         # Look for requirement type labels
         if child.name in ("h3", "h4", "strong"):
@@ -371,7 +371,7 @@ def _extract_requirements(soup: BeautifulSoup, profile: dict):
 
     # Also try a simpler extraction as fallback
     if not requirements:
-        full_text = section.get_text(strip=True)
+        full_text = section.get_text(separator=" ", strip=True)
         if "Incompatible" in full_text:
             codes = re.findall(r"[A-Z]{4}\d{4}", full_text)
             if codes:
@@ -395,23 +395,23 @@ def _extract_contacts(soup: BeautifulSoup, profile: dict):
 
         role_el = card.select_one(".contact-card__role-heading, h3")
         if role_el:
-            contact["role"] = role_el.get_text(strip=True)
+            contact["role"] = role_el.get_text(separator=" ", strip=True)
 
         name_el = card.select_one(".contact-card__name, .contact-card__details")
         if name_el:
-            contact["name"] = name_el.get_text(strip=True)
+            contact["name"] = name_el.get_text(separator=" ", strip=True)
 
         email_el = card.select_one(".contact-card__email a, a[href^='mailto:']")
         if email_el:
-            contact["email"] = email_el.get_text(strip=True)
+            contact["email"] = email_el.get_text(separator=" ", strip=True)
 
         phone_el = card.select_one(".contact-card__phone a, a[href^='tel:']")
         if phone_el:
-            contact["phone"] = phone_el.get_text(strip=True)
+            contact["phone"] = phone_el.get_text(separator=" ", strip=True)
 
         notes_el = card.select_one(".contact-card__notes")
         if notes_el:
-            contact["notes"] = notes_el.get_text(strip=True)
+            contact["notes"] = notes_el.get_text(separator=" ", strip=True)
 
         # Deduplicate
         key = (contact.get("role", ""), contact.get("name", ""), contact.get("email", ""))
@@ -451,7 +451,7 @@ def _extract_staff(soup: BeautifulSoup, profile: dict):
     # The cards for that role are in the next sibling
     # .staff-cards__cards div.
     for role_heading in section.select("h3.staff-cards__role"):
-        role = role_heading.get_text(strip=True)
+        role = role_heading.get_text(separator=" ", strip=True)
 
         # Find the next .staff-cards__cards sibling
         cards_div = role_heading.find_next_sibling(
@@ -466,10 +466,10 @@ def _extract_staff(soup: BeautifulSoup, profile: dict):
                 person["role"] = role
             name_el = card.select_one(".contact-card__name")
             if name_el:
-                person["name"] = name_el.get_text(strip=True)
+                person["name"] = name_el.get_text(separator=" ", strip=True)
             email_el = card.select_one("a[href^='mailto:']")
             if email_el:
-                person["email"] = email_el.get_text(strip=True)
+                person["email"] = email_el.get_text(separator=" ", strip=True)
 
             # Deduplicate by name + role (same person can have
             # different roles, e.g. Lecturer AND Course facilitator)
@@ -532,7 +532,7 @@ def _extract_aims(soup: BeautifulSoup, profile: dict):
             continue
 
         if child.name in ("p", "div"):
-            text = child.get_text(strip=True)
+            text = child.get_text(separator=" ", strip=True)
             if text and text.lower() != "aims and outcomes" and len(text) > 10:
                 aims_parts.append(text)
 
@@ -573,7 +573,7 @@ def _extract_learning_outcomes(soup: BeautifulSoup, profile: dict):
 
     if lo_strongs:
         for strong in lo_strongs:
-            number = strong.get_text(strip=True)
+            number = strong.get_text(separator=" ", strip=True)
             description = ""
             parent_p = strong.find_parent("p")
 
@@ -581,7 +581,7 @@ def _extract_learning_outcomes(soup: BeautifulSoup, profile: dict):
             # If the <p> contains both the <strong> and description text,
             # strip the LO number prefix to get the description.
             if parent_p:
-                full_text = parent_p.get_text(strip=True)
+                full_text = parent_p.get_text(separator=" ", strip=True)
                 same_p_desc = re.sub(r"^LO\d+\.?\s*", "", full_text).strip()
                 if same_p_desc:
                     description = same_p_desc
@@ -593,7 +593,7 @@ def _extract_learning_outcomes(soup: BeautifulSoup, profile: dict):
                 sibling = parent_p.find_next_sibling()
                 while sibling:
                     if sibling.name == "p":
-                        text = sibling.get_text(strip=True)
+                        text = sibling.get_text(separator=" ", strip=True)
                         # Skip empty paragraphs and LO-number-only paragraphs
                         if text and not re.match(r"^LO\d+\.?\s*$", text):
                             description = text
@@ -651,24 +651,24 @@ def _extract_assessment(soup: BeautifulSoup, profile: dict):
                 # "In-person", "Team or group-based"). Extract just the
                 # link text for the title.
                 title_link = cells[1].find("a")
-                title = (title_link.get_text(strip=True)
+                title = (title_link.get_text(separator=" ", strip=True)
                          if title_link
-                         else cells[1].get_text(strip=True))
+                         else cells[1].get_text(separator=" ", strip=True))
 
                 # Special indicators from the icon-list
                 indicators = []
                 icon_list = cells[1].find("ul", class_="icon-list")
                 if icon_list:
                     for li in icon_list.find_all("li"):
-                        indicators.append(li.get_text(strip=True))
+                        indicators.append(li.get_text(separator=" ", strip=True))
 
                 # Due date cell may have multiple <p> tags
                 due_date = cells[3].get_text(separator="; ", strip=True)
 
                 item = {
-                    "category": cells[0].get_text(strip=True),
+                    "category": cells[0].get_text(separator=" ", strip=True),
                     "title": title,
-                    "weight": cells[2].get_text(strip=True),
+                    "weight": cells[2].get_text(separator=" ", strip=True),
                     "due_date": due_date,
                 }
                 if indicators:
@@ -686,7 +686,7 @@ def _extract_assessment(soup: BeautifulSoup, profile: dict):
     for h3 in detail_headings:
         item = {
             "id": h3.get("id", ""),
-            "title": h3.get_text(strip=True),
+            "title": h3.get_text(separator=" ", strip=True),
         }
 
         # Collect sibling elements between this h3 and the next h3
@@ -720,19 +720,19 @@ def _extract_assessment_fields(container, item: dict):
     """Extract all fields from an assessment detail container."""
     # DT/DD pairs
     for dt_tag in container.find_all("dt"):
-        label = dt_tag.get_text(strip=True)
+        label = dt_tag.get_text(separator=" ", strip=True)
         dd_tag = dt_tag.find_next_sibling("dd")
         if not dd_tag:
             continue
 
-        value = dd_tag.get_text(strip=True)
+        value = dd_tag.get_text(separator=" ", strip=True)
         key = _normalise_field_name(label)
         if key:
             item[key] = value
 
     # Subheadings with content (Task description, Submission guidelines, etc.)
     for h4 in container.find_all("h4"):
-        heading_text = h4.get_text(strip=True)
+        heading_text = h4.get_text(separator=" ", strip=True)
         key = _normalise_field_name(heading_text)
         if not key:
             continue
@@ -741,7 +741,7 @@ def _extract_assessment_fields(container, item: dict):
         content_parts = []
         sibling = h4.find_next_sibling()
         while sibling and sibling.name not in ("h3", "h4"):
-            text = sibling.get_text(strip=True)
+            text = sibling.get_text(separator=" ", strip=True)
             if text:
                 content_parts.append(text)
             sibling = sibling.find_next_sibling()
@@ -751,21 +751,21 @@ def _extract_assessment_fields(container, item: dict):
 
     # H5 subsections (Deferral or extension, Late submission, etc.)
     for h5 in container.find_all("h5"):
-        heading_text = h5.get_text(strip=True)
+        heading_text = h5.get_text(separator=" ", strip=True)
         key = _normalise_field_name(heading_text)
         if not key:
             continue
 
         sibling = h5.find_next_sibling()
         if sibling and sibling.name in ("p", "div"):
-            item[key] = sibling.get_text(strip=True)
+            item[key] = sibling.get_text(separator=" ", strip=True)
 
     # Check for AI statements within this assessment item
     full_text = container.get_text()
     if re.search(r"artificial intelligence|generative ai|\bAI\b", full_text, re.I):
         ai_parts = []
         for el in container.find_all(["p", "li", "div"]):
-            el_text = el.get_text(strip=True)
+            el_text = el.get_text(separator=" ", strip=True)
             if re.search(r"artificial intelligence|generative ai|use of AI|\bAI tools\b|\bAI writing\b", el_text, re.I):
                 if len(el_text) > 20 and el_text not in ai_parts:
                     ai_parts.append(el_text)
@@ -776,7 +776,7 @@ def _extract_assessment_fields(container, item: dict):
     for icon_list in container.select(".icon-list"):
         indicators = []
         for li in icon_list.find_all("li"):
-            indicators.append(li.get_text(strip=True))
+            indicators.append(li.get_text(separator=" ", strip=True))
         if indicators:
             item["special_indicators"] = indicators
 
@@ -818,11 +818,11 @@ def _extract_learning_resources(soup: BeautifulSoup, profile: dict):
 
     # Look for required texts, library resources, etc.
     for heading in section.find_all(["h3", "h4"]):
-        heading_text = heading.get_text(strip=True).lower()
+        heading_text = heading.get_text(separator=" ", strip=True).lower()
         content_parts = []
         sibling = heading.find_next_sibling()
         while sibling and sibling.name not in ("h2", "h3"):
-            text = sibling.get_text(strip=True)
+            text = sibling.get_text(separator=" ", strip=True)
             if text:
                 content_parts.append(text)
             sibling = sibling.find_next_sibling()
@@ -833,7 +833,7 @@ def _extract_learning_resources(soup: BeautifulSoup, profile: dict):
 
     # If no headings found, just get all text
     if not resources:
-        text = section.get_text(strip=True)
+        text = section.get_text(separator=" ", strip=True)
         text = re.sub(r"^Learning resources\s*", "", text).strip()
         if text:
             resources["text"] = text
@@ -864,12 +864,12 @@ def _extract_learning_activities(soup: BeautifulSoup, profile: dict):
 
         if len(cells) >= 3:
             # Three-column row: learning period, activity type, topic
-            period_text = cells[0].get_text(strip=True)
+            period_text = cells[0].get_text(separator=" ", strip=True)
             if period_text:
                 current_period = period_text
             activity["learning_period"] = current_period
-            activity["activity_type"] = cells[1].get_text(strip=True)
-            activity["topic"] = cells[2].get_text(strip=True)
+            activity["activity_type"] = cells[1].get_text(separator=" ", strip=True)
+            activity["topic"] = cells[2].get_text(separator=" ", strip=True)
 
             # Try to extract LOs from topic cell
             topic_text = cells[2].get_text()
@@ -880,8 +880,8 @@ def _extract_learning_activities(soup: BeautifulSoup, profile: dict):
         elif len(cells) == 2:
             # Two-column row: activity type, topic (period continues from previous)
             activity["learning_period"] = current_period
-            activity["activity_type"] = cells[0].get_text(strip=True)
-            activity["topic"] = cells[1].get_text(strip=True)
+            activity["activity_type"] = cells[0].get_text(separator=" ", strip=True)
+            activity["topic"] = cells[1].get_text(separator=" ", strip=True)
 
             topic_text = cells[1].get_text()
             lo_match = re.findall(r"LO?\d+", topic_text)
@@ -901,11 +901,44 @@ def _extract_policies(soup: BeautifulSoup, profile: dict):
     if not section:
         return
 
-    text = section.get_text(strip=True)
+    text = section.get_text(separator=" ", strip=True)
     text = re.sub(r"^Policies and procedures\s*", "", text).strip()
 
     if text:
         profile["policies_and_procedures"] = text
+
+
+# ---------------------------------------------------------------------------
+# Whitespace normalisation
+# ---------------------------------------------------------------------------
+
+# Collapse runs of spaces/tabs/non-breaking spaces to single spaces without
+# eating intentional newlines. BeautifulSoup's ``separator=" "`` can double up
+# spaces at element boundaries, so we do a post-pass to clean every string.
+_WS_RUN = re.compile(r"[ \t\u00A0]+")
+_NL_RUN = re.compile(r"\n{3,}")
+
+
+def normalise_ws(value):
+    """Recursively collapse whitespace in every string found in ``value``.
+
+    Safe for any JSON-compatible tree (str / list / dict / scalar).
+    Preserves single and double newlines (paragraph structure) but collapses
+    runs of spaces/tabs/NBSPs into one space, trims line edges and trailing
+    whitespace, and reduces 3+ newlines to two.
+    """
+    if isinstance(value, str):
+        s = value.replace("\u00A0", " ")
+        s = _WS_RUN.sub(" ", s)
+        # Trim each line so " paragraph " and trailing runs don't linger
+        s = "\n".join(line.strip(" \t") for line in s.split("\n"))
+        s = _NL_RUN.sub("\n\n", s)
+        return s.strip()
+    if isinstance(value, list):
+        return [normalise_ws(v) for v in value]
+    if isinstance(value, dict):
+        return {k: normalise_ws(v) for k, v in value.items()}
+    return value
 
 
 # ---------------------------------------------------------------------------
@@ -924,6 +957,9 @@ def save_profile(profile: dict, base_dir: Path | None = None) -> bool:
     output_dir.mkdir(parents=True, exist_ok=True)
 
     output_path = output_dir / f"{full_code}.json"
+
+    # Normalise whitespace in every string field before writing
+    profile = normalise_ws(profile)
 
     try:
         with open(output_path, "w", encoding="utf-8") as f:

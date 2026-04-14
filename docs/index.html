@@ -5,6 +5,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>UQBS Course Profile Viewer</title>
   <link rel="stylesheet" href="./assets/styles.css">
+  <script>
+    // Apply saved theme before first paint to avoid FOUC
+    (function () {
+      try {
+        var t = localStorage.getItem("uqbs-theme") || "classic";
+        document.documentElement.setAttribute("data-theme", t);
+      } catch (e) {
+        document.documentElement.setAttribute("data-theme", "classic");
+      }
+    })();
+  </script>
 </head>
 <body>
   <header class="site">
@@ -13,6 +24,11 @@
       <a href="index.html" class="active">Courses</a>
       <a href="program.html">Programs</a>
       <a href="https://github.com/uqsmitc6/uqbs-course-profiles" target="_blank" rel="noopener">Repository ↗</a>
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch theme"
+              title="Switch between Classic and Fun themes">
+        <span class="tt-icon" aria-hidden="true">◐</span>
+        <span class="tt-label">Classic</span>
+      </button>
     </nav>
   </header>
 

@@ -62,6 +62,14 @@ function escapeHtml(s) {
     .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
 }
 
+// Extract the 4-letter faculty prefix from a course code (e.g. "MGTS1601" → "MGTS").
+// Used for Fun-theme faculty-colour coding on table rows.
+function coursePrefix(code) {
+  if (!code) return "";
+  const m = String(code).match(/^([A-Z]{3,4})/);
+  return m ? m[1] : "";
+}
+
 function fmtDate(iso) {
   if (!iso) return "—";
   try {
@@ -727,9 +735,11 @@ function render() {
     const more = roles.length > 3 ? `<span class="chip muted">+${roles.length - 3}</span>` : "";
     const levelClass = (c.study_level || "").toLowerCase().includes("post") ? "level-pill pg" : "level-pill";
     const fullCode = c.full_course_code || [c.course_code, c.class_code, c.semester_code].filter(Boolean).join("-");
+    const pfx = coursePrefix(c.course_code);
+    const codeCls = pfx ? `code prefix-${pfx}` : "code";
     return `
       <tr>
-        <td class="code"><a href="course.html?file=${encodeURIComponent(c.file)}">${escapeHtml(c.course_code || "")}</a></td>
+        <td class="${codeCls}"><a href="course.html?file=${encodeURIComponent(c.file)}">${escapeHtml(c.course_code || "")}</a></td>
         <td>${escapeHtml(c.course_title || "")}</td>
         <td><span class="${levelClass}">${escapeHtml(c.study_level || "")}</span></td>
         <td>${escapeHtml(c.units || "")}</td>
@@ -828,7 +838,6 @@ function renderCourseDetail($root, c, taxonomy) {
     ["Study period", c.study_period],
     ["Coordinating unit", c.coordinating_unit],
     ["Administrative campus", c.administrative_campus],
-    ["Scraped", fmtDate(c.scraped_at)],
   ].filter(([_, v]) => v);
   if (overviewRows.length) {
     parts.push(`
@@ -1184,16 +1193,18 @@ function renderProgramDetail($root, progKey, taxonomy, courses) {
 
   function renderCourseRow(code) {
     const c = coursesByCode[code];
+    const pfx = coursePrefix(code);
+    const codeCls = pfx ? `code prefix-${pfx}` : "code";
     if (c) {
       return `<tr>
-        <td class="code"><a href="course.html?file=${encodeURIComponent(c.file)}">${escapeHtml(code)}</a></td>
+        <td class="${codeCls}"><a href="course.html?file=${encodeURIComponent(c.file)}">${escapeHtml(code)}</a></td>
         <td>${escapeHtml(c.course_title || "")}</td>
         <td>${escapeHtml(c.units || "")}</td>
         <td>${escapeHtml(c.attendance_mode || "")}</td>
       </tr>`;
     }
     return `<tr>
-      <td class="code muted">${escapeHtml(code)}</td>
+      <td class="${codeCls} muted">${escapeHtml(code)}</td>
       <td class="muted"><em>not in current scrape</em></td>
       <td></td><td></td>
     </tr>`;
@@ -1247,9 +1258,66 @@ function renderProgramDetail($root, progKey, taxonomy, courses) {
   $root.innerHTML = parts.join("");
 }
 
+// =========================================================================
+// Theme toggle (Classic ⇄ Fun), shared across all pages
+// =========================================================================
+const THEMES = ["classic", "fun"];
+const THEME_LABELS = { classic: "Classic", fun: "Fun" };
+const THEME_ICONS = { classic: "◐", fun: "✦" };
+const THEME_STORAGE_KEY = "uqbs-theme";
+
+function getCurrentTheme() {
+  const t = document.documentElement.getAttribute("data-theme");
+  return THEMES.includes(t) ? t : "classic";
+}
+
+function applyTheme(theme) {
+  if (!THEMES.includes(theme)) theme = "classic";
+  document.documentElement.setAttribute("data-theme", theme);
+  try { localStorage.setItem(THEME_STORAGE_KEY, theme); } catch (_) { /* ignore */ }
+  updateThemeToggleLabel(theme);
+}
+
+function updateThemeToggleLabel(theme) {
+  const $btn = document.getElementById("theme-toggle");
+  if (!$btn) return;
+  // Button shows the theme you'll switch TO, to make it obvious what happens
+  const next = theme === "classic" ? "fun" : "classic";
+  const $label = $btn.querySelector(".tt-label");
+  const $icon = $btn.querySelector(".tt-icon");
+  if ($label) $label.textContent = THEME_LABELS[next];
+  if ($icon) $icon.textContent = THEME_ICONS[next];
+  $btn.setAttribute("aria-pressed", theme === "fun" ? "true" : "false");
+  $btn.title = `Switch to ${THEME_LABELS[next]} theme`;
+}
+
+function initTheme() {
+  // The inline <script> in <head> has already applied the data-theme attribute
+  // for FOUC prevention. Here we just wire the toggle button.
+  const current = getCurrentTheme();
+  updateThemeToggleLabel(current);
+  const $btn = document.getElementById("theme-toggle");
+  if ($btn && !$btn.dataset.themeBound) {
+    $btn.dataset.themeBound = "1";
+    $btn.addEventListener("click", () => {
+      const next = getCurrentTheme() === "classic" ? "fun" : "classic";
+      applyTheme(next);
+    });
+  }
+}
+
+// Call theme init immediately once the script runs (DOM is ready because
+// this script is at end of body), and also again inside each page-init in
+// case the button is added dynamically.
+if (typeof document !== "undefined") {
+  initTheme();
+}
+
 // Export to window so inline <script> hooks can call them
 window.UQBS = {
   initBrowser,
   initCourseDetail,
   initProgram,
+  initTheme,
+  applyTheme,
 };
