@@ -86,6 +86,33 @@ h3 { font-size: 16px; margin: 20px 0 8px; }
 .btn-link:hover { background: var(--uq-purple); color: white; }
 .btn-link:disabled { opacity: 0.5; cursor: not-allowed; }
 
+.bulk-actions {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 6px;
+}
+.bulk-actions .small.muted { margin-left: 4px; }
+
+/* Download bar on course detail page -------------------------------- */
+.download-bar {
+  display: flex; flex-wrap: wrap; gap: 8px;
+  margin: 0 0 20px;
+}
+.dl-btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  background: var(--bg-card);
+  border: 1px solid var(--uq-purple);
+  color: var(--uq-purple);
+  padding: 8px 14px;
+  border-radius: var(--radius);
+  font: inherit; font-size: 14px;
+  cursor: pointer;
+  transition: background 0.12s ease, color 0.12s ease;
+}
+.dl-btn:hover, .dl-btn:focus-visible {
+  background: var(--uq-purple); color: #fff;
+  outline: none;
+}
+.dl-btn:active { background: var(--uq-purple-dark); }
+
 /* Filters ----------------------------------------------------------- */
 .filters {
   display: grid;
@@ -336,3 +363,17 @@ footer.site {
 .nowrap { white-space: nowrap; }
 .mono { font-family: "SF Mono", Menlo, Consolas, monospace; }
 hr { border: 0; border-top: 1px solid var(--rule); margin: 20px 0; }
+
+/* Print stylesheet -------------------------------------------------- */
+@media print {
+  @page { size: A4; margin: 16mm 14mm; }
+  header.site, footer.site, .download-bar, .filters, .stat-bar, nav { display: none !important; }
+  body { background: #fff; color: #000; font-size: 11pt; }
+  main { padding: 0 !important; max-width: none !important; }
+  .course-header { box-shadow: none; border: 0; padding: 0 0 12px; border-left: none; }
+  .card { box-shadow: none; border: 1px solid #ccc; page-break-inside: avoid; }
+  a { color: #51247A; text-decoration: underline; }
+  .chip, .role-core { background: transparent; border: 1px solid #888; color: #333; }
+  table.assessment { page-break-inside: auto; }
+  tr { page-break-inside: avoid; }
+}
