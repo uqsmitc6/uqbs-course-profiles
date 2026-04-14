@@ -918,6 +918,52 @@ def _extract_policies(soup: BeautifulSoup, profile: dict):
 _WS_RUN = re.compile(r"[ \t\u00A0]+")
 _NL_RUN = re.compile(r"\n{3,}")
 
+# Targeted stopword-join rules — mirror of clean_existing._SPECIFIC_JOINS.
+# These handle the "Policyand Procedure" / "onmy.UQand" family of artefacts
+# that can still slip through even with ``separator=" "`` when the HTML
+# source has no inter-element whitespace. Belt-and-braces: applied after
+# whitespace normalisation as a final polish step.
+_VOCAB_WORDS = (
+    r"Policy|Procedure|Procedures|Guide|Guides|Service|Services|"
+    r"Report|Reports|Manual|Manuals|Library|Integrity|Assessment|Assessments|"
+    r"Examination|Examinations|Adjustment|Adjustments|Code|Codes|Statement|"
+    r"Statements|Framework|Frameworks|Regulation|Regulations|Rule|Rules|"
+    r"Misconduct|Handbook|Handbooks|Plan|Plans|Policies|Act|Acts|Standard|"
+    r"Standards|Charter|Form|Forms"
+)
+_STOPWORDS = r"and|or|the"
+_STOPWORD_JOINS = [
+    (re.compile(rf"\b({_VOCAB_WORDS})({_STOPWORDS})\b"), r"\1 \2"),
+    (re.compile(rf"\b(UQ)({_STOPWORDS})\b"), r"\1 \2"),
+    (re.compile(rf"\b((?:my|Learn)\.UQ)({_STOPWORDS})(?=[a-z])"), r"\1 \2 "),
+    (re.compile(rf"\b((?:my|Learn)\.UQ)({_STOPWORDS})\b"), r"\1 \2"),
+    (re.compile(r"\b(on|at|in|by|via|about)(my\.UQ)"), r"\1 \2"),
+    (re.compile(rf"\b(SI-net)({_STOPWORDS}|to)\b"), r"\1 \2"),
+    (re.compile(rf"(^|\s)(the)({_VOCAB_WORDS})\b"), r"\1\2 \3"),
+    (re.compile(rf"\b({_VOCAB_WORDS})\.([A-Z][a-z])"), r"\1. \2"),
+]
+
+
+def _apply_stopword_joins(s: str) -> str:
+    """Apply targeted stopword-boundary fixes, shielding URLs and emails."""
+    placeholders: list[str] = []
+
+    def _stash(match: re.Match) -> str:
+        placeholders.append(match.group(0))
+        return f"\x00{len(placeholders) - 1}\x00"
+
+    protected = re.sub(r"https?://\S+|\S+@\S+\.\S+", _stash, s)
+    # Two passes so multi-join sequences like "Procedureand thePolicy" get
+    # fully expanded.
+    for _ in range(2):
+        for pattern, repl in _STOPWORD_JOINS:
+            protected = pattern.sub(repl, protected)
+
+    def _unstash(match: re.Match) -> str:
+        return placeholders[int(match.group(1))]
+
+    return re.sub(r"\x00(\d+)\x00", _unstash, protected)
+
 
 def normalise_ws(value):
     """Recursively collapse whitespace in every string found in ``value``.
@@ -925,7 +971,8 @@ def normalise_ws(value):
     Safe for any JSON-compatible tree (str / list / dict / scalar).
     Preserves single and double newlines (paragraph structure) but collapses
     runs of spaces/tabs/NBSPs into one space, trims line edges and trailing
-    whitespace, and reduces 3+ newlines to two.
+    whitespace, and reduces 3+ newlines to two. Also applies targeted
+    stopword-boundary fixes for known UQ policy-text glue patterns.
     """
     if isinstance(value, str):
         s = value.replace("\u00A0", " ")
@@ -933,6 +980,9 @@ def normalise_ws(value):
         # Trim each line so " paragraph " and trailing runs don't linger
         s = "\n".join(line.strip(" \t") for line in s.split("\n"))
         s = _NL_RUN.sub("\n\n", s)
+        s = _apply_stopword_joins(s)
+        # Re-collapse any accidental double spaces introduced by joins
+        s = _WS_RUN.sub(" ", s)
         return s.strip()
     if isinstance(value, list):
         return [normalise_ws(v) for v in value]

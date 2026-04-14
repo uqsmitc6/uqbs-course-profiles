@@ -70,6 +70,55 @@ function coursePrefix(code) {
   return m ? m[1] : "";
 }
 
+// Normalise a learning-outcome code for display. Source data sometimes has
+// `lo.number = "LO1."` (already prefixed with "LO" and trailing period) and
+// sometimes `lo.number = 1` (bare). Produce a canonical "LO1" form.
+function loDisplayCode(lo) {
+  if (!lo) return "";
+  if (lo.code) return String(lo.code).trim().replace(/\.$/, "");
+  const n = lo.number;
+  if (n == null) return "";
+  const s = String(n).trim().replace(/\.$/, "");
+  // If already starts with "LO" (case-insensitive), normalise to uppercase
+  if (/^lo\d+$/i.test(s)) return s.toUpperCase();
+  // Otherwise prepend "LO"
+  return `LO${s}`;
+}
+
+// Parse a "learning_outcomes_assessed" string into ["LO1","LO2",…].
+// Handles variations: "L.O. 1", "LO1", "LO 1", "L01" (zero-typo), "1".
+function parseLoRefs(s) {
+  if (!s) return [];
+  const text = String(s);
+  const nums = new Set();
+  // Pattern A: L + (O or 0) + optional dot + optional space + digits
+  //   matches "LO1", "LO.1", "L.O.1", "L O 1", "L01", "L0.1"
+  const reA = /L\.?[O0]\.?\s*(\d+)/gi;
+  // Pattern B: bare numbers preceded by a comma/space/start (for strings
+  //   like "1, 2, 3") — only used if Pattern A matched nothing
+  const reB = /(?:^|[,;\s])(\d+)(?=[,;\s]|$)/g;
+  let m;
+  while ((m = reA.exec(text)) !== null) nums.add(m[1]);
+  if (nums.size === 0) {
+    while ((m = reB.exec(text)) !== null) nums.add(m[1]);
+  }
+  // Preserve first-seen order
+  return Array.from(nums).map(n => `LO${n}`);
+}
+
+// Build a lookup { assessmentTitle → [LO1, LO2, …] } from assessment_details.
+function buildAssessmentLoMap(c) {
+  const map = {};
+  if (!c || !Array.isArray(c.assessment_details)) return map;
+  for (const d of c.assessment_details) {
+    const title = (d && d.title ? String(d.title).trim() : "");
+    if (!title) continue;
+    const refs = parseLoRefs(d.learning_outcomes_assessed || d.learning_outcomes);
+    if (refs.length) map[title] = refs;
+  }
+  return map;
+}
+
 function fmtDate(iso) {
   if (!iso) return "—";
   try {
@@ -199,7 +248,7 @@ function buildCourseMarkdown(c, taxonomy) {
   if (Array.isArray(c.learning_outcomes) && c.learning_outcomes.length) {
     lines.push("", "## Course learning outcomes", "");
     for (const lo of c.learning_outcomes) {
-      const code = lo.code || (lo.number != null ? `LO${lo.number}` : "");
+      const code = loDisplayCode(lo);
       lines.push(`- **${code}** ${lo.description || ""}`);
     }
   }
@@ -390,7 +439,7 @@ function buildPrintableHtml(c, taxonomy) {
   if (Array.isArray(c.learning_outcomes) && c.learning_outcomes.length) {
     parts.push(`<h2>Learning outcomes</h2><ol>`);
     for (const lo of c.learning_outcomes) {
-      const code = lo.code || (lo.number != null ? `LO${lo.number}` : "");
+      const code = loDisplayCode(lo);
       parts.push(`<li><b>${esc(code)}</b> ${esc(lo.description || "")}</li>`);
     }
     parts.push(`</ol>`);
@@ -904,7 +953,7 @@ function renderCourseDetail($root, c, taxonomy) {
       <div class="card">
         <h2>Learning outcomes</h2>
         ${c.learning_outcomes.map(lo => {
-          const code = lo.code || (lo.number != null ? `LO${lo.number}` : "");
+          const code = loDisplayCode(lo);
           return `
             <div class="lo-item">
               <div class="lo-code">${escapeHtml(code)}</div>
@@ -916,24 +965,44 @@ function renderCourseDetail($root, c, taxonomy) {
     `);
   }
 
-  // Assessment summary
+  // Assessment summary — merge LO mapping from assessment_details when
+  // the summary rows don't carry it directly.
   if (c.assessment_summary && c.assessment_summary.length) {
-    const rows = c.assessment_summary.map(a => `
-      <tr>
-        <td><b>${escapeHtml(a.title || "")}</b>
-          ${a.conditions && a.conditions.length ? `<span class="conditions">${a.conditions.map(escapeHtml).join(" · ")}</span>` : ""}
-        </td>
-        <td class="nowrap">${escapeHtml(a.category || a.type || "")}</td>
-        <td class="weight nowrap">${escapeHtml(a.weighting || a.weight || "")}</td>
-        <td>${escapeHtml(a.due_date || a.due || "")}</td>
-        <td>${a.learning_outcomes && a.learning_outcomes.length ? a.learning_outcomes.map(escapeHtml).join(", ") : ""}</td>
-      </tr>
-    `).join("");
+    const loMap = buildAssessmentLoMap(c);
+    const hasAnyLos = c.assessment_summary.some(a => {
+      if (a.learning_outcomes && a.learning_outcomes.length) return true;
+      const title = (a.title || "").trim();
+      return title && loMap[title] && loMap[title].length;
+    });
+    const loHeader = hasAnyLos ? `<th>LOs</th>` : "";
+    const rows = c.assessment_summary.map(a => {
+      let los = [];
+      if (a.learning_outcomes && a.learning_outcomes.length) {
+        los = a.learning_outcomes;
+      } else {
+        const title = (a.title || "").trim();
+        if (title && loMap[title]) los = loMap[title];
+      }
+      const loCell = hasAnyLos
+        ? `<td class="lo-list">${los.length ? los.map(x => `<span class="lo-chip">${escapeHtml(x)}</span>`).join(" ") : "—"}</td>`
+        : "";
+      return `
+        <tr>
+          <td><b>${escapeHtml(a.title || "")}</b>
+            ${a.conditions && a.conditions.length ? `<span class="conditions">${a.conditions.map(escapeHtml).join(" · ")}</span>` : ""}
+          </td>
+          <td class="nowrap">${escapeHtml(a.category || a.type || "")}</td>
+          <td class="weight nowrap">${escapeHtml(a.weighting || a.weight || "")}</td>
+          <td>${escapeHtml(a.due_date || a.due || "")}</td>
+          ${loCell}
+        </tr>
+      `;
+    }).join("");
     parts.push(`
       <div class="card">
         <h2>Assessment</h2>
         <table class="assessment">
-          <thead><tr><th>Task</th><th>Category</th><th>Weight</th><th>Due</th><th>LOs</th></tr></thead>
+          <thead><tr><th>Task</th><th>Category</th><th>Weight</th><th>Due</th>${loHeader}</tr></thead>
           <tbody>${rows}</tbody>
         </table>
       </div>
@@ -1313,6 +1382,71 @@ if (typeof document !== "undefined") {
   initTheme();
 }
 
+// =========================================================================
+// Colour-mode toggle (Auto ⇄ Light ⇄ Dark), independent of theme
+// =========================================================================
+const COLOR_MODES = ["auto", "light", "dark"];
+const COLOR_MODE_LABELS = { auto: "Auto", light: "Light", dark: "Dark" };
+const COLOR_MODE_ICONS = { auto: "☾", light: "☀", dark: "●" };
+const COLOR_MODE_STORAGE_KEY = "uqbs-color-mode";
+
+function getCurrentColorMode() {
+  // The <head> FOUC script only sets the attribute when mode is light/dark;
+  // "auto" is represented by the attribute being absent. Fall back to
+  // localStorage so the button label stays accurate across pages.
+  const attr = document.documentElement.getAttribute("data-color-mode");
+  if (COLOR_MODES.includes(attr)) return attr;
+  try {
+    const stored = localStorage.getItem(COLOR_MODE_STORAGE_KEY);
+    if (COLOR_MODES.includes(stored)) return stored;
+  } catch (_) { /* ignore */ }
+  return "auto";
+}
+
+function applyColorMode(mode) {
+  if (!COLOR_MODES.includes(mode)) mode = "auto";
+  if (mode === "auto") {
+    document.documentElement.removeAttribute("data-color-mode");
+  } else {
+    document.documentElement.setAttribute("data-color-mode", mode);
+  }
+  try { localStorage.setItem(COLOR_MODE_STORAGE_KEY, mode); } catch (_) { /* ignore */ }
+  updateColorModeToggleLabel(mode);
+}
+
+function updateColorModeToggleLabel(mode) {
+  const $btn = document.getElementById("mode-toggle");
+  if (!$btn) return;
+  const $label = $btn.querySelector(".mt-label");
+  const $icon = $btn.querySelector(".mt-icon");
+  if ($label) $label.textContent = COLOR_MODE_LABELS[mode];
+  if ($icon) $icon.textContent = COLOR_MODE_ICONS[mode];
+  // Show the NEXT mode in the tooltip so users know what a click will do
+  const nextIdx = (COLOR_MODES.indexOf(mode) + 1) % COLOR_MODES.length;
+  const next = COLOR_MODES[nextIdx];
+  $btn.title = `Colour mode: ${COLOR_MODE_LABELS[mode]} (click for ${COLOR_MODE_LABELS[next]})`;
+  $btn.setAttribute("aria-label", `Colour mode: ${COLOR_MODE_LABELS[mode]}. Click to switch to ${COLOR_MODE_LABELS[next]}.`);
+}
+
+function initColorMode() {
+  const current = getCurrentColorMode();
+  // Don't re-apply if already set — avoids a flash on page load
+  updateColorModeToggleLabel(current);
+  const $btn = document.getElementById("mode-toggle");
+  if ($btn && !$btn.dataset.modeBound) {
+    $btn.dataset.modeBound = "1";
+    $btn.addEventListener("click", () => {
+      const cur = getCurrentColorMode();
+      const idx = (COLOR_MODES.indexOf(cur) + 1) % COLOR_MODES.length;
+      applyColorMode(COLOR_MODES[idx]);
+    });
+  }
+}
+
+if (typeof document !== "undefined") {
+  initColorMode();
+}
+
 // Export to window so inline <script> hooks can call them
 window.UQBS = {
   initBrowser,
@@ -1320,4 +1454,6 @@ window.UQBS = {
   initProgram,
   initTheme,
   applyTheme,
+  initColorMode,
+  applyColorMode,
 };

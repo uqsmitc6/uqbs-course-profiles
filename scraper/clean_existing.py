@@ -50,8 +50,57 @@ _BOUNDARY_RULES = [
     (re.compile(r"(\d)([A-Z][a-z])"), r"\1 \2"),
     # closing paren / bracket + Capital ("profile)See" → "profile) See")
     (re.compile(r"([)\]])([A-Z][a-z])"), r"\1 \2"),
-    # Stopword-boundary rule removed: too many legitimate English words end
-    # in stopword letter sequences (e.g. "Introducti|on") to match safely.
+]
+
+# Targeted stopword-join rules --------------------------------------------
+# These handle the very common UQ policy-text pattern where a known
+# capitalised vocabulary word (Policy, Procedure, UQ, etc.) is glued to a
+# lowercase stopword (and, or, the) which is in turn glued to another
+# capitalised word, producing artefacts like "PolicyandProcedure" or
+# "UQand the". We anchor on an exact-match vocabulary to avoid ever
+# splitting legitimate English words (e.g. "Introduction" would never match
+# because "Introduction" isn't in the whitelist).
+_VOCAB_WORDS = (
+    r"Policy|Procedure|Procedures|Guide|Guides|Service|Services|"
+    r"Report|Reports|Manual|Manuals|Library|Integrity|Assessment|Assessments|"
+    r"Examination|Examinations|Adjustment|Adjustments|Code|Codes|Statement|"
+    r"Statements|Framework|Frameworks|Regulation|Regulations|Rule|Rules|"
+    r"Misconduct|Handbook|Handbooks|Plan|Plans|Policies|Act|Acts|Standard|"
+    r"Standards|Charter|Form|Forms"
+)
+_STOPWORDS = r"and|or|the"
+
+_SPECIFIC_JOINS = [
+    # "Policyand Procedure" / "Policyand understand" → insert space between
+    # known vocab-word and stopword. Since the vocab list is a closed,
+    # specific set of UQ policy-text nouns, false positives on real English
+    # words are effectively impossible. Trailing `\b` ensures we only match
+    # complete stopwords (not "andor" or "orthe").
+    (re.compile(rf"\b({_VOCAB_WORDS})({_STOPWORDS})\b"), r"\1 \2"),
+    # "UQand" / "UQor" / "UQthe" — no lookahead needed because "UQ" is a
+    # highly specific token; false positives effectively impossible.
+    (re.compile(rf"\b(UQ)({_STOPWORDS})\b"), r"\1 \2"),
+    # "my.UQand" / "Learn.UQor" where the stopword is also directly glued to
+    # the next word (e.g. "Learn.UQormy" → "Learn.UQ or my"). Handle first
+    # so the later rule doesn't leave a half-joined "ormy" behind.
+    (re.compile(rf"\b((?:my|Learn)\.UQ)({_STOPWORDS})(?=[a-z])"), r"\1 \2 "),
+    # "my.UQand " / "Learn.UQor " — stopword followed by its natural word
+    # boundary (already separated from next word).
+    (re.compile(rf"\b((?:my|Learn)\.UQ)({_STOPWORDS})\b"), r"\1 \2"),
+    # "onmy.UQ" / "atmy.UQ" / "bymy.UQ" — short preposition glued to "my.UQ".
+    # No trailing word boundary (the 'Q' is followed by a word char in the
+    # worst case). Preceding word-boundary sufficient.
+    (re.compile(r"\b(on|at|in|by|via|about)(my\.UQ)"), r"\1 \2"),
+    # "SI-netto" / "SI-netand" / "SI-netor" — UQ's "SI-net" is the student
+    # system name, often glued to a following stopword.
+    (re.compile(rf"\b(SI-net)({_STOPWORDS}|to)\b"), r"\1 \2"),
+    # "thePolicy" / "theGuide" — lowercase "the" glued to a vocab-word with
+    # capital initial. Must be preceded by whitespace or start-of-string to
+    # avoid matching inside legitimate words.
+    (re.compile(rf"(^|\s)(the)({_VOCAB_WORDS})\b"), r"\1\2 \3"),
+    # "Library.Learning" / "Guide.Learning" — a vocab-word ending in a
+    # period followed directly by another capitalised word.
+    (re.compile(rf"\b({_VOCAB_WORDS})\.([A-Z][a-z])"), r"\1. \2"),
 ]
 
 # Keys whose string values should NOT be regex-rewritten (URLs, emails, codes).
@@ -71,6 +120,13 @@ def _insert_boundaries(s: str) -> str:
     protected = re.sub(r"https?://\S+|\S+@\S+\.\S+", _stash, s)
     for pattern, repl in _BOUNDARY_RULES:
         protected = pattern.sub(repl, protected)
+    # Apply targeted stopword-join rules twice so multi-join sequences like
+    # "Procedureand thePolicy" get fully expanded in one pass (first pass
+    # handles "Procedureand", second picks up "thePolicy" after whitespace
+    # is introduced).
+    for _ in range(2):
+        for pattern, repl in _SPECIFIC_JOINS:
+            protected = pattern.sub(repl, protected)
 
     def _unstash(match: re.Match) -> str:
         return placeholders[int(match.group(1))]

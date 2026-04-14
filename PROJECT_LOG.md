@@ -1,6 +1,6 @@
 # Project Log — UQBS Course Profile Scraper
 
-> **Last updated:** 2026-04-14 — Phase 2 viewer built (static site in `docs/`, deploys to GitHub Pages), manifest generator added, scrape workflow updated to regen manifest on each run
+> **Last updated:** 2026-04-14 — Viewer polish: post-deploy bug fixes (LO codes, assessment-to-LO mapping, policy-text stopword joins), Classic/Fun theme toggle, manual light/dark/auto colour-mode toggle, bulk downloads, printable PDFs
 > **Project:** Enriched course profile scraper for UQ Business School
 > **Tech stack:** Python 3 / BeautifulSoup / requests
 > **Repository:** [uqsmitc6/uqbs-course-profiles](https://github.com/uqsmitc6/uqbs-course-profiles)
@@ -33,10 +33,54 @@ The scraper is built, tested, and **production-ready**. It extracts a comprehens
 | 6 | NOTE | GA mapping in taxonomy spreadsheet is draft/WIP | 2026-04-13 | Info | Program-course mappings are correct; GA and typology columns are not finalised |
 | 7 | TODO | Consider updating JacSON Viewer to read from this repo's enriched data | 2026-04-13 | Low | Future integration |
 | 8 | TODO | Update README.md to reflect GitHub Actions as confirmed primary runner | 2026-04-13 | Med | Remove "experimental" language |
+| 9 | DONE | ~~Post-deploy bug fixes: LO codes, assessment→LO mapping, policy-text run-ons~~ | 2026-04-14 | — | All three fixed in Session 6 |
+| 10 | DONE | ~~Viewer polish: Classic/Fun theme, downloads, dark-mode toggle~~ | 2026-04-14 | — | Shipped in Session 6 |
 
 ---
 
 ## Session History
+
+### Session 6 — 2026-04-14 — Viewer polish: bug fixes, themes, downloads, dark mode
+
+**Focus:** Tidy up three bugs visible on the live viewer (LO code duplication, missing assessment→LO mapping, policy-text word-run-on), then add visual polish (Classic/Fun theme toggle, Auto/Light/Dark colour-mode toggle) and richer downloads.
+
+**Bug fixes (live-site issues):**
+1. **Learning-outcome codes rendered as `L0L01`** — data shape varied (`lo.number` could be `"LO1."`, `"L01"`, `1`, or `"1"`). Added `loDisplayCode(lo)` helper that trims a trailing period, upper-cases, and prepends `LO` only if not already present. Applied in the viewer, markdown export, and printable HTML.
+2. **Assessment-summary "LOs" column empty** — data captured in `assessment_details.learning_outcomes_assessed` was never merged into the summary table. Added `parseLoRefs()` that tolerates `"LO1, LO2"`, `"L01, L02"` (common zero-typo in source), `"L.O. 1, L.O. 2"`, and bare-number `"1, 2, 3"` variants; and `buildAssessmentLoMap()` keyed by assessment title. Summary renderer now merges and hides the LOs column entirely when no assessment has any LOs.
+3. **Policy-and-procedure text a "hot mess"** — `soup.get_text(strip=True)` in the original scraper concatenated sibling text nodes without separators, producing artefacts like `"Policyand Procedure"`, `"UQand the"`, `"Learn.UQormy SI-netto"`. Fixed both for historical data and future scrapes:
+   - `scraper/clean_existing.py` gained a closed-vocabulary rule set (`_VOCAB_WORDS` = Policy, Procedure, Guide, Service, Report, Manual, Library, Integrity, Assessment, Examination, etc. + plurals; `_STOPWORDS` = and, or, the) plus targeted joins for `UQ`, `my.UQ`, `Learn.UQ`, and `SI-net`. URLs and emails are shielded with `\x00N\x00` placeholders to prevent damage. Applied in a 2-pass loop so `"Procedureand thePolicy"` fully expands in one clean run.
+   - `scraper/scrape.py` mirrors the same rules via `_apply_stopword_joins()` inside `normalise_ws()`, so new scrapes won't reintroduce the artefacts.
+
+**Viewer polish (new features):**
+- **Classic/Fun theme toggle** — `data-theme="classic"` (default, understated UQ branding) and `data-theme="fun"` (magazine/editorial: gradient header with halftone dots, serif display font at 16px base, larger radii, zebra rows, faculty-prefix colour-coded course codes, pull-quote-styled assessment details, pill-shaped buttons). Toggle button in header nav; selection persisted in `localStorage["uqbs-theme"]`. Inline `<script>` in `<head>` applies the attribute before first paint to prevent FOUC.
+- **Manual Auto/Light/Dark colour-mode toggle** — second header button, independent of theme. `data-color-mode="light"` / `"dark"` force a palette; "auto" (the default, attribute absent) falls back to `@media (prefers-color-scheme: dark)`. CSS duplicates the dark variable block across the media query (narrowed with `:not([data-color-mode="light"]):not([data-color-mode="dark"])`) and explicit manual selectors, so manual choice wins cleanly. Persisted in `localStorage["uqbs-color-mode"]`. Separate FOUC script in each HTML file.
+- **Faculty-prefix colour coding** (Fun theme only) — 10 accent colours mapped by course-code prefix (`ACCT`, `FINM`, `MGTS`, `MKTG`, `TIMS`, `LAWS`, `BUSN`, `ECON`, `LEIS`, `TOUR`). Applied via `td.code.prefix-XXXX a` rules; helper `coursePrefix(code)` added to app.js.
+
+**Downloads (richer exports):**
+- Per-course download bar on `course.html`: JSON, Markdown, printable HTML (opens in new window, A4 print stylesheet hides header/nav/toggles).
+- Bulk actions on `index.html`: CSV of filtered courses, ZIP of filtered Markdown, ZIP of filtered raw JSON. Uses JSZip 3.10.1 loaded via CDN; filename based on active filters.
+
+**Files changed:**
+- `docs/assets/app.js` — LO helpers (`loDisplayCode`, `parseLoRefs`, `buildAssessmentLoMap`), column-hide logic, theme + colour-mode modules, per-course and bulk download logic, `coursePrefix()` helper.
+- `docs/assets/styles.css` — Full theming refactor to CSS variables, Classic vs Fun variants, manual + auto dark-mode blocks, mode-toggle button styles, print stylesheet updated to hide both toggles.
+- `docs/index.html`, `docs/course.html`, `docs/program.html` — FOUC script extended to cover colour mode; second header button added; JSZip loaded on index only.
+- `scraper/clean_existing.py` — `_VOCAB_WORDS`, `_STOPWORDS`, `_SPECIFIC_JOINS` (8 rules), 2-pass application inside `_insert_boundaries()`.
+- `scraper/scrape.py` — Mirrored stopword rules via `_apply_stopword_joins()`; integrated into `normalise_ws()`.
+
+**Verification:**
+- `node --check docs/assets/app.js` → OK
+- CSS brace balance: 161/161
+- localStorage round-trip (Node simulation): `applyColorMode('dark' → 'light' → 'auto' → 'bogus')` behaves correctly (attribute removed for `auto`, `bogus` normalised to `auto`)
+- All 838 historical profiles re-processed through `clean_existing.py` — 0 remaining stopword artefacts
+
+**User-reported outcome after deploy:**
+- LO codes display correctly (`LO1`, not `L0L01`)
+- Assessment summary shows LOs as chips per assessment
+- Policies and procedures text reads cleanly
+- Classic/Fun toggle confirmed working
+- Dark-mode button added (this session) alongside theme toggle
+
+---
 
 ### Session 5 — 2026-04-14 — Phase 2: viewer + automation
 
@@ -278,8 +322,19 @@ uqbs-course-profiles/
 ├── .github/workflows/
 │   └── scrape.yml                ← GitHub Actions workflow (weekly Sun 9pm AEST + manual)
 ├── scraper/
-│   ├── scrape.py                 ← Main scraper (all extraction logic)
+│   ├── scrape.py                 ← Main scraper (all extraction logic + normalise_ws stopword joins)
+│   ├── build_manifest.py         ← Generates docs/assets/manifest.json (lean index)
+│   ├── clean_existing.py         ← One-time cleanup pass over profiles/ (boundary + stopword rules)
 │   └── requirements.txt          ← Python dependencies
+├── docs/                         ← GitHub Pages static viewer
+│   ├── index.html                ← Course browser (search, filter, sort, bulk downloads)
+│   ├── course.html               ← Per-course detail (JSON / MD / printable HTML downloads)
+│   ├── program.html              ← Program index + per-program core/majors
+│   ├── assets/
+│   │   ├── app.js                ← Fetch + render + theme + colour-mode + downloads
+│   │   ├── styles.css            ← Classic/Fun themes, auto + manual dark mode, print stylesheet
+│   │   └── manifest.json         ← Generated — lean index of all profiles
+│   └── serve_local.sh            ← Local dev: regenerate manifest + symlinks + :8000
 ├── profiles/                     ← Scraped JSON output (per semester)
 │   └── {semester_code}/
 │       └── {COURSE-CLASS-SEM}.json
@@ -297,6 +352,12 @@ uqbs-course-profiles/
 
 ## Changelog
 
+- **2026-04-14** — FEATURE — Added manual Auto/Light/Dark colour-mode toggle in header nav (alongside existing Classic/Fun theme toggle); persisted in `localStorage["uqbs-color-mode"]`; CSS now responds to `[data-color-mode]` attribute in addition to `prefers-color-scheme`
+- **2026-04-14** — FEATURE — Classic/Fun theme toggle with `data-theme` attribute; magazine/editorial styling for Fun (gradient header, serif display, faculty-prefix colour-coded codes, pull-quote assessment details); FOUC-prevention inline script on all three pages
+- **2026-04-14** — FEATURE — Bulk downloads on course browser (CSV / ZIP Markdown / ZIP JSON, filtered) via JSZip; per-course downloads on course detail (JSON / Markdown / printable HTML with A4 print stylesheet)
+- **2026-04-14** — RESOLUTION — Policy-text stopword joins fixed in historical data (`scraper/clean_existing.py`) and future scrapes (`scraper/scrape.py` → `normalise_ws`); closed-vocabulary rules prevent false positives; URLs/emails shielded during regex pass; 0 remaining artefacts across 838 profiles
+- **2026-04-14** — RESOLUTION — Assessment summary LOs column now populated from `assessment_details.learning_outcomes_assessed`; `parseLoRefs()` tolerates `LO1`, `L01` (zero-typo), `L.O. 1`, and bare-number variants; column hidden when no assessment has any linked LOs
+- **2026-04-14** — RESOLUTION — LO code rendering fixed (`loDisplayCode()` helper) — handles `lo.number` as `"LO1."`, `"L01"`, `1`, or `"1"` without doubling the `LO` prefix
 - **2026-04-14** — PHASE 2 — Built static-site viewer (`docs/`): course browser, per-course detail, program/major pages; deploys via GitHub Pages workflow; manifest generator added to scraper
 - **2026-04-14** — MILESTONE — Run 9 (full semester, 308 courses) completed: 202 profiles, 0 failures, 100% coverage on critical fields; scraper declared production-ready
 - **2026-04-13 22:00** — RESOLUTION — Fixed staff interleaved role groups (MGTS7619); changed dedup to `(name, role)` to allow same person under different roles
