@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/FINM3422-22209-7620",
-  "scraped_at": "2026-04-13T23:10:11.820535+00:00",
+  "scraped_at": "2026-04-19T11:45:00.060567+00:00",
   "course_code": "FINM3422",
   "class_code": "22209",
   "semester_code": "7620",
@@ -13,7 +13,7 @@
   "units": "2",
   "administrative_campus": "St Lucia",
   "coordinating_unit": "Business School",
-  "course_description": "Provides students with a comprehensive set of financial modelling skills.  Covers corporate and project valuation, sensitivity and scenario analysis, optimisation, Monte Carlo simulation, value-at-risk.\n\nFinancial modelling is a quantitative task to build scientific mathematical models to reflect real-world financial situations. This subject will be focused on learning skills practically during class time and will require the use of MS Excel and Python. FINM3422 offers a practical and comprehensive guide for students to construct robust, practical and readily understandable financial models tailored for real-life examples.\n\nThe first third of the course will focus on learning about financial turnarounds of businesses in crisis. This will cover strategy, operations and financial management. You will be required to translate management and financial accounting data into a detailed operational cashflow forecast model. This part of the course will be delivered by our industry partner - Vantage Performance Group Pty Ltd.\n\nThe remainder of the course focusses on how to use Python efficiently and insightfully in a range of finance domains including quantitative trading and investing, asset and derivative valuation, portfolio construction, and sensitivity analysis. The purpose of this part of the course is to develop applied modelling skills that will differentiate students from others by providing tools which leverage their finance knowledge in ways that will be valued by industry. Compared to MS Excel, Python allows for faster computation time involving stochastic based models and very large datasets can be handled with relative ease. Classes will combine discussion of theoretical finance topics, the industry application of this theory, and the Python tools and modelling techniques that bring this application to life.\n\nNo prior coding experience is necessary, but students are encouraged to participate during the class. Students will have the opportunity to become familiar with Python, learn to modify existing code, create their own code and be able to evaluate results. In order to foster students’ understanding, all issues and techniques discussed in the course will be supported with practical examples. Python is a computing language that is used extensively in many real-life applications in finance, investing, banking, machine learning and numerous other fields. Python and associated libraries can be obtained free online. We will teach Python from within the VSCode, a leading integrated development environment (IDE) developed by Microsoft and also available free online.\n\nCourse Changes in Response to Previous Student Feedback\n\nExpand the Python and GitHub coding components to better support student learning and skill development.\n\nSustainable Development Goals- UQ Business School is a proud supporter and Advanced Signatory of theUnited Nations Principles for Responsible Management Education (UN PRME). As part of the largest global collaboration between business schools and the UN, the school emphasises its role in empowering students to drive societal transformation through theSustainable Development Goals. The SDGs highlight that a thriving economy relies on a healthy environment, aiming to balance economic growth, social well-being, and environmental protection for a sustainable future.",
+  "course_description": "Provides students with a comprehensive set of financial modelling skills. Covers corporate and project valuation, sensitivity and scenario analysis, optimisation, Monte Carlo simulation, value-at-risk.\n\nFinancial modelling is a quantitative task to build scientific mathematical models to reflect real-world financial situations. This subject will be focused on learning skills practically during class time and will require the use of MS Excel and Python. FINM3422 offers a practical and comprehensive guide for students to construct robust, practical and readily understandable financial models tailored for real-life examples.\n\nThe first third of the course will focus on learning about financial turnarounds of businesses in crisis. This will cover strategy, operations and financial management. You will be required to translate management and financial accounting data into a detailed operational cashflow forecast model. This part of the course will be delivered by our industry partner - Vantage Performance Group Pty Ltd.\n\nThe remainder of the course focusses on how to use Python efficiently and insightfully in a range of finance domains including quantitative trading and investing, asset and derivative valuation, portfolio construction, and sensitivity analysis. The purpose of this part of the course is to develop applied modelling skills that will differentiate students from others by providing tools which leverage their finance knowledge in ways that will be valued by industry. Compared to MS Excel, Python allows for faster computation time involving stochastic based models and very large datasets can be handled with relative ease. Classes will combine discussion of theoretical finance topics, the industry application of this theory, and the Python tools and modelling techniques that bring this application to life.\n\nNo prior coding experience is necessary, but students are encouraged to participate during the class. Students will have the opportunity to become familiar with Python, learn to modify existing code, create their own code and be able to evaluate results. In order to foster students’ understanding, all issues and techniques discussed in the course will be supported with practical examples. Python is a computing language that is used extensively in many real-life applications in finance, investing, banking, machine learning and numerous other fields. Python and associated libraries can be obtained free online. We will teach Python from within the VSCode, a leading integrated development environment (IDE) developed by Microsoft and also available free online.\n\nCourse Changes in Response to Previous Student Feedback\n\nExpand the Python and GitHub coding components to better support student learning and skill development.\n\nSustainable Development Goals - UQ Business School is a proud supporter and Advanced Signatory of the United Nations Principles for Responsible Management Education (UN PRME) . As part of the largest global collaboration between business schools and the UN, the school emphasises its role in empowering students to drive societal transformation through the Sustainable Development Goals . The SDGs highlight that a thriving economy relies on a healthy environment, aiming to balance economic growth, social well-being, and environmental protection for a sustainable future.",
   "requirements": {
     "prerequisites": [
       "You'll need to complete the following courses before enrolling in this one:",
@@ -94,13 +94,13 @@
       "category": "Paper/ Report/ Annotation",
       "weight": "30%",
       "due_date": "1/04/2026 4:00 pm",
-      "other_conditions": "Peer assessment factor.See the conditions definitions",
+      "other_conditions": "Peer assessment factor. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L04",
-      "task_description": "This will be a team based assignment (4 members per team). You will take on the role of a turn-around consultant tasked with creating a research report analysing a fictional case study for an in-distress business that covers:Identification of key issuesDevelopment of key interview questionsProposal of strategic optionsProposal of recommendations to the company boardYou will also be tasked with building a quantitative model in Excel to support your analysis.AI Statement:Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description",
-      "submission_guidelines": "One designated team member will submit both your report and Excel model via the submission link on Blackboard.\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-      "deferral_or_extension": "You may be able toapply for an extension.",
-      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-      "ai_statement": "This will be a team based assignment (4 members per team). You will take on the role of a turn-around consultant tasked with creating a research report analysing a fictional case study for an in-distress business that covers:Identification of key issuesDevelopment of key interview questionsProposal of strategic optionsProposal of recommendations to the company boardYou will also be tasked with building a quantitative model in Excel to support your analysis.AI Statement:Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.Read full task descriptionHide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "task_description": "This will be a team based assignment (4 members per team). You will take on the role of a turn-around consultant tasked with creating a research report analysing a fictional case study for an in-distress business that covers: Identification of key issues Development of key interview questions Proposal of strategic options Proposal of recommendations to the company board You will also be tasked with building a quantitative model in Excel to support your analysis. AI Statement: Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "One designated team member will submit both your report and Excel model via the submission link on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This will be a team based assignment (4 members per team). You will take on the role of a turn-around consultant tasked with creating a research report analysing a fictional case study for an in-distress business that covers: Identification of key issues Development of key interview questions Proposal of strategic options Proposal of recommendations to the company board You will also be tasked with building a quantitative model in Excel to support your analysis. AI Statement: Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
       "special_indicators": [
         "Team or group-based"
       ]
@@ -112,13 +112,13 @@
       "category": "Computer Code",
       "weight": "30%",
       "due_date": "1/05/2026 4:00 pm",
-      "other_conditions": "Peer assessment factor.See the conditions definitions",
+      "other_conditions": "Peer assessment factor. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04",
-      "task_description": "This will be a team-based assignment (4 members per team). You will download an existing codebase written in Python by forking a GitHub repo and then modify that code to meet a set of objectives. This assignment draws on the material from Lecture 7 on Equity Research.AI Statement:The use of Artificial Intelligence (AI)is permittedas a code writing aid in this assignment for in-line code completion and troubleshooting. If you use any code generated by AI technologies, including in-line completion, then the use of those AI technologies must be acknowledged, and the extent of use described, in a comment at the head of each file.Read full task descriptionHide full task description",
-      "submission_guidelines": "One designated team member will upload a folder containing the repo of their code through the submission link in Blackboard, and will also provide a link to their repo on GitHub.\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-      "deferral_or_extension": "You may be able toapply for an extension.",
-      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-      "ai_statement": "This will be a team-based assignment (4 members per team). You will download an existing codebase written in Python by forking a GitHub repo and then modify that code to meet a set of objectives. This assignment draws on the material from Lecture 7 on Equity Research.AI Statement:The use of Artificial Intelligence (AI)is permittedas a code writing aid in this assignment for in-line code completion and troubleshooting. If you use any code generated by AI technologies, including in-line completion, then the use of those AI technologies must be acknowledged, and the extent of use described, in a comment at the head of each file.Read full task descriptionHide full task description\nThe use of Artificial Intelligence (AI)is permittedas a code writing aid in this assignment for in-line code completion and troubleshooting. If you use any code generated by AI technologies, including in-line completion, then the use of those AI technologies must be acknowledged, and the extent of use described, in a comment at the head of each file.",
+      "task_description": "This will be a team-based assignment (4 members per team). You will download an existing codebase written in Python by forking a GitHub repo and then modify that code to meet a set of objectives. This assignment draws on the material from Lecture 7 on Equity Research. AI Statement: The use of Artificial Intelligence (AI) is permitted as a code writing aid in this assignment for in-line code completion and troubleshooting. If you use any code generated by AI technologies, including in-line completion, then the use of those AI technologies must be acknowledged, and the extent of use described, in a comment at the head of each file. Read full task description Hide full task description",
+      "submission_guidelines": "One designated team member will upload a folder containing the repo of their code through the submission link in Blackboard, and will also provide a link to their repo on GitHub.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This will be a team-based assignment (4 members per team). You will download an existing codebase written in Python by forking a GitHub repo and then modify that code to meet a set of objectives. This assignment draws on the material from Lecture 7 on Equity Research. AI Statement: The use of Artificial Intelligence (AI) is permitted as a code writing aid in this assignment for in-line code completion and troubleshooting. If you use any code generated by AI technologies, including in-line completion, then the use of those AI technologies must be acknowledged, and the extent of use described, in a comment at the head of each file. Read full task description Hide full task description\nThe use of Artificial Intelligence (AI) is permitted as a code writing aid in this assignment for in-line code completion and troubleshooting. If you use any code generated by AI technologies, including in-line completion, then the use of those AI technologies must be acknowledged, and the extent of use described, in a comment at the head of each file.",
       "special_indicators": [
         "Team or group-based",
         "Online"
@@ -131,13 +131,13 @@
       "category": "Computer Code, Practical/ Demonstration, Presentation",
       "weight": "40%",
       "due_date": "29/05/2026 4:00 pm",
-      "other_conditions": "Peer assessment factor, Secure.See the conditions definitions",
+      "other_conditions": "Peer assessment factor, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04",
-      "task_description": "This is a team-based assignment (teams of four). Your task is to develop Python code to meet a set of specified objectives, drawing on material covered in Lectures 8–10 (Portfolio Management through Option Pricing). In Week 13, each team will deliver a formal presentation, with each member presenting the component they completed and explaining the underlying logic, approach, and key coding decisions.AI Statement:The use of Artificial Intelligence (AI)is permittedas a code writing aid in this assignment for in-line code completion and troubleshooting. If you use any code generated by AI technologies, including in-line completion, then the use of those AI technologies must be acknowledged, and the extent of use described, in a comment at the head of each file.Read full task descriptionHide full task description",
-      "submission_guidelines": "One designated team member must upload a folder containing the team’s code repository and presentation slides via the Blackboard submission link, and include a link to the corresponding GitHub repository.\nDeferral or extension\nYou may be able toapply for an extension.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nApenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-      "deferral_or_extension": "You may be able toapply for an extension.",
-      "late_submission": "Apenaltyof 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
-      "ai_statement": "This is a team-based assignment (teams of four). Your task is to develop Python code to meet a set of specified objectives, drawing on material covered in Lectures 8–10 (Portfolio Management through Option Pricing). In Week 13, each team will deliver a formal presentation, with each member presenting the component they completed and explaining the underlying logic, approach, and key coding decisions.AI Statement:The use of Artificial Intelligence (AI)is permittedas a code writing aid in this assignment for in-line code completion and troubleshooting. If you use any code generated by AI technologies, including in-line completion, then the use of those AI technologies must be acknowledged, and the extent of use described, in a comment at the head of each file.Read full task descriptionHide full task description\nThe use of Artificial Intelligence (AI)is permittedas a code writing aid in this assignment for in-line code completion and troubleshooting. If you use any code generated by AI technologies, including in-line completion, then the use of those AI technologies must be acknowledged, and the extent of use described, in a comment at the head of each file.",
+      "task_description": "This is a team-based assignment (teams of four). Your task is to develop Python code to meet a set of specified objectives, drawing on material covered in Lectures 8–10 (Portfolio Management through Option Pricing). In Week 13, each team will deliver a formal presentation, with each member presenting the component they completed and explaining the underlying logic, approach, and key coding decisions. AI Statement: The use of Artificial Intelligence (AI) is permitted as a code writing aid in this assignment for in-line code completion and troubleshooting. If you use any code generated by AI technologies, including in-line completion, then the use of those AI technologies must be acknowledged, and the extent of use described, in a comment at the head of each file. Read full task description Hide full task description",
+      "submission_guidelines": "One designated team member must upload a folder containing the team’s code repository and presentation slides via the Blackboard submission link, and include a link to the corresponding GitHub repository.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This is a team-based assignment (teams of four). Your task is to develop Python code to meet a set of specified objectives, drawing on material covered in Lectures 8–10 (Portfolio Management through Option Pricing). In Week 13, each team will deliver a formal presentation, with each member presenting the component they completed and explaining the underlying logic, approach, and key coding decisions. AI Statement: The use of Artificial Intelligence (AI) is permitted as a code writing aid in this assignment for in-line code completion and troubleshooting. If you use any code generated by AI technologies, including in-line completion, then the use of those AI technologies must be acknowledged, and the extent of use described, in a comment at the head of each file. Read full task description Hide full task description\nThe use of Artificial Intelligence (AI) is permitted as a code writing aid in this assignment for in-line code completion and troubleshooting. If you use any code generated by AI technologies, including in-line completion, then the use of those AI technologies must be acknowledged, and the extent of use described, in a comment at the head of each file.",
       "special_indicators": [
         "Team or group-based",
         "Online"
@@ -145,13 +145,13 @@
     }
   ],
   "learning_resources": {
-    "library_resources": "Library resources are available on theUQ Library website."
+    "library_resources": "Library resources are available on the UQ Library website ."
   },
   "learning_activities": [
     {
       "learning_period": "Week 1",
       "activity_type": "Lecture",
-      "topic": "Introduction to Course & ModellingGeneral overview of course structure, logistics and assessment. Introduction of external resources. Introduction to Python.Learning outcomes:L01, L02",
+      "topic": "Introduction to Course & Modelling General overview of course structure, logistics and assessment. Introduction of external resources. Introduction to Python. Learning outcomes: L01, L02",
       "learning_outcomes": [
         "L01",
         "L02"
@@ -160,7 +160,7 @@
     {
       "learning_period": "Week 2",
       "activity_type": "Lecture",
-      "topic": "Turnaround (Self-Directed)Self-directed study on distressed business turnaround - see Blackboard Learning Pathway. Excel modelling assignment released.Learning outcomes:L01, L02, L03",
+      "topic": "Turnaround (Self-Directed) Self-directed study on distressed business turnaround - see Blackboard Learning Pathway. Excel modelling assignment released. Learning outcomes: L01, L02, L03",
       "learning_outcomes": [
         "L01",
         "L02",
@@ -168,9 +168,9 @@
       ]
     },
     {
-      "learning_period": "Multiple weeksFrom Week 3 To Week 13",
+      "learning_period": "Multiple weeks From Week 3 To Week 13",
       "activity_type": "Tutorial",
-      "topic": "TutorialsIn each tutorial you will practice the material covered in the previous lecture. See Blackboard for details on tutorial content and timeline.Good Friday Public Holiday - Friday 3rd April 2026- Check Blackboard for announcements about affected classes.Learning outcomes:L01, L02, L03, L04",
+      "topic": "Tutorials In each tutorial you will practice the material covered in the previous lecture. See Blackboard for details on tutorial content and timeline. Good Friday Public Holiday - Friday 3rd April 2026 - Check Blackboard for announcements about affected classes. Learning outcomes: L01, L02, L03, L04",
       "learning_outcomes": [
         "L01",
         "L02",
@@ -181,7 +181,7 @@
     {
       "learning_period": "Week 3",
       "activity_type": "Lecture",
-      "topic": "Turnaround (Vantage Seminar)Vantage Guest Lecture. Recap of Learning Pathway. Principles of Turnaround advice and Case Study ExamplesLearning outcomes:L01, L02, L03",
+      "topic": "Turnaround (Vantage Seminar) Vantage Guest Lecture. Recap of Learning Pathway. Principles of Turnaround advice and Case Study Examples Learning outcomes: L01, L02, L03",
       "learning_outcomes": [
         "L01",
         "L02",
@@ -191,7 +191,7 @@
     {
       "learning_period": "Week 4",
       "activity_type": "Lecture",
-      "topic": "Excel ModellingCover best tips and practices in the use of Excel in financial modelling. Preparation for the Excel modelling assignment.Learning outcomes:L01, L02, L03, L04",
+      "topic": "Excel Modelling Cover best tips and practices in the use of Excel in financial modelling. Preparation for the Excel modelling assignment. Learning outcomes: L01, L02, L03, L04",
       "learning_outcomes": [
         "L01",
         "L02",
@@ -202,7 +202,7 @@
     {
       "learning_period": "Week 5",
       "activity_type": "Lecture",
-      "topic": "Python Coding and GitHub for Finance Professionals ILearn Python coding and how to use GitHub for version control and collaboration in a finance setting (part I)Learning outcomes:L01, L02, L03, L04",
+      "topic": "Python Coding and GitHub for Finance Professionals I Learn Python coding and how to use GitHub for version control and collaboration in a finance setting (part I) Learning outcomes: L01, L02, L03, L04",
       "learning_outcomes": [
         "L01",
         "L02",
@@ -213,17 +213,17 @@
     {
       "learning_period": "Week 6",
       "activity_type": "Lecture",
-      "topic": "Python Coding and GitHub for Finance Professionals IILearn Python coding and how to use GitHub for version control and collaboration in a finance setting (part II)"
+      "topic": "Python Coding and GitHub for Finance Professionals II Learn Python coding and how to use GitHub for version control and collaboration in a finance setting (part II)"
     },
     {
       "learning_period": "Mid-sem break",
       "activity_type": "No student involvement (Breaks, information)",
-      "topic": "In-Semester BreakNo classes during In-Semester break."
+      "topic": "In-Semester Break No classes during In-Semester break."
     },
     {
       "learning_period": "Week 7",
       "activity_type": "Lecture",
-      "topic": "Equity ResearchUse programming tools to create an equity analyst research report with financials, ratios, and commentary. Part 1 of coding assignment released.Learning outcomes:L01, L02, L03",
+      "topic": "Equity Research Use programming tools to create an equity analyst research report with financials, ratios, and commentary. Part 1 of coding assignment released. Learning outcomes: L01, L02, L03",
       "learning_outcomes": [
         "L01",
         "L02",
@@ -233,7 +233,7 @@
     {
       "learning_period": "Week 8",
       "activity_type": "Lecture",
-      "topic": "Portfolio ManagementUse programming tools to undertake a Markowitz portfolio optimisation.Learning outcomes:L01, L02, L03",
+      "topic": "Portfolio Management Use programming tools to undertake a Markowitz portfolio optimisation. Learning outcomes: L01, L02, L03",
       "learning_outcomes": [
         "L01",
         "L02",
@@ -243,7 +243,7 @@
     {
       "learning_period": "Week 9",
       "activity_type": "Lecture",
-      "topic": "Yield CurvesUse programming tools to bootstrap a fixed income yield curve.Learning outcomes:L01, L02, L03",
+      "topic": "Yield Curves Use programming tools to bootstrap a fixed income yield curve. Learning outcomes: L01, L02, L03",
       "learning_outcomes": [
         "L01",
         "L02",
@@ -253,7 +253,7 @@
     {
       "learning_period": "Week 10",
       "activity_type": "Lecture",
-      "topic": "Option PricingUse programming tools to implement numerical methods for option pricing, including binomial pricing models and the Monte-Carlo method.Learning outcomes:L01, L02, L03",
+      "topic": "Option Pricing Use programming tools to implement numerical methods for option pricing, including binomial pricing models and the Monte-Carlo method. Learning outcomes: L01, L02, L03",
       "learning_outcomes": [
         "L01",
         "L02",
@@ -263,7 +263,7 @@
     {
       "learning_period": "Week 11",
       "activity_type": "Lecture",
-      "topic": "Quant Funds ManagementUse programming tools to implement, back-test and monitor a momentum trading strategy.Learning outcomes:L01, L02, L03",
+      "topic": "Quant Funds Management Use programming tools to implement, back-test and monitor a momentum trading strategy. Learning outcomes: L01, L02, L03",
       "learning_outcomes": [
         "L01",
         "L02",
@@ -273,7 +273,7 @@
     {
       "learning_period": "Week 12",
       "activity_type": "Lecture",
-      "topic": "AI as Coding PartnerShowcase of Claude MCP creating GitHub pull requests.Learning outcomes:L01, L02, L04",
+      "topic": "AI as Coding Partner Showcase of Claude MCP creating GitHub pull requests. Learning outcomes: L01, L02, L04",
       "learning_outcomes": [
         "L01",
         "L02",
@@ -283,7 +283,7 @@
     {
       "learning_period": "Week 13",
       "activity_type": "Lecture",
-      "topic": "PresentationLearning outcomes:L01, L02, L03",
+      "topic": "Presentation Learning outcomes: L01, L02, L03",
       "learning_outcomes": [
         "L01",
         "L02",
@@ -291,5 +291,5 @@
       ]
     }
   ],
-  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the:Student Code of Conduct PolicyStudent Integrity and Misconduct PolicyandProcedureAssessment ProcedureExaminations ProcedureReasonable Adjustments for Students PolicyandProcedureAI for Assessment GuideLearn more about UQ policies onmy.UQand thePolicy and Procedure Library.Learning activities"
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
 }
