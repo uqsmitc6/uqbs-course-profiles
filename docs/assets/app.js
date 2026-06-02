@@ -11,11 +11,13 @@
 const STORE = {
   manifest: null,
   taxonomy: null,
+  aol: null,
 };
 
 const DATA_PATHS = {
   manifest: "./assets/manifest.json",
   taxonomy: "./taxonomy/uqbs-programs.json",
+  aol: "./taxonomy/aol-status.json",
 };
 
 async function loadManifest() {
@@ -32,6 +34,45 @@ async function loadTaxonomy() {
   if (!res.ok) throw new Error(`Could not load taxonomy: ${res.status}`);
   STORE.taxonomy = await res.json();
   return STORE.taxonomy;
+}
+
+async function loadAol() {
+  if (STORE.aol) return STORE.aol;
+  const res = await fetch(DATA_PATHS.aol, { cache: "no-cache" });
+  if (!res.ok) { STORE.aol = { semesters: {} }; return STORE.aol; }
+  STORE.aol = await res.json();
+  return STORE.aol;
+}
+
+// Get AoL entries for a specific course code (across all semesters, or for a specific semester)
+function getAolForCourse(aol, courseCode, semesterCode) {
+  if (!aol || !aol.semesters) return [];
+  const entries = [];
+  for (const [sem, data] of Object.entries(aol.semesters)) {
+    if (semesterCode && sem !== semesterCode) continue;
+    for (const e of (data.entries || [])) {
+      if (e.course_code === courseCode) entries.push({ ...e, semester_code: sem, semester_label: data.label });
+    }
+  }
+  return entries;
+}
+
+// Status display config
+const AOL_STATUS = {
+  tbd:           { label: "TBD",            icon: "📋", cls: "aol-tbd" },
+  identified:    { label: "Identified",     icon: "🔍", cls: "aol-identified" },
+  rubric_in_dev: { label: "Rubric in Dev",  icon: "🔨", cls: "aol-rubric-dev" },
+  active:        { label: "Active",         icon: "✅", cls: "aol-active" },
+  established:   { label: "Established",    icon: "🏆", cls: "aol-established" },
+};
+
+function aolStatusChip(status) {
+  const s = AOL_STATUS[status] || { label: status, icon: "?", cls: "aol-unknown" };
+  return `<span class="aol-chip ${s.cls}" title="${escapeHtml(s.label)}">${s.icon} ${escapeHtml(s.label)}</span>`;
+}
+
+function aolGaChip(ga) {
+  return `<span class="aol-ga-chip" title="${escapeHtml(ga)}">${escapeHtml(ga)}</span>`;
 }
 
 async function loadCourseJson(relPath) {
@@ -60,6 +101,25 @@ function escapeHtml(s) {
   return String(s)
     .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+}
+
+// Parse study_period into a short label, e.g. "Semester 1, 2026 (23/02/...)" → "S1 2026".
+// Falls back to semester_code if study_period is missing.
+function semesterLabel(course) {
+  const sp = course.study_period || "";
+  const m = sp.match(/Semester\s+(\d),?\s+(\d{4})/i);
+  if (m) return `S${m[1]} ${m[2]}`;
+  const sm = sp.match(/Summer\s+Semester,?\s+(\d{4})/i);
+  if (sm) return `Sum ${sm[1]}`;
+  // Fallback: derive from semester_code
+  const code = course.semester_code || "";
+  // Known UQ codes — derive label
+  const codeMap = {
+    "7460": "S2 2024", "7480": "Sum 2025", "7520": "S1 2025",
+    "7560": "S2 2025", "7580": "Sum 2026", "7620": "S1 2026",
+    "7660": "S2 2026", "7700": "S1 2027", "7740": "S2 2027",
+  };
+  return codeMap[code] || code;
 }
 
 // Extract the 4-letter faculty prefix from a course code (e.g. "MGTS1601" → "MGTS").
@@ -557,10 +617,11 @@ async function initBrowser() {
   const $count = document.getElementById("course-count");
   const $meta = document.getElementById("meta-info");
   try {
-    const [manifest, taxonomy] = await Promise.all([loadManifest(), loadTaxonomy().catch(() => null)]);
+    const [manifest, taxonomy, aol] = await Promise.all([loadManifest(), loadTaxonomy().catch(() => null), loadAol().catch(() => null)]);
     const courses = getAllCourses(manifest);
     STORE.allCourses = courses;
     STORE.taxonomy = taxonomy;
+    STORE.aol = aol;
     $meta.innerHTML = `<span>Scrape generated</span> <b>${escapeHtml(fmtDate(manifest.generated_at))}</b> <span>· ${manifest.total_profiles} profiles</span>`;
 
     // Populate filter dropdowns
@@ -568,8 +629,23 @@ async function initBrowser() {
     populateSelect("filter-mode", uniqueSorted(courses.map(c => c.attendance_mode)));
     populateSelect("filter-location", uniqueSorted(courses.map(c => c.location)));
     if (taxonomy && taxonomy.programs) {
-      const progOpts = Object.entries(taxonomy.programs).map(([k, v]) => ({ value: k, label: `${v.name} (${k})` }));
+      const progOpts = Object.entries(taxonomy.programs)
+        .filter(([, v]) => v.is_programme !== false)
+        .map(([k, v]) => ({ value: k, label: `${v.name} (${k})` }));
       populateSelect("filter-program", progOpts);
+    }
+
+    // Populate semester filter and default to most recent
+    const semCodes = uniqueSorted(courses.map(c => c.semester_code));
+    const semOpts = semCodes.map(code => {
+      const sample = courses.find(c => c.semester_code === code);
+      return { value: code, label: sample ? semesterLabel(sample) : code };
+    });
+    populateSelect("filter-semester", semOpts);
+    // Default to most recent semester
+    const $semFilter = document.getElementById("filter-semester");
+    if ($semFilter && semCodes.length) {
+      $semFilter.value = semCodes[semCodes.length - 1];
     }
 
     // Initial render
@@ -594,7 +670,7 @@ function populateSelect(id, options) {
 }
 
 function bindControls() {
-  for (const id of ["search", "filter-level", "filter-mode", "filter-location", "filter-program"]) {
+  for (const id of ["search", "filter-semester", "filter-level", "filter-mode", "filter-location", "filter-program"]) {
     const el = document.getElementById(id);
     if (el) el.addEventListener("input", render);
   }
@@ -727,6 +803,7 @@ function exportFilteredAsCsv() {
 
 function applyFilters(courses) {
   const q = (document.getElementById("search")?.value || "").trim().toLowerCase();
+  const sem = document.getElementById("filter-semester")?.value;
   const level = document.getElementById("filter-level")?.value;
   const mode = document.getElementById("filter-mode")?.value;
   const loc = document.getElementById("filter-location")?.value;
@@ -737,6 +814,7 @@ function applyFilters(courses) {
       const hay = `${c.course_code} ${c.course_title || ""}`.toLowerCase();
       if (!hay.includes(q)) return false;
     }
+    if (sem && c.semester_code !== sem) return false;
     if (level && c.study_level !== level) return false;
     if (mode && c.attendance_mode !== mode) return false;
     if (loc && c.location !== loc) return false;
@@ -768,7 +846,7 @@ function render() {
   $count.textContent = courses.length;
 
   if (courses.length === 0) {
-    $body.innerHTML = `<tr><td colspan="7" class="empty">No courses match the current filters.</td></tr>`;
+    $body.innerHTML = `<tr><td colspan="9" class="empty">No courses match the current filters.</td></tr>`;
     updateSortIndicators();
     return;
   }
@@ -786,15 +864,22 @@ function render() {
     const fullCode = c.full_course_code || [c.course_code, c.class_code, c.semester_code].filter(Boolean).join("-");
     const pfx = coursePrefix(c.course_code);
     const codeCls = pfx ? `code prefix-${pfx}` : "code";
+    const aolEntries = STORE.aol ? getAolForCourse(STORE.aol, c.course_code) : [];
+    const aolCell = aolEntries.length
+      ? aolEntries.map(e => `<span class="aol-chip ${(AOL_STATUS[e.status] || {}).cls || ''}" title="${escapeHtml(e.ga)}: ${escapeHtml((AOL_STATUS[e.status] || {}).label || e.status)}">${escapeHtml(e.ga)}</span>`).join(" ")
+      : "";
+    const semLabel = semesterLabel(c);
     return `
       <tr>
         <td class="${codeCls}"><a href="course.html?file=${encodeURIComponent(c.file)}">${escapeHtml(c.course_code || "")}</a></td>
         <td>${escapeHtml(c.course_title || "")}</td>
+        <td class="nowrap">${escapeHtml(semLabel)}</td>
         <td><span class="${levelClass}">${escapeHtml(c.study_level || "")}</span></td>
         <td>${escapeHtml(c.units || "")}</td>
         <td>${escapeHtml(c.attendance_mode || "")}</td>
         <td>${escapeHtml(c.location || "")}</td>
         <td>${progChips}${more}</td>
+        <td class="aol-col">${aolCell}</td>
       </tr>`;
   }).join("");
   $body.innerHTML = rows;
@@ -821,10 +906,20 @@ async function initCourseDetail() {
     return;
   }
   try {
-    const [course, taxonomy] = await Promise.all([loadCourseJson(filePath), loadTaxonomy().catch(() => null)]);
+    const [course, manifest, taxonomy, aol] = await Promise.all([
+      loadCourseJson(filePath), loadManifest(), loadTaxonomy().catch(() => null), loadAol().catch(() => null)
+    ]);
     STORE.currentCourse = course;
     STORE.currentTaxonomy = taxonomy;
-    renderCourseDetail($root, course, taxonomy);
+    STORE.aol = aol;
+
+    // Find all offerings of this course across semesters
+    const allCourses = getAllCourses(manifest);
+    const otherOfferings = allCourses
+      .filter(c => c.course_code === course.course_code && c.file !== filePath)
+      .sort((a, b) => (b.semester_code || "").localeCompare(a.semester_code || ""));
+
+    renderCourseDetail($root, course, taxonomy, otherOfferings, filePath);
     document.title = `${course.course_code} — ${course.course_title}`;
     // Wire up download buttons after render
     const $pdf = document.getElementById("dl-pdf");
@@ -839,7 +934,9 @@ async function initCourseDetail() {
   }
 }
 
-function renderCourseDetail($root, c, taxonomy) {
+function renderCourseDetail($root, c, taxonomy, otherOfferings, currentFile) {
+  // Default for backward compat
+  otherOfferings = otherOfferings || [];
   const roles = taxonomy ? programRolesFor(c.course_code, taxonomy) : [];
   const progChips = roles.map(r => {
     const isCore = (r.role || "").toLowerCase() === "core";
@@ -849,8 +946,24 @@ function renderCourseDetail($root, c, taxonomy) {
 
   const parts = [];
 
+  // Semester picker (if multiple offerings exist)
+  let semPickerHtml = "";
+  if (otherOfferings.length > 0) {
+    const currentLabel = semesterLabel(c);
+    const links = otherOfferings.map(o => {
+      const label = semesterLabel(o);
+      return `<a href="course.html?file=${encodeURIComponent(o.file)}" class="sem-pick-link">${escapeHtml(label)}</a>`;
+    }).join("");
+    semPickerHtml = `
+      <div class="semester-picker">
+        <span class="sem-pick-current" title="Currently viewing">${escapeHtml(currentLabel)}</span>
+        ${links}
+      </div>
+    `;
+  }
+
   // Header card
-  const filePath = getQueryParam("file");
+  const filePath = currentFile || getQueryParam("file");
   const rawJsonLink = filePath ? `<a href="./${escapeHtml(filePath)}" target="_blank" rel="noopener">Raw JSON ↗</a>` : "";
   parts.push(`
     <div class="course-header">
@@ -863,6 +976,7 @@ function renderCourseDetail($root, c, taxonomy) {
         ${rawJsonLink ? ` · ${rawJsonLink}` : ""}
       </div>
       <div class="meta small" style="margin-top:4px">Last scraped: ${escapeHtml(fmtDate(c.scraped_at))}</div>
+      ${semPickerHtml}
       ${progChips ? `<div style="margin-top:10px">${progChips}</div>` : ""}
     </div>
   `);
@@ -1004,6 +1118,31 @@ function renderCourseDetail($root, c, taxonomy) {
         <table class="assessment">
           <thead><tr><th>Task</th><th>Category</th><th>Weight</th><th>Due</th>${loHeader}</tr></thead>
           <tbody>${rows}</tbody>
+        </table>
+      </div>
+    `);
+  }
+
+  // AoL status card
+  const aolEntries = STORE.aol ? getAolForCourse(STORE.aol, c.course_code) : [];
+  if (aolEntries.length) {
+    const aolRows = aolEntries.map(e => {
+      const statusInfo = AOL_STATUS[e.status] || { label: e.status, icon: "?", cls: "" };
+      return `<tr>
+        <td>${escapeHtml(e.semester_label || e.semester_code)}</td>
+        <td>${aolGaChip(e.ga)}</td>
+        <td>${escapeHtml(e.assessment_title)}</td>
+        <td><span class="aol-chip ${statusInfo.cls}">${statusInfo.icon} ${escapeHtml(statusInfo.label)}</span></td>
+        <td>${e.rubric_url ? `<a href="${escapeHtml(e.rubric_url)}" target="_blank" rel="noopener">View rubric ↗</a>` : '<span class="muted">—</span>'}</td>
+        <td class="muted small">${escapeHtml(e.notes || "")}</td>
+      </tr>`;
+    }).join("");
+    parts.push(`
+      <div class="card aol-card">
+        <h2>Assurance of Learning</h2>
+        <table class="assessment">
+          <thead><tr><th>Semester</th><th>GA</th><th>Assessment</th><th>Status</th><th>Rubric</th><th>Notes</th></tr></thead>
+          <tbody>${aolRows}</tbody>
         </table>
       </div>
     `);
@@ -1207,10 +1346,11 @@ async function initProgram() {
   const progKey = getQueryParam("program");
 
   try {
-    const [manifest, taxonomy] = await Promise.all([loadManifest(), loadTaxonomy()]);
+    const [manifest, taxonomy, aol] = await Promise.all([loadManifest(), loadTaxonomy(), loadAol().catch(() => null)]);
     const courses = getAllCourses(manifest);
     STORE.allCourses = courses;
     STORE.taxonomy = taxonomy;
+    STORE.aol = aol;
 
     if (!progKey) {
       renderProgramIndex($root, taxonomy, courses);
@@ -1228,16 +1368,17 @@ function renderProgramIndex($root, taxonomy, courses) {
   const coursesByCode = {};
   for (const c of courses) coursesByCode[c.course_code] = c;
 
-  const items = Object.entries(taxonomy.programs).map(([key, p]) => {
-    const mapped = Object.values(taxonomy.course_programs || {}).flat().filter(x => x.program === key);
+  const programEntries = Object.entries(taxonomy.programs).filter(([, p]) => p.is_programme !== false);
+  const items = programEntries.map(([key, p]) => {
     const scrapedCount = Object.entries(taxonomy.course_programs || {}).filter(([code, roles]) => {
       return roles.some(r => r.program === key) && coursesByCode[code];
     }).length;
+    const codeLabel = p.program_code ? ` · ${p.program_code}` : "";
     return `
       <a class="program-card" href="program.html?program=${encodeURIComponent(key)}" style="display:block">
         <div class="level">${escapeHtml(p.level || "")}</div>
         <h3>${escapeHtml(p.name || key)}</h3>
-        <div class="muted small">${escapeHtml(key)}</div>
+        <div class="muted small">${escapeHtml(key)}${escapeHtml(codeLabel)}</div>
         <div class="count">${scrapedCount} course${scrapedCount === 1 ? "" : "s"} with scraped profile${scrapedCount === 1 ? "" : "s"}</div>
       </a>
     `;
@@ -1245,7 +1386,7 @@ function renderProgramIndex($root, taxonomy, courses) {
 
   $root.innerHTML = `
     <h1>Programs</h1>
-    <p class="subtitle">${Object.keys(taxonomy.programs).length} UQBS programs. Click through to see core and majors.</p>
+    <p class="subtitle">${programEntries.length} UQBS programs. Click through to see core and majors.</p>
     <div class="program-list">${items}</div>
   `;
 }
@@ -1264,64 +1405,95 @@ function renderProgramDetail($root, progKey, taxonomy, courses) {
     const c = coursesByCode[code];
     const pfx = coursePrefix(code);
     const codeCls = pfx ? `code prefix-${pfx}` : "code";
+    const courseAol = STORE.aol ? getAolForCourse(STORE.aol, code) : [];
+    const aolTd = courseAol.length
+      ? `<td class="aol-col">${courseAol.map(e => `<span class="aol-chip ${(AOL_STATUS[e.status] || {}).cls || ''}" title="${escapeHtml((AOL_STATUS[e.status] || {}).label || e.status)}: ${escapeHtml(e.assessment_title)}">${escapeHtml(e.ga)}</span>`).join(" ")}</td>`
+      : `<td class="aol-col"></td>`;
     if (c) {
       return `<tr>
         <td class="${codeCls}"><a href="course.html?file=${encodeURIComponent(c.file)}">${escapeHtml(code)}</a></td>
         <td>${escapeHtml(c.course_title || "")}</td>
         <td>${escapeHtml(c.units || "")}</td>
         <td>${escapeHtml(c.attendance_mode || "")}</td>
+        ${aolTd}
       </tr>`;
     }
     return `<tr>
       <td class="${codeCls} muted">${escapeHtml(code)}</td>
       <td class="muted"><em>not in current scrape</em></td>
       <td></td><td></td>
+      ${aolTd}
     </tr>`;
   }
 
+  const codeLabel = p.program_code ? ` · ${p.program_code}` : "";
   const parts = [`
     <a href="program.html" class="small">← All programs</a>
     <h1 style="margin-top:8px">${escapeHtml(p.name)}</h1>
-    <p class="subtitle">${escapeHtml(progKey)} · ${escapeHtml(p.level || "")}</p>
+    <p class="subtitle">${escapeHtml(progKey)}${escapeHtml(codeLabel)} · ${escapeHtml(p.level || "")}</p>
   `];
 
-  if (p.core && p.core.length) {
+  // Pathway info (for Grad Certs)
+  if (p.pathway_to) {
+    const dest = taxonomy.programs[p.pathway_to];
+    const destName = dest ? dest.name : p.pathway_to;
+    parts.push(`<p class="muted small" style="margin-top:-8px">Pathway to: <a href="program.html?program=${encodeURIComponent(p.pathway_to)}">${escapeHtml(destName)}</a></p>`);
+  }
+
+  // Helper: render a named course-list section
+  function renderSection(title, codes) {
+    if (!codes || !codes.length) return;
     parts.push(`
       <div class="card">
-        <h2>Core courses <span class="muted small">(${p.core.length})</span></h2>
+        <h2>${escapeHtml(title)} <span class="muted small">(${codes.length})</span></h2>
         <table class="assessment">
-          <thead><tr><th>Code</th><th>Title</th><th>Units</th><th>Mode</th></tr></thead>
-          <tbody>${p.core.map(renderCourseRow).join("")}</tbody>
+          <thead><tr><th>Code</th><th>Title</th><th>Units</th><th>Mode</th><th>AoL</th></tr></thead>
+          <tbody>${codes.map(renderCourseRow).join("")}</tbody>
         </table>
       </div>
     `);
   }
 
+  renderSection("Core courses", p.core);
+  renderSection("Foundational courses", p.foundational_courses);
+  renderSection("Flexible core", p.flexible_core);
+  renderSection("Flexible core A", p.flexible_core_a);
+  renderSection("Flexible core B", p.flexible_core_b);
+  renderSection("Capstone", p.capstone);
+  renderSection("Program electives", p.program_electives);
+  renderSection("Research courses", p.research_courses);
+  renderSection("Advanced courses", p.advanced_courses);
+  renderSection("General pathway courses", p.general_pathway_courses);
+  renderSection("Pathway prerequisites", p.pathway_prerequisites);
+
   if (p.majors && Object.keys(p.majors).length) {
-    parts.push(`<h2>Majors</h2>`);
+    // Use contextual heading based on programme level
+    const majorHeading = (p.level === "PG") ? "Fields / Specialisations" : "Majors";
+    parts.push(`<h2>${majorHeading}</h2>`);
     for (const [major, codes] of Object.entries(p.majors)) {
-      parts.push(`
-        <div class="card major-section">
-          <h3>${escapeHtml(major)} <span class="muted small">(${codes.length})</span></h3>
-          <table class="assessment">
-            <thead><tr><th>Code</th><th>Title</th><th>Units</th><th>Mode</th></tr></thead>
-            <tbody>${codes.map(renderCourseRow).join("")}</tbody>
-          </table>
-        </div>
-      `);
+      if (!codes.length) {
+        parts.push(`
+          <div class="card major-section">
+            <h3>${escapeHtml(major)} <span class="muted small">(no courses listed)</span></h3>
+            <p class="muted small"><em>Course list not available — see my.UQ for details.</em></p>
+          </div>
+        `);
+      } else {
+        parts.push(`
+          <div class="card major-section">
+            <h3>${escapeHtml(major)} <span class="muted small">(${codes.length})</span></h3>
+            <table class="assessment">
+              <thead><tr><th>Code</th><th>Title</th><th>Units</th><th>Mode</th></tr></thead>
+              <tbody>${codes.map(renderCourseRow).join("")}</tbody>
+            </table>
+          </div>
+        `);
+      }
     }
   }
 
   if (p.electives && p.electives.length) {
-    parts.push(`
-      <div class="card">
-        <h2>Electives <span class="muted small">(${p.electives.length})</span></h2>
-        <table class="assessment">
-          <thead><tr><th>Code</th><th>Title</th><th>Units</th><th>Mode</th></tr></thead>
-          <tbody>${p.electives.map(renderCourseRow).join("")}</tbody>
-        </table>
-      </div>
-    `);
+    renderSection("Electives", p.electives);
   }
 
   $root.innerHTML = parts.join("");
@@ -1358,6 +1530,148 @@ function updateThemeToggleLabel(theme) {
   if ($icon) $icon.textContent = THEME_ICONS[next];
   $btn.setAttribute("aria-pressed", theme === "fun" ? "true" : "false");
   $btn.title = `Switch to ${THEME_LABELS[next]} theme`;
+}
+
+// =========================================================================
+// Page: AOL DASHBOARD (aol.html)
+// =========================================================================
+async function initAol() {
+  const $root = document.getElementById("aol-root");
+  try {
+    const [manifest, taxonomy, aol] = await Promise.all([
+      loadManifest(), loadTaxonomy(), loadAol()
+    ]);
+    STORE.allCourses = getAllCourses(manifest);
+    STORE.taxonomy = taxonomy;
+    STORE.aol = aol;
+    renderAolDashboard($root, aol, taxonomy, STORE.allCourses);
+  } catch (err) {
+    $root.innerHTML = `<div class="error">Error: ${escapeHtml(err.message)}</div>`;
+    console.error(err);
+  }
+}
+
+function renderAolDashboard($root, aol, taxonomy, courses) {
+  if (!aol || !aol.semesters || !Object.keys(aol.semesters).length) {
+    $root.innerHTML = `
+      <h1>Assurance of Learning Dashboard</h1>
+      <div class="card"><p>No AoL data loaded. Add entries to <code>taxonomy/aol-template.csv</code> and run <code>python scraper/import_aol.py</code>.</p></div>
+    `;
+    return;
+  }
+
+  const coursesByCode = {};
+  for (const c of courses) coursesByCode[c.course_code] = c;
+
+  const parts = [];
+  parts.push(`<h1>Assurance of Learning Dashboard</h1>`);
+
+  // Summary stats across all semesters
+  const allEntries = [];
+  for (const [sem, data] of Object.entries(aol.semesters)) {
+    for (const e of (data.entries || [])) {
+      allEntries.push({ ...e, semester_code: sem, semester_label: data.label });
+    }
+  }
+
+  const statusCounts = {};
+  const gaCounts = {};
+  const uniqueCourses = new Set();
+  for (const e of allEntries) {
+    statusCounts[e.status] = (statusCounts[e.status] || 0) + 1;
+    gaCounts[e.ga] = (gaCounts[e.ga] || 0) + 1;
+    uniqueCourses.add(e.course_code);
+  }
+
+  parts.push(`
+    <div class="stat-bar">
+      <div class="stat"><b>${allEntries.length}</b><span>AoL entries</span></div>
+      <div class="stat"><b>${uniqueCourses.size}</b><span>courses with AoL</span></div>
+      <div class="stat"><b>${Object.keys(aol.semesters).length}</b><span>semester${Object.keys(aol.semesters).length === 1 ? '' : 's'}</span></div>
+    </div>
+  `);
+
+  // Status summary cards
+  const statusOrder = ["tbd", "identified", "rubric_in_dev", "active", "established"];
+  const statusCards = statusOrder.map(s => {
+    const info = AOL_STATUS[s] || {};
+    const count = statusCounts[s] || 0;
+    return `<div class="aol-stat-card ${info.cls || ''}"><div class="aol-stat-icon">${info.icon || '?'}</div><div class="aol-stat-count">${count}</div><div class="aol-stat-label">${escapeHtml(info.label || s)}</div></div>`;
+  }).join("");
+  parts.push(`<div class="aol-status-summary">${statusCards}</div>`);
+
+  // Per-semester sections
+  for (const [sem, data] of Object.entries(aol.semesters).sort(([a],[b]) => b.localeCompare(a))) {
+    const entries = data.entries || [];
+    if (!entries.length) continue;
+
+    // Group by programme (via taxonomy)
+    const byProg = {};
+    const noProg = [];
+    for (const e of entries) {
+      const progRoles = taxonomy && taxonomy.course_programs ? (taxonomy.course_programs[e.course_code] || []) : [];
+      if (progRoles.length) {
+        for (const r of progRoles) {
+          byProg[r.program] = byProg[r.program] || [];
+          byProg[r.program].push(e);
+        }
+      } else {
+        noProg.push(e);
+      }
+    }
+
+    parts.push(`<h2>${escapeHtml(data.label || sem)}</h2>`);
+
+    // GA coverage heatmap for this semester
+    const gaNames = aol._metadata?.graduate_attributes || {};
+    const gas = ["GA1", "GA2", "GA3", "GA4", "GA5", "GA6"];
+    const semGaCounts = {};
+    for (const e of entries) {
+      semGaCounts[e.ga] = (semGaCounts[e.ga] || 0) + 1;
+    }
+    const gaHeatRow = gas.map(g => {
+      const n = semGaCounts[g] || 0;
+      const label = gaNames[g] || g;
+      const intensity = n === 0 ? "aol-heat-0" : n <= 2 ? "aol-heat-1" : n <= 4 ? "aol-heat-2" : "aol-heat-3";
+      return `<td class="aol-heat ${intensity}" title="${escapeHtml(label)}: ${n} course${n === 1 ? '' : 's'}">${g}<br><b>${n}</b></td>`;
+    }).join("");
+    parts.push(`
+      <div class="card">
+        <h3 style="margin-top:0">GA Coverage</h3>
+        <table class="aol-heatmap"><tr>${gaHeatRow}</tr></table>
+      </div>
+    `);
+
+    // Full entry table for this semester
+    const rows = entries.map(e => {
+      const info = AOL_STATUS[e.status] || {};
+      const c = coursesByCode[e.course_code];
+      const courseLink = c ? `<a href="course.html?file=${encodeURIComponent(c.file)}">${escapeHtml(e.course_code)}</a>` : escapeHtml(e.course_code);
+      const progRoles = taxonomy && taxonomy.course_programs ? (taxonomy.course_programs[e.course_code] || []) : [];
+      const progChips = progRoles.slice(0, 2).map(r => `<span class="chip">${escapeHtml(r.program)}</span>`).join(" ");
+      return `<tr>
+        <td class="code">${courseLink}</td>
+        <td>${c ? escapeHtml(c.course_title || '') : '<span class="muted">—</span>'}</td>
+        <td>${aolGaChip(e.ga)}</td>
+        <td>${escapeHtml(e.assessment_title)}</td>
+        <td><span class="aol-chip ${info.cls || ''}">${info.icon || ''} ${escapeHtml(info.label || e.status)}</span></td>
+        <td>${e.rubric_url ? `<a href="${escapeHtml(e.rubric_url)}" target="_blank" rel="noopener">Rubric ↗</a>` : ''}</td>
+        <td>${progChips}</td>
+      </tr>`;
+    }).join("");
+
+    parts.push(`
+      <div class="card">
+        <h3 style="margin-top:0">All AoL Entries</h3>
+        <table class="assessment aol-table">
+          <thead><tr><th>Code</th><th>Title</th><th>GA</th><th>Assessment</th><th>Status</th><th>Rubric</th><th>Programs</th></tr></thead>
+          <tbody>${rows}</tbody>
+        </table>
+      </div>
+    `);
+  }
+
+  $root.innerHTML = parts.join("");
 }
 
 function initTheme() {
@@ -1452,6 +1766,7 @@ window.UQBS = {
   initBrowser,
   initCourseDetail,
   initProgram,
+  initAol,
   initTheme,
   applyTheme,
   initColorMode,

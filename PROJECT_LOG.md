@@ -1,8 +1,8 @@
 # Project Log — UQBS Course Profile Scraper
 
-> **Last updated:** 2026-04-14 — Viewer polish: post-deploy bug fixes (LO codes, assessment-to-LO mapping, policy-text stopword joins), Classic/Fun theme toggle, manual light/dark/auto colour-mode toggle, bulk downloads, printable PDFs
-> **Project:** Enriched course profile scraper for UQ Business School
-> **Tech stack:** Python 3 / BeautifulSoup / requests
+> **Last updated:** 2026-04-15 — AoL (Assurance of Learning) integration complete: overlay data architecture, CSV import pipeline, viewer integration across all pages, dedicated AoL dashboard
+> **Project:** UQBS Course Profile Viewer and Learning Design Intelligence Platform
+> **Tech stack:** Python 3 / BeautifulSoup / requests / GitHub Actions / GitHub Pages
 > **Repository:** [uqsmitc6/uqbs-course-profiles](https://github.com/uqsmitc6/uqbs-course-profiles)
 
 ---
@@ -11,13 +11,22 @@
 
 The scraper is built, tested, and **production-ready**. It extracts a comprehensive field set from UQ course profile pages — significantly richer than Geoff's JacSON scraper (which covers the whole university but with fewer fields). Nine GitHub Actions runs completed; all extraction bugs resolved. The full Semester 1 2026 scrape (Run 9) produced 202 JSON files with 100% coverage on all critical fields and no detected extraction bugs.
 
+**Evolving vision:** The project started as a way to easily navigate published ECPs and download info from the browser (the bulk export is a standout feature). It's now actively becoming a **learning design intelligence platform** for the UQBS team. The first overlay data layer — **Assurance of Learning (AoL)** — is now built and integrated. The AoL layer uses an overlay architecture: team maintains a CSV (`taxonomy/aol-template.csv`), an import script converts it to JSON (`taxonomy/aol-status.json`), and the viewer loads it at runtime to show AoL status across course, programme, and dashboard views. This same pattern will be used for GA mapping, assessment typologies, Indigenous curriculum tracking, and assessment security classification.
+
+**AoL lifecycle:** TBD → Identified → Rubric in Dev → Active → Established. Grain: semester + course + GA + assessment item + rubric link. Data starts from Sem 1 2026 onwards. If a mapping doesn't go ahead, the row is simply removed (no "disrupted" or "N/A" status needed).
+
+**GA vs AoL relationship (confirmed with AD L&T):** GA mapping is broader than AoL and persists independently — it's about constructive alignment against PLOs. AoL is a subset that gets the full rubric integration treatment. More GAs will be mapped than AoL implemented in most cases. The goal is for all GAs to be covered by some AoL criteria, but not necessarily all within a single assessment. GA mapping is a precursor to AoL, but GA mapping will continue to exist and matter even after AoL is fully rolled out. All courses targeted for AoL mapping starting Sem 2 2026.
+
 ### Key Architecture Decisions in Effect
 
 - "Standalone repo, separate from Geoff's JacSON" — decided 2026-04-13. Keeps UQBS-enriched data independent from university-wide scrapes.
 - "GitHub Actions as primary runner" — confirmed working 2026-04-13. UQ's `course-profiles.uq.edu.au` domain is accessible from GitHub Actions runners (Geoff's concern about IP blocking applies to `programs-courses.uq.edu.au`, not course profiles).
 - "GitHub Tree API for URL discovery" — decided 2026-04-13. Uses Geoff's JacSON repo file listing to find profile URLs (class codes + semester codes) instead of hitting `programs-courses.uq.edu.au` which returns 405 from GitHub Actions.
-- "Course list from taxonomy JSON" — decided 2026-04-13. Uses uqbs-programs.json (308 courses, 14 programs) as source of truth.
+- "Course list from taxonomy JSON" — decided 2026-04-13, overhauled 2026-04-15. Uses uqbs-programs.json (323 courses, 23 programmes) as source of truth. Verified against my.UQ structured data for all programmes.
 - "Local Mac runner kept as secondary option" — script and launchd plist available for local runs.
+- "Overlay architecture for internal data layers" — decided 2026-04-15. Each data layer (AoL, GA, typologies, etc.) has its own CSV→JSON import pipeline and JSON overlay file, loaded by the viewer at runtime. Keeps each layer independently updatable and avoids bloating uqbs-programs.json.
+- "AoL lifecycle: TBD → Identified → Rubric in Dev → Active → Established" — decided 2026-04-15, TBD added after team feedback. Simpler than textbook AACSB 5-stage model; matches UQBS team's actual workflow. "Disrupted" status removed — unmapped items are simply deleted.
+- "AoL data starts Sem 1 2026 onwards" — decided 2026-04-15. No need to backfill historical data.
 
 ---
 
@@ -35,10 +44,238 @@ The scraper is built, tested, and **production-ready**. It extracts a comprehens
 | 8 | TODO | Update README.md to reflect GitHub Actions as confirmed primary runner | 2026-04-13 | Med | Remove "experimental" language |
 | 9 | DONE | ~~Post-deploy bug fixes: LO codes, assessment→LO mapping, policy-text run-ons~~ | 2026-04-14 | — | All three fixed in Session 6 |
 | 10 | DONE | ~~Viewer polish: Classic/Fun theme, downloads, dark-mode toggle~~ | 2026-04-14 | — | Shipped in Session 6 |
+| 11 | DONE | ~~Taxonomy overhaul: 14→23 programmes, verified against my.UQ~~ | 2026-04-15 | — | Shipped in Session 7 |
+| 12 | TODO | Populate empty major course lists (BAFE Economics/Finance, 3 MEI fields) | 2026-04-15 | Low | my.UQ only provides plan codes, not individual courses |
+| 13 | TODO | Add missing program_code values to 11 legacy programmes | 2026-04-15 | Low | Pre-existing entries; codes available from my.UQ pages |
+| 14 | TODO | **Graduate Attribute (GA) mapping** — integrate GA data into taxonomy/viewer | 2026-04-15 | High | See Phase 3A below |
+| 15 | DONE | ~~**Assurance of Learning (AoL) mapping** — semester-aware status tracking~~ | 2026-04-15 | — | Shipped in Session 8: overlay architecture, import script, viewer integration, dashboard |
+| 16 | TODO | **Assessment typologies mapping** | 2026-04-15 | Med | See Phase 3C below |
+| 17 | TODO | **Indigenising the curriculum** — tracking and visibility | 2026-04-15 | Med | See Phase 3D below |
+| 18 | TODO | **Assessment security** — classification per assessment item | 2026-04-15 | Med | See Phase 3E below |
+| 19 | TODO | **Visual redesign** — more colourful Classic mode + radical Fun mode overhaul | 2026-04-15 | Low | Separate project, partially underway |
+| 20 | TODO | **Scrape automation audit** — confirm weekly cron is running, review what Sean needs to do manually | 2026-04-15 | Med | See "Scrape Automation Status" section |
+| 21 | TODO | **Scrape history / change tracking** — decide on approach for maintaining profile history | 2026-04-15 | Med | See "Scrape History" section |
+
+---
+
+## Phase 3 Roadmap — Learning Design Intelligence Layer
+
+The next major phase turns this from a course profile viewer into a learning design intelligence platform. All of these features involve **internal team data** that isn't published in official UQ systems, so the core architecture challenge is: how do we ingest, store, and update this data without it being a pain to maintain?
+
+### Data Ingestion Strategy (applies to all Phase 3 features)
+
+The team needs to be able to update this data easily — not one course at a time, but by dumping a spreadsheet. Proposed approach:
+
+- **Spreadsheet as source of truth:** Each data layer (GA, AoL, typologies, etc.) has a canonical CSV/XLSX that the team maintains (likely on SharePoint alongside rubrics)
+- **Import script:** A Python script (similar to `build_manifest.py`) that reads the spreadsheet and merges it into the taxonomy JSON or a separate overlay JSON
+- **Overlay architecture:** Rather than cramming everything into `uqbs-programs.json`, consider separate data files (e.g. `taxonomy/ga-mapping.json`, `taxonomy/aol-status.json`) that the viewer loads and merges at runtime. This keeps each data layer independently updatable
+- **Semester awareness:** AoL status in particular changes semester to semester. The data structure needs a semester dimension — e.g. `{ "MGTS1601": { "7620": { "status": "delivered", "rubric_url": "..." }, "7660": { "status": "proposed" } } }`
+- **Validation on import:** Script should flag missing courses, unknown programme keys, etc. before writing
+
+### Phase 3A — Graduate Attribute (GA) Mapping
+
+**What:** Each course is mapped to one or more of UQ's Graduate Attributes. This mapping tells us which GAs are assessed in which courses across each programme.
+
+**Current state:** Item #6 notes GA mapping in the taxonomy spreadsheet is draft/WIP. The programme-course mappings are now solid (Session 7), so GA integration can proceed.
+
+**Key considerations:**
+- GA mapping is at the course level (which GAs does this course assess?) but the interesting views are at the programme level (GA coverage heatmap across a programme's courses)
+- The viewer could show GA chips per course (like the existing programme chips) and a programme-level GA coverage matrix
+- GAs are relatively stable across semesters — this is more of a "set and occasionally revise" dataset
+
+### Phase 3B — Assurance of Learning (AoL) Mapping
+
+**What:** AACSB Assurance of Learning tracks whether specific learning goals are being assessed, collected, and reviewed. This is closely related to GA mapping but has its own lifecycle.
+
+**Key considerations:**
+- AoL status changes semester to semester: proposed → delivered → collected → reviewed → closed-the-loop
+- The mapping is through **rubrics** — each AoL measure is assessed via a rubric criterion in a specific assessment item
+- Need to link to rubric files (likely on Teams SharePoint) — so the data structure needs a `rubric_url` or similar field per AoL measure
+- The viewer needs a way to show "where are we at across the portfolio this semester" — a status dashboard, not just a per-course view
+- Multiple semesters of data need to coexist (to show progress over time for AACSB reporting) but this shouldn't become an infinite backwards database — probably keep 2–3 years / 4–6 semesters and archive older data
+
+### Phase 3C — Assessment Typologies
+
+**What:** Classification of each assessment item by type (e.g. exam, essay, presentation, group project, portfolio, etc.) — richer than what's in the published ECP.
+
+**Key considerations:**
+- Some typology data may already be inferrable from the scraped assessment summaries (title patterns, weight, etc.)
+- The team likely has a more nuanced classification than what's published
+- Useful for portfolio-level views: "how many exams vs. authentic assessments across the programme?"
+
+### Phase 3D — Indigenising the Curriculum
+
+**What:** Tracking which courses have embedded Indigenous perspectives, content, or pedagogies, and to what degree.
+
+**Key considerations:**
+- This is sensitive data that should be accurate and not performative
+- Likely a per-course flag or scale, possibly with notes on what the Indigenous content involves
+- Useful for programme-level reporting on progress toward UQ's reconciliation commitments
+
+### Phase 3E — Assessment Security
+
+**What:** Classification of assessment items by security level (e.g. invigilated exam, online proctored, take-home, open-book, AI-permitted, etc.).
+
+**Key considerations:**
+- Relevant to academic integrity discussions and AI policy
+- Could partially be inferred from scraped ECP data (exam vs. assignment) but the team likely has more granular classifications
+- Changes semester to semester as assessment designs evolve
+
+---
+
+## Scrape Automation Status
+
+**Current setup:** The scraper runs via GitHub Actions on a **weekly cron schedule** (every Sunday at 9 PM AEST / 11:00 UTC). It can also be triggered manually via workflow dispatch with optional filters (specific semester, course codes, or max count for testing).
+
+**What's automated:**
+- URL discovery (via Geoff's JacSON repo tree API)
+- Profile scraping and JSON output
+- Manifest regeneration (`build_manifest.py`)
+- Git commit and push of new/updated profiles
+- GitHub Pages redeployment (triggered by the push)
+
+**What Sean needs to do manually:** Effectively nothing for routine scrapes. The weekly cron handles it. Manual intervention only needed for: adding new courses to the taxonomy (which triggers inclusion in future scrapes), or running an ad-hoc scrape via the GitHub Actions UI.
+
+**Question to resolve:** Is the weekly cron actually firing? Sean should check the Actions tab for recent automated runs. If it hasn't run since the initial setup, the cron may need the workflow to exist on the default branch.
+
+---
+
+## Scrape History & Change Tracking
+
+**Current behaviour:** Each scrape **overwrites** the existing JSON files in `profiles/{semester}/`. The only history is git commit history — each commit is timestamped and includes a profile count, so you can `git diff` between commits to see what changed. But there's no structured changelog or archive.
+
+**Geoff's approach (JacSON):** Worth investigating — does JacSON maintain historical snapshots or just overwrite?
+
+**Design questions to resolve:**
+- **How much history matters?** For the LD team's purposes, do we need to know "MGTS1601's assessment changed between week 3 and week 8 of Sem 1"? Or is "here's the latest for each semester" sufficient?
+- **Semester as natural boundary:** Profiles change within a semester (coordinators update ECPs), but the most meaningful comparison is probably semester-over-semester. Consider: keep one "canonical" snapshot per semester (e.g. the week-1 scrape) and flag if later scrapes detect changes.
+- **Storage concern:** Sean doesn't want this to become an infinite backwards database or unwieldy. Options: (a) git history only (current — lightweight but hard to query), (b) structured diff log (a JSON changelog per course noting what fields changed and when), (c) semester snapshots (keep `profiles/7620-week1/` alongside `profiles/7620-latest/`), (d) keep N semesters and archive older ones to a separate branch or release.
+- **Recommended starting point:** Add a lightweight diff step to the scraper that, after writing updated profiles, generates a `changes.json` summary listing which courses had field changes since last scrape. This gives visibility without storing full historical copies.
 
 ---
 
 ## Session History
+
+### Session 8 — 2026-04-15 — Assurance of Learning (AoL) integration
+
+**Focus:** Build the first internal data overlay layer — Assurance of Learning tracking — from data model through to viewer integration and a dedicated dashboard page.
+
+**Requirements gathered:**
+- AoL tracking is currently scattered/informal across the team — no single structured tracker
+- Lifecycle is simpler than textbook AACSB: Identified → Rubric in Dev → Active → Established (+ Disrupted)
+- Granularity: semester + course + GA + assessment item + rubric (SharePoint links)
+- Start from Sem 1 2026 onwards — no historical backfill needed
+- 2 GAs per course (per existing GA rubric integration skill rules)
+
+**Architecture decisions:**
+- **Overlay architecture** — AoL data lives in `taxonomy/aol-status.json`, separate from the programme taxonomy. Loaded by the viewer at runtime and merged client-side. This pattern will be reused for GA mapping, typologies, etc.
+- **CSV as source of truth** — Team maintains `taxonomy/aol-template.csv` (7 columns: semester_code, course_code, ga, assessment_title, status, rubric_url, notes). Import script converts to JSON with validation.
+- **5 lifecycle statuses** — `identified` (team flagged a match), `rubric_in_dev` (rubric being built), `active` (rubric built and in use), `established` (loop closed — data collected and reviewed), `disrupted` (assessment/mapping changed, needs remapping).
+
+**New files created:**
+- `taxonomy/aol-template.csv` — Template CSV with 11 sample entries across 7 courses for Sem 1 2026
+- `taxonomy/aol-status.json` — Generated JSON overlay (also written to `docs/taxonomy/`)
+- `scraper/import_aol.py` — Import script: reads CSV, validates against taxonomy (flags unknown courses, bad statuses, duplicates), writes JSON overlay to both `taxonomy/` and `docs/taxonomy/`. Supports `--validate-only` mode.
+- `docs/aol.html` — Dedicated AoL dashboard page
+
+**Files changed:**
+- `docs/assets/app.js` — Major additions:
+  - `loadAol()` data loader with graceful fallback
+  - `getAolForCourse()` helper, `AOL_STATUS` config, `aolStatusChip()` and `aolGaChip()` display helpers
+  - `initBrowser()` — loads AoL data; `render()` — adds AoL column to course browser table
+  - `initCourseDetail()` / `renderCourseDetail()` — loads AoL; shows AoL status card (semester, GA, assessment, status, rubric link, notes)
+  - `initProgram()` / `renderProgramDetail()` — loads AoL; adds AoL column to programme course tables
+  - `initAol()` / `renderAolDashboard()` — new dashboard with summary stats, status cards, GA coverage heatmap per semester, full entry tables with course links
+  - Updated `window.UQBS` exports
+- `docs/assets/styles.css` — AoL chip styles (5 status colours), GA chips, dashboard stat cards, heatmap cells, dark mode overrides for all AoL colours
+- `docs/index.html` — Added AoL nav link, AoL table header column, updated colspan
+- `docs/course.html` — Added AoL nav link
+- `docs/program.html` — Added AoL nav link
+- `.github/workflows/scrape.yml` — Added "Rebuild AoL overlay" step after manifest; updated git add to include taxonomy/ and docs/taxonomy/
+
+**Verification:**
+- `node --check docs/assets/app.js` → OK
+- CSS brace balance: 202/202 — OK
+- JSON validation: aol-status.json, docs/taxonomy/aol-status.json, uqbs-programs.json — all valid
+- AoL import validation: 11 entries, 0 errors, 0 warnings (all courses found in taxonomy)
+- All 4 HTML files structurally valid
+
+**Sample AoL data (11 entries for demonstration):**
+- 7 courses: MGTS1601, MGTS2604, MGTS3601, ACCT1101, MKTG1501, ECON1011, FINM1416
+- Status distribution: 3 identified, 3 rubric_in_dev, 3 active, 1 established, 1 disrupted
+- GAs covered: GA1, GA2, GA3, GA4, GA5, GA6
+
+**Workflow for the team going forward:**
+1. Edit `taxonomy/aol-template.csv` (add/update rows)
+2. Run `python scraper/import_aol.py` (or let GitHub Actions do it on next scrape)
+3. Commit and push — GitHub Pages redeploys automatically
+4. AoL dashboard and per-course/programme views update with new data
+
+---
+
+### Session 7 — 2026-04-15 — Taxonomy overhaul: 14→23 programmes
+
+**Focus:** Full audit and rebuild of `taxonomy/uqbs-programs.json` based on structured data from 18 my.UQ programme pages. A deep research audit (using only UQ sources) revealed material errors across 10 of 14 existing programmes.
+
+**Audit findings (errors in the original taxonomy):**
+- **MBus:** 11→9 fields — "Leadership" renamed to "Law for Business", "Strategy and Entrepreneurship" renamed to "Entrepreneurship and Innovation", "International Management" dropped, "Sustainable Business" added
+- **MEI:** 6→7 fields — all names changed (e.g. "Community Engagement" → "Civil Society and International Development", "Food Entrepreneurship" → "Food and Agribusiness Innovation")
+- **MBusAn:** fake "Applied Analytics" and "Strategic Analytics" majors removed (no majors exist); core expanded 2→12
+- **MBA:** fake "Strategy" and "Leadership" majors removed (no majors exist); restructured to flexible core A/B + program electives
+- **Grad Dip:** fake "Applied Business" major removed; restructured to flexible core + program electives + research courses
+- **BAB:** core fixed 16→14 (removed 2 erroneous codes), confirmed 8 majors
+- **BAFE:** core fixed 19→18 (removed 1 erroneous code), added flexible core (18) and general pathway courses (2)
+- **MFIM:** renamed from "Master of Financial and Investment Management" to "Master of Finance and Investment Management"
+- **MTHEM:** renamed from "Master of Tourism, Hospitality and Event Management" to "Master of Tourism, Hotel and Event Management"; added pathway prerequisites
+- **BAFE/BAB:** added "(Honours)" suffix to display names
+
+**New programmes added (9):**
+- BBusManHons — Bachelor of Business Management (Honours) (2129)
+- BComHons — Bachelor of Commerce (Honours) (2131)
+- GCBus — Graduate Certificate in Business (5248)
+- GCBusAdmin — Graduate Certificate in Business Administration (5769)
+- GCBusAn — Graduate Certificate in Business Analytics (5726)
+- GCCom — Graduate Certificate in Commerce (5326)
+- GCEI — Graduate Certificate in Entrepreneurship and Innovation (5689)
+- GCFIM — Graduate Certificate in Finance and Investment Management (5764)
+- GCTHEM — Graduate Certificate in Tourism, Hotel and Event Management (5547)
+
+**New taxonomy fields introduced:**
+- `program_code` — UQ numeric programme code (e.g. 5248)
+- `is_programme` — `false` for the Elective cross-programme tag
+- `foundational_courses` — prerequisite/bridging courses (GCBus, MBus)
+- `capstone` — capstone course list (MBus, MEI)
+- `pathway_to` — key of the master's programme this Grad Cert feeds into
+- `pathway_prerequisites` — courses required before entering the pathway (MTHEM)
+- `flexible_core`, `flexible_core_a`, `flexible_core_b` — flexible/elective core variants
+- `program_electives` — programme-level elective pools
+- `research_courses`, `advanced_courses`, `general_pathway_courses` — specialised course categories
+
+**Taxonomy stats after rebuild:** 23 programmes (7 UG + 15 PG + 1 Elective tag), 323 unique courses, 521 course→programme mappings. Reverse mapping (`course_programs`) validated — 0 integrity errors.
+
+**Viewer updates:**
+- `renderProgramDetail()` now renders all new course-list fields (foundational, flexible core, capstone, pathway prerequisites, etc.) with descriptive section headings
+- `renderProgramIndex()` filters out `is_programme: false` entries, shows `program_code` where available
+- Programme filter dropdown on course browser excludes non-programme entries
+- PG programmes show "Fields / Specialisations" heading instead of "Majors"
+- Empty major course lists show a "see my.UQ for details" note instead of an empty table
+
+**Known limitations:**
+- 5 major/field course lists are empty: BAFE Economics, BAFE Finance (my.UQ references plan codes only, not individual courses), MEI Agri-Food Chains, MEI Business Management, MEI Data and AI
+- 11 legacy programmes still lack `program_code` values
+- MBus "Law for Business" field inherited old "Leadership" course list — may not be fully accurate
+- GCEI "Food Entrepreneurship" field name differs from MEI's "Food and Agribusiness Innovation" — possible naming inconsistency in UQ systems
+
+**Files changed:**
+- `taxonomy/uqbs-programs.json` — Full rebuild (3898→4626 lines)
+- `docs/assets/app.js` — Programme detail renderer extended for new fields; programme index and filter updated for `is_programme`
+
+**Verification:**
+- Forward/reverse mapping integrity: 323/323 courses, 0 errors
+- `node --check docs/assets/app.js` → syntax valid
+- All 23 programme core/major counts match my.UQ structured data
+
+---
 
 ### Session 6 — 2026-04-14 — Viewer polish: bug fixes, themes, downloads, dark mode
 
