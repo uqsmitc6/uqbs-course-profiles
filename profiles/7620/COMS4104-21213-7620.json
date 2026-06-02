@@ -1,0 +1,350 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMS4104-21213-7620",
+  "scraped_at": "2026-06-02T04:23:20.920099+00:00",
+  "course_code": "COMS4104",
+  "class_code": "21213",
+  "semester_code": "7620",
+  "full_course_code": "COMS4104-21213-7620",
+  "course_title": "Microwave Engineering",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "This course uses electromagnetic principles to present the theory & operation of simple circuit devices & antennas at microwave frequencies, which are the part of modern microwave communication equipment. The emphasis is placed on planar guiding & radiating structures that enable either hybrid &/or monolithic integration of the devices. Modern CAD software packages are introduced & demonstrated through simulations of microwave networks & antenna configurations.\n\nThe course uses electromagnetic (EM) field principles in conjunction with network theory to obtain efficient means for analysing and designing microwave subsystems and antennas, which are part of modern microwave communications systems including Mobile and Satellite Systems.ﾠ\n\nIn the first part of the course, the emphasis is placed on planar guiding structures that enable either hybrid and/or monolithic integration of microwave devices. Modern computer-aided design (CAD) software packages are introduced and demonstrated through simulations of microwave passive and active devices and sub-systems.\n\nThe second part of the course is devoted to the analysis and design of antenna elements and arrays which are part of modern wireless communications systems and radar. The design of antennas using antenna CAD software is demonstrated. Some experimental works are then conducted in the Microwave Lab to verify the main fundamentals of microwave design.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ELEC3100"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMS7104"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Christophe Fumeaux",
+      "email": "COMS4104@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Christophe Fumeaux"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Aliya Dewani"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Demonstrate principles of operation, analysis and design of microwave passive and active sub-systems and antennas which are part of modern communication equipment."
+    },
+    {
+      "number": "LO2.",
+      "description": "Explain the role of microwave subsystems and antennas in wireless communications and radar."
+    },
+    {
+      "number": "LO3.",
+      "description": "Perform a theoretical analysis of basic microwave passive and active circuits, and antennas"
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply critical reasoning to microwave and antenna analysis and design problems to obtain meaningful solutions"
+    },
+    {
+      "number": "LO5.",
+      "description": "Creatively and efficiently use microwave and antenna Computer Aided Design packages."
+    },
+    {
+      "number": "LO6.",
+      "description": "Work as an effective member of a team to analyse and design microwave circuits and antennas with the use of Computer Aided Design tools"
+    },
+    {
+      "number": "LO7.",
+      "description": "Write clear and concise engineering reports at professional level."
+    },
+    {
+      "number": "LO8.",
+      "description": "Demonstrate an ample knowledge of social and professional responsibilities"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Practicals",
+      "weight": "30%",
+      "due_date": "Practical 1 report 14/04/2026 4:00 pm; Practical 2 report 5/05/2026 4:00 pm; Practical 3 report 26/05/2026 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "In-Semester Exam",
+      "weight": "20%",
+      "due_date": "21/04/2026 11:00 am; The in-class exam will test Modules 1, 2, 3, 4 and 5 and applied class.",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Practicals",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "30%",
+      "due_date": "Practical 1 report 14/04/2026 4:00 pm Practical 2 report 5/05/2026 4:00 pm Practical 3 report 26/05/2026 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "The Practical part of the course will include the following components: 0) Introductory Session to Microwave CAD In this introductory session, the students will receive information about the microwave CAD tools that will be used in the practicals. Students will have the opportunity to receive feedback on their performance through a short quiz at the end of the session (formative). 1) Practical 1: TLs & Impedance Transformers This part of the lab project aims to test your knowledge and design skills of microwave transmission lines and impedance transformers. You will be asked to design different types of TLs and transformers with the use of a microwave CAD package. A report providing the basis for assessment of your performance should include the computed results (including prints of the computer screen) and discussion. (Weight: 10%) 2) Practical 2: Hybrid Circuits This part of the lab project aims to test your knowledge and design skills concerning microwave hybrid circuits and PIN diode phase shifters. You will be asked to design various types of hybrids and PIN diode phase shifters, and asses their performance with the use of a microwave CAD package. A report, forming the basis for the assessment of your performance, should include the computed results (including prints of the computer screen) and discussion. (Weight: 10%) 3) Practical 3: Analysis and Design of Antennas This part of the lab project will test your knowledge and analysis and design skills concerning antennas. You will be asked to design and assess the performances of individual antennas using microwave CAD tools. A report, forming the basis for the assessment of your performance, should include the computed results (including prints of the computer screen) and discussion. (Weight: 10%) The practical works are performed in groups but all reports are assessed individually.ﾠ More information about the practical activities and the marking criteria will be made available through the practical instructions to be provided in Blackboard. These tasks have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Practical report assignments are to be submitted online via Blackboard unless otherwise specified for a particular assessment item.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nPrac sessions are unable to be rescheduled, however, a maximum extension of 7 days is allowed on the prac report .\nExtensions for the prac report are limited to 7 days as feedback will be provided within 14 days.\nIf you are unable to attend a prac session due to exceptional circumstances, please contact the teaching team.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The Practical part of the course will include the following components: 0) Introductory Session to Microwave CAD In this introductory session, the students will receive information about the microwave CAD tools that will be used in the practicals. Students will have the opportunity to receive feedback on their performance through a short quiz at the end of the session (formative). 1) Practical 1: TLs & Impedance Transformers This part of the lab project aims to test your knowledge and design skills of microwave transmission lines and impedance transformers. You will be asked to design different types of TLs and transformers with the use of a microwave CAD package. A report providing the basis for assessment of your performance should include the computed results (including prints of the computer screen) and discussion. (Weight: 10%) 2) Practical 2: Hybrid Circuits This part of the lab project aims to test your knowledge and design skills concerning microwave hybrid circuits and PIN diode phase shifters. You will be asked to design various types of hybrids and PIN diode phase shifters, and asses their performance with the use of a microwave CAD package. A report, forming the basis for the assessment of your performance, should include the computed results (including prints of the computer screen) and discussion. (Weight: 10%) 3) Practical 3: Analysis and Design of Antennas This part of the lab project will test your knowledge and analysis and design skills concerning antennas. You will be asked to design and assess the performances of individual antennas using microwave CAD tools. A report, forming the basis for the assessment of your performance, should include the computed results (including prints of the computer screen) and discussion. (Weight: 10%) The practical works are performed in groups but all reports are assessed individually.ﾠ More information about the practical activities and the marking criteria will be made available through the practical instructions to be provided in Blackboard. These tasks have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThese tasks have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In-Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "20%",
+      "due_date": "21/04/2026 11:00 am The in-class exam will test Modules 1, 2, 3, 4 and 5 and applied class.",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "The in-semester exam will test the understanding of the course material covered in the first critical Lecture Modules. An example of the exam will be provided in advance to the students. Delivery: invigilated on-campus written closed--book exam. Timing: The in-semester exam is scheduled at 11 am Tuesday, 21/04/2026. All students will complete the exam simultaneously. Permitted materials: Closed-book exam, UQ approved calculator permitted. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time no planning time minutes Duration 60 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Papers will be collected at the end of the in-class exam time.\nDeferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The in-semester exam will test the understanding of the course material covered in the first critical Lecture Modules. An example of the exam will be provided in advance to the students. Delivery: invigilated on-campus written closed--book exam. Timing: The in-semester exam is scheduled at 11 am Tuesday, 21/04/2026. All students will complete the exam simultaneously. Permitted materials: Closed-book exam, UQ approved calculator permitted. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L07",
+      "task_description": "Delivery: invigilated, on-campus written exam. Permitted materials: One single-sided A4 hand-written page, and UQ approved calculator. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten notes , single sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "Delivery: invigilated, on-campus written exam. Permitted materials: One single-sided A4 hand-written page, and UQ approved calculator. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (23 Feb - 01 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Module 1 Planar Microwave Waveguides and Transmission Lines Learning outcomes: L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 12 (02 Mar - 24 May)",
+      "activity_type": "Applied Class",
+      "topic": "Applied Class Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (02 Mar - 08 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Module 2 Characterization of Microwave Passive Reciprocal and Non-reciprocal Devices Learning outcomes: L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 3 To Week 7 (09 Mar - 19 Apr)",
+      "activity_type": "Practical",
+      "topic": "Practical 1 Review of CAD tools & Transmission Lines & Impedance Transformers Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (09 Mar - 15 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Module 3 Impedance Transformation and Matching Learning outcomes: L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (09 Mar - 15 Mar)",
+      "activity_type": "Practical",
+      "topic": "Introductory Session to Microwave CAD Familiarization with microwave CAD tools Learning outcomes: L05, L06, L08",
+      "learning_outcomes": [
+        "L05",
+        "L06",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (16 Mar - 22 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Module 4 Passive Reciprocal Components I Learning outcomes: L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (23 Mar - 29 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Module 5 Passive Reciprocal Components II Learning outcomes: L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (30 Mar - 05 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Module 6 Microwave Detectors and Mixers Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 7 To Week 10 (13 Apr - 10 May)",
+      "activity_type": "Practical",
+      "topic": "Practical 2 Hybrid Microwave Circuits Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (13 Apr - 19 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Module 7 Transistor, Amplifiers Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (27 Apr - 03 May)",
+      "activity_type": "Lecture",
+      "topic": "Module 8 Fundamental of Antennas - Wire Antennas Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 10 To Week 13 (04 May - 31 May)",
+      "activity_type": "Practical",
+      "topic": "Practical 3 Analysis and Design of Antennas Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (04 May - 10 May)",
+      "activity_type": "Lecture",
+      "topic": "Module 9 Antenna arrays Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (11 May - 17 May)",
+      "activity_type": "Lecture",
+      "topic": "Module 10 Microstrip Antennas Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (18 May - 24 May)",
+      "activity_type": "Lecture",
+      "topic": "Module 11 Microwave Communications Systems Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . You'll also need to be aware of the following policies and procedures while completing this course: Occupational Health and Safety in the Laboratory Guideline School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

@@ -1,0 +1,198 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CIVL3530-20416-7620",
+  "scraped_at": "2026-06-02T04:23:01.189785+00:00",
+  "course_code": "CIVL3530",
+  "class_code": "20416",
+  "semester_code": "7620",
+  "full_course_code": "CIVL3530-20416-7620",
+  "course_title": "Data Analytics in Civil Engineering",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Civil Engineering School",
+  "course_description": "Understanding data, identifying patterns and knowledge from data, developing models to use data to estimate or predict phenomena are essential skills to civil engineers in the 21st century. Civil engineers collect and analyse large amounts of data almost on a daily basis to make better and more informed decisions. Mastering common data analytic techniques is therefore essential for a productive civil engineering career. This course is designed to meet this critical need by providing students with the necessary skills and knowledge in processing, analysing, and interpreting data collected in civil engineering. This includes techniques for handling common data issues, approaches for exploratory data analysis, and methods for confirmatory data analysis. A range of popular techniques are covered, including descriptive analysis, imputation and denoising, comparison analysis, pattern classification and recognition, estimation and prediction, etc. Each technique's application in civil engineering is the focus of the course.\n\nThe ability of understanding study types, variable types and data collection, properly processing data, correctly describing data, extracting useful information from data, and making data-based decisions is becoming increasingly important in many fields, and Civil Engineering is no exception as civil engineers regularly and frequently need to collect and analyse a huge amount of data. Thus, mastering common data analytics techniques is imperative for students in civil engineering to survive and excel in their career. This data-focused compulsory course in the Civil Engineering Specialisation is designed to meet this critical need by providing students with the necessary skills and knowledge in data collection, processing, analysing, and interpreting data collected in civil engineering. This includes techniques for handling common data issues, approaches for exploratory data analysis, and methods for confirmatory data analysis. A range of popular techniques are covered, including descriptive analysis, imputation and denoising, regression analysis for different variable types, clustering and pattern recognition, estimation and prediction, etc. Each technique's application in civil engineering is the focus of the course.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1051",
+      "MATH1052",
+      "ENGG1001",
+      "CIVL2530",
+      "This course is jointly-taught with:",
+      "CIVL7415",
+      "Lectures and tutorials"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Mehmet Yildirimoglu",
+      "email": "m.yildirimoglu@uq.edu.au",
+      "notes": "By appointment only."
+    },
+    {
+      "role": "Course coordinator",
+      "name": "Professor Mark Hickman",
+      "email": "m.hickman1@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Mehmet Yildirimoglu",
+      "email": "m.yildirimoglu@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Mark Hickman",
+      "email": "m.hickman1@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course aims to provide students with the necessary skills and knowledge in processing, analysing, and interpreting data collected in civil engineering. This includes techniques for handling common data issues, approaches for exploratory data analysis, and methods for confirmatory data analysis. A range of popular techniques are covered, including descriptive analysis, imputation and denoising, comparison analysis, regression analysis, pattern classification and recognition, estimation and prediction, etc.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Identify, assess, and address common data issues including data types, missing values, noise, and outliers."
+    },
+    {
+      "number": "LO2.",
+      "description": "Perform explanatory data analysis to summarise data and uncover meaningful patterns and relationships."
+    },
+    {
+      "number": "LO3.",
+      "description": "Develop and interpret regression models for inference and prediction."
+    },
+    {
+      "number": "LO4.",
+      "description": "Analyse spatial data and account for spatial structure in data-driven analysis."
+    },
+    {
+      "number": "LO5.",
+      "description": "Apply clustering and data reduction techniques to identify structure in high-dimensional datasets."
+    },
+    {
+      "number": "LO6.",
+      "description": "Select, implement, and compare machine learning models for prediction and pattern recognition."
+    },
+    {
+      "number": "LO7.",
+      "description": "Effectively interpret the results and communicate outcomes to the general public as well as experts in the field using a variety of professional communication styles."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Computer Exercise on data processing and modelling",
+      "weight": "20%",
+      "due_date": "21/04/2026 4:00 pm"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Computer Exercise on Data-driven Methods",
+      "weight": "20%",
+      "due_date": "29/05/2026 4:00 pm"
+    },
+    {
+      "category": "Participation/ Student contribution, Quiz",
+      "title": "In-class quizzes",
+      "weight": "10%",
+      "due_date": "Marks: 1.25 4/03/2026 4:00 pm; Marks: 1.25 25/02/2026 4:00 pm; Marks: 1.25 11/03/2026 4:00 pm; Marks: 1.25 18/03/2026 4:00 pm; Marks: 1.25 25/03/2026 4:00 pm; Marks: 1.25 1/04/2026 4:00 pm; Marks: 1.25 22/04/2026 4:00 pm; Marks: 1.25 29/04/2026 4:00 pm; Marks: 1.25 6/05/2026 4:00 pm; Marks: 1.25 13/05/2026 4:00 pm; Marks: 1.25 20/05/2026 4:00 pm; Marks: 1.25 27/05/2026 4:00 pm; Throughout the semester",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Computer Exercise on data processing and modelling",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "21/04/2026 4:00 pm",
+      "task_description": "This assessment will require you to process a data set using the techniques introduced in the lectures and then develop a regression model using the processed data. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment. Read full task description Hide full task description",
+      "submission_guidelines": "Assignment must be submitted through BlackBoard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assessment will require you to process a data set using the techniques introduced in the lectures and then develop a regression model using the processed data. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Computer Exercise on Data-driven Methods",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "29/05/2026 4:00 pm",
+      "task_description": "This assessment will require you to explore patterns in a data set using the data-driven methods introduced in the lectures. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment Read full task description Hide full task description",
+      "submission_guidelines": "Assignment must be submitted through BlackBoard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assessment will require you to explore patterns in a data set using the data-driven methods introduced in the lectures. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment"
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "In-class quizzes",
+      "mode": "Written",
+      "category": "Participation/ Student contribution, Quiz",
+      "weight": "10%",
+      "due_date": "Marks: 1.25 4/03/2026 4:00 pm Marks: 1.25 25/02/2026 4:00 pm Marks: 1.25 11/03/2026 4:00 pm Marks: 1.25 18/03/2026 4:00 pm Marks: 1.25 25/03/2026 4:00 pm Marks: 1.25 1/04/2026 4:00 pm Marks: 1.25 22/04/2026 4:00 pm Marks: 1.25 29/04/2026 4:00 pm Marks: 1.25 6/05/2026 4:00 pm Marks: 1.25 13/05/2026 4:00 pm Marks: 1.25 20/05/2026 4:00 pm Marks: 1.25 27/05/2026 4:00 pm Throughout the semester",
+      "task_description": "You are expected to actively participate in lectures throughout the semester. In-class quizzes will contribute to your final marks, with points accruing from Week 1 through to Week 13. The full marks for each quiz are 1.25, and your final score will be calculated based on your best 8 out of 12 quizzes. To ensure your quiz is counted, it must be submitted via Blackboard before the end of each lecture. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment Read full task description Hide full task description",
+      "submission_guidelines": "Submit it to the Blackboard by the end of each lecture.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nBecause only the best 8 of 12 quizzes will contribute to the mark for this assessment item and answers are released soon after the due date, no extensions are permitted.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nBecause the results/answers are released soon after the due date, and only the best 8 of 12 quizzes will contribute to the mark for this assessment item, a 100% penalty will be applied to late submission. This has been approved by the Associate Dean (Academic).",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "You are expected to actively participate in lectures throughout the semester. In-class quizzes will contribute to your final marks, with points accruing from Week 1 through to Week 13. The full marks for each quiz are 1.25, and your final score will be calculated based on your best 8 out of 12 quizzes. To ensure your quiz is counted, it must be submitted via Blackboard before the end of each lecture. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "task_description": "All the topics and learning objectives of this course will be covered in the final exam. This exam will consist of MCQ, short answer, and problem solving. Some of the MCQ problems may require some calculations. Some short answer questions will require calculations. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "All the topics and learning objectives of this course will be covered in the final exam. This exam will consist of MCQ, short answer, and problem solving. Some of the MCQ problems may require some calculations. Some short answer questions will require calculations. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (23 Feb - 31 May)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Lectures in correspondence with course aims"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (23 Feb - 31 May)",
+      "activity_type": "Tutorial",
+      "topic": "Computer exercise & tutorial Tutorials and computer coding activities."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: School of Civil Engineering School Guidelines Learning activities"
+}

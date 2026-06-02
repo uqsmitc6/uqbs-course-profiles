@@ -1,0 +1,217 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CIVL3380-20220-7620",
+  "scraped_at": "2026-06-02T04:22:59.833661+00:00",
+  "course_code": "CIVL3380",
+  "class_code": "20220",
+  "semester_code": "7620",
+  "full_course_code": "CIVL3380-20220-7620",
+  "course_title": "Structural Steel Design",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Civil Engineering School",
+  "course_description": "This course builds on previous courses to introduce students to real structures as assemblies of members and elements, including how they are connected. Types of loading, the probabilistic basis for both self-weight and applied loading and the concept of design limit states will lead to calculation of loading for stability, strength and; serviceability limit states, based on Australian Standards. The concept of load paths and the requirement for stability, strength and stiffness for both braced and un-braced (sway) framed structures are introduced. This knowledge will be applied to the design of simple steel frames, to calculate member sizes or capacity in tension, compression, shear and bending and the connections required to create a practical structure, based on Australian Standards. This course will prepare students for subsequent courses in the structural design of statically indeterminate steel frames and structural design in other materials, structural systems or forms.\n\nThis course provides training to undergraduate students with the fundamental method of analysis and design of Structural Steelwork. The design of structural steelwork is way different from that of other structures, in which the stability design due to geometric nonlinearity or slenderness is more critical than the structural strength design. Connection details are also very different from that in the design of RC (and other) structures. By taking this course, students will be equipped with the essential skills to design structural steelwork including simple axial load members, flexural members, combined axial load and flexural members, simple portal frame, connection details and the use of commercial software for the structural analysis. The fourth-order ordinary differential equation for the Lateral Torsional Buckling (LTB) of flexural beam will also be derived in this course for better understanding the fundamental difference between steel structures and other structural form. All design details are per AS4100-2020.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CIVL2330"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "CIVL2340"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Johnny Ho",
+      "email": "johnny.ho@uq.edu.au",
+      "phone": "+61 7 3443 6248"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Johnny Ho",
+      "email": "johnny.ho@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Joe Gattas",
+      "email": "j.gattas@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nTimetables are subject to change during the beginning of semester. For up to date timetable information please check mySI-net.",
+  "course_aims": "The aim of this subject is to provide a solid foundation in the behaviour and limit states design of steel structures. In this course within the framework of steel, different design methodologies are discussed, a range of loading actions are described and different design strategies are taught. The subject is the first one in civil engineering program that provides the basic knowledge and skills required for structural designs and paves the way for more advanced courses that will be taught in later years of the civil engineering program.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain the chronological developments in the design methods and how to work with the Limit States Design (LSD) method."
+    },
+    {
+      "number": "LO2.",
+      "description": "Discuss the presence, importance, types and use of standards and codes of practice relevant to structural design in Australia. This will include the ability to calculate loads applied to structures based on relevant Australian codes and standards."
+    },
+    {
+      "number": "LO3.",
+      "description": "Explain the behaviour of steel as a material with specific properties and explain how this behaviour affects the development of design methods."
+    },
+    {
+      "number": "LO4.",
+      "description": "Design steel elements in tension, compression, bending and combined actions using AS4100 (Australian Standards for the Design of Steel Structures) and be able to explain the theories behind the design methods in simple terms using visual models."
+    },
+    {
+      "number": "LO5.",
+      "description": "Be able to relate the learning activities in the class to the real world applications, and discuss the ethical and legal obligations of a structural engineer."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment Series",
+      "weight": "40%",
+      "due_date": "Assignment 1 - Section properties (5%) 17/03/2026 5:00 pm; Assignment 2 -Tension member (5%) 1/04/2026 5:00 pm; Assignment 3 - compression member (5%) 21/04/2026 5:00 pm; Assignment 4 - Bending without LTB & shear (5%) 28/04/2026 5:00 pm; Assignment 5 - Bending with LTB (5%) 5/05/2026 5:00 pm; Assignment 6 - Stiffeners (5%) 12/05/2026 5:00 pm; Assignment 7 - Combined action 19/05/2026 5:00 pm; Assignment 8 - Connections 29/05/2026 5:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment Series",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "40%",
+      "due_date": "Assignment 1 - Section properties (5%) 17/03/2026 5:00 pm Assignment 2 -Tension member (5%) 1/04/2026 5:00 pm Assignment 3 - compression member (5%) 21/04/2026 5:00 pm Assignment 4 - Bending without LTB & shear (5%) 28/04/2026 5:00 pm Assignment 5 - Bending with LTB (5%) 5/05/2026 5:00 pm Assignment 6 - Stiffeners (5%) 12/05/2026 5:00 pm Assignment 7 - Combined action 19/05/2026 5:00 pm Assignment 8 - Connections 29/05/2026 5:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within this timeframe.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 180 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (23 Feb - 31 May)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 1 (23 Feb - 01 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Course Introduction; Introduction to Structural Steelwork design (Dr Johnny Ho)"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (02 Mar - 31 May)",
+      "activity_type": "Workshop",
+      "topic": "Workshop (Self-practice questions + Q&A) Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 3 To Week 4 (09 Mar - 22 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Compression member design (Dr Johnny Ho) Learning outcomes: L04, L05",
+      "learning_outcomes": [
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 5 To Week 6 (23 Mar - 05 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Flexural (without LTB) and shear design (Dr Johnny Ho) Learning outcomes: L04, L05",
+      "learning_outcomes": [
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 6 To Week 7 (30 Mar - 19 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Lateral torsional buckling (LTB): Theory and design (Dr Johnny Ho) Learning outcomes: L04, L05",
+      "learning_outcomes": [
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (20 Apr - 26 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Shear buckling and stiffeners (Dr Johnny Ho) Learning outcomes: L04, L05",
+      "learning_outcomes": [
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (27 Apr - 03 May)",
+      "activity_type": "Lecture",
+      "topic": "Combined actions (Dr Johnny Ho) Learning outcomes: L04, L05",
+      "learning_outcomes": [
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (04 May - 10 May)",
+      "activity_type": "Lecture",
+      "topic": "Portal frame design (Dr Johnny Ho) Learning outcomes: L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: School of Civil Engineering School Guidelines Learning activities"
+}

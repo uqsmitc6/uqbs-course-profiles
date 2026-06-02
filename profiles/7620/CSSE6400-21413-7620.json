@@ -1,0 +1,209 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE6400-21413-7620",
+  "scraped_at": "2026-06-02T04:24:08.586213+00:00",
+  "course_code": "CSSE6400",
+  "class_code": "21413",
+  "semester_code": "7620",
+  "full_course_code": "CSSE6400-21413-7620",
+  "course_title": "Software Architecture",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Software systems are often composed of a heterogeneous network of inter-related systems. In this course you will build upon the knowledge and skills you have developed so far to learn how to design complex systems. This will include how these systems communicate and coordinate their responsibilities. You will learn design techniques to manage the complexity of large systems. You will learn how to assess and manage software risks (e.g.security, scalability, availability, resilience, robustness). You will apply these techniques to build a system composed of heterogeneous computing devices (e.g. mobile devices, servers, cloud-hosted services). You will learn how to apply systems thinking to design large-scale cyber-physical systems.\n\nLarge software systems are composed of interacting components. This is the case even if the system is only a single executable running on one computer. More sophisticated systems take advantage of the ability to distribute processing behaviour across hardware optimised for different parts of the system. In this course you will learn how to design \"in the large\". You will learn how to design components and their interfaces so that you can build complex systems. You will learn how to choose appropriate architectural patterns to structure systems that meet both functional and non-functional requirements of a system.\n\nYou can view this course as a capstone of your program. It integrates and extends the knowledge and skills you have developed so far.\n\nCourse Changes in Response to Previous Student Feedback\n\nAssessment has been redesigned based on feedback and observation of student engagement with the course.\n\nPractical work has been turned into a streamed example of building a cloud-based application.\n\nCourse material has been updated to provide better coverage of some topics.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE3200",
+      "DECO2800"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Mr Richard Thomas",
+      "email": "CSSE6400@eecs.uq.edu.au",
+      "notes": "When emailing the teaching team, you should send the email from your UQ student account. We need to be able to identify you as a member of the course cohort."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Mr Richard Thomas"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLectures and practicals start in\nweek 1\n.\nThe case study series starts in\nweek 2\n.",
+  "course_aims": "Upon successful completion of this course you will be able design complex software systems. You will understand how different architectural patterns support delivery of different design goals, and how to choose a pattern that is appropriate in your system's context. You will be able to evaluate the architecture of an existing system to assess how well it achieves its design goals. You will know how to apply security principles to deliver secure systems.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Design and build a software system that delivers specified functional and non-functional requirements (e.g. security, scalability, reliability, ...) by evaluating and selecting an appropriate architectural pattern and designing the components, interfaces and communication protocols to work within the pattern's structure."
+    },
+    {
+      "number": "LO2.",
+      "description": "Apply systems thinking within a team, debating and negotiating options, to design an architecturally complex software system that delivers a coherent set of functional and non-functional requirements."
+    },
+    {
+      "number": "LO3.",
+      "description": "Evaluate security risks for a software system architecture and implement security principles to minimise those risks."
+    },
+    {
+      "number": "LO4.",
+      "description": "Select an appropriate suite of tools to facilitate the delivery of a large, complex software system."
+    },
+    {
+      "number": "LO5.",
+      "description": "Describe and critique the architecture of a software system."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Project",
+      "title": "Cloud Infrastructure Assignment",
+      "weight": "40%",
+      "due_date": "API Functionality 27/03/2026 3:00 pm; Deployed to Cloud 13/04/2026 3:00 pm; Scalable Application 1/05/2026 3:00 pm; Feedback is provided through automated tests. Students will be able to run the tests against their own code to obtain their feedback.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Presentation",
+      "title": "Architecture Presentation",
+      "weight": "30%",
+      "due_date": "25/05/2026 3:00 pm; Your team must submit the slides that you will use for your presentation to the link provided on BlackBoard by the submission deadline.; Your team will be allocated a timeslot during week 13 to make your presentation. The presentations may take place during a lecture, practical, case study contact timeslot, or other specially scheduled session. You may request your team's presentation be scheduled to avoid particular sessions, to accommodate known circumstances. This request must be made to the course coordinator by the end of; week 10; .",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Participation/ Student contribution, Product/ Design, Project",
+      "title": "Delivering Quality Attributes Project",
+      "weight": "30%",
+      "due_date": "8/06/2026 3:00 pm",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "Team or group-based"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Cloud Infrastructure Assignment",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Computer Code, Project",
+      "weight": "40%",
+      "due_date": "API Functionality 27/03/2026 3:00 pm Deployed to Cloud 13/04/2026 3:00 pm Scalable Application 1/05/2026 3:00 pm Feedback is provided through automated tests. Students will be able to run the tests against their own code to obtain their feedback.",
+      "learning_outcomes_assessed": "L01, L04",
+      "task_description": "You will implement a software system to meet specified functional and non-functional requirements. The implementation will be deployed on cloud infrastructure and stress tested. You are required to design the system and select appropriate compute platforms to deliver specified requirements. This assessment is to be delivered in three stages. API Functionality – Implement the specified API and its functionality but only running on a local computer. Deployed to Cloud – Deploy your implementation of the API and its functionality to cloud infrastructure. Scalable Application – Implement scalability so that the system responds to load demands in an economic fashion. This exercise requires you to use cloud infrastructure from a specific provider. Credit will be available to complete the assignment on the provider's platform. Poor design choices may exceed your available credit. In some circumstances this may limit your maximum mark as you are not able to complete, or the teaching team is not able to assess, part of your assignment. The exercise is designed so that it can be completed well within your provided credit. Artificial Intelligence (AI) and Machine Translation (MT) AI and MT are emerging tools that may support you in completing this assessment task. You may appropriately use AI and/or MT in completing this assessment task. You must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct . You must include with your submission a file AI.md that indicates the AI and MT tools that you used and the extent of their use. Examples of how you could cite use of AI tools include: All code was written by providing Github Copilot with class descriptions and then revising the generated code. Classes A and B were produced by the following prompts to ChatGPT and were then adapted to work in the assignment's context. Read full task description Hide full task description",
+      "submission_guidelines": "Submission requirements will be provided in the assignment specification.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "ai_statement": "You will implement a software system to meet specified functional and non-functional requirements. The implementation will be deployed on cloud infrastructure and stress tested. You are required to design the system and select appropriate compute platforms to deliver specified requirements. This assessment is to be delivered in three stages. API Functionality – Implement the specified API and its functionality but only running on a local computer. Deployed to Cloud – Deploy your implementation of the API and its functionality to cloud infrastructure. Scalable Application – Implement scalability so that the system responds to load demands in an economic fashion. This exercise requires you to use cloud infrastructure from a specific provider. Credit will be available to complete the assignment on the provider's platform. Poor design choices may exceed your available credit. In some circumstances this may limit your maximum mark as you are not able to complete, or the teaching team is not able to assess, part of your assignment. The exercise is designed so that it can be completed well within your provided credit. Artificial Intelligence (AI) and Machine Translation (MT) AI and MT are emerging tools that may support you in completing this assessment task. You may appropriately use AI and/or MT in completing this assessment task. You must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct . You must include with your submission a file AI.md that indicates the AI and MT tools that you used and the extent of their use. Examples of how you could cite use of AI tools include: All code was written by providing Github Copilot with class descriptions and then revising the generated code. Classes A and B were produced by the following prompts to ChatGPT and were then adapted to work in the assignment's context. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT)\nAI and MT are emerging tools that may support you in completing this assessment task. You may appropriately use AI and/or MT in completing this assessment task. You must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct . You must include with your submission a file AI.md that indicates the AI and MT tools that you used and the extent of their use. Examples of how you could cite use of AI tools include:",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Architecture Presentation",
+      "mode": "Oral, Product/ Artefact/ Multimedia",
+      "category": "Presentation",
+      "weight": "30%",
+      "due_date": "25/05/2026 3:00 pm Your team must submit the slides that you will use for your presentation to the link provided on BlackBoard by the submission deadline. Your team will be allocated a timeslot during week 13 to make your presentation. The presentations may take place during a lecture, practical, case study contact timeslot, or other specially scheduled session. You may request your team's presentation be scheduled to avoid particular sessions, to accommodate known circumstances. This request must be made to the course coordinator by the end of week 10 .",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L05",
+      "task_description": "Your team will present the details of your Delivering Quality Attributes Project's software architecture. You will critique the architecture in terms of how suited it is to deliver your project's key quality attributes. You will also discuss security implications of your software architecture and design. You will describe alternative architectures that you considered and explain why they were not selected. Each team member must present part of the team's presentation. They must answer at least one of the key questions listed in the assessment specification. Each team member will be awarded an individual grade for the presentation. The result achieved by your presentation, before any penalty is applied, will be used to determine any cap on your final grade. Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst you may use AI and MT technologies, successful completion of assessment in this course will require you to critically engage in specific contexts and tasks for which AI will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct . You must indicate any text or diagrams that were produced with the assistance of AI tools. Use a footnote indicating which AI system was used. To pass this assessment you will be required to demonstrate detailed comprehension of the content of your slides, independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "The presentation is an identity verified assignment. You must make your presentation in-person, and you must provide evidence of your identity (i.e. valid UQ student card) at the start of your presentation session.\nIn accordance with UQ Assessment Policy, your presentation will be recorded.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions for groupwork are typically not available as this impacts on all members of the team.\nStudents with valid extension requests will be required to undertake alternative assessment.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nConsistent with industry practice around presentations to clients/industry partners, the 100% late penalty applies. This has been approved by the Associate Dean (Academic).\nPresentations that are not made at their scheduled time will be subject to a late penalty of 100%. There is no grace period.\nYou are required to make your presentation during scheduled timeslots. To fit all students into the limited time available, presentations are scheduled for a fixed time. Missing your scheduled time means that rescheduling may disadvantage other students. Consequently, arriving late for your presentation timeslot will result in your presentation not being marked, and you will not be able to obtain a passing grade in the course.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Your team will present the details of your Delivering Quality Attributes Project's software architecture. You will critique the architecture in terms of how suited it is to deliver your project's key quality attributes. You will also discuss security implications of your software architecture and design. You will describe alternative architectures that you considered and explain why they were not selected. Each team member must present part of the team's presentation. They must answer at least one of the key questions listed in the assessment specification. Each team member will be awarded an individual grade for the presentation. The result achieved by your presentation, before any penalty is applied, will be used to determine any cap on your final grade. Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst you may use AI and MT technologies, successful completion of assessment in this course will require you to critically engage in specific contexts and tasks for which AI will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct . You must indicate any text or diagrams that were produced with the assistance of AI tools. Use a footnote indicating which AI system was used. To pass this assessment you will be required to demonstrate detailed comprehension of the content of your slides, independent of AI and MT tools. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT)\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct . You must indicate any text or diagrams that were produced with the assistance of AI tools. Use a footnote indicating which AI system was used.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Delivering Quality Attributes Project",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Participation/ Student contribution, Product/ Design, Project",
+      "weight": "30%",
+      "due_date": "8/06/2026 3:00 pm",
+      "other_conditions": "Peer assessment factor. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "You will design and deliver an initial, releasable version of a software system. The delivered system must demonstrates how it delivers selected quality attributes. This is the development phase of the project. Project Development You will be formed into teams to deliver the project described in a nominated proposal. As a team you will design and document the software architecture, implement, test and deliver the software system, and write a report describing the software architecture, and how the design delivers the specified functional and non-functional requirements. Platform This project does not require you to use any specific cloud infrastructure. Part of your design process is to identify appropriate computing platforms to use as the physical architecture of your system. Credit will be available to use on a nominated platform (e.g. AWS). Limitations will be applied on the services available to avoid excess costs being accrued. If you need to use a cloud-based platform, your team will need to decide how to make use of any credit that you have available between all the team members. Poor design choices may exceed your available credit. In some circumstances this may limit your maximum mark if you are not able to complete, or the teaching team is not able to assess, part of your project. In other circumstances this may lead to you paying extra commercial fees to the platform provider. Paying for extra services to boost your project's performance in some way will not improve the final result you achieve on the project. Peer Assessment Peer assessment of the quality and quantity of each team member's contributions to this project may be used to adjust individual results. Peer assessments will be moderated by the teaching team and their observations of individual's contributions during contact sessions will also be used if individual results are adjusted. Individual grades for the project may be increased or decreased. Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst you may use AI and MT technologies, successful completion of assessment in this course will require you to critically engage in specific contexts and tasks for which AI will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct . You must include with your submission a file AI.md that indicates the AI and MT tools that you used and the extent of their use. (e.g. All code was written by providing copilot with class descriptions and then revising the generated code. Classes A and B were produced by the following prompts to ChatGPT and were then adapted to work in the assignment's context.) To pass this assessment you will be required to demonstrate detailed comprehension of your submitted project artefacts. Read full task description Hide full task description",
+      "submission_guidelines": "Submission will be via a git repository that will be provisioned for your team.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nExtensions for groupwork are typically not available as this impacts on all members of the team.\nHowever, if a team encounters extraordinary difficulties in meeting the submission deadline, they should contact the Course Coordinator well in advance of the due date.\nTeams will be asked to meet with the Course Coordinator. Be prepared to present your work, as it stands, at that meeting.\nThis course uses team-based assessment of a project developed with regular formative feedback in practical classes. All work on the project is to be continuously committed and pushed to a provisioned git repository, from the start of the project. Consequently, there should always be a submittable version of the project by the submission deadline.\nIf an extension is granted, it may result in the grades for this course not being available at grade release time, for all team members.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.\nBy default, the last commit that is pushed to the main branch of the provisioned git repository by the submission deadline will be marked.\nTeams wishing to make a late submission, must notify the teaching team by email to CSSE6400@eecs.uq.edu.au, prior to the submission deadline. This must include a PDF file that is a statement of your plan to submit late and which contains the signatures of all team members. This email must also CC every member of your team and the teaching staff of your practical class. After you commit and push your late submission, you must notify the teaching team by email to CSSE6400@eecs.uq.edu.au of the timestamp and hash code of the late submission.\nAlternatively, your team may nominate an earlier commit that was pushed to the main branch of the provisioned repository, to be marked rather than the latest commit. You must notify the teaching team by email to CSSE6400@eecs.uq.edu.au of the timestamp and hash code of the earlier commit. This notification must include a PDF file that is a statement of your wish for an earlier commit to be marked, and which contains the signatures of all team members. This email must also CC every member of your team and the teaching staff of your practical class. This request to mark an earlier commit must be received within one hour of the submission deadline (i.e. by 16:00 on 08/06/2026 ).\nIf a single team member does not agree to either a late submission or marking of an earlier commit, will result in the last commit pushed to the provisioned repository by the submission deadline being marked as the team submission.\nIf no work is available in the repository, the team will receive a grade of X for the project, indicating no work submitted.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "ai_statement": "You will design and deliver an initial, releasable version of a software system. The delivered system must demonstrates how it delivers selected quality attributes. This is the development phase of the project. Project Development You will be formed into teams to deliver the project described in a nominated proposal. As a team you will design and document the software architecture, implement, test and deliver the software system, and write a report describing the software architecture, and how the design delivers the specified functional and non-functional requirements. Platform This project does not require you to use any specific cloud infrastructure. Part of your design process is to identify appropriate computing platforms to use as the physical architecture of your system. Credit will be available to use on a nominated platform (e.g. AWS). Limitations will be applied on the services available to avoid excess costs being accrued. If you need to use a cloud-based platform, your team will need to decide how to make use of any credit that you have available between all the team members. Poor design choices may exceed your available credit. In some circumstances this may limit your maximum mark if you are not able to complete, or the teaching team is not able to assess, part of your project. In other circumstances this may lead to you paying extra commercial fees to the platform provider. Paying for extra services to boost your project's performance in some way will not improve the final result you achieve on the project. Peer Assessment Peer assessment of the quality and quantity of each team member's contributions to this project may be used to adjust individual results. Peer assessments will be moderated by the teaching team and their observations of individual's contributions during contact sessions will also be used if individual results are adjusted. Individual grades for the project may be increased or decreased. Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst you may use AI and MT technologies, successful completion of assessment in this course will require you to critically engage in specific contexts and tasks for which AI will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct . You must include with your submission a file AI.md that indicates the AI and MT tools that you used and the extent of their use. (e.g. All code was written by providing copilot with class descriptions and then revising the generated code. Classes A and B were produced by the following prompts to ChatGPT and were then adapted to work in the assignment's context.) To pass this assessment you will be required to demonstrate detailed comprehension of your submitted project artefacts. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT)\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct . You must include with your submission a file AI.md that indicates the AI and MT tools that you used and the extent of their use. (e.g. All code was written by providing copilot with class descriptions and then revising the generated code. Classes A and B were produced by the following prompts to ChatGPT and were then adapted to work in the assignment's context.)",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "Team or group-based"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 12",
+      "activity_type": "Lecture",
+      "topic": "Lecture Series The lectures, including guest lectures, introduce the theory relevant to designing software architectures. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 12",
+      "activity_type": "Practical",
+      "topic": "Practical Computer Exercises The first part of semester will introduce technology to build complex, scalable systems. The remainder of the semester will be dedicated to project work. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 10",
+      "activity_type": "Case-based learning",
+      "topic": "Case Study Series Each week we will explore software architecture options to implement different systems. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Applied Class",
+      "topic": "Architecture Presentation Your team will be allocated a timeslot during week 13 to make your presentation. The presentation may take place during a lecture, practical, case study contact timeslot, or other specially scheduled session. Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

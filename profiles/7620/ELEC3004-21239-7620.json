@@ -1,0 +1,216 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ELEC3004-21239-7620",
+  "scraped_at": "2026-06-02T04:27:40.862215+00:00",
+  "course_code": "ELEC3004",
+  "class_code": "21239",
+  "semester_code": "7620",
+  "full_course_code": "ELEC3004-21239-7620",
+  "course_title": "Signals, Systems & Control",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Discrete-time signals and systems, system properties (linearity, time-invariance, memory, causality, stability), sampling and reconstruction, A/D and D/A converters, DFT/FFT, z transform, stochastic processes, frequency-selective filters, effect of feedback, introduction to control.\n\nThis course covers the fundamental theory and practiceﾠof signal processing, systems analysis and control. It is about seeing a system and a signal for what it is -- information in motion.\n\nSome of the topics touched by the class include: Linear algebra, a mathematical perspective on signals (singularity functions, complex exponentials and geometrics), system properties (linearity, time-invariance, memory, causality, stability), Fourier representations, Laplace and Z transforms, sampling & reconstruction, A/D and D/A converters, DFT/FFT, stochastic processes, filters, representations of linear, time-invariant systems (difference and differential equations, block diagrams, system functions, poles and zeros, convolution, impulse and step responses, frequency responses), the effects of feedback, and an introduction to discrete digital control. Applications are drawn broadly from engineering, including feedback and control, signal processing and computer science (e.g. computer vision, computer graphics and robotics).\n\nCourse Changes in Response to Previous Student Feedback\n\nCourse material has been reworked to deal with the three components of signals, systems and control in a cohesive manner and with an emphasis on discrete-time, digital signals and systems.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ELEC2004",
+      "STAT2201",
+      "STAT2202",
+      "MATH2000",
+      "MATH2001",
+      "MATH2901"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ELEC3600",
+      "ELEC7312",
+      "ELEC7601"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Jen Jen Chung",
+      "email": "ELEC3004@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Jen Jen Chung"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Alina Bialkowski"
+    },
+    {
+      "role": "Guest lecturer",
+      "name": "Dr Lucas Carvalho de Lima"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course covers the modelling, analysis, and design of linear systems with an emphasis on their discrete-time, digital implementations. The course aims are as follows:\n\n- At the end of this course, students should acquire the skills to apply concepts of linear signals and systems theory including singularity functions, complex exponentials and geometrics, system properties (linearity, time-invariance, memory, causality, stability), Fourier representations, Laplace and Z transforms, sampling & reconstruction, A/D and D/A converters, DFT/FFT, stochastic processes, filters, representations of linear, time-invariant systems (difference and differential equations, block diagrams, system functions, poles and zeros, convolution, impulse and step responses, frequency responses),\n\n- Students should have the ability to design and analyse linear dynamic systems using discrete-time (and continuous-time) control theory.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Demonstrate the role of the Fourier, Laplace and z-transforms, poles and zeros in the analysis of continuous-time and discrete-time signals and systems."
+    },
+    {
+      "number": "LO2.",
+      "description": "Evaluate Laplace and z-transforms and their inverses and be able to use them to solve differential and difference equations"
+    },
+    {
+      "number": "LO3.",
+      "description": "Explain the Nyquist sampling theorem and its implications in signal and image processing systems"
+    },
+    {
+      "number": "LO4.",
+      "description": "Analyse the concepts of amplitude distortion, phase distortion and group delay in filters"
+    },
+    {
+      "number": "LO5.",
+      "description": "Design continuous-time and discrete-time filters"
+    },
+    {
+      "number": "LO6.",
+      "description": "Explain the computational benefits of the Laplace and Fourier transforms in system characterisation."
+    },
+    {
+      "number": "LO7.",
+      "description": "Outline the architectural features necessary for digital signal processors and obtain hands-on experience with DSP programming."
+    },
+    {
+      "number": "LO8.",
+      "description": "Apply and explain the basics of linear control, stability and controller design"
+    },
+    {
+      "number": "LO9.",
+      "description": "Analyse system stability via root loci and bode plots"
+    },
+    {
+      "number": "LO10.",
+      "description": "Design analogue and digital controllers and compensators"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Problem Set 1",
+      "weight": "20%",
+      "due_date": "2/04/2026 4:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Problem Set 2",
+      "weight": "20%",
+      "due_date": "1/05/2026 4:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Problem Set 3",
+      "weight": "20%",
+      "due_date": "29/05/2026 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Problem Set 1",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "2/04/2026 4:00 pm",
+      "task_description": "Exercises on Systems, Signals and Controls (in general), with an emphasis on Signals & Systems Please submit via Blackboard. No hand-written solutions. No scanned copies of hand-written solutions. Answers must be typed. Submissions that do not follow these instructions will be awarded a mark of zero. This task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and/or Machine Translation (MT) technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Exercises on Systems, Signals and Controls (in general), with an emphasis on Signals & Systems Please submit via Blackboard. No hand-written solutions. No scanned copies of hand-written solutions. Answers must be typed. Submissions that do not follow these instructions will be awarded a mark of zero. This task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and/or Machine Translation (MT) technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and/or Machine Translation (MT) technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Problem Set 2",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "1/05/2026 4:00 pm",
+      "task_description": "Exercises on Systems, Signals and Controls (in general), with an emphasis on Signals/Filters. May include material (including experimental results) from Lab 1 or 2. Please submit via Blackboard. No hand-written solutions. No scanned copies of hand-written solutions. Answers must be typed. Submissions that do not follow these instructions will be awarded a mark of zero. Due by 1 May 16:00 AEST. This task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and/or Machine Translation (MT) technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Exercises on Systems, Signals and Controls (in general), with an emphasis on Signals/Filters. May include material (including experimental results) from Lab 1 or 2. Please submit via Blackboard. No hand-written solutions. No scanned copies of hand-written solutions. Answers must be typed. Submissions that do not follow these instructions will be awarded a mark of zero. Due by 1 May 16:00 AEST. This task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and/or Machine Translation (MT) technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and/or Machine Translation (MT) technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Problem Set 3",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "29/05/2026 4:00 pm",
+      "task_description": "Exercises on Systems, Signals and Controls (in general), with an emphasis on Controls May include material (including experimental results) from Labs 1-4. Please submit via Blackboard. No hand-written solutions. No scanned copies of hand-written solutions. Answers must be typed. Submissions that do not follow these instructions will be awarded a mark of zero. Due by 29 May 16:00 AEST. This task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and/or Machine Translation (MT) technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Exercises on Systems, Signals and Controls (in general), with an emphasis on Controls May include material (including experimental results) from Labs 1-4. Please submit via Blackboard. No hand-written solutions. No scanned copies of hand-written solutions. Answers must be typed. Submissions that do not follow these instructions will be awarded a mark of zero. Due by 29 May 16:00 AEST. This task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and/or Machine Translation (MT) technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and/or Machine Translation (MT) technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "task_description": "A three-hour final examination will be held during the final examination period. This will be an on-campus, invigilated and closed-book exam. You may bring one (1) two-sided A4 sheet of handwritten (not typed) formulae at the time of the exam, this can include notes that are handwritten in a digital format and printed out. A sheet that does not meet these requirements will NOT be permitted. Calculators must be UQ approved (and labelled if not Casio fx-82). This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 180 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials one (1) two-sided A4 sheet of handwritten (not typed) formulae Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "A three-hour final examination will be held during the final examination period. This will be an on-campus, invigilated and closed-book exam. You may bring one (1) two-sided A4 sheet of handwritten (not typed) formulae at the time of the exam, this can include notes that are handwritten in a digital format and printed out. A sheet that does not meet these requirements will NOT be permitted. Calculators must be UQ approved (and labelled if not Casio fx-82). This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (23 Feb - 01 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Introduction to Signals, Systems and Control Introduction to the course and to the basic mathematical concepts."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 8 (02 Mar - 26 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Signals & Systems The course material for the signals and systems module of the course. This includes signal representation, sampling theory, Fourier etc. transforms, filtering, and discrete systems analysis."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (02 Mar - 31 May)",
+      "activity_type": "Practical",
+      "topic": "Practical Sessions There will be practical sessions each week from week 2 to week 13. The practical sessions will involve working through problem sheet exercises with teaching staff available to provide example solutions and feedback. In weeks 3, 5, 10 and 12, students will work through hands-on lab exercises and activities for which they will receive feedback from the teaching staff in class."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 8 To Week 13 (20 Apr - 31 May)",
+      "activity_type": "Lecture",
+      "topic": "Control Course material on the control module is presented. This includes analogue and digital control design, design processes and practical digital control."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . You'll also need to be aware of the following policies and procedures while completing this course: Occupational Health and Safety in the Laboratory Guideline School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

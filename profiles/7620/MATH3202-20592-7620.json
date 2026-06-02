@@ -1,0 +1,251 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH3202-20592-7620",
+  "scraped_at": "2026-06-02T04:32:34.162260+00:00",
+  "course_code": "MATH3202",
+  "class_code": "20592",
+  "semester_code": "7620",
+  "full_course_code": "MATH3202-20592-7620",
+  "course_title": "Operations Research & Mathematical Planning",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Techniques and applications of optimisation in operations research, including linear programming, integer programming, dynamic programming and meta-heuristics. Use of Python and the Gurobi optimisation package for linear and integer programming.\n\nOperations research is the mathematical science of decision making. It provides ways to find the best outcomes subject to the constraints of limited resources. This course covers key mathematical and computational techniques in the area. It develops skills in modelling and solving real problems, using appropriate software, and report writing. Topics discussed include linear programming, integer programming, dynamic programming and meta-heuristics.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1051",
+      "MATH1071",
+      "MATH1052",
+      "MATH1072"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH7232"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Michael Bulmer",
+      "email": "m.bulmer@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Michael Bulmer",
+      "email": "m.bulmer@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Michael Forbes",
+      "email": "m.forbes@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLectures start in Week 1 and Applied Classes start in Week 2. Consult your personal timetable for times and locations.\nLectures and Applied Classes will all be recorded.",
+  "course_aims": "The aim of MATH3202 is to give students the necessary background and practical experience to solve real problems in operations research and optimisation.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Formulate practical contexts as mathematical optimisation problems."
+    },
+    {
+      "number": "LO2.",
+      "description": "Understand a range of optimisation methods and be able to select a suitable method to solve a particular problem."
+    },
+    {
+      "number": "LO3.",
+      "description": "Confidently use software to implement an optimisation model and obtain solutions."
+    },
+    {
+      "number": "LO4.",
+      "description": "Communicate a solution to an appropriate audience in terms of the original problem description."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Presentation, Project",
+      "title": "Assignments",
+      "weight": "50%",
+      "due_date": "Assignment 1 26/03/2026 4:00 pm; Assignment 2 30/04/2026 4:00 pm; Assignment 3 28/05/2026 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignments",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Presentation, Project",
+      "weight": "50%",
+      "due_date": "Assignment 1 26/03/2026 4:00 pm Assignment 2 30/04/2026 4:00 pm Assignment 3 28/05/2026 4:00 pm",
+      "task_description": "During semester you will take on the role of an operations research consultant and respond to a series of fifteen communications from a client, split into three components of five each. You will write up a report for each set of five communications as three assignment tasks. Assignment 1 (10%) will focus on modeling problems using Linear Programming, Assignment 2 (20%) will focus on Integer Programming, and Assignment 3 (20%) will focus on Dynamic Programming. Assignments 1 and 2 will involve written reports to the client while in Assignment 3 you will give them a video presentation of your recommendations. Each assignment will also require a technical report for your boss. The assignments can be completed individually or in a group of up to three. If working in a group, you will submit a single group submission and all members of the group will receive the same grade for the assignment. Groups can be different for the three assignments. Read full task description Hide full task description",
+      "submission_guidelines": "Submit your assignment via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nDiscretionary extensions are not available for this assessment task, even if completed individually.\nSee ADDITIONAL ASSESSMENT INFORMATION for further extension/deferral information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "End of Semester Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "task_description": "The End of Semester Exam will be held during the end-of-semester examination period. It will be an in-person exam held on campus. The exam will involve theoretical and applied modelling questions related to the course. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Open book examination - any written or printed material is permitted; material may be annotated Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (23 Feb - 01 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Linear Programming Introduction to Linear Programming (LP) models and graphical solutions"
+    },
+    {
+      "learning_period": "Week 2 (02 Mar - 08 Mar)",
+      "activity_type": "Applied Class",
+      "topic": "The Cost of Subsistence Introduction to Python and Gurobi for modelling LP problems and finding solutions"
+    },
+    {
+      "learning_period": "Week 2 (02 Mar - 08 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Solving LP Problems Revised simplex method for solving LP problems"
+    },
+    {
+      "learning_period": "Week 3 (09 Mar - 15 Mar)",
+      "activity_type": "Applied Class",
+      "topic": "Electricity Network Modelling flow of electricity in a network"
+    },
+    {
+      "learning_period": "Week 3 (09 Mar - 15 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Duality Applications of the revised simplex method; Duality theory and sensitivity analysis"
+    },
+    {
+      "learning_period": "Week 4 (16 Mar - 22 Mar)",
+      "activity_type": "Applied Class",
+      "topic": "Oil Blending Modelling a blending problem with future purchases, production schedules and inventory"
+    },
+    {
+      "learning_period": "Week 4 (16 Mar - 22 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Integer Programming Introduction to Integer Programming (IP); Branch-and-bound solutions of IP problems"
+    },
+    {
+      "learning_period": "Week 5 (23 Mar - 29 Mar)",
+      "activity_type": "Applied Class",
+      "topic": "Portfolio Optimisation Develop an LP model to help decide how to invest funds in a range of financial products"
+    },
+    {
+      "learning_period": "Week 5 (23 Mar - 29 Mar)",
+      "activity_type": "Lecture",
+      "topic": "IP Modelling Set covering; Assignment problems; Noughts and crosses; Piecewise functions"
+    },
+    {
+      "learning_period": "Week 6 (30 Mar - 05 Apr)",
+      "activity_type": "Applied Class",
+      "topic": "Factory Planning Develop a production plan and maintenance schedule for a factory using an IP model"
+    },
+    {
+      "learning_period": "Week 6 (30 Mar - 05 Apr)",
+      "activity_type": "Lecture",
+      "topic": "IP Modelling Sudoku; Minimax"
+    },
+    {
+      "learning_period": "Week 7 (13 Apr - 19 Apr)",
+      "activity_type": "Applied Class",
+      "topic": "Heist Puzzle Solve the \"Heist\" puzzle using an IP model"
+    },
+    {
+      "learning_period": "Week 7 (13 Apr - 19 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Network Models Network flow models; Tables and chairs"
+    },
+    {
+      "learning_period": "Week 8 (20 Apr - 26 Apr)",
+      "activity_type": "Applied Class",
+      "topic": "Modelling Scenarios"
+    },
+    {
+      "learning_period": "Week 8 (20 Apr - 26 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Dynamic Programming Introduction to Dynamic Programming (DP) and recursive functions"
+    },
+    {
+      "learning_period": "Week 9 (27 Apr - 03 May)",
+      "activity_type": "Applied Class",
+      "topic": "DP Models in Python Introduction to recursive functions in Python and the solution of DP models; Memoization."
+    },
+    {
+      "learning_period": "Week 9 (27 Apr - 03 May)",
+      "activity_type": "Lecture",
+      "topic": "Stochastic Dynamic Programming Introduction to Stochastic Dynamic Programming (SDP)"
+    },
+    {
+      "learning_period": "Week 10 (04 May - 10 May)",
+      "activity_type": "Applied Class",
+      "topic": "Further DP Models in Python Network models; nonlinear objectives; stochastic problems"
+    },
+    {
+      "learning_period": "Week 10 (04 May - 10 May)",
+      "activity_type": "Lecture",
+      "topic": "DP Case Studies Web building; Optimising the family drive"
+    },
+    {
+      "learning_period": "Week 11 (11 May - 17 May)",
+      "activity_type": "Applied Class",
+      "topic": "Travelling Artist Problem Use DP models to find the optimal tour for an artist with and without a stochastic component"
+    },
+    {
+      "learning_period": "Week 11 (11 May - 17 May)",
+      "activity_type": "Lecture",
+      "topic": "Case Studies in Operations Research"
+    },
+    {
+      "learning_period": "Week 12 (18 May - 24 May)",
+      "activity_type": "Applied Class",
+      "topic": "Bird Song Develop an SDP model to provide an optimal strategy for a song bird over the course of a day"
+    },
+    {
+      "learning_period": "Week 12 (18 May - 24 May)",
+      "activity_type": "Lecture",
+      "topic": "Metaheuristics Introduction to genetic algorithms and simulated annealing; No Free Lunch theorem"
+    },
+    {
+      "learning_period": "Week 13 (25 May - 31 May)",
+      "activity_type": "Applied Class",
+      "topic": "Optimal Keyboard Layout Develop a simulated annealing algorithm to determine the optimal layout of keys on a keyboard"
+    },
+    {
+      "learning_period": "Week 13 (25 May - 31 May)",
+      "activity_type": "Lecture",
+      "topic": "Exam Revision"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

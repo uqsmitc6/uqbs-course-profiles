@@ -1,0 +1,231 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE3010-21195-7620",
+  "scraped_at": "2026-06-02T04:24:06.018715+00:00",
+  "course_code": "CSSE3010",
+  "class_code": "21195",
+  "semester_code": "7620",
+  "full_course_code": "CSSE3010-21195-7620",
+  "course_title": "Embedded Systems Design & Interfacing",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Microcontroller system hardware and software. C programming for embedded microcontroller and peripheral devices. Principles and practice of using Embedded RTOS (Real Time Operating System) and peripheral devices such as sensors and actuators to build a small embedded system. Peripheral interfacing methods and standards. Analog-digital conversion methods and interfacing. Basics of digital communication signals, modulation schemes and error correction methods. Data compression, formats for audio, image and video coding.\n\nCSSE3010 introduces students to concepts, methods, and techniques in developing embedded real-time systems. The required prerequisite knowledge should be gained in CSSE2010 and CSSE2310 courses. This course aims to provide students with the theoretical basis and practical skills in using microcontrollers with Real Time Operating Systems (RTOS). A 32-bit platform is used throughout the course, with all development using the C language and a real-time operating system. Since most modern embedded systems communicate with other computer-based systems, the basics of data communication are covered and extensively applied in the project.\n\nCSSE3010 covers:\n\nWe have added the applied classes based on previous student feedback.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE2010",
+      "CSSE2310"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "CSSE4001",
+      "CSSE7003",
+      "CSSE7301"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Matthew D'Souza",
+      "email": "CSSE3010@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Matthew D'Souza"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Jihui (Aimee) Zhang"
+    },
+    {
+      "role": "Guest lecturer",
+      "name": "Associate Professor Konstanty Bialkowski"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The course aims at providing a theoretical background and practical skills in design and implementation of embedded systems with microcontrollers.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Implement real-world solutions using the design principles of embedded systems and system interfacing"
+    },
+    {
+      "number": "LO2.",
+      "description": "Use the principles of data encoding to implement robust communication channels"
+    },
+    {
+      "number": "LO3.",
+      "description": "Analyse an embedded system's performance and infer potential problems"
+    },
+    {
+      "number": "LO4.",
+      "description": "Maximise the performance and efficiency of an embedded system design implementation"
+    },
+    {
+      "number": "LO5.",
+      "description": "Build and test software library sub-modules and hardware sub-modules for embedded systems"
+    },
+    {
+      "number": "LO6.",
+      "description": "Employ a real-time operating system with bare metal C programming libraries to develop functional embedded systems."
+    },
+    {
+      "number": "LO7.",
+      "description": "List the technology and design methods used in real-world engineering."
+    },
+    {
+      "number": "LO8.",
+      "description": "Illustrate and outline the details of your embedded systems designs."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Notebook/ Logbook, Practical/ Demonstration",
+      "title": "Stages Assessment",
+      "weight": "30%",
+      "due_date": "Stage 0: 25/02/2026 - 26/02/2026; Stage 1: 4/03/2026 - 5/03/2026; Stage 2: 11/03/2026 - 12/03/2026; Stage 3: 18/03/2026 - 19/03/2026; Stage 4: 25/03/2026 - 26/03/2026; Stage 5: 1/04/2026 - 2/04/2026; Stage 6: 15/04/2026 - 16/04/2026; Stage 7: 22/04/2026 - 23/04/2026; All stated dates and times are AEST",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Notebook/ Logbook, Practical/ Demonstration, Project",
+      "title": "Project Milestone",
+      "weight": "5%",
+      "due_date": "5/05/2026 1:00 pm; All stated dates and times are AEST",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Practical/ Demonstration, Project",
+      "title": "Project",
+      "weight": "30%",
+      "due_date": "25/05/2026 1:00 pm; All stated dates and times are AEST",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "35%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Stages Assessment",
+      "mode": "Activity/ Performance, Product/ Artefact/ Multimedia",
+      "category": "Computer Code, Paper/ Report/ Annotation, Notebook/ Logbook, Practical/ Demonstration",
+      "weight": "30%",
+      "due_date": "Stage 0: 25/02/2026 - 26/02/2026 Stage 1: 4/03/2026 - 5/03/2026 Stage 2: 11/03/2026 - 12/03/2026 Stage 3: 18/03/2026 - 19/03/2026 Stage 4: 25/03/2026 - 26/03/2026 Stage 5: 1/04/2026 - 2/04/2026 Stage 6: 15/04/2026 - 16/04/2026 Stage 7: 22/04/2026 - 23/04/2026 All stated dates and times are AEST",
+      "other_conditions": "Secure. See the conditions definitions",
+      "task_description": "All stage specifications are available on Blackboard. There are seven assessed stages (Stages 1 to 7) and one non-assessed stage (Stage 0). Stages 1 to 7 are worth 6% each. Stage 0 is not assessed. The total mark is calculated as the sum of the five highest stage marks. For each prac session, the first 2 hours are for working on the stage and the last hour is for marking and feedback. Demonstration (in-person) The stage must be demonstrated (in person) at the end of the first 2 hours of your assigned prac session, in the same week as the stage is due. Failure to demonstrate your stage will result in no marks being recorded for the demonstration, Blackboard submission, or code. Report Each stage requires a report to be completed and submitted at the end of the first 2 hours of your assigned prac session, in the same week as the stage is due. The report paper booklet must be submitted by giving it to the assessing teaching staff member in the prac venue (lab). The report paper booklet must not be removed by the student from the prac venue. Use of AI This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission, independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Stage code must be submitted to the code repository at the end of the first two hours of your prac session, using git push. Code submissions made with only git commit will not be accepted. You must demonstrate your stage at the end of the first two hours of your prac session. The report paper booklet must also be submitted at the end of the first two hours of your prac session. The report paper booklet must be submitted by giving it to the assessing teaching staff member in the prac venue (lab). The report paper booklet must not be removed by the student from the prac venue.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nAs time is provided within the practical class to complete all work, no extensions are permitted. The total mark is calculated as the sum of the five highest stage marks (out of seven).\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nAs time is provided within the practical class to complete all work, no late submissions will be accepted and a 100% late penalty applies.\nThis has been approved by the Associate Dean (Academic)",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "All stage specifications are available on Blackboard. There are seven assessed stages (Stages 1 to 7) and one non-assessed stage (Stage 0). Stages 1 to 7 are worth 6% each. Stage 0 is not assessed. The total mark is calculated as the sum of the five highest stage marks. For each prac session, the first 2 hours are for working on the stage and the last hour is for marking and feedback. Demonstration (in-person) The stage must be demonstrated (in person) at the end of the first 2 hours of your assigned prac session, in the same week as the stage is due. Failure to demonstrate your stage will result in no marks being recorded for the demonstration, Blackboard submission, or code. Report Each stage requires a report to be completed and submitted at the end of the first 2 hours of your assigned prac session, in the same week as the stage is due. The report paper booklet must be submitted by giving it to the assessing teaching staff member in the prac venue (lab). The report paper booklet must not be removed by the student from the prac venue. Use of AI This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission, independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Project Milestone",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Notebook/ Logbook, Practical/ Demonstration, Project",
+      "weight": "5%",
+      "due_date": "5/05/2026 1:00 pm All stated dates and times are AEST",
+      "task_description": "Project Milestone - as specified in the Project sheet, available on Blackboard. Diagrams must be submitted to Blackboard by the due date and time. Demonstration (in-person) - your lab session You must attend your session in the due week to do your demo. Failure to demonstrate your milestone will result in no marks being recorded. Use of AI This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission, independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "All project milestone code must be submitted to the code repository by the due date. The diagrams must be submitted to Blackboard by the due date. Code must be submitted to the code repository by the due date, using git push. Code submissions made with only git commit, will not be accepted. Demonstrations are completed in your assigned prac.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within 14 days. Milestone feedback is required for the final project submission and final exam.\nIf you have an approved extension, you must post a private note on the ED Discussion Board, using the EXTENSION tag, when your code has been uploaded to your repository. A staff member will respond to your note to state when your demo will be assessed.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou must post a private note on the ED Discussion Board, using the LATE tag, when your code has been uploaded to your repository. A staff member will respond to your note to state when your demo will be assessed.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Project Milestone - as specified in the Project sheet, available on Blackboard. Diagrams must be submitted to Blackboard by the due date and time. Demonstration (in-person) - your lab session You must attend your session in the due week to do your demo. Failure to demonstrate your milestone will result in no marks being recorded. Use of AI This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission, independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Project",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Practical/ Demonstration, Project",
+      "weight": "30%",
+      "due_date": "25/05/2026 1:00 pm All stated dates and times are AEST",
+      "task_description": "The project is specified in the Project sheet available on Blackboard. The project code repository and blackboard upload must be submitted by due date and time. Demonstration (in-person) - your prac session You must attend your session in the due week to do your demo. Failure to demonstrate your project will result in no marks being recorded. Use of AI This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission, independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "All project code must be submitted to the code repository by the due date. All diagrams and other assessment must be submitted to BlackBoard. Code must be submitted to the code repository by the due date, using git push. Code submissions made with only git commit, will not be accepted.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within 14 days. Project feedback is required for the final exam.\nIf you have an approved extension, you must post a private note on the ED Discussion Board, using the EXTENSION tag, when your code has been uploaded to your repository. A staff member will respond to your note to state when your demo will be assessed.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou must post a private note on the ED Discussion Board, using the LATE tag, when your code has been uploaded to your repository. A staff member will respond to your note to state when your demo will be assessed.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The project is specified in the Project sheet available on Blackboard. The project code repository and blackboard upload must be submitted by due date and time. Demonstration (in-person) - your prac session You must attend your session in the due week to do your demo. Failure to demonstrate your project will result in no marks being recorded. Use of AI This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission, independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "35%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "task_description": "The final exam assesses all aspects of the course. Use of AI This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The final exam assesses all aspects of the course. Use of AI This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 12 (23 Feb - 24 May)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Lectures cover topics in embedded system design, interfacing, realtime operating systems and communications. The lectures are synchronised, as much as possible, with topics covered in the pracs and project."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 11 (23 Feb - 17 May)",
+      "activity_type": "Applied Class",
+      "topic": "Weekly Applied Class The weekly applied class session will present content related to the stages and revise lecture material through revision questions."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 8 (23 Feb - 26 Apr)",
+      "activity_type": "Practical",
+      "topic": "Project Stage Sessions Weekly laboratory development, consultation and feedback sessions with tasks specified according to the project stages. Software modules developed in these sessions are to be reused and integrated in the project."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 9 To Week 13 (27 Apr - 31 May)",
+      "activity_type": "Practical",
+      "topic": "Project The Project covers embedded system interfacing and realtime operating system (RTOS) development. The project is an integration of software modules developed in the stage sessions. Project specification is published on blackboard before the start of the project."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

@@ -1,0 +1,254 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ELEC2400-20418-7620",
+  "scraped_at": "2026-06-02T04:27:40.129650+00:00",
+  "course_code": "ELEC2400",
+  "class_code": "20418",
+  "semester_code": "7620",
+  "full_course_code": "ELEC2400-20418-7620",
+  "course_title": "Electronic Devices and Circuits",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Physical models of semiconductor devices. Analysis and design of common electronic circuits using discrete semiconductor devices and operational amplifiers. Examples of use in analysis & design of amplifiers, analogue signal conditioning, filters and other circuits.\n\nELEC2400 focuses on the analysis and design of electronic circuits. By the end of the course, students will be able to comprehensively analyse and design circuits using discrete semiconductors such as BJTs and FETs, as well as operational amplifiers.\n\nThe course applies a range of analytical techniques for modelling, analysing, and designing electronic circuits, including:\n\nThese techniques are applied to the design and analysis of amplifiers and other analogue circuits. Students are expected to demonstrate their understanding through theoretical work and formal laboratory experiments.\n\nBased on previous student feedback, the course structure has been refined into progressive modules to support learning, and an online self-paced tutorial on fundamental circuit concepts is provided.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ENGG1300",
+      "MATH1051",
+      "MATH1071",
+      "MATH1052",
+      "MATH1072"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ELEC3400"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Hui Ma",
+      "email": "ELEC2400@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Hui Ma"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Jihui (Aimee) Zhang"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "Theﾠaim of this course is to provide students with a thorough background in the principles of analogue electronic circuit analysis and design. Students completing this course will be able to analyse, model, design and build circuits using discrete components (i.e. transistors) and analogue integrated circuits (i.e. op-amps). Students will be able to recognise the application of analoge electronics to other engineering disciplines, and to be able to apply their skills to multidisciplinary problems.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Use analytical tools such as the application of Ohm's law (nodal analysis, mesh analysis, Norton and Thvenin Equivalent circuits) to analyse complex circuits containing passive components (resistors, capacitors, inductors) and dependent and independent sources."
+    },
+    {
+      "number": "LO2.",
+      "description": "Apply amplifier models to model the behavior of arbitrary circuits."
+    },
+    {
+      "number": "LO3.",
+      "description": "Apply electronic circuit models of active electronic devices such as diodes, transistors (BJTs, FETs) and operational amplifiers to analyse and model the properties and behavior of single stage amplifier circuits."
+    },
+    {
+      "number": "LO4.",
+      "description": "Use a systems approach to analyse and synthesise a complex multi-stage electronic circuit (i.e. the internal circuitry of a simple op-amp). In particular, students should be able to \"break the circuit down\" into stages; model each stage using appropriate circuit analysis techniques (both large signal and small signal behavior); And using the models for each circuit stage, predict the behavior of the entire circuit."
+    },
+    {
+      "number": "LO5.",
+      "description": "Apply a systems approach and frequency domain analysis techniques to predict the frequency response of amplifier circuits."
+    },
+    {
+      "number": "LO6.",
+      "description": "Use computerized models of electronics (including: circuit simulation package's such as CircuitLab; MATLAB) in analyzing and synthesizing electronic circuits. Students should be able to explain the limitations of such packages both in general, and in the context of a specific problem."
+    },
+    {
+      "number": "LO7.",
+      "description": "Apply the engineering design process to develop analogue electronic circuits which address/solve some problem (typically starting from a given set of broad, general specifications). The specifications may originate from a multi-disciplinary, real world application."
+    },
+    {
+      "number": "LO8.",
+      "description": "Build, test, optimize and document practical implementations of analogue electronic circuits such as multistage amplifiers."
+    },
+    {
+      "number": "LO9.",
+      "description": "Effectively collaborate within a group and communicate the design, development and critical analysis of an electronics design project using oral communication, written communication and appropriate engineering drawing."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Prac Reports during Lab sessions",
+      "weight": "25%",
+      "due_date": "Week 2 - Week 3; Week 4 - Week 5; Week 6 - Week 7; Week 8 - Week 9; Week 10 - Week 11; During the lab/prac session.; Venue: 47-401",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Tutorial Exercise Submission 1",
+      "weight": "15%",
+      "due_date": "17/04/2026 4:00 pm; More information will be available through Blackboard."
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Tutorial Exercise Submission 2",
+      "weight": "10%",
+      "due_date": "22/05/2026 4:00 pm; More information will be available through Blackboard."
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Prac Reports during Lab sessions",
+      "mode": "Activity/ Performance, Written",
+      "category": "Practical/ Demonstration",
+      "weight": "25%",
+      "due_date": "Week 2 - Week 3 Week 4 - Week 5 Week 6 - Week 7 Week 8 - Week 9 Week 10 - Week 11 During the lab/prac session. Venue: 47-401",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "task_description": "Laboratory/Practical Sessions Five lab sessions will be conducted from Week 2 during the semester. There are no regular lab sessions in Week 12 and Week 13. Marks are equally distributed among the five labs. Totalling 25 marks for this component. Requirements: Students must bring a hard copy of the lab worksheet and the breadboard. If pre-lab work is assigned, it must be completed before attending the session. Each session runs for 3 hours : First 2 hours: complete assigned work Last hour: feedback from course staff All lab work is assessed individually. Assessment: Performance will be evaluated based on: Completion of pre-lab questions Active participation and practical performance Completed lab worksheet with recorded results and discussion Lab sheets will be marked, and feedback provided at the end of each session. Good preparation is essential for success. Attendance Policy: Students cannot enter the lab more than 20 minutes after the start time . Student ID must be presented when submitting reports. Academic Integrity: This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Individual hardcopy submission during the lab session.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nAs time is provided within the practical class to complete all work, no extensions are permitted for submission of the report.\nIf you are unable to attend a scheduled lab session, you need to apply for an extension via my.UQ. If approved, makeup sessions will be conducted in Weeks 12 and 13. Due to logistical issues, up to a maximum of one week will be provided for rescheduling the labs.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nAs time is provided within the practical class to complete all work, no late submissions will be accepted and a 100% late penalty applies.\nThis has been approved by the Associate Dean (Academic).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Laboratory/Practical Sessions Five lab sessions will be conducted from Week 2 during the semester. There are no regular lab sessions in Week 12 and Week 13. Marks are equally distributed among the five labs. Totalling 25 marks for this component. Requirements: Students must bring a hard copy of the lab worksheet and the breadboard. If pre-lab work is assigned, it must be completed before attending the session. Each session runs for 3 hours : First 2 hours: complete assigned work Last hour: feedback from course staff All lab work is assessed individually. Assessment: Performance will be evaluated based on: Completion of pre-lab questions Active participation and practical performance Completed lab worksheet with recorded results and discussion Lab sheets will be marked, and feedback provided at the end of each session. Good preparation is essential for success. Attendance Policy: Students cannot enter the lab more than 20 minutes after the start time . Student ID must be presented when submitting reports. Academic Integrity: This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Tutorial Exercise Submission 1",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "15%",
+      "due_date": "17/04/2026 4:00 pm More information will be available through Blackboard.",
+      "task_description": "Tutorial Exercise 1 should be submitted by 4pm Friday, 17th April. Tutorial Exercise Submission questions will be available in the Blackboard in Week 6. Overall the submission will be worth 15 marks. The submissions are collected through Blackboard. The assignment problems will be a similar style and structure to those in the end of semester exam. Students are encouraged to make use of the help available during the applied classes, Ed discussion board and consultation time. Students are encouraged to discuss the tasks with peers and teaching staff. However, copying the solutions from another student/s or any other sources is not allowed and will be considered student misconduct. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Through Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Tutorial Exercise 1 should be submitted by 4pm Friday, 17th April. Tutorial Exercise Submission questions will be available in the Blackboard in Week 6. Overall the submission will be worth 15 marks. The submissions are collected through Blackboard. The assignment problems will be a similar style and structure to those in the end of semester exam. Students are encouraged to make use of the help available during the applied classes, Ed discussion board and consultation time. Students are encouraged to discuss the tasks with peers and teaching staff. However, copying the solutions from another student/s or any other sources is not allowed and will be considered student misconduct. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Tutorial Exercise Submission 2",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "10%",
+      "due_date": "22/05/2026 4:00 pm More information will be available through Blackboard.",
+      "task_description": "Tutorial Exercise 2 should be submitted by 4pm Friday, 22nd May. Assignment for submission will be available in the Blackboard in Week 10. Overall submission will be worth 10 marks. The submissions are collected through Blackboard. The assignment problems will be a similar style and structure to those in the end of semester exam. Students are encouraged to make use of the help available in the applied classes, discussion board and consultation time. Students are encouraged to discuss the tasks with peers and teaching staff. However, copying the solutions from another student/s or any other sources is not allowed and will be considered student misconduct. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Through the Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Tutorial Exercise 2 should be submitted by 4pm Friday, 22nd May. Assignment for submission will be available in the Blackboard in Week 10. Overall submission will be worth 10 marks. The submissions are collected through Blackboard. The assignment problems will be a similar style and structure to those in the end of semester exam. Students are encouraged to make use of the help available in the applied classes, discussion board and consultation time. Students are encouraged to discuss the tasks with peers and teaching staff. However, copying the solutions from another student/s or any other sources is not allowed and will be considered student misconduct. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End of Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "task_description": "The final exam will be invigilated closed book and will assess all materials taught in the course. The exam duration will be 120min. More information about the exam format will be discussed during the class time. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The final exam will be invigilated closed book and will assess all materials taught in the course. The exam duration will be 120min. More information about the exam format will be discussed during the class time. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (23 Feb - 01 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Course Introduction; Revision on Circuit Analysis Introducing course objectives.Teaching and discussions on directed reading and self-studies; Revision of selected areas of 'assumed knowledge'."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (02 Mar - 31 May)",
+      "activity_type": "Applied Class",
+      "topic": "Problem solving The problem solving will start from the second week and will continue throughout the semester. The problem sheets will be available through Blackboard."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (02 Mar - 31 May)",
+      "activity_type": "Practical",
+      "topic": "Laboratory modules The laboratory work in ELEC2400 is a series of five formal laboratory experiments consisting of (1) Diode Circuit; (2) Discrete BJT Amplifiers; (3) Multiple stage amplifiers; (4) Discrete FET Amplifiers; and (5) Instrumentation circuits. For more details please see the Blackboard course site. Make‑up sessions will be available in Week 12 and Week 13 for students with formally approved extensions."
+    },
+    {
+      "learning_period": "Week 2 (02 Mar - 08 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Diode Circuits Brief introduction of semiconductors, PN junction; diode circuit analysis."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 3 To Week 4 (09 Mar - 22 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Bipolar Junction Transistors Bipolar junction transistor operation in amplifier circuits; load-line technique; large-signal equivalent circuits; bias circuits; small-signal equivalent circuits; performance of several important amplifier configurations."
+    },
+    {
+      "learning_period": "Week 5 (23 Mar - 29 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Multi-stage Transistor Amplifier Gain stage and output stage of a multistage amplifier; analyze a simplified multistage bipolar amplifier."
+    },
+    {
+      "learning_period": "Week 6 (30 Mar - 05 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Amplifier Models; Amplifier Applications Basic concepts of amplifiers, Generic amplifier models, external specifications of amplifiers in selecting them for instrumentation application."
+    },
+    {
+      "learning_period": "Week 7 (13 Apr - 19 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Current Source Understand the purpose of current source in the context of integrated circuits; analyze the characteristics of bipolar circuits used to build current source."
+    },
+    {
+      "learning_period": "Week 8 (20 Apr - 26 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Discrete Differential Amplifiers Describe the characteristics and terminology of the ideal differential amplifier; conduct small signal analysis of Emitter Coupled Differential Pair"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 9 To Week 10 (27 Apr - 10 May)",
+      "activity_type": "Lecture",
+      "topic": "Field Effect Transistor Understand MOSFET operation; conduct MOSFET circuit analysis, Use the load-line technique to analyze basic FET amplifiers, Analyse bias circuits, Use small-signal equivalent circuits to analyse FET amplifiers."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 11 To Week 12 (11 May - 24 May)",
+      "activity_type": "Lecture",
+      "topic": "Operational Amplifier (Op-Amp) Operational Amplifier (Op-amp) circuit analysis and applications"
+    },
+    {
+      "learning_period": "Week 13 (25 May - 31 May)",
+      "activity_type": "Lecture",
+      "topic": "Revision Course revision and past exam papers discussions"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . You'll also need to be aware of the following policies and procedures while completing this course: Occupational Health and Safety in the Laboratory Guideline School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

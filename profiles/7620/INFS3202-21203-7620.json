@@ -1,0 +1,241 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/INFS3202-21203-7620",
+  "scraped_at": "2026-06-02T04:31:00.730011+00:00",
+  "course_code": "INFS3202",
+  "class_code": "21203",
+  "semester_code": "7620",
+  "full_course_code": "INFS3202-21203-7620",
+  "course_title": "Web Information Systems",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "This course is to introduce aspects of Web-based information systems (WIS). It has a focus on the latest technologies for WIS development. It covers concepts & fundamentals of WIS (Python based MVC frameworks, Databases, HTML, CSS), recent advances of server-side technologies (AJAX, Web Security, Web Search, Web Services), and current trends in WIS.\n\nStudents will learn about MVC frameworks and their importance in web development, design relational databases essential for data-driven sites, and explore cloud deployment techniques for scalable web and mobile applications. The course also includes practical training in server-side development and emphasises the development of responsive websites and mobile applications, ensuring an accessible and user-friendly experience across different devices.\n\nCourse Changes in Response to Previous Student Feedback:",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE1001",
+      "ENGG1001",
+      "INFS1200",
+      "DECO1400"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "INFS7202",
+      "This course is jointly-taught with:",
+      "INFS3202"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Aneesha Bakharia",
+      "email": "INFS3202@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Aneesha Bakharia"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nNote:\nApplied Classes begin in Week 2 (i.e.\nNo Applied Classes will be run in Week 1).",
+  "course_aims": "The primary aim of this course is to introduce aspects of Web-based information systems (WIS). It has a focus on the latest technologies for WIS development. It covers fundamental concepts of WIS and recent advances in server-side technologies. By taking this course, students are expected to be capable of building up sophisticated web systems including both frontend and backend functionalities.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Apply system architecture principles to design and deploy Web Information Systems (WIS) solutions."
+    },
+    {
+      "number": "LO2.",
+      "description": "Evaluate and articulate the scope, complexity, and key considerations in the design and implementation of Web Information Systems."
+    },
+    {
+      "number": "LO3.",
+      "description": "Design and program Web Information Systems (WIS) with server-side functionalities."
+    },
+    {
+      "number": "LO4.",
+      "description": "Develop responsive, accessible and secure Web-based, database-driven applications using efficient and effective technologies."
+    },
+    {
+      "number": "LO5.",
+      "description": "Evaluate and justify the suitability of Web Information Systems solutions in various contexts, considering factors such as user needs and technical constraints."
+    },
+    {
+      "number": "LO6.",
+      "description": "Critically analyze current issues and emerging trends in Web Information Systems development, and predict potential impacts on future practices and technologies."
+    },
+    {
+      "number": "LO7.",
+      "description": "Critically integrate AI into web applications, applying effective prompting strategies and principles of responsible AI."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Participation/ Student contribution, Quiz",
+      "title": "Weekly Activities",
+      "weight": "14%",
+      "due_date": "6/03/2026 - 22/05/2026; Due weekly at 5pm on Friday from Week 2 - 9, except in Week 6 where the due date is Thurs 2/4/25.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Project",
+      "title": "Design Document",
+      "weight": "18%",
+      "due_date": "14/04/2026 5:00 pm"
+    },
+    {
+      "category": "Computer Code, Project",
+      "title": "Web Project",
+      "weight": "24%",
+      "due_date": "15/05/2026 5:00 pm"
+    },
+    {
+      "category": "Computer Code, Practical/ Demonstration, Project",
+      "title": "Web Project Demonstration and Code Review",
+      "weight": "8%",
+      "due_date": "17/05/2026 - 22/05/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "36%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Weekly Activities",
+      "mode": "Written",
+      "category": "Computer Code, Participation/ Student contribution, Quiz",
+      "weight": "14%",
+      "due_date": "6/03/2026 - 22/05/2026 Due weekly at 5pm on Friday from Week 2 - 9, except in Week 6 where the due date is Thurs 2/4/25.",
+      "other_conditions": "Peer assessed. See the conditions definitions",
+      "learning_outcomes_assessed": "L03, L04, L05, L06, L07",
+      "task_description": "In the Weekly Activities assessment, students will regularly participate in a series of activities via the course Blackboard site. These activities will enable students to track their learning and receive regular feedback (prior to Census date) through regular quizzes with peer interaction. You will submit these deliverables: From Week 2 to Week 9 (i.e. 8 weeks), students will be participating in an online platform where they create, moderate and answer questions. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. Read full task description Hide full task description",
+      "submission_guidelines": "Submission details will be available via the assessment brief on Blackboard.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nBecause only the best 6 of 8 will contribute to the mark for this assessment item and results/answers are released soon after the due date, no extensions are permitted.\nIf you're unable to complete the required minimum 6 activities due to exceptional circumstances, please contact the School at studentenquiries@eecs.uq.edu.au\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nBecause the results/answers are released soon after the due date, and only the best 6 of 8 will contribute to the mark for this assessment item a 100% penalty will be applied to late submission.\nThis has been approved by the Associate Dean (Academic)",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "In the Weekly Activities assessment, students will regularly participate in a series of activities via the course Blackboard site. These activities will enable students to track their learning and receive regular feedback (prior to Census date) through regular quizzes with peer interaction. You will submit these deliverables: From Week 2 to Week 9 (i.e. 8 weeks), students will be participating in an online platform where they create, moderate and answer questions. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Design Document",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Paper/ Report/ Annotation, Project",
+      "weight": "18%",
+      "due_date": "14/04/2026 5:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L05, L06, L07",
+      "task_description": "The assignment is designed to test your ability to design and document a WIS, with a focus on the database, web user interface design, security and web accessibility. Students will be able to select from one of three project topics. Students will be required to select ONLY ONE of the projects and author a comprehensive design document. For students who have extensive experience in Web system development, you have the option to propose a new custom project topic. However, you must submit a project proposal by the end of Week 2 and seek pre-approval from the Course Coordinator. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submission details will be available via the assessment brief on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The assignment is designed to test your ability to design and document a WIS, with a focus on the database, web user interface design, security and web accessibility. Students will be able to select from one of three project topics. Students will be required to select ONLY ONE of the projects and author a comprehensive design document. For students who have extensive experience in Web system development, you have the option to propose a new custom project topic. However, you must submit a project proposal by the end of Week 2 and seek pre-approval from the Course Coordinator. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Web Project",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Computer Code, Project",
+      "weight": "24%",
+      "due_date": "15/05/2026 5:00 pm",
+      "learning_outcomes_assessed": "L03, L04, L07",
+      "task_description": "The assignment is designed to test your ability to develop a WIS based on a specification and design document, with a focus on the technology part of this course. The implemented project must match the project from your Design Document. Students will not be allowed to change project topics. This assessment item has two parts: Part one is an online code submission. All code will be required to be compressed into one file and submitted via Blackboard. The submission will also need to include a link to the online deployment of the web project on your UQCloud Zone. Part two is an in-person Project Demonstration and Code Review of your submitted code, which will be completed with a demonstrator during a scheduled timeslot in Week 12, after the code submission. In the meeting with the demonstrator, students will demonstrate all implemented functionality, explain their approach and answer questions specific to their code implementation. All oral assessments must be given live. In accordance with UQ Assessment Policy, your presentation will be recorded. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submission details will be available via the assessment brief on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as the Web Project is required for the Web Project Demonstration and Code Review (a verified assessment hurdle ), and feedback is provided within 14 days . This result must be available prior to the Exam, because students must achieve at least 50% across the combined total of the Exam and the Web Project Demonstration and Code Review to meet the secure identity verified course assessment hurdle. If you do not attend the a Web Project Demonstration and Code Review session, the mark for this assessment item and the Web Project Demonstration and Code Review will be 0.\nIf you are approved an extension for the Web Project, you do not automatically receive an extension for the Demonstration and Code Review. Students must apply for an extension to the Web Project Demonstration and Code Review separately.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The assignment is designed to test your ability to develop a WIS based on a specification and design document, with a focus on the technology part of this course. The implemented project must match the project from your Design Document. Students will not be allowed to change project topics. This assessment item has two parts: Part one is an online code submission. All code will be required to be compressed into one file and submitted via Blackboard. The submission will also need to include a link to the online deployment of the web project on your UQCloud Zone. Part two is an in-person Project Demonstration and Code Review of your submitted code, which will be completed with a demonstrator during a scheduled timeslot in Week 12, after the code submission. In the meeting with the demonstrator, students will demonstrate all implemented functionality, explain their approach and answer questions specific to their code implementation. All oral assessments must be given live. In accordance with UQ Assessment Policy, your presentation will be recorded. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Web Project Demonstration and Code Review",
+      "mode": "Oral",
+      "category": "Computer Code, Practical/ Demonstration, Project",
+      "weight": "8%",
+      "due_date": "17/05/2026 - 22/05/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L03, L04, L07",
+      "task_description": "Students are required to complete a Web Project Demonstration and Code Review for the Web Project assessment item. This will take place during Week 12, where students will demonstrate and explain their completed Web Project . The weighting for the Web Project Demonstration and Code Review is 8% . This assessment is a component of the course Identity Verified Assessment Hurdle and involves a comprehensive code review , including questions that assess conceptual understanding. Students will be expected to: Explain and identify key segments of their code Answer questions on how they would implement new features or modify existing functionality Demonstrate a clear understanding of their design decisions and problem-solving approaches The grading of the Web Project assessment item will also occur within these sessions. Students must submit their Web Project assessment items prior to attending a Web Project Demonstration and Code Review session. If less than 50% of the required functionality, based on the assessment brief and rubric, is implemented, the Project Demonstration and Code Review grade will be capped at 50%. In accordance with UQ Assessment Policy, your Web Project Demonstration and Code Review will be recorded. Students must present their work and show their project in a Code Editor. The use of AI-enabled code assistants , searching the code-base or web, or machine translation tools during the review is not allowed. The goal is to assess each student’s individual understanding of their submitted work. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "The Project Demonstration and Code Reviews may not take place during your regular scheduled Applied Class in Week 12. Students will be required to book a time slot from those made available during the week. Due to the number of students and the time required for each review, it is not possible to accommodate everyone during their scheduled Applied Class. Booking details and available time slots will be made available on the Course Blackboard site. If you do not attend the a Project Demonstration and Code Review sesson, the mark for this assessment item and the Web Project will be 0.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days for the Web Project Demonstration and Code Review (a verified assessment hurdle ), and feedback is provided within 14 days . This result must be available prior to the Exam, as students are required to achieve a minimum of 50% across the combined Exam and Web Project Demonstration and Code Review to satisfy the verified course hurdle (i.e. 22/44). If you do not attend the a Web Project Demonstration and Code Review session, the mark for this assessment item and the Web Project Demonstration and Code Review will be 0.\nIf you were approved an extension for the Web Project, you do not automatically receive an extension for the Demonstration and Code Review. Students must apply for an extension to the Web Project Demonstration and Code Review separately.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nConsistent with industry practice around presentations to clients/industry partners, no late submissions will be accepted and a 100% late penalty applies.\nThis has been approved by the Associate Dean (Academic",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Students are required to complete a Web Project Demonstration and Code Review for the Web Project assessment item. This will take place during Week 12, where students will demonstrate and explain their completed Web Project . The weighting for the Web Project Demonstration and Code Review is 8% . This assessment is a component of the course Identity Verified Assessment Hurdle and involves a comprehensive code review , including questions that assess conceptual understanding. Students will be expected to: Explain and identify key segments of their code Answer questions on how they would implement new features or modify existing functionality Demonstrate a clear understanding of their design decisions and problem-solving approaches The grading of the Web Project assessment item will also occur within these sessions. Students must submit their Web Project assessment items prior to attending a Web Project Demonstration and Code Review session. If less than 50% of the required functionality, based on the assessment brief and rubric, is implemented, the Project Demonstration and Code Review grade will be capped at 50%. In accordance with UQ Assessment Policy, your Web Project Demonstration and Code Review will be recorded. Students must present their work and show their project in a Code Editor. The use of AI-enabled code assistants , searching the code-base or web, or machine translation tools during the review is not allowed. The goal is to assess each student’s individual understanding of their submitted work. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nStudents must present their work and show their project in a Code Editor. The use of AI-enabled code assistants , searching the code-base or web, or machine translation tools during the review is not allowed. The goal is to assess each student’s individual understanding of their submitted work.\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-4",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "36%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "This course will have one final exam that is designed to test theoretical concepts and programming skills introduced in this course. The exam will address all materials covered by lectures and applied classes. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This course will have one final exam that is designed to test theoretical concepts and programming skills introduced in this course. The exam will address all materials covered by lectures and applied classes. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (23 Feb - 31 May)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (02 Mar - 31 May)",
+      "activity_type": "Practical",
+      "topic": "Applied Class Weekly labs will be used for: - step-by-step code walkthroughs available as a download from the course Blackboard site - individual project development and consultation - project demonstration/code review Learning outcomes: L03, L04, L05, L07",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05",
+        "L07"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

@@ -1,0 +1,267 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/INFS1200-21202-7620",
+  "scraped_at": "2026-06-02T04:30:58.896888+00:00",
+  "course_code": "INFS1200",
+  "class_code": "21202",
+  "semester_code": "7620",
+  "full_course_code": "INFS1200-21202-7620",
+  "course_title": "Introduction to Information Systems",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Information systems analysis, design and implementation, relational database technology, data modelling, data querying using SQL, building a small scale information systems using a relational database management system.\n\nThis course provides the foundation concepts on designing and implementing information systems, necessary for advanced data management and data analysis courses taught in various Information Technology, Engineering, Business and Science programs. The course includes modules on data modelling, principles of correct database design, the SQL language for querying relational databases, and developing a small scale database application using MySQL.",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "INFS7900",
+      "MGTS3203",
+      "MGTS7206",
+      "BISM2207",
+      "BISM3203",
+      "BISM7206",
+      "INFS7901"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Archie Chapman",
+      "email": "INFS1200@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Archie Chapman"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Hassan Khosravi"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course aims to introduce students to the foundation concepts onﾠdesigning and implementingﾠinformation systems, necessaryﾠfor advanced data managementﾠand data analysis courses taught later in various programs.ﾠThe course will prepare students to deploy small information system in MySQL",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Extract information systems requirements to create basic conceptual models"
+    },
+    {
+      "number": "LO2.",
+      "description": "Map basic conceptual data models to relational database schema"
+    },
+    {
+      "number": "LO3.",
+      "description": "Express natural language queries correctly using the SQL language"
+    },
+    {
+      "number": "LO4.",
+      "description": "Reason with the logical foundations of the relational data model and the fundamental principles of correct relational database design"
+    },
+    {
+      "number": "LO5.",
+      "description": "Explain key security concepts related to database control measures and SQL injection"
+    },
+    {
+      "number": "LO6.",
+      "description": "Construct a small-scale information system in a relational database management system"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Weekly RiPPLe activities",
+      "weight": "10% (Best 10 of 12)",
+      "due_date": "9/03/2026 4:00 pm; 13/03/2026 4:00 pm; 20/03/2026 4:00 pm; 27/03/2026 4:00 pm; 2/04/2026 4:00 pm; 17/04/2026 4:00 pm; 24/04/2026 4:00 pm; 1/05/2026 4:00 pm; 8/05/2026 4:00 pm; 15/05/2026 4:00 pm; 22/05/2026 4:00 pm; 29/05/2026 4:00 pm; Due 4pm Friday from Week 2 to Week 13, except for Week 6 when it is due on Thursday 02/04/2026, at 4pm.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Tutorial/ Problem Set",
+      "title": "Assignment 1",
+      "weight": "25%",
+      "due_date": "2/04/2026 5:00 pm; Note that the due date is Thursday 2 April, before the public holiday on Friday 3 April."
+    },
+    {
+      "category": "Computer Code",
+      "title": "Assignment 2 SQL Code Submission",
+      "weight": "25%",
+      "due_date": "8/05/2026 5:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Presentation",
+      "title": "Assignment 2 SQL Interview",
+      "weight": "Pass/fail",
+      "due_date": "19/05/2026 - 21/05/2026; Oral assessment will be run during Applied Classes and Practicals in Week 12",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Weekly RiPPLe activities",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "10% (Best 10 of 12)",
+      "due_date": "9/03/2026 4:00 pm 13/03/2026 4:00 pm 20/03/2026 4:00 pm 27/03/2026 4:00 pm 2/04/2026 4:00 pm 17/04/2026 4:00 pm 24/04/2026 4:00 pm 1/05/2026 4:00 pm 8/05/2026 4:00 pm 15/05/2026 4:00 pm 22/05/2026 4:00 pm 29/05/2026 4:00 pm Due 4pm Friday from Week 2 to Week 13, except for Week 6 when it is due on Thursday 02/04/2026, at 4pm.",
+      "other_conditions": "Peer assessed. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Twelve weekly assessment activities run through RiPPLe are designed to test information system analysis and design techniques. The assessable tasks will consist of a combination of learning resource creation, moderation and practice. Submissions will be due at the end of each teaching week beginning in Week 2 and ending Week 13. The best 10 of 12 submissions will be used to calculate a student's mark, with each worth 1% of the course mark. Detailed task specifications will be announced and placed on Blackboard at the required time. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "The assessment will be submitted online via the RiPPLe platform. Detailed instructions will be provided on Blackboard in the task specification.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nTo accommodate unforeseen circumstances such as illness, the best 10 of 12 submissions will contribute to the total RiPPLE mark, allowing for two missed submissions across the semester.\nIf you're unable to complete the required 10 activities due to exceptional circumstances, please contact the School at studentenquiries@eecs.uq.edu.au\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nBecause the results/answers are released soon after the due date, and only the best 10 of 12 will contribute to the mark for this assessment item, a 100% penalty will be applied to late submission.\nThis has been approved by the Associate Dean (Academic).",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Twelve weekly assessment activities run through RiPPLe are designed to test information system analysis and design techniques. The assessable tasks will consist of a combination of learning resource creation, moderation and practice. Submissions will be due at the end of each teaching week beginning in Week 2 and ending Week 13. The best 10 of 12 submissions will be used to calculate a student's mark, with each worth 1% of the course mark. Detailed task specifications will be announced and placed on Blackboard at the required time. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 1",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Paper/ Report/ Annotation, Tutorial/ Problem Set",
+      "weight": "25%",
+      "due_date": "2/04/2026 5:00 pm Note that the due date is Thursday 2 April, before the public holiday on Friday 3 April.",
+      "learning_outcomes_assessed": "L01, L02",
+      "task_description": "This assignment is designed to test information system analysis and design techniques as well as the information system development skills acquired in practical sessions. Assignment 1 focuses on ER models and the relational data model. Task specifications will be announced and placed on Blackboard at the required time. Please ensure that you download your copy as soon as possible on or after the date of issue. Students are advised to progressively submit versions of their assignments, and make backup copies, as internet connections and software can fail (or be lost) for many reasons and it happens quite frequently. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "The assignment will be submitted online via Gradescope. Detailed instructions will be provided in the assignment description.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 14 days as feedback will be provided within 21 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assignment is designed to test information system analysis and design techniques as well as the information system development skills acquired in practical sessions. Assignment 1 focuses on ER models and the relational data model. Task specifications will be announced and placed on Blackboard at the required time. Please ensure that you download your copy as soon as possible on or after the date of issue. Students are advised to progressively submit versions of their assignments, and make backup copies, as internet connections and software can fail (or be lost) for many reasons and it happens quite frequently. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 2 SQL Code Submission",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code",
+      "weight": "25%",
+      "due_date": "8/05/2026 5:00 pm",
+      "learning_outcomes_assessed": "L03, L04, L06",
+      "task_description": "The assignments are designed to test information system analysis and design techniques as well as the information system development skills acquired in practical sessions. Assignment 2 focuses on SQL and specifications will be announced and placed on Blackboard at the required time. Please ensure that you download your copy as soon as possible on or after the date of issue. Students are advised to progressively submit versions of their coding assignments, and make back-up copies, as internet connections and software can fail (or be lost) for many reasons and it happens quite frequently. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "The assignment will be submitted online via Gradescope. Detailed instructions will be provided in the assignment sheet and via Blackboard announcements.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nExtensions are not available for this assessment item as feedback is given to students very rapidly.\nAssignment is auto marked and solutions and marked assessment will be released within 3 days of the due date to permit students to progress with follow-up interviews.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours (or part thereof) from the deadline (or your extended deadline, if applicable) for up to 3 days. After 3 days (72 hours), you will receive a mark of zero.\nThe modified late penalty applies as the assessment is auto marked and marked assessment will be released within 3 days of the due date to permit students to progress with follow up assignments.\nThis has been approved by the Associate Dean (Academic)",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours (or part thereof) from the deadline (or your extended deadline, if applicable) for up to 3 days. After 3 days (72 hours), you will receive a mark of zero.",
+      "ai_statement": "The assignments are designed to test information system analysis and design techniques as well as the information system development skills acquired in practical sessions. Assignment 2 focuses on SQL and specifications will be announced and placed on Blackboard at the required time. Please ensure that you download your copy as soon as possible on or after the date of issue. Students are advised to progressively submit versions of their coding assignments, and make back-up copies, as internet connections and software can fail (or be lost) for many reasons and it happens quite frequently. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Assignment 2 SQL Interview",
+      "mode": "Oral",
+      "category": "Presentation",
+      "weight": "Pass/fail",
+      "due_date": "19/05/2026 - 21/05/2026 Oral assessment will be run during Applied Classes and Practicals in Week 12",
+      "learning_outcomes_assessed": "L03, L04, L06",
+      "task_description": "Students are required to complete an Assignment 2 Interview for the SQL assessment item. In the interview, students will explain the code they submitted, and discuss their approach and why they used particular techniques. This will take place during Week 12, where students will demonstrate and explain their submitted SQL code. Students must achieve a pass for the interview portion of the Assignment 2 to be eligible to achieve more than 50% on Assignment 2. This assessment task is to be completed in-person. In accordance with UQ Assessment Policy, your presentation will be recorded. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "The oral interview reviews the material submitted in Assignment 2. They will be conducted in Applied Classes and Practicals during Week 12. Detailed instructions will be provided in the assignment sheet and via Blackboard announcements.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days to ensure students can receive feedback with sufficient time to prepare for their final exam.\nStudents who are unable to attend their interview in their assigned session for a documented and justified reason will have one chance to reschedule. To apply for a reschedule, you need to apply for an extension via my.UQ.\nRescheduled interviews must be completed on or before Friday of Week 13. If the rescheduled session is missed the assessment will be marked as a fail .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nConsistent with industry practice around presentations to clients/industry partners, no late submissions will be accepted and a 100% late penalty applies.\nThis has been approved by the Associate Dean (Academic)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Students are required to complete an Assignment 2 Interview for the SQL assessment item. In the interview, students will explain the code they submitted, and discuss their approach and why they used particular techniques. This will take place during Week 12, where students will demonstrate and explain their submitted SQL code. Students must achieve a pass for the interview portion of the Assignment 2 to be eligible to achieve more than 50% on Assignment 2. This assessment task is to be completed in-person. In accordance with UQ Assessment Policy, your presentation will be recorded. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThe use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-4",
+      "title": "Final exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Exams are designed to test theoretical concepts and modelling techniques introduced in lectures and applied classes. More information on exams will be provided on the assessment page of the course website at the appropriate time. Students will sit an on-campus invigilated exam. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet double-sided of typed or handwritten notes Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "Exams are designed to test theoretical concepts and modelling techniques introduced in lectures and applied classes. More information on exams will be provided on the assessment page of the course website at the appropriate time. Students will sit an on-campus invigilated exam. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (23 Feb - 31 May)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Lectures provide an introduction to various concepts and techniques in information systems analysis and the design of Database Management Systems (DBMS). Lecture notes and recordings will be available on Blackboard. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (02 Mar - 31 May)",
+      "activity_type": "Applied Class",
+      "topic": "Applied classes Applied sessions provide opportunity to practice the techniques introduced in lectures. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (02 Mar - 31 May)",
+      "activity_type": "Practical",
+      "topic": "Practicals Practical sessions allow students to get hands-on experience developing and implementing small scale information systems using a relational DBMS and practicing SQL. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (02 Mar - 31 May)",
+      "activity_type": "Problem-based learning",
+      "topic": "RiPPLE personalised learning activities Students will be required to complete four RiPPLE rounds, which includes answering, generating and reviewing instructor and peer-generated questions. This work forms a progressive assessment task. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

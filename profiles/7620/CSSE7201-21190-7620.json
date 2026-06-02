@@ -1,0 +1,242 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE7201-21190-7620",
+  "scraped_at": "2026-06-02T04:24:11.774786+00:00",
+  "course_code": "CSSE7201",
+  "class_code": "21190",
+  "semester_code": "7620",
+  "full_course_code": "CSSE7201-21190-7620",
+  "course_title": "Introduction to Computer Systems",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Introduction to digital logic and digital systems; machine level representation of data; computer organization; memory system organization and architecture; interfacing and communication; microcontroller architecture and usage; programming of microcontroller based systems.\n\nCSSE7201 is an introduction to how computers work at the lowest levels and will cover topics from binary number representations, logic gates, combinational and sequential logic circuits, low-levelﾠassembly language and basic (embedded) C programming. After this course you'll have a basic understanding of how computers work and you'll be able to develop programs for a microcontroller based computer system.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE7030"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP1300",
+      "COMP2300",
+      "COMP2302",
+      "CSSE1000",
+      "CSSE2010",
+      "CSSE7035",
+      "ELEC2002",
+      "This course is jointly-taught with:",
+      "All learning activities are jointly taught."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Chamith Wijenayake",
+      "notes": "Consultation hours will be added on course Blackboard site. For enquiries, please email at CSSE2010@eecs.uq.edu.au."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Chamith Wijenayake"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Martin Ploschner"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The general aim of this course is for you to understand how computers and software work at the lowest levels (binary numbers, logic gates, memory, assembly language etc.) and be able to program a microcontroller based system using both assembly language and the C programming language. (Such systems make up the vast majority of computing systems in the world.)\n\nA low level understanding of computer hardware helps you to understand the implications (e.g. performance) of software design and implementation decisions. The course also prepares you for various possible follow-on courses, including CSSE7231 (Computer Systems Principles and Programming).",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Convert unsigned integers, signed integers and floating point numbers to and from various binary number representations and perform operations on those binary numbers"
+    },
+    {
+      "number": "LO2.",
+      "description": "Express logic functions in various representations (gates, expressions, truth-tables, timing diagrams) and be able to convert those functions between representations"
+    },
+    {
+      "number": "LO3.",
+      "description": "Design, analyse, simulate and build combinational circuits and simple sequential circuits"
+    },
+    {
+      "number": "LO4.",
+      "description": "Explain the operation of a CPU with respect to its major components, and instruction set architecture, with specific emphasis on the AVR microcontroller"
+    },
+    {
+      "number": "LO5.",
+      "description": "Demonstrate your knowledge of flow-of-control and the use of a stack in a CPU and be able to write procedures and interrupt service routines in both AVR assembly language and C"
+    },
+    {
+      "number": "LO6.",
+      "description": "Describe the major components of a computer system and how they communicate and be able to perform calculations on their characteristics"
+    },
+    {
+      "number": "LO7.",
+      "description": "Simulate the processes of assembly and linking on sample code"
+    },
+    {
+      "number": "LO8.",
+      "description": "Modify, write, simulate, debug, assemble/compile and download assembly language and C programs targeted to the AVR microcontroller and be able to construct associated AVR hardware and peripherals"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Examination",
+      "title": "In-semester Exam",
+      "weight": "20%",
+      "due_date": "In-semester Saturday; 27/03/2026 - 3/05/2026; A personal exam timetable will be emailed to your student email address with the date and time of your exam.",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination, Practical/ Demonstration",
+      "title": "Lab Exam (Digital Logic Design)",
+      "weight": "10%",
+      "due_date": "Week 7 Mon - Week 7 Fri",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Practical/ Demonstration",
+      "title": "Assignment (AVR Programming)",
+      "weight": "15%",
+      "due_date": "22/05/2026 4:00 pm; Students will be required to attend a demo session in Week 13.",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "20%",
+      "due_date": "In-semester Saturday 27/03/2026 - 3/05/2026 A personal exam timetable will be emailed to your student email address with the date and time of your exam.",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "The test is individual and will be multiple-choice and closed-book, with no written materials permitted. You will require a HB or 2B pencil and an eraser to complete the in-semester theory exam. The in-semester theory exam will cover all material from weeks 1 to 5 inclusive (lectures, lab sessions, homeworks/quizzes and associated readings etc.). This assessment is conducted under exam conditions and the use of AI tools and/or machine translations is not permitted. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The test is individual and will be multiple-choice and closed-book, with no written materials permitted. You will require a HB or 2B pencil and an eraser to complete the in-semester theory exam. The in-semester theory exam will cover all material from weeks 1 to 5 inclusive (lectures, lab sessions, homeworks/quizzes and associated readings etc.). This assessment is conducted under exam conditions and the use of AI tools and/or machine translations is not permitted. Read full task description Hide full task description\nThe in-semester theory exam will cover all material from weeks 1 to 5 inclusive (lectures, lab sessions, homeworks/quizzes and associated readings etc.). This assessment is conducted under exam conditions and the use of AI tools and/or machine translations is not permitted.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Lab Exam (Digital Logic Design)",
+      "mode": "Activity/ Performance",
+      "category": "Examination, Practical/ Demonstration",
+      "weight": "10%",
+      "due_date": "Week 7 Mon - Week 7 Fri",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "A lab exam covering material and ideas from lectures and practical activities in weeks 1 to 5 inclusive will be held during scheduled lab sessions (Monday - Friday) in week 7. You must only attend the lab exam session you are scheduled for (selected from your regular signed-up lab sessions for the week), and you will be allocated to a particular time-slot within this session. The exact schedule will be communicated to students via Blackboard. Students will be required to wire up a digital logic circuit, demonstrate its functionality and record some observations/results. Lab examinations are individual and closed book. Relevant hardcopies of datasheets will be provided during the exam. This assessment is conducted under exam conditions and the use of AI tools, machine translations and other online resources are NOT permitted. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 60 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Materials Lab kit (loaned to students at the start of the semester) Exam platform Other Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "A lab exam covering material and ideas from lectures and practical activities in weeks 1 to 5 inclusive will be held during scheduled lab sessions (Monday - Friday) in week 7. You must only attend the lab exam session you are scheduled for (selected from your regular signed-up lab sessions for the week), and you will be allocated to a particular time-slot within this session. The exact schedule will be communicated to students via Blackboard. Students will be required to wire up a digital logic circuit, demonstrate its functionality and record some observations/results. Lab examinations are individual and closed book. Relevant hardcopies of datasheets will be provided during the exam. This assessment is conducted under exam conditions and the use of AI tools, machine translations and other online resources are NOT permitted. Read full task description Hide full task description\nStudents will be required to wire up a digital logic circuit, demonstrate its functionality and record some observations/results. Lab examinations are individual and closed book. Relevant hardcopies of datasheets will be provided during the exam. This assessment is conducted under exam conditions and the use of AI tools, machine translations and other online resources are NOT permitted.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment (AVR Programming)",
+      "mode": "Activity/ Performance, Oral",
+      "category": "Computer Code, Practical/ Demonstration",
+      "weight": "15%",
+      "due_date": "22/05/2026 4:00 pm Students will be required to attend a demo session in Week 13.",
+      "learning_outcomes_assessed": "L08",
+      "task_description": "This assignment will have two parts. In part 1 (5%), students will be required to perform some research on a selected topic and answer theoretical questions related to computer architecture and assembly operations. In part 2 (10%), students will undertake a programming task for the AVR microcontroller (may contain a number of sub-tasks) which implements a system for a given set of specifications. Students are required to submit their assignment on Blackboard (both part 1 and part 2) by the due date (Friday of Week 12, 22/05/26, 4:00pm AEST) and attend a demo session for part 2 in Week 13 (details of your specific demo slot will be communicated to you in advance). Failure to attend and complete the demo session will result in zero marks for the part 2 of this assessment, irrespective of the Blackboard submission. This assessment item has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their submission independent of AI tools. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission on Blackboard by the due date (Friday of Week 12, 22/05/26, 4:00pm AEST) and attend demo session in Week 13.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nStudents with extensions will be required to attend a demo, scheduled by the course coordinator and communicated via email. Failure to attend and complete the demo session will result in zero marks for the part 2 of this assessment, irrespective of the Blackboard submission.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nThe stated late penalty applies to the Blackboard submission. 100% late penalty applies to the demo session, as the task takes place in-person.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assignment will have two parts. In part 1 (5%), students will be required to perform some research on a selected topic and answer theoretical questions related to computer architecture and assembly operations. In part 2 (10%), students will undertake a programming task for the AVR microcontroller (may contain a number of sub-tasks) which implements a system for a given set of specifications. Students are required to submit their assignment on Blackboard (both part 1 and part 2) by the due date (Friday of Week 12, 22/05/26, 4:00pm AEST) and attend a demo session for part 2 in Week 13 (details of your specific demo slot will be communicated to you in advance). Failure to attend and complete the demo session will result in zero marks for the part 2 of this assessment, irrespective of the Blackboard submission. This assessment item has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their submission independent of AI tools. Read full task description Hide full task description\nThis assessment item has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their submission independent of AI tools.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "An on-campus , closed-book, invigilated exam will be held during the final examination period. This exam can contain multiple-choice, short-answer, numerical and code-writing type questions. This assessment item is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "An on-campus , closed-book, invigilated exam will be held during the final examination period. This exam can contain multiple-choice, short-answer, numerical and code-writing type questions. This assessment item is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment item is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website .",
+    "other_course_materials": "If we've listed something under further requirement, you'll need to provide your own. Required Item Description Further Requirement Lab kit A lab kit will be loaned to students during weeks 1 to 4. The kit must be returned at the end of the semester.",
+    "required": "Item Description Further Requirement Lab kit A lab kit will be loaned to students during weeks 1 to 4. The kit must be returned at the end of the semester."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Weekly Lecture There are two 1-hour weekly lectures ( Tue 4-5pm and Fri 12-1pm ). Refer to detailed teaching outline on Blackboard for more information about public holidays and refer to student timetable for any updates on the venues/times. Lectures are expected to be recorded and made available on the course Blackboard site, although there is no guarantee that recordings will always work. Lectures provide an introduction to the course material and present examples to help students understand the principles and techniques. There may be recommended reading or other activities which should be undertaken before a lecture. Please note that the lecture slides in the course notes may NOT be a complete record of the lecture. Examples will be worked through and exercises undertaken which may not be shown on the slides. Interactive polls may be used to assess understanding and get feedback from students. It is strongly suggested that you attend the lectures or watch the recording each week to maintain progressive learning. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Practical",
+      "topic": "Learning Lab Sessions You must sign-up for a pair of prac sessions out of the 7 pairs available (PRA-x-P2, PRA-x-P1), where x=1,2,...,7. All prac sessions will be held in the Axon Building Computer Laboratory (building 47, room 104) in face-to-face mode. These lab classes will start with their P1 sessions from Wed-Fri of Week 1. No P2 sessions are held during Mon-Wed of week 1. From week 2 to week 13 both P2 and P1 sessions will be held (refer to the detailed teaching outline on Blackboard for more information about public holidays). Students will be loaned a kit during their lab classes in weeks 1-4, which must be returned by the end of the semester . You must have a lab kit with you in order to complete and pass the course. Lab kits must be collected in-person during lab classes in weeks 1-4. If you borrow a lab kit and drop the course then you must return the kit within 3 business days to EECS school office at building 78 room 425 (penalties apply otherwise). Learning outcomes: L01, L02, L03, L05, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05",
+        "L08"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

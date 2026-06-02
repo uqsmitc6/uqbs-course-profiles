@@ -1,0 +1,321 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/GEOM7005-20568-7620",
+  "scraped_at": "2026-06-02T04:29:47.813161+00:00",
+  "course_code": "GEOM7005",
+  "class_code": "20568",
+  "semester_code": "7620",
+  "full_course_code": "GEOM7005-20568-7620",
+  "course_title": "Geographical Information Systems",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "The Environment School",
+  "course_description": "This course provides students with a foundation in the science and technology of geographical information systems (GIS). GIS science focuses on ways to describe and explain geographical patterns and processes. GIS technology focuses on data modelling, databases and map visualisation. The course provides GIS application skills in fields such as ecology, environmental, marine and earth sciences and physical geography, and provides laboratory sessions for students to apply GIS for practical problem solving in these fields.\n\nThis course introduces practicalﾠmethods and concepts for applying geographical information systems (GIS) for mapping and analysing geographical data. The subject considers the use of GIS in the broadly defined areas of geography and environmental science, and provides laboratory sessions for students to apply GIS to practical problem solving.\n\nLectures are accessible online via Zoom and are recorded. Most lectures have required readings. Practical lab sessions are closely tied to lectures and may include quizzes to bridge the gap between theory and practical application.\n\nStudents are able to gain sufficient understanding of course content from online learning materials provided on the Blackboard Learning Management System (LMS). This includes GIS practicals which have guided instructions. Note however, that practical lab sessions include quizzes that are completed in the session.\n\nThe course has a field component Students are expected to attend a day field trip in week 8. The field trip will incur an additional costs for the bus travel (approximately $30). Payment details will be provided to students once the Semester commences.’",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "GEOM2001",
+      "GEOS2300"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr David Pullar",
+      "email": "d.pullar@uq.edu.au",
+      "phone": "+61 7 3365 6522",
+      "notes": "Happy to discuss after lecture, or email to arrange a time."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr David Pullar",
+      "email": "d.pullar@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThe course has a field component Students are expected to attend a day field trip in week 8.",
+  "course_aims": "This course aims to equip students with:\n\n1. The core skills and conceptual understanding required to apply GIS technologies to solve geographical problems\n\n2. An appreciation of the broad range of applications of GIS technologies, including applications in the geographical, environmental and social sciences",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain how geographical information is used to answer questions"
+    },
+    {
+      "number": "LO2.",
+      "description": "Describe how spatial data is represented and organised in a GIS"
+    },
+    {
+      "number": "LO3.",
+      "description": "Identify, interpret and apply methods for GIS data capture"
+    },
+    {
+      "number": "LO4.",
+      "description": "Identify, interpret and apply methods for spatial data visualisation using GIS"
+    },
+    {
+      "number": "LO5.",
+      "description": "Identify, interpret and apply methods for spatial data analysis using GIS"
+    },
+    {
+      "number": "LO6.",
+      "description": "Identify, interpret and apply methods for decision-making using GIS"
+    },
+    {
+      "number": "LO7.",
+      "description": "Integrate GIS methods to solve geographical problems"
+    },
+    {
+      "number": "LO8.",
+      "description": "Evaluate GIS applications and approaches to plan and document GIS projects"
+    },
+    {
+      "number": "LO9.",
+      "description": "Develop team building and teamwork skills during Group Work activities"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "In-Lab Quiz",
+      "weight": "15%",
+      "due_date": "1) Lab Quiz #1 5/03/2026; 2) Lab Quiz #2 12/03/2026; 3) Lab Quiz #3 26/03/2026; 4) Lab Quiz #4 2/04/2026; 5) Lab Quiz #5 16/04/2026; 6) Lab Quiz #6 30/04/2026",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Quiz, Tutorial/ Problem Set",
+      "title": "Practical Exercise 1 on GIS Mapping",
+      "weight": "20%",
+      "due_date": "20/03/2026 4:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Quiz, Tutorial/ Problem Set",
+      "title": "Practical Exercise 2 on GIS Analysis",
+      "weight": "25%",
+      "due_date": "22/04/2026 4:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Project",
+      "title": "GIS Project and Report",
+      "weight": "40%",
+      "due_date": "27/05/2026 4:00 pm",
+      "conditions": [
+        "Hurdle",
+        "Team or group-based",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-Lab Quiz",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "15%",
+      "due_date": "1) Lab Quiz #1 5/03/2026 2) Lab Quiz #2 12/03/2026 3) Lab Quiz #3 26/03/2026 4) Lab Quiz #4 2/04/2026 5) Lab Quiz #5 16/04/2026 6) Lab Quiz #6 30/04/2026",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Short quiz related to 6 of the practical labs. These encourage students to understand the theory and to prepare for GIS lab tasks. The aim is to make efficient use of time and to improve GIS learning. They are marked, and the best 5 out of 6 are used for the assessment grade. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Quiz will be available to do over two days, but once started it has a time limit to complete. No late submission or extensions. Final mark for these assessments will be based on best 5 out of 6.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nExtensions are not available for this assessment as they are open for consecutive days. The best FIVE out of the SIX quizzes will be used to calculate your final grade for this assessment. If you are unable to attend more than one practical due to exceptional circumstances, please contact your course coordinator.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "ai_statement": "Short quiz related to 6 of the practical labs. These encourage students to understand the theory and to prepare for GIS lab tasks. The aim is to make efficient use of time and to improve GIS learning. They are marked, and the best 5 out of 6 are used for the assessment grade. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Practical Exercise 1 on GIS Mapping",
+      "mode": "Written",
+      "category": "Quiz, Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "20/03/2026 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L08",
+      "task_description": "Practical exercises on geospatial concepts and GIS mapping skills to solve a practical problem. This assessment is based on lectures on GIS concepts and practical mapping outputs (weeks 1-4). It is comprised of: i) A 'GIS map layout' to visually assess a resource on UQ campus, i.e. locations for cafes, information directories. ii) Higher-order thinking quiz questions on GIS concepts and principles from lectures and lab practicals, may also include some multiple-choice questions The full requirements for the first task 'GIS map layout' are provided 2 weeks prior to due date. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.. Read full task description Hide full task description",
+      "submission_guidelines": "The requirements for GIS map layout [item i] are typically available 2 weeks prior to due date, and Blackboard submission is opened 1 week prior to due date.\nSubmitted online through Blackboard. Students need to store documentation for GIS tasks and retain a copy of submission. Refer to Blackboard for the submission link. No hard copy or assignment cover sheets are required. Submission via email is not accepted.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nStudents will be provided feedback and model answers 1 week after submission; therefore extensions cannot exceed this limit. Please contact your course coordinator if you are impacted longer than 7 days for consideration of an alternate arrangement. You must be able to demonstrate exceptional circumstances for consideration of an alternate assessment.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Practical exercises on geospatial concepts and GIS mapping skills to solve a practical problem. This assessment is based on lectures on GIS concepts and practical mapping outputs (weeks 1-4). It is comprised of: i) A 'GIS map layout' to visually assess a resource on UQ campus, i.e. locations for cafes, information directories. ii) Higher-order thinking quiz questions on GIS concepts and principles from lectures and lab practicals, may also include some multiple-choice questions The full requirements for the first task 'GIS map layout' are provided 2 weeks prior to due date. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct..",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Practical Exercise 2 on GIS Analysis",
+      "mode": "Written",
+      "category": "Quiz, Tutorial/ Problem Set",
+      "weight": "25%",
+      "due_date": "22/04/2026 4:00 pm",
+      "learning_outcomes_assessed": "L04, L05, L07, L08",
+      "task_description": "Practical exercises on geospatial analysis and GIS analysis skills to solve a practical problem. This assessment is based on lecture concepts and practical mapping outputs for weeks 5-8. It is comprised of: i) The GIS risk analysis of flooding for the UQ campus. A report (based on a word template) is submitted which includes text, maps, tables and charts. ii) Higher-order thinking quiz questions on GIS concepts and principles from lectures and lab practicals, and may also include some multiple-choice questions. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "The requirements for GIS analysis report [item i] are typically available 2 weeks prior to due date, and Blackboard submission is opened 1 week prior to due date. Submitted online through Blackboard. Students need to store documentation for GIS tasks and retain a copy of submission. Refer to Blackboard for the submission link. No hard copy or assignment cover sheets are required. Submission via email is not accepted.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nStudents will be provided feedback and model answers 1 week after submission; therefore extensions cannot exceed this limit. Please contact your course coordinator if you are impacted longer than 7 days for consideration of an alternate arrangement. You must be able to demonstrate exceptional circumstances for consideration of an alternate assessment.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Practical exercises on geospatial analysis and GIS analysis skills to solve a practical problem. This assessment is based on lecture concepts and practical mapping outputs for weeks 5-8. It is comprised of: i) The GIS risk analysis of flooding for the UQ campus. A report (based on a word template) is submitted which includes text, maps, tables and charts. ii) Higher-order thinking quiz questions on GIS concepts and principles from lectures and lab practicals, and may also include some multiple-choice questions. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "GIS Project and Report",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Project",
+      "weight": "40%",
+      "due_date": "27/05/2026 4:00 pm",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L05, L06, L07, L08, L09",
+      "task_description": "The GIS project is based on a site visited in the field trip to evaluate physical site factors and allocate future land use options. The output is a group report (group size 2-3) where each member focuses on at least one objective and collaborate on overall project and land use allocation. On project completion, a ‘post-completion’ check will take place. Both the ‘Group project and report’ assessment task and the group peer assessment task (BuddyCheck) will be moderated as part of this check. Based on the outcome of this, a post completion meeting will be arranged that includes an individual question and answer session as a check confirming authorship and project understanding. If you are unable to attend the field trip, resources will be provided in order to complete the assessment. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submitted online through Blackboard. Students need to store documentation for GIS tasks and retain a copy of submission.\nOnline submission via Blackboard only by the due date and time. Refer to Blackboard for the submission link. No hard copy or assignment cover sheets are required. Submission via email is not accepted.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nStudents must attend the ‘pre-completion’ meeting at their designated time. Please contact your course coordinator with supporting documentation of the exceptional circumstances that prevented you from attending for consideration of an alternate arrangement.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The GIS project is based on a site visited in the field trip to evaluate physical site factors and allocate future land use options. The output is a group report (group size 2-3) where each member focuses on at least one objective and collaborate on overall project and land use allocation. On project completion, a ‘post-completion’ check will take place. Both the ‘Group project and report’ assessment task and the group peer assessment task (BuddyCheck) will be moderated as part of this check. Based on the outcome of this, a post completion meeting will be arranged that includes an individual question and answer session as a check confirming authorship and project understanding. If you are unable to attend the field trip, resources will be provided in order to complete the assessment. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Team or group-based",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (23 Feb - 01 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Geographical data and information Course description and introduction to geographic concepts Practical: Using ArcGIS to make a map of UQ campus Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (02 Mar - 08 Mar)",
+      "activity_type": "Lecture",
+      "topic": "GIS Data Models and Capture To know the main spatial models for representing geographic data and ways of digitally capture it Practical: Data capture exercise to map a service feature on campus Learning outcomes: L02, L03, L08",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (09 Mar - 15 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Geospatial Data Characteristics and Cartographic Mapping Apply cartographic design principles for effective communication Practical: Mapping demand for a service feature on campus Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (16 Mar - 22 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Geospatial data as an infrastructure Know how geodetic datums and map projections work to integrate geospatial data Practical: Assistance to complete first practical exercise Learning outcomes: L02, L08",
+      "learning_outcomes": [
+        "L02",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (23 Mar - 29 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Raster Data Analysis Know how and when to apply raster geoprocessing techniques Practical: Use raster analysis to derive flood areas Learning outcomes: L02, L05",
+      "learning_outcomes": [
+        "L02",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (30 Mar - 05 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Vector Data Analysis Know how and when to apply vector geoprocessing techniques Practical: Use vector analysis to derive flood impacts Learning outcomes: L02, L05",
+      "learning_outcomes": [
+        "L02",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (13 Apr - 19 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Geodatabases and Queries Learn two data modelling methods to develop databases and doing data queries Practical: Create database table from flood inspection data and assess tolerable risks Learning outcomes: L02, L05",
+      "learning_outcomes": [
+        "L02",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (20 Apr - 26 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Mapping from satellite imagery Viewing and manipulation of satellite images in GIS No practical due to field trip Learning outcomes: L05, L07",
+      "learning_outcomes": [
+        "L05",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (20 Apr - 26 Apr)",
+      "activity_type": "Fieldwork",
+      "topic": "Day field trip for land use suitability study and stakeholder workshop Day field trip associated with the GIS Project for a land use suitability study. The field trip visits sites and conducts workshops in areas close to the University. Participation is expected; students may request not to attend (given a valid reason) but will be given an alternative activity. Learning outcomes: L03, L08",
+      "learning_outcomes": [
+        "L03",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (27 Apr - 03 May)",
+      "activity_type": "Lecture",
+      "topic": "Making decisions with GIS Know how to transform geospatial data into decision criteria and do additive decision analysis Practical: Building land use suitability maps in GIS Learning outcomes: L06, L07",
+      "learning_outcomes": [
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (04 May - 10 May)",
+      "activity_type": "Lecture",
+      "topic": "GIS programming Learn basic programming with Python to do custom tabular calculations Practical: Allocate land uses for objectives Learning outcomes: L03, L05",
+      "learning_outcomes": [
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (11 May - 17 May)",
+      "activity_type": "General contact hours",
+      "topic": "Consultation on GIS Land Use Project Zoom session open to consultation on GIS land use project Practical: Open session for GIS Project Learning outcomes: L06, L07, L08",
+      "learning_outcomes": [
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (18 May - 24 May)",
+      "activity_type": "Lecture",
+      "topic": "Pre-completion Check Group meetings arranged at lecture and practical times that includes individual questions as a threshold check (e.g., confirming authorship and project understanding). These are marked as feedback but do not raise the grade beyond the written submission. Learning outcomes: L04, L06, L08",
+      "learning_outcomes": [
+        "L04",
+        "L06",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (25 May - 31 May)",
+      "activity_type": "Lecture",
+      "topic": "Industry Talk Discuss course learnings, follow-on study options and GIS application opportunities. No practical"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

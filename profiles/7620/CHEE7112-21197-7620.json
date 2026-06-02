@@ -1,0 +1,249 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CHEE7112-21197-7620",
+  "scraped_at": "2026-06-02T04:22:29.233264+00:00",
+  "course_code": "CHEE7112",
+  "class_code": "21197",
+  "semester_code": "7620",
+  "full_course_code": "CHEE7112-21197-7620",
+  "course_title": "Integrated Safety Design and Management",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Chemical Engineering School",
+  "course_description": "Extension of CHEE4002 and themes integrated through the course. It will address issues of how to manage safety from two stand-points: Inherent safety in design and safety management of operations (safety indicators, human factors, reward systems etc). This will look at different tools (currently) used in industry as well emerging trends. Numerous case studies abound in this area and students will be asked to link these with current literature in the area.\n\nMajor accidents continue to occur in the process and related industries. It is vital that a systems perspective is taken on these issues which truly accounts for the effects of failure in plant, people and procedures. These system models which account in some way for the components of plant, people and procedures must lead to resilient systems that can adjust their functioning before, during and after major disturbances and/or failures. This course considers these issues, particularly around human factors in engineered systems as well as looking at the roles of inherent safety and safety instrumented systems in dealing with risk.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CHEE4060",
+      "CHEE2020",
+      "CHEE4002"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ENGG4020",
+      "ENGG6020",
+      "ENGG7020"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Bernardino Virdis",
+      "email": "b.virdis@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Bernardino Virdis",
+      "email": "b.virdis@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Stephan Tait",
+      "email": "s.tait@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Mr John Lee",
+      "email": "john.lee@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Ms Estabraq Al-gertan",
+      "email": "e.algertan@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nTimetables are available on mySI-net.",
+  "course_aims": "The course will extend the principles and practices developed in CHEE4002 Impact and Risk in the Process Industries. It will develop the knowledge areas, graduate application skills and engineering attitudes to tackle complex risk issues that lead to solutions that address the engineering design as well as the operations. It will consider such issues as: large scale system models for risk management, inherently safer design as well as the role of human and organizational factors in developing resilient systems. The outcomes will be driven by major industry case studies and a project in collaboration with industry. It will provide approaches and applications to enhanced decision making in complex risk situations.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Discern and evaluate existing and emerging system models that underpin approaches to dealing with risk and safe operation in complex industrial systems. Develop Acci-Map representations of system failures"
+    },
+    {
+      "number": "LO2.",
+      "description": "Analyse complex industrial systems to determine best actions in design to address risks through inherently safer design principles"
+    },
+    {
+      "number": "LO3.",
+      "description": "Critique and perform layer of protection analysis (LOPA) studies so as to assess risk levels and risk reduction strategies related to process plant"
+    },
+    {
+      "number": "LO4.",
+      "description": "Design and specify safety instrumented systems (SIS) for specific industrial case studies along with their implementation and assurance"
+    },
+    {
+      "number": "LO5.",
+      "description": "Evaluate the interaction of humans within complex engineered systems in order to enhance system resilience"
+    },
+    {
+      "number": "LO6.",
+      "description": "Investigate, analyse and design strategies for operator actions in industrial applications using cognitive work analysis (CWA) and strategy development and assessment"
+    },
+    {
+      "number": "LO7.",
+      "description": "Communicate assignment and project outcomes clearly, concisely and persuasively, in both written and oral formats, appropriate to the target audience"
+    },
+    {
+      "number": "LO8.",
+      "description": "Improve team work and communication skills through practice on projects"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation, Project",
+      "title": "Group Project A Report",
+      "weight": "10%",
+      "due_date": "20/03/2026 4:00 pm",
+      "conditions": [
+        "Team or group-based",
+        "Online"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Project",
+      "title": "Individual Assignment",
+      "weight": "20%",
+      "due_date": "17/04/2026 4:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Project",
+      "title": "Group Project B Report",
+      "weight": "40%",
+      "due_date": "22/05/2026 4:00 pm",
+      "conditions": [
+        "Team or group-based",
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Exam During Exam Period (School) - Oral Examination",
+      "weight": "30%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026; Examination Period",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Group Project A Report",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Project",
+      "weight": "10%",
+      "due_date": "20/03/2026 4:00 pm",
+      "other_conditions": "Peer assessment factor. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L05, L06, L07, L08",
+      "task_description": "Group Assignment. More detailed guidance will be given in class. Submissions will be through Blackboard. A Turnitin link will be made available before the due date. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "PDF must be submitted through Blackboard through the link provided.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nYou can request an extension on behalf of your group for a group assessment task, provided that at least 50% of your group members also agree to the request.\n1. Download and complete Extension of Group Assessment - Group Member Acknowledgement (DOCX, 40.8 KB)\n2. Attach the form to your extension request.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAn extension request is not considered late until 24 hours after the assessment due date & time.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Course Instance (CI), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Group Assignment. More detailed guidance will be given in class. Submissions will be through Blackboard. A Turnitin link will be made available before the due date. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Team or group-based",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Individual Assignment",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Project",
+      "weight": "20%",
+      "due_date": "17/04/2026 4:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "Individual Assignment. More detailed guidance will be given in class. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Report to be submitted via Turnitin.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAn extension request is not considered late until 24 hours after the assessment due date & time.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Course Instance (CI), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Individual Assignment. More detailed guidance will be given in class. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Group Project B Report",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "40%",
+      "due_date": "22/05/2026 4:00 pm",
+      "other_conditions": "Peer assessment factor. See the conditions definitions",
+      "learning_outcomes_assessed": "L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "Group project. Industry based project dealing with course content and skills applied to actual process design and/or operational issue. Submissions will be through Blackboard. A Turnitin link will be made available before the due date, as well as a submission portal for prepared questions for the site visit. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submissions will be through Blackboard. A Turnitin link will be made available before the due date.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nYou can request an extension on behalf of your group for a group assessment task, provided that at least 50% of your group members also agree to the request.\n1. Download and complete Extension of Group Assessment - Group Member Acknowledgement (DOCX, 40.8 KB)\n2. Attach the form to your extension request.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAn extension request is not considered late until 24 hours after the assessment due date & time.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Course Instance (CI), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Group project. Industry based project dealing with course content and skills applied to actual process design and/or operational issue. Submissions will be through Blackboard. A Turnitin link will be made available before the due date, as well as a submission portal for prepared questions for the site visit. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Team or group-based",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Exam During Exam Period (School) - Oral Examination",
+      "mode": "Oral",
+      "category": "Examination",
+      "weight": "30%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026 Examination Period",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "This will consist of an interview session which will be held during the exam period. 20 minutes will be allocated to each student. All course content and case studies are assessable during the oral exam. The exam timetable will be made available on Blackboard. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time no planning time minutes Duration 20 minutes Calculator options Any calculator permitted Open/closed book Closed book examination - no written materials permitted Exam platform Other Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAn extension request is not considered late until 24 hours after the assessment due date & time.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Course Instance (CI), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This will consist of an interview session which will be held during the exam period. 20 minutes will be allocated to each student. All course content and case studies are assessable during the oral exam. The exam timetable will be made available on Blackboard. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Tutorial",
+      "topic": "Tutorials There are two-hour tutorial sessions each week that will provide students with theory as well as opportunities to discuss and practically apply the theory and techniques taught. These are compulsory for all students to attend. The attendance and participation in these session will be in part reflected in the moderated peer assessment. Learning outcomes: L01, L02, L03, L04, L05, L06, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Lectures Lectures are pre-recorded and available to students on Blackboard. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: School of Chemical Engineering site Safety Induction for Practicals Course guidelines Anyone undertaking courses with a practical component must complete the UQ Undergraduate Student Laboratory Safety Induction and pass the associated assessment. Specific instructions, usage guidelines and rules for each of the undergraduate laboratories will be delivered as part of each course. In some cases, students may be required to attend a specific face-to-face laboratory induction/training session. Learning activities"
+}

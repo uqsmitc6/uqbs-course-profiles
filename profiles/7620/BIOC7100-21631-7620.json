@@ -1,0 +1,324 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BIOC7100-21631-7620",
+  "scraped_at": "2026-06-02T04:20:50.213789+00:00",
+  "course_code": "BIOC7100",
+  "class_code": "21631",
+  "semester_code": "7620",
+  "full_course_code": "BIOC7100-21631-7620",
+  "course_title": "Structural and Synthetic Biology",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Chemistry & Molec Biosciences",
+  "course_description": "The understanding of molecular structure and function is of central importance to students undertaking a major in the biological or chemical fields. This course focuses on concepts of DNA/RNA, protein, lipid and carbohydrate relating structure to function. Some content and assignments are based on current literature describing recent DNA and protein structures and how structure can inform about function. Laboratory work will emphasize the techniques required to analyse biomolecules in the context of an extended student-driven synthetic biology project. Students will explore modern methods in structural biology in a second extended laboratory project.\n\nIn BIOC7100, you will further develop your understanding of biochemistry and molecular biology. You will learn about fundamental concepts of macromolecular structure and function, biochemical energy transduction, information transfer, systems integration and molecular evolution in the context of several “big questions” at the frontiers of research today. Parallel themes in each module will cover the structure and function of major biological molecules and fundamental biochemical functions common to all kingdoms of life. Examples relevant to human medicine will be included but the focus is broader than on simply human or mammalian biochemistry. Practicals focussed on synthetic and structural biology will integrate and synthesise your prior learning and introduce you to current research techniques.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "BIOC2000",
+      "We recommend completing the following courses before enrolling in this one:",
+      "Students from outside UQ should have a good understanding of the structure and function of proteins, DNA and carbohydrates."
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "BIOC3000",
+      "BIOC3900"
+    ]
+  },
+  "course_staff": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Michael Landsberg",
+      "email": "m.landsberg1@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Michael Landsberg",
+      "email": "m.landsberg1@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Elizabeth Gillam",
+      "email": "e.gillam@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Anne Sawyer",
+      "email": "a.sawyer@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Benjamin Schulz",
+      "email": "b.schulz@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Bostjan Kobe",
+      "email": "b.kobe@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor James Fraser",
+      "email": "j.fraser1@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Ariel Isaacs",
+      "email": "a.isaacs@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Daniel Watterson",
+      "email": "d.watterson@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease refer to the timetable on the BIOC3000/3900/7100 blackboard site for the most current timetable information as not all learning activities are scheduled in every week.",
+  "course_aims": "This advanced biochemistry and molecular biology course will provide postgraduate students with an understanding of the structural biology of biomolecules, the way in which biological information transfer occurs in different molecular contexts (e.g. regulation of gene expression and transduction of environmental signals), and the mechanisms by which the evolutionary process shapes protein function at the molecular level. We will explore the ways in which an understanding of molectular structure and function can be used to design novel bio-inspired systems and devices using engineered genes and proteins as bio-bricks for synthetic biology. Methods for structure determination, namely X-ray crystallography and CryoEM will be covered along with other contemporary molecular techniques in the context of two extended projects in synthetic biology and structure determination respectively. Through BIOC7100, students will also develop an awareness of good scientific practice (both in the laboratory and in writing up and reporting on published data) and practice the different styles of communication used in science.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Design and interpret simple experiments to examine the activity of enzymes"
+    },
+    {
+      "number": "LO2.",
+      "description": "Competently discuss the structure and function of important biological molecules including (but not exclusively) glycoproteins, enzymes, RNA and DNA binding proteins, ion channels and membrane trafficking proteins."
+    },
+    {
+      "number": "LO3.",
+      "description": "Suggest appropriate experimental tools that can be used to learn about the structure, function and activity of biological macromolecules, their capabilities and limitations. These include X-ray crystallography, cryo_EM, mass spectrometry, UV-vis spectrometry, spectrofluorimetry, and CRISPR gene editing."
+    },
+    {
+      "number": "LO4.",
+      "description": "Explain how synthetic biology approaches can be used to engineer novel enzymes and devices to address industrial challenges."
+    },
+    {
+      "number": "LO5.",
+      "description": "Competently discuss some of the big questions at the forefront of research in biochemistry and molecular biology today."
+    },
+    {
+      "number": "LO6.",
+      "description": "Demonstrate what constitutes good scientific practice."
+    },
+    {
+      "number": "LO7.",
+      "description": "Identify and use appropriate styles of communication for reporting scientific results for different purposes."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation, Participation/ Student contribution",
+      "title": "Synthetic biology practical report",
+      "weight": "25%",
+      "due_date": "23/04/2026 2:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Participation/ Student contribution",
+      "title": "Structural biology practical report",
+      "weight": "20%",
+      "due_date": "29/05/2026 2:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Synthetic biology practical report",
+      "mode": "Activity/ Performance, Written",
+      "category": "Paper/ Report/ Annotation, Participation/ Student contribution",
+      "weight": "25%",
+      "due_date": "23/04/2026 2:00 pm",
+      "learning_outcomes_assessed": "L01, L03, L04, L06, L07",
+      "task_description": "Students will undertake a series of student-directed practical exercises. Experiments will be planned out in tutorials prior to the class and students are expected to plan and write up their experiments in a laboratory notebook weekly. At the completion of this practical block, students will need to prepare and submit a practical report for assessment. Further details will be made available on the Course Blackboard site. Use of Artificial Intelligence (AI) or Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submit your Research Proposal through the course Turnitin submission point in Blackboard. Before submitting your assessment item to Turnitin please name your file in the following way. FAMILY NAME_GivenName_StudentID_CourseCode_AssignmentName For example: Bob Smith (ID: 54329876) would name his ABCD1234 essay 1 in the following way. SMITH_Bob_54329876_ABCD1234_Essay1\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nExtension applications must be received no later than 24 hours after the published assessment due date and time.\nRead the information contained in the following links carefully before submitting an application for extension to assessment due date.\nFor guidance on applying for an extension, information is available here .\nFor the policy relating to extensions, information is available here (Part D).\nInformation on medical certificates\nPlease note the University's requirements for medical certificates here .\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period). 10% will be deducted per day for up to 7 calendar days, at which point your submission will receive a mark of zero (0) unless an extension has been approved.\nIn most instances one or more hurdles will apply to your assessment item so you will need to submit it to fulfill the requirements of the course regardless of how late it is and the mark you are likely to be awarded.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Students will undertake a series of student-directed practical exercises. Experiments will be planned out in tutorials prior to the class and students are expected to plan and write up their experiments in a laboratory notebook weekly. At the completion of this practical block, students will need to prepare and submit a practical report for assessment. Further details will be made available on the Course Blackboard site. Use of Artificial Intelligence (AI) or Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) or Machine Translation (MT)\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Structural biology practical report",
+      "mode": "Activity/ Performance, Written",
+      "category": "Paper/ Report/ Annotation, Participation/ Student contribution",
+      "weight": "20%",
+      "due_date": "29/05/2026 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L06, L07",
+      "task_description": "Students will have the opportunity to learn and implement aspects of two commonly used research techniques for determining molecular structure – X-ray crystallography and electron cryo-microscopy (cryo-EM). The practical is focused on the structure of a particular protein – ferritin – which is an important protein for storage and transport of intracellular iron. In order to determine the structure of a protein by X-ray crystallography, it is first necessary to grow crystals of the protein of interest, and students will set up crystallisation trials for ferritin as well as a series of control proteins. Students will then learn about the process of obtaining diffraction data from crystals, and also about how to collect data by cryo-EM, which is particularly useful in cases where crystallisation fails. Students will then have the opportunity to process images of ferritin obtained by cryo-EM through to the point of obtaining a high resolution structure and will explore and interpret this structure further using molecular visualisation and model building. At the completion of this practical block, students will need to prepare and submit a practical report for assessment. Further details will be made available on the Course Blackboard site. Use of Artificial Intelligence (AI) or Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submit your Structural Biology Prac Report through the course Turnitin submission point in Blackboard. Before submitting your assessment item to Turnitin please name your file in the following way. FAMILY NAME_GivenName_StudentID_CourseCode_AssignmentName For example: Bob Smith (ID: 54329876) would name his ABCD1234 essay 1 in the following way. SMITH_Bob_54329876_ABCD1234_Essay1\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nExtension applications must be received no later than 24 hours after the published assessment due date and time.\nRead the information contained in the following links carefully before submitting an application for extension to assessment due date.\nFor guidance on applying for an extension, information is available here .\nFor the policy relating to extensions, information is available here (Part D).\nInformation on medical certificates\nPlease note the University's requirements for medical certificates here .\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period). 10% will be deducted per day for up to 7 calendar days, at which point your submission will receive a mark of zero (0) unless an extension has been approved.\nIn most instances one or more hurdles will apply to your assessment item so you will need to submit it to fulfil the requirements of the course regardless of how late it is and the mark you are likely to be awarded.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Students will have the opportunity to learn and implement aspects of two commonly used research techniques for determining molecular structure – X-ray crystallography and electron cryo-microscopy (cryo-EM). The practical is focused on the structure of a particular protein – ferritin – which is an important protein for storage and transport of intracellular iron. In order to determine the structure of a protein by X-ray crystallography, it is first necessary to grow crystals of the protein of interest, and students will set up crystallisation trials for ferritin as well as a series of control proteins. Students will then learn about the process of obtaining diffraction data from crystals, and also about how to collect data by cryo-EM, which is particularly useful in cases where crystallisation fails. Students will then have the opportunity to process images of ferritin obtained by cryo-EM through to the point of obtaining a high resolution structure and will explore and interpret this structure further using molecular visualisation and model building. At the completion of this practical block, students will need to prepare and submit a practical report for assessment. Further details will be made available on the Course Blackboard site. Use of Artificial Intelligence (AI) or Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) or Machine Translation (MT)\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The final exam will consist of short answer questions based on the lecture content. Use of Artificial Intelligence (AI) and Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The final exam will consist of short answer questions based on the lecture content. Use of Artificial Intelligence (AI) and Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 2",
+      "activity_type": "Lecture",
+      "topic": "Module 1 - Gillam Learning outcomes: L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Lecture",
+      "topic": "Introduction to course"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 7",
+      "activity_type": "Practical",
+      "topic": "Synthetic Biology Practical Students will undertake a series of student-directed practical exercises. Experiments will be planned out in tutorials prior to the class and students are expected to plan and write up their experiments in a laboratory notebook, in IMRaD format (Introduction, Methods, Results and Discussion). In the final week of the practical, students will design and carry out their own independent experiment, from which they will prepare a prac report for assessment. Learning outcomes: L01, L03, L04, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 7",
+      "activity_type": "Tutorial",
+      "topic": "Tutorials supporting the Synthetic Biology practical Two one-hour tutorials will be held in weeks 2 and 7 supporting the SynBio practical sessions and preparation of assessment. Learning outcomes: L01, L03, L04, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 3 To Week 4",
+      "activity_type": "Lecture",
+      "topic": "Module 2 - Sawyer Learning outcomes: L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 5 To Week 6",
+      "activity_type": "Lecture",
+      "topic": "Module 3 - Schulz Learning outcomes: L02, L03, L05, L06",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 7 To Week 8",
+      "activity_type": "Lecture",
+      "topic": "Module 4 - Kobe Learning outcomes: L02, L03, L05, L06",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 8 To Week 12",
+      "activity_type": "Practical",
+      "topic": "Structural Biology Practical Students will have the opportunity to learn and implement aspects of two commonly used research techniques for determining molecular structure – X-ray crystallography and electron cryo-microscopy (cryo-EM). The practical is focused on the structure of a particular protein – ferritin – which is an important protein for storage and transport of intracellular iron. In order to determine the structure of a protein by X-ray crystallography, it is first necessary to grow crystals of the protein of interest, and students will set up crystallisation trials for ferritin as well as a series of control proteins. Students will then learn about the process of obtaining diffraction data from crystals, and also about how to collect data by cryo-EM, which is particularly useful in cases where crystallisation fails. Students will then have the opportunity to process images of ferritin obtained by cryo-EM through to the point of obtaining a high resolution structure and will explore and interpret this structure further using molecular visualisation and model building. Learning outcomes: L02, L03, L06, L07",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 9 To Week 10",
+      "activity_type": "Lecture",
+      "topic": "Module 5 - Landsberg Learning outcomes: L02, L03, L05, L06",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 11 To Week 12",
+      "activity_type": "Lecture",
+      "topic": "Module 6 - Fraser Learning outcomes: L02, L03, L05, L06",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Lecture",
+      "topic": "Review Session Review Q&A session with lecturers in the course. Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

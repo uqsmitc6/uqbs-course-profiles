@@ -1,0 +1,245 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE2002-21214-7620",
+  "scraped_at": "2026-06-02T04:24:03.906529+00:00",
+  "course_code": "CSSE2002",
+  "class_code": "21214",
+  "semester_code": "7620",
+  "full_course_code": "CSSE2002-21214-7620",
+  "course_title": "Programming in the Large",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Working on large and complex software systems and ensuring those systems remain maintainable requires disciplined, individual practices. Software must be well-specified, well-implemented and well-tested. This course covers concepts and techniques in modern programming languages that help support good practice (such as OO concepts, genericity and exception handling) with specific application to file IO and GUIs in Java.\n\nTo effectively manage the complexity of large software systems, higher-level language constructs are required. In particular, classes to implement independent abstractions with robust and compact interfaces are required. This course utilizes the Java programming language to introduce students to the details of concepts such as object-oriented programming, data abstraction, design, refactoring and unit testing. These concepts are used to refine the quality of ones individual code contributions such that the contribution is suitable to be integrated with large software systems.\n\nCourse Changes in Response to Previous Student Feedback",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE1001",
+      "ENGG1001"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP2500",
+      "COMP7908",
+      "CSSE7023"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Thilina Halloluwa",
+      "email": "CSSE2002@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Thilina Halloluwa"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nYou must sign up for one practical and one applied class session.\nLectures begin in week 1. Practical and applied classes begin in week 2.",
+  "course_aims": "Working on large and complex software systems and ensuring those systems remain maintainable requires disciplined, individual practices. Software must be well-specified, well-implemented and well-tested. This course covers concepts and techniques in modern programming languages that help support good practice (such as data abstraction, genericity and exception handling).",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Implement object-oriented programs according to their specifications."
+    },
+    {
+      "number": "LO2.",
+      "description": "Test components of object-oriented programs (using a testing framework)."
+    },
+    {
+      "number": "LO3.",
+      "description": "Write, document and analyse code which uses language features such as inheritance, interfaces, exceptions and I/O."
+    },
+    {
+      "number": "LO4.",
+      "description": "Judge whether a program follows good practice."
+    },
+    {
+      "number": "LO5.",
+      "description": "Write, interpret and critique specifications for program modules (e.g. classes or interfaces)."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Problem Sets",
+      "weight": "10%",
+      "due_date": "Week 2: 4/03/2026 1:00 pm; Week 3: 11/03/2026 1:00 pm; Week 4: 18/03/2026 1:00 pm; Week 5: 25/03/2026 1:00 pm; Week 8: 22/04/2026 1:00 pm; Week 9: 29/04/2026 1:00 pm; Week 12: 20/05/2026 1:00 pm; Week 13: 27/05/2026 1:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code",
+      "title": "Assignment 1",
+      "weight": "20%",
+      "due_date": "2/04/2026 1:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Computer Code, Practical/ Demonstration",
+      "title": "Assignment 1 Practical",
+      "weight": "Pass/Fail",
+      "due_date": "13/04/2026 - 17/04/2026; During your assigned practical session.",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code",
+      "title": "Assignment 2",
+      "weight": "25%",
+      "due_date": "15/05/2026 1:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "45%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Problem Sets",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "10%",
+      "due_date": "Week 2: 4/03/2026 1:00 pm Week 3: 11/03/2026 1:00 pm Week 4: 18/03/2026 1:00 pm Week 5: 25/03/2026 1:00 pm Week 8: 22/04/2026 1:00 pm Week 9: 29/04/2026 1:00 pm Week 12: 20/05/2026 1:00 pm Week 13: 27/05/2026 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "Problem sets may include implementing solutions to programming problems, reviewing code quality, refactoring existing code, or developing test cases. Refer to the assessment task sheet. You may also be asked to attend an interview about your submission (see the Additional assessment information section below). Students may appropriately use Artificial Intelligence (AI) and/or Machine Translation (MT) in completing this assessment task. Students must clearly reference any use of AI or MT, as specified by the task sheet. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submission will be via the Ed Lessons platform, unless otherwise specified.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nBecause only the best 6 of 8 will contribute to the mark for this assessment item and answers are released soon after the due date, no extensions are permitted.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nBecause the answers are released soon after the due date, and only the best 6 of 8 will contribute to the mark for this assessment item a 100% penalty will be applied to late submission.\nThis has been approved by the Associate Dean (Academic)",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Problem sets may include implementing solutions to programming problems, reviewing code quality, refactoring existing code, or developing test cases. Refer to the assessment task sheet. You may also be asked to attend an interview about your submission (see the Additional assessment information section below). Students may appropriately use Artificial Intelligence (AI) and/or Machine Translation (MT) in completing this assessment task. Students must clearly reference any use of AI or MT, as specified by the task sheet. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nStudents may appropriately use Artificial Intelligence (AI) and/or Machine Translation (MT) in completing this assessment task. Students must clearly reference any use of AI or MT, as specified by the task sheet. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 1",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code",
+      "weight": "20%",
+      "due_date": "2/04/2026 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L05",
+      "task_description": "This assignment will provide practice at implementing and testing Java programs to a given specification. You may also be asked to attend an interview about your submission (see the Additional assessment information section below). Students may appropriately use Artificial Intelligence (AI) and/or Machine Translation (MT) in completing this assessment task. Students must clearly reference any use of AI or MT, as specified by the task sheet. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online via Gradescope, unless otherwise specified.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nExtensions are not available for this assessment item as feedback is given to students very rapidly.\nAssignment is auto marked and marked assessment will be released within 3 days of the due date to permit students to progress with follow up assignments.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours (or part thereof) from the deadline (or your extended deadline, if applicable) for up to 3 days. After 3 days (72 hours), you will receive a mark of zero.\nThe modified late penalty applies as the assessment is auto marked and marked assessment will be released within 3 days of the due date to permit students to progress with follow up assignments.\nThis has been approved by the Associate Dean (Academic)",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours (or part thereof) from the deadline (or your extended deadline, if applicable) for up to 3 days. After 3 days (72 hours), you will receive a mark of zero.",
+      "ai_statement": "This assignment will provide practice at implementing and testing Java programs to a given specification. You may also be asked to attend an interview about your submission (see the Additional assessment information section below). Students may appropriately use Artificial Intelligence (AI) and/or Machine Translation (MT) in completing this assessment task. Students must clearly reference any use of AI or MT, as specified by the task sheet. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nStudents may appropriately use Artificial Intelligence (AI) and/or Machine Translation (MT) in completing this assessment task. Students must clearly reference any use of AI or MT, as specified by the task sheet. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 1 Practical",
+      "mode": "Activity/ Performance, Product/ Artefact/ Multimedia",
+      "category": "Computer Code, Practical/ Demonstration",
+      "weight": "Pass/Fail",
+      "due_date": "13/04/2026 - 17/04/2026 During your assigned practical session.",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L05",
+      "task_description": "This item forms the secure element of Assignment 1. During your allocated session, you will be required to complete [X] specific programming tasks (e.g., modifying, extending, or re-implementing logic) based on your Assignment 1 submission. Students must attend their allocated practical session with a WIFI-enabled computer capable of running the development environment (specified in the Learning Resources section) for the duration of the session. It is the student's responsibility to ensure their device is functional and charged. Technical failure of personal equipment during the session will not be grounds for a reschedule or a waiver of the cap. Failure to do so may result in a failure. Your performance in this session will contribute to your Assignment 1 mark, as specified in the Assignment 1 task sheet. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nIf you are unable to attend your allocated practical session, one reschedule is permitted. To apply for a reschedule, you need to apply for an extension via my.UQ.\nIf approved, to arrange a reschedule, please follow the formal procedure outlined in the Assignment 1 task sheet.\nIf you do not attend your session, the mark for this assessment will be zero and subsequently you will receive zero marks for Assignment 1.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nConsistent with industry practice around presentations to clients/industry partners, no late submissions will be accepted and a 100% late penalty applies.\nThis has been approved by the Associate Dean (Academic)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "This item forms the secure element of Assignment 1. During your allocated session, you will be required to complete [X] specific programming tasks (e.g., modifying, extending, or re-implementing logic) based on your Assignment 1 submission. Students must attend their allocated practical session with a WIFI-enabled computer capable of running the development environment (specified in the Learning Resources section) for the duration of the session. It is the student's responsibility to ensure their device is functional and charged. Technical failure of personal equipment during the session will not be grounds for a reschedule or a waiver of the cap. Failure to do so may result in a failure. Your performance in this session will contribute to your Assignment 1 mark, as specified in the Assignment 1 task sheet. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Assignment 2",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code",
+      "weight": "25%",
+      "due_date": "15/05/2026 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "This assignment will provide practice at implementing/reviewing software in Java, as well as debugging software based on automated test feedback and refactoring software to be more maintainable, readable, and re-usable. Additionally, you may be required to write a report on design/implementation decisions you made to improve the software. You may also be asked to attend an interview about your submission (see the Additional assessment information section below). Students may appropriately use Artificial Intelligence (AI) and/or Machine Translation (MT) in completing this assessment task. Students must clearly reference any use of AI or MT usage, as specified by the task sheet. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct Read full task description Hide full task description",
+      "submission_guidelines": "Online via Gradescope unless otherwise specified for a particular assessment item.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assignment will provide practice at implementing/reviewing software in Java, as well as debugging software based on automated test feedback and refactoring software to be more maintainable, readable, and re-usable. Additionally, you may be required to write a report on design/implementation decisions you made to improve the software. You may also be asked to attend an interview about your submission (see the Additional assessment information section below). Students may appropriately use Artificial Intelligence (AI) and/or Machine Translation (MT) in completing this assessment task. Students must clearly reference any use of AI or MT usage, as specified by the task sheet. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct Read full task description Hide full task description\nStudents may appropriately use Artificial Intelligence (AI) and/or Machine Translation (MT) in completing this assessment task. Students must clearly reference any use of AI or MT usage, as specified by the task sheet. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct"
+    },
+    {
+      "id": "assessment-detail-4",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "45%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The final exam will be an on-campus, invigilated paper-based exam. The exam has specified materials permitted. One A4 sheet of handwritten or typed notes double-sided is permitted. You may use a Casio fx-82 or UQ approved and labelled calculator. Rough paper will be provided. The exam covers all course materials from the whole semester. Question formats may include multiple choice, short answer, calculations, and programming tasks. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The final exam will be an on-campus, invigilated paper-based exam. The exam has specified materials permitted. One A4 sheet of handwritten or typed notes double-sided is permitted. You may use a Casio fx-82 or UQ approved and labelled calculator. Rough paper will be provided. The exam covers all course materials from the whole semester. Question formats may include multiple choice, short answer, calculations, and programming tasks. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Lectures Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13",
+      "activity_type": "Applied Class",
+      "topic": "Applied Class Applied classes explore theoretical aspects of the course via exercises. A computer is not required for these classes. Learning outcomes: L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13",
+      "activity_type": "Practical",
+      "topic": "Practicals Practical classes involve writing, extending, and refactoring code. Students must bring their own device capable of running the software requirements specified by the \"Development Environment\" under Learning Resources. Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

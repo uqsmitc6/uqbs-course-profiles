@@ -1,0 +1,182 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COSC3000-20635-7620",
+  "scraped_at": "2026-06-02T04:23:47.232571+00:00",
+  "course_code": "COSC3000",
+  "class_code": "20635",
+  "semester_code": "7620",
+  "full_course_code": "COSC3000-20635-7620",
+  "course_title": "Visualization, Computer Graphics & Data Analysis",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Scientific visualisation is the use of images to provide insight into phenomena, and is a key tool for the analysis and understanding of biological, physical and engineering processes. It is becoming ever more important as the size of data sets continue to grow due to increasing power of computers and measurement devices. This course provides an introduction to computer graphics, data analysis and visualisation as tools to understand and interpret real world data and output from large-scale computational models.\n\nScientific visualisation is a powerful tool used to develop a deeper understanding of the data and to provide new insight into the phenomenon studied by relying on humans' powerful visual system.ﾠ Scientific visualisation techniques based on computer graphics allow scientists to create graphical representations of 2D and 3D data collected by scientific instruments (microscopes, telescopes, microarrays, etc.) or from computations and simulations. Time series and 4D (3D+time) data also can be analysed and understood. Scientific visualisation utilises a blend of computer graphics, image processing, signal processing, statistics, user-interface methodology, system design and creative flair.\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against UQ Policy, ﾠ and will not be tolerated. We have developed a ﾠ suite of resources ﾠto assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "COSC2500",
+      "CSSE2002",
+      "We recommend completing the following courses before enrolling in this one:",
+      "SCIE2100"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH3203"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Timo Nieminen",
+      "email": "timo@physics.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Timo Nieminen",
+      "email": "timo@physics.uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Holger Baumgardt",
+      "email": "h.baumgardt@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus. Consult your personal timetable for times and locations. Students are expected to attend one computer lab session per week, and can attend any lab session.\nThere will be no lecture or computer lab sessions on Monday in week 10, due to the Labour Day public holiday.",
+  "course_aims": "COSC3000 introduces concepts, techniques and principles relating to:\n\nThis course will provide students with the theoretical knowledge and practical skills to create computer graphics and visualisations that provide insight into the processes that the data represent. Students will use programming languages such as Python and off the shelf software applications such as Matlab to create computer programs to visualise scientific data (experimental, numerical output, etc).\n\nThe course has a strong practical/programming component and provides a link with real-world applications.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "1. Visualisation 1.1 Describe the core principles and conceptual frameworks that are used in scientific visualisation. 1.2 Graphically and meaningfully represent scientific data by developing hands-on skills with different data visualisation techniques. 1.3 Become familiar with several visualisation techniques and at least one visualisation software application. 1.4 Understand different techniques appropriate to 1D, 2D, 3D and multi-dimensional datasets and apply them to a given problem."
+    },
+    {
+      "number": "LO2.",
+      "description": "2. Data Analysis 2.1 Discover and download data from on-line scientific databases 2.2 Understand and work with common data formats 2.3 Perform basic statistical analysis of data to identify trends, missing values and outliers; appreciate errors: their nature, distribution and origin."
+    },
+    {
+      "number": "LO3.",
+      "description": "3. Computer Graphics 3.1 Describe the core principles and conceptual frameworks that are used in computer graphics. 3.2 Explain some of the low-level algorithms and models that underpin computer graphics software. 3.3 Implement programs that utilize the key components of computer graphics, using several existing software libraries."
+    },
+    {
+      "number": "LO4.",
+      "description": "4. Problem Solving 4.1 Develop problem-solving skills by working on projects in computer graphics and visualisation, possibly in collaboration with a researcher at UQ or other research institutions 4.2 Continue to learn by reading relevant scientific literature with a view to using new ideas in future scientific problems."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Project",
+      "title": "Project - Scientific Visualisation",
+      "weight": "8 marks, must pass",
+      "due_date": "21/04/2026 - 15/05/2026; There are two due dates available for the scientific visualisation and computer graphics projects: the Tuesday of week 8 (21/4/2026) and the Friday of week 11 (15/5/2026). One of those two projects is to be submitted by 21/4, and the other by 15/5. Students can choose which project to submit first. Projects are to be submitted by 3pm on the due dates.",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Project",
+      "title": "Project - Computer Graphics",
+      "weight": "8 marks, must pass",
+      "due_date": "21/04/2026 - 15/05/2026; There are two due dates available for the scientific visualisation and computer graphics projects: the Tuesday of week 8 (21/4/2026) and the Friday of week 11 (15/5/2026). One of those two projects is to be submitted by 21/4, and the other by 15/5. Students can choose which project to submit first. Projects are to be submitted by 3pm on the due dates.",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Project",
+      "title": "Major Project",
+      "weight": "60 marks",
+      "due_date": "16/06/2026 1:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester Exam",
+      "weight": "12 marks, must pass",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Project - Scientific Visualisation",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Project",
+      "weight": "8 marks, must pass",
+      "due_date": "21/04/2026 - 15/05/2026 There are two due dates available for the scientific visualisation and computer graphics projects: the Tuesday of week 8 (21/4/2026) and the Friday of week 11 (15/5/2026). One of those two projects is to be submitted by 21/4, and the other by 15/5. Students can choose which project to submit first. Projects are to be submitted by 3pm on the due dates.",
+      "task_description": "You will be provided with a dataset, and will use it to generate visualisations, and use those to explore the data and to communicate the data. You will write a report showing your results and describing how you produced those results. This should be submitted in a standard format such as pdf. Supplementary materials such as animations can be submitted as separate files. Pass: 1-2 marks Credit: 3-4 marks Distinction: 5-6 marks High distinction: 7-8 marks Read full task description Hide full task description",
+      "submission_guidelines": "Project reports will be submitted electronically through Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Project - Computer Graphics",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Project",
+      "weight": "8 marks, must pass",
+      "due_date": "21/04/2026 - 15/05/2026 There are two due dates available for the scientific visualisation and computer graphics projects: the Tuesday of week 8 (21/4/2026) and the Friday of week 11 (15/5/2026). One of those two projects is to be submitted by 21/4, and the other by 15/5. Students can choose which project to submit first. Projects are to be submitted by 3pm on the due dates.",
+      "task_description": "You will complete a computer graphics task, demonstrating the ability to use coordinate geometry and transformations to describe and control objects in a 3D space, and use existing visualisation/graphics tools to display those objects. You will write a report showing your results and describing how you produced those results. This should be submitted in a standard format such as pdf. Supplementary materials such as animations can be submitted as separate files. Pass: 1-2 marks Credit: 3-4 marks Distinction: 5-6 marks High distinction: 7-8 marks Read full task description Hide full task description",
+      "submission_guidelines": "Project reports will be submitted electronically through Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Major Project",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Project",
+      "weight": "60 marks",
+      "due_date": "16/06/2026 1:00 pm",
+      "task_description": "For your project you are expected to demonstrate skills and techniques beyond those used in the first two assignments. Your project can focus on either section of the course, data visualisation or computer graphics, or can span both sections. You can choose the scope of your project, from a full-length project to a shorter more limited project. Projects will typically include a written report, and can include other material such as animations, interactive visualisations, video, etc. Full project (1-60 marks): For example, you can choose a complex dataset and explore and visually communicate the data therein (possibly using computer graphics techniques), create a computer graphics program such as a ray tracer, or use existing computer graphics tools to create a visualisation of your choice demonstrating your grasp of computer graphics. A full project should demonstrate a broad range of visualisation or graphics techniques, including advanced techniques. It should also demonstrate your understanding of these techniques. Mini project (1-40 marks): Similar to full project, but aims to demonstrate a narrower range of techniques. Micro project (1-20 marks): Student demonstrates their understanding of a topic in visualisation or graphics. This can be primarily a demonstration of a technique, a tutorial presenting a technique or topic, a literature review of a topic, or another suitable format. We strongly recommend that you submit a proposal describing your planned topic by the start of week 6. Your proposal should include: What - what are the topic, scope, and goal of your project? Why - why is your project important and/or interesting? How - how will you go achieve the goal of your project? Details - enough detail to allow us to judge the feasibility and suitability of your proposed project. For example, what is your data source, what graphics techniques will you demonstrate, etc. Further details on projects, project scope, project topics, and marking will be available during the semester. Read full task description Hide full task description",
+      "submission_guidelines": "Project reports will be submitted electronically through Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End of Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "12 marks, must pass",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "task_description": "The End of Semester exam will include a reflection (which must be passed), and questions on visualisation and computer graphics. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed book examination - specified written materials permitted Materials Bilingual dictionary Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Applied Class",
+      "topic": "Computer labs The applied classes are a chance for you to reinforce, apply, and test your knowledge of the material covered during the lectures. Teaching staff will provide assistance during the computer labs. Note that all timetabled labs will cover both the visualisation and computer graphics content."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 11",
+      "activity_type": "Lecture",
+      "topic": "Weekly Lectures There are two 1-hour lectures per week. We will cover important concepts and examples during each lecture. One lecture will cover visualisation, and one lecture will cover computer graphics"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

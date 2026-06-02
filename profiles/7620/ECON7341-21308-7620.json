@@ -1,0 +1,343 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ECON7341-21308-7620",
+  "scraped_at": "2026-06-02T04:25:46.410356+00:00",
+  "course_code": "ECON7341",
+  "class_code": "21308",
+  "semester_code": "7620",
+  "full_course_code": "ECON7341-21308-7620",
+  "course_title": "Productivity and Efficiency Analysis",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Economics School",
+  "course_description": "This course provides a comprehensive coverage of modern methods for analysing the productivity and efficiency of different types of decision-making units (e.g., individuals, firms, industries, regions, economies). Students learn how different assumptions concerning technologies, markets and firm behaviour can be used to guide the construction of proper productivity indexes. They then learn how these indexes can be exhaustively decomposed into measures of technical change, environmental change, and various types of efficiency change. Students learn how to estimate these components using data envelopment analysis (DEA), deterministic frontier analysis (DFA) and stochastic frontier analysis (SFA) methods. Students gain an understanding of why the estimation of these components is critically important for public policy-making. The course has a strong applied focus.\n\nA central theme of the course is the distinction between measuring productivity change and explaining productivity change. Students learn that, given data on outputs and inputs, productivity can be measured using index number methods without specifying an economic model of production, whereas explaining productivity change requires explicit models of production and firm behaviour. Within this framework, the course provides a structured, step-by-step guide to selecting and implementing alternative index number and production frontier estimation methods. Students analyse data using R in RStudio .",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ECON2300",
+      "We recommend completing the following courses before enrolling in this one:",
+      "ECON2050",
+      "ECON7250"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ECON3340"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Christopher O'Donnell",
+      "email": "c.odonnell1@uq.edu.au"
+    },
+    {
+      "role": "School enquiries",
+      "name": "School Enquiries, School of Economics",
+      "email": "enquiries@economics.uq.edu.au",
+      "notes": "All enquiries regarding student and academic administration (i.e. non-course content information, e.g., class allocation, timetables, extension to assessment due date, etc.) should be directed to enquiries@economics.uq.edu.au . Enquiries relating specifically to course content should be directed to the Course Coordinator/Lecturer."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Christopher O'Donnell",
+      "email": "c.odonnell1@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Professor Christopher O'Donnell",
+      "email": "c.odonnell1@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLectures commence in Week 1. Tutorials commence in Week 2. Students should refer to the timetable prior to the commencement of classes to ensure that they have the most up to date information, as from time to time late room changes may occur.\nImportant Dates:\nPublic Holidays\n: Fri 3 April (Good Friday), Mon 4 May (Labour Day).\nMid-Semester Break\n: 6 April - 10 April. Semester 1 classes recommence on Mon 13 April.",
+  "course_aims": "The aims of this course are to",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "explain the most common assumptions made about production technologies (e.g., inactivity, no free lunch)."
+    },
+    {
+      "number": "LO2.",
+      "description": "compute measures of output and input quantity change (and therefore productivity change) in ways that are consistent with measurement theory."
+    },
+    {
+      "number": "LO3.",
+      "description": "explain the situations under which different firm managers may choose to maximise output, minimise input, maximise revenue, minimise cost, maximise profit and/or maximise productivity."
+    },
+    {
+      "number": "LO4.",
+      "description": "define various measures of technical, mix, scale, allocative, revenue, cost and profit efficiency."
+    },
+    {
+      "number": "LO5.",
+      "description": "explain the main assumptions that underpin piecewise frontier analysis and use DEA and FDH methods to estimate a piecewise-linear frontier"
+    },
+    {
+      "number": "LO6.",
+      "description": "explain the main assumptions that underpin deterministic frontier analysis and use GA, LS and ML methods to estimate the parameters of a deterministic frontier model"
+    },
+    {
+      "number": "LO7.",
+      "description": "explain the main assumptions that underpin stochastic frontier analysis and use LS and ML methods to estimate the parameters of a stochastic frontier model"
+    },
+    {
+      "number": "LO8.",
+      "description": "use DEA, LS and ML methods to estimate levels of technical, cost, revenue and profit efficiency."
+    },
+    {
+      "number": "LO9.",
+      "description": "use DEA, LS and ML methods to decompose proper TFP indexes into measures of technical change, environmental change and various types of efficiency change."
+    },
+    {
+      "number": "LO10.",
+      "description": "identify the policies that governments might use to target the different drivers of productivity change."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "MCQs",
+      "weight": "30%",
+      "due_date": "Quiz 1: Technologies 12/03/2026 1:00 pm; Quiz 2: Productivity 19/03/2026 1:00 pm; Quiz 3: Efficiency 2/04/2026 1:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "In-semester Exam",
+      "weight": "30%",
+      "due_date": "End of the Week 7 tutorial.",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment 1: PFA",
+      "weight": "20%",
+      "due_date": "8/05/2026 4:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment 2: DFA and SFA",
+      "weight": "20%",
+      "due_date": "29/05/2026 4:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "MCQs",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "30%",
+      "due_date": "Quiz 1: Technologies 12/03/2026 1:00 pm Quiz 2: Productivity 19/03/2026 1:00 pm Quiz 3: Efficiency 2/04/2026 1:00 pm",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "Each quiz is worth 10%. Quiz 1 will cover production technologies. Quiz 2 will cover measures of productivity change. Quiz 3 will cover managerial behaviour and measures of efficiency. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Students will have 30 minutes to complete each quiz. Each quiz will be released on Blackboard at 7am and must be completed by 1pm on the due date.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Each quiz is worth 10%. Quiz 1 will cover production technologies. Quiz 2 will cover measures of productivity change. Quiz 3 will cover managerial behaviour and measures of efficiency. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nEach quiz is worth 10%. Quiz 1 will cover production technologies. Quiz 2 will cover measures of productivity change. Quiz 3 will cover managerial behaviour and measures of efficiency. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In-semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "30%",
+      "due_date": "End of the Week 7 tutorial.",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "This examination will be held during the Week 7 tutorial. It will cover production technologies, measures of productivity change, managerial behaviour and measures of efficiency. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 60 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Answer sheets/booklets will be collected at the end of the examination.\nDeferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This examination will be held during the Week 7 tutorial. It will cover production technologies, measures of productivity change, managerial behaviour and measures of efficiency. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 1: PFA",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "8/05/2026 4:00 pm",
+      "other_conditions": "Longitudinal. See the conditions definitions",
+      "learning_outcomes_assessed": "L05, L08, L09, L10",
+      "task_description": "In this assessment, you will apply efficiency and productivity measurement techniques to a real-world dataset by answering a series of structured, numbered questions. The task assesses your skills in data management, quantitative analysis, interpretation, and communication of results. It develops practical skills widely used in performance benchmarking in research and policy settings. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "This assignment must be submitted electronically via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "In this assessment, you will apply efficiency and productivity measurement techniques to a real-world dataset by answering a series of structured, numbered questions. The task assesses your skills in data management, quantitative analysis, interpretation, and communication of results. It develops practical skills widely used in performance benchmarking in research and policy settings. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Assignment 2: DFA and SFA",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "29/05/2026 4:00 pm",
+      "other_conditions": "Longitudinal. See the conditions definitions",
+      "learning_outcomes_assessed": "L06, L07, L08, L09, L10",
+      "task_description": "In this assessment, you will apply efficiency and productivity measurement techniques to a real-world dataset by answering a series of structured, numbered questions. The task assesses your skills in data management, quantitative analysis, interpretation, and communication of results. It develops practical skills widely used in performance benchmarking in research and policy settings. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "This assignment must be submitted electronically via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "In this assessment, you will apply efficiency and productivity measurement techniques to a real-world dataset by answering a series of structured, numbered questions. The task assesses your skills in data management, quantitative analysis, interpretation, and communication of results. It develops practical skills widely used in performance benchmarking in research and policy settings. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.",
+    "other_course_materials": "If we've listed something under further requirement, you'll need to provide your own. Required Item Description Further Requirement Computer Tutorials will be held in a Bring Your Own Device teaching space. own item needed R and RStudio Used for all computer work. own item needed",
+    "required": "Item Description Further Requirement Computer Tutorials will be held in a Bring Your Own Device teaching space. own item needed R and RStudio Used for all computer work. own item needed"
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (23 Feb - 01 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Overview Course structure; overview of topics. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (02 Mar - 08 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Production Technologies A Output, input and production possibilities sets; distance functions. Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (09 Mar - 15 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Production Technologies B Cost, revenue and profit functions; other sets and functions. Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (16 Mar - 22 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Measures of Productivity Change Quantity indexes, productivity indexes, other indexes. Learning outcomes: L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (23 Mar - 29 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Measures of Efficiency A Output-, input-, revenue- and cost-oriented measures. Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (30 Mar - 05 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Measures of Efficiency B Profit- and productivity-oriented measures. Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break (06 Apr - 12 Apr)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Mid-semester Break No classes this week."
+    },
+    {
+      "learning_period": "Week 7 (13 Apr - 19 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Review and In-semester Examination Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (20 Apr - 26 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Piecewise Frontier Analysis A Basic models; models with different assumptions. Learning outcomes: L05, L08",
+      "learning_outcomes": [
+        "L05",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (27 Apr - 03 May)",
+      "activity_type": "Lecture",
+      "topic": "Piecewise Frontier Analysis B Inference; productivity analysis; other models. Learning outcomes: L09",
+      "learning_outcomes": [
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (04 May - 10 May)",
+      "activity_type": "Lecture",
+      "topic": "Deterministic Frontier Analysis A Basic models; least squares estimation. Learning outcomes: L06, L08",
+      "learning_outcomes": [
+        "L06",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (11 May - 17 May)",
+      "activity_type": "Lecture",
+      "topic": "Deterministic Frontier Analysis B Maximum likelihood estimation; productivity analysis. Learning outcomes: L09",
+      "learning_outcomes": [
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (18 May - 24 May)",
+      "activity_type": "Lecture",
+      "topic": "Stochastic Frontier Analysis Basic models; least squares and maximum likelihood estimation; productivity analysis. Learning outcomes: L07, L08, L09",
+      "learning_outcomes": [
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (25 May - 31 May)",
+      "activity_type": "Lecture",
+      "topic": "Review Review of topics; practical considerations. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

@@ -1,0 +1,403 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ECON7310-20822-7620",
+  "scraped_at": "2026-06-02T04:25:44.306714+00:00",
+  "course_code": "ECON7310",
+  "class_code": "20822",
+  "semester_code": "7620",
+  "full_course_code": "ECON7310-20822-7620",
+  "course_title": "Elements of Econometrics",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Economics School",
+  "course_description": "Introductory applied econometric course for students with basic economic statistics background. Topics covered include: economic models and role of econometrics, linear regression, general linear model, hypothesis testing, specification testing, dummy variables, simple dynamic models and simple cointegration models. Tutorial problems are solved using a relevant econometrics program.\n\nThis is an introductory course in applied econometrics. It reviews and builds on the linear regression model. Some materials overlap with introductory statistics and mathematics courses, but are usually considered more applied or advanced. See the prerequisite courses above.\n\nThe models studied in this course have numerous applications in economics, finance, marketing, management, and related areas, whether in business, government, or academic research. As a result, this is one of the most important, useful, and practical subjects a BEL student can learn at UQ, as it is highly valued when applying for jobs where analytical skills are crucial. Importantly, as with any math-related course, it may require a lot of work, industriousness, and persistence for the student to succeed.\n\nA feature of the course is that examples and exercises are drawn from different disciplines to illustrate the usefulness and limitations of certain econometric/statistical techniques.\n\nHands-on experience in applying these techniques is gained through using R, statistical software packages available in the BEL computer laboratories, and commonly used in business and government research involving econometrics/statistics. So, it is worth investing time in learning how to use it well. Students can also freely download R and its IDE, RStudio.\n\nMore details about the course are given below. Any details may be subject to change. Changes, updates, or other announcements will be communicated to students via the online Blackboard facility.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ECON1310"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ECON2300"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Fu Ouyang",
+      "email": "f.ouyang@uq.edu.au"
+    },
+    {
+      "role": "School enquiries",
+      "name": "School Enquiries, School of Economics",
+      "email": "enquiries@economics.uq.edu.au",
+      "notes": "All enquiries regarding student and academic administration (i.e. non-course content information, e.g., class allocation, timetables, extension to assessment due date, etc.) should be directed toﾠ enquiries@economics.uq.edu.au .ﾠ Enquiries relating specifically to course content should be directed to the Course Coordinator/Lecturer."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Fu Ouyang",
+      "email": "f.ouyang@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Fu Ouyang"
+    },
+    {
+      "role": "Tutor",
+      "name": "Ms April Deng"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Phyo Myat Aung"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLectures commence in Week 1.\nTutorials commence in Week 2.\nPlease see the Learning Activities section of this Course Profile for the timetabling implications of public holidays.\nImportant Dates:\nPublic Holidays\n: Fri 3 April (Good Friday), Mon 4 May (Labour Day).\nMid-Semester Break\n: 6 April - 10 April. Semester 1 classes recommence on Mon 13 April.\nStudents should refer to the timetable prior to the commencement of classes to ensure that they have the most up-to-date information, as from time to time, late room changes may occur.",
+  "course_aims": "The aims of this course are to",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain key concepts and workhorse models in applied econometrics."
+    },
+    {
+      "number": "LO2.",
+      "description": "Apply econometric methods to real-world data and learn the correct way to report and interpret empirical results."
+    },
+    {
+      "number": "LO3.",
+      "description": "Choose and implement appropriate econometric techniques to conduct estimation, prediction, and statistical inference."
+    },
+    {
+      "number": "LO4.",
+      "description": "Examine the internal and external validities of econometric models applying to specific empirical problems."
+    },
+    {
+      "number": "LO5.",
+      "description": "Apply proper econometric methods for economic research, policy evaluation, and business analysis."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Project",
+      "title": "Research Project 1",
+      "weight": "15%",
+      "due_date": "21/04/2026 4:59 pm"
+    },
+    {
+      "category": "Project",
+      "title": "Research Project 2",
+      "weight": "15%",
+      "due_date": "19/05/2026 4:59 pm"
+    },
+    {
+      "category": "Quiz",
+      "title": "Online Periodic Assessments (Online Quizzes)",
+      "weight": "20% (5% for each quiz)",
+      "due_date": "Quiz 1 17/03/2026 4:59 pm; Quiz 2 14/04/2026 4:59 pm; Quiz 3 5/05/2026 4:59 pm; Quiz 4 26/05/2026 4:59 pm; All online quizzes are due at 16:59 on the due date.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "End-of-semester Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Research Project 1",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "15%",
+      "due_date": "21/04/2026 4:59 pm",
+      "learning_outcomes_assessed": "L01, L02",
+      "task_description": "Answer all questions using a format similar to the answers to your tutorial questions. When you use R to conduct empirical analysis, you should show your R script(s) and outputs (e.g., screenshots for commands, tables, and figures). Your response should be brief and compact when asked to explain or discuss something. To facilitate tutors' grading work, please clearly label all your answers. You should upload your research report via the Turnitin system before the deadline. Do not hand in a hard copy. You can work on this assignment in groups and discuss how to answer these questions with your group members. However, this is not a group assignment, meaning you must answer all the questions in your own words and submit your report separately. The marking system will check the similarity, and UQ's student integrity and misconduct policies on plagiarism apply. This assessment covers Lectures 1-6. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. We strongly suggest you use the Equation Editor in Microsoft Word and submit the Word document. You need to upload your report and appendix (if any, as one and only one file) through the Turnitin portal on the course's Blackboard site. This course ONLY allows file types that Turnitin can check for similarity. Link of File types checked for similarity: https://web.library.uq.edu.au/library-services/it/learnuq-blackboard-help/learnuq-assessment/turnitin-assignments. The Turnitin portals will close on time at the deadline, and you should allow yourself enough time to complete your assessment and submit it on time, allowing time for possible technical issues or submission problems. In other words, please consider the risk if you decide to wait until the last minute to submit your assessment. If you submit your assignments after the deadline, a late assignment penalty will apply based on the time stamp in the Turnitin system. You can submit your work more than one time, but only your last submission will be marked. You need to keep evidence of your successful submission, such as the screenshot and/or the receipt email of your Turnitin submission. If you encounter any problem in your submission process, please contact Student IT Support directly. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via Turnitin, Blackboard by the due date/time. Email submissions will NOT be accepted.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 calendar days to ensure timely feedback to other students.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Answer all questions using a format similar to the answers to your tutorial questions. When you use R to conduct empirical analysis, you should show your R script(s) and outputs (e.g., screenshots for commands, tables, and figures). Your response should be brief and compact when asked to explain or discuss something. To facilitate tutors' grading work, please clearly label all your answers. You should upload your research report via the Turnitin system before the deadline. Do not hand in a hard copy. You can work on this assignment in groups and discuss how to answer these questions with your group members. However, this is not a group assignment, meaning you must answer all the questions in your own words and submit your report separately. The marking system will check the similarity, and UQ's student integrity and misconduct policies on plagiarism apply. This assessment covers Lectures 1-6. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. We strongly suggest you use the Equation Editor in Microsoft Word and submit the Word document. You need to upload your report and appendix (if any, as one and only one file) through the Turnitin portal on the course's Blackboard site. This course ONLY allows file types that Turnitin can check for similarity. Link of File types checked for similarity: https://web.library.uq.edu.au/library-services/it/learnuq-blackboard-help/learnuq-assessment/turnitin-assignments. The Turnitin portals will close on time at the deadline, and you should allow yourself enough time to complete your assessment and submit it on time, allowing time for possible technical issues or submission problems. In other words, please consider the risk if you decide to wait until the last minute to submit your assessment. If you submit your assignments after the deadline, a late assignment penalty will apply based on the time stamp in the Turnitin system. You can submit your work more than one time, but only your last submission will be marked. You need to keep evidence of your successful submission, such as the screenshot and/or the receipt email of your Turnitin submission. If you encounter any problem in your submission process, please contact Student IT Support directly. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Research Project 2",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "15%",
+      "due_date": "19/05/2026 4:59 pm",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "Answer all questions using a format similar to the answers to your tutorial questions. When you use R to conduct empirical analysis, you should show your R script(s) and outputs (e.g., screenshots for commands, tables, and figures). Your response should be brief and compact when asked to explain or discuss something. To facilitate tutors' grading work, please clearly label all your answers. You should upload your research report via the Turnitin system before the deadline. Do not hand in a hard copy. You can work on this assignment in groups and discuss how to answer these questions with your group members. However, this is not a group assignment, meaning you must answer all the questions in your own words and submit your report separately. The marking system will check the similarity, and UQ's student integrity and misconduct policies on plagiarism apply. This assessment covers Lectures 7-10. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. We strongly suggest you use the Equation Editor in Microsoft Word and submit the Word document. You need to upload your report and appendix (if any, as one and only one file) through the Turnitin portal on the course's Blackboard site. This course ONLY allows file types that Turnitin can check for similarity. Link of File types checked for similarity: https://web.library.uq.edu.au/library-services/it/learnuq-blackboard-help/learnuq-assessment/turnitin-assignments. The Turnitin portals will close on time at the deadline, and you should allow yourself enough time to complete your assessment and submit it on time, allowing time for possible technical issues or submission problems. In other words, please consider the risk if you decide to wait until the last minute to submit your assessment. If you submit your assignments after the deadline, a late assignment penalty will apply based on the time stamp in the Turnitin system. You can submit your work more than one time, but only your last submission will be marked. You need to keep evidence of your successful submission, such as the screenshot and/or the receipt email of your Turnitin submission. If you encounter any problem in your submission process, please contact Student IT Support directly. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via Turnitin, Blackboard by the due date/time. Email submissions will NOT be accepted.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 calendar days to ensure timely feedback to other students.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Answer all questions using a format similar to the answers to your tutorial questions. When you use R to conduct empirical analysis, you should show your R script(s) and outputs (e.g., screenshots for commands, tables, and figures). Your response should be brief and compact when asked to explain or discuss something. To facilitate tutors' grading work, please clearly label all your answers. You should upload your research report via the Turnitin system before the deadline. Do not hand in a hard copy. You can work on this assignment in groups and discuss how to answer these questions with your group members. However, this is not a group assignment, meaning you must answer all the questions in your own words and submit your report separately. The marking system will check the similarity, and UQ's student integrity and misconduct policies on plagiarism apply. This assessment covers Lectures 7-10. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. We strongly suggest you use the Equation Editor in Microsoft Word and submit the Word document. You need to upload your report and appendix (if any, as one and only one file) through the Turnitin portal on the course's Blackboard site. This course ONLY allows file types that Turnitin can check for similarity. Link of File types checked for similarity: https://web.library.uq.edu.au/library-services/it/learnuq-blackboard-help/learnuq-assessment/turnitin-assignments. The Turnitin portals will close on time at the deadline, and you should allow yourself enough time to complete your assessment and submit it on time, allowing time for possible technical issues or submission problems. In other words, please consider the risk if you decide to wait until the last minute to submit your assessment. If you submit your assignments after the deadline, a late assignment penalty will apply based on the time stamp in the Turnitin system. You can submit your work more than one time, but only your last submission will be marked. You need to keep evidence of your successful submission, such as the screenshot and/or the receipt email of your Turnitin submission. If you encounter any problem in your submission process, please contact Student IT Support directly. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Online Periodic Assessments (Online Quizzes)",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "20% (5% for each quiz)",
+      "due_date": "Quiz 1 17/03/2026 4:59 pm Quiz 2 14/04/2026 4:59 pm Quiz 3 5/05/2026 4:59 pm Quiz 4 26/05/2026 4:59 pm All online quizzes are due at 16:59 on the due date.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "There will be four online quizzes (via Blackboard) throughout the semester, approximately fortnightly. Each consists of multiple-choice questions related to the materials covered in lectures and tutorials. Quiz 1: Lectures 1-3, due on Tuesday in Week 4 Quiz 2: Lectures 4-6, due on Tuesday in Week 7 Quiz 3: Lectures 7-9, due on Tuesday in Week 10 Quiz 4: Lectures 10-12, due on Tuesday in Week 13 Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. The Online Quizzes will be accessible through Blackboard. The deadline for quizzes is during the working hours of UQ's St Lucia campus. If you encounter any problems while doing quizzes, please get in touch with Student IT Support. All quizzes must be submitted through Blackboard before the due date and time specified (in Blackboard). You should keep evidence of your successful submission, such as the screenshot and/or the receipt email. Please consider the risk of waiting until the last minute to do the quizzes. Read full task description Hide full task description",
+      "submission_guidelines": "Submit answers through the quiz portals on Blackboard.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nStudents will receive a reminder one week before the quiz deadline and will have 1 week to complete it. The quiz portal will be closed after the due time. No late submissions or extensions will be accepted.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "There will be four online quizzes (via Blackboard) throughout the semester, approximately fortnightly. Each consists of multiple-choice questions related to the materials covered in lectures and tutorials. Quiz 1: Lectures 1-3, due on Tuesday in Week 4 Quiz 2: Lectures 4-6, due on Tuesday in Week 7 Quiz 3: Lectures 7-9, due on Tuesday in Week 10 Quiz 4: Lectures 10-12, due on Tuesday in Week 13 Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. The Online Quizzes will be accessible through Blackboard. The deadline for quizzes is during the working hours of UQ's St Lucia campus. If you encounter any problems while doing quizzes, please get in touch with Student IT Support. All quizzes must be submitted through Blackboard before the due date and time specified (in Blackboard). You should keep evidence of your successful submission, such as the screenshot and/or the receipt email. Please consider the risk of waiting until the last minute to do the quizzes. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End-of-semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The final exam is comprehensive and will cover all topics discussed throughout the course. Additional details will be provided during the last lecture. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options No calculators permitted Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The final exam is comprehensive and will cover all topics discussed throughout the course. Additional details will be provided during the last lecture. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website .",
+    "other_course_materials": "If we've listed something under further requirement, you'll need to provide your own. Required Item Description Further Requirement Stock, J.H. and Watson, M.W. (2019). Introduction to econometrics, 4th edition (global edition), Pearson. http://pearson.com.au/9781292264455 Recommended Item Description Further Requirement Wooldridge, J.M. (2015). Introductory Econometrics: a modern approach, sixth edition, Cengage Learning. https://www.amazon.com.au/Introductory-Econometrics-Michigan-University-Wooldridge/dp/130527010X/ref=sr_1_1?keywords=Introductory+Econometrics%3A+a+modern+approach&qid=1555244278&s=gateway&sr=8-1",
+    "required": "Item Description Further Requirement Stock, J.H. and Watson, M.W. (2019). Introduction to econometrics, 4th edition (global edition), Pearson. http://pearson.com.au/9781292264455\nRecommended\nItem Description Further Requirement Wooldridge, J.M. (2015). Introductory Econometrics: a modern approach, sixth edition, Cengage Learning. https://www.amazon.com.au/Introductory-Econometrics-Michigan-University-Wooldridge/dp/130527010X/ref=sr_1_1?keywords=Introductory+Econometrics%3A+a+modern+approach&qid=1555244278&s=gateway&sr=8-1",
+    "recommended": "Item Description Further Requirement Wooldridge, J.M. (2015). Introductory Econometrics: a modern approach, sixth edition, Cengage Learning. https://www.amazon.com.au/Introductory-Econometrics-Michigan-University-Wooldridge/dp/130527010X/ref=sr_1_1?keywords=Introductory+Econometrics%3A+a+modern+approach&qid=1555244278&s=gateway&sr=8-1"
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (23 Feb - 01 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Introduction Course overview; Introduction to econometrics; Review of probability and statistics. Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (02 Mar - 08 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Linear Regression with One Regressor Population linear regression model (LRM); Ordinary least squares (OLS) estimator and sample regression line; Measures of fit of the sample regression; Least squares assumptions; Sampling distribution of the OLS estimator. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (02 Mar - 08 Mar)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 1 Review and practice the materials covered in Lecture 1. Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (09 Mar - 15 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Linear Regression with One Regressor: Inference Hypothesis tests; Confidence intervals; Regression when X is binary; Heteroskedasticity and homoskedasticity; Efficiency of OLS and the Student t distribution. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (09 Mar - 15 Mar)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 2 Review and practice the materials covered in Lecture 2. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (16 Mar - 22 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Linear Regression with Multiple Regressors Omitted variable bias; Causality and regression analysis; Multiple regression and OLS; Measures of fit; Sampling distribution of the OLS estimator. Learning outcomes: L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (16 Mar - 22 Mar)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 3 Review and practice the materials covered in Lecture 3. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (23 Mar - 29 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Inference in Multiple Regressions Hypothesis tests and confidence intervals for one coefficient; Joint hypothesis tests on multiple coefficients; Other types of hypotheses involving multiple coefficients; Control variables; Variable selection. Learning outcomes: L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (23 Mar - 29 Mar)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 4 Review and practice the materials covered in Lecture 4. Learning outcomes: L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (30 Mar - 05 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Nonlinear Regression Functions Strategy for modelling nonlinear functions; Non-linear functions of a single independent variable; Interactions between independent variables; Application. Learning outcomes: L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (30 Mar - 05 Apr)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 5 Review and practice the materials covered in Lecture 5. Learning outcomes: L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break (06 Apr - 12 Apr)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "In-Semester Break (No Lecture and Tutorials) There will be no lectures, tutorials, or consultation sessions this week."
+    },
+    {
+      "learning_period": "Week 7 (13 Apr - 19 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Regression with Panel Data Panel Data: What and Why; Fixed Effects Regression; Regression with Time Fixed Effects; Standard Errors for Fixed Effects Regression; Application. Learning outcomes: L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (13 Apr - 19 Apr)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 6 Review and practice the materials covered in Lecture 6. Learning outcomes: L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (20 Apr - 26 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Regression with a Binary Dependent Variable Linear probability model; Probit and Logit regression; Estimation and inference in Probit and Logit models; Application. Friday, April 18th is the Good Friday Public Holiday. Therefore, no classroom lecture or consultation sessions will be held that day. However, a lecture recording will be uploaded to Blackboard. Students who usually attend tutorials on this day are advised to attend an alternative tutorial session for this week only. Learning outcomes: L05",
+      "learning_outcomes": [
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (20 Apr - 26 Apr)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 7 Review and practice the materials covered in Lecture 7. Learning outcomes: L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (27 Apr - 03 May)",
+      "activity_type": "Lecture",
+      "topic": "Instrumental Variables Regression IV Regression; Two-Stage Least Squares; General IV Regression Model; Checking Instrument Validity; Application. Learning outcomes: L02, L04",
+      "learning_outcomes": [
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (27 Apr - 03 May)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 8 Review and practice the materials covered in Lecture 8. Learning outcomes: L05",
+      "learning_outcomes": [
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (04 May - 10 May)",
+      "activity_type": "Lecture",
+      "topic": "Experiments and Quasi-Experiments Potential Outcomes, Causal Effects, and Idealized Experiments; Threats to Validity of Experiments; Quasi-Experiments (Differences-in-Differences, IV Estimation, etc.); Threats to Validity of Quasi-Experiments. Monday, May 5th is the Labour Day public holiday. Students with Monday tutorials are advised to attend any other tutorials scheduled for the week. Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (04 May - 10 May)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 9 Review and practice the materials covered in Lecture 9. Learning outcomes: L02, L04",
+      "learning_outcomes": [
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (11 May - 17 May)",
+      "activity_type": "Lecture",
+      "topic": "Introduction to Time Series Time Series Data; Regression Models for Forecasting; Lags, Differences, Autocorrelation, and Stationarity; Autoregression and ADL Models; Application. Learning outcomes: L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (11 May - 17 May)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 10 Review and practice the materials covered in Lecture 10. Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (18 May - 24 May)",
+      "activity_type": "Lecture",
+      "topic": "Prediction with Many Regressors and Big Data Big Data; Ridge Regression; Lasso; Principle Components; Application. Learning outcomes: L01, L02, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (18 May - 24 May)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 11 Review and practice the materials covered in Lecture 11. Learning outcomes: L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (25 May - 31 May)",
+      "activity_type": "Lecture",
+      "topic": "Revision Review Lectures 1-12. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (25 May - 31 May)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 12 Review and practice the materials covered in Lecture 12. Learning outcomes: L01, L02, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

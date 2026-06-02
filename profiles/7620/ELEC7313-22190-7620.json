@@ -1,0 +1,237 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ELEC7313-22190-7620",
+  "scraped_at": "2026-06-02T04:27:43.653110+00:00",
+  "course_code": "ELEC7313",
+  "class_code": "22190",
+  "semester_code": "7620",
+  "full_course_code": "ELEC7313-22190-7620",
+  "course_title": "Renewable Energy Integration: Technologies to Technical Challenges",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Covers renewable energy technologies around the world; current grid codes and standards and the major issue of intermittency; key technical challenges associated with renewable energy integration and ways to overcome them.\n\nELEC7313 will cover renewable energy (especially the most implemented new renewable technologies such as wind, solar PV and battery storage) integration challenges faced by power system operator, transmission-distribution utilities, energy retailors and end-users. This course will first focus on analysis and evaluation methods to clarify the techno-economic issues related to high renewable penetration, and then potential solutions will be introduced. The content is aimed at students with basic understanding of power system and renewable energy operation principles and is organised in a logical sequence as follows:\n\n- Part 1: Generator level: Traditional synchronous machine technology versus new inverter-based generation technology (PV, wind and battery) including grid codes; Comparison of these technologies which paves the way for integration challenges at the network level;ﾠBasic analytical tool revisit (Power Flow);\n\n- Part 2: High-Voltage Network level: A range of topics related to the core of large-scale network operation including frequency stability, system strength, sub-synchronous oscillation, economic dispatch, recent incidents and rule changes; A case study of the 2016 South Australian blackout to address the current integration challenges;ﾠ\n\n- Part 3: Low-Voltage Network level: Residential roof-top PV and electric vehicle-related issues such as voltage rise, reverse power, voltage regulation, line capacity limits, grid visibility and battery control; and smart grid solutions.\n\nThe course will be complemented by guest lectures from local industry, covering their experiences, approaches and outlooks on renewable integration, with a special Australian focus.\n\nResponse to student feedback: Based on students' feedback from last year, assignments and their submission dates are adjusted, so this change will make sure assessments are not all due in the last week of the semester.",
+  "requirements": {
+    "prerequisites": [
+      "We recommend completing the following courses before enrolling in this one:",
+      "ELEC4310"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Richard Yan",
+      "email": "ELEC7313@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Richard Yan"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nSessions for laboratory experiments will be arranged by the teaching team during the semester. Please regularly check Blackboard announcement and your email.",
+  "course_aims": "The overall aimﾠof the course is to expose students to the technical challenges and corresponding solutions related to renewable energy integration into the existing power networks, especially the challenges and solutions associated with the most popular wind,ﾠsolar PV and battery storage technologies due to their non-synchronous and highly variable characteristics. The corresponding development trend will also be introduced.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Relate Renewable Energy and its integration to the techno-economic, environmental and social aspects of current international trends and developments"
+    },
+    {
+      "number": "LO2.",
+      "description": "Explain characteristics and control techniques of the traditional power generation and the new inverter based renewable generation"
+    },
+    {
+      "number": "LO3.",
+      "description": "Analyse the differences between traditional generators and inverter based generators with the context of integration impacts on the existing power networks"
+    },
+    {
+      "number": "LO4.",
+      "description": "Analyse characteristics of traditional synchronous machines, solar PV systems and wind generators through laboratory experiments (or demonstration) and effectively process the experimental data to reveal the working principles of each generation technology."
+    },
+    {
+      "number": "LO5.",
+      "description": "Identify and evaluate the main challenges and solutions of renewable integration from transmission and distribution system perspectives."
+    },
+    {
+      "number": "LO6.",
+      "description": "Assess PV integration impacts as a professional electrical engineer in a team environment and develop group skills such as effective collaboration and communication."
+    },
+    {
+      "number": "LO7.",
+      "description": "Simulate and assess renewable integration impacts using industry software"
+    },
+    {
+      "number": "LO8.",
+      "description": "Explain and generalise how and why high renewable penetration can affect traditional network operation with respect to frequency stability, system strength, subsynchronous oscillation, economic dispatch, recent incidents and rule changes, voltage regulation, and capacity limitation"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Assignment - Renewable Generator",
+      "weight": "9%",
+      "due_date": "13/04/2026 2:00 pm",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Assignment - Network Impact",
+      "weight": "11%",
+      "due_date": "11/05/2026 2:00 pm",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Practical/ Demonstration",
+      "title": "Practical Assessment",
+      "weight": "30%",
+      "due_date": "The Practical Assessment will be scheduled to complete in 3 hours (about 1 hour for each experimental aspect) for each student. Week 12 Mon - Week 13 Fri; More information on assessment schedules for individual students will be available on Blackboard before Week 12. The students should frequently check emails and Blackboard announcements.",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment - Renewable Generator",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "9%",
+      "due_date": "13/04/2026 2:00 pm",
+      "other_conditions": "Peer assessment factor. See the conditions definitions",
+      "learning_outcomes_assessed": "L02, L06, L07, L08",
+      "task_description": "This assignment will focus on renewable generator technologies. Matlab and Simulink software will be used in this assignment. Assignment materials will be provided through Blackboard. The grouping will be arranged during the semester. Only one group member must submit the assignment online through UQ Blackboard on behalf of the group. All group members are responsible for ensuring the final submission occurs before due date. Group peer assessment is optional. Ratings must be provided as percentages (out of 100%) for each category: Communication, Timeliness, and Contribution. For example, in a group of two students, Student A may rate themselves as 50% Communication, 70% Timeliness and 80% Contribution, and their team member as 50% Communication, 30% Timeliness and 20% Contribution. Peer assessment must be submitted individually and confidentially to the course coordinator via email before the assessment due date. NOTE: if there is no peer review submitted by the due date, it will be assumed that all group members have contributed equally. Where there are significant discrepancies between ratings, the lecturer or demonstrators will discuss with the impacted students. Please raise any concerns about group member contributions as early as possible, supported with appropriate evidence. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Group online submission through Blackboard. Only one group member must submit the assignment online through UQ Blackboard on behalf of the group. All group members are responsible for ensuring the final submission occurs before due date.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assignment will focus on renewable generator technologies. Matlab and Simulink software will be used in this assignment. Assignment materials will be provided through Blackboard. The grouping will be arranged during the semester. Only one group member must submit the assignment online through UQ Blackboard on behalf of the group. All group members are responsible for ensuring the final submission occurs before due date. Group peer assessment is optional. Ratings must be provided as percentages (out of 100%) for each category: Communication, Timeliness, and Contribution. For example, in a group of two students, Student A may rate themselves as 50% Communication, 70% Timeliness and 80% Contribution, and their team member as 50% Communication, 30% Timeliness and 20% Contribution. Peer assessment must be submitted individually and confidentially to the course coordinator via email before the assessment due date. NOTE: if there is no peer review submitted by the due date, it will be assumed that all group members have contributed equally. Where there are significant discrepancies between ratings, the lecturer or demonstrators will discuss with the impacted students. Please raise any concerns about group member contributions as early as possible, supported with appropriate evidence. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment - Network Impact",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "11%",
+      "due_date": "11/05/2026 2:00 pm",
+      "other_conditions": "Peer assessment factor. See the conditions definitions",
+      "learning_outcomes_assessed": "L02, L03, L05, L06, L07, L08",
+      "task_description": "This assignment will focus on the impacts of renewable generators on power grids. PSSE and Python software will be used in this assignment. Assignment materials will be provided through Blackboard. The grouping will be arranged during the semester. Only one group member must submit the assignment online through UQ Blackboard on behalf of the group. All group members are responsible for ensuring the final submission occurs before due date. Group peer assessment is optional. Ratings must be provided as percentages (out of 100%) for each category: Communication, Timeliness, and Contribution. For example, in a group of two students, Student A may rate themselves as 50% Communication, 70% Timeliness and 80% Contribution, and their team member as 50% Communication, 30% Timeliness and 20% Contribution. Peer assessment must be submitted individually and confidentially to the course coordinator via email before the assessment due date. NOTE: if there is no peer review submitted by the due date, it will be assumed that all group members have contributed equally. Where there are significant discrepancies between ratings, the lecturer or demonstrators will discuss with the impacted students. Please raise any concerns about group member contributions as early as possible, supported with appropriate evidence. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Group online submission through Blackboard. Only one group member must submit the assignment online through UQ Blackboard on behalf of the group. All group members are responsible for ensuring the final submission occurs before due date.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assignment will focus on the impacts of renewable generators on power grids. PSSE and Python software will be used in this assignment. Assignment materials will be provided through Blackboard. The grouping will be arranged during the semester. Only one group member must submit the assignment online through UQ Blackboard on behalf of the group. All group members are responsible for ensuring the final submission occurs before due date. Group peer assessment is optional. Ratings must be provided as percentages (out of 100%) for each category: Communication, Timeliness, and Contribution. For example, in a group of two students, Student A may rate themselves as 50% Communication, 70% Timeliness and 80% Contribution, and their team member as 50% Communication, 30% Timeliness and 20% Contribution. Peer assessment must be submitted individually and confidentially to the course coordinator via email before the assessment due date. NOTE: if there is no peer review submitted by the due date, it will be assumed that all group members have contributed equally. Where there are significant discrepancies between ratings, the lecturer or demonstrators will discuss with the impacted students. Please raise any concerns about group member contributions as early as possible, supported with appropriate evidence. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Practical Assessment",
+      "mode": "Activity/ Performance, Oral, Written",
+      "category": "Paper/ Report/ Annotation, Practical/ Demonstration",
+      "weight": "30%",
+      "due_date": "The Practical Assessment will be scheduled to complete in 3 hours (about 1 hour for each experimental aspect) for each student. Week 12 Mon - Week 13 Fri More information on assessment schedules for individual students will be available on Blackboard before Week 12. The students should frequently check emails and Blackboard announcements.",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "Three laboratory exercises are scheduled from Week 4 to Week 11. After this learning period, the Practical Assessment will be conducted in Weeks 12 and 13. This Practical Assessment is based on the three laboratory exercises conducted over the semester. Students must perform laboratory experiments and analyse characteristics of traditional synchronous machines (10%), solar PV systems (10%) and wind generators (10%). During the assessment, students will perform different tasks, including physical wiring of electrical circuits in a group, conducting individual experiments, orally answering experimental questions and completing written responses for the given questions. All lab activities are performed under the instructions of lecturer and/or demonstrators. The Practical Assessment will be scheduled to complete in 3 hours (about 1 hour for each experimental aspect) for each student. Due to equipment constraints, student availability and experimental nature of this assessment, the Practical Assessment may be scheduled in sub-sessions (1 hour for each experiment per sub-session). The lecturer and teaching demonstrators will schedule this Practical Assessment during the semester and the schedule will be published in course Blackboard site before Week 12. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submit the assessment to the lecturer or demonstrators in the end of the scheduled Practical Assessment sessions.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nAs time is provided within the practical class to complete all work, no extension are permitted for the assessment submission.\nIf you are unable to attend a scheduled lab session, you need to apply for an extension via my.UQ. If approved, makeup sessions will be offered.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nAs time is provided within the practical class to complete all work, no late submissions will be accepted and a 100% late penalty applies.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Three laboratory exercises are scheduled from Week 4 to Week 11. After this learning period, the Practical Assessment will be conducted in Weeks 12 and 13. This Practical Assessment is based on the three laboratory exercises conducted over the semester. Students must perform laboratory experiments and analyse characteristics of traditional synchronous machines (10%), solar PV systems (10%) and wind generators (10%). During the assessment, students will perform different tasks, including physical wiring of electrical circuits in a group, conducting individual experiments, orally answering experimental questions and completing written responses for the given questions. All lab activities are performed under the instructions of lecturer and/or demonstrators. The Practical Assessment will be scheduled to complete in 3 hours (about 1 hour for each experimental aspect) for each student. Due to equipment constraints, student availability and experimental nature of this assessment, the Practical Assessment may be scheduled in sub-sessions (1 hour for each experiment per sub-session). The lecturer and teaching demonstrators will schedule this Practical Assessment during the semester and the schedule will be published in course Blackboard site before Week 12. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L05, L08",
+      "task_description": "This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Applied Class",
+      "topic": "Applied Class learning (Problem solving, group project and discussion) Students will be working in groups on a given topic (or simulation) related to renewable generator technologies and grid integration of renewable energy during the Applied Classes. There will be time for students to perform theoretical calculation and numerical simulation during the Applied Classes, and the Lecturer and teaching assistances will help students and provide feedback on their work starting from Week 2. Learning outcomes: L01, L02, L03, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Lectures Apart from the normal activities, guest lecturers from local industry and other areas of UQ will be invited to present industry activities on renewable energy integration. Learning outcomes: L01, L02, L03, L05, L06, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05",
+        "L06",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 4 To Week 13",
+      "activity_type": "Practical",
+      "topic": "Lab Experiment (or Demonstration) Practicals focus on analysing characteristics of traditional synchronous machines, solar PV systems and wind generators through laboratory experiments or demonstrations. Students will practice laboratory experiments with lab demonstrators during Week 4 to Week 11, and Practical Assessment will be conducted during Week 12 and Week 13. Learning outcomes: L01, L02, L03, L04, L05, L06, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L08"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . You'll also need to be aware of the following policies and procedures while completing this course: Occupational Health and Safety in the Laboratory Guideline School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

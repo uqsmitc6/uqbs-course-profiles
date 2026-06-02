@@ -1,0 +1,236 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/INFS4205-21210-7620",
+  "scraped_at": "2026-06-02T04:31:01.366404+00:00",
+  "course_code": "INFS4205",
+  "class_code": "21210",
+  "semester_code": "7620",
+  "full_course_code": "INFS4205-21210-7620",
+  "course_title": "Advanced Techniques for High Dimensional Data",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Selected advanced topics from spatial and multimedia databases: multidimensional data management concepts, theories and technologies, focusing on data access methods and similarity query processing for spatial, multimedia and Web-based databases, with particular emphasis on video indexing and search.\n\nThis course provides a comprehensive introduction to multimodal machine learning and high-dimensional data systems, focusing on how modern AI models represent, align, retrieve, and reason over data from multiple modalities such as text, images, and video.\n\nStudents will study the evolution of representation learning from early feature encoders to transformer-based architectures, and examine key challenges including the curse of dimensionality, scalability, and efficiency in large-scale multimodal systems. The course covers contrastive learning and vision–language alignment, multimodal large language models (MLLMs), vector databases and approximate nearest neighbour search, retrieval-augmented generation (RAG), and systematic evaluation of generative systems.\n\nThrough lectures and case studies, students will gain both theoretical foundations and practical insights into building, optimising, and evaluating modern multimodal AI systems, preparing them for advanced study or industry applications involving large-scale AI pipelines.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "INFS2200",
+      "INFS7903",
+      "COMP3506",
+      "COMP7505"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "INFS4200",
+      "INFS7200",
+      "INFS7205"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Yadan Luo",
+      "email": "INFS4205@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Yadan Luo"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course is designed to help students to learn the latest knowledge, gain insightful understanding and develop skills of critical thinking on large-scale complex data management, for effectively and efficiently managing and searching the information of user interest beyond the traditional relational databases. Through in-depth discussions on spatiotemporal and multimedia data, in this course, we will study the theory and techniques of representing complex data objects as multidimensional feature vectors and processing similarity-based queries. These theories and techniques form the foundation of modern data management, which can also find applications in a wide range of areas such as information retrieval, Web search, bioinformatics, data mining and data science.ﾠ",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Identify the applications and features of complex data types, including spatial, spatialtemporal and multimedia data."
+    },
+    {
+      "number": "LO2.",
+      "description": "Understand existing advanced spatial and multimedia processing techniques from database management and machine learning perspectives."
+    },
+    {
+      "number": "LO3.",
+      "description": "Examine the major issues of spatial and multimedia data management systems."
+    },
+    {
+      "number": "LO4.",
+      "description": "Analyze and evaluate existing research methods, creative to identify and define problems, and innovative for their solutions for multimedia database management."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Reflection",
+      "title": "Reflective Inquiry (AI-Assisted)",
+      "weight": "25% Five short reflective inquiry submissions across the semester",
+      "due_date": "(Q1-Q2) Submission 27/03/2026 3:00 pm; (Q3-Q5) Submission 8/05/2026 3:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "In-Semester Quiz",
+      "weight": "10%",
+      "due_date": "31/03/2026 5:50 pm",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Project",
+      "title": "Project",
+      "weight": "20%",
+      "due_date": "15/05/2026 3:00 pm; Code Interviews will be held in Week 13",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Computer Code",
+      "title": "Project (Code Interview)",
+      "weight": "15%",
+      "due_date": "Week 13 Mon - Week 13 Fri",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "30%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Reflective Inquiry (AI-Assisted)",
+      "mode": "Written",
+      "category": "Reflection",
+      "weight": "25% Five short reflective inquiry submissions across the semester",
+      "due_date": "(Q1-Q2) Submission 27/03/2026 3:00 pm (Q3-Q5) Submission 8/05/2026 3:00 pm",
+      "other_conditions": "Longitudinal. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "Students complete a series of short reflective inquiry tasks supported by AI tools. In each submission, students identify aspects of the course content they do not fully understand, formulate meaningful questions, and use AI as a learning aid to explore these questions. Marks are awarded based on the quality of students’ reasoning, questioning, and critical reflection on what they have learned. AI-generated output itself is not assessed. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "This assessment is an individual submission and must be submitted via Blackboard.\nStudents are required to submit a short written reflective inquiry for each submission window. Each submission should clearly identify aspects of the course content that the student does not fully understand, present meaningful questions, and include critical reflection on what was learned through exploration, which may be supported by AI tools.\nThe use of AI tools (e.g. large language models) is permitted as a learning aid. However, AI-generated output itself is not assessed. Submissions should be written in the student’s own words and reflect the student’s own understanding, reasoning, and reflection.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Students complete a series of short reflective inquiry tasks supported by AI tools. In each submission, students identify aspects of the course content they do not fully understand, formulate meaningful questions, and use AI as a learning aid to explore these questions. Marks are awarded based on the quality of students’ reasoning, questioning, and critical reflection on what they have learned. AI-generated output itself is not assessed. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nStudents complete a series of short reflective inquiry tasks supported by AI tools. In each submission, students identify aspects of the course content they do not fully understand, formulate meaningful questions, and use AI as a learning aid to explore these questions.\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.\nStudents are required to submit a short written reflective inquiry for each submission window. Each submission should clearly identify aspects of the course content that the student does not fully understand, present meaningful questions, and include critical reflection on what was learned through exploration, which may be supported by AI tools.\nThe use of AI tools (e.g. large language models) is permitted as a learning aid. However, AI-generated output itself is not assessed. Submissions should be written in the student’s own words and reflect the student’s own understanding, reasoning, and reflection.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In-Semester Quiz",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "10%",
+      "due_date": "31/03/2026 5:50 pm",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "This assessment is an in-semester, closed-book quiz conducted during class time in Week 6. The exam consists of questions designed to assess students’ understanding of core concepts and methods covered in the course. The exam covers material from Week 2 to Week 5, including multimodal representation, multimodal alignment, and multimodal large language models. Students are expected to demonstrate conceptual understanding and the ability to reason about key ideas introduced in lectures. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This assessment is an in-semester, closed-book quiz conducted during class time in Week 6. The exam consists of questions designed to assess students’ understanding of core concepts and methods covered in the course. The exam covers material from Week 2 to Week 5, including multimodal representation, multimodal alignment, and multimodal large language models. Students are expected to demonstrate conceptual understanding and the ability to reason about key ideas introduced in lectures. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Project",
+      "mode": "Written",
+      "category": "Computer Code, Project",
+      "weight": "20%",
+      "due_date": "15/05/2026 3:00 pm Code Interviews will be held in Week 13",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "This project is designed to assess your ability to design, implement, and critically evaluate data mining and retrieval techniques in a realistic, open-ended setting. You are required to build a personalised multimodal chatbot backed by your own knowledge base. The system should retrieve relevant information and answer user queries using multimodal retrieval-augmented generation (RAG) techniques. The emphasis of this project is on data representation, indexing, querying strategies, and evaluation, rather than user interface design or visual polish. The assessment consists of two compulsory parts: Technical Report and Code (20 marks): The report and the code must be submitted as two separate files via Blackboard by 3 pm, Friday of Week 11. Detailed submission requirements will be provided in the project specification, to be released later. Code Interview (15): In Part II, you will participate in a code interview scheduled in Week 13. The purpose of this interview is to verify that you understand the code you have written, to confirm that the implementation reflects your own work, and to assess your ability to explain key design decisions and system behaviour. Important: If a student fails the \" Code Interview \", the total mark for \"Technical Report and Code\" will be capped at 5 out of 20 , regardless of the quality of the submitted report and code. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Please refer to the project specification for details. Please ensure that your code and report are submitted in accordance with the detailed requirements outlined in the project specification. Failure to submit the required files in the correct format may result in a mark of zero.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This project is designed to assess your ability to design, implement, and critically evaluate data mining and retrieval techniques in a realistic, open-ended setting. You are required to build a personalised multimodal chatbot backed by your own knowledge base. The system should retrieve relevant information and answer user queries using multimodal retrieval-augmented generation (RAG) techniques. The emphasis of this project is on data representation, indexing, querying strategies, and evaluation, rather than user interface design or visual polish. The assessment consists of two compulsory parts: Technical Report and Code (20 marks): The report and the code must be submitted as two separate files via Blackboard by 3 pm, Friday of Week 11. Detailed submission requirements will be provided in the project specification, to be released later. Code Interview (15): In Part II, you will participate in a code interview scheduled in Week 13. The purpose of this interview is to verify that you understand the code you have written, to confirm that the implementation reflects your own work, and to assess your ability to explain key design decisions and system behaviour. Important: If a student fails the \" Code Interview \", the total mark for \"Technical Report and Code\" will be capped at 5 out of 20 , regardless of the quality of the submitted report and code. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Project (Code Interview)",
+      "mode": "Oral",
+      "category": "Computer Code",
+      "weight": "15%",
+      "due_date": "Week 13 Mon - Week 13 Fri",
+      "task_description": "This item forms the secure element of the Project. You will participate in a code interview scheduled in Week 13. The purpose of this interview is to verify that you understand the code you have written, to confirm that the implementation reflects your own work, and to assess your ability to explain key design decisions and system behaviour. In accordance with UQ Assessment Policy, your interview will be recorded.”) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nIf you are unable to attend your interview in Week 13, one reschedule is permitted. To apply for a reschedule, you need to apply for an extension via my.UQ.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nConsistent with industry practice around presentations to clients/industry partners, no late submissions will be accepted and a 100% late penalty applies.\nThis has been approved by the Associate Dean (Academic)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "This item forms the secure element of the Project. You will participate in a code interview scheduled in Week 13. The purpose of this interview is to verify that you understand the code you have written, to confirm that the implementation reflects your own work, and to assess your ability to explain key design decisions and system behaviour. In accordance with UQ Assessment Policy, your interview will be recorded.”) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-4",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "30%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Weekly Lectures Readings/Ref: Lecture Notes; Other Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Applied Class",
+      "topic": "Applied Class Contacts will be only held between Week 2 - Week 13 Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

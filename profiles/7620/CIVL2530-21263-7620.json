@@ -1,0 +1,194 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CIVL2530-21263-7620",
+  "scraped_at": "2026-06-02T04:22:57.559841+00:00",
+  "course_code": "CIVL2530",
+  "class_code": "21263",
+  "semester_code": "7620",
+  "full_course_code": "CIVL2530-21263-7620",
+  "course_title": "Statistics and Data Analysis",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Civil Engineering School",
+  "course_description": "The course introduces fundamental concepts of probability, statistical methods and computer programming strategies to perform data analyses and develop mathematical models for engineering applications. The content comprises probability distributions, sampling methods, hypothesis tests, regression, computer programming, graphing and visualisation, among others.\n\nWhenever uncertainty in data arises, there is a need to develop models incorporating variability and approaches to handling random data via statistical methods. Hence, all areas of engineering use statistical methods. The quantity of data needed to be processed may grow significantly; therefore, the development of numerical methods and the use of computational tools are essential to automatize the analyses and generate results. Graphing and visualisation are also often employed in the industry to produce reports and demonstrate the outcomes of analyses. The synergic approach to probability, statistics and scientific computing is hence of great benefit to Civil Engineering.\n\nAt times, statistical analyses underlie the development and use of Engineering Standards and specifications. Moreover, they are necessary for the specification of equipment, products, structures and processes, resource management and monitoring of structures, including complex projects in geotechnical engineering, hydraulics, hydrology, transportation engineering, environmental and fire safety engineering, as well as being the rational choice for optimal and reliable designs.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ENGG1400",
+      "ENGG1700",
+      "MATH1052",
+      "MATH1072"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "STAT2201",
+      "STAT1201",
+      "STAT1301",
+      "STAT2203",
+      "ENVM2000",
+      "CHEE2010"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Alan Huang",
+      "email": "alan.huang@uq.edu.au",
+      "phone": "+61 7 3365 2315"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Alan Huang",
+      "email": "alan.huang@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThis course will involve 3 hours of lectures and 1 hour of tutorial/practicals weekly. Note that practicals start in Week 2, and there are NO practicals in Week 6 (due to Good Friday public holiday on 3 April).\nLectures each week will cover both theory and applications.\nAll lectures are recorded and viewable on Blackboard, but lecture slides will not be uploaded.\nTutorials/practicals will be held during your chosen timeslot from sign-on, starting from Week 2. Note again that there are NO practicals in Week 6 (due to Good Friday public holiday).\nOptional weekly workshop to answer FAQs from students, and to allow students to ask questions about the course content, assignments, group projects, and statistical software, starting from Week 2.",
+  "course_aims": "This course aims to introduce elementary concepts of probability and statistics while preparing students for data processing and stochastic modelling tasks. Students are to gain a solid understanding of probability and statistics. Students will also gain experience in statistical methods, such as one- and two-sample inference, simple linear regression, understanding of the mathematical models of probability, the philosophy and methods of statistical inference, computer programming, data analysis and graphing,ﾠand computer visualisation using statistical software. All of this under the optics of Civil Engineering.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand how to translate a descriptive scenario into a rigorous statistical paradigm."
+    },
+    {
+      "number": "LO2.",
+      "description": "Demonstrate how to combine subjective impressions of numerical information with decisions on procedures for analysis and their outcomes."
+    },
+    {
+      "number": "LO3.",
+      "description": "Discern and identify appropriate methods for formal statistical analyses"
+    },
+    {
+      "number": "LO4.",
+      "description": "Develop communication skills through a combination of report writing, individual problem solving, working as a group, and use of computers."
+    },
+    {
+      "number": "LO5.",
+      "description": "Link typical applications of data analysis to various contexts."
+    },
+    {
+      "number": "LO6.",
+      "description": "Implement scientific data analysis and visualisation of complex datasets using statistical software"
+    },
+    {
+      "number": "LO7.",
+      "description": "Compute and synthesize descriptive statistics with statistical software."
+    },
+    {
+      "number": "LO8.",
+      "description": "Evaluate how to apply confidence interval estimation and derivation of confidence limits."
+    },
+    {
+      "number": "LO9.",
+      "description": "Link fitting probability distributions to a given dataset."
+    },
+    {
+      "number": "LO10.",
+      "description": "Read and write data to external files and manage data sets."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignments",
+      "weight": "35%",
+      "due_date": "18/03/2026 4:00 pm; 1/04/2026 4:00 pm; 29/04/2026 4:00 pm; 13/05/2026 4:00 pm; 27/05/2026 4:00 pm"
+    },
+    {
+      "category": "Participation/ Student contribution, Project",
+      "title": "Group Scientific Data Analysis",
+      "weight": "15%",
+      "due_date": "29/05/2026 4:00 pm",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignments",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "35%",
+      "due_date": "18/03/2026 4:00 pm 1/04/2026 4:00 pm 29/04/2026 4:00 pm 13/05/2026 4:00 pm 27/05/2026 4:00 pm",
+      "task_description": "There will be five (5) assignments, each worth 7%, due throughout the course approximately every 2 to 3 weeks according to the published schedule. Assignments will assess students' analytic, computational and conceptual understanding of the course materials. Each assignment will be released on Blackboard at least 2 weeks in advance of the due date. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments to be typed or scanned and submitted online via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "There will be five (5) assignments, each worth 7%, due throughout the course approximately every 2 to 3 weeks according to the published schedule. Assignments will assess students' analytic, computational and conceptual understanding of the course materials. Each assignment will be released on Blackboard at least 2 weeks in advance of the due date. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Group Scientific Data Analysis",
+      "mode": "Written",
+      "category": "Participation/ Student contribution, Project",
+      "weight": "15%",
+      "due_date": "29/05/2026 4:00 pm",
+      "other_conditions": "Peer assessment factor. See the conditions definitions",
+      "task_description": "Students will conduct a group Data Analysis Exercise using computational software. The marks will be allocated according to the tasks as outlined in the assignment, and students will be evaluated based on their ability to comprehend and solve the given statistics and probability problems using Data Analysis tools learnt in the course. The group project will involve a prediction problem -- the group(s) with the best set of predictions can earn up to 5% bonus marks towards their final mark. The Scientific Data analysis assignment is a group work, and students must form their own group of 5 team members (using Blackboard) by the end of week 5, or otherwise, they will be allocated to a group 'randomly'. Groups with fewer than FIVE members will not be permitted, and students not in a group of five by Week 5 will be placed into a group by the course coordinator. So, if you want to be in charge of who is in your group it is highly recommended you form a group of five. The composition of the group shall remain unchanged after Week 5 unless students are added/dropped by the course coordinator to ensure all students are in a group. The team submission marks for the Group Project assessment item of the course will be influenced by peer review; this peer weighting can cause your final mark to be elevated or demoted such that you receive a different grade to the rest of your team. Individual peer assessment forms will be submitted electronically to each team member in week 13; these forms require you to assign marks to each of your team members and to indicate how you rate your own input. You are also asked for a justification for your distribution of marks. The peer weighting factor will be calculated as an average of the scores assigned to each student - this factor will be directly applied to the team mark for the Group Project assignment. If your mark assignations are significantly different from that of the rest of the team and are not sufficiently supported by the comments of yourself and the team, the coordinator may remove your peer assessment from the final calculation of the peer weighting factors. Should the forms from your team indicate a large discrepancy between allocated marks, your team will be called in for discussion (and resolution) of issues within the team. If an agreement cannot be reached, the peer weighting will be devised by the coordinator on observations made during the course of the subject. Peer assessment factor (PAFs) are capped at 1.1 which means that you can potentially receive an additional 10% of the team marks but that no student will be overly rewarded for effort in place of marks for the other learning objectives. PAFs will be directly applied to the team component of the Project report marks (e.g. if you receive a PAF of 0.8, you will get 80% of the team mark component). There is no MINIMUM PAF. The Course Coordinator will moderate the peer assessment factor (PAF) to ensure that the marks are indicative of your performance; overestimation of your own contribution and/ or clique-type assessment (where individuals are unfairly penalised or rewarded) will be removed. The Course Coordinator may seek the input of Academics and Tutors to this moderation process as required. The PAF will be due on 30/05/2025. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Group project must be typed and submitted online via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Students will conduct a group Data Analysis Exercise using computational software. The marks will be allocated according to the tasks as outlined in the assignment, and students will be evaluated based on their ability to comprehend and solve the given statistics and probability problems using Data Analysis tools learnt in the course. The group project will involve a prediction problem -- the group(s) with the best set of predictions can earn up to 5% bonus marks towards their final mark. The Scientific Data analysis assignment is a group work, and students must form their own group of 5 team members (using Blackboard) by the end of week 5, or otherwise, they will be allocated to a group 'randomly'. Groups with fewer than FIVE members will not be permitted, and students not in a group of five by Week 5 will be placed into a group by the course coordinator. So, if you want to be in charge of who is in your group it is highly recommended you form a group of five. The composition of the group shall remain unchanged after Week 5 unless students are added/dropped by the course coordinator to ensure all students are in a group. The team submission marks for the Group Project assessment item of the course will be influenced by peer review; this peer weighting can cause your final mark to be elevated or demoted such that you receive a different grade to the rest of your team. Individual peer assessment forms will be submitted electronically to each team member in week 13; these forms require you to assign marks to each of your team members and to indicate how you rate your own input. You are also asked for a justification for your distribution of marks. The peer weighting factor will be calculated as an average of the scores assigned to each student - this factor will be directly applied to the team mark for the Group Project assignment. If your mark assignations are significantly different from that of the rest of the team and are not sufficiently supported by the comments of yourself and the team, the coordinator may remove your peer assessment from the final calculation of the peer weighting factors. Should the forms from your team indicate a large discrepancy between allocated marks, your team will be called in for discussion (and resolution) of issues within the team. If an agreement cannot be reached, the peer weighting will be devised by the coordinator on observations made during the course of the subject. Peer assessment factor (PAFs) are capped at 1.1 which means that you can potentially receive an additional 10% of the team marks but that no student will be overly rewarded for effort in place of marks for the other learning objectives. PAFs will be directly applied to the team component of the Project report marks (e.g. if you receive a PAF of 0.8, you will get 80% of the team mark component). There is no MINIMUM PAF. The Course Coordinator will moderate the peer assessment factor (PAF) to ensure that the marks are indicative of your performance; overestimation of your own contribution and/ or clique-type assessment (where individuals are unfairly penalised or rewarded) will be removed. The Course Coordinator may seek the input of Academics and Tutors to this moderation process as required. The PAF will be due on 30/05/2025. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "task_description": "The Final exam will cover content from the whole course. The Final will be scheduled by UQ Central Examinations timetabling. You will be notified of the date and time of the Final by UQ Examinations. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The Final exam will cover content from the whole course. The Final will be scheduled by UQ Central Examinations timetabling. You will be notified of the date and time of the Final by UQ Examinations. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (23 Feb - 31 May)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Three lectures each week, broken into two hours of lectures and one hour of in-class tutorial/demonstrations/examples."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (02 Mar - 31 May)",
+      "activity_type": "Workshop",
+      "topic": "Optional Workshop Weekly optional workshop (starting from Week 2) will cover FAQs from students; allow students to ask detailed questions about the course content, assignments, and group projects; and to offer help with statistical software"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (02 Mar - 31 May)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial/Practical To support the lecture material, a weekly tutorial/practical will be held during your chosen timeslot. Note that there are NO tutorials/practicals in Weeks 1 and 8 (due to public holiday)."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: School of Civil Engineering School Guidelines Learning activities"
+}

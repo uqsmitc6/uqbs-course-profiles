@@ -1,0 +1,157 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH7305-20522-7620",
+  "scraped_at": "2026-06-02T04:33:04.130002+00:00",
+  "course_code": "MATH7305",
+  "class_code": "20522",
+  "semester_code": "7620",
+  "full_course_code": "MATH7305-20522-7620",
+  "course_title": "Applied Cryptography",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "This course will cover a range of topics in modern cryptography, with a focus on mathematical foundations, practical applications, and best practices for implementation. This will form a basis for higher-level research, as well as a solid foundation for future practitioners in the field. Topics we will cover include: elliptic curve cryptography, cryptographic hash functions, secure random number generation, modern cryptanalysis, cryptocurrency, and digital privacy.\n\nThis course will consist of a series of smaller modules, each roughly 2-3 weeks in length, and each covering a different topic from applied cryptography and/or modern cryptanalysis. These smaller modules will be largely independent. Together theyﾠillustrate how cryptographic tools are designed and adapted for modern application, and the types of real-world attacks that these tools must be designed to withstand.\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and againstﾠ UQ Policy, ﾠand will not be tolerated. We have developed aﾠ suite of resources ﾠto assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH2301"
+    ],
+    "companions": [
+      "You'll need to complete the following courses at the same time:",
+      "MATH3302"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Daniele Celoria",
+      "email": "d.celoria@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Daniele Celoria",
+      "email": "d.celoria@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus. Consult your personal timetable for times and locations. Students are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness). Alternative arrangements will be advised on Blackboard should the campus be closed for any reason.ﾠ\nImportant\n: if you are ill, then do not attend any classes in person. Alternative arrangements can be organised – consult Blackboard for details.\nIf any classes fall on a public holiday there are no lectures or applied classes on these days.",
+  "course_aims": "The aims of this course are to introduce students to modern cryptography and cryptanalysis. In particular, this course looks intoﾠhow cryptographic tools and protocols can be designed to solve modern problems, and what practical concerns affect their design and implementation. The course also works throughﾠreal-world examples of cryptanalysis (i.e., attacks on these cryptographic tools), in order to highlight the kinds of attacks that modern cryptographic systems must be able to withstand.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Describe a variety of modern cryptographic systems."
+    },
+    {
+      "number": "LO2.",
+      "description": "Explain how cryptographic primitives can be assembled, with appropriate protocols, for use in real-world applications."
+    },
+    {
+      "number": "LO3.",
+      "description": "Explain how practical and implementation concerns affect the ways in which modern cryptographic systems are designed."
+    },
+    {
+      "number": "LO4.",
+      "description": "Describe a variety of attacks that have been historically successful against modern cryptographic tools."
+    },
+    {
+      "number": "LO5.",
+      "description": "Explain how cryptographic systems can be redesigned or hardened to prevent against different types of attacks."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Assignments",
+      "weight": "60%",
+      "due_date": "20/03/2026 4:00 pm; 17/04/2026 4:00 pm; 1/05/2026 4:00 pm; 15/05/2026 4:00 pm; Solutions should be submitted through Blackboard by the specified due date."
+    },
+    {
+      "category": "Presentation",
+      "title": "Presentation",
+      "weight": "40%",
+      "due_date": "The presentation will occur during Week 12 or Week 13, depending on the students' availability",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignments",
+      "mode": "Written",
+      "category": "Practical/ Demonstration",
+      "weight": "60%",
+      "due_date": "20/03/2026 4:00 pm 17/04/2026 4:00 pm 1/05/2026 4:00 pm 15/05/2026 4:00 pm Solutions should be submitted through Blackboard by the specified due date.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "These assignments require you to solve a set of problems, and to submit your written solutions through Blackboard. Read full task description Hide full task description",
+      "submission_guidelines": "Solutions should be submitted through Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nAs solutions will be released 7 days after each assignment is due, no submission can be accepted more than 7 days after the due date.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nSolutions for assignments will be released 7 days after the assessment is due and as such, late submission after 7 days from the original time submission is due will not be possible, regardless of approved extensions.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Presentation",
+      "mode": "Oral",
+      "category": "Presentation",
+      "weight": "40%",
+      "due_date": "The presentation will occur during Week 12 or Week 13, depending on the students' availability",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Students will give a brief (20-30 mins) presentation on a topic related to the course contents Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (23 Feb - 31 May)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Revision week (23 Feb - 07 Jun)",
+      "activity_type": "Not Timetabled",
+      "topic": "Reading and homework problems Before and after each lecture and applied class you are expected to be reading text and other suggested sources for deeper understanding of the material, and trying all homework problems set. This is essential to understand and pass this course - lectures and applied classes alone will not teach you everything you need to know, and you are expected to be self-learners in this course. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (02 Mar - 31 May)",
+      "activity_type": "Applied Class",
+      "topic": "Applied Classes Applied classes will be mostly dedicated to implementations of algorithms seen during lectures. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

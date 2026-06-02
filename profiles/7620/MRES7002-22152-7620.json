@@ -1,0 +1,286 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MRES7002-22152-7620",
+  "scraped_at": "2026-06-02T04:34:48.833306+00:00",
+  "course_code": "MRES7002",
+  "class_code": "22152",
+  "semester_code": "7620",
+  "full_course_code": "MRES7002-22152-7620",
+  "course_title": "Magnetic Resonance Instrumentation",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Magnetic Resonance Instruments for clinical applications. Function & performance concepts for superconducting MRI magnets, RF & gradient coils. Spectrometer architectures. Technology implications of modern fast/advanced imaging sequences. Instrumental & patient induced artifacts & their amelioration.\n\nThe course explores nuclear magnetic resonance hardware components and principles necessary to generate a magnetic resonance image. The hardware mechanism to induce a magnetic field (or magnetise) an object of interest is first established to show how signals can be generated under different circumstances. The acquired signal then necessitates the formation of an image. The course also provides implications arising from various hardware components, how these impact scanning and how they persist in MR images. The primary safety limitations for safe MR imaging are provided with respect to the system hardware components. This foundation course is compulsory within the postgraduate Magnetic Resonance Technology program. It provides the required MR hardware knowledge that is a prerequisite for enrolment in later courses.",
+  "requirements": {
+    "restrictions": [
+      "Enrolment restricted to Master of Magnetic Resonance program suite students.",
+      "This course is jointly-taught with:",
+      "Another instance of the same course",
+      "MERS7002"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Jeffrey Harmer",
+      "email": "jeffrey.harmer@cai.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Jeffrey Harmer",
+      "email": "jeffrey.harmer@cai.uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes are held at Centre for\nCentre for Advanced Imaging, Building 57, Level 2 Seminar Room (57-207).ﾠ\nTutorial and lecture recordings posted on Blackboard.",
+  "course_aims": "1. Describe the different modalities of imaging in the field of medicine.\n2. Define the hardware requirements of obtaining medical images using magnetic resonance imaging approaches.\n3. Identify the problems within magnetic resonance images and their associated hardware cause.\n4. Discuss the effect on patient of theﾠvarious magnetic fields and other possible clinician/patient concerns.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Different imaging modalities - Explain in general the medical imaging modalities used for diagnosis and treatment planning of patients."
+    },
+    {
+      "number": "LO2.",
+      "description": "Different imaging modalities - Outline the different types of medical images obtained using various imaging modalities, such as CT, X-ray, PET, Ultra Sound, SPECT, Optical and MRI."
+    },
+    {
+      "number": "LO3.",
+      "description": "Hardware requirements - Outline the primary components of an MRI static magnet."
+    },
+    {
+      "number": "LO4.",
+      "description": "Hardware requirements - Define the x-, y- and z-gradient coils in an MRI scanner and their functionality."
+    },
+    {
+      "number": "LO5.",
+      "description": "Hardware requirements - Describe the construction of various types of MRI RF coils and the manner in which these operate."
+    },
+    {
+      "number": "LO6.",
+      "description": "Hardware requirements - State the physical limitations of each primary MRI hardware component."
+    },
+    {
+      "number": "LO7.",
+      "description": "Hardware requirements - Understand the need for safety limits posed on MRI hardware."
+    },
+    {
+      "number": "LO8.",
+      "description": "Hardware problems - Link different types of image artefacts to possible hardware causes."
+    },
+    {
+      "number": "LO9.",
+      "description": "Hardware problems - State the image artefacts caused by impurities in the magnet, gradient coils and RF coil magnetic fields."
+    },
+    {
+      "number": "LO10.",
+      "description": "Effect of magnetic fields - Describe the issues with magnetic fields and clinicians and how these affect their day to day work."
+    },
+    {
+      "number": "LO11.",
+      "description": "Effect of magnetic fields - Describe the issues with magnetic fields and how these cause problems for patients."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Essay/ Critique",
+      "title": "Assignment (Part 1): Specify your topic choices",
+      "weight": "2%",
+      "due_date": "11/03/2026 5:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Presentation",
+      "title": "Assignment (Part 2): Your topic",
+      "weight": "24%",
+      "due_date": "25/05/2026 5:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "3x Tutorial Questions",
+      "weight": "24%",
+      "due_date": "25/03/2026 5:00 pm; 22/04/2026 5:00 pm; 13/05/2026 5:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment (Part 1): Specify your topic choices",
+      "mode": "Written",
+      "category": "Essay/ Critique",
+      "weight": "2%",
+      "due_date": "11/03/2026 5:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11",
+      "task_description": "Type: Topic choice ( word document ) Task Description: For the assignment, the student has the opportunity to choose their project from a supplied list. The first assessment task for MRES7002 is to choose three topics and justify your selection. Based on your preference, each student will be assigned one topic only for Part 2 of the assignment (see 'Assignment (Part 2): Your topic'). The assignment (Part 1) has the following structure Selection of three topics from the list provided to indicate your preference for the major assignment. Provide a maximum of a 100 word statement per chosen topic outlining the reason why you decided on the topic. Please note: You will be provided with an excel document, fill the fields of this document, and submit the excel document to complete the task Read full task description Hide full task description",
+      "submission_guidelines": "All written assignments eg. essays, reports, proposals, literature reviews etc must be submitted through Turnitin.\nStudents are permitted to submit a draft prior to final submission.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment (Part 2): Your topic",
+      "mode": "Activity/ Performance, Oral, Written",
+      "category": "Presentation",
+      "weight": "24%",
+      "due_date": "25/05/2026 5:00 pm",
+      "learning_outcomes_assessed": "L03, L04, L05, L06, L07, L08, L09",
+      "task_description": "Overview: The purpose of the assignment is for students to research and present (MS PowerPoint) a topic in MR instrumentation highlighting current state-of-the-art technological and capability in the area. Library catalogues, scientific journal databases and internet sites are expected to be searched to locate appropriate overviews and cutting-edge information. Take care to ascertain that the information obtained has been rigorously reviewed and is not simply of a promotional nature. This is particularly important when using information downloaded from the Internet. Presentation information: Your presentation must have the following structure (numbered headings as shown below): Title page ( 1 slide ): Chosen topic, name and student number Outline (6%, 1 or 2 slides ): Detailing the structure of the presentation. This should be presented like the CONTENTS of a textbook, and the rest of the presentation should follow this content exactly. Introduction (20%, 6 to 8 slides ): Presenting topic key concepts and provide background information leading into the topic. Topic key concepts (25%, 6 to 8 slides ): Provide detailed topic information, ensuring the main concepts are explained clearly and concisely. Advantages and disadvantages, limitations and drawbacks (20%, 4 to 7 slides ): Point out how the key technique fits within the broader MRI or medical imaging field. How useful is the topic of choice in practice? What are the applications? Directions (15%, 1 to 3 slides ): What kind of research and developments were outcomes of the findings within the area of your chosen topic? Summary (10%, 1 to 2 slides ) : List the key topic points of your topic References (4%, slides as needed) : All material used from the internet, photos, books, and journal papers etc. require proper referencing. Reference style can be chosen freely but must be consistent (see Learning resources chapter 3.5 for more details). These slides are not counted in the total slide count. Notes: The indicated marks per section given above are a guide only and thus may vary slightly depending upon your presentation and the topic. The number of slides or text length does not lead automatically to a higher/better mark. Marks depend on how clearly and concisely key concepts and topics are described. For example, the choice of using text over figures, and vice versa may result in more or less slides to describe the same thing. Figures, illustrations and diagrams (as appropriate) : Supporting the presentation and should come with figure captions. Captions should generally not be just a copy of the original, but written to provide clear information on what the figure shows, and linked to the material of the presentation. Poor figure captions not explaining the content will get marked down. Text: The topic is a (MS power-point or similar) presentation; therefore, text should be concise but sufficiently detailed for a reader to understand the key concepts presented. To keep the slides clear use 1 concept per 1 bullet point, with 3 concepts maximum per slide as a general rule. Additional notes under the slides are NOT permitted. Equations : Used to support your concepts if necessary and keep equation numbers to a minimum. For each equation, the variables and terms used must be explained and their relevance highlighted. Do not exceed the maximum number of slides per section Read full task description Hide full task description",
+      "submission_guidelines": "All written assignments eg. essays, reports, proposals, literature reviews etc must be submitted through Turnitin.\nStudents are permitted to submit a draft prior to final submission.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "3x Tutorial Questions",
+      "mode": "Activity/ Performance, Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "24%",
+      "due_date": "25/03/2026 5:00 pm 22/04/2026 5:00 pm 13/05/2026 5:00 pm",
+      "learning_outcomes_assessed": "L03, L04, L05, L06, L07, L08, L09, L10, L11",
+      "task_description": "There are three independent MRES7002 question sets which are assessable. Each set has questions which will cover material from about three weeks of course material. Following the submission you will be provided with feedback. Your answers will be marked and in total are worth 24% (3 x 8%) of your course. Read full task description Hide full task description",
+      "submission_guidelines": "All written assignments eg. essays, reports, proposals, literature reviews etc must be submitted through Turnitin. Students are permitted to submit a draft prior to final submission.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End of Semester Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11",
+      "task_description": "The End of Semester Examination will be an in-person, paper-based exam for all students. Internally enrolled students The end-of-semester exam will be an in-person, paper-based exam. Students will sit the exam at the St Lucia Campus. Externally enrolled students The end-of-semester exam will be an in-person, paper-based exam. UQ Examinations will contact students directly to confirm arrangements. You will either sit the exam at the St Lucia campus (if you live within 200km radius of the campus) or will be directed to nominate an exam centre by a certain date. Please ensure you update your semester address in Si-net at the start of the semester. One reminder will be sent and students who fail to nominate an exam centre and will be automatically assigned to the St Lucia campus. Late nominations will not be accepted. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "RF coils RF coils and shimming in MR system: hardware and applications. Module 5: Radiofrequency coils Learning outcomes: L05, L09",
+      "learning_outcomes": [
+        "L05",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Tutorial",
+      "topic": "Tutorials and Course recap Revision, Questions and Answers Learning outcomes: L03, L04, L05, L06, L07, L08, L09, L10, L11",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "System architecture Introduction to MRES7002, Module 1: MRI System Overview Learning outcomes: L01, L02, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Main Magnet Module 2: Magnets Learning outcomes: L03, L07, L08, L09",
+      "learning_outcomes": [
+        "L03",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Shimming the main magnet Shimming in MR systems. Study of Module 3: Shims and shimming Learning outcomes: L04, L06, L09",
+      "learning_outcomes": [
+        "L04",
+        "L06",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Gradient coils High field MR - what are the pros and cons? MR gradient coils: action and performance. Study Module 3: Pulsed field gradients Learning outcomes: L04, L06, L09",
+      "learning_outcomes": [
+        "L04",
+        "L06",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Signal reception and the receiver Study Module 6: Signal reception and digitisation Learning outcomes: L05, L07, L08",
+      "learning_outcomes": [
+        "L05",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Magnetic Properties of Tissue Study Module 7: Electrical and Magnetic properties of Tissue Learning outcomes: L07, L10, L11",
+      "learning_outcomes": [
+        "L07",
+        "L10",
+        "L11"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

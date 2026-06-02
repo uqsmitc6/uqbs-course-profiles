@@ -1,0 +1,257 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMP2048-21180-7620",
+  "scraped_at": "2026-06-02T04:23:14.811784+00:00",
+  "course_code": "COMP2048",
+  "class_code": "21180",
+  "semester_code": "7620",
+  "full_course_code": "COMP2048-21180-7620",
+  "course_title": "Theory of Computing",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "This course provides a rigorous introduction to the Theory of Computation, exploring the fundamental limits of what can be computed and how efficiently computational problems can be solved. Students study formal models of computation through the framework of languages and automata, including deterministic and nondeterministic finite automata (DFA and NFA), pushdown automata (PDA), and Turing machines. The course emphasizes precise mathematical reasoning and proof techniques, and examines fundamental questions of decidability and undecidability. Additionally, the course covers an introduction to Computational Complexity Theory as the study of the resources required to solve computational problems. The course delves into central complexity classes, including P and NP, and explores the practical limits of efficient computation. The course also introduces alternative models of computation, including an introduction to quantum computing, to provide a broader perspective beyond the classical model.\n\nIn this course, we will explore:",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1061",
+      "MATH1081",
+      "CSSE1001",
+      "ENGG1001"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Kasra Khosoussi",
+      "email": "comp2048@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Kasra Khosoussi"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Josh Arnold"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Riddhi Gupta"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLectures will be running all weeks from\nWeek 1\nto\nWeek 13\n(inclusive).\nApplied Classes will be running each week from\nWeek 2\nto\nWeek 13\n(inclusive).\nPractical Classes will be running from\nWeek 10\nto\nWeek 13\n(inclusive).",
+  "course_aims": "The aim of this course is to provide a modern introduction to the Theory of Computation by:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Define core concepts in the theory of computation, including computation, algorithms, decision problems, and formal languages."
+    },
+    {
+      "number": "LO2.",
+      "description": "Construct formal models of computation using finite automata, pushdown automata, and Turing machines."
+    },
+    {
+      "number": "LO3.",
+      "description": "Analyze the expressive power and limitations of different computational models."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply formal proof techniques to establish correctness, equivalence, and impossibility results."
+    },
+    {
+      "number": "LO5.",
+      "description": "Determine the decidability or undecidability of computational problems using appropriate theoretical tools."
+    },
+    {
+      "number": "LO6.",
+      "description": "Explain computational complexity in terms of resource usage such as time and space."
+    },
+    {
+      "number": "LO7.",
+      "description": "Classify computational problems within basic complexity classes, including P and NP."
+    },
+    {
+      "number": "LO8.",
+      "description": "Describe the principles of quantum computation and explain how quantum models differ from classical models of computation."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment 1",
+      "weight": "20%",
+      "due_date": "27/03/2026 4:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignment 2",
+      "weight": "20%",
+      "due_date": "1/05/2026 4:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignment 3",
+      "weight": "20%",
+      "due_date": "29/05/2026 4:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment 1",
+      "mode": "Activity/ Performance, Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "27/03/2026 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "A problem set assignment focused on Finite Automata covered in weeks 1-3 of the course. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. To verify individual understanding, teaching staff may randomly select a number of students for a brief interview to explain and demonstrate their solutions. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission by the due date (27/03/2026, 4:00pm AEST) -- please refer to the assignment task sheet for further details.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 3 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 3 days as feedback will be provided within 10 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "A problem set assignment focused on Finite Automata covered in weeks 1-3 of the course. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. To verify individual understanding, teaching staff may randomly select a number of students for a brief interview to explain and demonstrate their solutions. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 2",
+      "mode": "Activity/ Performance, Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "1/05/2026 4:00 pm",
+      "learning_outcomes_assessed": "L02, L03, L04, L05",
+      "task_description": "A problem set assignment focused on Pushdown Automata, Turing Machines, Cellular Automata, and Decidability covered in weeks 4-7 of the course. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. To verify individual understanding, teaching staff may randomly select a number of students for a brief interview to explain and demonstrate their solutions. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission by the due date (1/05/2026, 4:00pm AEST) -- please refer to the assignment task sheet for further details.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 3 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 3 days as feedback will be provided within 10 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "A problem set assignment focused on Pushdown Automata, Turing Machines, Cellular Automata, and Decidability covered in weeks 4-7 of the course. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. To verify individual understanding, teaching staff may randomly select a number of students for a brief interview to explain and demonstrate their solutions. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 3",
+      "mode": "Activity/ Performance, Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "29/05/2026 4:00 pm",
+      "learning_outcomes_assessed": "L04, L05, L06, L07, L08",
+      "task_description": "A problem set and coding assignment focused on Complexity Theory and Quantum Computing covered in weeks 8-12 of the course. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. To verify individual understanding, teaching staff may randomly select a number of students for a brief interview to explain and demonstrate their solutions. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission by the due date (29/05/2026, 4:00pm AEST) -- please refer to the assignment task sheet for further details.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 3 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 3 days as feedback will be provided within 10 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "A problem set and coding assignment focused on Complexity Theory and Quantum Computing covered in weeks 8-12 of the course. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. To verify individual understanding, teaching staff may randomly select a number of students for a brief interview to explain and demonstrate their solutions. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "A 120-minute examination will be held during the examination period. Students will sit an on-campus invigilated exam. The exam will cover content from the whole semester. This assessment item is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "A 120-minute examination will be held during the examination period. Students will sit an on-campus invigilated exam. The exam will cover content from the whole semester. This assessment item is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment item is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Not Timetabled",
+      "topic": "Videos and Reading Videos and reading materials may be provided for topics necessary and of interest to the course. It is expected that students spend a good amount of time studying these recommended materials. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (23 Feb - 31 May)",
+      "activity_type": "Lecture",
+      "topic": "Lecture Sessions Course topics covered in a series of lectures. The lecturers may suggest a reading list (from suggested resources available freely via UQ Library) for each week. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (02 Mar - 31 May)",
+      "activity_type": "Applied Class",
+      "topic": "Applied Class These sessions are designed to support students’ understanding of course material and problem-solving techniques. During these sessions, the teaching staff may: Work through example problems (provided each week) related to the previous week's lecture Answer student questions about course content Provide guidance on assignments The students will be able to get feedback prior to the census date during Applied Classes. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 10 To Week 13 (04 May - 31 May)",
+      "activity_type": "Practical",
+      "topic": "Practical Class During these sessions, teaching staff may provide additional guidance and support for Assignment 3. Learning outcomes: L06, L07, L08",
+      "learning_outcomes": [
+        "L06",
+        "L07",
+        "L08"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

@@ -1,0 +1,225 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/PHYS7042-20556-7620",
+  "scraped_at": "2026-06-02T04:37:49.423096+00:00",
+  "course_code": "PHYS7042",
+  "class_code": "20556",
+  "semester_code": "7620",
+  "full_course_code": "PHYS7042-20556-7620",
+  "course_title": "Quantum Mechanics II",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Theoretical basic for the understanding of physical properties of systems, generally of macroscopic size, such as atoms, molecules or nuclei but also certain macroscopic systems, such as superfluids or superconductors.\n\nThe course builds on Quantum Mechanics I - PHYS2041 and aims at a deeper and more comprehensive understanding of quantum mechanics governing the physical properties of systems, generally of microscopic size, such as atoms, molecules or nuclei, but also of certain macroscopic systems such as superfluids and superconductors. The course starts from the mathematical formalism and postulates of quantum mechanics. This will be followed by the introduction and application of this formalism to key examples involving atoms, molecules, solids, light fields and other physical systems. Both matrix and wave mechanics will be used in a consistent way throughout the course, with an emphasis on Dirac notation. ﾠ\n\nSpecific topics include the Stern-Gerlach experiment, the time-dependent Schrödinger equation and the dynamics of driven two-level systems, eigenstates of interacting two-particle systems, entangled states and Bell inequality, symmetries and conservation laws, an introduction to scattering, and the main classes of perturbation theory.\n\nDetailed workshop and reading schedules will be available on the Blackboard site.\n\nThe laboratory component develops important experimental techniques and a 'hands-on' understanding of quantum phenomena through ﾠa choice of experiments that complement the theoretical part of the course. ﾠ\n\nThe course provides part of a comprehensive, complete and coherent program of education in Physics intended for students aiming to become professional physicists.ﾠ\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against ﾠ UQ Policy, ﾠ and will not be tolerated. We have developed a ﾠ suite of resources ﾠ to assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "PHYS2041",
+      "MATH2000",
+      "MATH2100"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "PHYS3040"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Carla Verdi",
+      "email": "c.verdi@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Carla Verdi",
+      "email": "c.verdi@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Arkady Fedorov",
+      "email": "a.fedorov@uq.edu.au"
+    },
+    {
+      "role": "Laboratory coordinator",
+      "name": "Professor Arkady Fedorov",
+      "email": "a.fedorov@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nApplied classes and Laboratories will begin in Week 2 for all students.ﾠ\nAll classes will be conducted on campus. Consult your personal timetable for times and locations. Students are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness).\nThere will be no learning activities on public holidays. If your applied class is scheduled on a public holiday, then please attend an applied class on another day for that week.",
+  "course_aims": "The aim of this course is to deepen and extend students conceptual understanding and problem solving ability in quantum physics. The postulates and mathematical formalism of quantum mechanics will be introduced in a more formal way and then applied to the key problems of quantum physics. The course will be supplemented with real-life examples from modern research when appropriate.\n\nThrough completing this course, students will be able to:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Interpret the principles of quantum physics, and analyse its connection to other areas of physics and to real-world problems."
+    },
+    {
+      "number": "LO2.",
+      "description": "Apply and manipulate the mathematical principles and methods of quantum physics to solve quantitative problems, and critically analyse the results."
+    },
+    {
+      "number": "LO3.",
+      "description": "Collaboratively plan and execute experimental investigations in quantum physics, and critically analyse and communicate the results."
+    },
+    {
+      "number": "LO4.",
+      "description": "Utilise technical communication to support scientific arguments in the area of quantum physics."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "In-class tests",
+      "weight": "20%",
+      "due_date": "Weeks 3-13 during your allocated Applied Class contact hour.",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Notebook/ Logbook",
+      "title": "Experiment 1: Logbook and summary of analysis",
+      "weight": "15% - weight is 10% or 15%: experiment with the higher grade receives the higher weight",
+      "due_date": "Logbook snapshots at the end of each session, with final summary due 5pm two weeks after the second session.",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Notebook/ Logbook",
+      "title": "Experiment 2: Logbook and summary of analysis",
+      "weight": "10% - weight is 10% or 15%: experiment with the higher grade receives the higher weight",
+      "due_date": "Logbook snapshots at the end of each session, with final summary due 5pm two weeks after the second session.",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester exam",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-class tests",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "Weeks 3-13 during your allocated Applied Class contact hour.",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02",
+      "task_description": "Students will be required to answer short questions related to selected material from the previous week. This will occur in Weeks 3-13, during your allocated Applied Class contact hour, under exam conditions. Your answers to the test questions must be handed in to the casual academic in hard copy, on supplied A4 papers. They will be marked for correctness and based on the student's ability to show their understanding of the material. Out of 11 such tests, only 6 are required to attain the maximum 20% weight for this assessment component. If you complete more than 6 tests, only the best 6 grades will count towards the course grade. Read full task description Hide full task description",
+      "submission_guidelines": "The answers to the test questions must be handed in to the casual academic in hard copy, on supplied A4 papers, during the Applied Class.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nNo late submissions or extensions are allowed for this assessment. If you are unable to attend your regular Applied Class in a week then you should attend a different session, where possible. Your overall mark for this assessment will come from an equal weighting of your best 6 grades out of the 11 tests.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Experiment 1: Logbook and summary of analysis",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Notebook/ Logbook",
+      "weight": "15% - weight is 10% or 15%: experiment with the higher grade receives the higher weight",
+      "due_date": "Logbook snapshots at the end of each session, with final summary due 5pm two weeks after the second session.",
+      "learning_outcomes_assessed": "L03, L04",
+      "task_description": "After an introductory session, you will work collaboratively in small groups (2 to 4 people) to complete two experiments, in consultation with your laboratory casual academic. Each experiment is to be completed over two three-hour lab sessions, as per your laboratory timetable. Laboratory notes and short videos provide guidance on the experimental apparatus and the nature of measurements - please review these prior to starting the experiment. Logbooks (group work) It is vital that you document your observations, ideas, experimentation, results and preliminary analysis during the course of your experimental investigations. Each group is required to maintain a collaborative \"logbook\" for each experiment, which will need to be shown to and discussed with your casual academic in the last hour of each session. As part of the discussion, your casual academic may ask questions to ascertain that each member of the group understands the experimental approach you have taken and the relevant concepts. In the discussion, your casual academic will also aid you in developing your plans for the next session or for completing your analysis. For record keeping, one member of each group should upload a copy of the current 'snapshot' of the logbook as a pdf to Blackboard prior to leaving the session. Sketching diagrams is an essential part of expressing physics concepts and ideas and of describing experimental work - you are therefore encouraged to hand-write the logbook, either on paper or else on a suitable tablet device. It is perfectly fine if your logbook contains dead-ends, or ideas or measurements that turn out to be 'wrong' - this is all part of doing genuine science. It is more important that your logbook is an honest reflection of your thinking and exploration, rather than being 'perfect' or 'correct'. The logbook should be owned by the group as a whole, with each member making meaningful contributions. To demonstrate this, and in line with industry practice, we recommend that each individual initials any logbook entry or contribution they make. Summary of Analysis (individual work) After the second session for each experiment, each student will have two weeks to finalise and submit a summary of their analysis of what they consider to be the central results. Note that this summary is NOT a full report on everything you did, but rather a chance to complete the analysis and present it in a clear and logical way, with enough context for the casual academic to understand what you did and to evaluate your understanding of what you did. There is a strict four-page limit on the summary of analysis. The summary should specify what you measured, why you made the measurements (i.e., what you were hoping to find out), how you analysed them, and the significance and implications of the results. The four pages should include the key figure (graph) and/or table needed to convey the results of the analysis and should be typeset with single line spacing (single or double column) and font-size 12. Raw data and details of the experimentation will be contained in your logbook, and you do not need to repeat these in the summary. You may summarise some of these in appendices to the summary (no page limit) if, e.g., the relevant information in the logbook is buried amongst other details or not particularly neat or clear. Read full task description Hide full task description",
+      "submission_guidelines": "Submit as PDF via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, a penalty of 10% of the maximum possible mark allocated for the assessment item (or equivalent penalty for other grading schemes) will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Experiment 2: Logbook and summary of analysis",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Notebook/ Logbook",
+      "weight": "10% - weight is 10% or 15%: experiment with the higher grade receives the higher weight",
+      "due_date": "Logbook snapshots at the end of each session, with final summary due 5pm two weeks after the second session.",
+      "learning_outcomes_assessed": "L03, L04",
+      "task_description": "After an introductory session, you will work collaboratively in small groups (2 to 4 people) to complete two experiments, in consultation with your laboratory casual academic. Each experiment is to be completed over two three-hour lab sessions, as per your laboratory timetable. Laboratory notes and short videos provide guidance on the experimental apparatus and the nature of measurements - please review these prior to starting the experiment. Logbooks (group work) It is vital that you document your observations, ideas, experimentation, results and preliminary analysis during the course of your experimental investigations. Each group is required to maintain a collaborative \"logbook\" for each experiment, which will need to be shown to and discussed with your casual academic in the last hour of each session. As part of the discussion, your casual academic may ask questions to ascertain that each member of the group understands the experimental approach you have taken and the relevant concepts. In the discussion, your casual academic will also aid you in developing your plans for the next session or for completing your analysis. For record keeping, one member of each group should upload a copy of the current 'snapshot' of the logbook as a pdf to Blackboard prior to leaving the session. Sketching diagrams is an essential part of expressing physics concepts and ideas and of describing experimental work - you are therefore encouraged to hand-write the logbook, either on paper or else on a suitable tablet device. It is perfectly fine if your logbook contains dead-ends, or ideas or measurements that turn out to be 'wrong' - this is all part of doing genuine science. It is more important that your logbook is an honest reflection of your thinking and exploration, rather than being 'perfect' or 'correct'. The logbook should be owned by the group as a whole, with each member making meaningful contributions. To demonstrate this, and in line with industry practice, we recommend that each individual initials any logbook entry or contribution they make. Summary of Analysis (individual work) After the second session for each experiment, each student will have two weeks to finalise and submit a summary of their analysis of what they consider to be the central results. Note that this summary is NOT a full report on everything you did, but rather a chance to complete the analysis and present it in a clear and logical way, with enough context for the casual academic to understand what you did and to evaluate your understanding of what you did. There is a strict four-page limit on the summary of analysis. The summary should specify what you measured, why you made the measurements (i.e., what you were hoping to find out), how you analysed them, and the significance and implications of the results. The four pages should include the key figure (graph) and/or table needed to convey the results of the analysis and should be typeset with single line spacing (single or double column) and font-size 12. Raw data and details of the experimentation will be contained in your logbook, and you do not need to repeat these in the summary. You may summarise some of these in appendices to the summary (no page limit) if, e.g., the relevant information in the logbook is buried amongst other details or not particularly neat or clear. Read full task description Hide full task description",
+      "submission_guidelines": "Submit as PDF via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, a penalty of 10% of the maximum possible mark allocated for the assessment item (or equivalent penalty for other grading schemes) will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End of Semester exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02",
+      "task_description": "The end of semester examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Workshop",
+      "topic": "Workshops The two-hour weekly workshops consist of summary of new material, discussions and problem solving. Learning outcomes: L01, L02, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Not Timetabled",
+      "topic": "Further reading and videos Students are expected to extend their knowledge of the topics presented in workshops through further reading, particularly of background material and derivations. Recommended readings for each workshop will be posted on Blackboard. Teaching staff have also prepared short videos on specific topics and techniques. Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Applied Class",
+      "topic": "Applied classes and problem sets Applied classes will focus on practical problem solving under the guidance of casual academics. They will facilitate student-student discussion, summarise relevant examples, and provide help and tips on concepts and techniques. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Practical",
+      "topic": "Laboratories The laboratories are designed to gain experience in advanced laboratory physics by carrying out a variety of experiments, to learn special techniques of experimental physics and to further develop skills in scientific analysis, record keeping, and communication. Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

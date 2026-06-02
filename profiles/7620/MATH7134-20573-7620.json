@@ -1,0 +1,167 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH7134-20573-7620",
+  "scraped_at": "2026-06-02T04:33:00.929823+00:00",
+  "course_code": "MATH7134",
+  "class_code": "20573",
+  "semester_code": "7620",
+  "full_course_code": "MATH7134-20573-7620",
+  "course_title": "Mathematical Biology",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Mathematical modelling of biological systems, with a particular focus on neuroscience.\n\nThis course covers topics from Systems Biology, Cell and Tissue Biology, as well as Neurobiology:\n\nEnzyme kinetics, the law of mass action, gene expression networks, the Moran process, cell division cycles, oscillatory and random dynamics, Gillespie’s algorithm, the Cellular Potts model, the Fisher-KPP equation, chemotaxis, pattern formation (Turing instability), structured models (integro-differential equations), and mathematical models for neuron spiking and membrane potential.\n\nThe mathematical tools introduced are difference equations, ordinary differential equations (ODEs), partial differential equations (PDEs) with a focus on diffusion equations, and stochastic processes. The course will also include an introduction or revision of the diffusion equation, linear stability analysis for ODEs, and an introduction into numerical methods to obtain 1D numerical solutions of PDEs.\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and againstﾠ UQ Policy, ﾠand will not be tolerated. We have developed aﾠ suite of resources ﾠto assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1052",
+      "MATH1072",
+      "MATH2100",
+      "MATH7100"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH3104"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Dietmar Oelz",
+      "email": "d.oelz@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Dietmar Oelz",
+      "email": "d.oelz@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Zoltan Neufeld",
+      "email": "z.neufeld@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus. Consult your personal timetable for times and locations. Students are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness).",
+  "course_aims": "The course aims to provide you with an understanding of the mathematical modelling process applied to biological systems.ﾠ You will learn how to build models, howﾠto use existing models, and how to interpret their solutions.ﾠ You will develop an understanding of the advantages and disadvantages of different approaches to given problems in mathematical biology, and an appreciation of the scientific method as applied in this discipline.ﾠﾠ",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Transfer a biological hypothesis into a mathematical representation"
+    },
+    {
+      "number": "LO2.",
+      "description": "Understand how models can be used to gain understanding of complex systems and to make predictions"
+    },
+    {
+      "number": "LO3.",
+      "description": "Understand the advantages and disadvantages of different types of models"
+    },
+    {
+      "number": "LO4.",
+      "description": "Create simple models of biological processes"
+    },
+    {
+      "number": "LO5.",
+      "description": "Interpret the solutions of models"
+    },
+    {
+      "number": "LO6.",
+      "description": "Write simple programs using MATLAB to solve mathematical problems that arise in models"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignments",
+      "weight": "48% Each assigment bears 8% weight in the aggregated mark.",
+      "due_date": "13/03/2026 2:00 pm; 27/03/2026 2:00 pm; 17/04/2026 2:00 pm; 1/05/2026 2:00 pm; 15/05/2026 2:00 pm; 29/05/2026 2:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester exam",
+      "weight": "52%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignments",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "48% Each assigment bears 8% weight in the aggregated mark.",
+      "due_date": "13/03/2026 2:00 pm 27/03/2026 2:00 pm 17/04/2026 2:00 pm 1/05/2026 2:00 pm 15/05/2026 2:00 pm 29/05/2026 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L04, L05, L06",
+      "task_description": "You will be asked to use and/or write programs related to the lecture material. Read full task description Hide full task description",
+      "submission_guidelines": "Please submit your assignment electronically on Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for assessment item/s will be released 7 days after the assessment is due and as such, an extension after 7 days will not be possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nSolutions for assignments will be released 7 days after the assessment is due and as such, late submission after 7 days from the original time submission is due will not be possible, regardless of approved extensions.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "End of Semester exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "52%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "You will be asked to use and/or write computer programs related to the lecture material. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options Casio FX82 series calculator only Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "The examination will be invigilated and on campus. Further details will be provided to students before the examination period.\nDeferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Lectures There are 2 hours of lectures per week. You need to attend ALL lectures. Lectures define the course material. They set out the basic theory and demonstrate techniques for modelling and problem solving. They cover all the core material required for the course and are also used to provide administrative information for the course. Students are expected to take notes during each lecture as the lecturer works through the material and examples, and answer or ask questions when opportunities arise Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Applied Class",
+      "topic": "Computer Labs Applied class problems, writing programs in Julia (or Matlab) to support the material presented in lectures, and presenting simulation results in a short report. Learning outcomes: L01, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

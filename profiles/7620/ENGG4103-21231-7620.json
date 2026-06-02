@@ -1,0 +1,318 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG4103-21231-7620",
+  "scraped_at": "2026-06-02T04:27:49.165262+00:00",
+  "course_code": "ENGG4103",
+  "class_code": "21231",
+  "semester_code": "7620",
+  "full_course_code": "ENGG4103-21231-7620",
+  "course_title": "Engineering Asset Management",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "Fundamentals of Reliability Engineering: failure intensity functions; system reliability; exploratory data analysis; the Weibull function; design for reliability; HAZOP; FMECA. Maintenance Management; preventive, predictive, proactive and corrective methods and their place in maintenance strategy; maintenance performance indices; workforce estimation and organisational structure; spare parts administration; maintenance contracts and contract administration; reliability centred maintenance; total productive maintenance. Preventive component replacement and capital equipment replacement decisions.\n\nMost engineers will find themselves makingﾠdecisions concerning the design, acquisition, maintenance and renewal of engineering assets throughout their professional careers. This course aims to provide 3rd and 4th year engineering students of all disciplines a sound background relating to:\n\nTeam project courses address a wide range of goals for the learner from personal development to technical experience. Due to the division of work within your group, you may be only lightly exposed to some technical skill areas, while deeply developing your abilities in other technical areas. You will be responsible for your learning - choose your areas of expertise and interest in conjunction with your team. The goals related to personal development, on the other hand, are the core learning goals for the course that will relate to every member of the team.",
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Peter Knights",
+      "email": "p.knights@uq.edu.au",
+      "phone": "+61 7 3365 3915",
+      "notes": "Consultation periods: Immediately following lectures or Wednesday ﾠmornings 10:00 am - 12:00 noon.ﾠ"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Peter Knights",
+      "email": "p.knights@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The course aims to impart the fundamentals of: (i) asset management, (ii) reliability engineeringﾠand (iii) optimisation of component and capital equipment replacement decisions to 3rd and 4th year engineering students of all disciplines.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand and apply asset management principles - Recognise that Asset Management involves life-cycle decisions"
+    },
+    {
+      "number": "LO2.",
+      "description": "Understand and apply asset management principles - Appreciate that Asset Management is holistic and involves working as part of multidisciplinary teams"
+    },
+    {
+      "number": "LO3.",
+      "description": "Understand and apply asset management principles - Appreciate that Asset Management drives value"
+    },
+    {
+      "number": "LO4.",
+      "description": "Understand and apply asset management principles - Design maintenance support systems for assets"
+    },
+    {
+      "number": "LO5.",
+      "description": "Understand and apply asset management principles - Specify appropriate maintenance tactics"
+    },
+    {
+      "number": "LO6.",
+      "description": "Understand and apply asset management principles - Specify appropriate maintenance intervals"
+    },
+    {
+      "number": "LO7.",
+      "description": "Analyse data in reliability engineering processes - Identify functions, functional failures and failure modes"
+    },
+    {
+      "number": "LO8.",
+      "description": "Analyse data in reliability engineering processes - Specify appropriate maintenance and inspection controls for failure modes"
+    },
+    {
+      "number": "LO9.",
+      "description": "Analyse data in reliability engineering processes - Analyse failure data to determine principal failure modes"
+    },
+    {
+      "number": "LO10.",
+      "description": "Analyse data in reliability engineering processes - Be familiar with equipment performance metrics"
+    },
+    {
+      "number": "LO11.",
+      "description": "Evaluate economic decisions related to assets - Develop quantified risk assessments"
+    },
+    {
+      "number": "LO12.",
+      "description": "Evaluate economic decisions related to assets - Use EAC approaches to determine life cycle costs"
+    },
+    {
+      "number": "LO13.",
+      "description": "Evaluate economic decisions related to assets - Determine economic optimum for asset replacement"
+    },
+    {
+      "number": "LO14.",
+      "description": "Work competently as part of a team - Coordinate and contribute to team projects involving engineering assets"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Applied Class Exercises",
+      "weight": "20%",
+      "due_date": "Weibull curve fitting (10%) 16/03/2026 4:00 pm; Capital replacement (10%) 27/04/2026 4:00 pm; Report is in the form of a completed questionnaire, submitted at end of each applied class (16:00 hrs).",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Assignment 1: Maintenance Strategy Formulation",
+      "weight": "30% Includes Peer Assessment",
+      "due_date": "2/04/2026 4:00 pm",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "Quiz",
+      "weight": "20%",
+      "due_date": "11/05/2026 10:00 am",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment 2: Case Study Analysis",
+      "weight": "30%",
+      "due_date": "7/05/2026 4:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Applied Class Exercises",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "Weibull curve fitting (10%) 16/03/2026 4:00 pm Capital replacement (10%) 27/04/2026 4:00 pm Report is in the form of a completed questionnaire, submitted at end of each applied class (16:00 hrs).",
+      "learning_outcomes_assessed": "L05, L06, L09, L11, L12, L13",
+      "task_description": "Part 1 of 2 Weibull curve fitting Weibull curve fitting exercise. Part 2 of 2 Capital Replacement Analyse capital replacement of equipment. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nDiscretionary extensions are not available for this task.\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nAs this is timed-assessment, Student Access Plans (SAPs) and discretionary requests are not suitable supporting documentation. Students must provide evidence that demonstrates their inability to attend the assessment at the scheduled time.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nBecause this assessment takes place in a scheudled class, a 100% penalty will be applied to late submission. This has been approved by the Associate Dean (Academic).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Part 1 of 2 Weibull curve fitting Weibull curve fitting exercise. Part 2 of 2 Capital Replacement Analyse capital replacement of equipment. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 1: Maintenance Strategy Formulation",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "30% Includes Peer Assessment",
+      "due_date": "2/04/2026 4:00 pm",
+      "other_conditions": "Peer assessment factor. See the conditions definitions",
+      "learning_outcomes_assessed": "L02, L04, L05, L06, L07, L08, L09, L14",
+      "task_description": "Formulation of a maintenance strategy for a wind generator. Group report (4 students per group). Ability to analyse and formulate program using engineering reliability tools. Please refer to Blackboard for detailed marking criteria. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. A Peer Assessment Factor of between zero and 1.1 will be applied to your team mark in order to derive your individual assignment mark. This task has been designed to be challenging, authentic and complex. Students may use AI and/or MT technologies for evaluating maintenance controls and the frequency with which they should be applied, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via TurnItIn on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Formulation of a maintenance strategy for a wind generator. Group report (4 students per group). Ability to analyse and formulate program using engineering reliability tools. Please refer to Blackboard for detailed marking criteria. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. A Peer Assessment Factor of between zero and 1.1 will be applied to your team mark in order to derive your individual assignment mark. This task has been designed to be challenging, authentic and complex. Students may use AI and/or MT technologies for evaluating maintenance controls and the frequency with which they should be applied, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Students may use AI and/or MT technologies for evaluating maintenance controls and the frequency with which they should be applied, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Quiz",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "20%",
+      "due_date": "11/05/2026 10:00 am",
+      "learning_outcomes_assessed": "L01, L02, L05, L07, L08, L09, L10, L11, L12, L13",
+      "task_description": "Reading: 5 minutes Duration: 30 minutes Format: Multiple-choice, Short answer, Problem solving The quiz covers modules 1 to 10 inclusive. Please refer to Blackboard for detailed marking criteria. Students are expected to undertake the quiz during the timetabled session. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nDiscretionary extensions are not available for this task.\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nAs this is timed-assessment, Student Access Plans (SAPs) and discretionary requests are not suitable supporting documentation. Students must provide evidence that demonstrates their inability to attend the assessment at the scheduled time.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nBecause this assessment takes place in a scheudled class, a 100% penalty will be applied to late submission. This has been approved by the Associate Dean (Academic)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Reading: 5 minutes Duration: 30 minutes Format: Multiple-choice, Short answer, Problem solving The quiz covers modules 1 to 10 inclusive. Please refer to Blackboard for detailed marking criteria. Students are expected to undertake the quiz during the timetabled session. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Assignment 2: Case Study Analysis",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "30%",
+      "due_date": "7/05/2026 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L10, L11",
+      "task_description": "Individual assignment. Written presentation, Analysis of case study and downtime data, determining improvement priorities, Ability to understand maintenance indices and formulate action plans. Please refer to Blackboard for detailed marking criteria. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via TurnItIn on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Individual assignment. Written presentation, Analysis of case study and downtime data, determining improvement priorities, Ability to understand maintenance indices and formulate action plans. Please refer to Blackboard for detailed marking criteria. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (23 Feb - 01 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Module 1: Physical Assets (2 hours) The purpose of physical assets Performance requirements The life cycle of physical assets Value through asset management Learning outcomes: L01, L02, L03, L14",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L14"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (02 Mar - 08 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Module 2: Asset Management Strategy Strategy, tactics and resources The maintenance process Determining equipment priority Maintenance maturity model RELEASE OF ASSIGNMENT 1 Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (09 Mar - 15 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Module 3 : Asset Management Tactics Functions, functional failures and failure modes Failure intensity functions Maintenance tactics Selecting tactics Learning outcomes: L05, L06, L07",
+      "learning_outcomes": [
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (16 Mar - 22 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Module 4: Asset Management Processes and Organisation (3 hours) Key asset management processes Work Order Management Maintenance forecasting, planning & scheduling Organisational structure Learning outcomes: L04, L10",
+      "learning_outcomes": [
+        "L04",
+        "L10"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (23 Mar - 29 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Module 5: Asset Management Measurement, Control & Improvement Performance measurement Continuous improvement Root Cause Analysis Operator Driven Reliability Learning outcomes: L08, L09, L10",
+      "learning_outcomes": [
+        "L08",
+        "L09",
+        "L10"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (30 Mar - 05 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Module 6 Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (13 Apr - 19 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Module 7"
+    },
+    {
+      "learning_period": "Week 8 (20 Apr - 26 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Module 8: Spares and Repairs Management Spares classification High rotation spares Low rotation spares Advanced sparing decisions Learning outcomes: L10",
+      "learning_outcomes": [
+        "L10"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (27 Apr - 03 May)",
+      "activity_type": "Lecture",
+      "topic": "Module 9: Contracts, Contractor Management Contract types Work scope Agreed performance measurements Risk sharing RELEASE OF ASSIGNMENT 2 Learning outcomes: L01, L02, L03, L11",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L11"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (04 May - 10 May)",
+      "activity_type": "Lecture",
+      "topic": "Module 10: Life Cycle Cost Estimation Learning outcomes: L10, L12, L13",
+      "learning_outcomes": [
+        "L10",
+        "L12",
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (11 May - 17 May)",
+      "activity_type": "Lecture",
+      "topic": "Module 11: ISO 55000 Asset Management Standards and the Future of Asset Management Learning outcomes: L09, L10",
+      "learning_outcomes": [
+        "L09",
+        "L10"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (18 May - 24 May)",
+      "activity_type": "Lecture",
+      "topic": "Module 12: Maintenance Data Analytics Learning outcomes: L10",
+      "learning_outcomes": [
+        "L10"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

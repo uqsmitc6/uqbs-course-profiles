@@ -1,0 +1,248 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE7030-21207-7620",
+  "scraped_at": "2026-06-02T04:24:09.985577+00:00",
+  "course_code": "CSSE7030",
+  "class_code": "21207",
+  "semester_code": "7620",
+  "full_course_code": "CSSE7030-21207-7620",
+  "course_title": "Introduction to Programming",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Introduction to programming focusses on the fundamentals of computing and programming using an exploratory problem-based approach. Building abstractions with procedures, data and objects; data modelling; designing, coding and debugging programs of increasing complexity. This course introduces fundamental concepts in programming, using the Python programming language. Emphasis is placed on problem solving using computational techniques, creating algorithms and designing abstractions.\n\nThe following aspects of the course have been changed from last semester:",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP1502",
+      "CSSE1001",
+      "ENGG1001"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Azin Janani",
+      "email": "csse7030@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Azin Janani"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nNote that applied classes start in\nWeek 1\nand practical sessions start in\nWeek 2\n. You need to sign-on for one of the practical group streams and one of the applied classes. Students may attend additional applied classes, beyond the one to which they are allocated. Practical sessions tend to become very crowded close to assignment due dates. If there are too many students in the room for the demonstrators to manage, they may limit attendance to only those allocated to the session to ensure that the session is manageable.\nLectures will be recorded and available on the course Blackboard site. However, physical attendance at the lecture is strongly recommended, with recordings used to revise content.\nAn In-Semester Exam will be scheduled on one of the following dates: Saturday, 28 March (end of week 5) or Saturday, 18 April (end of week 7) or Saturday, 2 May (end of week 9)\nThe exact date and time of the In-Semester Exam will be announced via email and on the course Blackboard site later during the semester.",
+  "course_aims": "This course aims to provide students with foundation level programming skills. Taking this course will teach you the fundamental techniques that are common to good programming practice, independent of the programming language. After completing this course you should be able to transfer the programming skillsets you learn to other programming languages which employ similar paradigms. This includes understanding of data types, data structures, functions, building abstractions to hide details, separating a specification from an implementation and establishing conventional interfaces to allow the creation of standard extendable software modules. Programming practice is necessary to achieve the learning outcomes of the course. You will be using Python to practice coding and for your assessment as it is well-suited to understanding fundamental programming ideas and practices. Upon course completion you will be able to analyse a problem and design and implement a computational solution to the problem. You will make use of two major paradigms: imperative and object-oriented programming.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "apply program constructs such as variables, selection, iteration and sub-routines,"
+    },
+    {
+      "number": "LO2.",
+      "description": "apply basic object-oriented concepts such as classes, instances and methods,"
+    },
+    {
+      "number": "LO3.",
+      "description": "read and analyse code written by others,"
+    },
+    {
+      "number": "LO4.",
+      "description": "analyse a problem and design an algorithmic solution to the problem,"
+    },
+    {
+      "number": "LO5.",
+      "description": "read and analyse a design and be able to translate the design into a working program,"
+    },
+    {
+      "number": "LO6.",
+      "description": "apply techniques for testing and debugging,"
+    },
+    {
+      "number": "LO7.",
+      "description": "understand and implement basic cybersecurity measures, including input validation and format checking, in programming."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code",
+      "title": "Computer exercise 1 (Assignment 1)",
+      "weight": "15%",
+      "due_date": "17/04/2026 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "In-semester Exam",
+      "weight": "25%",
+      "due_date": "In-semester Saturday; 27/03/2026 - 3/05/2026; A personal exam timetable will be emailed to your student email address with the date and time of your exams.",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code",
+      "title": "Computer exercise 2 (Assignment 2)",
+      "weight": "20%",
+      "due_date": "22/05/2026 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "End of semester exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Computer exercise 1 (Assignment 1)",
+      "mode": "Written",
+      "category": "Computer Code",
+      "weight": "15%",
+      "due_date": "17/04/2026 3:00 pm",
+      "task_description": "Students will implement a small program based on a provided specification. This part assesses topics covered in teaching weeks one through five or six related to procedural programming. While completing this assessment, students must work independently, without viewing anyone else's code or sharing their own code with others. Students must ensure that they understand all code which they submit for this assessment. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. However, AI or MT tools are not required to be used and not recommended to be used as they may inhibit learning and introduce bugs into your code. You must always follow the referencing requirements set out in the assignment specification and documents referenced from the assignment specification. Failure to appropriately reference the resources (tools and information sources) used in your work may result in misconduct allegations against you. You must clearly reference any use of AI in each instance. You are encouraged to discuss the concepts behind the assignments but under no circumstances should you show your code to, or allow your code to be seen by, another student. You should not look at the code of any other student. You must sufficiently protect all electronic and paper copies of your code. All submitted code will be subject to electronic plagiarism and collusion detection. Assignments with no academic merit will be awarded a mark of zero. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. See additional assessment information below for more information. Read full task description Hide full task description",
+      "submission_guidelines": "Online via Gradescope unless otherwise specified for a particular assessment item. Students should submit their code regularly to Gradescope as they progress in the assignment. Detailed submission instruction will be provided on the Blackboard site of the course.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nExtensions are not available for this assessment item as feedback is given to students very rapidly.\nAssignment is auto marked and solutions will be released within 3 days of the due date to permit students to progress with follow up assessments.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours (or part thereof) from the deadline (or your extended deadline, if applicable) for up to 3 days. After 3 days (72 hours), you will receive a mark of zero.\nThe modified late penalty applies as the assessment is auto marked and solutions will be released within 3 days of the due date to permit students to progress with follow up assessments.\nThis has been approved by the Associate Dean (Academic)",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours (or part thereof) from the deadline (or your extended deadline, if applicable) for up to 3 days. After 3 days (72 hours), you will receive a mark of zero.",
+      "ai_statement": "Students will implement a small program based on a provided specification. This part assesses topics covered in teaching weeks one through five or six related to procedural programming. While completing this assessment, students must work independently, without viewing anyone else's code or sharing their own code with others. Students must ensure that they understand all code which they submit for this assessment. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. However, AI or MT tools are not required to be used and not recommended to be used as they may inhibit learning and introduce bugs into your code. You must always follow the referencing requirements set out in the assignment specification and documents referenced from the assignment specification. Failure to appropriately reference the resources (tools and information sources) used in your work may result in misconduct allegations against you. You must clearly reference any use of AI in each instance. You are encouraged to discuss the concepts behind the assignments but under no circumstances should you show your code to, or allow your code to be seen by, another student. You should not look at the code of any other student. You must sufficiently protect all electronic and paper copies of your code. All submitted code will be subject to electronic plagiarism and collusion detection. Assignments with no academic merit will be awarded a mark of zero. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. See additional assessment information below for more information. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.\nHowever, AI or MT tools are not required to be used and not recommended to be used as they may inhibit learning and introduce bugs into your code. You must always follow the referencing requirements set out in the assignment specification and documents referenced from the assignment specification. Failure to appropriately reference the resources (tools and information sources) used in your work may result in misconduct allegations against you. You must clearly reference any use of AI in each instance. You are encouraged to discuss the concepts behind the assignments but under no circumstances should you show your code to, or allow your code to be seen by, another student. You should not look at the code of any other student. You must sufficiently protect all electronic and paper copies of your code. All submitted code will be subject to electronic plagiarism and collusion detection. Assignments with no academic merit will be awarded a mark of zero."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In-semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "25%",
+      "due_date": "In-semester Saturday 27/03/2026 - 3/05/2026 A personal exam timetable will be emailed to your student email address with the date and time of your exams.",
+      "task_description": "This is a closed book and identity-verified examination conducted on campus. This exam covers up to Week 4 (inclusive). Question formats may include multiple choice, short answer and calculations, and programming tasks. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This is a closed book and identity-verified examination conducted on campus. This exam covers up to Week 4 (inclusive). Question formats may include multiple choice, short answer and calculations, and programming tasks. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Computer exercise 2 (Assignment 2)",
+      "mode": "Written",
+      "category": "Computer Code",
+      "weight": "20%",
+      "due_date": "22/05/2026 3:00 pm",
+      "task_description": "Students will implement an object oriented program based on a provided specification. This assessment covers topics from teaching week one through eleven. While completing this assignment, students must work independently, without viewing anyone else's code or sharing their own code with others. Students must ensure that they understand all code which they submit for this assessment. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. However, AI or MT tools are not required to be used and not recommended to be used as they may inhibit learning and introduce bugs into your code. You must always follow the referencing requirements set out in the assignment specification and documents referenced from the assignment specification. Failure to appropriately reference the resources (tools and information sources) used in your work may result in misconduct allegations against you. You must clearly reference any use of AI in each instance. You are encouraged to discuss the concepts behind the assignments but under no circumstances should you show your code to, or allow your code to be seen by, another student. You should not look at the code of any other student. You must sufficiently protect all electronic and paper copies of your code. All submitted code will be subject to electronic plagiarism and collusion detection. Assignments with no academic merit will be awarded a mark of zero. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. See additional assessment information below for more information. Read full task description Hide full task description",
+      "submission_guidelines": "Assignment 2 will be submitted on-line via Blackboard (Gradescope). Students should submit their code regularly to Gradescope as they progress through assignment 2. Detailed submission instruction will be provided on the Blackboard site of the course.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nExtensions are not available for this assessment item as feedback is given to students very rapidly.\nAssignment is auto marked and solutions will be released within 3 days of the due date to permit students to progress with follow up assessments.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours (or part thereof) from the deadline (or your extended deadline, if applicable) for up to 3 days. After 3 days (72 hours), you will receive a mark of zero.\nThe modified late penalty applies as the assessment is auto marked and solutions will be released within 3 days of the due date to permit students to progress with follow up assessments.\nThis has been approved by the Associate Dean (Academic)",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours (or part thereof) from the deadline (or your extended deadline, if applicable) for up to 3 days. After 3 days (72 hours), you will receive a mark of zero.",
+      "ai_statement": "Students will implement an object oriented program based on a provided specification. This assessment covers topics from teaching week one through eleven. While completing this assignment, students must work independently, without viewing anyone else's code or sharing their own code with others. Students must ensure that they understand all code which they submit for this assessment. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. However, AI or MT tools are not required to be used and not recommended to be used as they may inhibit learning and introduce bugs into your code. You must always follow the referencing requirements set out in the assignment specification and documents referenced from the assignment specification. Failure to appropriately reference the resources (tools and information sources) used in your work may result in misconduct allegations against you. You must clearly reference any use of AI in each instance. You are encouraged to discuss the concepts behind the assignments but under no circumstances should you show your code to, or allow your code to be seen by, another student. You should not look at the code of any other student. You must sufficiently protect all electronic and paper copies of your code. All submitted code will be subject to electronic plagiarism and collusion detection. Assignments with no academic merit will be awarded a mark of zero. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. See additional assessment information below for more information. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.\nHowever, AI or MT tools are not required to be used and not recommended to be used as they may inhibit learning and introduce bugs into your code. You must always follow the referencing requirements set out in the assignment specification and documents referenced from the assignment specification. Failure to appropriately reference the resources (tools and information sources) used in your work may result in misconduct allegations against you. You must clearly reference any use of AI in each instance. You are encouraged to discuss the concepts behind the assignments but under no circumstances should you show your code to, or allow your code to be seen by, another student. You should not look at the code of any other student. You must sufficiently protect all electronic and paper copies of your code. All submitted code will be subject to electronic plagiarism and collusion detection. Assignments with no academic merit will be awarded a mark of zero."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End of semester exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "task_description": "This is a closed-book , identity-verified examination conducted on campus. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This is a closed-book , identity-verified examination conducted on campus. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Applied Class",
+      "topic": "Applied Class Weekly Applied Classes start from Week 1."
+    },
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Lecture",
+      "topic": "Week 1 Course introduction. Arithmetic, types and variables in programming. Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13",
+      "activity_type": "Practical",
+      "topic": "Practicals Weekly practicals start from Week 2"
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Lecture",
+      "topic": "Week 2 Control Structures (if statement and While loop)."
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Lecture",
+      "topic": "Week 3 Strings, For loops, and Functions"
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Lecture",
+      "topic": "Week 4 Tuples and Lists - Strings and Lists methods"
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Lecture",
+      "topic": "Week 5 Dictionary , Scope"
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Lecture",
+      "topic": "Week 6 File Processing, Debugging and Testing"
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Lecture",
+      "topic": "Week 7 Exceptions and Intro to OOP"
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Lecture",
+      "topic": "Week 8 Dunder/Magic methods. Inheritance and Polymorphism."
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Lecture",
+      "topic": "Week 9 Advanced Inheritance and Composition, Intro to Cyber Security"
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Lecture",
+      "topic": "Week 11 Functional Programming"
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Lecture",
+      "topic": "Week 12 Recursion"
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Lecture",
+      "topic": "Week 13 Revision."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

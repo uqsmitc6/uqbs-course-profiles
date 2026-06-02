@@ -1,0 +1,296 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMP4403-21232-7620",
+  "scraped_at": "2026-06-02T04:23:17.529668+00:00",
+  "course_code": "COMP4403",
+  "class_code": "21232",
+  "semester_code": "7620",
+  "full_course_code": "COMP4403-21232-7620",
+  "course_title": "Compilers and Interpreters",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Compiler modules; programming language specifications; lexical analysis, parsing - recursive descent and table driven; static semantics - symbol tables and type checking; error handling; introduction to code generation and optimisation; compiler generators; interpreters.\n\nThe invention of (high-level) programming languages in the 1950s was one of the most significant advances for making software development more accessible and time efficient --- compare writing programs in machine or assembly language with, say, Java. Implementing programming languages was a major challenge taken on in the 1960s and 1970s that led to the development of modern day compilers and the theory and practice that we study in this course. A significant advantage of using a programming language over machine/assembly language is machine independence.\n\nTo ensure that the implementations of a programming language on different machines are consistent one needs a machine-independent definition of the language. To achieve this we first define the syntax of the language (i.e., what are the legal strings in the language) and then its semantics (or meaning). The syntax of the language is defined via a grammar written in terms of the basic symbols (such as keywords, identifiers, and operators), which are called lexical tokens, and the tokens are defined in terms of regular expressions over character strings. Not all strings allowed by the grammar are valid programs in the language because, for example, identifiers cannot be multiply defined within a single scope and expressions must be of the correct type for their context. We use a set of type checking rules to define the programs that are well formed. Finally we need to define what the result of an expression evaluation should be and what the effect of executing a statement should be.\n\nA programming language is implemented by either a compiler or interpreter. These are themselves both just (rather sophisticated) programs. A compiler implements a programming language by translating a high-level program (e.g., a Java program represented simply as a text file (which is itself represented as a stream of characters (which are represented by bits))) to a machine-level program (represented as a sequence of machine instructions (e.g., x86 machine instructions (that are themselves represented as bits))). [Aside: you have to be able to handle lots of nesting in this course.]\n\nThe tasks undertaken by a compiler can be divided into the following.\n\nAn interpreter is a simpler (and usually less efficient) way of implementing a programming language. It acts in the same way as a compiler in the early phases, but does not have a code generation phase. Instead it directly interprets its internal representation of the program. The main advantage of interpreters over compilers is that they do not depend on the target machine, and hence are more portable than compilers. Interpreters are used for simple languages, like operating system command shells, where the overheads of generating machine code outweigh the slower execution time of the interpreted program, or for very high-level languages (e.g., functional and logic programming languages) where the individual operations are so powerful that the execution-time cost of interpretation over compilation is not all that significant.\n\nThe language recognition phases of compilers are common to many applications of computers that involve a language of some form. For example, a web browser recognises a document written in the Hyper Text Markup Language (HTML) and interprets it by generating a display of the document on the screen.\n\nEarly compilers were hand-crafted programs designed to implement a particular language for a particular machine. However, in theﾠ1960s it was recognised that many of the aspects of writing a compiler were not dependent on the particular programming language being compiled. In particular, the early phases of recognising a program and creating an abstract representation of it were dependent mainly on the grammar of the language. The result was the creation of compiler generators (lexical analyser and parser generators really). A parser generator is yet another program that accepts a description of a programming language (in the form of a grammar for the language) and generates a program, that is a parser for that language. Modern compiler generators are often implemented as suites of cooperating tools that generate compiler components from a range of notations, each of which specifies a different aspect of a language (and its implementation). These activities include not only lexical analysis and parsing, but also error checking and code generation.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "COMP3506",
+      "We recommend completing the following courses before enrolling in this one:",
+      "CSSE2010"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP7402"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Larissa Meinicke",
+      "email": "COMP4403@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Larissa Meinicke"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course studies how compilers and interpreters for programming languages are implemented. Along the way we learn a lot about programming languages, their grammars, what they really mean, how they are implemented, and how to structure large programs.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Knowledge Outcomes - Explain how programming languages are defined in terms of grammars, type checking rules, and evaluation/execution rules and be able to write/modify grammars and type checking rules."
+    },
+    {
+      "number": "LO2.",
+      "description": "Knowledge Outcomes - Understand the structure of a compiler in terms of lexical analysis, parsing, static semantic analysis and code generation."
+    },
+    {
+      "number": "LO3.",
+      "description": "Knowledge Outcomes - Apply and explain the theory of lexical analysis of programming languages (i.e., recognising keywords, numbers, variable names, operators, etc.) using regular expressions and finite state machines."
+    },
+    {
+      "number": "LO4.",
+      "description": "Knowledge Outcomes - Apply and explain the theory of parsing of (programming language) grammars (i.e., recognising the structure of programs in terms of procedures, statements and expressions, etc) using (top-down), recursive-descent parsing and (bottom-up) shift/reduce parsing."
+    },
+    {
+      "number": "LO5.",
+      "description": "Knowledge Outcomes - Comprehend the static semantics of programming languages (i.e., handling variable, type and procedure declarations and analysing the type correctness of programs) and apply the theory to develop static semantic analysers."
+    },
+    {
+      "number": "LO6.",
+      "description": "Knowledge Outcomes - Understand the run-time organisation of memory using stacks for expression evaluation, procedure calls, and local variable allocation; and heaps for dynamic memory allocation (\"new\" in Java) and apply that understanding to handle code generation."
+    },
+    {
+      "number": "LO7.",
+      "description": "Knowledge Outcomes - Understand and apply strategies for generating machine code for programming language expressions, control structures, and procedure/method calls."
+    },
+    {
+      "number": "LO8.",
+      "description": "Knowledge Outcomes - Understand modern programming language constructs and be able to implement them."
+    },
+    {
+      "number": "LO9.",
+      "description": "Knowledge Outcomes - Understand the use of interpreters to implement programming languages and be able to implement them."
+    },
+    {
+      "number": "LO10.",
+      "description": "Skills Outcomes - An improved ability to structure and program large systems."
+    },
+    {
+      "number": "LO11.",
+      "description": "Skills Outcomes - Use compiler generation tools to generate lexical analysers (from regular expressions), parsers (from grammars), and static semantic analysis components."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Online quizzes",
+      "weight": "10%",
+      "due_date": "13/03/2026 3:00 pm; 20/03/2026 3:00 pm; 27/03/2026 3:00 pm; 24/04/2026 3:00 pm; 8/05/2026 3:00 pm; 29/05/2026 3:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code",
+      "title": "Assignment 1",
+      "weight": "15%",
+      "due_date": "17/04/2026 3:00 pm"
+    },
+    {
+      "category": "Computer Code",
+      "title": "Assignment 2",
+      "weight": "20%",
+      "due_date": "22/05/2026 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Online quizzes",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "10%",
+      "due_date": "13/03/2026 3:00 pm 20/03/2026 3:00 pm 27/03/2026 3:00 pm 24/04/2026 3:00 pm 8/05/2026 3:00 pm 29/05/2026 3:00 pm",
+      "task_description": "There will be 6 computer-based quizzes worth 2% each. Only the marks for your best 5 quizzes will contribute towards your final grade. They will be due at 3pm on Friday in weeks 3, 4, 5, 8, 10 and 13. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Although Artificial Intelligence (AI) and Machine Translation (MT) tools are permitted to be used in the quizzes, they are not required to be used and not recommended to be used as they may inhibit learning. Read full task description Hide full task description",
+      "submission_guidelines": "The quizzes are accessed via the course Blackboard site.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nBecause only the best 5 of 6 will contribute to the mark for this assessment item and results/answers are released soon after the due date, no extensions are permitted.\nIf there are exceptional circumstances, please reach out to studentenquiries@eecs.uq.edu.au with supporting documentation.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nBecause the results/answers are released soon after the due date, and only the best 5 of 6 will contribute to the mark for this assessment item a 100% penalty will be applied to late submission.\nThis has been approved by the Associate Dean (Academic)",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "There will be 6 computer-based quizzes worth 2% each. Only the marks for your best 5 quizzes will contribute towards your final grade. They will be due at 3pm on Friday in weeks 3, 4, 5, 8, 10 and 13. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Although Artificial Intelligence (AI) and Machine Translation (MT) tools are permitted to be used in the quizzes, they are not required to be used and not recommended to be used as they may inhibit learning. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.\nAlthough Artificial Intelligence (AI) and Machine Translation (MT) tools are permitted to be used in the quizzes, they are not required to be used and not recommended to be used as they may inhibit learning.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 1",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Computer Code",
+      "weight": "15%",
+      "due_date": "17/04/2026 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L04, L05, L08, L09, L10",
+      "task_description": "Extending a recursive descent compiler. This assignment involves extending a compiler written in Java using recursive descent parsing to handle additional language features. Full details of the language extensions and files for the compiler will be provided via Blackboard. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Although Artificial Intelligence (AI) and Machine Translation (MT) tools are permitted to be used in the assignment, they are not required to be used and not recommended to be used as they may inhibit learning, and introduce bugs and unnecessary complexity into your code. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted online via Blackboard unless otherwise specified for a particular assessment item.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 14 days as feedback will be provided within 21 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Extending a recursive descent compiler. This assignment involves extending a compiler written in Java using recursive descent parsing to handle additional language features. Full details of the language extensions and files for the compiler will be provided via Blackboard. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Although Artificial Intelligence (AI) and Machine Translation (MT) tools are permitted to be used in the assignment, they are not required to be used and not recommended to be used as they may inhibit learning, and introduce bugs and unnecessary complexity into your code. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.\nAlthough Artificial Intelligence (AI) and Machine Translation (MT) tools are permitted to be used in the assignment, they are not required to be used and not recommended to be used as they may inhibit learning, and introduce bugs and unnecessary complexity into your code."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 2",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Computer Code",
+      "weight": "20%",
+      "due_date": "22/05/2026 3:00 pm",
+      "task_description": "Extending a compiler using a parser generator. This assignment involves extending a compiler written using a parser generator and the lexical analyzer generator to handle additional language features. Full details of the language extensions and files for the compiler will be provided via Blackboard. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Although Artificial Intelligence (AI) and Machine Translation (MT) tools are permitted to be used in the assignment, they are not required to be used and not recommended to be used as they may inhibit learning, and introduce bugs and unnecessary complexity into your code. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted online via Blackboard unless otherwise specified for a particular assessment item.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Extending a compiler using a parser generator. This assignment involves extending a compiler written using a parser generator and the lexical analyzer generator to handle additional language features. Full details of the language extensions and files for the compiler will be provided via Blackboard. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Although Artificial Intelligence (AI) and Machine Translation (MT) tools are permitted to be used in the assignment, they are not required to be used and not recommended to be used as they may inhibit learning, and introduce bugs and unnecessary complexity into your code. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.\nAlthough Artificial Intelligence (AI) and Machine Translation (MT) tools are permitted to be used in the assignment, they are not required to be used and not recommended to be used as they may inhibit learning, and introduce bugs and unnecessary complexity into your code."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "task_description": "The final examination is a hurdle assessment (refer to the course grading for details) and it covers the entire course. The final examination is closed book but you may bring in one A4-size page crib sheet: it may be written on both sides it may be hand written if machine produced it must be a minimum of 10 point font size it is to be handed in with your examination script No calculators permitted. Further details on the examination content and past examination papers will be provided at the end of semester and will be available from Blackboard. Method of delivery: This exam will be conducted as an invigilated on-campus exam. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The final examination is a hurdle assessment (refer to the course grading for details) and it covers the entire course. The final examination is closed book but you may bring in one A4-size page crib sheet: it may be written on both sides it may be hand written if machine produced it must be a minimum of 10 point font size it is to be handed in with your examination script No calculators permitted. Further details on the examination content and past examination papers will be provided at the end of semester and will be available from Blackboard. Method of delivery: This exam will be conducted as an invigilated on-campus exam. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (23 Feb - 31 May)",
+      "activity_type": "Applied Class",
+      "topic": "Weekly Applied Class The applied classes provide weekly opportunities to apply the skills learnt in lectures to complete revision exercises with guidance from course staff. They are an essential part of the learning process in this course. They provide the basis from which you can attempt the assignments and cover questions similar to those in the final examination."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 2 (23 Feb - 08 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Week 1-2: Language definition Definition of the syntax of programming languages using context-free grammars and regular expressions. Learning outcomes: L01, L03, L04, L08",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 1 (23 Feb - 01 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Week 1: Course overview Phases of a compiler and introduction to interpreters. Learning outcomes: L02, L08, L10",
+      "learning_outcomes": [
+        "L02",
+        "L08",
+        "L10"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 3 (02 Mar - 15 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Week 2-3: Recursive descent parsing Implementing a parser for an Extended Backus-Naur Form (EBNF) grammar using recursive methods, one for each non-terminal symbol in the grammar. Handling syntax error recovery and abstract syntax tree building. Learning outcomes: L04, L08, L10",
+      "learning_outcomes": [
+        "L04",
+        "L08",
+        "L10"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 3 To Week 4 (09 Mar - 22 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Week 3-4: Assignment 1 compiler Detailed discussion of the recursive descent parser used in assignment 1, including parsing, syntax error recovery, static semantics (checking the types of variables, etc.), abstract syntax tree construction and run time interpreter."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 3 To Week 4 (09 Mar - 22 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Weeks 3-4: Static semantic analysis The structure of the identifier tables. Representing programming languages types. Representing nested scopes and handling declarations. Static Semantics of Expressions and Statements. Learning outcomes: L01, L05, L08",
+      "learning_outcomes": [
+        "L01",
+        "L05",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (16 Mar - 22 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Week 4: Interpreters Using interpreters to implement programming languages. Learning outcomes: L08, L09",
+      "learning_outcomes": [
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (23 Mar - 29 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Weeks 5: Grammars and LL(1) parsing Rewriting grammars to avoid left factors and left recursion (so that they are suitable for recursive descent parsing). First and follow sets. LL(1) grammars and parsing. Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 6 To Week 9 (30 Mar - 03 May)",
+      "activity_type": "Lecture",
+      "topic": "Weeks 6-9: Bottom-up parsing Shift/reduce parsing. LR(0) parsing. Assignment 2 compiler using parser generator tool. Parsing conflicts. Operator precedence and associativity. LR(1) parsing. LALR(1) parsing. Learning outcomes: L04, L11",
+      "learning_outcomes": [
+        "L04",
+        "L11"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 6 To Week 12 (30 Mar - 24 May)",
+      "activity_type": "Lecture",
+      "topic": "Weeks 6-12: Code generation Code generation for a stack machine. Code generation for expressions, control structures, and procedure calls. The material on code generation is treated incrementally throughout the course as necessary."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 10 To Week 12 (04 May - 24 May)",
+      "activity_type": "Lecture",
+      "topic": "Week 10-12: Runtime organisation Stack-based runtime organisation for handling procedure calls and local variable allocation. Parameter passing mechanisms. Heap organisation for dynamically allocated variables; garbage collection. Representing objects and classes."
+    },
+    {
+      "learning_period": "Week 11 (11 May - 17 May)",
+      "activity_type": "Lecture",
+      "topic": "Week 11: Scanning Regular expressions. Deterministic finite automata (DFA). Nondeterministic finite automata (NFA). Converting regular expressions into NFAs and NFAs into DFAs. Scanner for PL0. Learning outcomes: L03, L11",
+      "learning_outcomes": [
+        "L0",
+        "L03",
+        "L11"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (25 May - 31 May)",
+      "activity_type": "Lecture",
+      "topic": "Week 13: Course Summary An overview of what has been covered in the course, and how it relates to the final examination."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

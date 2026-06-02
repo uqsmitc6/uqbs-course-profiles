@@ -1,0 +1,145 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH7234-22462-7620",
+  "scraped_at": "2026-06-02T04:33:03.469310+00:00",
+  "course_code": "MATH7234",
+  "class_code": "22462",
+  "semester_code": "7620",
+  "full_course_code": "MATH7234-22462-7620",
+  "course_title": "Numerical Linear Algebra and Optimisation",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "At the heart of most modern data scientific methods in general, and machine learning in particular, lie computational techniques involving matrices as well as numerical linear algebra and optimisation algorithms. In this course, students will learn about the theory and practical aspects of many fundamental tools from matrix computations, numerical linear algebra and optimisation. In addition to classical applications, most examples will particularly focus on modern large-scale machine learning problems. Implementations will be done using MATLAB/Python. The students will also be exposed to cutting-edge developments including randomised variants of many classical deterministic methods. Students will be taught a range of analytical and algorithmic tools that are employed in research and industry, such as various matrix types, their properties and factorisations, iterative algorithms for matrix computations such as Krylov subspace methods, various eigen-solvers, elements of convex and non-convex analysis, derivative free as well as first and second-order optimisation methods, constrained and unconstrained optimisation algorithms, and introduction to non-smooth and stochastic optimisation.\n\nNumerical Linear Algebra and Optimisation are fundamentalﾠto all areas of science, engineering and data analysis that involve computational techniques. In this light, MATH7234 will provide an opportunity to develop the basic and fundamental skills needed to tackle modern computational and data analysis problems.\n\nMATH7234 will cover the following fundamental concepts and techniques:\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against UQ Policy, and will not be tolerated. We have developed a suite of resources to assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH7000",
+      "MATH7502",
+      "We recommend completing the following courses before enrolling in this one:",
+      "COSC7500"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH3204"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Fred Roosta",
+      "email": "fred.roosta@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Fred Roosta",
+      "email": "fred.roosta@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus. Consult your personal timetable for times and locations. Students are expected to attend these sessions inﾠperson unless they have a valid reason for being unable to attend (such as illness).ﾠ\nApplied classes start in week 2. If an applied classes falls on a public holiday, there will be no make-up session. Instead, students are welcome to attend any other session that fits their schedule.",
+  "course_aims": "MATH7234 will introduce students to fundamental concepts, tools and techniques from matrix computations and numerical optimization. The course will mainly focus on theoretical developments but it also contains a practical component to provide hands-on learning experience. The programming exercises will be done primarily in MATLAB or Python, but any programming language of your choice may also be used.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Frame an appropriate optimisation formulation for a scientific, engineering, machine learning and data analysis problem."
+    },
+    {
+      "number": "LO2.",
+      "description": "Select an appropriate algorithm, or modify an exiting method to obtain a variant, that is effective and efficient for a given optimisation problem."
+    },
+    {
+      "number": "LO3.",
+      "description": "Given a matrix computation problem, select and appropriately modify an effective numerical linear algebra routine"
+    },
+    {
+      "number": "LO4.",
+      "description": "Understand the derivation, convergence analysis, and expected performance of various methods in numerical linear algebra and optimisation."
+    },
+    {
+      "number": "LO5.",
+      "description": "Translate numerical methods into computer algorithms and code"
+    },
+    {
+      "number": "LO6.",
+      "description": "Choose, analyse, and apply suitable algorithms to modern machine learning, data analysis, and engineering problems with sufficient adequacy to design new variants suitable for specific applied problems."
+    },
+    {
+      "number": "LO7.",
+      "description": "Develop an appreciation of the link between theory and practice of various numerical linear algebra and optimisation algorithms."
+    },
+    {
+      "number": "LO8.",
+      "description": "Demonstrate written communication skills appropriate for scientific reports."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignments",
+      "weight": "45% 15% each",
+      "due_date": "Assignment 01 20/03/2026 5:00 pm; Assignment 02 1/05/2026 5:00 pm; Assignment 03 29/05/2026 5:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester Exam",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignments",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "45% 15% each",
+      "due_date": "Assignment 01 20/03/2026 5:00 pm Assignment 02 1/05/2026 5:00 pm Assignment 03 29/05/2026 5:00 pm",
+      "task_description": "Three assignments involve both theoretical and programming questions. Each assignment is equally weighted, contributing 15% towards your total mark. Read full task description Hide full task description",
+      "submission_guidelines": "Each assignment is to be submitted via Blackboard as a single pdf document.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for assessment item/s will be released 7 calendar days after the assessment is due and as such, an extension after 7 calendar days will not be possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nSolutions for assignments will be released 7 days after the assessment is due and as such, late submission after 7 days from the original time submission is due will not be possible, regardless of approved extensions.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "End of Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "task_description": "The end-of-semester exam will be an in-person, paper-based exam. Students will sit the exam at the St Lucia Campus. Problems will be drawn from ideas and concepts covered during the lectures and applied classes. Students will be expected to apply the ideas discussed in the course. The questions will be mainly about theoretical aspects, but understanding of the numerical and empirical properties of the methods could also be tested. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (23 Feb - 31 May)",
+      "activity_type": "Lecture",
+      "topic": "Understanding Fundamental Concepts"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (02 Mar - 31 May)",
+      "activity_type": "Applied Class",
+      "topic": "Further Discussions, Problem Solving, Programming MATH3204 contains scheduled applied class sessions. During these sessions, students will get a chance to work on their assignments and get direct help from the casual academics on both the theoretical and programming components."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

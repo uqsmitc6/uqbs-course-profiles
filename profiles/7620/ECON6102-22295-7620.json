@@ -1,0 +1,248 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ECON6102-22295-7620",
+  "scraped_at": "2026-06-02T04:25:34.076719+00:00",
+  "course_code": "ECON6102",
+  "class_code": "22295",
+  "semester_code": "7620",
+  "full_course_code": "ECON6102-22295-7620",
+  "course_title": "Macroeconomics for Honours",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Economics School",
+  "course_description": "This is an advanced course in macroeconomics intended for Honours students. The course covers core analytical and quantitative tools which are at the backbone of a wide range of applications in macroeconomics. Topics include: dynamic optimisation, dynamic general equilibrium modelling, growth/business cycles, heterogeneous agents, and foundations of computational methods to solve macroeconomic models.\n\nThis is an advanced course in macroeconomics intended for Honours students. The course aims at building a deep understanding of modern macroeconomics and its applications.\n\nThis course is divided into two parts. The first part covers fundamental features of dynamic general equilibrium models, which are at the backbone of many areas in macroeconomics and beyond. We develop analytical and numerical tools for solving such models within deterministic frameworks, and concentrate on applications to economic growth.\n\nThe second part focuses on extensions that incorporate uncertainty, which comprise applications ranging from business cycle fluctuations to heterogeneous agents models.",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ECON6020"
+    ],
+    "restrictions": [
+      "Enrolment restricted to students in the BEcon(Hons), BAdvFinEcon(Hons), BA(Hons - Economics)"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Antonio Andres Bellofatto"
+    },
+    {
+      "role": "School enquiries",
+      "name": "Student Enquiries, School of Economics",
+      "email": "enquiries@economics.uq.edu.au",
+      "notes": "All enquiries regarding student and academic administration (i.e. non-course content information, e.g., class allocation, timetables, extension to assessment due date, etc.) should be directed to enquiries@economics.uq.edu.au . Enquiries relating specifically to course content should be directed to the Course Coordinator/Lecturer."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Antonio Andres Bellofatto"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLectures commence in Teaching Week 1.\nPlease see the Learning Activities section of this Course Profile for the timetabling implications of public holidays.\nImportant Dates:\nPublic Holidays\n: Fri 3 April (Good Friday), Mon 4 May (Labour Day).\nMid-Semester Break\n: 6 April - 10 April. Semester 1 classes recommence on Mon 13 April.\nStudents should refer to the timetable prior to the commencement of classes to ensure that they have the most up to date information, as from time to time late room changes may occur.",
+  "course_aims": "The aim of the course is to equip students with graduate-level techniques to interpret, build, and estimate macroeconomic models. Such frameworks provide key foundations to do research in macroeconomics, and to inform and critically evaluate macroeconomic policymaking.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Interpret theoretical building blocks of modern macroeconomic models."
+    },
+    {
+      "number": "LO2.",
+      "description": "Apply macroeconomic frameworks to analyse real world problems."
+    },
+    {
+      "number": "LO3.",
+      "description": "Evaluate the effects and desirability of macroeconomic policies."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply computational methods to solve dynamic optimisation problems in macroeconomics."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Essay/ Critique, Tutorial/ Problem Set",
+      "title": "Problem Set 1",
+      "weight": "15%",
+      "due_date": "Week 7, 5:00 pm",
+      "conditions": [
+        "Identity Verified",
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Computer Code, Essay/ Critique, Project, Tutorial/ Problem Set",
+      "title": "Problem Set 2",
+      "weight": "15%",
+      "due_date": "Week 13, 5:00 pm",
+      "conditions": [
+        "Identity Verified",
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "In-Semester Exam",
+      "weight": "30%",
+      "due_date": "Week 7; Exam will take place during lecture on Friday 17 April.",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester Exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Problem Set 1",
+      "mode": "Oral, Written",
+      "category": "Computer Code, Essay/ Critique, Tutorial/ Problem Set",
+      "weight": "15%",
+      "due_date": "Week 7, 5:00 pm",
+      "other_conditions": "Longitudinal, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "This task has been designed to be challenging, authentic and complex. The assignment consists of various methodological questions that assess the understanding and the ability of the student to apply the concepts and models studied in class. The assignment may also include questions which require applying numerical solution methods using a programming language. The assignment has two components : (1) Written submission (worth 75% of the total assignment weight), and (2) Oral follow-up (worth 25% of the total assignment weight). (1) Written submission : Students should should prepare a pdf document including typed solutions, derivations, plots, and interpretations. Students should also include an appendix including computer codes (if applicable). Students may use Artificial Intelligence (AI) technologies for this component of the assessment. However, the use of AI tools should be disclosed---a failure to reference generative AI may constitute student misconduct under the Student Code of Conduct. (2) Oral follow-up : To pass this assessment, students should also demonstrate detailed comprehension of their written submission in a short oral examination. The use Artificial Intelligence (AI) technologies is not permitted during the oral component. Read full task description Hide full task description",
+      "submission_guidelines": "Submission via Blackboard by the specified due date and time. In addition, students should email their codes for the computational part (if applicable) to the lecturer. Details on scheduling the oral follow-up will be provided on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nRequests for the granting of extensions must be submitted through my.UQ: Applying for an extension - my.UQ - University of Queensland with supporting documentation before the submission due date/time. If an extension is approved, the new agreed date for submission will be noted on the application and the student notified through their student email. Extensions cannot exceed the number of days you suffered from a medical condition, as stated on the medical certificate.\nFor full details, students should refer to the Guidelines for Applying for an Extension .\nLate submission\nA penalty of 10% of the maximum possible mark allocated for the assessment item will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24 hour block is recorded from the time the submission is due.\nStudents who fail to attend their scheduled oral follow-up without prior approval will receive a score of 0 (zero) for the entire assessment (i.e., written submission and oral presentation).\nPenalties will be applied unless there is sufficient evidence that the late submission is beyond the control of the student. Course coordinators decide on the evidence presented whether they will accept a late submission.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark allocated for the assessment item will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24 hour block is recorded from the time the submission is due.",
+      "ai_statement": "This task has been designed to be challenging, authentic and complex. The assignment consists of various methodological questions that assess the understanding and the ability of the student to apply the concepts and models studied in class. The assignment may also include questions which require applying numerical solution methods using a programming language. The assignment has two components : (1) Written submission (worth 75% of the total assignment weight), and (2) Oral follow-up (worth 25% of the total assignment weight). (1) Written submission : Students should should prepare a pdf document including typed solutions, derivations, plots, and interpretations. Students should also include an appendix including computer codes (if applicable). Students may use Artificial Intelligence (AI) technologies for this component of the assessment. However, the use of AI tools should be disclosed---a failure to reference generative AI may constitute student misconduct under the Student Code of Conduct. (2) Oral follow-up : To pass this assessment, students should also demonstrate detailed comprehension of their written submission in a short oral examination. The use Artificial Intelligence (AI) technologies is not permitted during the oral component. Read full task description Hide full task description\n(1) Written submission : Students should should prepare a pdf document including typed solutions, derivations, plots, and interpretations. Students should also include an appendix including computer codes (if applicable). Students may use Artificial Intelligence (AI) technologies for this component of the assessment. However, the use of AI tools should be disclosed---a failure to reference generative AI may constitute student misconduct under the Student Code of Conduct.\n(2) Oral follow-up : To pass this assessment, students should also demonstrate detailed comprehension of their written submission in a short oral examination. The use Artificial Intelligence (AI) technologies is not permitted during the oral component.",
+      "special_indicators": [
+        "Identity Verified",
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Problem Set 2",
+      "mode": "Oral, Written",
+      "category": "Computer Code, Essay/ Critique, Project, Tutorial/ Problem Set",
+      "weight": "15%",
+      "due_date": "Week 13, 5:00 pm",
+      "other_conditions": "Longitudinal, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "This task has been designed to be challenging, authentic and complex. The assignment consists of various methodological questions that assess the understanding and the ability of the student to apply the concepts and models studied in class. The assignment may also include questions which require applying numerical solution methods using a programming language. The assignment has two components : (1) Written submission (worth 75% of the total assignment weight), and (2) Oral follow-up (worth 25% of the total assignment weight). (1) Written submission : Students should should prepare a pdf document including typed solutions, derivations, plots, and interpretations. Students should also include an appendix including computer codes (if applicable). Students may use Artificial Intelligence (AI) technologies for this component of the assessment. However, the use of AI tools should be disclosed---a failure to reference generative AI may constitute student misconduct under the Student Code of Conduct. (2) Oral follow-up : To pass this assessment, students should also demonstrate detailed comprehension of their written submission in a short oral examination. The use Artificial Intelligence (AI) technologies is not permitted during the oral component. Read full task description Hide full task description",
+      "submission_guidelines": "Submission via Blackboard by the specified due date and time. In addition, students should email their codes for the computational part (if applicable) to the lecturer. Details on scheduling the oral follow-up will be provided on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nRequests for the granting of extensions must be submitted through my.UQ: Applying for an extension - my.UQ - University of Queensland with supporting documentation before the submission due date/time. If an extension is approved, the new agreed date for submission will be noted on the application and the student notified through their student email. Extensions cannot exceed the number of days you suffered from a medical condition, as stated on the medical certificate.\nFor full details, students should refer to the Guidelines for Applying for an Extension .\nLate submission\nA penalty of 10% of the maximum possible mark allocated for the assessment item will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24 hour block is recorded from the time the submission is due.\nStudents who fail to attend their scheduled oral follow-up without prior approval will receive a score of 0 (zero) for the entire assessment (i.e., written submission and oral presentation).\nPenalties will be applied unless there is sufficient evidence that the late submission is beyond the control of the student. Course coordinators decide on the evidence presented whether they will accept a late submission.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark allocated for the assessment item will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24 hour block is recorded from the time the submission is due.",
+      "ai_statement": "This task has been designed to be challenging, authentic and complex. The assignment consists of various methodological questions that assess the understanding and the ability of the student to apply the concepts and models studied in class. The assignment may also include questions which require applying numerical solution methods using a programming language. The assignment has two components : (1) Written submission (worth 75% of the total assignment weight), and (2) Oral follow-up (worth 25% of the total assignment weight). (1) Written submission : Students should should prepare a pdf document including typed solutions, derivations, plots, and interpretations. Students should also include an appendix including computer codes (if applicable). Students may use Artificial Intelligence (AI) technologies for this component of the assessment. However, the use of AI tools should be disclosed---a failure to reference generative AI may constitute student misconduct under the Student Code of Conduct. (2) Oral follow-up : To pass this assessment, students should also demonstrate detailed comprehension of their written submission in a short oral examination. The use Artificial Intelligence (AI) technologies is not permitted during the oral component. Read full task description Hide full task description\n(1) Written submission : Students should should prepare a pdf document including typed solutions, derivations, plots, and interpretations. Students should also include an appendix including computer codes (if applicable). Students may use Artificial Intelligence (AI) technologies for this component of the assessment. However, the use of AI tools should be disclosed---a failure to reference generative AI may constitute student misconduct under the Student Code of Conduct.\n(2) Oral follow-up : To pass this assessment, students should also demonstrate detailed comprehension of their written submission in a short oral examination. The use Artificial Intelligence (AI) technologies is not permitted during the oral component.",
+      "special_indicators": [
+        "Identity Verified",
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "In-Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "30%",
+      "due_date": "Week 7 Exam will take place during lecture on Friday 17 April.",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "This will be a closed-book, invigilated, paper based exam, to be held during class. The material covered for this exam will be announced in class and on Blackboard. The exam will consist of short answer and problem solving questions. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This will be a closed-book, invigilated, paper based exam, to be held during class. The material covered for this exam will be announced in class and on Blackboard. The exam will consist of short answer and problem solving questions. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End of Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "This will be a closed-book invigilated, paper-based on campus exam, to be held during the examination period. It will cover material from all lectures, and will consist of short answer and problem solving questions. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This will be a closed-book invigilated, paper-based on campus exam, to be held during the examination period. It will cover material from all lectures, and will consist of short answer and problem solving questions. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website .",
+    "other_course_materials": "If we've listed something under further requirement, you'll need to provide your own. Required Item Description Further Requirement Lecture notes/ Slides Articles provided by the lecturer",
+    "required": "Item Description Further Requirement Lecture notes/ Slides Articles provided by the lecturer"
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 3",
+      "activity_type": "Lecture",
+      "topic": "Tools I Dynamic optimisation in continuous time, numerical methods, Matlab introduction Learning outcomes: L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 4 To Week 6",
+      "activity_type": "Lecture",
+      "topic": "Dynamic General Equilibrium Ramsey-Cass-Koopmans model and applications Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break (06 Apr - 12 Apr)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Mid-semester Break"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 7 To Week 9",
+      "activity_type": "Lecture",
+      "topic": "Tools II Dynamic optimmisation in discrete time, numerical methods Note: In-semester exam is held during lecture in teaching week 7 Learning outcomes: L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 10 To Week 12",
+      "activity_type": "Lecture",
+      "topic": "Heterogeneous agents Models of heterogeneous households and heterogeneous firms, and applications. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (25 May - 31 May)",
+      "activity_type": "Lecture",
+      "topic": "Spinoffs Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

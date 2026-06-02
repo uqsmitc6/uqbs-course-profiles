@@ -1,0 +1,237 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMP4702-21208-7620",
+  "scraped_at": "2026-06-02T04:23:18.177644+00:00",
+  "course_code": "COMP4702",
+  "class_code": "21208",
+  "semester_code": "7620",
+  "full_course_code": "COMP4702-21208-7620",
+  "course_title": "Machine Learning",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Machine learning is a branch of artificial intelligence concerned with the development and application of adaptive algorithms that use example data or previous experience to solve a given problem. This course covers the theory and practice of machine learning, including conceptual, computational, mathematical and statistical frameworks. Topics include: classification, regression, optimisation, neural networks, deep learning, unsupervised learning, semi-supervised learning, clustering, dimensionality reduction and generative models. The implementation of machine learning techniques, experimentation and practical application are a central theme of the course.\n\nStudent feedback has been used continuously to refine, update and improve the course. This includes updating course material to cover developing topics such as deep learning and generative models. Course assessment items have also been developed and refined based on student feedback.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE1001",
+      "ENGG1001",
+      "MATH1051",
+      "MATH1071",
+      "STAT1201",
+      "STAT1301",
+      "STAT2003",
+      "STAT2201",
+      "STAT2202",
+      "STAT2203"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP7703",
+      "This course is jointly-taught with:",
+      "COMP4702"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Marcus Gallagher",
+      "email": "COMP4702@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Marcus Gallagher",
+      "email": "COMP4702@eecs.uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "Students will gain a fundamental understanding of a wide range of Machine Learning techniques and algorithms, including supervised and unsupervised learning. Students will also gain an appreciation for the practical applications of machine learning techniques, and will gain experience in implementation and using machine learning methods.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Describe the core theoretical and conceptual frameworks that are used in Machine Learning."
+    },
+    {
+      "number": "LO2.",
+      "description": "Explain the properties and functions of a range of different Machine Learning models and to be able to connect a model to appropriate theoretical foundations."
+    },
+    {
+      "number": "LO3.",
+      "description": "Formulate an algorithm that instantiates a given Machine Learning model using appropriate data."
+    },
+    {
+      "number": "LO4.",
+      "description": "Implement Machine Learning algorithms in a high-level programming language."
+    },
+    {
+      "number": "LO5.",
+      "description": "Formulate and execute experiments with implemented Machine Learning techniques on data sets, and to evaluate and reflect on the results."
+    },
+    {
+      "number": "LO6.",
+      "description": "Explain the relationships between the different types of techniques used in Machine Learning and the relationships between Machine Learning and other disciplines."
+    },
+    {
+      "number": "LO7.",
+      "description": "Recognize potential real-world applications of Machine Learning and evaluate the suitability of different Machine Learning technique implementations, algorithms, models and theory for a given application."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Participation/ Student contribution",
+      "title": "Lecture Participation",
+      "weight": "0 or 18%",
+      "due_date": "2/03/2026 - 25/05/2026",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Presentation",
+      "title": "In-class Practical Demonstration",
+      "weight": "0 or 18%",
+      "due_date": "16/03/2026 - 25/05/2026",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Assignment",
+      "weight": "22%",
+      "due_date": "29/05/2026 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Lecture Participation",
+      "mode": "Activity/ Performance",
+      "category": "Participation/ Student contribution",
+      "weight": "0 or 18%",
+      "due_date": "2/03/2026 - 25/05/2026",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "Student's learning will be assessed via their participation in the lecture (Weeks 2 - 13). Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nBecause only the best 9 of 11 will contribute to the mark for this assessment item and results/answers are released soon after the due date, no extensions are permitted.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nBecause the answers are released soon after the due date, and only the best 9 of 11 will contribute to the mark for this assessment item.\nA 100% penalty will be applied to late submission.\nThis has been approved by the Associate Dean (Academic)",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Student's learning will be assessed via their participation in the lecture (Weeks 2 - 13). Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In-class Practical Demonstration",
+      "mode": "Oral",
+      "category": "Presentation",
+      "weight": "0 or 18%",
+      "due_date": "16/03/2026 - 25/05/2026",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "Students will present their practical work to a teaching staff member during a prac class. This gives students the opportunity to demonstrate their learning by explaining their work. Students will be asked questions about their work and may be asked to demonstrate programs they have written. This assessment task is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Students will do 2 demos for teaching staff over the semester, with different students scheduled across different weeks.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nAs time is provided within the practical class to complete all work, no extensions are permitted.\nThere will be an opportunity for catch-up demos for students who miss their scheduled demo due to illness, etc.\nIf you fail a demo, you will be offered the opportunity to repeat the assessment task. If you fail both of your demos, you will only be able to repeat one of them.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nAs time is provided within the practical class to complete all work, no late submissions will be accepted and a 100% late penalty applies.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Students will present their practical work to a teaching staff member during a prac class. This gives students the opportunity to demonstrate their learning by explaining their work. Students will be asked questions about their work and may be asked to demonstrate programs they have written. This assessment task is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "22%",
+      "due_date": "29/05/2026 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "In the Practical classes for this course, you will implement and/or apply a range of different machine learning techniques/models/algorithms. In this assignment, you are required to demonstrate your understanding of and your ability to apply one or more of these machine learning techniques to a dataset provided for use in this assignment. Your task is to create a report that describes your method, results and analysis, including graphs and plots, code and output. Screenshots are also fine. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submit your assignment as a single pdf file via the link provided on the course blackboard site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "In the Practical classes for this course, you will implement and/or apply a range of different machine learning techniques/models/algorithms. In this assignment, you are required to demonstrate your understanding of and your ability to apply one or more of these machine learning techniques to a dataset provided for use in this assignment. Your task is to create a report that describes your method, results and analysis, including graphs and plots, code and output. Screenshots are also fine. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L05, L06, L07",
+      "task_description": "The final exam will be a closed-book, invigilated exam. This assessment task is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 180 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The final exam will be a closed-book, invigilated exam. This assessment task is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Not Timetabled",
+      "topic": "Self-study Pre/post reading of recommended texts will be required. Additional required reading (e.g. journal and conference papers) will also be specified during the course. Learning outcomes: L01, L02, L03, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Lecture Contact classes will be a discussion of the core material (e.g. concepts, models, algorithms) covered in the course with Q&A, examples and demos. Learning outcomes: L01, L02, L03, L04, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Practical",
+      "topic": "Computer Labs Completing problem sets predominately via implementing and applying the concepts and techniques covered. Learning outcomes: L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

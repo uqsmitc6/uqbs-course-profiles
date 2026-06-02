@@ -1,0 +1,188 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMP7710-21171-7620",
+  "scraped_at": "2026-06-02T04:23:19.577479+00:00",
+  "course_code": "COMP7710",
+  "class_code": "21171",
+  "semester_code": "7620",
+  "full_course_code": "COMP7710-21171-7620",
+  "course_title": "Artificial Intelligence for Cyber Security",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Students will learn about preparing the data for machine learning, common machine learning techniques and tools (supervised learning, unsupervised learning, deep learning, and large-scale data analysis), and their applications to cybersecurity such as detecting anomalies, detecting known types of attacks like injections, clustering user activities, adversarial learning, etc.\n\nThe field of cyber security has grown rapidly in the last few decades, assisted by increases in computational power, and it continues to grow in importance as technologies such as machine learning and high-performance computing make it possible to implement efficient algorithms for cyber security. Artificial Intelligence for Cyber Security is a multidisciplinary course drawing from cyber security, statistics, information theory, and optimization, and it requires basic knowledge of linear algebra, statistics, software development, and cyber security.\n\nPrevious cohort preferred adding self-assessment slides in the lectures, which was incorporated in the course.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE1001",
+      "CSSE7030",
+      "ENGG1001",
+      "MATH1061",
+      "MATH1081",
+      "MATH7861",
+      "We recommend completing the following courses before enrolling in this one:",
+      "CYBR7001",
+      "CYBR7002",
+      "CYBR7003",
+      "CRIM7080"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Mahsa Baktashmotlagh",
+      "email": "COMP7710@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Mahsa Baktashmotlagh"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLectures on Mondays from 9am-11am (Weeks 1-13)\nApplied Classes on Wednesdays (Weeks 2-13)",
+  "course_aims": "Artificial Intelligenceﾠfor Cyber Security is a multidisciplinary course drawing from cyber security, statistics, information theory, and optimization. Big hi-tech companies such as Microsoft, Google, Yahoo!, Facebook, IBM, and Amazon are extensively using machine learning in their product development projects to gain a competitive advantage in their services. These companies are increasingly looking for engineers with the knowledge and skills in AI to boost their leading-edge projects. COMP7710 is an integral component of the Master of Cyber Security, and its goal is to build enough understanding of AI algorithms and their practical aspects in the area of cyber security so that an appropriate algorithm can be selected for a given cyber security problem. The students should develop an understanding of:\n\n1. Basic machine learning techniques, e.g. regression, classification, clustering, dimensionality reduction, deep learning;\n\n2. How to apply machine learning models to a given problem;\n\n3.ﾠHow toﾠassess the quality of the machine learningﾠmodel, and select aﾠproper model through cross-validation;\n\n4. Broad understanding of different cyber security tasks/problems, for which, a machine learning technique can be applied;\n\n5. How to select an appropriate machine learning algorithm for a given cyber security problem;\n\n6. Understand, identify, and evaluate the limitations and risks associated with applying machine learning algorithms to cyber security;\n\n7. Effective way of communicating, presenting, and demonstrating a project to an audience.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Demonstrate technical knowledge of the underlying principles and concepts of machine learning algorithms, such as linear/non-linear models for classification and regression, dimensionality reduction, clustering, anomaly detection, and deep learning."
+    },
+    {
+      "number": "LO2.",
+      "description": "Analyze and assess the quality, effectiveness, and robustness of a machine learning model."
+    },
+    {
+      "number": "LO3.",
+      "description": "Demonstrate a broad understanding of common cyber security tasks (e.g., detecting threats, predicting attacks)."
+    },
+    {
+      "number": "LO4.",
+      "description": "Understand the practical aspects of machine learning techniques in the area of cyber security."
+    },
+    {
+      "number": "LO5.",
+      "description": "Design, analyze, and evaluate an appropriate machine learning method for a given cyber security problem."
+    },
+    {
+      "number": "LO6.",
+      "description": "Analyze adversarial capabilities and goals, and develop machine learning algorithms to counteract the attacks."
+    },
+    {
+      "number": "LO7.",
+      "description": "Understand the limitations and risks of applying machine learning algorithms to cyber security problems."
+    },
+    {
+      "number": "LO8.",
+      "description": "Organizing and conveying acquired knowledge clearly in both written and spoken forms."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Notebook/ Logbook",
+      "title": "Homeworks",
+      "weight": "50% (10% each)",
+      "due_date": "26/03/2026 3:00 pm; 13/04/2026 3:00 pm; 20/04/2026 3:00 pm; 27/04/2026 3:00 pm; 5/05/2026 3:00 pm; Please note: Homework 1 is due on Thursday of Week 5, and marks/written feedback will be released by; Monday 30 March; (prior to Census)."
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Notebook/ Logbook, Project",
+      "title": "Final Project - Report",
+      "weight": "20%",
+      "due_date": "8/06/2026 3:00 pm"
+    },
+    {
+      "category": "Project, Reflection",
+      "title": "Final Project - Q&A",
+      "weight": "30%",
+      "due_date": "Exam week 2 Mon - Exam week 2 Thu",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Homeworks",
+      "mode": "Written",
+      "category": "Computer Code, Notebook/ Logbook",
+      "weight": "50% (10% each)",
+      "due_date": "26/03/2026 3:00 pm 13/04/2026 3:00 pm 20/04/2026 3:00 pm 27/04/2026 3:00 pm 5/05/2026 3:00 pm Please note: Homework 1 is due on Thursday of Week 5, and marks/written feedback will be released by Monday 30 March (prior to Census).",
+      "learning_outcomes_assessed": "L01, L02, L04, L05, L07",
+      "task_description": "The homework is a short collection of problem-solving exercises where you will demonstrate your ability to understand machine learning algorithms and implement them, broadly understand cyber security problems, and use the appropriate machine learning algorithm to solve cyber security problems. This is an individually assessed assessment. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "A solution python notebook should be uploaded on the uqlearn at the specified date (UQ Blackboard Online Submission).\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The homework is a short collection of problem-solving exercises where you will demonstrate your ability to understand machine learning algorithms and implement them, broadly understand cyber security problems, and use the appropriate machine learning algorithm to solve cyber security problems. This is an individually assessed assessment. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Final Project - Report",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Notebook/ Logbook, Project",
+      "weight": "20%",
+      "due_date": "8/06/2026 3:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "The students work on a cyber security problem, and propose appropriate machine learning algorithms that can be applied to the problem. Students must demonstrate their working project (in Python). Powerpoint slides and the solution python notebook, including the results and explanations, should be uploaded on the blackboard at the specified date. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Students must upload their powerpoint slides and python notebook (with notes and explanations) to the blackboard on or before 3pm, 8th of June. The slides should have the following information: 1-slide for Introduction (description of the cyber security problem, and the relevant datasets); 1-slide for Background & Related works; 1-slide for Proposed machine learning methods to solve the problem; 1-slide for Analysis and justification behind the proposed approaches; 1-slide for Evaluation, 1-slide for comparison of the proposed approaches, and 1-slide for Conclusions/Reflection.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nIf you are approved an extension for 7 days or more for the 'Final Project - Report', you will automatically receive an extension on the Q&A. Please contact the Course Teaching Team to reschedule your Q&A.\nIf you are approved an extension for less than 7 days for the 'Final Project - Report', you will need to attend your originally scheduled Q&A.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The students work on a cyber security problem, and propose appropriate machine learning algorithms that can be applied to the problem. Students must demonstrate their working project (in Python). Powerpoint slides and the solution python notebook, including the results and explanations, should be uploaded on the blackboard at the specified date. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Project - Q&A",
+      "mode": "Oral",
+      "category": "Project, Reflection",
+      "weight": "30%",
+      "due_date": "Exam week 2 Mon - Exam week 2 Thu",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L03, L04, L06, L07, L08",
+      "task_description": "This is a project Q&A session with the purpose of further verifying the student's mastery and understanding of the delivered project and the course content. Please note: In accordance with UQ assessment policy, the session will be recorded. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nIf you are unable to attend your allocated slot, one reschedule is permitted. If you do not attend the rescheduled session, the mark for this assessment item will be 0.\nTo apply for a reschedule, you need to apply for an extension via my.UQ.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nConsistent with industry practice around presentations to clients/industry partners, no late submissions will be accepted and a 100% late penalty applies. This has been approved by the Associate Dean (Academic)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "This is a project Q&A session with the purpose of further verifying the student's mastery and understanding of the delivered project and the course content. Please note: In accordance with UQ assessment policy, the session will be recorded. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Lecture Series Lectures will be on-campus, and also published on the blackboard. Learning outcomes: L02, L04, L06, L07",
+      "learning_outcomes": [
+        "L02",
+        "L04",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13",
+      "activity_type": "Applied Class",
+      "topic": "Applied Class Series Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

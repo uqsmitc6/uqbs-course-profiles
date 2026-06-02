@@ -1,0 +1,316 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/SCIE2100-20643-7620",
+  "scraped_at": "2026-06-02T04:41:03.496774+00:00",
+  "course_code": "SCIE2100",
+  "class_code": "20643",
+  "semester_code": "7620",
+  "full_course_code": "SCIE2100-20643-7620",
+  "course_title": "Bioinformatics 1: Introduction",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Chemistry & Molec Biosciences",
+  "course_description": "If you are interested in biology, computing and/or mathematics, then this could be an ideal course for you to take. You will be introduced to bioinformatics, an emerging discipline that is transforming how we make discoveries in molecular bioscience. You will learn about technologies and methods for analysing the expression, structure and function of DNA, RNA and proteins, and for understanding the evolutionary relationships among different species. You will develop practical skills that will help you develop bioinformatics expertise to solve real-world problems at the forefront of life sciences.\n\nBioinformatics is the field that uses computational and mathematical approaches to solve biological problems. It is transforming how we approach scientific problems, and enabling us to tackle larger and more complex challenges in life sciences. This course is your gateway to the exciting world of bioinformatics and computational biology.\n\nWith advances in genome sequencing and high-throughput biotechnologies, vast amounts of biological data are generated every day, far exceeding our capacity to analyse or synthesise knowledge from them. In addition, existing tools quickly become outdated, creating a demand for new bioinformatics methods.\n\nThis course will teach you how to leverage computational tools to uncover patterns in these data and transform them into meaningful biological insights, and address emerging challenges in this rapidly evolving field. The curriculum begins with a brief foundational introduction to molecular biology and dives into key topics, including:\n\n(a) comparing molecular sequences to uncover their biological importance;\n\n(b) analysing high-throughput data to study gene expression and genome sequences;\n\n(c) understanding evolutionary relationships using phylogenetics;\n\n(d) understanding biological datatypes, databases, and their applications; and\n\n(e) predicting protein structures and their functions.\n\nBy the end of this course, you will have a strong understanding of how bioinformatics is used to answer fundamental biological questions in fields such as medicine, biotechnology, and environmental science.\n\nThe demand for bioinformatics professionals is strong and growing across diverse industries, including healthcare, agriculture, biotechnology, pharmaceuticals, and environmental management. Graduates equipped with bioinformatic skills are particularly sought after in the areas of drug design and patent management, gene therapy, crops and livestock breeding (and farming), aquaculture, and environmental management, for their ability to translate biological data into practical optimised solutions.\n\nIf you are passionate about using data to drive breakthroughs in biology, this course is the perfect starting point for your journey.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "SCIE1000",
+      "STAT1201",
+      "MATH1051",
+      "MATH1071",
+      "CSSE1001"
+    ],
+    "companions": [
+      "We recommend completing the following courses at the same time:",
+      "BIOC2000"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COSC2000",
+      "BINF6000"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Cheong Xin Chan",
+      "email": "c.chan1@uq.edu.au",
+      "phone": "+61 7 3365 3829"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Cheong Xin Chan",
+      "email": "c.chan1@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Marina Naval Sanchez",
+      "email": "m.navalsanchez@imb.uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Mikael Boden",
+      "email": "m.boden@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Jessica Mar",
+      "email": "jessica.mar@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Stephanie Portelli",
+      "email": "s.portelli@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nTimetable with lecture topics is available on the course's Blackboard site.",
+  "course_aims": "This course offers both theoretical knowledge and practical experience, preparing you to understand, analyse, and solve real-world bioinformatic problems effectively.\n\nIt is designed to enable you to:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand key concepts of molecular biology and sequences, and how bioinformatics and publicly available data contribute to biological discovery."
+    },
+    {
+      "number": "LO2.",
+      "description": "Analyse DNA, RNA, and protein sequences, identify patterns, and compare them to generate biological insights."
+    },
+    {
+      "number": "LO3.",
+      "description": "Understand the principles of phylogenetics and its application to study evolutionary changes in sequences."
+    },
+    {
+      "number": "LO4.",
+      "description": "Explain key technologies for generating biological data and understand the different types and formats of these data."
+    },
+    {
+      "number": "LO5.",
+      "description": "Use bioinformatic tools including Python programming to solve biological problems, including working with biological databases and/or developing/refining methods."
+    },
+    {
+      "number": "LO6.",
+      "description": "Understand key computing concepts in bioinformatics and the challenges involved in analysing complex biological data."
+    },
+    {
+      "number": "LO7.",
+      "description": "Identify research areas and career opportunities in bioinformatics across academia and industry."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Computer Practicals",
+      "weight": "15% Best 5 of 6 submissions (3% each)",
+      "due_date": "Practical 1 9/03/2026 - 16/03/2026; Practical 2 16/03/2026 - 23/03/2026; Practical 3 30/03/2026 - 13/04/2026; Practical 4 13/04/2026 - 20/04/2026; Practical 5 27/04/2026 - 11/05/2026; Practical 6 11/05/2026 - 18/05/2026; Each prac submission is due 10am on the day prior to the following prac unless advised otherwise.",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "In-Class Practical Assessment 1",
+      "weight": "17.5%",
+      "due_date": "20/04/2026 1:00 pm; ICPA0 (practice exercise) is due 23/03/2026 1:00pm.",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "In-Class Practical Assessment 2",
+      "weight": "17.5%",
+      "due_date": "18/05/2026 1:00 pm",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "End-of-Semester Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Computer Practicals",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "15% Best 5 of 6 submissions (3% each)",
+      "due_date": "Practical 1 9/03/2026 - 16/03/2026 Practical 2 16/03/2026 - 23/03/2026 Practical 3 30/03/2026 - 13/04/2026 Practical 4 13/04/2026 - 20/04/2026 Practical 5 27/04/2026 - 11/05/2026 Practical 6 11/05/2026 - 18/05/2026 Each prac submission is due 10am on the day prior to the following prac unless advised otherwise.",
+      "learning_outcomes_assessed": "L02, L03, L05, L06",
+      "task_description": "Exercises and problems in the form of worksheets will be distributed for each of the six Computer Practicals (Prac 1 through Prac 6). Each submission is due within a week after the practical unless advised otherwise. The final marks will be based on the best five of six submissions. More details will be provided on Blackboard. The skills developed here will be assessed separately (see In-Class Practical Assessments). Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. Read full task description Hide full task description",
+      "submission_guidelines": "Attempt each practical via the designated submission portals on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtension applications must be received no later than 24 hours after the published assessment due date and time.\nRead the information contained in the following links carefully before submitting an application for extension to assessment due date.\nFor guidance on applying for an extension, information is available here .\nFor the policy relating to extensions, information is available here (Part D).\nInformation on medical certificates\nPlease note the University's requirements for medical certificates here .\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period). 10% will be deducted per day for up to 7 calendar days, at which point your submission will receive a mark of zero (0) unless an extension has been approved.\nIn most instances one or more hurdles will apply to your assessment item so you will need to submit it to fulfil the requirements of the course regardless of how late it is and the mark you are likely to be awarded.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Exercises and problems in the form of worksheets will be distributed for each of the six Computer Practicals (Prac 1 through Prac 6). Each submission is due within a week after the practical unless advised otherwise. The final marks will be based on the best five of six submissions. More details will be provided on Blackboard. The skills developed here will be assessed separately (see In-Class Practical Assessments). Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.\nTo pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In-Class Practical Assessment 1",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "17.5%",
+      "due_date": "20/04/2026 1:00 pm ICPA0 (practice exercise) is due 23/03/2026 1:00pm.",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L05, L06",
+      "task_description": "This Assessment consists of two components: (a) In-Class Practical Assessment 0 (ICPA0) that serves as a practice exercise, and (b) In-Class Practical Assessment 1 (ICPA1). For each assessment, students will be given a worksheet that contains a series of problems based on the material covered in practicals leading up to that assessment. Students are expected to complete each of these assessments in class during the designated practical session. The students are required to (a) complete and answer a series of open-book questions on Blackboard (90 minutes), and (b) do a brief 10-minute exit interview with a tutor, which assesses high-level understanding of the relevant practical content. Students MUST complete the assessment during the allotted time slot, under invigilated exam conditions. ICPA0 will be held during the scheduled practical session of Week 5 , focusing on content covered in Computer Practicals 1 and 2. It is designed as a practice opportunity to help prepare students for ICPA1. Participation is strongly recommended . ICPA1 will be held during the scheduled practical session of Week 8 , focusing on content covered in Computer Practicals 3 and 4. ICPA1 has a overall course mark weighting of 17.5%. More details will be provided on Blackboard. Use of Artificial Intelligence (AI) and Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submit all answers via the designated submission portal on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nPlease contact your Course Coordinator BEFORE the scheduled time of an ICPA session if you are unable attend to let them know you have applied for an extension. Do not apply for a deferred examination through the system.\nRead the information contained in the following links carefully before submitting an application for extension to assessment due date.\nFor guidance on applying for an extension, information is available here .\nFor the policy relating to extensions, information is available here (Part D).\nInformation on medical certificates\nPlease note the University's requirements for medical certificates here .\nLate submission\nYou are required to submit and complete assessable items in person within the allotted time during the scheduled assessment session. If you are unable to attend an ICPA session, you must apply for an extension no later than 24 hours before the scheduled assessment following standard procedures (see below). If an extension is approved, a special deferred ICPA session will be arranged, during which all assessable items must be completed.\nSubmission portals will only available during the designated time slots. Late submissions are not possible.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You are required to submit and complete assessable items in person within the allotted time during the scheduled assessment session. If you are unable to attend an ICPA session, you must apply for an extension no later than 24 hours before the scheduled assessment following standard procedures (see below). If an extension is approved, a special deferred ICPA session will be arranged, during which all assessable items must be completed.",
+      "ai_statement": "This Assessment consists of two components: (a) In-Class Practical Assessment 0 (ICPA0) that serves as a practice exercise, and (b) In-Class Practical Assessment 1 (ICPA1). For each assessment, students will be given a worksheet that contains a series of problems based on the material covered in practicals leading up to that assessment. Students are expected to complete each of these assessments in class during the designated practical session. The students are required to (a) complete and answer a series of open-book questions on Blackboard (90 minutes), and (b) do a brief 10-minute exit interview with a tutor, which assesses high-level understanding of the relevant practical content. Students MUST complete the assessment during the allotted time slot, under invigilated exam conditions. ICPA0 will be held during the scheduled practical session of Week 5 , focusing on content covered in Computer Practicals 1 and 2. It is designed as a practice opportunity to help prepare students for ICPA1. Participation is strongly recommended . ICPA1 will be held during the scheduled practical session of Week 8 , focusing on content covered in Computer Practicals 3 and 4. ICPA1 has a overall course mark weighting of 17.5%. More details will be provided on Blackboard. Use of Artificial Intelligence (AI) and Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "In-Class Practical Assessment 2",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "17.5%",
+      "due_date": "18/05/2026 1:00 pm",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L02, L03, L04, L05, L06",
+      "task_description": "In-Class Practical Assessment 2 ( ICPA2 ) focuses on the material covered in Computer Practicals 5 and 6. Given a worksheet that contains a number of problems, students are expected to complete this assessment in class during the scheduled practical session in Week 12 . The students are required to (a) complete and answer a series of open-book questions on Blackboard (90 minutes), and (b) do a brief 10-minute exit interview with a tutor, which assesses high-level understanding of the relevant practical content. Students MUST complete this assessment during the allotted time slot under invigilated exam conditions. More details will be provided on Blackboard. Use of Artificial Intelligence (AI) and Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submit all answers via the designated submission portal on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nPlease contact your Course Coordinator BEFORE the scheduled time of an ICPA session if you are unable attend to let them know you have applied for an extension. Do not apply for a deferred examination through the system.\nRead the information contained in the following links carefully before submitting an application for extension to assessment due date.\nFor guidance on applying for an extension, information is available here .\nFor the policy relating to extensions, information is available here (Part D).\nInformation on medical certificates\nPlease note the University's requirements for medical certificates here .\nLate submission\nYou are required to submit and complete assessable items in person within the allotted time during the scheduled assessment session. If you are unable to attend an ICPA session, you must apply for an extension no later than 24 hours before the scheduled assessment following standard procedures (see below). If an extension is approved, a special deferred ICPA session will be arranged, during which all assessable items must be completed.\nSubmission portals will only available during the designated time slots. Late submissions are not possible.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You are required to submit and complete assessable items in person within the allotted time during the scheduled assessment session. If you are unable to attend an ICPA session, you must apply for an extension no later than 24 hours before the scheduled assessment following standard procedures (see below). If an extension is approved, a special deferred ICPA session will be arranged, during which all assessable items must be completed.",
+      "ai_statement": "In-Class Practical Assessment 2 ( ICPA2 ) focuses on the material covered in Computer Practicals 5 and 6. Given a worksheet that contains a number of problems, students are expected to complete this assessment in class during the scheduled practical session in Week 12 . The students are required to (a) complete and answer a series of open-book questions on Blackboard (90 minutes), and (b) do a brief 10-minute exit interview with a tutor, which assesses high-level understanding of the relevant practical content. Students MUST complete this assessment during the allotted time slot under invigilated exam conditions. More details will be provided on Blackboard. Use of Artificial Intelligence (AI) and Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End-of-Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "This assessment aims to test the breadth of the student's knowledge in bioinformatics. Particular emphasis is put on knowledge that is not explicitly assessed by means of assignments and practicals. The student will be given a set of short-answer questions and problems, covering the major topics discussed in the lectorials. Further details will be provided on Blackboard. Use of Artificial Intelligence (AI) and Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Inspera Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This assessment aims to test the breadth of the student's knowledge in bioinformatics. Particular emphasis is put on knowledge that is not explicitly assessed by means of assignments and practicals. The student will be given a set of short-answer questions and problems, covering the major topics discussed in the lectorials. Further details will be provided on Blackboard. Use of Artificial Intelligence (AI) and Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 2 (23 Feb - 08 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Introduction to molecular biology Introduction to the course and molecular biology Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 12 (23 Feb - 24 May)",
+      "activity_type": "Practical",
+      "topic": "Computer lab exercise 12 weekly practical sessions including the Introduction to computing and programming in Python (Prac 0; Weeks 1-2) and three in-class assessments (Weeks 5, 8 and 12), in topics aligned with the lecture content. Learning outcomes: L02, L03, L05, L06",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 3 To Week 5 (09 Mar - 29 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Sequence analysis Sequence analysis in bioinformatics (conservation, sequence alignment, high-throughput sequences, profiles, motifs) Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 6 To Week 7 (30 Mar - 19 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Phylogenetics Phylogenetic methods in bioinformatics Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (20 Apr - 26 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Gene expression analysis Bioinformatic analysis of gene expression and transcriptome data Learning outcomes: L02, L04",
+      "learning_outcomes": [
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (27 Apr - 03 May)",
+      "activity_type": "Lecture",
+      "topic": "Databases Biological datatypes, databases, and ontology Learning outcomes: L05, L06",
+      "learning_outcomes": [
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (11 May - 17 May)",
+      "activity_type": "Lecture",
+      "topic": "Protein bioinformatics Learning outcomes: L05, L06",
+      "learning_outcomes": [
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (18 May - 24 May)",
+      "activity_type": "Workshop",
+      "topic": "Career Panel Forum Open discussion forum about career prospects in bioinformatics Learning outcomes: L07",
+      "learning_outcomes": [
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (25 May - 31 May)",
+      "activity_type": "Lecture",
+      "topic": "Review Review of course content and preparation for the End-of-Semester Exam Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

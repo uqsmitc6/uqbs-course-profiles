@@ -1,0 +1,194 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/PHYS4070-22490-7620",
+  "scraped_at": "2026-06-02T04:37:44.959126+00:00",
+  "course_code": "PHYS4070",
+  "class_code": "22490",
+  "semester_code": "7620",
+  "full_course_code": "PHYS4070-22490-7620",
+  "course_title": "Computational Physics II",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "This course focuses on the design and implementation of effective, maintainable software projects for scientific computing, using a compiled programming language. Students will learn and apply modern practices, including optimisation, parallelisation, unit testing, documentation, and debugging. These techniques are applied to a range of challenging classical and quantum problems, including, Monte Carlo methods, gravitational-wave signal detection, Hartree–Fock modelling of many-electron atoms, and selected many-body quantum systems. No prior experience with C++ is assumed; the language is introduced from first principles.\n\nComputational techniques both broaden and deepen our understanding of physics by vastly increasing the range of mathematical calculations which can be performed.\n\nThis course will demonstrate how computational techniques through solutions of algebraic and differential equations can be used to uncover interesting physical phenomena. This course covers advanced numerical simulation techniques used in computational physics and their application to several physical problems. Topics covered include the solution of ODEs, eigenvalue problems, few and many-body quantum mechanical eigenproblems, Monte Carlo and Fourier techniques and more. The course will cover some topics in advanced C++ programming, including optimisation, parallelisation, unit testing, documentation, and and modern software development practices. The course requires the use of C++, and this will be introduced from scratch.\n\nThe course will involve several major software projects; these will form the assessment of the course. In the projects, you will solve a high-level physics problem using advanced computational techniques.\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against UQ Policy, and will not be tolerated. We have developed a suite of resources to assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "PHYS3020",
+      "PHYS3920",
+      "PHYS3040",
+      "PHYS3051",
+      "PHYS3951",
+      "We recommend completing the following courses before enrolling in this one:",
+      "PHYS3071",
+      "MATH3201"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "PHYS7270"
+    ],
+    "restrictions": [
+      "Restricted to BSc(Hons), BAdvSc(Hons), MQTech, GDSci and MSc Students. Permission of Head of School required."
+    ]
+  },
+  "course_staff": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Benjamin Roberts",
+      "email": "b.roberts@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Benjamin Roberts",
+      "email": "b.roberts@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Odile Smits",
+      "email": "o.smits@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nEach week consists of one Lecture, and two two-hour practical (computer lab) sessions.\nA timetable of the lectures will be posted on blackboard.\nLectures and practicals will be conducted in-person on campus.\nImportant: If you are ill, then do not attend any classes in person. Alternative arrangements can be organised – consult Blackboard for details.",
+  "course_aims": "Continuing the themes of PHYS3071/PHYS7073, the students in this course will develop skills in modeling physical processes and equations using solutions to differential and linear equations, stochastic methods and Monte Carlo simulations, and extracting useful information from the results.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Able to program effectively in C++, and use graphical tools such as GNUPLOT/matplotlib"
+    },
+    {
+      "number": "LO2.",
+      "description": "Understand the theory of solving equations of motion for physical systems such as orbital mechanics, waveguides, resonances and quantum systems."
+    },
+    {
+      "number": "LO3.",
+      "description": "Able to formulate a problem in a suitable form for numerical solution, and the able to produce a computer program to obtain the solution and verify the correctness of the result."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply knowledge of stochastic methods, random numbers, and Monte Carlo techniques to the solution of a wide variety of integral and differential equations"
+    },
+    {
+      "number": "LO5.",
+      "description": "Describe and analyse the results of a numerical calculations in the form of a scientific report."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "title": "Gravitational Wave Detection",
+      "weight": "30%",
+      "due_date": "24/03/2026 5:00 pm"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "title": "Many-body quantum",
+      "weight": "30%",
+      "due_date": "28/04/2026 5:00 pm"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "title": "Atomic Wavefunction",
+      "weight": "40%",
+      "due_date": "29/05/2026 5:00 pm; Part of the assessment will involve an Oral Assessment (online or in-person) to be organised after submission.; The format will be as a defence of another activity (where the oral component validates or supplements a separate artefact or submission).",
+      "conditions": [
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Gravitational Wave Detection",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "weight": "30%",
+      "due_date": "24/03/2026 5:00 pm",
+      "learning_outcomes_assessed": "L01, L03, L04, L05",
+      "task_description": "Analyse mock data to find and categorise gravitational wave signatures using Fourier and Monte-Carlo methods. Produce professional code, with tests, and a report. Read full task description Hide full task description",
+      "submission_guidelines": "Submit all code, scripts and your report electronically via blackboard.\nNote: submit code, not compiled programs. Do not submit large data sets, compiled code, or any output that should be generated by your code.\nSee ADDITIONAL ASSESSMENT INFORMATION for more details.\n(In particular, please ensure you do not submit your \"gravitational wave\" data file.)\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 21 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.\nFeedback and partial solutions will be released within 21 days, in order for students to have feedback before submitting next assignment, therefore an extension past this time frame is not possible.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Many-body quantum",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "weight": "30%",
+      "due_date": "28/04/2026 5:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Model the dynamics of Bose-Einstein condensates using Runge-Kutta methods, and explore properties of a quantum many-body system (the transverse-field Ising model) using exact diagonalisation as per assignment sheet Read full task description Hide full task description",
+      "submission_guidelines": "Submit all code, scripts and your report electronically via blackboard.\nNote: submit code, not compiled programs. Do not submit large data sets, compiled code, or any output that should be generated by your code.\nSee ADDITIONAL ASSESSMENT INFORMATION for more details.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 21 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.\nFeedback and partial solutions will be released within 21 days, in order for students to have feedback before submitting next assignment, therefore an extension past this time frame is not possible.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Atomic Wavefunction",
+      "mode": "Oral, Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "weight": "40%",
+      "due_date": "29/05/2026 5:00 pm Part of the assessment will involve an Oral Assessment (online or in-person) to be organised after submission. The format will be as a defence of another activity (where the oral component validates or supplements a separate artefact or submission).",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L05",
+      "task_description": "Calculate wavefunctions and atomic properties for lithium atom using self-consistent Hartree-Fock method Read full task description Hide full task description",
+      "submission_guidelines": "Submit all code, scripts and your report electronically via blackboard.\nNote: submit code, not compiled programs. Do not submit large data sets, compiled code, or any output that should be generated by your code.\nSee ADDITIONAL ASSESSMENT INFORMATION for more details.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 21 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Not scheduled",
+      "activity_type": "Practical",
+      "topic": "Computer lab classes The applied classes, which comprise the majority of the contact hours for the course, are the place to learn coding techniques, C++ specifically. In the applied classes we will go over the new coding concepts, and students will have time to work on the worksheets, assignments, receive help and feedback from the lecturer/casual academic(s). Learning outcomes: L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Problem-based learning",
+      "topic": "Software projects The formal assessment for the course. Several large projects, that require high-level software solutions, and a written report. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Problem-based learning",
+      "topic": "Worksheets Complete the provided exercises. While these are not directly assessed, they will cover key concepts, and will lead directly into the assignments, and are the main source for learning the background coding. Learning outcomes: L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Course lectures The course lectures will focus mainly on the required physics and numerical techniques required for the assignments. Learning outcomes: L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

@@ -1,0 +1,293 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/SCIE3360-22218-7620",
+  "scraped_at": "2026-06-02T04:41:06.983386+00:00",
+  "course_code": "SCIE3360",
+  "class_code": "22218",
+  "semester_code": "7620",
+  "full_course_code": "SCIE3360-22218-7620",
+  "course_title": "Data Science for Life and Environmental Scientists",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "The Environment School",
+  "course_description": "Large data sets are becoming increasingly common in both the life and environmental sciences. They are also vital for addressing global challenges such as biodiversity loss, climate change and global pandemics. Consider for example satellite data capturing global coral reef biodiversity, worldwide daily temperatures measured over decades, or genome sequences of thousands of viruses.\n\nThis course will provide you with the tools to handle, visualise and analyse such large data sets. Topics covered include data processing (cleaning, exploring & wrangling), an overview of key data types and structures (e.g., spatial, textual, and genomic data), key concepts of data visualisation, an introduction to machine learning, and a primer in simulations. A major focus of this course will be on reproducible research and communication. Throughout the course we will use the programming language R. No prior knowledge of programming or advanced statistics (beyond STAT1201) is assumed.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "STAT1201"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Jan Engelstaedter",
+      "email": "j.engelstaedter@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Jan Engelstaedter",
+      "email": "j.engelstaedter@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Timothy Staples",
+      "email": "t.staples@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Andrew Letten",
+      "email": "a.letten@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Scott Allen",
+      "email": "s.allen3@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "To equip students with the knowledge, tools and confidence to explore, wrangle, visualise and analyse large biological and environmental datasets.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Import, explore, analyse and visualise complex data sets."
+    },
+    {
+      "number": "LO2.",
+      "description": "Create visualisations that display complex data in creative ways."
+    },
+    {
+      "number": "LO3.",
+      "description": "Apply principles of reproducible data science."
+    },
+    {
+      "number": "LO4.",
+      "description": "Understand basic concepts of machine learning and implement machine learning models in R."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Quizzes",
+      "weight": "10%",
+      "due_date": "1) Quiz 1 6/03/2026 2:00 pm; 2) Quiz 2 20/03/2026 2:00 pm; 3) Quiz 3 2/04/2026 2:00 pm; 4) Quiz 4 24/04/2026 2:00 pm; 5) Quiz 5 8/05/2026 2:00 pm; 6) Quiz 6 22/05/2026 2:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Project",
+      "title": "Project 1",
+      "weight": "40%",
+      "due_date": "16/04/2026 2:00 pm; To be completed during the Practical in Week 7.",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code",
+      "title": "Practical Portfolio",
+      "weight": "10% Pass/Fail",
+      "due_date": "29/05/2026 2:00 pm"
+    },
+    {
+      "category": "Project",
+      "title": "Project 2",
+      "weight": "40%",
+      "due_date": "12/06/2026 2:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Quizzes",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "10%",
+      "due_date": "1) Quiz 1 6/03/2026 2:00 pm 2) Quiz 2 20/03/2026 2:00 pm 3) Quiz 3 2/04/2026 2:00 pm 4) Quiz 4 24/04/2026 2:00 pm 5) Quiz 5 8/05/2026 2:00 pm 6) Quiz 6 22/05/2026 2:00 pm",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "Biweekly quizzes on Blackboard. Each quiz consists of multiple choice, short answer or similar types of questions relating to the content of the two weeks up to the submission deadline for each quiz. Quizzes will be open from Wednesdays 8am in each respective week, and close at the indicated deadline. Each quiz is worth 2% of your total grade. There will be six quizzes in total, with only the best five counting towards your grade. The quiz window will remain open until indicated deadline and once you attempt the quiz you will have 15 minutes to complete the quiz. The use of any materials is not permitted for this quiz. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Mini-quizzes will be online on Blackboard.\nOnline submission via Blackboard only by the due date and time. Refer to Blackboard for the submission details.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nIf you are granted an approved extension to the quiz you will need to contact the Course coordinator to ensure the quiz is available for you to complete by your new approved due date.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Biweekly quizzes on Blackboard. Each quiz consists of multiple choice, short answer or similar types of questions relating to the content of the two weeks up to the submission deadline for each quiz. Quizzes will be open from Wednesdays 8am in each respective week, and close at the indicated deadline. Each quiz is worth 2% of your total grade. There will be six quizzes in total, with only the best five counting towards your grade. The quiz window will remain open until indicated deadline and once you attempt the quiz you will have 15 minutes to complete the quiz. The use of any materials is not permitted for this quiz. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Project 1",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "40%",
+      "due_date": "16/04/2026 2:00 pm To be completed during the Practical in Week 7.",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "Students will work on a small data science project that covers the material of weeks 1 through 6 of the course. This assessment task is to be completed in-person. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "The code produced for this project needs to be submitted via Turnitin only at the end of class time.\nOnline submission by Turnitin only by the due date and time. Refer to Blackboard for the submission link. No hard copy or assignment cover sheets are required. Submission via email is not accepted.\nDeferral or extension\nYou may be able to defer this exam .\nIf a deferral is approved, students may work on and submit work on an alternative project, under identical conditions.\nSee the Additional assessment information section further below for information relating to extension and deferral applications.\nLate submission\nThe code produced for this project needs to be submitted via Turnitin only at the end of class time.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "late_submission": "The code produced for this project needs to be submitted via Turnitin only at the end of class time.",
+      "ai_statement": "Students will work on a small data science project that covers the material of weeks 1 through 6 of the course. This assessment task is to be completed in-person. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Practical Portfolio",
+      "mode": "Written",
+      "category": "Computer Code",
+      "weight": "10% Pass/Fail",
+      "due_date": "29/05/2026 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "A portfolio of all the code and reports produced during the practicals. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "This portfolio needs to be submitted during the last week of semester.\nOnline submission only by the due date. No hard copy or assignment cover sheets required.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional assessment information section further below for information relating to extension and deferral applications.\nLate submission\nThis assessment is graded on a pass/fail basis, and there is no system for applying \"mark\" penalties. If the assessment item is not submitted by the submission due date, it will be considered a non-submission resulting in a zero shown as a \"fail\" result.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "This assessment is graded on a pass/fail basis, and there is no system for applying \"mark\" penalties. If the assessment item is not submitted by the submission due date, it will be considered a non-submission resulting in a zero shown as a \"fail\" result.",
+      "ai_statement": "A portfolio of all the code and reports produced during the practicals. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Project 2",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "40%",
+      "due_date": "12/06/2026 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "Students will work on data science project that focuses on machine learning but broadly covers the material of the entire course (weeks 1 through 12). Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "The project report needs to be submitted during examination week 1.\nOnline submission by Turnitin only by the due date and time. Refer to Blackboard for the submission link. No hard copy or assignment cover sheets are required. Submission via email is not accepted.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional assessment information section further below for information relating to extension and deferral applications.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Students will work on data science project that focuses on machine learning but broadly covers the material of the entire course (weeks 1 through 12). Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (23 Feb - 01 Mar)",
+      "activity_type": "General contact hours",
+      "topic": "Week 1: Introduction to R and Studio Learning outcomes: L01, L03",
+      "learning_outcomes": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (02 Mar - 08 Mar)",
+      "activity_type": "General contact hours",
+      "topic": "Week 2: Working with Data Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (09 Mar - 15 Mar)",
+      "activity_type": "General contact hours",
+      "topic": "Week 3: Data Wrangling Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (16 Mar - 22 Mar)",
+      "activity_type": "General contact hours",
+      "topic": "Week 4: Special Types of Data Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (23 Mar - 29 Mar)",
+      "activity_type": "General contact hours",
+      "topic": "Week 5: Data Visualisation Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (30 Mar - 05 Apr)",
+      "activity_type": "General contact hours",
+      "topic": "Week 6: Visualising Spatial Data Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (13 Apr - 19 Apr)",
+      "activity_type": "General contact hours",
+      "topic": "Week 7: Reproducible Data Science Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (20 Apr - 26 Apr)",
+      "activity_type": "General contact hours",
+      "topic": "Week 8: Simulating Data Learning outcomes: L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (27 Apr - 03 May)",
+      "activity_type": "General contact hours",
+      "topic": "Week 9: Simulating Time Series Learning outcomes: L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (04 May - 10 May)",
+      "activity_type": "General contact hours",
+      "topic": "Week 10: Principles of Machine Learning Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (11 May - 17 May)",
+      "activity_type": "General contact hours",
+      "topic": "Week 11: A Tour of Models in Practice Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (18 May - 24 May)",
+      "activity_type": "General contact hours",
+      "topic": "Week 12: Model Tuning and Avoiding Data Leakage Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (25 May - 31 May)",
+      "activity_type": "General contact hours",
+      "topic": "Week 13: Independent Work on Project II and Practical Portfolio Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

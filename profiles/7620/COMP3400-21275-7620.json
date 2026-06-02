@@ -1,0 +1,176 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMP3400-21275-7620",
+  "scraped_at": "2026-06-02T04:23:16.877161+00:00",
+  "course_code": "COMP3400",
+  "class_code": "21275",
+  "semester_code": "7620",
+  "full_course_code": "COMP3400-21275-7620",
+  "course_title": "Functional & Logic Programming",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "An introduction to functional and logic programming languages. Relative merits: extensibility vs. verifiability vs. efficiency. Computational models and semantics.\n\nCOMP3400 introduces Functional Programming and Logic Programming using the Haskell programming language . Students will require an installation of the Glasgow Haskell Compiler (GHC) to complete the coursework. While prior programming exposure is required, exposure to Functional Programming and Logic Programming is not necessary, as these topics will be introduced starting from definitions, before moving quickly into applying that knowledge.\n\nThis course aims to equip the student with the tools and problem-solving skills (which are typically not available in mainstream programming environments) to achieve software engineering outcomes using both Functional and Logic Programming. In addition to this, a key outcome is gaining the skills to make informed decisions on how to apply these new skills where appropriate. COMP3400 ultimately aims to diversify a student's problem-solving skills in the application of software engineering, by exploring Functional and Logic Programming, and to inform decision-making and application of skills, given a variety of software engineering approaches.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1061",
+      "MATH1081",
+      "MATH7861",
+      "CSSE2002",
+      "CSSE7023"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Paul Vrbik",
+      "email": "COMP3400@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Paul Vrbik"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPracticals and Applied Classes will commence teaching Week 2.\nThe in-person lectures will be live-streamed and recorded.",
+  "course_aims": "This course aims to equip the student with new tools, skills and problem-solving methods in the discipline of software engineering, using Functional Programming and Logic Programming. This course will emphasise ideas such as abstraction and program correctness, by utilising tools and concepts that are unavailable in other programming disciplines.\n\nThe primary objective of this course is to make students comfortable working with recursion in their day-to-day coding.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Author programs using Functional Programming concepts, such as Algebraic Data Types and Type Classes"
+    },
+    {
+      "number": "LO2.",
+      "description": "Use Functional Programming to achieve high levels of abstraction and program correctness"
+    },
+    {
+      "number": "LO3.",
+      "description": "Compare and contrast programming methodologies, such as Functional Programming, Logic Programming and Procedural Programming"
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply the tools and workflows that are enabled by Functional Programming"
+    },
+    {
+      "number": "LO5.",
+      "description": "Solve appropriate problems using Logic Programming algorithms in Haskell"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignment 1",
+      "weight": "15%",
+      "due_date": "27/03/2026 3:00 pm"
+    },
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignment 2",
+      "weight": "15%",
+      "due_date": "1/05/2026 3:00 pm"
+    },
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignment 3",
+      "weight": "15%",
+      "due_date": "29/05/2026 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment 1",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "15%",
+      "due_date": "27/03/2026 3:00 pm",
+      "task_description": "The assessment is broken into two parts: Written submission . Mainly proofs and answering theory questions. Human evaluated. Submission through GradeScope. Code submission . Haskell code automatically graded. Submission through GradeScope. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment but is not recommended. See \"additional assessment information\" below for more information. Read full task description Hide full task description",
+      "submission_guidelines": "Both written and code submission is done through GradeScope. Students must submit their code regularly to Gradescope as they progress in the assignment to evidendence authenticity of their authorship.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within 11 days (allowing for late submissions also).\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours (or part thereof) from the deadline (or your extended deadline, if applicable) for up to 4 days. After 4 days (96 hours), you will receive a mark of zero.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours (or part thereof) from the deadline (or your extended deadline, if applicable) for up to 4 days. After 4 days (96 hours), you will receive a mark of zero.",
+      "ai_statement": "The assessment is broken into two parts: Written submission . Mainly proofs and answering theory questions. Human evaluated. Submission through GradeScope. Code submission . Haskell code automatically graded. Submission through GradeScope. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment but is not recommended. See \"additional assessment information\" below for more information. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.\nArtificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment but is not recommended. See \"additional assessment information\" below for more information."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 2",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "15%",
+      "due_date": "1/05/2026 3:00 pm",
+      "task_description": "The assessment is broken into two parts: Written submission . Mainly proofs and answering theory questions. Human evaluated. Submission through GradeScope. Code submission . Haskell code automatically graded. Submission through GradeScope. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment but is not recommended. See \"additional assessment information\" below for more information. Read full task description Hide full task description",
+      "submission_guidelines": "Both written and code submission is done through GradeScope. Students should submit their code regularly to Gradescope as they progress in the assignment.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within 11 days (allowing for late submissions also).\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours (or part thereof) from the deadline (or your extended deadline, if applicable) for up to 4 days. After 4 days (96 hours), you will receive a mark of zero.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours (or part thereof) from the deadline (or your extended deadline, if applicable) for up to 4 days. After 4 days (96 hours), you will receive a mark of zero.",
+      "ai_statement": "The assessment is broken into two parts: Written submission . Mainly proofs and answering theory questions. Human evaluated. Submission through GradeScope. Code submission . Haskell code automatically graded. Submission through GradeScope. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment but is not recommended. See \"additional assessment information\" below for more information. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.\nArtificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment but is not recommended. See \"additional assessment information\" below for more information."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 3",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "15%",
+      "due_date": "29/05/2026 3:00 pm",
+      "task_description": "The assessment is broken into two parts: Written submission . Mainly proofs and answering theory questions. Human evaluated. Submission through GradeScope. Code submission . Haskell code automatically graded. Submission through GradeScope. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment but is not recommended. See \"additional assessment information\" below for more information. Read full task description Hide full task description",
+      "submission_guidelines": "Both written and code submission is done through GradeScope. Students should submit their code regularly to Gradescope as they progress in the assignment.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within 11 days (allowing for late submissions also).\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours (or part thereof) from the deadline (or your extended deadline, if applicable) for up to 4 days. After 4 days (96 hours), you will receive a mark of zero.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours (or part thereof) from the deadline (or your extended deadline, if applicable) for up to 4 days. After 4 days (96 hours), you will receive a mark of zero.",
+      "ai_statement": "The assessment is broken into two parts: Written submission . Mainly proofs and answering theory questions. Human evaluated. Submission through GradeScope. Code submission . Haskell code automatically graded. Submission through GradeScope. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment but is not recommended. See \"additional assessment information\" below for more information. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.\nArtificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment but is not recommended. See \"additional assessment information\" below for more information."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "task_description": "This is a closed book and identity-verified examination that will be conducted on-campus and invigilated. Students are permitted a single A4 double-sided , handwritten and/or typed, crib sheet during the exam. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 180 minutes Calculator options No calculators permitted Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This is a closed book and identity-verified examination that will be conducted on-campus and invigilated. Students are permitted a single A4 double-sided , handwritten and/or typed, crib sheet during the exam. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Content Lecture Lectures on the functional programming paradigm, category theory, and haskell programming."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13",
+      "activity_type": "Applied Class",
+      "topic": "Guided Theory Session A contact hour for asking theory based questions of a casual demonstrator."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13",
+      "activity_type": "Practical",
+      "topic": "Guided Coding Sessions Students will write solutions in Haskell to assigned problems in a supervised environment using the exercism.io platform. Work during practical sessions are not graded and attendance is not recorded. Work can be completed either on the laboratory computers or on a personal laptop."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

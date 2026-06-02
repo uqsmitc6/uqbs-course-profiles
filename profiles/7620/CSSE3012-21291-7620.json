@@ -1,0 +1,219 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE3012-21291-7620",
+  "scraped_at": "2026-06-02T04:24:06.690576+00:00",
+  "course_code": "CSSE3012",
+  "class_code": "21291",
+  "semester_code": "7620",
+  "full_course_code": "CSSE3012-21291-7620",
+  "course_title": "The Software Process",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Software lifecycle as an industrial process, definable, manageable and repeatable. Requirements engineering, object-oriented analysis. Software requirements specification, prototyping, verification and validation, configuration management, maintenance. Software quality, process standards, process improvement. Software engineering tools.\n\n“The software process is the set of tools, methods and practices we use to produce a software product” - Watts Humphrey, Managing the Software Process, 1989.\n\nMany software products are developed in an ad-hoc fashion by developers using their own personal methods and techniques. This situation would be acceptable if it reliably produced software products of high quality, at or below the budgeted cost, and on or ahead of schedule.ﾠSadly, this is not the case and the software industry is infamous for projects being over budget and delivered late, and for delivering software that is unreliable.\n\nWhile there have been improvements over the past fifty years, software development is still considered to be inadequate, unreliable and lacking in the discipline associated with engineering and other comparable professional disciplines. As we increase the size and complexity of the problems that we attempt to solve, so our development process (the way in which we do the work) increases in importance.\n\nThis course aims to make students aware of the need of a software engineering process to create an effective, disciplined and professional software development team. Students will be able to select an appropriate process from the range of different processes. Students will see how activities undertaken in other courses fit into a software engineering process and how the tools used in those courses support the process. Students will learn how to identify and manage requirements in a disciplined process.\n\nCourse Changes in Response to Previous Student Feedback\n\nThree assessments now allow the use of AI tools. A demonstration will be provided on how to use AI efficiently and ethically.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "COMP2140",
+      "CSSE2002",
+      "DECO2500",
+      "DECO2800",
+      "DECO2850",
+      "CSSE3200"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP3500",
+      "COMP7503",
+      "CSSE3002",
+      "CSSE7001"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Naipeng Dong",
+      "email": "CSSE3012@eecs.uq.edu.au",
+      "notes": "Please email me to schedule an appointment for in-person or on-line consultation."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Naipeng Dong"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPracs start in week 2. Pracs include activities directly related to the continuous assessment. Consequently, it is extremely important that you regularly attend the pracs in which you are allocated.",
+  "course_aims": "This course aims to help students learn:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "decompose the overall software lifecycle into appropriate activities and tasks for a software project."
+    },
+    {
+      "number": "LO2.",
+      "description": "decide on an appropriate software process for a particular development task and context."
+    },
+    {
+      "number": "LO3.",
+      "description": "evaluate software engineering activities in the context of established standards."
+    },
+    {
+      "number": "LO4.",
+      "description": "analyse and document system requirements using appropriate requirements engineering techniques, tools and methods."
+    },
+    {
+      "number": "LO5.",
+      "description": "use appropriate quality assurance techniques to manage product and process quality."
+    },
+    {
+      "number": "LO6.",
+      "description": "manage the coordination of team activities to deliver project artefacts."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Project",
+      "title": "User Stories",
+      "weight": "12%",
+      "due_date": "31/03/2026 3:00 pm",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Presentation",
+      "title": "Research Presentation",
+      "weight": "10%",
+      "due_date": "28/04/2026 3:00 pm"
+    },
+    {
+      "category": "Project",
+      "title": "Use Case Modelling",
+      "weight": "28%",
+      "due_date": "26/05/2026 3:00 pm",
+      "conditions": [
+        "Hurdle",
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "User Stories",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "12%",
+      "due_date": "31/03/2026 3:00 pm",
+      "other_conditions": "Peer assessment factor. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L04, L05, L06",
+      "task_description": "As a small team you will produce a high-level requirements model of a system using user stories. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. The course coordinator reserves the right to vary group marks for each group member in the event of varied contributions to the team effort. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted online via Blackboard unless otherwise specified for a particular assessment item.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "As a small team you will produce a high-level requirements model of a system using user stories. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. The course coordinator reserves the right to vary group marks for each group member in the event of varied contributions to the team effort. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Research Presentation",
+      "mode": "Oral, Product/ Artefact/ Multimedia",
+      "category": "Presentation",
+      "weight": "10%",
+      "due_date": "28/04/2026 3:00 pm",
+      "learning_outcomes_assessed": "L01, L03",
+      "task_description": "You will conduct independent research on a prescribed software engineering topic and submit a video presentation of your findings. There will be a sign-up process to select your topic for the video. These videos will be made available to other students in the course. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted online via Blackboard unless otherwise specified for a particular assessment item.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "You will conduct independent research on a prescribed software engineering topic and submit a video presentation of your findings. There will be a sign-up process to select your topic for the video. These videos will be made available to other students in the course. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Use Case Modelling",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "28%",
+      "due_date": "26/05/2026 3:00 pm",
+      "other_conditions": "Peer assessment factor. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L04, L05, L06",
+      "task_description": "As a small team you will produce a detailed use case model of the requirements for a system. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. The course coordinator reserves the right to vary group marks for each group member in the event of varied contributions to the team effort. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted online via Blackboard unless otherwise specified for a particular assessment item.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "As a small team you will produce a detailed use case model of the requirements for a system. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. The course coordinator reserves the right to vary group marks for each group member in the event of varied contributions to the team effort. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The final exam will be an on-campus, invigilated paper-based exam. Specified materials permitted: Two A4 double-sided sheets of handwritten or typed notes, and a UQ approved calculator. No other materials or computing/communication devices are permitted. You are required to cite resources that you use in answering questions. This exam will assess your ability to reflect on the content of the course and identify connections between the various topics covered. The exam will also confirm that skills developed in the projects have been retained. Simple verbatim quoting of resource material that does not demonstrate understanding of the question topic will not obtain a passing mark for the question. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials Two A4 sheets of handwritten or typed notes, double-sided, are permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The final exam will be an on-campus, invigilated paper-based exam. Specified materials permitted: Two A4 double-sided sheets of handwritten or typed notes, and a UQ approved calculator. No other materials or computing/communication devices are permitted. You are required to cite resources that you use in answering questions. This exam will assess your ability to reflect on the content of the course and identify connections between the various topics covered. The exam will also confirm that skills developed in the projects have been retained. Simple verbatim quoting of resource material that does not demonstrate understanding of the question topic will not obtain a passing mark for the question. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (23 Feb - 31 May)",
+      "activity_type": "Lecture",
+      "topic": "Content Lectures Lectures on software engineering processes and process activities, quality management and requirements engineering. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (02 Mar - 31 May)",
+      "activity_type": "Applied Class",
+      "topic": "Pracs and Assignment Assistance Students will engage in weekly prac sessions for project activities related to the software process. Feedback will be provided immediately during prac sessions for the activities conducted. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

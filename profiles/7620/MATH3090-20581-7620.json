@@ -1,0 +1,271 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH3090-20581-7620",
+  "scraped_at": "2026-06-02T04:32:30.946903+00:00",
+  "course_code": "MATH3090",
+  "class_code": "20581",
+  "semester_code": "7620",
+  "full_course_code": "MATH3090-20581-7620",
+  "course_title": "Financial Mathematics",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Introduction to financial mathematics and its applications. Mathematical models of annuities, equity and fixed-income products, futures and forward contracts, the term structure of interest rates and investment returns.\n\nThis course is an introduction to financial and actuarialﾠmathematics. It introduces basic concepts and principles in finance and basic mathematical and statistical tools used by financial mathematicians and actuaries. Topics covered will include a selection from the following: compound interest and annuities, discounted cashflow valuation, risk and return, fixed interest securities, valuation by arbitrage and replication, derivative securities including futures, swaps and options, the term structure of interest rates, stochastic models for investment returns, modern portfolio andﾠfinancial theory, risk management.\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against UQ Policy , and will not be tolerated. We have developed a suite of resources to assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1051",
+      "MATH1071",
+      "MATH1052",
+      "MATH1072",
+      "STAT2003",
+      "STAT2004",
+      "We recommend completing the following courses before enrolling in this one:",
+      "COSC2500"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH7039"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Duy-Minh Dang",
+      "email": "duyminh.dang@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Duy-Minh Dang",
+      "email": "duyminh.dang@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus at the times and location advertised in your personal timetable.\nImportant: If you are ill, then do not attend any classes in person. Alternative arrangements can be organised – consult Blackboard for details.",
+  "course_aims": "MATH3090 will give:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Interest Rates and Annuities - Model the cash flows of a range of financial contracts in discrete and continuous time"
+    },
+    {
+      "number": "LO2.",
+      "description": "Interest Rates and Annuities - Understand the function of the financial system and the role played by financial mathematicians and actuaries"
+    },
+    {
+      "number": "LO3.",
+      "description": "Interest Rates and Annuities - Understand and derive the relationships between interest rates across different time periods"
+    },
+    {
+      "number": "LO4.",
+      "description": "Interest Rates and Annuities - Define, derive and use the compound interest and annuity functions of relevance to financial mathematicians and actuaries"
+    },
+    {
+      "number": "LO5.",
+      "description": "Stochastic and Financial Modeling - Define and use an equation of value when cash flows are uncertain"
+    },
+    {
+      "number": "LO6.",
+      "description": "Stochastic and Financial Modeling - Show how both discrete- and continuous-time discounted cash flow techniques can be used to appraise investments"
+    },
+    {
+      "number": "LO7.",
+      "description": "Stochastic and Financial Modeling - Mathematically describe the investment characteristics of fixed income assets (debt), equity (shares) and financial derivatives"
+    },
+    {
+      "number": "LO8.",
+      "description": "Stochastic and Financial Modeling - Understand arbitrage pricing and use arbitrage pricing for futures/forwards, swap contracts, and foreign exchange markets"
+    },
+    {
+      "number": "LO9.",
+      "description": "Stochastic and Financial Modeling - Understand and perform basic calculations relating to the term structure of interest rates (yield curve)"
+    },
+    {
+      "number": "LO10.",
+      "description": "Stochastic and Financial Modeling - Understand and derive simple stochastic interest rate models"
+    },
+    {
+      "number": "LO11.",
+      "description": "Options and the Black-Scholes Model - Understand the defining characteristics of options and options markets"
+    },
+    {
+      "number": "LO12.",
+      "description": "Options and the Black-Scholes Model - Understand the notion of risk-neutral pricing and the fundamental theorems of asset pricing in a simple one-period setting"
+    },
+    {
+      "number": "LO13.",
+      "description": "Options and the Black-Scholes Model - Have a basic appreciation and understanding of the derivation of the Black-Scholes model by the heat equation"
+    },
+    {
+      "number": "LO14.",
+      "description": "Options and the Black-Scholes Model - Understand how the notions of arbitrage and replication are used in the derivation of the Black-Scholes model"
+    },
+    {
+      "number": "LO15.",
+      "description": "Portfolio Construction and Analysis - Derive and understand simple stochastic models for equity (shares)"
+    },
+    {
+      "number": "LO16.",
+      "description": "Portfolio Construction and Analysis - Derive and understand the main results of modern portfolio theory"
+    },
+    {
+      "number": "LO17.",
+      "description": "Portfolio Construction and Analysis - Define and identify a coherent risk measure"
+    },
+    {
+      "number": "LO18.",
+      "description": "Portfolio Construction and Analysis - Define and understand the role of risk measures in the management of risky assets"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignment 1",
+      "weight": "14%",
+      "due_date": "30/03/2026 1:00 pm"
+    },
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignment 2",
+      "weight": "14%",
+      "due_date": "27/04/2026 1:00 pm"
+    },
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignment 3",
+      "weight": "14%",
+      "due_date": "25/05/2026 1:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester Exam",
+      "weight": "58%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment 1",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "14%",
+      "due_date": "30/03/2026 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "The assignment will contain practical problems, computer implementation of models, and theoretical components. Read full task description Hide full task description",
+      "submission_guidelines": "Upload via Blackboard: Please submit your written answers to all the assignment questions as one PDF document. If you need to add code please do so as separate clearly labelled files.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nA maximum of seven calendar days is allowed for an extension because the solutions need to be released.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nSolutions for assignments will be released 7 days after the assessment is due and as such, late submission after 7 days from the original time submission is due will not be possible, regardless of approved extensions.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 2",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "14%",
+      "due_date": "27/04/2026 1:00 pm",
+      "learning_outcomes_assessed": "L06, L07, L08, L09, L10, L11, L12",
+      "task_description": "The assignment will contain practical problems, computer implementation of models, and theoretical components. Read full task description Hide full task description",
+      "submission_guidelines": "Upload via Blackboard: Please submit your written answers to all the assignment questions as one PDF document. If you need to add code please do so as separate clearly labelled files.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nA maximum of seven calendar days is allowed for an extension because the solutions need to be released.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nSolutions for assignments will be released 7 days after the assessment is due and as such, late submission after 7 days from the original time submission is due will not be possible, regardless of approved extensions.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 3",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "14%",
+      "due_date": "25/05/2026 1:00 pm",
+      "learning_outcomes_assessed": "L11, L12, L13, L14, L15, L16, L17, L18",
+      "task_description": "The assignment will contain practical problems, computer implementation of models, and theoretical components. Read full task description Hide full task description",
+      "submission_guidelines": "Upload via Blackboard: Please submit your written answers to all the assignment questions as one PDF document. If you need to add code please do so as separate clearly labelled files.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nA maximum of seven calendar days is allowed for an extension because the solutions need to be released.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nSolutions for assignments will be released 7 days after the assessment is due and as such, late submission after 7 days from the original time submission is due will not be possible, regardless of approved extensions.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End of Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "58%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18",
+      "task_description": "The end of semester examination will test all topics presented in the course. The examination will be invigilated on-campus. One A4 sheet of handwritten notes, double-sided, is permitted. The approved calculator for the course is the Casio FX-82 (any model). You may use other calculators, but they must be labelled with an official 'Approved' sticker. Further details will be provided to students before the examination period. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (23 Feb - 31 May)",
+      "activity_type": "Lecture",
+      "topic": "Lecture series Introduce students to the basic tools and techniques of financial and actuarial mathematics. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13",
+        "L14",
+        "L15",
+        "L16",
+        "L17",
+        "L18"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (02 Mar - 31 May)",
+      "activity_type": "Applied Class",
+      "topic": "Exercises and Problems Contact with casual academics for students to ask questions. Questions and problems for students to reinforce their understanding of the material. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13",
+        "L14",
+        "L15",
+        "L16",
+        "L17",
+        "L18"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

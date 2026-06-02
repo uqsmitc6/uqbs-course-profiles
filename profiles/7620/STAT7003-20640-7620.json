@@ -1,0 +1,407 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/STAT7003-20640-7620",
+  "scraped_at": "2026-06-02T04:42:13.143883+00:00",
+  "course_code": "STAT7003",
+  "class_code": "20640",
+  "semester_code": "7620",
+  "full_course_code": "STAT7003-20640-7620",
+  "course_title": "Mathematical Probability",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Probability; random variables; probability distributions; Markov processes; statistical analysis & modelling\n\nThis course is about modelling, analysing andﾠunderstanding random experiments, random phenomena, uncertainty and chance, through the language ofﾠprobability theory.\n\nSTAT2003 and STAT7003 are co-badged courses and will share learning activities. STAT2003 will have some differences in assessment to evaluate students at the undergraduate level.\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and againstﾠ UQ Policy, ﾠand will not be tolerated. We have developed aﾠ suite of resources ﾠto assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1051",
+      "MATH1071"
+    ],
+    "companions": [
+      "We recommend completing the following courses at the same time:",
+      "MATH7000"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "STAT2003"
+    ],
+    "restrictions": [
+      "Permission from Head of School is required."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Yoni Nazarathy",
+      "email": "y.nazarathy@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Yoni Nazarathy",
+      "email": "y.nazarathy@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Kazutoshi Yamazaki",
+      "email": "k.yamazaki@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nApplied Classes will start in Week 2.\nAll classes will be conducted on campus. Consult your personal timetable for times and locations. Students are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness). Alternative arrangements will be advised on Blackboard should the campus be closed for any reason.\nImportant:\nif you are ill, then do not attend any classes in person. Alternative arrangements can be organised – consult Blackboard for details.\nPublic holidays affect the course on two occasions:\nOn Friday April 3, the lectures will not take place.\nOn Monday May 4, applied classes don't take place. Students attending Monday applied classes are requested to attend other alternative applied classes during other days of that week.",
+  "course_aims": "Our goal is to introduce the most commonly used models for studying random phenomena, as well as some basic methods for analysing them. We will study probability theory, including conditional probability, the Law of Total Probability and Bayes' Law, random variables and their distributions, laws of large numbers and the Central Limit Law, and Markov chains.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Construct probabilistic models for various random phenomena"
+    },
+    {
+      "number": "LO2.",
+      "description": "Analyse probability models to derive quantities and properties of interest."
+    },
+    {
+      "number": "LO3.",
+      "description": "Use software appropriately for simulating probability models."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Problem set 1",
+      "weight": "15%",
+      "due_date": "25/03/2026 5:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Problem set 2",
+      "weight": "15%",
+      "due_date": "29/04/2026 5:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Problem set 3",
+      "weight": "15%",
+      "due_date": "27/05/2026 5:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester Exam",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Problem set 1",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "15%",
+      "due_date": "25/03/2026 5:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "A problem set containing a mix of theoretical and practical exercises. Read full task description Hide full task description",
+      "submission_guidelines": "via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nThe maximum extension allowed is 14 days. This limit on extensions is due to release of solutions. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Problem set 2",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "15%",
+      "due_date": "29/04/2026 5:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "A problem set containing a mix of theoretical and practical exercises. Read full task description Hide full task description",
+      "submission_guidelines": "via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nThe maximum extension allowed is 14 days. This limit on extensions is due to release of solutions. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Problem set 3",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "15%",
+      "due_date": "27/05/2026 5:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "A problem set containing a mix of theoretical and practical exercises. Read full task description Hide full task description",
+      "submission_guidelines": "via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nThe maximum extension allowed is 14 days. This limit on extensions is due to release of solutions. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End of Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02",
+      "task_description": "The End of Semester examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus. Alternative arrangements will be advised on Blackboard should the campus be closed for any reason. You will be permitted to bring a single double-sided A4 sheet of handwritten notes into the exam. (Photocopies of handwritten sheets are not permitted.) You will need an approved calculator for use in the exam. It should either be a Casio fx-82 or have an official \"Approved\" label attached. Visit the site www.uq.edu.au/myadvisor/exam-calculators for a list of approved calculators and procedures for obtaining the official label. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten notes, double sided, is permitted You will be permitted to bring a single double-sided A4 sheet of handwritten notes into the exam. (Photocopies of handwritten sheets are not permitted.) Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 1 Lectures Probability and counting Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Applied Class",
+      "topic": "Week 2 Applied Class Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 2 Lectures Conditional probability and independence; Random variables Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Applied Class",
+      "topic": "Week 3 Applied Class Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 3 Lectures Distributions; Expectations; Transforms (PGF and MGF) Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Applied Class",
+      "topic": "Week 4 Applied Class Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 4 Lectures Common distributions Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Applied Class",
+      "topic": "Week 5 Applied Class Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 5 Lectures Simulating random variables Learning outcomes: L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Applied Class",
+      "topic": "Week 6 Applied Class Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 6 Lectures Joint and conditional distributions Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Applied Class",
+      "topic": "Week 7 Applied Class Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 7 Lectures Conditional expectation; Functions of random variables Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Applied Class",
+      "topic": "Week 8 Applied Class Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 8 Lectures Random vectors; Functions of random vectors Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Applied Class",
+      "topic": "Week 9 Applied Class Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 9 Lectures Jointly normal random variables Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Applied Class",
+      "topic": "Week 10 Applied Class Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 10 Lectures Limit theorems Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Applied Class",
+      "topic": "Week 11 Applied Class Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 11 Lectures Markov chains Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Applied Class",
+      "topic": "Week 12 Applied Class Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 12 Lectures Reliability Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Applied Class",
+      "topic": "Week 13 Applied Class Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 13 Lectures Revision Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

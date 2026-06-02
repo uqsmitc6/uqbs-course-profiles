@@ -1,0 +1,213 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMS4507-21194-7620",
+  "scraped_at": "2026-06-02T04:23:22.243796+00:00",
+  "course_code": "COMS4507",
+  "class_code": "21194",
+  "semester_code": "7620",
+  "full_course_code": "COMS4507-21194-7620",
+  "course_title": "Advanced Topics in Security",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Cryptographic algorithms, advanced security protocols, Blockchain technology, current security research topics.\n\nThis course on Information and Computer Security will cover a range of advanced topics and current research in the field, with a focus on Blockchain technology. One component of the course will consist of formal lectures in the traditional format. However, a major component of the course is based on students researching an advanced topic with the help of academic research publications. A list of suggested topics and papers will be provided on the course web site. The result of the research, including a critical discussion,ﾠwill be presented in the form of a seminar.\n\nFeedback for this course from students has been generally very positive, and hence only minor changes have been implemented. A key change to the course is the update of the seminar topics (list of papers) to include more recent publications in cybersecurity.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CYBR3000"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMS7507"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Marius Portmann",
+      "email": "COMS4507@eecs.uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Marius Portmann"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The goal of this course is to provide students withﾠaﾠsolid understanding of a range of advanced topics in the field of Information Security.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "understand and apply a wide range of complex security concepts, algorithms and protocols, in particular blockchain technology."
+    },
+    {
+      "number": "LO2.",
+      "description": "research and critically discuss recent research in a wide range of areas in the field of Information Security."
+    },
+    {
+      "number": "LO3.",
+      "description": "communicate complex concepts in the field of Information Security."
+    },
+    {
+      "number": "LO4.",
+      "description": "research, design and/or implement (in a small team) solutions for concrete security problems for distributed applications."
+    },
+    {
+      "number": "LO5.",
+      "description": "Work effectively in a team and identify the characteristics of effective team work."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Presentation",
+      "title": "Seminar Presentation",
+      "weight": "25%",
+      "due_date": "2/04/2026 - 28/05/2026",
+      "conditions": [
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Participation/ Student contribution",
+      "title": "Seminar Participation",
+      "weight": "10%",
+      "due_date": "2/04/2026 - 28/05/2026",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Project",
+      "title": "Project",
+      "weight": "25%",
+      "due_date": "15/05/2026 3:00 pm",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Seminar Presentation",
+      "mode": "Oral",
+      "category": "Presentation",
+      "weight": "25%",
+      "due_date": "2/04/2026 - 28/05/2026",
+      "other_conditions": "Student specific, Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L02, L03",
+      "task_description": "Students will present a summary, explanation and discussion of a selected topic or recent research results in Cyber Security in the form of a seminar in small teams. The topic presented in the seminar needs to be significantly different from the topic covered in the project. In order to pass this assessment item, students are required to speak freely, and are not allowed to read the text verbatim, with the exception of clearly acknowledged quotes. Students are required to demonstrate detailed and in-depth comprehension of the presented content, via the ability to correctly answer questions by the audience (teaching staff and students). This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. In accordance with UQ Assessment Policy, your presentation will be recorded. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions for groupwork are typically not available as this impacts on all members of the team.\nStudents with valid extension requests either receive team mark or will be required to undertake alternative assessment.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nConsistent with industry practice around presentations to clients/industry partners, the 100% late penalty applies.\nThis has been approved by the Associate Dean (Academic)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Students will present a summary, explanation and discussion of a selected topic or recent research results in Cyber Security in the form of a seminar in small teams. The topic presented in the seminar needs to be significantly different from the topic covered in the project. In order to pass this assessment item, students are required to speak freely, and are not allowed to read the text verbatim, with the exception of clearly acknowledged quotes. Students are required to demonstrate detailed and in-depth comprehension of the presented content, via the ability to correctly answer questions by the audience (teaching staff and students). This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. In accordance with UQ Assessment Policy, your presentation will be recorded. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Seminar Participation",
+      "mode": "Oral",
+      "category": "Participation/ Student contribution",
+      "weight": "10%",
+      "due_date": "2/04/2026 - 28/05/2026",
+      "learning_outcomes_assessed": "L02, L03",
+      "task_description": "This assessment item considers the degree of participation during the seminar presentations. Students are expected to read the papers that are discussed prior to the seminar and actively participate in the discussion, by asking questions, answering questions, providing comments, etc. Attendance of the seminars is required. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nSeminar participation is assessed during student seminar presentations which are time limited and scheduled at a fixed time, hence an extension or deferral is not possible.\nThe seminars will take place over a number of sessions, so students will have multiple opportunities to meet the minimum requirement.\nIf due to exceptional circumstances, you are unable to participate in the required number of seminars, please contact the course teaching team and an alternative assessment may be arranged.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "This assessment item considers the degree of participation during the seminar presentations. Students are expected to read the papers that are discussed prior to the seminar and actively participate in the discussion, by asking questions, answering questions, providing comments, etc. Attendance of the seminars is required. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Project",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Project",
+      "weight": "25%",
+      "due_date": "15/05/2026 3:00 pm",
+      "other_conditions": "Peer assessed. See the conditions definitions",
+      "learning_outcomes_assessed": "L02, L03, L04, L05",
+      "task_description": "In small teams, students will propose and carry out a research and/or implementation project in the field of Information Security. The deliverables of the project consist of a report , and code/documentation (if applicable). This task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and/or Machine Translation (MT) technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. This will be done via an in-person demo/interview to assess the implementation (if applicable) and the authenticity of students' written reports and the understanding of its content. Project marks can be moderated based on the teams' performance during the project demo/interview. A Group Peer Assessment process will be used to adjust the individual marks in case of different levels of contribution by project team members. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "In small teams, students will propose and carry out a research and/or implementation project in the field of Information Security. The deliverables of the project consist of a report , and code/documentation (if applicable). This task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and/or Machine Translation (MT) technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. This will be done via an in-person demo/interview to assess the implementation (if applicable) and the authenticity of students' written reports and the understanding of its content. Project marks can be moderated based on the teams' performance during the project demo/interview. A Group Peer Assessment process will be used to adjust the individual marks in case of different levels of contribution by project team members. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and/or Machine Translation (MT) technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L03",
+      "task_description": "This exam will contain a combination of multiple-choice, problem solving and short answer questions, and specified materials will be permitted. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Open book examination - any written or printed material is permitted; material may be annotated Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This exam will contain a combination of multiple-choice, problem solving and short answer questions, and specified materials will be permitted. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Problem-based learning",
+      "topic": "Project In small teams, students will need to propose and carry out a research and/or implementation project in the field of Information Security. Learning outcomes: L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Lectures Selected advanced Information Security topics, with a focus on Blockchain technology, will be presented in the form of traditional Lectures. Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Seminar",
+      "topic": "Seminar Students will give a seminar presentation and participate in seminar presentations given by other students on advanced topics in security, e.g. recent research papers. Learning outcomes: L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

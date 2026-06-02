@@ -1,0 +1,201 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMP2701-22477-7620",
+  "scraped_at": "2026-06-02T04:23:15.485240+00:00",
+  "course_code": "COMP2701",
+  "class_code": "22477",
+  "semester_code": "7620",
+  "full_course_code": "COMP2701-22477-7620",
+  "course_title": "Generative Artificial Intelligence",
+  "study_period": "Semester 1, 2026 (23/02/2026 - 20/06/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Generative AI is transforming the computing landscape, from automating code generation and testing to revolutionising system design and documentation. This course introduces the core principles of generative AI, focusing on how foundational models are applied across text, code, and image domains. Students will learn to collaborate effectively with AI systems through prompt design, workflow integration, and critical evaluation of outputs. With a strong emphasis on ethical and responsible AI use, the course combines theory with hands-on practice to prepare students for emerging roles in AI-enhanced development, research, and innovation environments.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE1001",
+      "ENGG1001"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Azadeh Ghari-Neiat",
+      "email": "COMP2701@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Azadeh Ghari-Neiat"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "Students will learn to collaborate effectively with AI systems through prompt design, workflow integration, and critical evaluation of outputs.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain the core principles of Generative AI, including how large language models are applied across software engineering tasks."
+    },
+    {
+      "number": "LO2.",
+      "description": "Design and effectively prompt to influence and optimise outputs from Generative AI systems."
+    },
+    {
+      "number": "LO3.",
+      "description": "Develop and evaluate Generative AI solutions using advanced techniques and workflow orchestration tools."
+    },
+    {
+      "number": "LO4.",
+      "description": "Assess the potential and limitations of Generative AI in real-world software and data-driven applications across different domains."
+    },
+    {
+      "number": "LO5.",
+      "description": "Demonstrate awareness of the ethical, legal, and societal considerations involved in building and deploying Generative AI technologies."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation, Product/ Design",
+      "title": "Assessment 1",
+      "weight": "20%",
+      "due_date": "24/04/2026 3:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Product/ Design",
+      "title": "Assessment 2",
+      "weight": "30%",
+      "due_date": "22/05/2026 3:00 pm"
+    },
+    {
+      "category": "Computer Code, Practical/ Demonstration",
+      "title": "Assessment 2 Oral Interview",
+      "weight": "Pass/Fail",
+      "due_date": "25/05/2026 - 29/05/2026; During your assigned applied class in Week 13.",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 6/06/2026 - 20/06/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assessment 1",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Paper/ Report/ Annotation, Product/ Design",
+      "weight": "20%",
+      "due_date": "24/04/2026 3:00 pm",
+      "learning_outcomes_assessed": "L02, L03, L04",
+      "task_description": "Students will design and implement an individual application based on a specification. This assessment covers topics from teaching week 1 through week 6. Students may use approved generative AI tools to support their development process; however, the submitted code, tests, and report must be the student’s own work. Students must not view or share another student’s code and must not reproduce code from external sources including websites, repositories, forums, or AI outputs. Generative AI use is permitted only in accordance with the course guidelines. Students must include an AI Use Statement that clearly describes how AI tools were used (tool name, purpose, and how outputs were verified or modified). Students remain responsible for the correctness, security, and integrity of their submission. Unacknowledged or inappropriate use may constitute academic misconduct under UQ academic integrity requirements. To pass this assessment, you may be required to attend a short interview to confirm your understanding of your submission and to explain key design and implementation decisions without using AI or machine translation tools. In line with the UQ Assessment Policy, the interview will be recorded. If you cannot attend your allocated time, one make-up session will be offered. Read full task description Hide full task description",
+      "submission_guidelines": "The assessment will be submitted online via the Gradescope and Blackboard platform. Detailed instructions will be provided in the task specification.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Students will design and implement an individual application based on a specification. This assessment covers topics from teaching week 1 through week 6. Students may use approved generative AI tools to support their development process; however, the submitted code, tests, and report must be the student’s own work. Students must not view or share another student’s code and must not reproduce code from external sources including websites, repositories, forums, or AI outputs. Generative AI use is permitted only in accordance with the course guidelines. Students must include an AI Use Statement that clearly describes how AI tools were used (tool name, purpose, and how outputs were verified or modified). Students remain responsible for the correctness, security, and integrity of their submission. Unacknowledged or inappropriate use may constitute academic misconduct under UQ academic integrity requirements. To pass this assessment, you may be required to attend a short interview to confirm your understanding of your submission and to explain key design and implementation decisions without using AI or machine translation tools. In line with the UQ Assessment Policy, the interview will be recorded. If you cannot attend your allocated time, one make-up session will be offered. Read full task description Hide full task description\nStudents will design and implement an individual application based on a specification. This assessment covers topics from teaching week 1 through week 6. Students may use approved generative AI tools to support their development process; however, the submitted code, tests, and report must be the student’s own work. Students must not view or share another student’s code and must not reproduce code from external sources including websites, repositories, forums, or AI outputs.\nGenerative AI use is permitted only in accordance with the course guidelines. Students must include an AI Use Statement that clearly describes how AI tools were used (tool name, purpose, and how outputs were verified or modified). Students remain responsible for the correctness, security, and integrity of their submission. Unacknowledged or inappropriate use may constitute academic misconduct under UQ academic integrity requirements."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assessment 2",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Paper/ Report/ Annotation, Product/ Design",
+      "weight": "30%",
+      "due_date": "22/05/2026 3:00 pm",
+      "learning_outcomes_assessed": "L03, L04",
+      "task_description": "Students will design and implement an individual application based on a provided specification. This assessment covers topics from teaching week 1 through week 11. Students may use approved generative AI tools to support their development process; however, the submitted code, tests, and report must be the student’s own work. Students must not view or share another student’s code and must not reproduce code from external sources including websites, repositories, forums, or AI outputs. Generative AI use is permitted only in accordance with the course guidelines. Students must include an AI Use Statement that clearly describes how AI tools were used (tool name, purpose, and how outputs were verified or modified). Students remain responsible for the correctness, security, and integrity of their submission. Unacknowledged or inappropriate use may constitute academic misconduct under UQ academic integrity requirements. Read full task description Hide full task description",
+      "submission_guidelines": "The assessment will be submitted online via the Gradescope and Blackboard platform. Detailed instructions will be provided in the task specification.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within 14 days.\nThis limitation ensures that feedback can be provided prior to the Final Exam, allowing students to consolidate key concepts, address gaps in understanding, and prepare effectively for the final exam.\nNote: If you are approved an extension for Assessment 2, you do not automatically receive an extension for the Interview.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Students will design and implement an individual application based on a provided specification. This assessment covers topics from teaching week 1 through week 11. Students may use approved generative AI tools to support their development process; however, the submitted code, tests, and report must be the student’s own work. Students must not view or share another student’s code and must not reproduce code from external sources including websites, repositories, forums, or AI outputs. Generative AI use is permitted only in accordance with the course guidelines. Students must include an AI Use Statement that clearly describes how AI tools were used (tool name, purpose, and how outputs were verified or modified). Students remain responsible for the correctness, security, and integrity of their submission. Unacknowledged or inappropriate use may constitute academic misconduct under UQ academic integrity requirements. Read full task description Hide full task description\nStudents will design and implement an individual application based on a provided specification. This assessment covers topics from teaching week 1 through week 11. Students may use approved generative AI tools to support their development process; however, the submitted code, tests, and report must be the student’s own work. Students must not view or share another student’s code and must not reproduce code from external sources including websites, repositories, forums, or AI outputs.\nGenerative AI use is permitted only in accordance with the course guidelines. Students must include an AI Use Statement that clearly describes how AI tools were used (tool name, purpose, and how outputs were verified or modified). Students remain responsible for the correctness, security, and integrity of their submission. Unacknowledged or inappropriate use may constitute academic misconduct under UQ academic integrity requirements."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assessment 2 Oral Interview",
+      "mode": "Oral",
+      "category": "Computer Code, Practical/ Demonstration",
+      "weight": "Pass/Fail",
+      "due_date": "25/05/2026 - 29/05/2026 During your assigned applied class in Week 13.",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L03, L04",
+      "task_description": "You are required to attend an interview about your Assessment 2 submission during your allocated applied class in Week 13. Teaching staff will ask you questions about your submission to confirm genuine authorship and understanding of your submission without using AI or machine translation tools. In line with the UQ Assessment Policy, the interview will be recorded. Failure to attend will result in a failing grade for this assessment task. You must bring your student card. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "The oral interview will be conducted in applied classes during Week 13. Detailed instructions will be provided in the assignment sheet and via Blackboard announcements.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nIf you are unable to attend your allocated applied class, one reschedule is permitted. To apply for a reschedule, you need to apply for an extension via my.UQ.\nIf approved, students will need to attend the make-up session during the first week of exams. If the rescheduled session is missed, the assessment will be marked as a fail.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nConsistent with industry practice around presentations to clients/industry partners, no late submissions will be accepted and a 100% late penalty applies.\nThis has been approved by the Associate Dean (Academic)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "You are required to attend an interview about your Assessment 2 submission during your allocated applied class in Week 13. Teaching staff will ask you questions about your submission to confirm genuine authorship and understanding of your submission without using AI or machine translation tools. In line with the UQ Assessment Policy, the interview will be recorded. Failure to attend will result in a failing grade for this assessment task. You must bring your student card. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "This is a closed book and identity verified examination that is written on campus. The final exam is compulsory and aims to test the students' understanding of topics covered by the whole course. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This is a closed book and identity verified examination that is written on campus. The final exam is compulsory and aims to test the students' understanding of topics covered by the whole course. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.",
+    "blackboard": "Course materials will be provided via Blackboard, including recorded modules, weekly readings, worked examples, assessment information, submission links, and supporting resources.",
+    "online_materials": "Weekly notes and learning resources will be released on Blackboard. Learning activities are example-driven and aligned with the weekly readings to support the application of key concepts.",
+    "facilities": "Applied classes will be delivered in PC labs or standard classrooms. If your allocated session is in a classroom, you must bring a laptop to participate in hands-on activities. A tutor/demonstrator will be available to answer questions and assist with course activities, assessments, and technical issues accessing online materials. Information on student expectations and Occupational Health and Safety requirements for the use of computer labs is available in the EECS Student Guide .",
+    "handouts_and_solutions": "Assessment handouts, templates, and selected solutions or feedback materials (where applicable) will be made available through Blackboard.",
+    "notices_and_announcements": "All official announcements and important notices will be posted on Blackboard. Students are expected to check Blackboard regularly.",
+    "ed_discussion_forum": "This course will use Ed Discussion for Q&A and peer-to-peer discussion. Students are encouraged to post questions on Ed so answers can be shared with the whole class. Note that solutions, draft solutions, or partial solutions to any individual assessment task must not be posted or shared on any public forum or repository (including GitHub, Stack Overflow, Ed posts visible outside the course, social media, or similar platforms)."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (23 Feb - 31 May)",
+      "activity_type": "Lecture",
+      "topic": "Lecture Lectures present the core concepts and underpinning principles of the course and illustrate their application through selected worked examples. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (02 Mar - 31 May)",
+      "activity_type": "Applied Class",
+      "topic": "Applied Class Applied classes provide structured opportunities for students to practise and consolidate learning through activities such as guided exercises, problem-solving tasks, and facilitated discussion. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}
