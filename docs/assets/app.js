@@ -16,6 +16,7 @@ const STORE = {
 
 const DATA_PATHS = {
   manifest: "./assets/manifest.json",
+  manifestAll: "./assets/manifest-all.json",
   taxonomy: "./taxonomy/uqbs-programs.json",
   aol: "./taxonomy/aol-status.json",
 };
@@ -26,6 +27,14 @@ async function loadManifest() {
   if (!res.ok) throw new Error(`Could not load manifest: ${res.status}`);
   STORE.manifest = await res.json();
   return STORE.manifest;
+}
+
+async function loadManifestAll() {
+  if (STORE.manifestAll) return STORE.manifestAll;
+  const res = await fetch(DATA_PATHS.manifestAll, { cache: "no-cache" });
+  if (!res.ok) throw new Error(`Could not load full manifest: ${res.status}`);
+  STORE.manifestAll = await res.json();
+  return STORE.manifestAll;
 }
 
 async function loadTaxonomy() {
@@ -1761,9 +1770,150 @@ if (typeof document !== "undefined") {
   initColorMode();
 }
 
+// =========================================================================
+// Page: ALL-OF-UQ BROWSER (browse-all.html)
+// =========================================================================
+async function initAllBrowser() {
+  const $body = document.getElementById("courses-body");
+  const $count = document.getElementById("course-count");
+  const $meta = document.getElementById("meta-info");
+  try {
+    const manifest = await loadManifestAll();
+    const courses = getAllCourses(manifest);
+    STORE.allCourses = courses;
+    // No taxonomy or AoL for all-of-UQ view
+    STORE.taxonomy = null;
+    STORE.aol = null;
+    $meta.innerHTML = `<span>Scrape generated</span> <b>${escapeHtml(fmtDate(manifest.generated_at))}</b> <span>· ${manifest.total_profiles} profiles</span>`;
+
+    // Populate filter dropdowns
+    populateSelect("filter-level", uniqueSorted(courses.map(c => c.study_level)));
+    populateSelect("filter-mode", uniqueSorted(courses.map(c => c.attendance_mode)));
+    populateSelect("filter-location", uniqueSorted(courses.map(c => c.location)));
+    populateSelect("filter-school", uniqueSorted(courses.map(c => c.coordinating_unit)));
+
+    // Populate semester filter and default to most recent
+    const semCodes = uniqueSorted(courses.map(c => c.semester_code));
+    const semOpts = semCodes.map(code => {
+      const sample = courses.find(c => c.semester_code === code);
+      return { value: code, label: sample ? semesterLabel(sample) : code };
+    });
+    populateSelect("filter-semester", semOpts);
+    const $semFilter = document.getElementById("filter-semester");
+    if ($semFilter && semCodes.length) {
+      $semFilter.value = semCodes[semCodes.length - 1];
+    }
+
+    // Initial render
+    STORE.sort = { key: "course_code", dir: "asc" };
+    bindAllBrowserControls();
+    renderAllBrowser();
+  } catch (err) {
+    $body.innerHTML = `<tr><td colspan="8" class="error">Error loading data: ${escapeHtml(err.message)}</td></tr>`;
+    console.error(err);
+  }
+}
+
+function bindAllBrowserControls() {
+  for (const id of ["search", "filter-semester", "filter-level", "filter-mode", "filter-location", "filter-school"]) {
+    const el = document.getElementById(id);
+    if (el) el.addEventListener("input", renderAllBrowser);
+  }
+  document.querySelectorAll("table.courses th[data-sort]").forEach(th => {
+    th.addEventListener("click", () => {
+      const key = th.dataset.sort;
+      if (STORE.sort.key === key) {
+        STORE.sort.dir = STORE.sort.dir === "asc" ? "desc" : "asc";
+      } else {
+        STORE.sort = { key, dir: "asc" };
+      }
+      renderAllBrowser();
+    });
+  });
+  // CSV export
+  const $export = document.getElementById("export-csv");
+  if ($export) $export.addEventListener("click", exportAllFilteredAsCsv);
+  const $zipMd = document.getElementById("export-zip-md");
+  if ($zipMd) $zipMd.addEventListener("click", () => exportFilteredAsZip("md"));
+  const $zipJson = document.getElementById("export-zip-json");
+  if ($zipJson) $zipJson.addEventListener("click", () => exportFilteredAsZip("json"));
+}
+
+function applyAllFilters(courses) {
+  const q = (document.getElementById("search")?.value || "").trim().toLowerCase();
+  const sem = document.getElementById("filter-semester")?.value;
+  const level = document.getElementById("filter-level")?.value;
+  const mode = document.getElementById("filter-mode")?.value;
+  const loc = document.getElementById("filter-location")?.value;
+  const school = document.getElementById("filter-school")?.value;
+
+  return courses.filter(c => {
+    if (q) {
+      const hay = `${c.course_code} ${c.course_title || ""} ${c.coordinating_unit || ""}`.toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    if (sem && c.semester_code !== sem) return false;
+    if (level && c.study_level !== level) return false;
+    if (mode && c.attendance_mode !== mode) return false;
+    if (loc && c.location !== loc) return false;
+    if (school && c.coordinating_unit !== school) return false;
+    return true;
+  });
+}
+
+function renderAllBrowser() {
+  const $body = document.getElementById("courses-body");
+  const $count = document.getElementById("course-count");
+  const courses = applySort(applyAllFilters(STORE.allCourses || []));
+  $count.textContent = courses.length;
+
+  if (courses.length === 0) {
+    $body.innerHTML = `<tr><td colspan="8" class="empty">No courses match the current filters.</td></tr>`;
+    updateSortIndicators();
+    return;
+  }
+
+  const rows = courses.map(c => {
+    const levelClass = (c.study_level || "").toLowerCase().includes("post") ? "level-pill pg" : "level-pill";
+    const pfx = coursePrefix(c.course_code);
+    const codeCls = pfx ? `code prefix-${pfx}` : "code";
+    const semLabel = semesterLabel(c);
+    const school = c.coordinating_unit || "";
+    return `
+      <tr>
+        <td class="${codeCls}"><a href="course.html?file=${encodeURIComponent(c.file)}">${escapeHtml(c.course_code || "")}</a></td>
+        <td>${escapeHtml(c.course_title || "")}</td>
+        <td class="nowrap">${escapeHtml(semLabel)}</td>
+        <td><span class="${levelClass}">${escapeHtml(c.study_level || "")}</span></td>
+        <td>${escapeHtml(c.units || "")}</td>
+        <td>${escapeHtml(c.attendance_mode || "")}</td>
+        <td>${escapeHtml(c.location || "")}</td>
+        <td class="school-col">${escapeHtml(school)}</td>
+      </tr>`;
+  }).join("");
+  $body.innerHTML = rows;
+  updateSortIndicators();
+}
+
+function exportAllFilteredAsCsv() {
+  const courses = applySort(applyAllFilters(STORE.allCourses || []));
+  if (!courses.length) return;
+  const headers = ["course_code", "course_title", "semester_code", "study_level", "units", "attendance_mode", "location", "coordinating_unit"];
+  const csvRows = [headers.join(",")];
+  for (const c of courses) {
+    const row = headers.map(h => {
+      const v = c[h] ?? "";
+      return `"${String(v).replace(/"/g, '""')}"`;
+    });
+    csvRows.push(row.join(","));
+  }
+  downloadBlob(csvRows.join("\n"), "uq-all-courses.csv", "text/csv;charset=utf-8");
+}
+
 // Export to window so inline <script> hooks can call them
 window.UQBS = {
   initBrowser,
+  initAllBrowser,
   initCourseDetail,
   initProgram,
   initAol,

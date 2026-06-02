@@ -3,9 +3,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Course — UQBS Course Profile Viewer</title>
+  <title>Assurance of Learning — UQBS Course Profile Viewer</title>
   <link rel="stylesheet" href="./assets/styles.css">
   <script>
+    // Apply saved theme + colour mode before first paint to avoid FOUC
     (function () {
       try {
         var t = localStorage.getItem("uqbs-theme") || "classic";
@@ -27,7 +28,7 @@
       <a href="index.html">UQBS</a>
       <a href="browse-all.html">All UQ</a>
       <a href="program.html">Programs</a>
-      <a href="aol.html">AoL</a>
+      <a href="aol.html" class="active">AoL</a>
       <a href="https://github.com/uqsmitc6/uqbs-course-profiles" target="_blank" rel="noopener">Repository ↗</a>
       <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch theme"
               title="Switch between Classic and Fun themes">
@@ -42,18 +43,15 @@
     </nav>
   </header>
 
-  <main>
-    <p style="margin-top:0"><a href="index.html" class="small">← Back to course browser</a></p>
-    <div id="course-root">
-      <div class="loading">Loading course profile…</div>
-    </div>
+  <main id="aol-root">
+    <div class="loading">Loading AoL data…</div>
   </main>
 
   <footer class="site">
-    UQBS Course Profile Viewer
+    UQBS Course Profile Viewer · Assurance of Learning Dashboard · Data maintained via taxonomy/aol-template.csv
   </footer>
 
   <script src="./assets/app.js"></script>
-  <script>window.UQBS.initCourseDetail();</script>
+  <script>window.UQBS.initAol();</script>
 </body>
 </html>
