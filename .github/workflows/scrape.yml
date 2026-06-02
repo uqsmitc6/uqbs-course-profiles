@@ -1,7 +1,8 @@
-name: UQBS Course Profile Scrape
+name: UQ Course Profile Scrape
 
 on:
   # Weekly schedule: every Sunday at 9pm AEST (11:00 UTC)
+  # Scheduled runs are UQBS-only (safe default — does not affect all-of-UQ data)
   schedule:
     - cron: '0 11 * * 0'
 
@@ -13,13 +14,18 @@ on:
         required: false
         type: string
       courses:
-        description: 'Specific course codes (space-separated, e.g. MGTS1601 ACCT1101). Leave blank for all UQBS.'
+        description: 'Specific course codes (space-separated, e.g. MGTS1601 ACCT1101). Leave blank for all.'
         required: false
         type: string
       max_courses:
         description: 'Max courses to scrape (for testing). Leave blank for all.'
         required: false
         type: string
+      all_uq:
+        description: 'Scrape all of UQ (not just UQBS). Uses JacSON index as course list.'
+        required: false
+        type: boolean
+        default: false
 
 # Grant write permission so the workflow can push commits
 permissions:
@@ -57,6 +63,9 @@ jobs:
           if [ -n "${{ inputs.max_courses }}" ]; then
             ARGS="$ARGS --max ${{ inputs.max_courses }}"
           fi
+          if [ "${{ inputs.all_uq }}" = "true" ]; then
+            ARGS="$ARGS --all-uq"
+          fi
           python scraper/scrape.py $ARGS
 
       - name: Rebuild site manifest
@@ -68,15 +77,24 @@ jobs:
             echo "No profiles — skipping manifest regen"
           fi
 
+      - name: Rebuild AoL overlay
+        if: always()
+        run: |
+          if [ -f "taxonomy/aol-template.csv" ]; then
+            python scraper/import_aol.py
+          else
+            echo "No AoL CSV — skipping"
+          fi
+
       - name: Commit and push updated profiles
         if: always()
         run: |
-          git config user.name "UQBS Scraper Bot"
-          git config user.email "uqbs-scraper[bot]@users.noreply.github.com"
+          git config user.name "UQ Scraper Bot"
+          git config user.email "uq-scraper[bot]@users.noreply.github.com"
 
           # Only add profiles if the directory has content
           if [ -d "profiles" ] && [ "$(find profiles/ -name '*.json' 2>/dev/null)" ]; then
-            git add profiles/ docs/assets/manifest.json
+            git add profiles/ docs/assets/manifest.json docs/assets/manifest-all.json taxonomy/ docs/taxonomy/
             if git diff --cached --quiet; then
               echo "No changes to commit"
             else

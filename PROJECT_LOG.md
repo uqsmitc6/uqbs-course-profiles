@@ -1,6 +1,6 @@
 # Project Log — UQBS Course Profile Scraper
 
-> **Last updated:** 2026-04-15 — AoL (Assurance of Learning) integration complete: overlay data architecture, CSV import pipeline, viewer integration across all pages, dedicated AoL dashboard
+> **Last updated:** 2026-06-02 — All-of-UQ expansion: --all-uq flag, dual manifests (UQBS viewer unaffected), adjustable --delay, ready for historical backfill
 > **Project:** UQBS Course Profile Viewer and Learning Design Intelligence Platform
 > **Tech stack:** Python 3 / BeautifulSoup / requests / GitHub Actions / GitHub Pages
 > **Repository:** [uqsmitc6/uqbs-course-profiles](https://github.com/uqsmitc6/uqbs-course-profiles)
@@ -55,6 +55,9 @@ The scraper is built, tested, and **production-ready**. It extracts a comprehens
 | 19 | TODO | **Visual redesign** — more colourful Classic mode + radical Fun mode overhaul | 2026-04-15 | Low | Separate project, partially underway |
 | 20 | TODO | **Scrape automation audit** — confirm weekly cron is running, review what Sean needs to do manually | 2026-04-15 | Med | See "Scrape Automation Status" section |
 | 21 | TODO | **Scrape history / change tracking** — decide on approach for maintaining profile history | 2026-04-15 | Med | See "Scrape History" section |
+| 22 | DONE | ~~**All-of-UQ scraper expansion** — --all-uq flag, dual manifests, --delay flag~~ | 2026-06-02 | — | Shipped in Session 9 |
+| 23 | TODO | **Backfill historical semesters** — run --all-uq locally for semesters 7450–7620 | 2026-06-02 | Med | ~30 min per semester on Mac; see Session 9 for instructions |
+| 24 | TODO | **Switch weekly cron to all-of-UQ** — once backfill is verified, update cron default | 2026-06-02 | Med | Currently cron stays UQBS-only for safety |
 
 ---
 
@@ -155,6 +158,66 @@ The team needs to be able to update this data easily — not one course at a tim
 ---
 
 ## Session History
+
+### Session 9 — 2026-06-02 — All-of-UQ scraper expansion
+
+**Focus:** Expand the scraper from UQBS-only (323 courses) to all of UQ (~1,900 courses per semester) while keeping the live UQBS viewer completely unaffected. Driven by ATLAS, a separate TIG-funded project that uses this scraper's JSON as its data spine and needs profiles for non-UQBS courses.
+
+**Design principle — keep 'em separated:**
+- The UQBS viewer (`manifest.json`) is never affected by all-of-UQ data
+- Default scraper behaviour (no flags) remains UQBS-only
+- All-of-UQ is opt-in via `--all-uq` flag
+- Two manifests: `manifest.json` (UQBS-filtered) and `manifest-all.json` (everything)
+- ATLAS reads `manifest-all.json`; the UQBS viewer reads `manifest.json`
+
+**Changes to `scraper/scrape.py`:**
+- Added `--all-uq` flag: bypasses UQBS taxonomy, uses full JacSON repo index as course list
+- Added `--delay` / `-d` flag: adjustable request spacing (default 1.0s, minimum 0.2s) for faster historical backfills
+- `load_all_uq_course_list()`: new function that pulls all course codes from JacSON index, optionally filtered to a specific semester
+- `main()` accepts `all_uq` and `delay` parameters
+- Pre-fetches JacSON index before course list loading (needed for both discovery and all-of-UQ enumeration)
+
+**Changes to `scraper/build_manifest.py`:**
+- Now produces two manifests from a single scan of `profiles/`
+- `manifest.json`: filtered to courses in `taxonomy/uqbs-programs.json` (831 UQBS profiles)
+- `manifest-all.json`: all profiles (838 currently, will grow to ~1,900+ per semester after backfill)
+- Falls back gracefully if taxonomy file is missing
+
+**Changes to `.github/workflows/scrape.yml`:**
+- Added `all_uq` boolean input for manual workflow dispatch
+- Scheduled cron stays UQBS-only (safe default)
+- Commits now include `manifest-all.json`
+
+**Verification:**
+- Both Python files pass syntax check
+- Manifest builder tested: 831 UQBS / 838 all-of-UQ (7 non-taxonomy courses correctly excluded from UQBS manifest)
+- JacSON repo confirmed active (13,621 commits, updated 5 hours ago) with ~1,908 files in semester 7620
+
+**Historical backfill instructions (run on Mac):**
+```bash
+cd /Users/uqsmitc6_local/Documents/GitHub/uqbs-course-profiles
+
+# Test with a small batch first
+python scraper/scrape.py --all-uq --semester 7620 --max 10
+
+# Then do each semester (oldest to newest), ~30 min each at default delay
+python scraper/scrape.py --all-uq --semester 7450
+git add profiles/ && git commit -m "Backfill: semester 7450 (all-of-UQ)"
+git push
+
+# Repeat for 7460, 7480, 7490, 7520, 7560, 7580, 7590, 7620, 7660
+# Use --delay 0.5 to halve the time for historical (static) semesters
+```
+
+**ATLAS connection:** ATLAS is a TIG-funded platform helping academics redesign assessments for the AI era. It consumes this scraper's JSON as its data spine. The first ATLAS component is a course visualiser with Bloom's/SOLO analysis, assessment security classification, and constructive alignment checks. ATLAS gates UQBS-specific features (GA, AoL) by `coordinating_unit` field — the scraper just provides faithful data for all courses.
+
+**Scale confirmed from JacSON repo:**
+- Semester 7620: ~1,908 profile files (GitHub truncated listing at 1,000 + 908 omitted)
+- 11 semester folders: 7450, 7460, 7480, 7490, 7520, 7560, 7580, 7590, 7620, 7660
+- Course prefixes span all faculties: ABTS, ACCT, ADPS, AERO, AGRC, MINE, etc.
+- Non-UQBS profiles use identical HTML structure (same course-profiles.uq.edu.au template)
+
+---
 
 ### Session 8 — 2026-04-15 — Assurance of Learning (AoL) integration
 

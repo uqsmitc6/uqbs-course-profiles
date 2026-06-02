@@ -39,7 +39,8 @@ JACSON_REPO_OWNER = "uq-course-profiles"
 JACSON_REPO_NAME = "jacson"
 GITHUB_TREE_API = "https://api.github.com/repos/{owner}/{repo}/git/trees/{branch}?recursive=1"
 
-REQUEST_DELAY = 1.0  # seconds between requests (be polite to UQ servers)
+DEFAULT_REQUEST_DELAY = 1.0  # seconds between requests (be polite to UQ servers)
+REQUEST_DELAY = DEFAULT_REQUEST_DELAY
 REQUEST_TIMEOUT = 30  # seconds
 
 # Resolve paths relative to this script's location
@@ -81,6 +82,29 @@ def load_course_list() -> list[str]:
 
     courses = sorted(taxonomy.get("course_programs", {}).keys())
     log.info(f"Loaded {len(courses)} UQBS courses from taxonomy")
+    return courses
+
+
+def load_all_uq_course_list(semester_filter: str | None = None) -> list[str]:
+    """Load all UQ course codes from the JacSON GitHub repo index.
+
+    When semester_filter is given, only returns courses that have profiles
+    in that semester (avoids scraping courses that don't exist for a given
+    semester).
+    """
+    index = _fetch_repo_index()
+    if semester_filter:
+        courses = sorted(
+            code for code, entries in index.items()
+            if any(e["semester"] == semester_filter for e in entries)
+        )
+        log.info(
+            f"Loaded {len(courses)} all-of-UQ courses from JacSON index "
+            f"(filtered to semester {semester_filter})"
+        )
+    else:
+        courses = sorted(index.keys())
+        log.info(f"Loaded {len(courses)} all-of-UQ courses from JacSON index")
     return courses
 
 
@@ -1073,6 +1097,8 @@ def main(
     semester_filter: str | None = None,
     course_filter: list[str] | None = None,
     max_courses: int | None = None,
+    all_uq: bool = False,
+    delay: float | None = None,
 ):
     """
     Main entry point.
@@ -1082,13 +1108,27 @@ def main(
         course_filter: Only scrape these specific course codes
         max_courses: Limit the number of courses to scrape (useful for testing)
     """
+    # Apply custom delay if specified
+    global REQUEST_DELAY
+    if delay is not None:
+        REQUEST_DELAY = max(0.2, delay)  # floor at 0.2s to stay polite
+
+    mode_label = "All-of-UQ" if all_uq else "UQBS"
     log.info("=" * 60)
-    log.info("UQBS Course Profile Scraper")
+    log.info(f"UQ Course Profile Scraper ({mode_label})")
     log.info(f"Started at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    log.info(f"Request delay: {REQUEST_DELAY}s")
     log.info("=" * 60)
 
+    # Pre-fetch the JacSON repo index (single GitHub API call) — needed
+    # both for URL discovery and for all-of-UQ course list
+    _fetch_repo_index()
+
     # Load course list
-    all_courses = load_course_list()
+    if all_uq:
+        all_courses = load_all_uq_course_list(semester_filter)
+    else:
+        all_courses = load_course_list()
 
     # Apply filters
     if course_filter:
@@ -1106,9 +1146,6 @@ def main(
 
     log.info(f"Scraping {len(courses)} course(s)...")
     log.info("-" * 60)
-
-    # Pre-fetch the JacSON repo index (single GitHub API call)
-    _fetch_repo_index()
 
     # Scrape
     results = {
@@ -1154,7 +1191,7 @@ def main(
 if __name__ == "__main__":
     import argparse
 
-    parser = argparse.ArgumentParser(description="UQBS Course Profile Scraper")
+    parser = argparse.ArgumentParser(description="UQ Course Profile Scraper")
     parser.add_argument(
         "--semester", "-s",
         help="Only scrape profiles for this semester code (e.g. 7620)",
@@ -1169,10 +1206,25 @@ if __name__ == "__main__":
         type=int,
         help="Maximum number of courses to scrape (useful for testing)",
     )
+    parser.add_argument(
+        "--all-uq",
+        action="store_true",
+        default=False,
+        help="Scrape all UQ courses (not just UQBS). Uses JacSON repo index "
+             "as course list instead of the UQBS taxonomy.",
+    )
+    parser.add_argument(
+        "--delay", "-d",
+        type=float,
+        default=None,
+        help="Seconds between requests (default: 1.0). Minimum 0.2.",
+    )
     args = parser.parse_args()
 
     main(
         semester_filter=args.semester,
         course_filter=args.courses,
         max_courses=args.max,
+        all_uq=args.all_uq,
+        delay=args.delay,
     )

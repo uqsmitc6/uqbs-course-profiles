@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
-"""Build a lean manifest of all scraped course profiles.
+"""Build lean manifests of scraped course profiles.
 
 Scans profiles/{semester_code}/*.json and writes:
-  docs/assets/manifest.json
+  docs/assets/manifest.json      — UQBS courses only (filtered by taxonomy)
+  docs/assets/manifest-all.json  — all courses (entire profiles/ directory)
 
-The manifest lets the visualiser render the course browser without
-fetching every individual JSON. Each entry contains only the summary
-fields needed for the table view; detail pages fetch the full JSON
-on demand.
+The UQBS manifest powers the live viewer at uqsmitc6.github.io and is never
+affected by all-of-UQ scrapes. The full manifest is consumed by ATLAS and
+other downstream tools that need the complete dataset.
 
 Usage:
   python scraper/build_manifest.py
@@ -25,6 +25,8 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 PROFILES_DIR = REPO_ROOT / "profiles"
 DOCS_DIR = REPO_ROOT / "docs"
 MANIFEST_PATH = DOCS_DIR / "assets" / "manifest.json"
+MANIFEST_ALL_PATH = DOCS_DIR / "assets" / "manifest-all.json"
+TAXONOMY_PATH = REPO_ROOT / "taxonomy" / "uqbs-programs.json"
 
 
 def _summary_fields(data: dict, relative_path: str) -> dict:
@@ -49,18 +51,30 @@ def _summary_fields(data: dict, relative_path: str) -> dict:
     }
 
 
-def build_manifest() -> dict:
+def _load_uqbs_course_codes() -> set[str] | None:
+    """Load UQBS course codes from taxonomy. Returns None if file missing."""
+    if not TAXONOMY_PATH.exists():
+        print(
+            f"warn: taxonomy not found at {TAXONOMY_PATH}; "
+            "UQBS-filtered manifest will include all courses",
+            file=sys.stderr,
+        )
+        return None
+    with open(TAXONOMY_PATH, encoding="utf-8") as f:
+        taxonomy = json.load(f)
+    return set(taxonomy.get("course_programs", {}).keys())
+
+
+def _scan_all_profiles() -> list[tuple[str, dict]]:
+    """Scan profiles/ and return (relative_path, summary_fields) pairs."""
     if not PROFILES_DIR.exists():
         raise SystemExit(f"profiles directory not found: {PROFILES_DIR}")
 
-    semesters: dict[str, list] = {}
-    total = 0
-
+    all_entries = []
     for semester_dir in sorted(PROFILES_DIR.iterdir()):
         if not semester_dir.is_dir():
             continue
         sem_code = semester_dir.name
-        entries = []
         for jf in sorted(semester_dir.glob("*.json")):
             try:
                 with jf.open() as f:
@@ -69,28 +83,55 @@ def build_manifest() -> dict:
                 print(f"warn: skipping {jf.name}: {exc}", file=sys.stderr)
                 continue
             rel = f"profiles/{sem_code}/{jf.name}"
-            entries.append(_summary_fields(data, rel))
-        semesters[sem_code] = entries
-        total += len(entries)
+            all_entries.append((rel, _summary_fields(data, rel)))
+    return all_entries
 
-    manifest = {
+
+def _build_manifest(entries: list[tuple[str, dict]]) -> dict:
+    """Group entries by semester and build the manifest dict."""
+    semesters: dict[str, list] = {}
+    for _rel, summary in entries:
+        sem = summary.get("semester_code") or "unknown"
+        semesters.setdefault(sem, []).append(summary)
+    total = sum(len(v) for v in semesters.values())
+    return {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "total_profiles": total,
         "semesters": semesters,
     }
-    return manifest
+
+
+def _write_manifest(manifest: dict, path: Path, label: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w") as f:
+        json.dump(manifest, f, indent=2)
+    print(
+        f"Wrote {path.relative_to(REPO_ROOT)} "
+        f"({manifest['total_profiles']} {label} profiles across "
+        f"{len(manifest['semesters'])} semester(s))"
+    )
 
 
 def main() -> None:
-    manifest = build_manifest()
-    MANIFEST_PATH.parent.mkdir(parents=True, exist_ok=True)
-    with MANIFEST_PATH.open("w") as f:
-        json.dump(manifest, f, indent=2)
-    print(
-        f"Wrote {MANIFEST_PATH.relative_to(REPO_ROOT)} "
-        f"({manifest['total_profiles']} profiles across "
-        f"{len(manifest['semesters'])} semester(s))"
-    )
+    # Scan all profiles once
+    all_entries = _scan_all_profiles()
+
+    # Build and write the full manifest (all-of-UQ)
+    full_manifest = _build_manifest(all_entries)
+    _write_manifest(full_manifest, MANIFEST_ALL_PATH, "all-of-UQ")
+
+    # Build and write the UQBS-filtered manifest
+    uqbs_codes = _load_uqbs_course_codes()
+    if uqbs_codes is not None:
+        uqbs_entries = [
+            (rel, s) for rel, s in all_entries
+            if s.get("course_code") in uqbs_codes
+        ]
+    else:
+        uqbs_entries = all_entries  # fallback: include everything
+
+    uqbs_manifest = _build_manifest(uqbs_entries)
+    _write_manifest(uqbs_manifest, MANIFEST_PATH, "UQBS")
 
 
 if __name__ == "__main__":
