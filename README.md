@@ -1,16 +1,16 @@
-# UQBS Course Profile Scraper + Viewer
+# UQ Course Profile Scraper + Viewer
 
-Enriched course profile scraper and static-site viewer for UQ Business School courses. Captures a comprehensive data set from published UQ course profiles for use in learning design, Graduate Attribute mapping, and Assurance of Learning reporting.
+Enriched course profile scraper and static-site viewer, originally built for UQ Business School and now supporting all of UQ. Captures a comprehensive data set from published UQ course profiles for use in learning design, Graduate Attribute mapping, and Assurance of Learning reporting.
 
-Built on the [JacSON](https://github.com/uq-course-profiles/jacson) architecture by Geoff, extended for UQBS-specific needs.
+Built on the [JacSON](https://github.com/uq-course-profiles/jacson) architecture by Geoff, extended with enriched fields and a UQBS-specific intelligence layer.
 
 **Components:**
 
-- `scraper/` — Python scraper that produces enriched JSON per course
+- `scraper/` — Python scraper that produces enriched JSON per course (UQBS or all-of-UQ)
 - `docs/` — Static-site viewer (vanilla HTML + JS, no build step) served via GitHub Pages
-- `taxonomy/` — UQBS program/course taxonomy driving both the scraper and the viewer
+- `taxonomy/` — UQBS program/course taxonomy, AoL overlay data, and other internal data layers
 
-**Runs automatically:** The scrape workflow runs weekly on GitHub Actions. New JSONs are committed to the repo and the viewer redeploys within a minute.
+**Runs automatically:** The scrape workflow runs weekly on GitHub Actions (UQBS by default). All-of-UQ scrapes available via manual dispatch or local runs.
 
 ## What it captures
 
@@ -49,7 +49,9 @@ The scraper pulls data from two UQ domains:
 
 ## Course list
 
-The scraper uses `taxonomy/uqbs-programs.json` as its source of truth for which courses to scrape. This taxonomy contains 308 UQBS courses across 14 programs (both UG and PG), extracted from the UQBS GA Mapping spreadsheet.
+**UQBS mode (default):** Uses `taxonomy/uqbs-programs.json` as its source of truth — 323 courses across 23 programmes (7 UG + 15 PG), verified against my.UQ structured data.
+
+**All-of-UQ mode (`--all-uq`):** Uses the JacSON GitHub repo index to discover all UQ courses — approximately 1,750 courses per semester across all faculties.
 
 ## Quick start
 
@@ -60,14 +62,20 @@ pip3 install -r scraper/requirements.txt
 # Test with a single course
 python3 scraper/scrape.py --courses MGTS1601
 
-# Scrape a specific semester only
+# Scrape a specific semester (UQBS only)
 python3 scraper/scrape.py --semester 7620
 
 # Scrape first 10 courses (for testing)
 python3 scraper/scrape.py --max 10
 
-# Full scrape (all 308 UQBS courses)
+# Full UQBS scrape (all 323 courses)
 python3 scraper/scrape.py
+
+# All-of-UQ scrape for a specific semester
+python3 scraper/scrape.py --all-uq --semester 7620
+
+# All-of-UQ with faster delay (for historical/static semesters)
+python3 scraper/scrape.py --all-uq --semester 7520 --delay 0.5
 
 # Using the runner script (with optional git push)
 ./run_scrape.sh --courses MGTS1601 ACCT1101
@@ -96,13 +104,17 @@ profiles/
 
 ## Viewer (GitHub Pages)
 
-The `docs/` folder is a vanilla HTML/JS static site that renders the scraped data. Three pages:
+The `docs/` folder is a vanilla HTML/JS static site that renders the scraped data:
 
-- `index.html` — Searchable/filterable course browser (by program, level, mode, location)
-- `course.html?file=…` — Per-course detail view showing every scraped field
-- `program.html?program=…` — Program/major navigation with course lists pulled from the taxonomy
+- `index.html` — UQBS course browser (by programme, level, mode, location, with AoL status)
+- `browse-all.html` — All-of-UQ course browser (by school/faculty, level, mode, location)
+- `course.html?file=…` — Per-course detail view showing every scraped field (works for any course)
+- `program.html?program=…` — UQBS programme/major navigation with course lists from the taxonomy
+- `aol.html` — Assurance of Learning dashboard
 
-**Deployment:** The `.github/workflows/pages.yml` workflow rebuilds the site whenever `profiles/`, `taxonomy/`, or `docs/` change. It regenerates the lean manifest (`docs/assets/manifest.json`), stages `profiles/` and `taxonomy/` into `docs/`, and deploys to GitHub Pages. You'll need to enable Pages in the repo settings ("Build and deployment" → Source: "GitHub Actions").
+The UQBS viewer reads `manifest.json` (UQBS courses only). The All UQ viewer reads `manifest-all.json` (everything). This separation means the UQBS viewer is never affected by all-of-UQ data.
+
+**Deployment:** The `.github/workflows/pages.yml` workflow rebuilds the site whenever `profiles/`, `taxonomy/`, or `docs/` change. It regenerates both manifests, stages `profiles/` and `taxonomy/` into `docs/`, and deploys to GitHub Pages. You'll need to enable Pages in the repo settings ("Build and deployment" → Source: "GitHub Actions").
 
 **Local dev:**
 
@@ -114,17 +126,26 @@ The `docs/` folder is a vanilla HTML/JS static site that renders the scraped dat
 The manifest generator can be run independently:
 
 ```bash
-python3 scraper/build_manifest.py   # writes docs/assets/manifest.json
+python3 scraper/build_manifest.py   # writes both manifest.json and manifest-all.json
 ```
 
 ## Semester codes
 
 | Code | Semester |
 |------|----------|
+| 7420 | Semester 1, 2024 |
+| 7450 | Summer, 2024 |
+| 7460 | Semester 2, 2024 |
+| 7480 | Summer, 2024/25 |
+| 7490 | Trimester 3, 2024 |
+| 7520 | Semester 1, 2025 |
+| 7560 | Semester 2, 2025 |
+| 7580 | Summer, 2025/26 |
+| 7590 | Trimester 3, 2025 |
 | 7620 | Semester 1, 2026 |
 | 7660 | Semester 2, 2026 |
 
-Pattern: digit 0 = decade base (7 for 2020s), digit 1 = year offset from 2020, digit 2 = term (2=Sem1, 6=Sem2), digit 3 = sub-term (0).
+Pattern: first two digits encode the year (7 = 2020s decade, second digit = year offset), third digit encodes the term (2 = Sem 1, 5/6 = Sem 2, 8 = Summer, 9 = Tri 3), fourth digit is sub-term (usually 0).
 
 ## Dependencies
 

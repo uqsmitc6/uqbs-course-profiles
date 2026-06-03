@@ -61,6 +61,9 @@ The scraper is built, tested, and **production-ready**. It extracts a comprehens
 | 22 | DONE | ~~**All-of-UQ scraper expansion** — --all-uq flag, dual manifests, --delay flag~~ | 2026-06-02 | — | Shipped in Session 9 |
 | 23 | TODO | **Backfill historical semesters** — run --all-uq locally for semesters 7450–7620 | 2026-06-02 | Med | ~30 min per semester on Mac; see Session 9 for instructions |
 | 24 | TODO | **Switch weekly cron to all-of-UQ** — once backfill is verified, update cron default | 2026-06-02 | Med | Currently cron stays UQBS-only for safety |
+| 25 | DONE | ~~**All-of-UQ browser page** — browse-all.html with school filter~~ | 2026-06-02 | — | Shipped in Session 9 |
+| 26 | TODO | **LO-to-assessment override system** — manual CSV overrides for courses where Drupal doesn't render the mapping | 2026-06-02 | High | 30 UQBS courses affected; see Session 9 audit |
+| 27 | TODO | **Backfill remaining semesters** — 7450, 7460, 7480, 7490, 7520, 7560, 7580, 7590, 7660 | 2026-06-02 | Med | ~15 min each on Mac with --delay 0.5 |
 
 ---
 
@@ -219,6 +222,21 @@ git push
 - 11 semester folders: 7450, 7460, 7480, 7490, 7520, 7560, 7580, 7590, 7620, 7660
 - Course prefixes span all faculties: ABTS, ACCT, ADPS, AERO, AGRC, MINE, etc.
 - Non-UQBS profiles use identical HTML structure (same course-profiles.uq.edu.au template)
+
+**Backfill executed:** Semester 7620 backfilled locally on Sean's Mac — 1,750 courses, 1,906 profiles scraped (1 failure), pushed to repo.
+
+**All-of-UQ browser page (`docs/browse-all.html`):**
+- Separate page reading `manifest-all.json`, with School/Faculty filter instead of Programme/AoL columns
+- Same search, sort, semester filter, level/mode/location filters, CSV/ZIP exports
+- Nav links updated across all pages: "Courses" renamed to "UQBS", new "All UQ" link added
+- `initAllBrowser()`, `renderAllBrowser()`, `applyAllFilters()`, `exportAllFilteredAsCsv()` added to app.js
+
+**LO-to-assessment mapping audit:**
+- Investigated BISM2207 — Drupal bug confirmed. The LO-to-assessment mapping data exists in curriculum documents but Drupal doesn't render it in the published ECP HTML. No hidden data in the DOM.
+- Audited all 202 UQBS profiles in semester 7620: 167 have LO mapping (83%), 35 are missing it
+- 30 of the 35 missing are Business School courses (see list below)
+- Proposed solution: manual override CSV in `taxonomy/lo-overrides.csv`, same overlay pattern as AoL. Scraper never touches it. Viewer merges at runtime — scraped data takes precedence, override fills gaps.
+- Courses missing LO-assessment mapping: ACCT3101, ACCT7106, BISM2207, BISM2208, BISM3208, BISM7807, EVNT7052, FINM7407, FINM7805, HOSP2005, HOSP7052, IBUS2301, IBUS2302, IBUS3306, IBUS7302, IBUS7306, IBUS7312, MGTS3601, MGTS3609, MGTS7309, MGTS7619, MGTS7803, MGTS7810, MGTS7820, MKTG7503, MKTG7510, TIMS7317, TOUR7020, TOUR7023, TOUR7032
 
 ---
 
