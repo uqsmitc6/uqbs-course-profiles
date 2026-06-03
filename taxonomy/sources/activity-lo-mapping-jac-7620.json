@@ -1,0 +1,7225 @@
+{
+  "_metadata": {
+    "description": "UQBS learning-activity-to-LO mapping, extracted from Jac (curriculum.uq.edu.au) for the 43 courses affected by the published-ECP LO-mapping bug. Captured alongside the assessment overrides. Not currently consumed by the viewer — kept for a possible future activity overlay. Re-generate with scraper/jac_extract.js.",
+    "semester": "Semester 1 2026 (code 7620 / fromYYYYSS 202601)",
+    "extracted": "2026-06-03",
+    "source": "Jac API: get-resources -> curriculums/v2/{cvid}/components (second mapping matrix)",
+    "courses": 43,
+    "note": "Each course also carries cvid/classId (the Jac instance the data came from). For multi-offering courses only the first Published instance is captured here."
+  },
+  "courses": {
+    "ACCT3101": {
+      "cvid": 152280,
+      "classId": 76707,
+      "assess": [
+        {
+          "title": "In-Semester Exam",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Group Assignment - Case Study: Audit Planning and Testing",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Final Exam (closed book invigilated exam)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Topic 1: Introduction and Audit Objectives",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Tutorial 1: Introduction and Audit Objectives",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Topic 2: Audit Risk Model and Audit Evidence",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Tutorial 2: Audit Risk Model and Audit Evidence",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 3: Audit Planning, Materiality and Risk",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Tutorial 3: Audit Planning, Materiality and Risk",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 4: Internal Control, Control Risk and Fraud",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Tutorial 4: Internal Control, Control Risk and Fraud",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 5: Tests of Controls and Substantive Tests 1",
+          "los": [
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Tutorial 5: Tests of Controls and Substantive Tests 1",
+          "los": [
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 6: Audit Sampling",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Assignment Workshop",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Assignment Drop-in Q&A",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Tutorial 6: Audit Sampling",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 7: Tests of Controls and Substantive Tests 2",
+          "los": [
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Tutorial 7: Tests of Controls and Substantive Tests 2",
+          "los": [
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 8: Tests of Controls and Substantive Tests 3",
+          "los": [
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Tutorial 8: Tests of Controls and Substantive Tests 3",
+          "los": [
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 9: Audit Reports",
+          "los": [
+            "LO1",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 9: Audit Reports",
+          "los": [
+            "LO1",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Topic 10: Completing the Audit",
+          "los": [
+            "LO1",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 10: Completing the Audit",
+          "los": [
+            "LO1",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Topic 11: Ethics, Auditor Legal liabilities",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 11: Ethics; Auditor Legal Liabilities",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Revision",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5",
+            "LO6"
+          ]
+        }
+      ]
+    },
+    "ACCT7106": {
+      "cvid": 152532,
+      "classId": 77509,
+      "assess": [
+        {
+          "title": "Financial Statement Analysis Project - Part 1",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Financial Statement Analysis Project - Part 2",
+          "los": [
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Financial Statement Analysis Project - Part 3",
+          "los": [
+            "LO5"
+          ]
+        },
+        {
+          "title": "Final Examination",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Lecture 1 - Introduction",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Workshop 1 - Introduction",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Lecture 2 - Accounting Reformulation I",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Workshop 2 - Accounting Reformulation I",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Lecture 3 - Accounting Reformulation II",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Workshop 3 - Accounting Reformulation II",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Lecture 4 - Accounting Reformulation III",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Workshop 4 - Accounting Reformulation III",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Lecture 5 - Ratio Analysis",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "Workshop 5 - Ratio Analysis",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "Lecture 6 - Valuation & Forecasting I",
+          "los": [
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Workshop 6 - Valuation & Forecasting I",
+          "los": [
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Lecture 7 - Valuation & Forecasting II",
+          "los": [
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Workshop 7 - Valuation & Forecasting II",
+          "los": [
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Lecture 8 - Valuation & Forecasting III",
+          "los": [
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Workshop 8 - Valuation & Forecasting III",
+          "los": [
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Lecture 9 - Accounting Quality I",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "Workshop 9 - Accounting Quality I",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "Lecture 10 - Accounting Quality II",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "Workshop 10 - Accounting Quality II",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "Lecture 11 - Accounting Quality III",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "Group Presentations I",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Lecture 12 - Advanced Topics",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Lecture 13 - Summary and Revision",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Group Presentations II",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ]
+    },
+    "BISM2207": {
+      "cvid": 152549,
+      "classId": 76829,
+      "assess": [
+        {
+          "title": "Online Quiz",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "System Development",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Final Exam",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Course Overview and Intro to DBMS",
+          "los": [
+            "LO1",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Entity-Relationship Model",
+          "los": [
+            "LO1",
+            "LO4"
+          ]
+        },
+        {
+          "title": "T1: Data & Infomration and SQL prep",
+          "los": [
+            "LO1",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Relational Model",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "T2: Entity-Relationship Model",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Database Design and Structured Query Language (I)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "T3: Relational Model",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Structured Query Language (II)",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "T4: SQL Exercises",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "In-Semester Quiz",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "T5: SQL Exercises",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Normalisation",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "T6: SQL Exercises",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Data Quality and Cleaning, and Presentation Skills",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "T7:  Normalisation Exercises",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Guest Lecture",
+          "los": [
+            "LO1",
+            "LO4"
+          ]
+        },
+        {
+          "title": "T8:  Assignment Iteration feedback and Data cleaning",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Transaction Management",
+          "los": [
+            "LO1",
+            "LO4"
+          ]
+        },
+        {
+          "title": "T9: Team project",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Database Security and Control",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "T10: Database security and team project",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Distributed Database Management Systems",
+          "los": [
+            "LO1",
+            "LO4"
+          ]
+        },
+        {
+          "title": "T11: Team Project",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Big Data and Intelligence Technologies",
+          "los": [
+            "LO1",
+            "LO4"
+          ]
+        },
+        {
+          "title": "T12: Q&A and Exam Practice",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        }
+      ]
+    },
+    "BISM2208": {
+      "cvid": 141643,
+      "classId": 76934,
+      "assess": [
+        {
+          "title": "In-Semester Exam",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Project Brief",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Project Management Plan and Presentation",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Introduction to Project Management",
+          "los": [
+            "LO1",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "The Information Systems Context",
+          "los": [
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Project Management Process Groups",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Project Integration Management",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Project Scope Management",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Project Scope Management (cont.)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Project Schedule Management and In-Semester Exam",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Project Risk Management",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Project Cost and Quality Management",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Project Resource Management",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Project Procurement Management",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Project Closure",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Course Review",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ]
+    },
+    "BISM3208": {
+      "cvid": 152550,
+      "classId": 77796,
+      "assess": [
+        {
+          "title": "Emerging Technology: Team presentation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Established Technology: Individual presentation",
+          "los": [
+            "LO1",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Digital Transformation Hackathon - Pitch Presentation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Learning Reflection and Individual Progress Report",
+          "los": [
+            "LO2",
+            "LO4",
+            "LO6"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Introduction to Course and Assessment",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Theories of Innovation",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Theories of Technological Competition",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Theories of Adoption",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Digital Transformation and Ethics",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "The Innovation Ecosystem",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "In-Semester break",
+          "los": []
+        },
+        {
+          "title": "Business Models",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Digital Transformation Hackathon - Pt. 1",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Digital Transformation Hackathon - Pt.2",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Digital Transformation Hackathon - Pt.3",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Digital Transformation Hackathon - Pt.4",
+          "los": [
+            "LO2",
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Digital Transformation Hackathon Pt. 5",
+          "los": [
+            "LO2",
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Course Review, Q&A and Feedback",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5",
+            "LO6"
+          ]
+        }
+      ]
+    },
+    "BISM7221": {
+      "cvid": 141653,
+      "classId": 78534,
+      "assess": [
+        {
+          "title": "Career Jam:  Information Systems Advisory Roles",
+          "los": [
+            "LO5"
+          ]
+        },
+        {
+          "title": "Business Consulting Report (IS Recommendations)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Final Examination",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Course Overview",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Tutorial 1 - Introduction to SQL",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Professional IS advisory services",
+          "los": [
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 2 - Relating Tables and Data",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Career Jam:  Guest Speaker Panel",
+          "los": [
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 3 - Advanced Where and Aggregation",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "IT Governance",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Tutorial 4 - Inner and Outer Joins",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Information Governance",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Tutorial 5 - Exploring, Combining and Viewing Data",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Business Ethics and Fraud",
+          "los": [
+            "LO4"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Tutorial 6 - Career Jam Assessment",
+          "los": [
+            "LO5"
+          ]
+        },
+        {
+          "title": "Managing the IT environment",
+          "los": [
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 7 - Visualising Data",
+          "los": [
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Protecting Business from Cyber Threats",
+          "los": [
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 8 - Fraud in Payments and Receipts",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "General controls",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 9 - Payroll Fraud",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Building New Systems and Processes",
+          "los": [
+            "LO1",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 10 - Process Compliance and Improvement",
+          "los": [
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Accounting information systems and cycles",
+          "los": [
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 11 - Manipulating Data in Tables",
+          "los": [
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Application Control Testing vs Substantive Testing",
+          "los": [
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 12 - SQL Data Analytic Techniques",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "Career Jam Showcase and Course Review",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        }
+      ]
+    },
+    "BISM7807": {
+      "cvid": 148481,
+      "classId": 79264,
+      "assess": [
+        {
+          "title": "A1: Online Quizzes (two)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "A2: Team Case Study Presentation and Reflection",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "A3: Operational Review Report",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Session 1 - Course Introduction; Operations and Supply Chain Strategy",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Session 2 - Transformation Processes",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Session 3 - Strategic Capacity Management",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Session 4 - Monitoring and Control (1)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Session 5 - Monitoring and Control (2)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Session 6 - Process Analysis and Modelling",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Session 7 - Operations Transformation (1): Process Improvement & Six Sigma",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Session 8 - Operations Transformation (2): Lean transformation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Session 9 - Guest lecture + Outsourcing; Insourcing; Global Sourcing and Operations; Service Process Automation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Session 10 - Projects and Project Management",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Session 11 - Supply Chain Planning",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Session 12 - Supply Chain Management",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Session 13 - Course Conclusion",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Site visit - optional but highly recommended. Exact date to be discussed with class",
+          "los": []
+        }
+      ]
+    },
+    "BISM7808": {
+      "cvid": 148483,
+      "classId": 79259,
+      "assess": [
+        {
+          "title": "IT Governance Mechanisms in Action Team Project",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Impact of Emerging Digital Technologies",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "Ethical Decision Making Case Study",
+          "los": [
+            "LO1",
+            "LO4"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Day 1 - Saturday 11/4",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Day 2 - Sunday 12/4",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Day 3 - Saturday 18/4",
+          "los": [
+            "LO1",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Day 4 - Sunday 19/4",
+          "los": [
+            "LO1",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Day 5 - Saturday 2/5",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        }
+      ]
+    },
+    "ECON7002": {
+      "cvid": 141907,
+      "classId": 76691,
+      "assess": [
+        {
+          "title": "Author, Moderate and Answer Questions via RiPPLE",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Markets in Action",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "End-of-Semester Exam",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5",
+            "LO6"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Topic 1. Introduction & Key Economic Concepts",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Topic 1. Introduction & Key Economic Concepts",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Topic 2. Demand, Supply and Elasticity I",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "Topic 2. Demand, Supply and Elasticity I",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "Topic 3. Elasticity II & Economic Efficiency",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 3. Elasticity II & Economic Efficiency",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 4. Firm Behaviour & Perfect Competition I",
+          "los": [
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Topic 4. Firm Behaviour & Perfect Competition I",
+          "los": [
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Topic 5. Perfect Competition II & Monopoly",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 5.  Perfect Competition II & Monopoly",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "No lecture this week due to public holiday.",
+          "los": []
+        },
+        {
+          "title": "Mid-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Feedback from Tutor on Essay",
+          "los": []
+        },
+        {
+          "title": "Topic 6. Government Intervention in Markets",
+          "los": [
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 6. Government Intervention in Markets",
+          "los": [
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 7. The Macroeconomic Perspective",
+          "los": [
+            "LO1",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 7. The Macroeconomic Perspective",
+          "los": [
+            "LO1",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 8. Unemployment and Inflation I",
+          "los": [
+            "LO1",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 8. Unemployment and Inflation I",
+          "los": [
+            "LO1",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 9. Unemployment and Inflation II",
+          "los": [
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 9. Unemployment and Inflation II",
+          "los": [
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 10. AD-AS Model",
+          "los": [
+            "LO1",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 10. AD-AS Model",
+          "los": [
+            "LO1",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 11. Money, Monetary Policy and Fiscal Policy",
+          "los": [
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 11. Money, Monetary Policy and Fiscal Policy",
+          "los": [
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Topic 12. Revision",
+          "los": []
+        }
+      ]
+    },
+    "ECON7300": {
+      "cvid": 141915,
+      "classId": 76689,
+      "assess": [
+        {
+          "title": "Pre-lecture Quizzes",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Project",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "End-of-semester Exam",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Topic 1 Basic Probability",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Tutorial 1",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Topic 2 Probability Distributions",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Tutorial 2",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Topic 3 Sampling Distributions & Confidence Interval Estimation",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "Tutorial 3",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "Topic 4 Hypothesis Testing: One-sample Tests",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "Tutorial 4",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "Topic 5 Hypothesis Testing: Two-sample Tests",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "Tutorial 5",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "Topic 6 Analysis of Variance (ANOVA)",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "Tutorial 6",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "Topic 7 Simple Linear Regression",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "Tutorial 7",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "Topic 8 Multiple Linear Regression I",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Tutorial 8",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "Topic 9 Multiple Linear Regression II",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "Public Holiday - Labour Day",
+          "los": []
+        },
+        {
+          "title": "Tutorial 9",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "Topic 10 Time-series Forecasting I",
+          "los": [
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 10",
+          "los": [
+            "LO4"
+          ]
+        },
+        {
+          "title": "Topic 11 Time-series Forecasting II & Index Numbers",
+          "los": [
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 11",
+          "los": [
+            "LO4"
+          ]
+        },
+        {
+          "title": "Topic 12 Chi-Square Test & Decision Analysis",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Tutorial 12",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Revision",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        }
+      ]
+    },
+    "EVNT7052": {
+      "cvid": 142148,
+      "classId": 78102,
+      "assess": [
+        {
+          "title": "In-Semester Exam",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Infographic - Event sponsorship plan evaluation",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Sponsorship proposal pitch",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Introduction and course overview",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Strategic marketing / brand management",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Event product portfolio and event place",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Integrated Marketing Communications",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Pricing, Sources of Revenue, Ticketing",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "In-Semester Exam",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Sponsorship Planning: Assets and Strategy",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Creating Effective Sponsorship Proposals",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Leveraging the Sponsorship Relationship",
+          "los": [
+            "LO1",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Measuring and Evaluating Sponsorship",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Legal and Ethical Aspects of Sponsorship",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Grants and Special Fundraising Events",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Fundraising Policies and Strategies",
+          "los": [
+            "LO1",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ]
+    },
+    "FINM7407": {
+      "cvid": 152809,
+      "classId": 78093,
+      "assess": [
+        {
+          "title": "In-Semester Examination",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Case Study Assignment",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Final Exam",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Topic 1: Financial Institutions: Functions and Types",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Topic 2: Risks of Financial Institutions",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Tutorial: Financial Institutions: Functions and Types",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Topic 3: Liquidity Risk Management",
+          "los": [
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial: Risks of Financial Institutions",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Topic 4: Asset-Liability Management I",
+          "los": [
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial: Liquidity Risk Management",
+          "los": [
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Topic 5: Asset-Liability Management II",
+          "los": [
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial: Asset-Liability Management I",
+          "los": [
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Topic 6: Credit Risk Analysis",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "Tutorial: Asset-Liability Management II",
+          "los": [
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "No lecture - student revision for the in-semester exam",
+          "los": []
+        },
+        {
+          "title": "No tutorials",
+          "los": []
+        },
+        {
+          "title": "Topic 7: Loan Portfolio and Concentration Risk",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "Tutorial: Credit Risk Analysis",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "Topic 8: Securitisation",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial: Loan Portfolio and Concentration Risk",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "Topic 9: Off-Balance Sheet Activities",
+          "los": [
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial: Securitisation",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Topic 10: Capital Adequacy Requirement",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Tutorial: Off-Balance Sheet Activities",
+          "los": [
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Topic 11: Special Topic",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial: Capital Adequacy Requirement",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Course Revision Lecture",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial: Special Topic",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ]
+    },
+    "FINM7805": {
+      "cvid": 152813,
+      "classId": 76602,
+      "assess": [
+        {
+          "title": "A1: Oral Presentation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "A2: Financial Evaluation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "A3: Real-World Scenario and Financial Problem Report",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Pre-course math workshop",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "The Time Value of Money",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "The Time Value of Money",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Stock Valuation",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Stock Valuation",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Bond Valuation and Credit Ratings",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Bond Valuation and Credit Ratings",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "New Project Evaluation",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "New Project Evaluation",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "ESG and Debt Markets",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "ESG and Debt Markets",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Oral Presentation for Assessment 1",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Oral Presentation for Assessment 1",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "In-Semester break",
+          "los": []
+        },
+        {
+          "title": "Portfolio Diversification",
+          "los": [
+            "LO4"
+          ]
+        },
+        {
+          "title": "Portfolio Diversification",
+          "los": [
+            "LO4"
+          ]
+        },
+        {
+          "title": "Capital Asset Pricing Model & Weighted Average Cost of Capital",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Capital Asset Pricing Model & Weighted Average Cost of Capital",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Capital Structure",
+          "los": [
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Capital Structure",
+          "los": [
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Group Assignment",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Group Assignment",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Derivatives Risk Management (Part I)",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Derivatives Risk Management (Part I)",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Derivatives and Risk Management (Part II)",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Derivatives Risk Management (Part II)",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Course overview",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Course overview",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        }
+      ]
+    },
+    "HOSP2005": {
+      "cvid": 142557,
+      "classId": 77119,
+      "assess": [
+        {
+          "title": "Reflective Essay",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Business Advice on Restaurant Management",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Topic 1: The F&B Operations and Management",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "F&B Industry and Sectors",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Topic 2: Concept & Product Development",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Early Check",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Topic 3: The Menu (Part 1)",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Exploring new concept: Ghost kitchen",
+          "los": [
+            "LO1",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Topic 4: The Menu (Part 2)",
+          "los": [
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Menu categories & description",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Topic 5: The Menu (Part 3)",
+          "los": [
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Base selling price",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Topic 6: Food Production and Service",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Oral Check-in",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Oral Check-in",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Menu Engineering analysis",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Topic 7: Beverage Production and Service",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Measuring F&B Production & Service",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Topic 8: F&B Human Resources",
+          "los": [
+            "LO1",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Ethics in F&B Operation",
+          "los": [
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Topic 9: F&B Marketing",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Financial statement exercise",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Topic 10: F&B Financial Management I",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Break-even analysis exercise",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Topic 11: F&B Financial Management II",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "SWOT analysis and Review",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Topic 12: Appraising F&B Performance",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ]
+    },
+    "HOSP7052": {
+      "cvid": 142559,
+      "classId": 78608,
+      "assess": [
+        {
+          "title": "Queensland Gaming",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Report on Innovative Technology",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Global Casino Management: Overview",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Global Casino Management: Overseas",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Global Casino Management: Australia",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Global Casino Management: Probability",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Global Casino Management: Gamblers",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Global Casino Management: Wagering",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Global Hotel Management: Technology I",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Global Hotel Management: Technology II",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Global Hotel Management: Analytics",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Global Hotel Management: Math",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Global Hotel Management: Market Analysis",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Global Resort Management",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Oral Check-in",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        }
+      ]
+    },
+    "IBUS2301": {
+      "cvid": 152818,
+      "classId": 77760,
+      "assess": [
+        {
+          "title": "Company Pitches",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Evaluations",
+          "los": [
+            "LO4"
+          ]
+        },
+        {
+          "title": "Case Study (Special Topics)",
+          "los": [
+            "LO1",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Final Exam",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Course overview and team development",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Toolkit for IB management success",
+          "los": [
+            "LO1",
+            "LO4"
+          ]
+        },
+        {
+          "title": "International trade theory and internationalization models",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Global political economy and FDI",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "National political economy",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Entering foreign markets",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Managing cultural differences",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "IB strategy and organisation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Foreign exchange market",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Global production and supply chain management",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Global marketing and business analytics",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Global human resource management, accounting and finance",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Course Review",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ]
+    },
+    "IBUS2302": {
+      "cvid": 142571,
+      "classId": 78060,
+      "assess": [
+        {
+          "title": "Wicked Problem Taming Activity",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Reflection",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Team Presentation and Reflexivity Journey Map",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Final exam",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Globalisation & wicked problems",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Design thinking for global business",
+          "los": [
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Societies and cultural logics",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Economic & political systems",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Globalisation and inequalities",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Ecosystems on the edge",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "In-Semester break",
+          "los": []
+        },
+        {
+          "title": "Technology and innovation",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Ecology and climate change",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Ethics and social responsibility",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Public Holiday - No Class Today",
+          "los": []
+        },
+        {
+          "title": "The modern workplace",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Sharing and circular economy",
+          "los": [
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Sustainability in the Balance and Exam Skills and Preparation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ]
+    },
+    "IBUS3306": {
+      "cvid": 145120,
+      "classId": 78975,
+      "assess": [
+        {
+          "title": "Weekly Quiz Assessment",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "In-Semester Exam - In Person on Campus BYOD",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Final Exam - In Person on Campus BYOD",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Introduction & International Legal Systems",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "International Commercial Law Sources",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 1",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Principles of Contract Law-Common Law Systems",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 2",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "The International Regime on Sale of Goods",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 3",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Identifying Risk & Mitigation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 4",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Identifying Risk & Mitigation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 5",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Identifying Risk & Mitigation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 6",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Direct Private Foreign Investment",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 7",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Direct Private Foreign Investment",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 8",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Direct Private Foreign Investment",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 9",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Direct Private Foreign Investment",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 10",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "International Commercial Arbitration",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 11",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "International Commercial Arbitration",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 12",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        }
+      ]
+    },
+    "IBUS7302": {
+      "cvid": 154492,
+      "classId": 78291,
+      "assess": [
+        {
+          "title": "In-Semester Exam",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Topic Analysis Assignment",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Final Exam",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Course Overview",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Culture",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Global Political Economy",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "National Political Economy",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "In-Class In-Semester Exam",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "International Trade Theory",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Foreign Direct Investment",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Foreign Market Environment",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Entering Foreign Markets",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "International Business Operations",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Topic Analysis",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Topic Analysis",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Completion Case/Topic Analysis; Exam Briefing (Review)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ]
+    },
+    "IBUS7306": {
+      "cvid": 142574,
+      "classId": 77544,
+      "assess": [
+        {
+          "title": "Wicked Debates",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Innovation in Global Business Systems using Teaming and Design Thinking",
+          "los": [
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Three (3) Individual Debate Reflections",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Final exam",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Topic 1 - Global environment",
+          "los": [
+            "LO1",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Topic 2 - Design thinking for grand challenges",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Topic 3 - Culture & globalisation",
+          "los": [
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Topic 4 - 'Constructed' advantage of nations",
+          "los": [
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Topic 5 - Country first or global commons",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Public Holiday - No Class Today",
+          "los": []
+        },
+        {
+          "title": "In-Semester Break / Revision and Assessment Preparation Opportunity",
+          "los": []
+        },
+        {
+          "title": "Topic 6 - Consequences of the Gini co-efficient",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Topic 7 - Global interdependency & volatility",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Topic 8 - Technology & globally accelerated change",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Topic 9 - Global warming & its impact",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Topic 10 - CSR, corp. governance & ESGs",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Topic 11 - Leadership in our new society",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Topic 12 - The Uber economy in a globalised world and Exam Revision and Techniques",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ]
+    },
+    "IBUS7312": {
+      "cvid": 152835,
+      "classId": 76648,
+      "assess": [
+        {
+          "title": "Asian Country Analysis - WKS Oral Presentation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Reflective Essay (25%) and In-class Reflections (2.5%x2)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Business In An Asian Region",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "1. Course Introduction and Overview",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "2. Country Analysis - Assessment Skills",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "3. Strategies/Framework for Doing Business in Asia",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "4.  Japan – Business Systems, Culture & Strategy",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "5. Singapore – Strategy, Competition & Regional Power",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "6. Malaysia – Strategy, Governance & Trust in Business",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Mid Sem break",
+          "los": []
+        },
+        {
+          "title": "7. China",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "8. Vietnam – Trust, Transformation, and Trade Wars",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "9. South Korea",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "10. India – Complexity, Contradictions & Comparative Advantage",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "11. The Philippines – Oligarchies, Outsourcing & Opportunity",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "12. Indonesia",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "13. Course Review and Practice",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ]
+    },
+    "LAWS3101": {
+      "cvid": 142636,
+      "classId": 76706,
+      "assess": [
+        {
+          "title": "Online Test",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Advice report",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO6"
+          ]
+        },
+        {
+          "title": "End-of-semester Examination",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Guides available: Study tips to succeed in LAWS3101 and LAWS3101 Glossary",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Lectures",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Workshops",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5",
+            "LO6"
+          ]
+        }
+      ]
+    },
+    "LAWS7012": {
+      "cvid": 155194,
+      "classId": 76506,
+      "assess": [
+        {
+          "title": "Workshop Activities",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Legal Hypothetical",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "End-of-semester Examination",
+          "los": [
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "LECTURE 1: Introduction to the Australian taxation system",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "LECTURE 2: Residence and source",
+          "los": [
+            "LO2",
+            "LO6"
+          ]
+        },
+        {
+          "title": "WORKSHOP 1: Introduction to the Australian taxation system",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "LECTURE 3: Assessable income",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "WORKSHOP 2: Residence & source",
+          "los": [
+            "LO2",
+            "LO6"
+          ]
+        },
+        {
+          "title": "LECTURE 4 - General deductions",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "WORKSHOP 3: Assessable income",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "LECTURE 5: Specific deductions",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "WORKSHOP 4: General deductions",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "LECTURE 6: Capital allowances",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "WORKSHOP 5: Specific deductions",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "MID-SEMESTER BREAK",
+          "los": []
+        },
+        {
+          "title": "LECTURE 7: CGT concepts",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "WORKSHOP 6: Capital allowances",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "LECTURE 8: CGT calculations",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "WORKSHOP 7: CGT concepts",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "LECTURE 9: Timing issues",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "WORKSHOP 8: CGT calculations",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "LECTURE 10: Goods & services tax",
+          "los": [
+            "LO4"
+          ]
+        },
+        {
+          "title": "WORKSHOP 9: Timing issues",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "LECTURE 11: Fringe benefits tax",
+          "los": [
+            "LO5"
+          ]
+        },
+        {
+          "title": "WORKSHOP 10: Goods & services tax",
+          "los": [
+            "LO4"
+          ]
+        },
+        {
+          "title": "LECTURE 12: Business structures",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "WORKSHOP 11: Fringe benefits tax",
+          "los": [
+            "LO5"
+          ]
+        },
+        {
+          "title": "REVISION LECTURE",
+          "los": []
+        },
+        {
+          "title": "WORKSHOP 12: Business structures",
+          "los": [
+            "LO2",
+            "LO4",
+            "LO6"
+          ]
+        }
+      ]
+    },
+    "MGTS3301": {
+      "cvid": 152861,
+      "classId": 78542,
+      "assess": [
+        {
+          "title": "The Carnival of AI",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Politics of Organisational Structure",
+          "los": [
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Myself as Strategist",
+          "los": [
+            "LO4",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Course Introduction: What is strategy?",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Strategic Planning: PESTEL Analysis",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Strategic Planning: Porter's Five Forces Analysis",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Strategic Planning: VRIN Analysis",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Business-Level Strategy",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Corporate-Level Strategy",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Strategic Alliances",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Corporate Governance",
+          "los": [
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Strategy as Structure",
+          "los": [
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Strategy as Politics",
+          "los": [
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Millennium Airlines Assignment VIVA - In-Class Oral Assessment",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Character and Strategic Management: Strategy as Practice, and Virtues, Deficiencies and Excesses in character",
+          "los": [
+            "LO5"
+          ]
+        },
+        {
+          "title": "Storytelling and Strategic Management: The Hero and Picareqsue Story",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ]
+    },
+    "MGTS3601": {
+      "cvid": 142773,
+      "classId": 76693,
+      "assess": [
+        {
+          "title": "Organisational Design Consulting Presentation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Organisational Design Consulting Report",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Introduction to the course",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Department of Justice Industry Case Study - MUST ATTEND",
+          "los": [
+            "LO1",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Getting to know each other",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Frameworks for the change process",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Working in Groups and the Group Contract",
+          "los": [
+            "LO4"
+          ]
+        },
+        {
+          "title": "Diagnosing what to change in Organisations",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Understanding the case study",
+          "los": [
+            "LO1",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Working with stakeholders in change PART 1",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Working with the case study",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Working with stakeholders in change PART 2",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Working with stakeholders",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Reflection and Q&A with Industry Partner",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Group Presentation Consults with your tutor",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Types of planned change interventions",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "A1 individual peer review and feedback",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Organisational change and culture",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "A1 individual reflection on peer feedback",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Emergent change in organisations",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Group Report group work",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Formal structures in organisations",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Group Report group work",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Department of Justice and Career Workshop",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Group Report consults with your tutor",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Self-directed learning",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Self directed learning",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        }
+      ]
+    },
+    "MGTS3609": {
+      "cvid": 152888,
+      "classId": 76849,
+      "assess": [
+        {
+          "title": "Series of 4 Quizzes",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Group Presentation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Final Exam",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Online Self Study",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Intro To People Analytics: HR in context",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "HR Function, Analytics Teams & Analytics Competency",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "HR Analytics Teams: Getting to know each other",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Analytics HR and Technology",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "HR Analytics Teams: Working in groups",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Practitioner Talk",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Introduction to RStudio for People Analytics",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "Engagement HR Analytics",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Working with Rstudio for People Analytics",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "Turnover HR Analytics",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Employee Engagement Analyses - Descriptives and Correlations",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Performance HR Analytics",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Performance Analyses - Regression",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "Diversity HR Analytics",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Hands on with the A2 dataset and Rubric",
+          "los": [
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "People Analytics - Stakeholder reporting",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "AI Jam - Crafting Visuals, Reports and More",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "Workforce Planning",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Automated Hiring",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Practitioner Talk",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "A2 Presentations",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Ethical Considerations and Debates",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "A2 Presentations",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "HR People Analytics - Revision",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Exam Revision",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        }
+      ]
+    },
+    "MGTS4603": {
+      "cvid": 142780,
+      "classId": 77877,
+      "assess": [
+        {
+          "title": "Critical Analysis Presentation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Research Proposal (Written)",
+          "los": [
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Research Proposal Defence",
+          "los": [
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Course Overview",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Understanding research in HRM 1",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Understanding research in HRM 2",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Understanding Research in HRM 3",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Systematic Literature Reviews",
+          "los": [
+            "LO1",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Attraction, Selection & Retention",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Human Capital Development",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Performance Reward & Recognition",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Talent Management",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Employee Experience",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "HR Case Briefing",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Special Topic",
+          "los": [
+            "LO1",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Presentations and Course Review",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ]
+    },
+    "MGTS7308": {
+      "cvid": 141027,
+      "classId": 76573,
+      "assess": [
+        {
+          "title": "Map the System Proposal & Group Update",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Map the System: Group Presentation and Report",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "System Interventions and Reflection Exam",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "What are social enterprises and not-for-profits?",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Understanding Complex Social Problems",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Adopting a Systems Approach",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Methods for Learning about Systems",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Tools for Systems Analysis Part 1",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Tools for Systems Analysis Part 2",
+          "los": [
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Analysis for Action",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Guest Lecture TBC",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Assessment 2 Presentations",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Social Impact and Business Strategy",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Exploring Interdependencies & Bottlenecks",
+          "los": [
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Unintended Consequences",
+          "los": [
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Course Wrapup & Practice Test",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ]
+    },
+    "MGTS7309": {
+      "cvid": 147500,
+      "classId": 79088,
+      "assess": [
+        {
+          "title": "Case Studies",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Project Presentation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO6"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Introduction to Sustainability: Managing Organisational Risks and Opportunities",
+          "los": [
+            "LO1",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Decision Making for Sustainability & practice case study",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Case Study 1",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Decision Making for Sustainability & Introduction to Reporting for Sustainability",
+          "los": [
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Reporting for Sustainability & Case Study 2",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Reporting for Sustainability Fundamentals",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Reporting & Scenario Planning",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Integrated Reporting & Case Study 3",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Improving Reporting for Sustainability",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Case Study 4",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Project Workshop & Peer Presentation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Project Final Presentation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Course review & Presentation Award",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        }
+      ]
+    },
+    "MGTS7619": {
+      "cvid": 141031,
+      "classId": 76579,
+      "assess": [
+        {
+          "title": "Identifying Values",
+          "los": [
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "In-class Exam",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Embodying Values Presentation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Welcome & Introduction",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Theories evolution + The Trait Approach",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "The Skills Approach to Leadership",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "The Behavioural Approach to Leadership",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "The Situational Approach to Leadership",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Leader-Member Exchange (LMX) Theory",
+          "los": [
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Team Leadership",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Revision and Exam",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Transformational Leadership",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Authentic Leadership",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Leadership and Organisational Culture",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Student Presentation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Student Presentation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ]
+    },
+    "MGTS7803": {
+      "cvid": 153282,
+      "classId": 77808,
+      "assess": [
+        {
+          "title": "A1: Advisory report to develop strategic options",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "A2: Selecting & Recommending Implementation of a Strategic Option",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "A3: Business Simulation Reflection",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Session 1 - What is strategy and why is it important?",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Session 2 - Evaluating the internal environment",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Session 3 - Evaluating the external environment",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Session 4 - Crafting a Business Level Strategy",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Session 5 - Designing a Growth Strategy",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Session 6 - Evaluating Strategic Options",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Session 7 - Corporate Level Strategy",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Session 8 - Executing Strategy",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Session 9 - Presentations",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Session 10 - Presentations",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Session 11 - Managing Strategy Implementation & Change",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Session 12 - Executing Strategy Online case simulation for Assessment",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Session 13 - Course Review & Conclusions",
+          "los": [
+            "LO1"
+          ]
+        }
+      ]
+    },
+    "MGTS7809": {
+      "cvid": 153280,
+      "classId": 79266,
+      "assess": [
+        {
+          "title": "Executive Board Presentation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Presentation Peer Assessment",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "Strategic HR Problem-Solution Report to Executive Board",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Reflection on HR Practice",
+          "los": [
+            "LO4",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Day 1 - Saturday, 14/03/2026: Driving business through people strategy",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Day 2 - Sunday, 15/03/2026: Shaping cultures that enable performance",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Day 3 - Saturday, 28/03/2026: Leveraging talent for growth and agility",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Day 4 - Sunday, 29/03/2026: Managing performance and retention that matters",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Day 5 - Saturday, 18/04/2026: Rethinking people leadership for a changing world",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Day 6 - Sunday, 19/04/2026: Assessment 1",
+          "los": []
+        }
+      ]
+    },
+    "MGTS7810": {
+      "cvid": 142789,
+      "classId": 77809,
+      "assess": [
+        {
+          "title": "Input-Process-Output (IPO) Analysis",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Assessment 1: Small Group Presentation PowerPoint",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Assessment 2 Individual Case Analysis",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Day 1 - Friday 13/02 - Introductions, Assessment and Leadership Practices",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Day 2 - Saturday 14/02 - Change Leadership",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Day 3 - Saturday 21/02 -  Decision making, communication and conflict, and managing stress",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "Day 4 - Sunday 22/02 - Teams and intergroup dynamics",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Day 5 - Saturday 28/02 - Teams, future of work and group presentations",
+          "los": [
+            "LO2"
+          ]
+        }
+      ]
+    },
+    "MGTS7812": {
+      "cvid": 141193,
+      "classId": 76599,
+      "assess": [
+        {
+          "title": "A1: Organisation Case-Study - Closing the Gap Group Presentation",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "A2: Individual Case-Study - Barriers to Resonant Leadership",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "A3: Learning Journal",
+          "los": [
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Learning Session 1: Course Introduction & Understanding what Leadership is",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Learning Session 2: The Evolution of Leadership Theory - How did we get to Resonant Leadership?",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Learning Session 3: Indigenous Perspectives on Leadership - A Root Construct of Human Leadership?",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Learning Session 4: Executive Mindset - Framing way to view the world - Part 1",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Learning Session 5: Executive Mindset - Framing way to view the world - Part 2",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Learning Session 6: Ethics and the Foundations of Ethical Leadership",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "In Semester Break",
+          "los": []
+        },
+        {
+          "title": "Learning Session 7: A Deep dive into Responsible/Resonant Leadership",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Learning Session 8: Group Presentations - Closing the Gap - I",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Learning Session 9: Group Presentations - Closing the Gap - II",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Learning Session 10: Managing Stakeholders and Reconciling Dilemmas around Climate and a Sustainable future",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Learning Session 11: Inclusion - The Business Case",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Session 12: Governance, Board Dynamics and the Pitfalls of Power Imbalance in Organisations",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Session 13: Responsible Governance of Artificial Intelligence, Course Review and Reflection",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        }
+      ]
+    },
+    "MGTS7820": {
+      "cvid": 153618,
+      "classId": 78254,
+      "assess": [
+        {
+          "title": "A1: Stakeholder and Situation Analysis",
+          "los": [
+            "LO1",
+            "LO4"
+          ]
+        },
+        {
+          "title": "A2: Personal Reflection - Individual",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "A3: Final Presentation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Understanding and Influencing Human Behaviour – For good",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Discovering and Understanding Your Who",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Building Empathy with Stakeholders Through Mindful Deep Listening",
+          "los": [
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Discover problems worth solving and opportunities worth creating?",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Identifying Insights, Testing Assumptions and Finding Stakeholders",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Human-Centered, Systems-Minded Innovation",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "In Semester Break",
+          "los": []
+        },
+        {
+          "title": "Assignment 1 Presentation",
+          "los": [
+            "LO1",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tensions in the Responsible Creation of Impact",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Creating a desirable, feasible, viable, sustainable and responsible future",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Project consultation with Lecturers",
+          "los": [
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Co-Designing Systems with Stakeholders",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "Storyboarding for Impact",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Course Wrapup and Reflection",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Final Presentations",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        }
+      ]
+    },
+    "MKTG7503": {
+      "cvid": 153706,
+      "classId": 78022,
+      "assess": [
+        {
+          "title": "Assessment 1: Poster Presentation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Assessment 2: Research Report (Group project)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Assessment 3: Final Exam",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Lecture 1 - Introduction to consumer behaviour",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Lecture 2 - Contemporary perspectives on consumer behaviour and briefing on Assessment 1",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 1 - Introduction to consumer behaviour",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Lecture 3 - Decision-making & involvement",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 2 - Contemporary perspectives on consumer behaviour and Assessment 1",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Lecture 4 - Learning & memory",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 3 - Decision-making & involvement",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Lecture 5 - Information session for Assessment 2: Research Report (Group project)",
+          "los": [
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 4 - Learning & memory",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Lecture 6 - Perceptual process",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 5 - Information session for Assessment 2",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Lecture 7 - Attitude & behaviour change",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 6 - Poster Presentations (Assessment 1)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Lecture 8 - Personality (Part I)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 7 - Attitude & behaviour change",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Lecture 9 - Personality (Part II) and Q&A session for Assessment 2",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 8 - Personality (Part I)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Lecture 10 - Self & motivation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 9 - Personality (Part II) and Q&A session for Assessment 2",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Lecture 11 - Groups & social processes",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 10 - Self & motivation",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Lecture 12 - Consumer culture & briefing on Assessment 3: Final Exam",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 11 - Groups & social processes",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Lecture 13 - Buying patterns and future trends of consumer behaviour",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 12 - Consumer culture and Q&A session for Assessment 3",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        }
+      ]
+    },
+    "MKTG7510": {
+      "cvid": 141223,
+      "classId": 76615,
+      "assess": [
+        {
+          "title": "Survey Design",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Market Research Report",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Final Examination",
+          "los": [
+            "LO1",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Introduction and Assignment Briefing",
+          "los": [
+            "LO1",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 1: Introduction to tutorials, assignments and completion of course survey",
+          "los": [
+            "LO1",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Attitudinal measurement theory",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 2: Introduction to Qualtrics and survey design",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Survey Design",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 3: Introduction to SPSS, basic analysis and descriptive statistics",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Introduction to Statistical Models",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 4: Cluster analysis in SPSS",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Cluster analysis",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 5: Regression analysis in SPSS",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Regression",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Tutorial 6: Analysis of Variance (ANOVA) in SPSS",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Analysis of Variance (ANOVA)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 7: Logistics Regression in SPSS",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Logistic Regression",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorial 8: Factor Analysis in SPSS",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Factor Analysis",
+          "los": [
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 9: Assignment workshop (downloading data from Qualtrics, data cleaning)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Guest Lecture",
+          "los": [
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 10: Assignment workshop (running analysis on own data in SPSS)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Statistical reporting",
+          "los": [
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 11: Assignment workshop (finalising analysis and reporting)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Project Review",
+          "los": [
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Tutorial 12:  Project Review",
+          "los": [
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Course Review and Exam Briefing",
+          "los": [
+            "LO4",
+            "LO5"
+          ]
+        }
+      ]
+    },
+    "PSYC3052": {
+      "cvid": 143130,
+      "classId": 77521,
+      "assess": [
+        {
+          "title": "Weekly In-Class Quizzes",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Weekly AI Explorations",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Final Examination",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Class 1: AI as Your Intellectual Sparring Partner",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Class 2: The Mind’s Complementary Processing Systems",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Class 3: Your Brain’s Brilliant Shortcuts (And Where They Lead You Astray)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Class 4: Building Mental Lego: How Humans (and Machines) Solve Problems",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Class 5: Thinking About Thinking: Your Mind’s Hidden Control Room",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Class 6: Navigating the Fog: Decisions When You Don’t Know What You Don’t Know",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Class 7: Minds Beyond Humans: What Corvids, Octopi, and Algorithms Reveal About Thinking",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Class 8: The Group Mind: When We Think Together (For Better or Worse)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Class 9: The Architecture of Influence: When Nudges Work, Fail, and Backfire",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Class 10: Cognitive Crossfit: Can You Really Train Your Brain?",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Class 11: Your Brain on Bullshit: Building Cognitive Immunity to Misinformation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Class 12: When Every Choice Matters: Decision Science Under Pressure",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ]
+    },
+    "RBUS4411": {
+      "cvid": 153726,
+      "classId": 77140,
+      "assess": [
+        {
+          "title": "Presentation and analysis of academic research method",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Written critique of industry research",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Analysis of Indigenous research paper",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Data analysis assignment - Part 1",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Data analysis assignment - Part 2",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Lectures 1-5",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tutorials 1-5",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Presentations",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Assessment Session 1 - Analysis of Indigenous Research Paper",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Assessment Session 2 - Data Analysis Part 1",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Assessment Session 3 - Data Analysis Part 2",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        }
+      ]
+    },
+    "TIMS7317": {
+      "cvid": 153805,
+      "classId": 77787,
+      "assess": [
+        {
+          "title": "Reflection - Creating Change for Sustainability",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Reflection on leadership - Simulation",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Team Sustainability Role Play and Report",
+          "los": [
+            "LO1",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Exam",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Introduction to Corporate Sustainability",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "The Drivers for Sustainability",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "The Phases of Sustainability",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Leadership and Change Approaches to Sustainability",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "The Value of Sustainability",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Change Management",
+          "los": [
+            "LO1",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "IN-SEMESTER BREAK",
+          "los": []
+        },
+        {
+          "title": "The Ethical and Legal Case For Action",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Trade offs and Tensions in Sustainability",
+          "los": [
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Engaging with Communities",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Critical Perspectives on Corporate Sustainability",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "The Case for Alternative Organisations and Economy",
+          "los": [
+            "LO2",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Team presentations",
+          "los": [
+            "LO1",
+            "LO5",
+            "LO6"
+          ]
+        },
+        {
+          "title": "Course Review and exam preparation",
+          "los": [
+            "LO1",
+            "LO5",
+            "LO6"
+          ]
+        }
+      ]
+    },
+    "TOUR7020": {
+      "cvid": 153713,
+      "classId": 76651,
+      "assess": [
+        {
+          "title": "Desk Audit",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Impact Analysis",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "System Report",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Introduction to tourism, hospitality and events (THE)",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Sustainability - economic impacts",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Advanced database searching and Referencing",
+          "los": [
+            "LO3"
+          ]
+        },
+        {
+          "title": "Sustainability: socio-cultural impacts",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Sustainability: environmental impacts",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Excursion - South Bank",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Sustainability - managing impacts",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Systems theory and THE",
+          "los": [
+            "LO2"
+          ]
+        },
+        {
+          "title": "Tourism System - tourist and generating region",
+          "los": [
+            "LO2",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tourism System - transit region",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tourism System - destination region (tourist perspective)",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tourism System - destination region (management perspective)",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Tourism System - external influences",
+          "los": [
+            "LO2",
+            "LO4"
+          ]
+        }
+      ]
+    },
+    "TOUR7023": {
+      "cvid": 153973,
+      "classId": 78610,
+      "assess": [
+        {
+          "title": "Tourism Destination Assessment: Audit, Infographic and Panel Discussion",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Case Study Report",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Introduction to Managing THEs Resources",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Critical Evaluation of Tourism Destinations - Natural Resource Analysis",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Critical Evaluation of Destinations - Cultural and Support Resource Analysis",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Destination Resource Audit",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Dynamic Change in THEs",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Managing Human Resources in THEs",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Destination Forum: Developing Tourism Across Queensland",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Management, Leadership and Ethics in THEs",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Operations & Performance Management in THEs",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Technology & Innovation in THEs",
+          "los": [
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Managing Risks and Crisis in THEs",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Climate Change Challenge for THEs Resources",
+          "los": [
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        },
+        {
+          "title": "Bring it All Together - Resource Management for Sustainable Development Goals",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4",
+            "LO5"
+          ]
+        }
+      ]
+    },
+    "TOUR7032": {
+      "cvid": 153596,
+      "classId": 76780,
+      "assess": [
+        {
+          "title": "Segmentation and Distribution Channel Review",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Competition Analysis",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Marketing Research Presentation",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        }
+      ],
+      "activity": [
+        {
+          "title": "Lecture - Overview",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Lecture - Segmentation (I)",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Tutorial - explanations of three assessments & ice breaking",
+          "los": [
+            "LO4"
+          ]
+        },
+        {
+          "title": "Lecture - Segmentation (II)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Tutorial - Segmentation (I)",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Lecture - Distribution Channel (I)",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Tutorial - Distribution Channel (I)",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Lecture - Distribution Channel (II)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Tutorial - Segmentation (II)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Lecture - Competition analysis (I)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Tutorial - Distribution Channel (II)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "In-Semester Break",
+          "los": []
+        },
+        {
+          "title": "Lecture - Competition analysis (II)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Tutorial - Competition analysis (I)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Lecture - Media options (I)",
+          "los": [
+            "LO1",
+            "LO2"
+          ]
+        },
+        {
+          "title": "Tutorial - Competition analysis (II)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Lecture - Media options (II)",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Tutorial - Media options (I)",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Guest lecture (TBC)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Tutorial - Media option (II)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Lecture - CSR (I)",
+          "los": [
+            "LO1"
+          ]
+        },
+        {
+          "title": "Tutorial - CSR",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Lecture - CSR (II)",
+          "los": [
+            "LO1",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Tutorial - Assessment 3 (Group Q*A)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        },
+        {
+          "title": "Lecture - Marketing yourself",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3"
+          ]
+        },
+        {
+          "title": "Tutorial - Assessment 3 (Group Q&A)",
+          "los": [
+            "LO1",
+            "LO2",
+            "LO3",
+            "LO4"
+          ]
+        }
+      ]
+    }
+  }
+}

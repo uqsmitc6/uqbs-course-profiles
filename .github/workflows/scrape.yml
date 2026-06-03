@@ -86,6 +86,15 @@ jobs:
             echo "No AoL CSV — skipping"
           fi
 
+      - name: Rebuild LO overrides overlay
+        if: always()
+        run: |
+          if [ -f "taxonomy/lo-overrides.csv" ]; then
+            python scraper/import_lo_overrides.py
+          else
+            echo "No LO overrides CSV — skipping"
+          fi
+
       - name: Commit and push updated profiles
         if: always()
         run: |

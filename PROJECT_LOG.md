@@ -1,6 +1,6 @@
 # Project Log — UQBS Course Profile Scraper
 
-> **Last updated:** 2026-06-02 — All-of-UQ expansion: --all-uq flag, dual manifests (UQBS viewer unaffected), adjustable --delay, ready for historical backfill
+> **Last updated:** 2026-06-03 — LO-to-assessment override overlay built (Session 10): CSV→JSON pipeline, replace-per-assessment merge in viewer, coverage diagnostic. Diagnostic found 9 partial-drop courses the original audit missed.
 > **Project:** UQBS Course Profile Viewer and Learning Design Intelligence Platform
 > **Tech stack:** Python 3 / BeautifulSoup / requests / GitHub Actions / GitHub Pages
 > **Repository:** [uqsmitc6/uqbs-course-profiles](https://github.com/uqsmitc6/uqbs-course-profiles)
@@ -11,7 +11,7 @@
 
 The scraper is built, tested, and **production-ready**. It extracts a comprehensive field set from UQ course profile pages — significantly richer than Geoff's JacSON scraper (which covers the whole university but with fewer fields). As of Session 9 (2026-06-02), the scraper supports **all of UQ** via the `--all-uq` flag (3,271 courses across 1,750 per semester), while the live UQBS viewer remains completely isolated via dual manifests. The all-of-UQ expansion is driven by ATLAS, a TIG-funded project that consumes this scraper's JSON as its data spine.
 
-**Evolving vision:** The project started as a way to easily navigate published ECPs and download info from the browser (the bulk export is a standout feature). It's now actively becoming a **learning design intelligence platform** for the UQBS team. The first overlay data layer — **Assurance of Learning (AoL)** — is now built and integrated. The AoL layer uses an overlay architecture: team maintains a CSV (`taxonomy/aol-template.csv`), an import script converts it to JSON (`taxonomy/aol-status.json`), and the viewer loads it at runtime to show AoL status across course, programme, and dashboard views. This same pattern will be used for GA mapping, assessment typologies, Indigenous curriculum tracking, and assessment security classification.
+**Evolving vision:** The project started as a way to easily navigate published ECPs and download info from the browser (the bulk export is a standout feature). It's now actively becoming a **learning design intelligence platform** for the UQBS team. Two overlay data layers are now built and integrated: **Assurance of Learning (AoL)** and the **LO-to-assessment override** layer (Session 10, patches UQ's Drupal bug that drops LO mappings fully or partially). The AoL layer uses an overlay architecture: team maintains a CSV (`taxonomy/aol-template.csv`), an import script converts it to JSON (`taxonomy/aol-status.json`), and the viewer loads it at runtime to show AoL status across course, programme, and dashboard views. This same pattern will be used for GA mapping, assessment typologies, Indigenous curriculum tracking, and assessment security classification.
 
 **AoL lifecycle:** TBD → Identified → Rubric in Dev → Active → Established. Grain: semester + course + GA + assessment item + rubric link. Data starts from Sem 1 2026 onwards. If a mapping doesn't go ahead, the row is simply removed (no "disrupted" or "N/A" status needed).
 
@@ -62,8 +62,13 @@ The scraper is built, tested, and **production-ready**. It extracts a comprehens
 | 23 | TODO | **Backfill historical semesters** — run --all-uq locally for semesters 7450–7620 | 2026-06-02 | Med | ~30 min per semester on Mac; see Session 9 for instructions |
 | 24 | TODO | **Switch weekly cron to all-of-UQ** — once backfill is verified, update cron default | 2026-06-02 | Med | Currently cron stays UQBS-only for safety |
 | 25 | DONE | ~~**All-of-UQ browser page** — browse-all.html with school filter~~ | 2026-06-02 | — | Shipped in Session 9 |
-| 26 | TODO | **LO-to-assessment override system** — manual CSV overrides for courses where Drupal doesn't render the mapping | 2026-06-02 | High | 30 UQBS courses affected; see Session 9 audit |
+| 26 | DONE | ~~**LO-to-assessment override system** — manual CSV overrides for courses where Drupal doesn't render the mapping~~ | 2026-06-02 | — | Shipped in Session 10: replace-per-assessment overlay + coverage diagnostic |
 | 27 | TODO | **Backfill remaining semesters** — 7450, 7460, 7480, 7490, 7520, 7560, 7580, 7590, 7660 | 2026-06-02 | Med | ~15 min each on Mac with --delay 0.5 |
+| 28 | DONE | ~~**Fill in LO override CSV**~~ | 2026-06-03 | — | Session 11: all 135 rows filled from Jac API, 0 warnings |
+| 29 | DONE | ~~**Review 9 suspected-partial courses**~~ | 2026-06-03 | — | Session 11: 8 MISSING_SOME filled from Jac; ECON3430 verified correct (LO5/6 genuinely unassessed) |
+| 30 | DONE | ~~**Persist activity-to-LO mapping**~~ | 2026-06-03 | — | Saved to `taxonomy/sources/activity-lo-mapping-jac-7620.json` (43 courses, 753 rows) via gzip+base64 transfer |
+| 31 | TODO | **Commit & push the filled overrides** — `git add taxonomy/ docs/taxonomy/ scraper/jac_extract.js` then commit/push to deploy via Pages | 2026-06-03 | High | Sean's action; live viewer unchanged until pushed |
+| 32 | NOTE | **MBA courses are a special case** — run multiple offerings per semester (weekend/intensive/teaching periods) with *different* assessments; use SI-NET class-number matching, not semester-period matching | 2026-06-03 | Med | `jac_extract.js` now supports `{code:[classNumber]}` matching; MGTS7812 was the example this round |
 
 ---
 
@@ -164,6 +169,84 @@ The team needs to be able to update this data easily — not one course at a tim
 ---
 
 ## Session History
+
+### Session 11 — 2026-06-03 — Jac extraction: all 43 mappings recovered & filled
+
+**Focus:** Fill the (blank) `lo-overrides.csv` with the real, authoritative LO-to-assessment mappings for all 43 affected courses, pulled from UQ's Jac curriculum system via Claude in Chrome.
+
+**Key discovery — the mapping is in Jac and recoverable via API:** UQ's Jac (curriculum.uq.edu.au/cms/classes) holds the authoritative assessment↔LO mapping that the published ECP drops. The published HTML and even the page-rendered grid hide the mapped state in a visual matrix (cells carry a `span.active-cell` only when mapped — no accessible label). Rather than scrape 43 rendered pages, the whole thing was done via Jac's internal REST API:
+- **Auth:** the Jac SPA stores a JWT in `localStorage['token']`; sent as `Authorization: Bearer`. (Used in-session only, never printed/exfiltrated.)
+- **Search:** `POST /api/v1/classes/get-resources` `{courseCode, pageSize:100, …}` → `items[]` with `classId`, `curriculumVersionId`, `fromYYYYSS`, `stateName`. `fromYYYYSS` encodes year+period: **202601 = Semester 1 2026** (= our semester code 7620).
+- **Mapping:** `GET /api/v1/curriculums/v2/{curriculumVersionId}/components` → 487-item form-builder array. The two mapping matrices sit in a component whose `changeTracking[last].value` parses to `{headings:[{title:"N. …"}], rows:[{subformInstanceTitle, cells:[{active}]}]}`. A cell is mapped iff `cell.active`; column i = LO(i+1). First matrix (lower index) = **Assessment**, second = **Activity** (confirmed by subform header text).
+- Dead ends (both return `[]`): `/complex-mappings/curriculum-mappings/{id}` (program-level), `/entity-references/{id}/links`.
+- **Reusable recipe saved:** `scraper/jac_extract.js` (browser console snippet) — re-runs assessment + activity extraction for any course list / semester. Use it next semester (change `TARGET`).
+
+**Extraction run:** All 43 courses pulled via the API in chunked browser calls (≈7s/course; the components payload is heavy). 100% success, 0 errors. Every assessment came back with a non-empty LO list — confirming the bug is purely a publish/render fault and the data is intact upstream.
+
+**Fill pipeline (`outputs/jac_assess_mapping.json` → `fill_from_jac.py` → CSV):**
+- Joined Jac assessment titles onto the scaffolded CSV rows (which carry scraped ECP titles), keeping the scraped title so the viewer matches at runtime. Matching via alphanumeric-only normalisation (handles "Power Point" vs "PowerPoint") with a difflib fallback.
+- Result: **135/135 rows filled across 43 courses, 0 warnings** on import (every title matches a scraped assessment, every LO in range, nothing clobbered).
+- Provenance copy: `taxonomy/sources/lo-overrides-source-jac-7620.json`.
+
+**Two edge cases resolved:**
+- **MGTS7812 — dual offerings.** Runs two Sem-1-2026 classes (20136 & 22215) with *genuinely different* A1 assessments ("Organisation Case-Study" vs "Stakeholder Simulation"). Pulled both Jac instances and filled both offerings' titles. (General note: a course can have >1 instance per semester with different assessments; `jac_extract.js` takes the first Published — iterate `cands` if every offering is needed.)
+- **ECON3430 — false-positive partial.** The coverage diagnostic flagged it `UNREFERENCED` (LO5/LO6 assessed by nothing). Jac confirms LO5/LO6 are *genuinely not assessed* by any item, and the scraped mapping already matches Jac exactly. So it's correct as published — **no override needed**. (Exactly the intended workflow: diagnostic flags candidates, human/Jac verification clears the false positives.)
+
+**Verification:** import 0 warnings; coverage report shows 43/44 flagged courses now carry an override (ECON3430 correctly excluded); 6-course render spot-check (incl. dual-offering MGTS7812 and several partial-drops) all PASS — override chips + ✎ legend present and correct.
+
+**Open items closed:** #28 (fill CSV) → DONE. #29 (review 9 suspected partials) → DONE: the 8 `MISSING_SOME` filled from Jac; ECON3430 verified correct.
+
+**Activity-to-LO mapping:** captured in-session for all 43 (Sean asked to keep it "for later"). Not persisted to a file this session — the 57 KB exceeded the console export channel cleanly, and nothing consumes it yet. Re-pull on demand with `scraper/jac_extract.js` (returns `activity` alongside `assess`). **TODO #30** added.
+
+**Follow-ups added after first report (same session):**
+- **MBA robustness:** `jac_extract.js` rewritten to match by SI-NET class number (`{code:[classNumber]}`) as well as year+period. MBA courses run multiple offerings per semester with different assessments and don't map cleanly to a single period — class-number matching (the middle number in our `COURSE-CLASSNUM-SEM` filenames) ties a Jac instance to the exact scraped class. Instance metadata (class number, year, period, mode) lives in `item.metadataValues` keyed by `metadataClassConfigId` (6=class number, 7=year, 8=period). See item #32.
+- **Activity mapping persisted:** `taxonomy/sources/activity-lo-mapping-jac-7620.json` (43 courses, 753 activity rows). Transferred out of the browser via gzip+base64 (the plain JSON was too big for the console channel and duplicated). Item #30 closed.
+- **Shareable how-to doc:** `Recovering the dropped LO mappings - how it was done.md` (in the repo root folder) — plain-language explainer for a colleague.
+
+**Landmine for next session:** the override CSV/JSON now contains real data but is **not yet committed/pushed** — Sean needs to `git add taxonomy/ docs/taxonomy/ scraper/jac_extract.js && commit && push` to deploy via GitHub Pages. Until then the live viewer is unchanged.
+
+---
+
+### Session 10 — 2026-06-03 — LO-to-assessment override overlay
+
+**Focus:** Build the manual override system (open item #26) for the 30 UQBS courses where UQ's Drupal-published ECP drops the learning-outcome-to-assessment mapping. Mid-session, Sean's colleague flagged a twist: the bug can also drop *only some* of an assessment's LOs (partial render), not just the whole mapping.
+
+**Why the twist matters (design pivot):** The original plan (item #26) was a gap-fill overlay — "scraped data wins, override only fills empty mappings." That assumes an assessment either has its full LO list or nothing. A *partial* render means scraped data is present but wrong, so a gap-fill override would never fire and the partial would silently stand. A partial also looks identical to a legitimate "this assessment only assesses some LOs" — nothing automatic can tell them apart with certainty.
+
+**Decision — REPLACE per assessment (not gap-fill):** An override row is the authoritative full LO list for one course+assessment. If a row exists it wins entirely; otherwise scraped data stands. One rule handles all three cases: missing entirely, partially dropped, correct (no row). Confirmed with Sean (he was unsure; I made the call). Easy to switch to union later if data entry feels heavy.
+- **Safety net for replace:** the bug only ever *drops* LOs, never invents them, so a half-typed override could clobber LOs Drupal *did* render. `import_lo_overrides.py` warns loudly when an override omits an LO the scraper captured ("override drops scraped LOx — intended?").
+
+**New files:**
+- `taxonomy/lo-overrides.csv` — source of truth. Columns: `semester_code` (optional; blank = all semesters, value = that semester only, exact wins over blank), `course_code`, `assessment_title`, `learning_outcomes` (tolerant: "LO1, LO2" / "1,2" / "L01,L02"), `notes`. Scaffolded with 135 blank rows across 43 course offerings (all MISSING_ALL + MISSING_SOME in 7620, UQBS-only). Assessment titles pulled from scraped `assessment_summary` so they match exactly.
+- `scraper/import_lo_overrides.py` — CSV→JSON overlay (mirrors `import_aol.py`). Validates: course in taxonomy, assessment_title matches a scraped assessment (lists candidates on mismatch), LO refs within course LO range, duplicate rows, and the drop-scraped-LO safety warning. Writes flat-array overlay to `taxonomy/lo-overrides.json` + `docs/taxonomy/lo-overrides.json`. Modes: `--validate-only`, `--scaffold [--uqbs-only] [--semester]`. Blank LO rows are skipped (not errors) so a half-filled CSV imports cleanly.
+- `scraper/lo_coverage_report.py` — diagnostic that scans profiles and flags `MISSING_ALL` (whole mapping dropped), `MISSING_SOME` (partial — some assessments have refs, some don't), `UNREFERENCED` (a course LO assessed by nothing — suspected partial), `OK`. Writes `logs/lo-coverage-report.csv`. Flags are *candidates* — a dropped LO is indistinguishable from a deliberately-unassessed one, so humans confirm.
+
+**Diagnostic earned its keep immediately:** semester 7620 UQBS-only — 35 MISSING_ALL (matches the original audit), but **8 MISSING_SOME + 1 UNREFERENCED that the original 30-course audit completely missed** because they render *some* LO mapping and therefore looked fine. New cases (none in the original list): BISM7221, BISM7808, MGTS3301, MGTS4603, MGTS7308, MGTS7809, MGTS7812, RBUS4411 (partial), ECON3430 (LO5/LO6 unreferenced). This is exactly the failure mode the colleague warned about.
+
+**Viewer changes (`docs/assets/app.js`):**
+- `loadLoOverrides()` + `STORE.loOverrides` + `DATA_PATHS.loOverrides` (graceful fallback to empty on 404).
+- `normTitle()` (mirrors Python `_norm_title`) and `getLoOverrideMap(courseCode, semesterCode)` → `{ normTitle → {los, notes} }` with exact-semester-wins-over-blank precedence.
+- Applied with replace precedence (override → summary-row LOs → scraped details map) in: course-detail assessment summary table, assessment-detail "Linked LOs" line, Markdown export, printable-HTML export. Overridden mappings render with a distinct amber `.lo-chip.override` chip, a ✎ mark, and a legend ("manually corrected — UQ's published course profile omitted it"). Exports carry an inline "(manually corrected …)" note.
+- `loadLoOverrides()` added to `initBrowser` and `initCourseDetail` load chains.
+
+**Other files:**
+- `docs/assets/styles.css` — `.lo-chip.override`, `.lo-override-mark`, `.lo-override-legend` + dark-mode variants (amber accent reads on both palettes). Brace balance 217/217.
+- `.github/workflows/scrape.yml` — added "Rebuild LO overrides overlay" step after the AoL step (`taxonomy/` and `docs/taxonomy/` already in `git add`, so the generated JSON commits automatically).
+
+**Verification:**
+- `node --check docs/assets/app.js` → OK; `py_compile` both scripts → OK; CSS 217/217; both JSON overlays valid; workflow YAML parses.
+- Import validation tested against a fixture CSV — every edge case caught: duplicate, bad title (+ candidate list), out-of-range LO, drop-scraped-LO clobber warning, unknown course.
+- Resolver logic tested by loading the real `app.js` in a Node VM sandbox: 7/7 pass — full-missing replace, partial replace (adds dropped LO), blank-semester applies when no exact, exact-semester wins over blank, no-override → null, case/space-insensitive title match, parseLoRefs zero-typo.
+- End-to-end render test (real BISM2207 profile + an override): override chips, ✎ mark, and legend all present, and only on the overridden assessment (override chip count = 2, exactly the override's LOs).
+- Deliverable left clean: `lo-overrides.json` restored to 0 overrides (no test data committed); CSV holds 135 blank scaffold rows for the team.
+
+**Landmines / watch out for:**
+- The CSV ships **blank** — the feature is dormant (viewer shows no change) until the team fills LO lists from curriculum docs and reruns `import_lo_overrides.py`. That's correct behaviour, not a bug.
+- `assessment_title` in the CSV must match the scraped title. The scaffold pre-fills them correctly; if a coordinator renames an assessment in a future semester, the import will warn (title not found) — re-scaffold or fix by hand.
+- Replace semantics: entering only the *missing* LOs for a partial will drop the correct ones. The import warns, but the team should enter the **full** authoritative list per assessment.
+- `--scaffold` only seeds courses where an assessment has *no* scraped LOs (MISSING_ALL/SOME). `UNREFERENCED` courses (e.g. ECON3430) won't be scaffolded — handle those by hand from the coverage report.
+
+---
 
 ### Session 9 — 2026-06-02 — All-of-UQ scraper expansion
 
@@ -646,6 +729,9 @@ uqbs-course-profiles/
 │   ├── scrape.py                 ← Main scraper (all extraction logic + normalise_ws stopword joins)
 │   ├── build_manifest.py         ← Generates docs/assets/manifest.json (lean index)
 │   ├── clean_existing.py         ← One-time cleanup pass over profiles/ (boundary + stopword rules)
+│   ├── import_aol.py             ← AoL CSV→JSON overlay importer
+│   ├── import_lo_overrides.py    ← LO-override CSV→JSON overlay importer (--scaffold, --validate-only)
+│   ├── lo_coverage_report.py     ← Diagnostic: flags missing/partial LO mappings → logs/lo-coverage-report.csv
 │   └── requirements.txt          ← Python dependencies
 ├── docs/                         ← GitHub Pages static viewer
 │   ├── index.html                ← Course browser (search, filter, sort, bulk downloads)
@@ -660,7 +746,11 @@ uqbs-course-profiles/
 │   └── {semester_code}/
 │       └── {COURSE-CLASS-SEM}.json
 ├── taxonomy/
-│   └── uqbs-programs.json        ← UQBS program/course taxonomy
+│   ├── uqbs-programs.json        ← UQBS program/course taxonomy
+│   ├── aol-template.csv          ← AoL source CSV (team-maintained)
+│   ├── aol-status.json           ← Generated AoL overlay
+│   ├── lo-overrides.csv          ← LO-override source CSV (team-maintained; 135 blank scaffold rows)
+│   └── lo-overrides.json         ← Generated LO-override overlay (also in docs/taxonomy/)
 ├── logs/                         ← Scrape run logs
 ├── run_scrape.sh                 ← Local runner script
 ├── com.uqbs.course-scraper.plist ← macOS launchd config
@@ -673,6 +763,9 @@ uqbs-course-profiles/
 
 ## Changelog
 
+- **2026-06-03** — DATA — Recovered all 43 courses' authoritative assessment→LO mappings from Jac (curriculum.uq.edu.au) via its REST API (`get-resources` → `curriculums/v2/{cvid}/components` → matrix parse). Filled `lo-overrides.csv` (135/135 rows, 0 warnings); all renders verified. Reusable recipe in `scraper/jac_extract.js`. MGTS7812 dual-offering handled; ECON3430 verified correct (no override). Not yet committed/pushed.
+- **2026-06-03** — FEATURE — LO-to-assessment override overlay (item #26). Replace-per-assessment semantics handles both full and *partial* Drupal LO-mapping drops. New: `taxonomy/lo-overrides.csv` (135 blank scaffold rows / 43 offerings), `scraper/import_lo_overrides.py`, `scraper/lo_coverage_report.py`, viewer merge + amber override chips/legend, workflow rebuild step. Resolver 7/7 sandbox tests + end-to-end render pass.
+- **2026-06-03** — FINDING — Coverage diagnostic surfaced 9 partial-drop courses the Session 9 audit missed (8 MISSING_SOME + ECON3430 UNREFERENCED) — they render *some* LOs so looked fine. Logged as open item #29 for team review.
 - **2026-04-14** — FEATURE — Added manual Auto/Light/Dark colour-mode toggle in header nav (alongside existing Classic/Fun theme toggle); persisted in `localStorage["uqbs-color-mode"]`; CSS now responds to `[data-color-mode]` attribute in addition to `prefers-color-scheme`
 - **2026-04-14** — FEATURE — Classic/Fun theme toggle with `data-theme` attribute; magazine/editorial styling for Fun (gradient header, serif display, faculty-prefix colour-coded codes, pull-quote assessment details); FOUC-prevention inline script on all three pages
 - **2026-04-14** — FEATURE — Bulk downloads on course browser (CSV / ZIP Markdown / ZIP JSON, filtered) via JSZip; per-course downloads on course detail (JSON / Markdown / printable HTML with A4 print stylesheet)

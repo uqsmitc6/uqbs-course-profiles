@@ -206,6 +206,30 @@
   --accent-soft: #2e1d45;
 }
 
+/* Dark mode overrides for AoL colours */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-tbd           { background: #2a2730; color: #999; }
+  :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-identified    { background: #1a237e; color: #9fa8da; }
+  :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-rubric-dev    { background: #4e2700; color: #ffcc80; }
+  :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-active        { background: #1b3e20; color: #a5d6a7; }
+  :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-established   { background: #3a1450; color: #ce93d8; }
+  :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-disrupted     { background: #4a1010; color: #ef9a9a; }
+  :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-heat-0 { background: #2a2730; color: #666; }
+  :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-heat-1 { background: #1a237e; color: #9fa8da; }
+  :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-heat-2 { background: #283593; color: #c5cae9; }
+  :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-heat-3 { background: #3949ab; color: #fff; }
+}
+:root[data-color-mode="dark"] .aol-tbd           { background: #2a2730; color: #999; }
+:root[data-color-mode="dark"] .aol-identified    { background: #1a237e; color: #9fa8da; }
+:root[data-color-mode="dark"] .aol-rubric-dev    { background: #4e2700; color: #ffcc80; }
+:root[data-color-mode="dark"] .aol-active        { background: #1b3e20; color: #a5d6a7; }
+:root[data-color-mode="dark"] .aol-established   { background: #3a1450; color: #ce93d8; }
+:root[data-color-mode="dark"] .aol-disrupted     { background: #4a1010; color: #ef9a9a; }
+:root[data-color-mode="dark"] .aol-heat-0 { background: #2a2730; color: #666; }
+:root[data-color-mode="dark"] .aol-heat-1 { background: #1a237e; color: #9fa8da; }
+:root[data-color-mode="dark"] .aol-heat-2 { background: #283593; color: #c5cae9; }
+:root[data-color-mode="dark"] .aol-heat-3 { background: #3949ab; color: #fff; }
+
 * { box-sizing: border-box; }
 
 html, body {
@@ -430,6 +454,33 @@ table.courses td.code a { color: var(--uq-purple); }
   margin-bottom: 20px;
   border-left: 4px solid var(--uq-purple);
 }
+/* Semester picker on course detail */
+.semester-picker {
+  display: flex; gap: 6px; flex-wrap: wrap; margin-top: 10px;
+}
+.sem-pick-current {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 700;
+  background: var(--uq-purple);
+  color: #fff;
+}
+.sem-pick-link {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 500;
+  background: var(--chip-bg);
+  color: var(--chip-ink);
+  text-decoration: none;
+}
+.sem-pick-link:hover {
+  background: var(--uq-purple-light);
+  text-decoration: none;
+}
 .course-header h1 { margin: 0 0 6px; font-size: 24px; }
 .course-header .meta {
   color: var(--ink-muted); font-size: 14px;
@@ -506,6 +557,97 @@ table.assessment .lo-list { white-space: normal; }
   font-family: "SF Mono", Menlo, Consolas, monospace;
   letter-spacing: 0.2px;
 }
+
+/* AoL chips and dashboard ----------------------------------------- */
+.aol-chip {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 8px;
+  margin: 1px 2px 1px 0;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+.aol-tbd           { background: #f5f5f5; color: #757575; }
+.aol-identified    { background: #e8eaf6; color: #283593; }
+.aol-rubric-dev    { background: #fff3e0; color: #e65100; }
+.aol-active        { background: #e8f5e9; color: #2e7d32; }
+.aol-established   { background: #f3e5f5; color: #6a1b9a; }
+.aol-disrupted     { background: #fce4ec; color: #c62828; }
+
+.aol-ga-chip {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2px 8px;
+  margin: 1px 2px;
+  border-radius: 999px;
+  background: var(--chip-bg);
+  color: var(--chip-ink);
+  font-family: "SF Mono", Menlo, Consolas, monospace;
+}
+
+/* Manually-corrected LO chips (LO-override overlay) ----------------- */
+/* Amber accent reads against both the light and dark chip palettes. */
+.lo-chip.override {
+  background: rgba(214, 158, 46, 0.16);
+  color: #8a5a00;
+  box-shadow: inset 0 0 0 1px rgba(214, 158, 46, 0.55);
+}
+.lo-override-mark {
+  font-size: 11px;
+  color: #b06f00;
+  cursor: help;
+}
+.lo-override-legend {
+  margin: 8px 0 0;
+  font-size: 12px;
+  color: var(--ink-muted);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-color-mode="light"]) .lo-chip.override { color: #f0c674; }
+  :root:not([data-color-mode="light"]) .lo-override-mark { color: #f0c674; }
+}
+:root[data-color-mode="dark"] .lo-chip.override { color: #f0c674; }
+:root[data-color-mode="dark"] .lo-override-mark { color: #f0c674; }
+
+.aol-col { white-space: nowrap; }
+
+.aol-card { border-left: 4px solid var(--uq-purple); }
+.aol-card h2 { color: var(--uq-purple-dark); }
+
+/* AoL dashboard */
+.aol-status-summary {
+  display: flex; gap: 12px; flex-wrap: wrap; margin: 16px 0 24px;
+}
+.aol-stat-card {
+  flex: 1 1 140px;
+  min-width: 120px;
+  background: var(--bg-card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 16px 20px;
+  text-align: center;
+}
+.aol-stat-icon { font-size: 24px; margin-bottom: 4px; }
+.aol-stat-count { font-size: 28px; font-weight: 700; color: var(--ink); }
+.aol-stat-label { font-size: 12px; color: var(--ink-muted); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
+
+.aol-heatmap { width: auto; border-collapse: separate; border-spacing: 6px; }
+.aol-heatmap td {
+  padding: 12px 16px;
+  border-radius: var(--radius);
+  text-align: center;
+  font-size: 13px;
+  font-weight: 600;
+  min-width: 72px;
+}
+.aol-heat-0 { background: #f5f5f5; color: #bbb; }
+.aol-heat-1 { background: #e8eaf6; color: #283593; }
+.aol-heat-2 { background: #c5cae9; color: #1a237e; }
+.aol-heat-3 { background: #7986cb; color: #fff; }
+
+table.aol-table th, table.aol-table td { font-size: 13px; }
 
 /* Assessment detail expanded --------------------------------------- */
 .assessment-detail {

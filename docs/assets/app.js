@@ -12,6 +12,7 @@ const STORE = {
   manifest: null,
   taxonomy: null,
   aol: null,
+  loOverrides: null,
 };
 
 const DATA_PATHS = {
@@ -19,6 +20,7 @@ const DATA_PATHS = {
   manifestAll: "./assets/manifest-all.json",
   taxonomy: "./taxonomy/uqbs-programs.json",
   aol: "./taxonomy/aol-status.json",
+  loOverrides: "./taxonomy/lo-overrides.json",
 };
 
 async function loadManifest() {
@@ -51,6 +53,16 @@ async function loadAol() {
   if (!res.ok) { STORE.aol = { semesters: {} }; return STORE.aol; }
   STORE.aol = await res.json();
   return STORE.aol;
+}
+
+// Manual LO-to-assessment override overlay (patches the Drupal ECP bug that
+// drops LO mappings, fully or partially). Graceful fallback when absent.
+async function loadLoOverrides() {
+  if (STORE.loOverrides) return STORE.loOverrides;
+  const res = await fetch(DATA_PATHS.loOverrides, { cache: "no-cache" });
+  if (!res.ok) { STORE.loOverrides = { overrides: [] }; return STORE.loOverrides; }
+  STORE.loOverrides = await res.json();
+  return STORE.loOverrides;
 }
 
 // Get AoL entries for a specific course code (across all semesters, or for a specific semester)
@@ -188,6 +200,35 @@ function buildAssessmentLoMap(c) {
   return map;
 }
 
+// Normalise an assessment title for matching (case/space-insensitive).
+// Mirrors _norm_title() in scraper/import_lo_overrides.py.
+function normTitle(t) {
+  return String(t || "").trim().replace(/\s+/g, " ").toLowerCase();
+}
+
+// Resolve the manual LO overrides for a course offering into a lookup keyed by
+// normalised assessment title: { normTitle → { los:[…], notes } }.
+// Precedence: an override whose semester_code matches the offering wins over a
+// blank-semester (all-semesters) override for the same assessment.
+function getLoOverrideMap(courseCode, semesterCode) {
+  const ov = STORE.loOverrides;
+  if (!ov || !Array.isArray(ov.overrides) || !courseCode) return {};
+  const blank = {}, exact = {};
+  for (const o of ov.overrides) {
+    if (o.course_code !== courseCode) continue;
+    const los = Array.isArray(o.learning_outcomes) ? o.learning_outcomes : [];
+    if (!los.length) continue;
+    const rec = { los, notes: o.notes || null };
+    const nt = normTitle(o.assessment_title);
+    if (o.semester_code && semesterCode && o.semester_code === semesterCode) {
+      exact[nt] = rec;
+    } else if (!o.semester_code) {
+      blank[nt] = rec;
+    }
+  }
+  return Object.assign({}, blank, exact); // exact-semester wins over blank
+}
+
 function fmtDate(iso) {
   if (!iso) return "—";
   try {
@@ -262,6 +303,7 @@ function downloadBlob(content, filename, mimeType) {
 // Generate a Markdown document from a full course JSON.
 function buildCourseMarkdown(c, taxonomy) {
   const lines = [];
+  const ovMap = getLoOverrideMap(c.course_code, c.semester_code);
   lines.push(`# ${c.course_code} — ${c.course_title || ""}`);
   lines.push("");
   const metaRows = [
@@ -347,10 +389,11 @@ function buildCourseMarkdown(c, taxonomy) {
       if (a.mode) meta.push(`**Mode:** ${a.mode}`);
       if (a.other_conditions) meta.push(`**Conditions:** ${a.other_conditions}`);
       if (meta.length) { lines.push(meta.join(" · ")); lines.push(""); }
-      const lo = a.learning_outcomes_assessed != null ? a.learning_outcomes_assessed : a.learning_outcomes;
+      const ov = ovMap[normTitle(a.title)];
+      const lo = ov ? ov.los : (a.learning_outcomes_assessed != null ? a.learning_outcomes_assessed : a.learning_outcomes);
       if (lo) {
         const loStr = Array.isArray(lo) ? lo.join(", ") : String(lo);
-        if (loStr) { lines.push(`**Linked LOs:** ${loStr}`); lines.push(""); }
+        if (loStr) { lines.push(`**Linked LOs:** ${loStr}${ov ? " _(manually corrected — omitted from UQ's published ECP)_" : ""}`); lines.push(""); }
       }
       if (Array.isArray(a.special_indicators) && a.special_indicators.length) {
         lines.push(`**Indicators:** ${a.special_indicators.join(", ")}`); lines.push("");
@@ -435,6 +478,7 @@ function buildCourseMarkdown(c, taxonomy) {
 // Build a standalone HTML document optimised for print-to-PDF.
 function buildPrintableHtml(c, taxonomy) {
   const esc = escapeHtml;
+  const ovMap = getLoOverrideMap(c.course_code, c.semester_code);
   const roles = taxonomy ? programRolesFor(c.course_code, taxonomy) : [];
   const progLine = roles.length
     ? roles.map(r => `${esc(r.program)} (${esc(r.role || "")})`).join(" · ")
@@ -533,10 +577,11 @@ function buildPrintableHtml(c, taxonomy) {
       if (a.mode) m.push(`<b>Mode:</b> ${esc(a.mode)}`);
       if (a.other_conditions) m.push(`<b>Conditions:</b> ${esc(a.other_conditions)}`);
       if (m.length) parts.push(`<p>${m.join(" · ")}</p>`);
-      const lo = a.learning_outcomes_assessed != null ? a.learning_outcomes_assessed : a.learning_outcomes;
+      const ov = ovMap[normTitle(a.title)];
+      const lo = ov ? ov.los : (a.learning_outcomes_assessed != null ? a.learning_outcomes_assessed : a.learning_outcomes);
       if (lo) {
         const loStr = Array.isArray(lo) ? lo.join(", ") : String(lo);
-        if (loStr) parts.push(`<p><b>Linked LOs:</b> ${esc(loStr)}</p>`);
+        if (loStr) parts.push(`<p><b>Linked LOs:</b> ${esc(loStr)}${ov ? " (manually corrected — omitted from UQ's published ECP)" : ""}</p>`);
       }
       for (const [key, label] of [
         ["task_description", "Task description"],
@@ -626,7 +671,7 @@ async function initBrowser() {
   const $count = document.getElementById("course-count");
   const $meta = document.getElementById("meta-info");
   try {
-    const [manifest, taxonomy, aol] = await Promise.all([loadManifest(), loadTaxonomy().catch(() => null), loadAol().catch(() => null)]);
+    const [manifest, taxonomy, aol] = await Promise.all([loadManifest(), loadTaxonomy().catch(() => null), loadAol().catch(() => null), loadLoOverrides().catch(() => null)]);
     const courses = getAllCourses(manifest);
     STORE.allCourses = courses;
     STORE.taxonomy = taxonomy;
@@ -916,7 +961,7 @@ async function initCourseDetail() {
   }
   try {
     const [course, manifest, taxonomy, aol] = await Promise.all([
-      loadCourseJson(filePath), loadManifest(), loadTaxonomy().catch(() => null), loadAol().catch(() => null)
+      loadCourseJson(filePath), loadManifest(), loadTaxonomy().catch(() => null), loadAol().catch(() => null), loadLoOverrides().catch(() => null)
     ]);
     STORE.currentCourse = course;
     STORE.currentTaxonomy = taxonomy;
@@ -1092,23 +1137,28 @@ function renderCourseDetail($root, c, taxonomy, otherOfferings, currentFile) {
   // the summary rows don't carry it directly.
   if (c.assessment_summary && c.assessment_summary.length) {
     const loMap = buildAssessmentLoMap(c);
-    const hasAnyLos = c.assessment_summary.some(a => {
-      if (a.learning_outcomes && a.learning_outcomes.length) return true;
+    const ovMap = getLoOverrideMap(c.course_code, c.semester_code);
+    // Resolve the LO list for one assessment row: override wins, then any LOs
+    // carried on the summary row, then the scraped assessment-details map.
+    const resolveLos = (a) => {
       const title = (a.title || "").trim();
-      return title && loMap[title] && loMap[title].length;
-    });
+      const ov = ovMap[normTitle(title)];
+      if (ov) return { los: ov.los, override: true, notes: ov.notes };
+      if (a.learning_outcomes && a.learning_outcomes.length) return { los: a.learning_outcomes, override: false };
+      if (title && loMap[title]) return { los: loMap[title], override: false };
+      return { los: [], override: false };
+    };
+    const resolved = c.assessment_summary.map(resolveLos);
+    const hasAnyLos = resolved.some(r => r.los && r.los.length);
+    const anyOverride = resolved.some(r => r.override);
     const loHeader = hasAnyLos ? `<th>LOs</th>` : "";
-    const rows = c.assessment_summary.map(a => {
-      let los = [];
-      if (a.learning_outcomes && a.learning_outcomes.length) {
-        los = a.learning_outcomes;
-      } else {
-        const title = (a.title || "").trim();
-        if (title && loMap[title]) los = loMap[title];
-      }
-      const loCell = hasAnyLos
-        ? `<td class="lo-list">${los.length ? los.map(x => `<span class="lo-chip">${escapeHtml(x)}</span>`).join(" ") : "—"}</td>`
-        : "";
+    const rows = c.assessment_summary.map((a, i) => {
+      const { los, override, notes } = resolved[i];
+      const chips = los.length
+        ? los.map(x => `<span class="lo-chip${override ? " override" : ""}"${override ? ` title="Manually corrected — UQ's published ECP omitted this mapping${notes ? ": " + escapeHtml(notes) : ""}"` : ""}>${escapeHtml(x)}</span>`).join(" ")
+        : "—";
+      const mark = override ? ` <span class="lo-override-mark" title="Manually corrected mapping">✎</span>` : "";
+      const loCell = hasAnyLos ? `<td class="lo-list">${chips}${mark}</td>` : "";
       return `
         <tr>
           <td><b>${escapeHtml(a.title || "")}</b>
@@ -1121,6 +1171,9 @@ function renderCourseDetail($root, c, taxonomy, otherOfferings, currentFile) {
         </tr>
       `;
     }).join("");
+    const legend = anyOverride
+      ? `<p class="lo-override-legend">✎ Learning-outcome mapping manually corrected — UQ's published course profile omitted it.</p>`
+      : "";
     parts.push(`
       <div class="card">
         <h2>Assessment</h2>
@@ -1128,6 +1181,7 @@ function renderCourseDetail($root, c, taxonomy, otherOfferings, currentFile) {
           <thead><tr><th>Task</th><th>Category</th><th>Weight</th><th>Due</th>${loHeader}</tr></thead>
           <tbody>${rows}</tbody>
         </table>
+        ${legend}
       </div>
     `);
   }
@@ -1159,10 +1213,11 @@ function renderCourseDetail($root, c, taxonomy, otherOfferings, currentFile) {
 
   // Assessment details
   if (c.assessment_details && c.assessment_details.length) {
+    const ovMapDetail = getLoOverrideMap(c.course_code, c.semester_code);
     parts.push(`
       <div class="card">
         <h2>Assessment details</h2>
-        ${c.assessment_details.map(renderAssessmentDetail).join("")}
+        ${c.assessment_details.map(a => renderAssessmentDetail(a, ovMapDetail)).join("")}
       </div>
     `);
   }
@@ -1275,7 +1330,7 @@ function renderCourseDetail($root, c, taxonomy, otherOfferings, currentFile) {
   $root.innerHTML = parts.join("");
 }
 
-function renderAssessmentDetail(a) {
+function renderAssessmentDetail(a, ovMap) {
   const meta = [];
   if (a.weighting || a.weight) meta.push(`<b>Weight:</b> ${escapeHtml(a.weighting || a.weight)}`);
   if (a.due_date || a.due) meta.push(`<b>Due:</b> ${escapeHtml(a.due_date || a.due)}`);
@@ -1283,11 +1338,18 @@ function renderAssessmentDetail(a) {
   if (a.mode) meta.push(`<b>Mode:</b> ${escapeHtml(a.mode)}`);
   if (a.other_conditions) meta.push(`<b>Conditions:</b> ${escapeHtml(a.other_conditions)}`);
 
-  // Learning outcomes assessed — can be string ("L01, L02") or list
-  const loField = a.learning_outcomes_assessed != null ? a.learning_outcomes_assessed : a.learning_outcomes;
-  let loStr = "";
-  if (Array.isArray(loField)) loStr = loField.map(x => String(x)).join(", ");
-  else if (loField) loStr = String(loField);
+  // Learning outcomes assessed — a manual override (if present) is the
+  // authoritative list; otherwise use the scraped value ("L01, L02" or list).
+  const ov = ovMap ? ovMap[normTitle(a.title)] : null;
+  let loStr = "", loOverride = false;
+  if (ov) {
+    loStr = ov.los.join(", ");
+    loOverride = true;
+  } else {
+    const loField = a.learning_outcomes_assessed != null ? a.learning_outcomes_assessed : a.learning_outcomes;
+    if (Array.isArray(loField)) loStr = loField.map(x => String(x)).join(", ");
+    else if (loField) loStr = String(loField);
+  }
 
   // Special indicators (list of strings)
   let indicators = "";
@@ -1320,7 +1382,7 @@ function renderAssessmentDetail(a) {
       <h4>${escapeHtml(a.title || a.name || "Assessment")}</h4>
       ${meta.length ? `<div class="a-meta">${meta.join(" · ")}</div>` : ""}
       ${indicators ? `<div style="margin-bottom:8px">${indicators}</div>` : ""}
-      ${loStr ? `<div class="small muted">Linked LOs: ${escapeHtml(loStr)}</div>` : ""}
+      ${loStr ? `<div class="small muted">Linked LOs: ${escapeHtml(loStr)}${loOverride ? ` <span class="lo-override-mark" title="Manually corrected — UQ's published ECP omitted this mapping">✎ corrected</span>` : ""}</div>` : ""}
       ${sections.join("")}
     </div>
   `;

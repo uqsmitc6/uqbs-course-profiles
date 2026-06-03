@@ -1,0 +1,1549 @@
+{
+  "_metadata": {
+    "description": "UQBS manual LO-to-assessment override overlay. Patches the Drupal ECP bug that drops LO mappings (fully or partially). Replace semantics: an override is the authoritative full LO list for its assessment.",
+    "last_updated": "2026-06-03 07:37",
+    "generated_from": "lo-overrides.csv",
+    "semantics": "replace_per_assessment; exact semester_code wins over blank"
+  },
+  "overrides": [
+    {
+      "course_code": "ACCT3101",
+      "semester_code": "7620",
+      "assessment_title": "Final Exam (closed book invigilated exam)",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "ACCT3101",
+      "semester_code": "7620",
+      "assessment_title": "Group Assignment - Case Study: Audit Planning and Testing",
+      "learning_outcomes": [
+        "LO3",
+        "LO4",
+        "LO6"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "ACCT3101",
+      "semester_code": "7620",
+      "assessment_title": "In-Semester Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "ACCT7106",
+      "semester_code": "7620",
+      "assessment_title": "Final Examination",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "ACCT7106",
+      "semester_code": "7620",
+      "assessment_title": "Financial Statement Analysis Project - Part 1",
+      "learning_outcomes": [
+        "LO1"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "ACCT7106",
+      "semester_code": "7620",
+      "assessment_title": "Financial Statement Analysis Project - Part 2",
+      "learning_outcomes": [
+        "LO2",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "ACCT7106",
+      "semester_code": "7620",
+      "assessment_title": "Financial Statement Analysis Project - Part 3",
+      "learning_outcomes": [
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "BISM2207",
+      "semester_code": "7620",
+      "assessment_title": "Final Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "BISM2207",
+      "semester_code": "7620",
+      "assessment_title": "Online Quiz",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "BISM2207",
+      "semester_code": "7620",
+      "assessment_title": "System Development",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "BISM2208",
+      "semester_code": "7620",
+      "assessment_title": "In-Semester Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "BISM2208",
+      "semester_code": "7620",
+      "assessment_title": "Project Brief",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "BISM2208",
+      "semester_code": "7620",
+      "assessment_title": "Project Management Plan and Presentation",
+      "learning_outcomes": [
+        "LO2",
+        "LO3",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "BISM3208",
+      "semester_code": "7620",
+      "assessment_title": "Digital Transformation Hackathon - Pitch Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5",
+        "LO6"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "BISM3208",
+      "semester_code": "7620",
+      "assessment_title": "Emerging Technology: Team presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4",
+        "LO6"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "BISM3208",
+      "semester_code": "7620",
+      "assessment_title": "Established Technology: Individual presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "BISM3208",
+      "semester_code": "7620",
+      "assessment_title": "Learning Reflection and Individual Progress Report",
+      "learning_outcomes": [
+        "LO2",
+        "LO4",
+        "LO6"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "BISM7221",
+      "semester_code": "7620",
+      "assessment_title": "Business Consulting Report (IS Recommendations)",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "BISM7221",
+      "semester_code": "7620",
+      "assessment_title": "Career Jam: Information Systems Advisory Roles",
+      "learning_outcomes": [
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "BISM7221",
+      "semester_code": "7620",
+      "assessment_title": "Final Examination",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "BISM7807",
+      "semester_code": "7620",
+      "assessment_title": "A1: Online Quizzes (two)",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "BISM7807",
+      "semester_code": "7620",
+      "assessment_title": "A2: Team Case Study Presentation and Reflection",
+      "learning_outcomes": [
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "BISM7807",
+      "semester_code": "7620",
+      "assessment_title": "A3: Operational Review Report",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "BISM7808",
+      "semester_code": "7620",
+      "assessment_title": "Ethical Decision Making Case Study",
+      "learning_outcomes": [
+        "LO1",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "BISM7808",
+      "semester_code": "7620",
+      "assessment_title": "IT Governance Mechanisms in Action Team Project",
+      "learning_outcomes": [
+        "LO1",
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "BISM7808",
+      "semester_code": "7620",
+      "assessment_title": "Impact of Emerging Digital Technologies",
+      "learning_outcomes": [
+        "LO2"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "ECON7002",
+      "semester_code": "7620",
+      "assessment_title": "Author, Moderate and Answer Questions via Ri PPLE",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5",
+        "LO6"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "ECON7002",
+      "semester_code": "7620",
+      "assessment_title": "End-of-Semester Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5",
+        "LO6"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "ECON7002",
+      "semester_code": "7620",
+      "assessment_title": "Markets in Action",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5",
+        "LO6"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "ECON7300",
+      "semester_code": "7620",
+      "assessment_title": "End-of-semester Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "ECON7300",
+      "semester_code": "7620",
+      "assessment_title": "Pre-lecture Quizzes",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "ECON7300",
+      "semester_code": "7620",
+      "assessment_title": "Project",
+      "learning_outcomes": [
+        "LO2",
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "EVNT7052",
+      "semester_code": "7620",
+      "assessment_title": "In-Semester Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "EVNT7052",
+      "semester_code": "7620",
+      "assessment_title": "Infographic - Event sponsorship plan evaluation",
+      "learning_outcomes": [
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "EVNT7052",
+      "semester_code": "7620",
+      "assessment_title": "Sponsorship proposal pitch",
+      "learning_outcomes": [
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "FINM7407",
+      "semester_code": "7620",
+      "assessment_title": "Case Study Assignment",
+      "learning_outcomes": [
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "FINM7407",
+      "semester_code": "7620",
+      "assessment_title": "Final Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "FINM7407",
+      "semester_code": "7620",
+      "assessment_title": "In-Semester Examination",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "FINM7805",
+      "semester_code": "7620",
+      "assessment_title": "A1: Oral Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "FINM7805",
+      "semester_code": "7620",
+      "assessment_title": "A2: Financial Evaluation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "FINM7805",
+      "semester_code": "7620",
+      "assessment_title": "A3: Real-World Scenario and Financial Problem Report",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "HOSP2005",
+      "semester_code": "7620",
+      "assessment_title": "Business Advice on Restaurant Management",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "HOSP2005",
+      "semester_code": "7620",
+      "assessment_title": "Reflective Essay",
+      "learning_outcomes": [
+        "LO1",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "HOSP7052",
+      "semester_code": "7620",
+      "assessment_title": "Queensland Gaming",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "HOSP7052",
+      "semester_code": "7620",
+      "assessment_title": "Report on Innovative Technology",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS2301",
+      "semester_code": "7620",
+      "assessment_title": "Case Study (Special Topics)",
+      "learning_outcomes": [
+        "LO1",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS2301",
+      "semester_code": "7620",
+      "assessment_title": "Company Pitches",
+      "learning_outcomes": [
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS2301",
+      "semester_code": "7620",
+      "assessment_title": "Evaluations",
+      "learning_outcomes": [
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS2301",
+      "semester_code": "7620",
+      "assessment_title": "Final Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS2302",
+      "semester_code": "7620",
+      "assessment_title": "Final exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS2302",
+      "semester_code": "7620",
+      "assessment_title": "Reflection",
+      "learning_outcomes": [
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS2302",
+      "semester_code": "7620",
+      "assessment_title": "Team Presentation and Reflexivity Journey Map",
+      "learning_outcomes": [
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS2302",
+      "semester_code": "7620",
+      "assessment_title": "Wicked Problem Taming Activity",
+      "learning_outcomes": [
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS3306",
+      "semester_code": "7620",
+      "assessment_title": "Final Exam - In Person on Campus BYOD",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS3306",
+      "semester_code": "7620",
+      "assessment_title": "In-Semester Exam - In Person on Campus BYOD",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS3306",
+      "semester_code": "7620",
+      "assessment_title": "Weekly Quiz Assessment",
+      "learning_outcomes": [
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS7302",
+      "semester_code": "7620",
+      "assessment_title": "Final Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS7302",
+      "semester_code": "7620",
+      "assessment_title": "In-Semester Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS7302",
+      "semester_code": "7620",
+      "assessment_title": "Topic Analysis Assignment",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS7306",
+      "semester_code": "7620",
+      "assessment_title": "Final exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS7306",
+      "semester_code": "7620",
+      "assessment_title": "Innovation in Global Business Systems using Teaming and Design Thinking",
+      "learning_outcomes": [
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS7306",
+      "semester_code": "7620",
+      "assessment_title": "Three (3) Individual Debate Reflections",
+      "learning_outcomes": [
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS7306",
+      "semester_code": "7620",
+      "assessment_title": "Wicked Debates",
+      "learning_outcomes": [
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS7312",
+      "semester_code": "7620",
+      "assessment_title": "Asian Country Analysis - WKS Oral Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS7312",
+      "semester_code": "7620",
+      "assessment_title": "Business In An Asian Region",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "IBUS7312",
+      "semester_code": "7620",
+      "assessment_title": "Reflective Essay (25%) and In-class Reflections (2.5%x2)",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "LAWS3101",
+      "semester_code": "7620",
+      "assessment_title": "Advice report",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO6"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "LAWS3101",
+      "semester_code": "7620",
+      "assessment_title": "End-of-semester Examination",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "LAWS3101",
+      "semester_code": "7620",
+      "assessment_title": "Online Test",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "LAWS7012",
+      "semester_code": "7620",
+      "assessment_title": "End-of-semester Examination",
+      "learning_outcomes": [
+        "LO2",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "LAWS7012",
+      "semester_code": "7620",
+      "assessment_title": "Legal Hypothetical",
+      "learning_outcomes": [
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "LAWS7012",
+      "semester_code": "7620",
+      "assessment_title": "Workshop Activities",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5",
+        "LO6"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS3301",
+      "semester_code": "7620",
+      "assessment_title": "Myself as Strategist",
+      "learning_outcomes": [
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS3301",
+      "semester_code": "7620",
+      "assessment_title": "Politics of Organisational Structure",
+      "learning_outcomes": [
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS3301",
+      "semester_code": "7620",
+      "assessment_title": "The Carnival of AI",
+      "learning_outcomes": [
+        "LO1",
+        "LO2"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS3601",
+      "semester_code": "7620",
+      "assessment_title": "Organisational Design Consulting Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS3601",
+      "semester_code": "7620",
+      "assessment_title": "Organisational Design Consulting Report",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS3609",
+      "semester_code": "7620",
+      "assessment_title": "Final Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS3609",
+      "semester_code": "7620",
+      "assessment_title": "Group Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS3609",
+      "semester_code": "7620",
+      "assessment_title": "Series of 4 Quizzes",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS4603",
+      "semester_code": "7620",
+      "assessment_title": "Critical Analysis Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS4603",
+      "semester_code": "7620",
+      "assessment_title": "Research Proposal (Written)",
+      "learning_outcomes": [
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS4603",
+      "semester_code": "7620",
+      "assessment_title": "Research Proposal Defence",
+      "learning_outcomes": [
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7308",
+      "semester_code": "7620",
+      "assessment_title": "Map the System Proposal & Group Update",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7308",
+      "semester_code": "7620",
+      "assessment_title": "Map the System: Group Presentation and Report",
+      "learning_outcomes": [
+        "LO2",
+        "LO3",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7308",
+      "semester_code": "7620",
+      "assessment_title": "System Interventions and Reflection Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7309",
+      "semester_code": "7620",
+      "assessment_title": "Case Studies",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7309",
+      "semester_code": "7620",
+      "assessment_title": "Project Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO6"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7619",
+      "semester_code": "7620",
+      "assessment_title": "Embodying Values Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7619",
+      "semester_code": "7620",
+      "assessment_title": "Identifying Values",
+      "learning_outcomes": [
+        "LO2",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7619",
+      "semester_code": "7620",
+      "assessment_title": "In-class Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7803",
+      "semester_code": "7620",
+      "assessment_title": "A1: Advisory report to develop strategic options",
+      "learning_outcomes": [
+        "LO1",
+        "LO2"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7803",
+      "semester_code": "7620",
+      "assessment_title": "A2: Selecting & Recommending Implementation of a Strategic Option",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7803",
+      "semester_code": "7620",
+      "assessment_title": "A3: Business Simulation Reflection",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7809",
+      "semester_code": "7620",
+      "assessment_title": "Executive Board Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7809",
+      "semester_code": "7620",
+      "assessment_title": "Presentation Peer Assessment",
+      "learning_outcomes": [
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7809",
+      "semester_code": "7620",
+      "assessment_title": "Reflection on HR Practice",
+      "learning_outcomes": [
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7809",
+      "semester_code": "7620",
+      "assessment_title": "Strategic HR Problem-Solution Report to Executive Board",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7810",
+      "semester_code": "7620",
+      "assessment_title": "Assessment 1: Small Group Presentation Power Point",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7810",
+      "semester_code": "7620",
+      "assessment_title": "Assessment 2 Individual Case Analysis",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7810",
+      "semester_code": "7620",
+      "assessment_title": "Input-Process-Output (IPO) Analysis",
+      "learning_outcomes": [
+        "LO1",
+        "LO2"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7812",
+      "semester_code": "7620",
+      "assessment_title": "A1: Organisation Case-Study - Closing the Gap Group Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7812",
+      "semester_code": "7620",
+      "assessment_title": "A1: Stakeholder Simulation",
+      "learning_outcomes": [
+        "LO1",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (2nd offering, class 22215)"
+    },
+    {
+      "course_code": "MGTS7812",
+      "semester_code": "7620",
+      "assessment_title": "A2: Individual Case-Study - Barriers to Resonant Leadership",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7812",
+      "semester_code": "7620",
+      "assessment_title": "A2: Organisation Case-Study - Closing the Gap Group Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (2nd offering, class 22215)"
+    },
+    {
+      "course_code": "MGTS7812",
+      "semester_code": "7620",
+      "assessment_title": "A3: Learning Journal",
+      "learning_outcomes": [
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7820",
+      "semester_code": "7620",
+      "assessment_title": "A1: Stakeholder and Situation Analysis",
+      "learning_outcomes": [
+        "LO1",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7820",
+      "semester_code": "7620",
+      "assessment_title": "A2: Personal Reflection - Individual",
+      "learning_outcomes": [
+        "LO2",
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MGTS7820",
+      "semester_code": "7620",
+      "assessment_title": "A3: Final Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MKTG7503",
+      "semester_code": "7620",
+      "assessment_title": "Assessment 1: Poster Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MKTG7503",
+      "semester_code": "7620",
+      "assessment_title": "Assessment 2: Research Report (Group project)",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MKTG7503",
+      "semester_code": "7620",
+      "assessment_title": "Assessment 3: Final Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MKTG7510",
+      "semester_code": "7620",
+      "assessment_title": "Final Examination",
+      "learning_outcomes": [
+        "LO1",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MKTG7510",
+      "semester_code": "7620",
+      "assessment_title": "Market Research Report",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "MKTG7510",
+      "semester_code": "7620",
+      "assessment_title": "Survey Design",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "PSYC3052",
+      "semester_code": "7620",
+      "assessment_title": "Final Examination",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "PSYC3052",
+      "semester_code": "7620",
+      "assessment_title": "Weekly AI Explorations",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "PSYC3052",
+      "semester_code": "7620",
+      "assessment_title": "Weekly In-Class Quizzes",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "RBUS4411",
+      "semester_code": "7620",
+      "assessment_title": "Analysis of Indigenous research paper",
+      "learning_outcomes": [
+        "LO1",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "RBUS4411",
+      "semester_code": "7620",
+      "assessment_title": "Data analysis assignment - Part 1",
+      "learning_outcomes": [
+        "LO1",
+        "LO2"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "RBUS4411",
+      "semester_code": "7620",
+      "assessment_title": "Data analysis assignment - Part 2",
+      "learning_outcomes": [
+        "LO1",
+        "LO2"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "RBUS4411",
+      "semester_code": "7620",
+      "assessment_title": "Presentation and analysis of academic research method",
+      "learning_outcomes": [
+        "LO1",
+        "LO3",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "RBUS4411",
+      "semester_code": "7620",
+      "assessment_title": "Written critique of industry research",
+      "learning_outcomes": [
+        "LO1",
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "TIMS7317",
+      "semester_code": "7620",
+      "assessment_title": "Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "TIMS7317",
+      "semester_code": "7620",
+      "assessment_title": "Reflection - Creating Change for Sustainability",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "TIMS7317",
+      "semester_code": "7620",
+      "assessment_title": "Reflection on leadership - Simulation",
+      "learning_outcomes": [
+        "LO1",
+        "LO3",
+        "LO4",
+        "LO6"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "TIMS7317",
+      "semester_code": "7620",
+      "assessment_title": "Team Sustainability Role Play and Report",
+      "learning_outcomes": [
+        "LO1",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "TOUR7020",
+      "semester_code": "7620",
+      "assessment_title": "Desk Audit",
+      "learning_outcomes": [
+        "LO1",
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "TOUR7020",
+      "semester_code": "7620",
+      "assessment_title": "Impact Analysis",
+      "learning_outcomes": [
+        "LO1",
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "TOUR7020",
+      "semester_code": "7620",
+      "assessment_title": "System Report",
+      "learning_outcomes": [
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "TOUR7023",
+      "semester_code": "7620",
+      "assessment_title": "Case Study Report",
+      "learning_outcomes": [
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "TOUR7023",
+      "semester_code": "7620",
+      "assessment_title": "Tourism Destination Assessment: Audit, Infographic and Panel Discussion",
+      "learning_outcomes": [
+        "LO1",
+        "LO2"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "TOUR7032",
+      "semester_code": "7620",
+      "assessment_title": "Competition Analysis",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "TOUR7032",
+      "semester_code": "7620",
+      "assessment_title": "Marketing Research Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    },
+    {
+      "course_code": "TOUR7032",
+      "semester_code": "7620",
+      "assessment_title": "Segmentation and Distribution Channel Review",
+      "learning_outcomes": [
+        "LO1",
+        "LO2"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)"
+    }
+  ]
+}
