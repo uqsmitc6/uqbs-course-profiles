@@ -1,0 +1,195 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH7051-22247-7520",
+  "scraped_at": "2026-06-04T01:46:40.964070+00:00",
+  "course_code": "MATH7051",
+  "class_code": "22247",
+  "semester_code": "7520",
+  "full_course_code": "MATH7051-22247-7520",
+  "course_title": "Calculus & Linear Algebra I",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "External",
+  "attendance_mode": "Online",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Vectors, linear independence, scalar product. Matrices, simultaneous equations, determinants, vector product, eigenvalues, eigenvectors, applications. Equation of straight line and plane. Extreme value theorem, maxima & minima. Sequences, series, Taylor series, L'Hopital's rules. Techniques of integration, numerical methods, volumes of revolution.\n\nMATH1051 provides an important foundation in calculus and linear algebra that will prove useful for further studies in pure and applied sciences, engineering, finance or further mathematics pursuits.\n\nThe calculus component extends high school concepts. We investigate optimisation techniques, limits and L'Hopital's rule, as well as standard techniques of integration and volumes of revolution. Another important topic is the study of sequences and series (infinite sums).ﾠ This extends to Taylor series which are an important tool used throughout the sciences.ﾠﾠ\n\nLinear algebra is the study of vectors and matrices and is extensively used to modelﾠsystems of interacting elements. For example, matrix methods are common in structural engineering and matrix algebra is necessary for computer graphics. This course covers vectors, linear independence and scalar product which are tools to manipulate vectors. The course continues with matrices, simultaneous equations and determinants. An important component of the study concerns eigenvalues and eigenvectors which model resonant frequencies in dynamical systems.\n\nAny questions relating to administrative matters (adding the course, dropping the course, assignment extensions, special accommodations, etc) should be sent to math1051@uq.edu.au\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and againstﾠ UQ Policy, ﾠand will not be tolerated. We have developed aﾠ suite of resources ﾠto assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH1051"
+    ],
+    "restrictions": [
+      "GCSc, GCEdSt, GDipEdSt, MEdSt, MCyberSec."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Matthew Holden",
+      "email": "m.holden1@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Matthew Holden",
+      "email": "m.holden1@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Emma Ng"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Gunit Singh"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus for students enrolled in in-person mode and online for students enrolled in external mode. Consult your personal timetable for times and locations. Relevant Zoom links for external students will be provided on Blackboard. Students are expected to attend these sessions in person (in-person) or online (external) unless they have a valid reason for being unable to attend (such as illness). Alternative arrangements will be advised on Blackboard should the campus be closed for any reason.\nImportant: if you are ill, then do not attend any classes in person.\nﾠ If you are unable to attend the face-to-face lectures, you may follow lectures in any of the following ways:\nlivestreamed lectures\npre-recordings on UQ Extend,ﾠ\nlecture recordings (usually available a few hours after the lecture)\nOPTIONAL:\nThe Support Learning Tutorial (SLT) is optional. This class is highly recommendedﾠfor the following group of students.ﾠ\nStudents who are repeating MATH1051.\nStudents who obtained a Grade 4 in MATH1050.\nStudents who obtained a grade Cﾠﾠfor Queensland Specialist Mathematics (or equivalent).\nStudents who are returning to maths studies after a significant period.\nCheck Blackboard for further information about the SLT.ﾠ\nDuring public holidays there will be no workshops or lectures. Student's whose workshop occurs on a public holiday may attend any other regularly scheduled workshop that week (provided there is space) and additional workshops will be added during these weeks to facilitate students attending alternative workshop times. Makeup lectures may be scheduled, or cancelled at the discretion of the instructor, depending on how well the class is progressing through the material.",
+  "course_aims": "The aim of this course is to provide students with an introduction to and a solid basis for further study in mathematics, in particular mathematical analysis. Students will be introduced to a number of new mathematical concepts, and will be presented with theory and practical examples. The course also aims to help students develop an appropriate level of mathematical rigour needed in presenting mathematical arguments and solutions.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Evaluate limits, derivatives, and integrals, explain the underlying mathematical basis, interpret the results geometrically, and perform calculations associated with a number of applications;"
+    },
+    {
+      "number": "LO2.",
+      "description": "Calculate the limits of sequences and series, and use them to approximate functions;"
+    },
+    {
+      "number": "LO3.",
+      "description": "Understand linear transformations using matrices;"
+    },
+    {
+      "number": "LO4.",
+      "description": "Work with matrices and vectors including a complete understanding of the behaviour of an m * n linear system;"
+    },
+    {
+      "number": "LO5.",
+      "description": "Understand the concept of invertibility for matrices, know many criteria for invertibility and be able to find inverses;"
+    },
+    {
+      "number": "LO6.",
+      "description": "Understand abstract concepts in linear algebra such as vector space, dimension and basis, and be able to construct simple proofs involving these concepts;"
+    },
+    {
+      "number": "LO7.",
+      "description": "Compute confidently with basic Matlab commands and interpret the results."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Workshop Exercise",
+      "weight": "15%",
+      "due_date": "Workshops are due each week from week 2 – week 13 except for weeks an assignment is due 3/03/2025 - 30/05/2025",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "In-Semester Exam",
+      "weight": "20%",
+      "due_date": "In-semester Saturday; 29/03/2025 - 12/04/2025",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "2 Assignments",
+      "weight": "15%",
+      "due_date": "4pm 19/03/2025; 4pm 16/05/2025"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Workshop Exercise",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "15%",
+      "due_date": "Workshops are due each week from week 2 – week 13 except for weeks an assignment is due 3/03/2025 - 30/05/2025",
+      "task_description": "You will complete a collaborative exercise at the workshop each week. No workshop exercise will be due on days when one of the two assignments is due. Read full task description Hide full task description",
+      "submission_guidelines": "Assessment is completed within the scheduled workshop time and turned in in-person at the end of the workshop.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThere are no extensions or dererrals for workshops. Instead students will drop the lowest 2 workshops to account for absences.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nAssessment is completed within the scheduled class time and turned in at the end of the workshop. There are no late submissions as assessments are completed in class. Instead, students will drop the lowest 2 workshop scores to account for absences.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "task_description": "The final examination will be invigilated on-campus for students enrolled in in-person mode and invigilated over Zoom for students in external mode. You must attend the format allocated for your type of enrolment (in-person/external) unless given prior permission to attend the other format. Further details for each format will be provided to students before the examination period. Alternative arrangements will be advised on Blackboard should the campus be closed for any reason. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed Book examination - no written materials permitted Exam platform Other Invigilation Invigilated by Zoom",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "In-Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "20%",
+      "due_date": "In-semester Saturday 29/03/2025 - 12/04/2025",
+      "task_description": "Date: You must hold all of the following three Saturdays free until the exam date is officially announced Saturday 29 March, 2025 Saturday 5 April, 2025 Saturday 12 April 2025 The in-semester examination will be invigilated on-campus for students enrolled in in-person mode and invigilated over Zoom for students in external mode. You must attend the format allocated for your type of enrolment (in-person/external) unless given prior permission to attend the other format. Further details for each format will be provided to students before the examination period. Alternative arrangements will be advised on Blackboard should the campus be closed for any reason. The exam with consist of a range of short-answer and problem-solving questions. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options No calculators permitted Open/closed book Closed Book examination - no written materials permitted Exam platform Other Invigilation Invigilated by Zoom",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "2 Assignments",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "15%",
+      "due_date": "4pm 19/03/2025 4pm 16/05/2025",
+      "task_description": "You must submit detailed written solutions to a collection of mathematical problems. All assignments are weighted equally. Read full task description Hide full task description",
+      "submission_guidelines": "Follow the submission instructions on the course Blackboard site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions are released 7 days after the assignment is due to provide students with the necessary feedback they need to study for examinations. Therefore, extensions beyond 7 calendar days are not possible. See ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Not Timetabled",
+      "topic": "Independent Study During the semester students are expected to work on MATH1051 outside of class time to consolidate the information given during lectures, work on the problem sheets and assignments, complete extra practice problems and study for examinations."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Workshop",
+      "topic": "Workshop In the workshops students will complete collaborative worksheets, receive help on various assessments, get corrected assignments returned, be able to ask questions on the problem sheets, and be able to ask general questions related to course work."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Lecture Students may choose to attend either face-to-face lectures (on campus) or view the online lectures. The online lectures will cover the same content as the face-to-face lectures. Both face-to-face and online lectures are centred around the workbook, so it is vital that students have their workbook with them for both face-to-face and online lectures. As well as completing the workbook in a comprehensive manner, students will be provided with additional material and examples. Students electing to simply download the completed workbook from Blackboard after each chapter is finished will hence be missing material."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

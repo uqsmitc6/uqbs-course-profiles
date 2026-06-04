@@ -1,0 +1,377 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG1001-20449-7520",
+  "scraped_at": "2026-06-04T01:37:57.645108+00:00",
+  "course_code": "ENGG1001",
+  "class_code": "20449",
+  "semester_code": "7520",
+  "full_course_code": "ENGG1001-20449-7520",
+  "course_title": "Programming for Engineers",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Introduction to programming for engineers focusing on the fundamentals of computing and programming, using an exploratory problem-based approach. Building abstractions with procedures, data and objects; data modelling; designing, coding and debugging programs of increasing complexity. Applying programming techniques to the analysis of real world data.\n\nThis course introduces fundamental concepts in engineering programming, using the Python programming language. Emphasis is placed on problem solving using computational techniques, creating algorithms,ﾠdesigning classes, data analysisﾠand visualisation.",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "CSSE1001"
+    ],
+    "restrictions": [
+      "Restricted to students enrolled in BE, BE(Hons), BE(Hons) and Duals, BE/ME, BE/ME Exchange, ME (32), ME(48) and Study Abroad"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Peter O'Shea",
+      "email": "ENGG1001@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Peter O'Shea"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Christopher Leonardi"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Rowan Gollan"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course aims to provide students with the basic programming skills that are needed by engineers. These skills include file processing, robust program design with functions and classes, data analyis,ﾠvisualisation and applied engineering programming.ﾠ",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Differentiate and apply program constructs such as variables, selection, iteration and sub-routines"
+    },
+    {
+      "number": "LO2.",
+      "description": "Recognise and apply basic object-oriented design methodologies, along with associated concepts such as classes, instances and methods"
+    },
+    {
+      "number": "LO3.",
+      "description": "Read and analyse programs written by others"
+    },
+    {
+      "number": "LO4.",
+      "description": "Interpret an engineering problem and design an algorithmic solution to the problem"
+    },
+    {
+      "number": "LO5.",
+      "description": "Read and analyse an algorithmic design and be able to translate the design into a working program"
+    },
+    {
+      "number": "LO6.",
+      "description": "Apply techniques for program testing and debugging"
+    },
+    {
+      "number": "LO7.",
+      "description": "Apply sound programming techniques to the solution of real world engineering problems"
+    },
+    {
+      "number": "LO8.",
+      "description": "Analyse and visualise engineering data"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Quiz",
+      "title": "Online exercises",
+      "weight": "15%",
+      "due_date": "Intro 14/03/2025 3:00 pm; Conditional branching 14/03/2025 3:00 pm; Functions 21/03/2025 3:00 pm; Strings 28/03/2025 3:00 pm; Lists & dictionaries 4/04/2025 3:00 pm; Intro to arrays 11/04/2025 3:00 pm; Arrays revisited 28/04/2025 3:00 pm; Graphs 2/05/2025 3:00 pm; Classes 16/05/2025 3:00 pm; Inheritance 23/05/2025 3:00 pm"
+    },
+    {
+      "category": "Computer Code",
+      "title": "Assignment 1",
+      "weight": "15%",
+      "due_date": "28/03/2025 3:00 pm"
+    },
+    {
+      "category": "Computer Code",
+      "title": "Assignment 2",
+      "weight": "25%",
+      "due_date": "23/05/2025 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "End of semester exam",
+      "weight": "45%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Online exercises",
+      "mode": "Written",
+      "category": "Computer Code, Quiz",
+      "weight": "15%",
+      "due_date": "Intro 14/03/2025 3:00 pm Conditional branching 14/03/2025 3:00 pm Functions 21/03/2025 3:00 pm Strings 28/03/2025 3:00 pm Lists & dictionaries 4/04/2025 3:00 pm Intro to arrays 11/04/2025 3:00 pm Arrays revisited 28/04/2025 3:00 pm Graphs 2/05/2025 3:00 pm Classes 16/05/2025 3:00 pm Inheritance 23/05/2025 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "See course Blackboard site for details. Students submit their answers to questions on-line. These are normally due by 3pm on a Friday (with the exception of the 'Arrays revisited' task, because of public holidays and mid-semester break). Students are not allowed to use generative AI tools to answer these questions. The best 8 out of 10 sets of exercises will be used to determine the final mark for this assessment task. All assessment tasks evaluate students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. They must also refrain from using generative AI tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submission online.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nNo extensions available and 100% Late penalty applied for the online exercises. To accommodate unforeseen circumstances such as illness, your quiz score will be based on the best 8 out of 10 submissions.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "See course Blackboard site for details. Students submit their answers to questions on-line. These are normally due by 3pm on a Friday (with the exception of the 'Arrays revisited' task, because of public holidays and mid-semester break). Students are not allowed to use generative AI tools to answer these questions. The best 8 out of 10 sets of exercises will be used to determine the final mark for this assessment task. All assessment tasks evaluate students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. They must also refrain from using generative AI tools. Read full task description Hide full task description\nSee course Blackboard site for details. Students submit their answers to questions on-line. These are normally due by 3pm on a Friday (with the exception of the 'Arrays revisited' task, because of public holidays and mid-semester break). Students are not allowed to use generative AI tools to answer these questions. The best 8 out of 10 sets of exercises will be used to determine the final mark for this assessment task. All assessment tasks evaluate students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. They must also refrain from using generative AI tools."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 1",
+      "mode": "Oral, Written",
+      "category": "Computer Code",
+      "weight": "15%",
+      "due_date": "28/03/2025 3:00 pm",
+      "learning_outcomes_assessed": "L01, L04, L06, L07, L08",
+      "task_description": "In this assignment students will write a program in accordance with a specification. See assignment sheet for details. Students will need to attend a compulsory interview in the week after the due date, and will be required to sign up for an interview time slot. All assessment tasks evaluate students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. They must also refrain from using generative AI tools. Read full task description Hide full task description",
+      "submission_guidelines": "Assignment submitted on-line via Gradescope. Students should submit their code regularly to Gradescope as they progress in the assignment.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions will be released 7 days after the due date.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nAssignment submissions received after the due time (or any approved extended deadline) will be subject to a 100% late penalty. A one-hour grace period applies to the due time after which time (4:00:00pm) the 100% late penalty will be imposed. This grace period is designed to deal with issues that might arise during submission (e.g. delays with Blackboard or Gradescope) and should not be considered a shift of the due time.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "In this assignment students will write a program in accordance with a specification. See assignment sheet for details. Students will need to attend a compulsory interview in the week after the due date, and will be required to sign up for an interview time slot. All assessment tasks evaluate students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. They must also refrain from using generative AI tools. Read full task description Hide full task description\nIn this assignment students will write a program in accordance with a specification. See assignment sheet for details. Students will need to attend a compulsory interview in the week after the due date, and will be required to sign up for an interview time slot. All assessment tasks evaluate students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. They must also refrain from using generative AI tools."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 2",
+      "mode": "Oral, Written",
+      "category": "Computer Code",
+      "weight": "25%",
+      "due_date": "23/05/2025 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L06, L07, L08",
+      "task_description": "In this assignment students will write a program according to a specification. See assignment sheet for details. Students will need to attend a compulsory interview in the week after the due date, and will be required to sign up for an interview time slot. All assessment tasks evaluate students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. They must also refrain from using generative AI tools. Read full task description Hide full task description",
+      "submission_guidelines": "Assignment submitted on-line via Gradescope. Students should submit their code regularly to Gradescope as they progress in the assignment.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions will be released 7 days after the due date.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nAssignment submissions received after the due time (or any approved extended deadline) will be subject to a 100% late penalty. A one-hour grace period applies to the due time after which time (4:00:00pm) the 100% late penalty will be imposed. This grace period is designed to deal with issues that might arise during submission (e.g. delays with Blackboard or Gradescope) and should not be considered a shift of the due time.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "In this assignment students will write a program according to a specification. See assignment sheet for details. Students will need to attend a compulsory interview in the week after the due date, and will be required to sign up for an interview time slot. All assessment tasks evaluate students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. They must also refrain from using generative AI tools. Read full task description Hide full task description\nIn this assignment students will write a program according to a specification. See assignment sheet for details. Students will need to attend a compulsory interview in the week after the due date, and will be required to sign up for an interview time slot. All assessment tasks evaluate students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. They must also refrain from using generative AI tools."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End of semester exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "45%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L06, L07, L08",
+      "task_description": "End of semester exam. The exam will test understanding of the concepts covered over the entire course. The exam will be an invigilated multiple choice exam. The exam will be conducted on-campus. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Tutorial",
+      "topic": "Weekly tutorials Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Practical",
+      "topic": "Daily Help sessions (Monday-Friday 10am-5pm, Weeks 3-5 and 7-12). Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Week 1 Introduction to course and Python programming, variables and types, multiline programs Learning outcomes: L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Week 2 Functional decomposition and control structures Learning outcomes: L01, L03, L06",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Week 3 Manipulating data structures, file I/O Learning outcomes: L01, L03, L06",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Week 4 Intro to classes and objects, lists, variable scope Learning outcomes: L01, L02, L03, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Week 5 Dictionaries, Intro to Numpy Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Week 6 Array creation, vectorisation Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Week 7 Data visualisation and further numpy examples Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Week 8 Introduction to data analysis Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Week 9 Analysis of engineering data Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Week 10 Object orientation, implementation and application of classes, inheritance Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Week 11 Engineering applications, random walks Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Week 12 Engineering applications, diffusive processes Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Week 13 Engineering applications, course review Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

@@ -1,0 +1,212 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/QBIO7002-20525-7520",
+  "scraped_at": "2026-06-04T01:57:17.826259+00:00",
+  "course_code": "QBIO7002",
+  "class_code": "20525",
+  "semester_code": "7520",
+  "full_course_code": "QBIO7002-20525-7520",
+  "course_title": "Multivariate Data Analysis & Machine Learning in Biology",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "The Environment School",
+  "course_description": "Biological datasets often include large numbers of features (e.g., species, climatic variables, morphological attributes) that exhibit complex, nonlinear relationships with each other. The human brain, unassisted, is ill-equipped to deal with such information-rich datasets. When the number of features is especially large, or the relationships between them especially complex, even generalized linear models , the tool-of-choice in scientific inference, may not be up to the job. In this course students will learn the essential theory behind the most commonly used unsupervised and supervised learning techniques in ecological and evolutionary research, and implement these techniques using R to find solutions to a range of real world biological problems. The first half of the course will focus on supervised learning, with an emphasis on classification and regression problems. The second half of the course will focus on multivariate data and unsupervised learning, with an emphasis on clustering and dimension reduction.\n\nClassical multivariate data analysis and modern machine learning algorithms provide a powerful solution to the joint problem of complexity and nonlinearity. A strength of several multivariate techniques (aka unsupervised learning algorithms) is the reduction of high-dimensional variable space into 2-3 tractable dimensions (e.g PCA, PCoA and NMDS); and the natural grouping of observations (e.g. sites or samples) based on their shared properties over numerous features (e.g. hierarchical clustering, k-means clustering). In contrast, many of the most popular supervised machine learning algorithms (e.g. support vector machines, random forests and neural networks) come into their own when a high premium is placed on prediction (e.g. in clinical diagnostics). But there is a cost. What many multivariate techniques and machine learning algorithms make up for in tractability and predictive accuracy, they sacrifice in interpretability. In QBIO7002, students will gain a deep understanding of this trade-off, and the pros and cons of basic methods such as linear regression (low accuracy, high interpretability) versus cutting-edge methods such as neural networks (high accuracy, low interpretability).",
+  "requirements": {
+    "prerequisites": [
+      "We recommend completing the following courses before enrolling in this one:",
+      "Prior knowledge of R or another programming knowledge is highly recommended",
+      "This course is jointly-taught with:",
+      "Another instance of the same course",
+      "QBIO7002"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Andrew Letten",
+      "email": "a.letten@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Andrew Letten",
+      "email": "a.letten@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Katrina McGuigan",
+      "email": "k.mcguigan1@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The aim of QBIO7002 is to provide students with a solid foundation in the essential theory behind the most commonly used unsupervised and supervised learning techniques in biology, and to equip students with the core skills to implement these techniques to find solutions to a range of real world biological problems.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Manipulate, visualise and analyse realistic, large ecological datasets"
+    },
+    {
+      "number": "LO2.",
+      "description": "Understand the applications of supervised and unsupervised learning and how to implement them"
+    },
+    {
+      "number": "LO3.",
+      "description": "Communicate complex analyses to a general audience"
+    },
+    {
+      "number": "LO4.",
+      "description": "Identify appropriate analytical techniques for diverse biological problems"
+    },
+    {
+      "number": "LO5.",
+      "description": "Use R to perform analyses on complex multivariate datasets"
+    },
+    {
+      "number": "LO6.",
+      "description": "Understand multivariate data structures and summary statistics"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Participation/ Student contribution",
+      "title": "Engagement with Pre-class Reading (Supervised Learning Module)",
+      "weight": "10%",
+      "due_date": "Task 1: 28/02/2025 2:00 pm; Task 2: 14/03/2025 2:00 pm; Task 3: 21/03/2025 2:00 pm; Task 4: 28/03/2025 2:00 pm"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Supervised Learning Assignment",
+      "weight": "40%",
+      "due_date": "15/04/2025 2:00 pm"
+    },
+    {
+      "category": "Participation/ Student contribution",
+      "title": "Engagement with Pre-class Reading (Unsupervised Learning Module)",
+      "weight": "10%",
+      "due_date": "Task 5: 4/04/2025 2:00 pm; Task 6: 11/04/2025 2:00 pm; Task 7: 17/04/2025 2:00 pm; Task 8: 9/05/2025 2:00 pm; Task 9: 16/05/2025 2:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Unsupervised Learning Assignment",
+      "weight": "40%",
+      "due_date": "27/05/2025 2:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Engagement with Pre-class Reading (Supervised Learning Module)",
+      "mode": "Activity/ Performance, Written",
+      "category": "Participation/ Student contribution",
+      "weight": "10%",
+      "due_date": "Task 1: 28/02/2025 2:00 pm Task 2: 14/03/2025 2:00 pm Task 3: 21/03/2025 2:00 pm Task 4: 28/03/2025 2:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "task_description": "This assessment requires students to submit three questions related to the pre-class reading for each of weeks 2-5 (2.5% each) of the supervised learning module. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission by Turnitin only by the due date. No hard copy or assignment cover sheets required.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional assessment information section further below for information relating to extension and deferral applications.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assessment requires students to submit three questions related to the pre-class reading for each of weeks 2-5 (2.5% each) of the supervised learning module. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Supervised Learning Assignment",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "40%",
+      "due_date": "15/04/2025 2:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "task_description": "Students will submit a comprehensively documented R notebook detailing all the steps (data import and cleaning through to presentation and discussion of results) of an analysis on a dataset they have not seen before. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission by Turnitin only by the due date. No hard copy or assignment cover sheets required.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional assessment information section further below for information relating to extension and deferral applications.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Students will submit a comprehensively documented R notebook detailing all the steps (data import and cleaning through to presentation and discussion of results) of an analysis on a dataset they have not seen before. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Engagement with Pre-class Reading (Unsupervised Learning Module)",
+      "mode": "Activity/ Performance, Written",
+      "category": "Participation/ Student contribution",
+      "weight": "10%",
+      "due_date": "Task 5: 4/04/2025 2:00 pm Task 6: 11/04/2025 2:00 pm Task 7: 17/04/2025 2:00 pm Task 8: 9/05/2025 2:00 pm Task 9: 16/05/2025 2:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "task_description": "This assessment requires students to submit three questions related to the pre-class reading for 4 out of the 5 weeks (2.5% each week) of the unsupervised learning module. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission by Turnitin only by the due date. No hard copy or assignment cover sheets required.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional assessment information section further below for information relating to extension and deferral applications.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assessment requires students to submit three questions related to the pre-class reading for 4 out of the 5 weeks (2.5% each week) of the unsupervised learning module. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Unsupervised Learning Assignment",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "40%",
+      "due_date": "27/05/2025 2:00 pm",
+      "task_description": "Written report (1,000 words), critical interpretation of an existing analysis / results section. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission by Turnitin only by the due date. No hard copy or assignment cover sheets required.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional assessment information section further below for information relating to extension and deferral applications.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Written report (1,000 words), critical interpretation of an existing analysis / results section. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (24 Feb - 02 Mar)",
+      "activity_type": "Practical",
+      "topic": "Foundations in supervised learning Foundation concepts including: bias-variance trade-off, over-fitting, cross-validation, precision and recall, classification and regression (Letten)"
+    },
+    {
+      "learning_period": "Week 2 (03 Mar - 09 Mar)",
+      "activity_type": "Practical",
+      "topic": "All the algorithms Introduction to different supervised learning algorithms: k-nearest neighbours, naive Bayes, support vector machines, decision/regression trees and random forests, and neural networks (Letten)"
+    },
+    {
+      "learning_period": "Week 3 (10 Mar - 16 Mar)",
+      "activity_type": "Practical",
+      "topic": "Decision and regression trees Decision and regression tree basics and ensemble learning (Letten)"
+    },
+    {
+      "learning_period": "Week 4 (17 Mar - 23 Mar)",
+      "activity_type": "Practical",
+      "topic": "Deep learning with neural networks I (Letten)"
+    },
+    {
+      "learning_period": "Week 5 (24 Mar - 30 Mar)",
+      "activity_type": "Practical",
+      "topic": "Deep learning with neural networks II (Letten)"
+    },
+    {
+      "learning_period": "Week 6 (31 Mar - 06 Apr)",
+      "activity_type": "Practical",
+      "topic": "Simple descriptions of multivariate data (McGuigan)"
+    },
+    {
+      "learning_period": "Week 7 (07 Apr - 13 Apr)",
+      "activity_type": "Practical",
+      "topic": "Eigenanalysis and dimension reduction (McGuigan)"
+    },
+    {
+      "learning_period": "Week 8 (14 Apr - 20 Apr)",
+      "activity_type": "Practical",
+      "topic": "Multidimensional scaling (McGuigan)"
+    },
+    {
+      "learning_period": "Week 9 (28 Apr - 04 May)",
+      "activity_type": "Practical",
+      "topic": "Cluster analysis (McGuigan)"
+    },
+    {
+      "learning_period": "Week 11 (12 May - 18 May)",
+      "activity_type": "Practical",
+      "topic": "Discriminant Function Analysis (McGuigan)"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

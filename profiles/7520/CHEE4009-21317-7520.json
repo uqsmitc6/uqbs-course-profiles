@@ -1,0 +1,514 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CHEE4009-21317-7520",
+  "scraped_at": "2026-06-04T01:30:02.710056+00:00",
+  "course_code": "CHEE4009",
+  "class_code": "21317",
+  "semester_code": "7520",
+  "full_course_code": "CHEE4009-21317-7520",
+  "course_title": "Transport Phenomena",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Chemical Engineering School",
+  "course_description": "Various first principles encountered in various engineering areas. Examples cover momentum, heat & mass transfer demonstrating utility of first principles.\n\nTransport phenomena involves learning about the transfer of momentum, mass and energy in a unified and fundamental manner. It includes study on the transport of momentum (or \"Fluid Mechanics\"), the transport of energy (or \"Heat Transfer\"), and the transport of chemical species (or \"Mass Transfer\").\n\nAny physical or chemical process involves transport phenomenon. It is not only fundamental to many chemical engineering subjects with an enormous range of practical applications and interesting phenomena, it is also important to biomedical engineering and processes within human anatomical systems, the design and evaluation of foods and pharmaceutical products, and to biology and nature generally. The ubiquitous nature of phenomena associated with transport processes is demonstrated by them being commonly used to fascinate and engage children in science and engineering throughout primary and secondary school. Here, we seek to provide the mathematical and engineering interpretation of this fascinating topic.\n\nA comprehensive understanding of the subject is made possible by the different processes being described by a limited set of rules, facilitated by each transport property being described mathematically in the same way. Of particular importance are the transport coefficients - the viscosity (describing the transport of momentum), the thermal conductivity (describing the transport of energy), and the diffusivity (describing the transport of chemical species). This course seeks to provide students with the basic principles and \"conservation laws\" that apply to the three entities being transported, which provide the fundamental toolbox for describing transport phenomena encountered within chemical engineering and many other applications and nature. One of the unique aspects of this course is it seeks to solve complex problems by reducing them to much more simple solvable ones that provide meaningful relationships and insights.\n\nPrinciples in transport phenomena taught in this course are fundamental to the practice of chemical engineering and its application. They are also the basis for many modern engineering design tools, including those based on finite element methods (FEM), which are needed for addressing challenging problems faced by industry.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CHEE2003",
+      "CHEE3002",
+      "CHEE2040",
+      "CHEE3005",
+      "MATH1052"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Jason Stokes",
+      "email": "jason.stokes@uq.edu.au",
+      "phone": "+61 7 3365 4361"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Jason Stokes",
+      "email": "jason.stokes@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Yuan Xu",
+      "email": "y.xu5@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Eiffel Leong",
+      "email": "y.leong@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The goal of this course is to provide students with basic principles of the three transfers encountered in chemical engineering: momentum, heat and mass transfers; and enable them to apply these to practical problems. The analyses of these transfers can be unified within the same framework. This is called the first principles. Examples are taken from simple to complex applications to illustrate the first principles of analysis.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "identify, describe and apply the common framework in analyzing momentum, heat and mass transfer"
+    },
+    {
+      "number": "LO2.",
+      "description": "break complex problems into composite of simpler problems and solve"
+    },
+    {
+      "number": "LO3.",
+      "description": "apply first principles to solve problem of different complexity in fluid flow (momentum), heat and mass transfer applications"
+    },
+    {
+      "number": "LO4.",
+      "description": "apply the Navier-Stokes equations and Equations of Motion in solving complex flow problems"
+    },
+    {
+      "number": "LO5.",
+      "description": "formulate and solve equations of algebraic and differential form"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Problem Sets - Portfolio Assignments",
+      "weight": "35% Formative",
+      "due_date": "24/03/2025 - 26/05/2025; 17:00 submissions throughout the semester.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Exam In-semester Outside Scheduled Class",
+      "weight": "15% Summative",
+      "due_date": "8/05/2025 6:00 pm; Week 10 (Thursday Evening) 18:00-19:55.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Exam During Exam Period (Central)",
+      "weight": "50% Summative",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Problem Sets - Portfolio Assignments",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "35% Formative",
+      "due_date": "24/03/2025 - 26/05/2025 17:00 submissions throughout the semester.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Portfolio Assignment 1 Due Week 5 Fri 28 Mar Weight: 15% Formative problem sets will be worked on through the semester and submitted as part of a portfolio of questions. This portfolio will consist of: Part A - Selected questions from weekly tutorial problem sets (week 1 - 5) Part B - Concept question(s), contextualised question(s) and/or advanced question(s) Whilst collaboration is encouraged during tutorials, students are required to submit their own unique work. Portfolio 1 will focus on Questions from Module 0 - Overview and Module 1 - Momentum Transfer (week 1-5). Portfolio Assignment 2 Due Week 9 Fri 02 May Weight: 10% Formative problem sets will be worked on through the semester and submitted as part of a portfolio of questions. This portfolio will consist of: Part A - Selected questions from weekly tutorial problem sets (week 5- 9) Part B - Concept question(s), contextualised question(s) and/or advanced question(s) Whilst collaboration is encouraged during tutorials, students are required to submit their own unique work. Portfolio 2 will mainly focus on Questions from Module 2 - Mass Transport. Portfolio Assignment 3 Due Week 13 Fri 30 May Weight: 10% Formative problem sets will be worked on through the semester and submitted as part of a portfolio of questions. This portfolio will consist of: Part A - Selected questions from weekly tutorial problem sets (week 9 - 12) Part B - Concept question(s), contextualised question(s) and/or advanced question(s) Whilst collaboration and discussion is encouraged during tutorials, students are required to submit their own unique work. Portfolio 3 will mainly focus on Questions from Module 3 - Energy Transport. However, it may include question(s) involving a combination of momentum, energy and mass transport. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submit online through Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Course Instance (CI), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Portfolio Assignment 1 Due Week 5 Fri 28 Mar Weight: 15% Formative problem sets will be worked on through the semester and submitted as part of a portfolio of questions. This portfolio will consist of: Part A - Selected questions from weekly tutorial problem sets (week 1 - 5) Part B - Concept question(s), contextualised question(s) and/or advanced question(s) Whilst collaboration is encouraged during tutorials, students are required to submit their own unique work. Portfolio 1 will focus on Questions from Module 0 - Overview and Module 1 - Momentum Transfer (week 1-5). Portfolio Assignment 2 Due Week 9 Fri 02 May Weight: 10% Formative problem sets will be worked on through the semester and submitted as part of a portfolio of questions. This portfolio will consist of: Part A - Selected questions from weekly tutorial problem sets (week 5- 9) Part B - Concept question(s), contextualised question(s) and/or advanced question(s) Whilst collaboration is encouraged during tutorials, students are required to submit their own unique work. Portfolio 2 will mainly focus on Questions from Module 2 - Mass Transport. Portfolio Assignment 3 Due Week 13 Fri 30 May Weight: 10% Formative problem sets will be worked on through the semester and submitted as part of a portfolio of questions. This portfolio will consist of: Part A - Selected questions from weekly tutorial problem sets (week 9 - 12) Part B - Concept question(s), contextualised question(s) and/or advanced question(s) Whilst collaboration and discussion is encouraged during tutorials, students are required to submit their own unique work. Portfolio 3 will mainly focus on Questions from Module 3 - Energy Transport. However, it may include question(s) involving a combination of momentum, energy and mass transport. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Exam In-semester Outside Scheduled Class",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "15% Summative",
+      "due_date": "8/05/2025 6:00 pm Week 10 (Thursday Evening) 18:00-19:55.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Delivery Mode : Non-invigilated. Document Upload. Exam questions are downloaded from Blackboard as a single PDF and answers uploaded as a single PDF to Blackboard. Timing: Set start and completion time for all students just like a regular exam. Students will have an extra 15 minutes in addition to the working time to deal with things like downloading / uploading files. Contents : the in-semester exam will cover Module 1 (momentum transport) and Module 2 (mass transport). This is an open book exam, but supporting resources will be provided (e.g. equation sheets) in \"Exam Resources - mid-semester\" document available on Blackboard. The exam format will involve problem solving and conceptual type questions, similar to those in the tutorial problem sets, portfolios and past exams. Marks for this exam can be partially upgraded by the final exam. If the end-of-semester exam mark is greater than the mark for the in-semester exam, the mark for the in-semester exam will become the average of the two. If the end-of-semester exam mark is equal to, or less than, the in-semester exam mark, the mark for the in-semester exam will stay the same (i.e. no lose situation!). This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options Any calculator permitted Open/closed book Open Book examination Exam platform Other Invigilation Not invigilated",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "Delivery Mode : Non-invigilated. Document Upload. Exam questions are downloaded from Blackboard as a single PDF and answers uploaded as a single PDF to Blackboard. Timing: Set start and completion time for all students just like a regular exam. Students will have an extra 15 minutes in addition to the working time to deal with things like downloading / uploading files. Contents : the in-semester exam will cover Module 1 (momentum transport) and Module 2 (mass transport). This is an open book exam, but supporting resources will be provided (e.g. equation sheets) in \"Exam Resources - mid-semester\" document available on Blackboard. The exam format will involve problem solving and conceptual type questions, similar to those in the tutorial problem sets, portfolios and past exams. Marks for this exam can be partially upgraded by the final exam. If the end-of-semester exam mark is greater than the mark for the in-semester exam, the mark for the in-semester exam will become the average of the two. If the end-of-semester exam mark is equal to, or less than, the in-semester exam mark, the mark for the in-semester exam will stay the same (i.e. no lose situation!). This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Exam During Exam Period (Central)",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50% Summative",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "This is a closed book exam with no written or printed materials permitted, but key resources (e.g. equations for consideration) will be provided with the exam and made available prior to the exam on Blackboard (see \"Exam Resources\"). Material from all weeks will be covered. i.e. Questions will be on a range of topics and questions covered in the course material (modules 0, 1, 2, 3), textbook* (Ch 0, 1, 2, 3, 9, 10, 17, 18), problem sets, portfolios and past exams. Note - The exam format may be different to previous years. The exam is on campus invigilated. A grade exceeding In-Semester exam mark will partially upgrade that mark. University approved and labelled calculators ONLY. *Textbook chapters refer to those in both \"Introductory Transport Phenomena\" (BSLK) and \"Transport Phenomena (Rev. 2nd Ed)(BSL)\" This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 180 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This is a closed book exam with no written or printed materials permitted, but key resources (e.g. equations for consideration) will be provided with the exam and made available prior to the exam on Blackboard (see \"Exam Resources\"). Material from all weeks will be covered. i.e. Questions will be on a range of topics and questions covered in the course material (modules 0, 1, 2, 3), textbook* (Ch 0, 1, 2, 3, 9, 10, 17, 18), problem sets, portfolios and past exams. Note - The exam format may be different to previous years. The exam is on campus invigilated. A grade exceeding In-Semester exam mark will partially upgrade that mark. University approved and labelled calculators ONLY. *Textbook chapters refer to those in both \"Introductory Transport Phenomena\" (BSLK) and \"Transport Phenomena (Rev. 2nd Ed)(BSL)\" This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture 1: Intro and Module 1 - Momentum Transport (week 1) Introduction and overview of Transport Phenomena (BSLK Ch.0) Module 1 - Momentum Transfer 1A. Viscosity and Mechanisms of Momentum Transport (BSLK Ch 1) 1B. Shell Momentum Balances and Velocity Distributions in Laminar Flow (BSLK Ch2) Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 1 (week 1) Weekly problem sheet building on Lecture 1 Tutor and lecturer support to assist students complete problems and understand course content Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture 2: Module 1 - Momentum Transport (week 2) 1B.continued Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 2 (week 2) Weekly problem sheet building on Lecture 2 Tutor and lecturer support to assist students complete problems and understand course content Help can be sought for Assignment 1A Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture 3: Module 1 - Momentum Transport (week 3) 1B. Continued 1C. Equations of Change for Isothermal Systems (including Navier-Stokes Equations) (Ch3) Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 3 (week 3) Weekly problem sheet building on Lecture 3 Tutor and lecturer support to assist students complete problems and understand course content Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture 4: Module 1 - Momentum Transport (week 4) 1B, 1C. continued Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 4 (week 4) Weekly problem sheet building on Lecture 4 Tutor and lecturer support to assist students complete problems and understand course content Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture 5: Module 1 (week 5) 1C completion and Module 1 summary Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture 5: Module 2 (week 5) May start \"Module 2 - Mass Transport\" Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 5 (week 5) Weekly problem sheet building on Lecture 5 Tutor and lecturer support to assist students complete problems and understand course content Help can be sought for Assignment 1B Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Problem-based learning",
+      "topic": "Assignment 1 (15%) (Due End of Week 5) Assignment 1 due that is focused on Module 1"
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture 6 - Module 2 - Mass Transport (week 6) 2A. Diffusivity and the Mechanisms of Mass Transport Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 6 (week 6) Weekly problem sheet building on Lecture 6 Tutor and lecturer support to assist students complete problems and understand course content Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture 7: Module 2 - Mass Transport (week 7) 2A. continued; and 2B. Shell Balances and Concentration Distributions in Solids and in Laminar Flow (BSLK CH 18) Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 7 (week 7) Weekly problem sheet building on Lecture 7 Tutor and lecturer support to assist students complete problems and understand course content Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture 8: Module 2 - Mass Transfer (week 8) 2B. Continued Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 8 (clashes with Good Friday Public Holiday) - this may get rescheduled to another day Friday 18th April is a Public Holiday, and there are no classes on this day. Therefore, we aim to reschedule Tutorial 8 to an alternative day this week if we can. As advised by our administrative team, this is to be reviewed and arranged during the semester. Students will be notified via Blackboard. ---- Weekly problem sheet building on Lecture 8 Tutor and lecturer support to assist students complete problems and understand course content Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture 9: Module 2 continued (week 9) Completion of module 2 and revision Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture 9: Module 3 (week 9) May start Module 3 (if Module 2 completed) Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Problem-based learning",
+      "topic": "Assignment 2 (10%) (Due end of week 9) Problems focused on Module 2"
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture 10: Module 3 - Energy Transport (Week 10) Module 3A. Thermal conductivity and Mechanisms of Energy Transport (BSLK Ch 9) 3B. Shell Energy Balance and Temperature Distributions (BSLK Ch 10) Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 10 (week 10) Weekly problem sheet building on Lecture 10 (Energy transport) Tutor and lecturer support to assist students complete problems and understand course content Students can also ask for help in preparation for in-semester exam Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture 11: Module 3 - Energy Transport (week 11) 3B. Shell Energy Balance and Temperature Distributions (BSLK Ch 10) 3C. Transient Heat Conduction (Ch 11-12) Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 11 (week 11) Weekly problem sheet building on Lecture 11 Tutor and lecturer support to assist students complete problems and understand course content Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture 12: Module 3 - Energy Transport (week 12) 3C continued, Module 3D. Heat Convection (Ch10) Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 12 (week 12) Weekly problem sheet building on Lecture 12 Tutor and lecturer support to assist students complete problems and understand course content Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture 13: Module 3 (week 13) Completion of Module 3 Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture 13: Revision (Module 1-2) Revision of course (including Modules 1 & 2) Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 13 (week 13) Weekly problem sheet building on Lecture 13 Tutor and lecturer support to assist students complete problems and understand course content Help can be sought for Assignment 3 Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Problem-based learning",
+      "topic": "Assignment 3 (10%) (Due end of week 13) Problems focused on Module 3"
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Swot Vac (Optional) If requested by students, we may provide an optional tutorial-like session, overview or workshop during swot vac Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: Safety Induction for Practicals Course guidelines Anyone undertaking courses with a practical component must complete the UQ Undergraduate Student Laboratory Safety Induction and pass the associated assessment. Specific instructions, usage guidelines and rules for each of the undergraduate laboratories will be delivered as part of each course. In some cases, students may be required to attend a specific face-to-face laboratory induction/training session. Learning activities"
+}

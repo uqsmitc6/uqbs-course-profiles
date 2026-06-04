@@ -1,0 +1,422 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMS4113-20445-7520",
+  "scraped_at": "2026-06-04T01:31:19.242977+00:00",
+  "course_code": "COMS4113",
+  "class_code": "20445",
+  "semester_code": "7520",
+  "full_course_code": "COMS4113-20445-7520",
+  "course_title": "Photonics",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Introduction to modern optics and photonics for applications such as telecommunications, sensing and imaging. Topics cover both the wave and particle nature of light, including diffraction, coherence, waveguides, polarisation and resonators. Topics also include semiconductor light sources such as LEDs and VCSELs, as well as photodetectors.\n\nAn introduction to optics, semiconductor fundamentals, and modern photonic devices for applications in optical communications, optical sensing, imaging and computing. After completing the course students will have the understanding of operation and limitations of enabling technologies for optical networking, optical communications, optical sensing and optical computing. This year some examples of typical photonic devices used for optical sensing, imaging and telecommunications will be added in the last lecture.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ELEC3100",
+      "PHYS3051",
+      "PHYS7250"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMS4103"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Tina Qi",
+      "email": "COMS4113@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Mickael Mounaix"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Joel Carpenter"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Tina Qi",
+      "email": "COMS4113@eecs.uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nStudents will have to attend (physically and/or remotely) three 3-hour laboratory sessions for the duration of the course.\nﾠ",
+  "course_aims": "This course aims at providing students with the systematic introduction to modern photonic devices and subsystems for applications in optical communications, optical sensing and imaging, optical data-storage and computing and solid state illumination.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Analyse and explain the principles of operation of photonic devices"
+    },
+    {
+      "number": "LO2.",
+      "description": "Model the photonic devices using analytical and numerical methods and reflect on the results"
+    },
+    {
+      "number": "LO3.",
+      "description": "Evaluate how the performance of the photonic device affects the behaviour of an optoelectronic system."
+    },
+    {
+      "number": "LO4.",
+      "description": "Analyse subsystems that contain photonic devices by means of analytical and simulation techniques."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Quiz",
+      "title": "Take Home Assignment",
+      "weight": "15%",
+      "due_date": "11/04/2025 1:00 pm; Assignment will be released on 09/04/2025 1pm"
+    },
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Laboratory Reports",
+      "weight": "24%",
+      "due_date": "28/05/2025 4:00 pm"
+    },
+    {
+      "category": "Computer Code, Role play/ Simulation",
+      "title": "Simulation Assignment",
+      "weight": "16%",
+      "due_date": "30/05/2025 4:00 pm"
+    },
+    {
+      "category": "Computer Code, Presentation, Role play/ Simulation",
+      "title": "Final Assignment",
+      "weight": "45%",
+      "due_date": "11/06/2025 4:00 pm; Exam released 4pm 9 June and due 4pm 11 June. Presentation on 16 June.",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Take Home Assignment",
+      "mode": "Written",
+      "category": "Computer Code, Quiz",
+      "weight": "15%",
+      "due_date": "11/04/2025 1:00 pm Assignment will be released on 09/04/2025 1pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "This take-home assignment is a Matlab based exam testing concepts and problems. This is a short 48-hour turnaround assignment, meant to replace what would traditionally have been a mid-semester exam. The take home assignment will be released at 1pm 09/04/2025 and due 1pm 11/04/2025. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Please upload all related files including the scripts as a single zip archive in blackboard: take home assignment.\nNB: This is an individual assignment; the electronic copy of your code will be checked for plagiarism.\nDeferral or extension\nYou may be able to defer this exam .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "This take-home assignment is a Matlab based exam testing concepts and problems. This is a short 48-hour turnaround assignment, meant to replace what would traditionally have been a mid-semester exam. The take home assignment will be released at 1pm 09/04/2025 and due 1pm 11/04/2025. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Laboratory Reports",
+      "mode": "Activity/ Performance",
+      "category": "Practical/ Demonstration",
+      "weight": "24%",
+      "due_date": "28/05/2025 4:00 pm",
+      "learning_outcomes_assessed": "L03, L04",
+      "task_description": "Students will be required to do three laboratory experiments , present the results in three laboratory reports , reflect and draw conclusions. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Results must be zipped up together with the completed report (in PDF format) and submit the bundle through Blackboard (Assessment/Lab Pracs) unless otherwise specified for a particular assessment item.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nPrac reports are completed outside the scheduled prac class and are marked and returned to students within 14 days\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Students will be required to do three laboratory experiments , present the results in three laboratory reports , reflect and draw conclusions. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Simulation Assignment",
+      "mode": "Written",
+      "category": "Computer Code, Role play/ Simulation",
+      "weight": "16%",
+      "due_date": "30/05/2025 4:00 pm",
+      "learning_outcomes_assessed": "L02, L03, L04",
+      "task_description": "Students will be required to develop a numerical code in Matlab (or another programming environment of their choice), simulate semiconductor laser using this code, reflect and draw conclusions. Students will be required to write a short report to present the results, due 4pm 30/05/2025. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Electronic submission of the report and code via Blackboard (Assessment/Simulation Assignment) unless otherwise specified for a particular assessment item. NB: This is an individual assignment; the electronic copy of your code will be checked for plagiarism.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach where feedback and/or detailed solutions will be released to students within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Students will be required to develop a numerical code in Matlab (or another programming environment of their choice), simulate semiconductor laser using this code, reflect and draw conclusions. Students will be required to write a short report to present the results, due 4pm 30/05/2025. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Assignment",
+      "mode": "Oral",
+      "category": "Computer Code, Presentation, Role play/ Simulation",
+      "weight": "45%",
+      "due_date": "11/06/2025 4:00 pm Exam released 4pm 9 June and due 4pm 11 June. Presentation on 16 June.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "A Matlab based assignment testing concepts and problems throughout the course will run for 48 hours starting June 9th (Monday) at 16:00 and closing June 11th (Wednesday) at 16:00. On June 16th students will be required to give an oral presentation of approximately 5 minutes to explain the results for one of the problems in the final assignment chosen by the course staff. The 5-minute oral presentation summarizing the results of the simulation assignment is an identity verified piece of assessment. You have to pass the final assessment > 40% to pass the course, as well as pass the oral presentation part, which is pass/fail. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted via Blackboard (Assessment/Final Assignment).\nNB: This is an individual assignment; the electronic copy of your code will be checked for plagiarism.\nDeferral or extension\nYou may be able to apply for an extension .\nIf you are unable to complete the Take Home Assignment 2, please submit an Extension of Assessment Due Date request through my.UQ to apply for a rescheduled assessment date.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "A Matlab based assignment testing concepts and problems throughout the course will run for 48 hours starting June 9th (Monday) at 16:00 and closing June 11th (Wednesday) at 16:00. On June 16th students will be required to give an oral presentation of approximately 5 minutes to explain the results for one of the problems in the final assignment chosen by the course staff. The 5-minute oral presentation summarizing the results of the simulation assignment is an identity verified piece of assessment. You have to pass the final assessment > 40% to pass the course, as well as pass the oral presentation part, which is pass/fail. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (24 Feb - 02 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Week 1 Course introduction - Introduction to optoelectronic devices -Wave Nature of Light Learning outcomes: L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (03 Mar - 09 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Week 2 Diffraction Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (03 Mar - 09 Mar)",
+      "activity_type": "General contact hours",
+      "topic": "Week 2 Wave Nature of Light Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (10 Mar - 16 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Week 3 Coherence and Waveguides Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (10 Mar - 16 Mar)",
+      "activity_type": "General contact hours",
+      "topic": "Week 3 Diffraction Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (17 Mar - 23 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Week 4 Coupled modes Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (17 Mar - 23 Mar)",
+      "activity_type": "General contact hours",
+      "topic": "Week 4 Coherence and Waveguides. As a part of the tutorial session a Q&A session will run during the last 30 minutes of the tutorial and based on the student response feedback on their understanding about the waveguides or lecture contents of previous weeks will be provided. Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (24 Mar - 30 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Week 5 Polarisation Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (24 Mar - 30 Mar)",
+      "activity_type": "General contact hours",
+      "topic": "Week 5 Polarisation Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (31 Mar - 06 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Week 6 Resonators Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (31 Mar - 06 Apr)",
+      "activity_type": "General contact hours",
+      "topic": "Week 6 Resonators Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (07 Apr - 13 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Week 7 Revisions Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (14 Apr - 20 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Week 8 Semiconductor fundamentals Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (14 Apr - 20 Apr)",
+      "activity_type": "General contact hours",
+      "topic": "Week 8 Semiconductor fundamentals Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 9 To Week 12 (28 Apr - 25 May)",
+      "activity_type": "Practical",
+      "topic": "Laboratory practicals The laboratory practicals will start in this week. Times and groups will be handled via mySI-Net. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (28 Apr - 04 May)",
+      "activity_type": "Lecture",
+      "topic": "Week 9 LEDs Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (28 Apr - 04 May)",
+      "activity_type": "General contact hours",
+      "topic": "Week 9 LEDs Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (05 May - 11 May)",
+      "activity_type": "Lecture",
+      "topic": "Week 10 Semiconductor lasers & amps (Part 1): this lecture will be recorded and uploaded in Blackboard due to Labor Day (public holiday) on 5th May 2025. Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (05 May - 11 May)",
+      "activity_type": "General contact hours",
+      "topic": "Week 10 Semiconductor lasers & amps (Part 1) Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (12 May - 18 May)",
+      "activity_type": "Lecture",
+      "topic": "Week 11 Semiconductor lasers & amps (Part 2) Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (12 May - 18 May)",
+      "activity_type": "General contact hours",
+      "topic": "Week 11 Semiconductor lasers & amps (Part 2) Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (19 May - 25 May)",
+      "activity_type": "Lecture",
+      "topic": "Week 12 Photodetectors Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (19 May - 25 May)",
+      "activity_type": "General contact hours",
+      "topic": "Week 12 Photodetectors Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (26 May - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Week 13 Photonic devices and the applications in sensing, imaging and telecommunications, and revisions. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (26 May - 01 Jun)",
+      "activity_type": "General contact hours",
+      "topic": "Week 13 Simulation assignment Q/A session Learning outcomes: L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . You'll also need to be aware of the following policies and procedures while completing this course: Occupational Health and Safety in the Laboratory Guideline School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

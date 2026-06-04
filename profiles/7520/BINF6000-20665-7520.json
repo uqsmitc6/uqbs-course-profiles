@@ -1,0 +1,342 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BINF6000-20665-7520",
+  "scraped_at": "2026-06-04T01:27:29.384213+00:00",
+  "course_code": "BINF6000",
+  "class_code": "20665",
+  "semester_code": "7520",
+  "full_course_code": "BINF6000-20665-7520",
+  "course_title": "Bioinformatics 1: Introduction",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Chemistry & Molec Biosciences",
+  "course_description": "This course aims to provide students from a broad range of backgrounds with an introduction to bioinformatics, an emerging discipline that is transforming how we make discoveries in molecular bioscience. The course develops both theoretical and practical skills in bioinformatics, with an emphasis on the extraction and analysis of data, driven by current technologies. The course aims to equip students with a working knowledge of computing methodology relevant to the biosciences, including the use of databases, the automation of common bioinformatics tools, and the development of methods tailored for representative problems and data types in molecular biosciences. The course will prepare students for more advanced courses in the area of bioinformatics, genomics and systems biology.\n\nBioinformatics is the field that uses computational and mathematical approaches to solve biological problems. It is transforming how we approach scientific problems, and enabling us to tackle larger and more complex challenges in life sciences. This course is your gateway to the exciting world of bioinformatics and computational biology.\n\nWith advances in genome sequencing and high-throughput biotechnologies, vast amounts of biological data are generated every day, far exceeding our capacity to analyse or synthesise knowledge from them. In addition, existing tools quickly become outdated, creating a demand for new bioinformatics methods.\n\nThis course will teach you how to leverage computational tools to uncover patterns in these data and transform them into meaningful biological insights, and address emerging challenges in this rapidly evolving field. The curriculum begins with a brief foundational introduction to molecular biology and dives into key topics, including:\n\n(a) comparing molecular sequences to uncover their biological importance;\n\n(b) analysing high-throughput data to study gene expression and genome sequences;\n\n(c) understanding evolutionary relationships using phylogenetics;\n\n(d) understanding biological datatypes, databases, and their applications; and\n\n(e) predicting protein structures and their functions.\n\nThroughout, the course instils and nurtures computational thinking and skillsets to support the analysis of large-scale datasets (i.e. big-data analysis).\n\nThis course includes two streams of assessments: one for bioinformatics \"users\" and another for bioinformatics \"developers.\" The \"user\" stream focuses on biological problems, while the \"developer\" stream emphasises computational challenges. Students enrolled in postgraduate Bioinformatics programs (such as the Master of Bioinformatics), are required to complete the \"developer\" stream. Students from other programs may request to choose a stream, but final placement will be determined individually after an evaluation process.\n\nBy the end of this course, you will have a strong understanding of how bioinformatics is used to answer fundamental biological questions in fields such as medicine, biotechnology, and environmental science.\n\nThe demand for bioinformatics professionals is strong and growing across diverse industries, including healthcare, agriculture, biotechnology, pharmaceuticals, and environmental management. Graduates equipped with bioinformatic skills are particularly sought after in the areas of drug design and patent management, gene therapy, crops and livestock breeding (and farming), aquaculture, and environmental management, for their ability to translate biological data into practical optimised solutions.\n\nIf you are passionate about using data to drive breakthroughs in biology, this course is the perfect starting point for your journey.",
+  "requirements": {
+    "companions": [
+      "You'll need to complete the following courses at the same time:",
+      "BINF6001",
+      "We recommend completing the following courses at the same time:",
+      "CSSE7030"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Cheong Xin Chan",
+      "email": "c.chan1@uq.edu.au",
+      "phone": "+61 7 3365 3829"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Cheong Xin Chan",
+      "email": "c.chan1@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Scott Beatson",
+      "email": "scott.beatson@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Mikael Boden",
+      "email": "m.boden@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Jessica Mar",
+      "email": "jessica.mar@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Stephanie Portelli",
+      "email": "s.portelli@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease check your timetable regularly.",
+  "course_aims": "This course offers both theoretical knowledge and practical experience, preparing you to understand, analyse, and solve real-world bioinformatic problems effectively.\n\nIt is designed to enable you to:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand key concepts of molecular biology and sequences, and how bioinformatics and publicly available data contribute to biological discovery."
+    },
+    {
+      "number": "LO2.",
+      "description": "Analyse DNA, RNA, and protein sequences, identify patterns, and compare them to generate biological insights."
+    },
+    {
+      "number": "LO3.",
+      "description": "Understand the principles of phylogenetics and its application to study evolutionary changes in sequences."
+    },
+    {
+      "number": "LO4.",
+      "description": "Explain key technologies for generating biological data and understand the different types and formats of these data."
+    },
+    {
+      "number": "LO5.",
+      "description": "Use bioinformatic tools including Python programming to solve biological problems, including working with biological databases and/or developing/refining methods."
+    },
+    {
+      "number": "LO6.",
+      "description": "Understand key computing concepts in bioinformatics and the challenges involved in analysing complex biological data."
+    },
+    {
+      "number": "LO7.",
+      "description": "Identify research areas and career opportunities in bioinformatics across academia and industry."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Online Quiz (Assessment 1)",
+      "weight": "15%",
+      "due_date": "21/03/2025 2:00 pm",
+      "conditions": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Tutorial/ Problem Set",
+      "title": "Workshop Assessment (Assessment 2)",
+      "weight": "20% Workshop 1 is a Pass/Fail. Workshop 2 has a 20% weighting of overall course marks.",
+      "due_date": "Workshop 1 (Pass/Fail) 4/04/2025 2:00 pm; Workshop 2 (20%) 2/05/2025 2:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Performance, Presentation, Project, Tutorial/ Problem Set",
+      "title": "Group Project (Assessment 3)",
+      "weight": "25%",
+      "due_date": "30/05/2025 2:00 pm",
+      "conditions": [
+        "Hurdle",
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "End-of-Semester Exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Online Quiz (Assessment 1)",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "15%",
+      "due_date": "21/03/2025 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L05",
+      "task_description": "Assessment 1 is an Online Quiz that consists of multiple-choice questions. It assesses the students understanding of the Core Practicals. Estimated time to complete this quiz is 30-45 minutes. Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. Read full task description Hide full task description",
+      "submission_guidelines": "To be submitted on Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nApplications for Extensions\nInformation on applying for an extension can be found here: my.UQ Applying for an extension .\nExtension applications must be received by the assessment due date and time.\nIf you are unable to provide approved documentation to support your application by the due date and time, you must still submit your application by the deadline but with an attached Word document that outlines why you cannot provide the approved documentation by the deadline. You will then need to acquire and upload the approved documentation to your request within 24 hours. Please note: When an extension request has been submitted and is pending, students are expected to continue to work on the assessment item, with the aim of submitting by the requested due date and time.\nProlonged Absence\nIf you have been ill or unable to attend class for more than 14 days, we advise you to carefully consider whether you are capable of successfully completing your courses this semester.\nExtensions with Student Access Plans (SAP)\nFor extensions up to 7 days, your SAP is all that is required as documentation to support your application. However, extension requests longer than 7 days (for any one assessment item) will require the submission of additional supporting documentation e.g. a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period). 10% will be deducted per day for up to 7 calendar days, at which point your submission will receive a mark of zero (0) unless an extension has been approved.\nIn most instances one or more hurdles will apply to your assessment item so you will need to submit it to fulfil the requirements of the course regardless of how late it is and the mark you are likely to be awarded.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Assessment 1 is an Online Quiz that consists of multiple-choice questions. It assesses the students understanding of the Core Practicals. Estimated time to complete this quiz is 30-45 minutes. Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.\nTo pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.",
+      "special_indicators": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Workshop Assessment (Assessment 2)",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Tutorial/ Problem Set",
+      "weight": "20% Workshop 1 is a Pass/Fail. Workshop 2 has a 20% weighting of overall course marks.",
+      "due_date": "Workshop 1 (Pass/Fail) 4/04/2025 2:00 pm Workshop 2 (20%) 2/05/2025 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L05, L06",
+      "task_description": "This Assessment consists of two workshops running in two streams: (a) user stream (with a stronger biology component), and (b) developer stream (with a stronger informatics component). Students will be assigned to a stream prior to the beginning of this assessment, and expected to remain in the assigned stream for both workshops. Workshop 1 will be held during scheduled practical sessions in Weeks 5-6 . This workshop is designed to assess students’ fundamental understanding in the practical aspects in performing routine bioinformatic tasks relevant to omics data analysis. Students are expected to (1) work through a set of computer-based tasks and (2) submit short-answers to a set of designated questions. A successful attempt (i.e. submitted answers to all questions) by the specified due date is considered \"pass\". Workshop 2 will be held during scheduled practical sessions in Weeks 7-9 . This workshop will be structured around completing exercises in sequence analysis and phylogenetics. This workshop will introduce students to resources (e.g., databases, data sources, literature), tools (e.g., sequence database search tools, statistical tests) and methods (e.g. inferring phylogenetic relationships) used to address components of a biological problem. More detail will be available on Blackboard. Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. Read full task description Hide full task description",
+      "submission_guidelines": "To be submitted on Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nApplications for Extensions\nInformation on applying for an extension can be found here: my.UQ Applying for an extension .\nExtension applications must be received by the assessment due date and time.\nIf you are unable to provide approved documentation to support your application by the due date and time, you must still submit your application by the deadline but with an attached Word document that outlines why you cannot provide the approved documentation by the deadline. You will then need to acquire and upload the approved documentation to your request within 24 hours. Please note: When an extension request has been submitted and is pending, students are expected to continue to work on the assessment item, with the aim of submitting by the requested due date and time.\nProlonged Absence\nIf you have been ill or unable to attend class for more than 14 days, we advise you to carefully consider whether you are capable of successfully completing your courses this semester.\nExtensions with Student Access Plans (SAP)\nFor extensions up to 7 days, your SAP is all that is required as documentation to support your application. However, extension requests longer than 7 days (for any one assessment item) will require the submission of additional supporting documentation e.g. a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period). 10% will be deducted per day for up to 7 calendar days, at which point your submission will receive a mark of zero (0) unless an extension has been approved.\nIn most instances one or more hurdles will apply to your assessment item so you will need to submit it to fulfil the requirements of the course regardless of how late it is and the mark you are likely to be awarded.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This Assessment consists of two workshops running in two streams: (a) user stream (with a stronger biology component), and (b) developer stream (with a stronger informatics component). Students will be assigned to a stream prior to the beginning of this assessment, and expected to remain in the assigned stream for both workshops. Workshop 1 will be held during scheduled practical sessions in Weeks 5-6 . This workshop is designed to assess students’ fundamental understanding in the practical aspects in performing routine bioinformatic tasks relevant to omics data analysis. Students are expected to (1) work through a set of computer-based tasks and (2) submit short-answers to a set of designated questions. A successful attempt (i.e. submitted answers to all questions) by the specified due date is considered \"pass\". Workshop 2 will be held during scheduled practical sessions in Weeks 7-9 . This workshop will be structured around completing exercises in sequence analysis and phylogenetics. This workshop will introduce students to resources (e.g., databases, data sources, literature), tools (e.g., sequence database search tools, statistical tests) and methods (e.g. inferring phylogenetic relationships) used to address components of a biological problem. More detail will be available on Blackboard. Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.\nTo pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Group Project (Assessment 3)",
+      "mode": "Activity/ Performance, Product/ Artefact/ Multimedia, Written",
+      "category": "Paper/ Report/ Annotation, Performance, Presentation, Project, Tutorial/ Problem Set",
+      "weight": "25%",
+      "due_date": "30/05/2025 2:00 pm",
+      "other_conditions": "Peer assessment factor. See the conditions definitions",
+      "learning_outcomes_assessed": "L02, L03, L04, L05, L06",
+      "task_description": "Assessment 3 is a Group Project presentation of research findings, based on the tasks outlined in the project assignment, in omics data analysis. Students will work in groups of 5-6. Each group will consist at least one member from the developer stream (in the earlier Workshops). Contact sessions will be run as interactive classes, and requires active participation. There are three components in this Assessment: (a) Video presentation : submitted through Blackboard, during which each student in a group is required to present in turn within an allocated time. (b) Interview : each group will attend an in-person interview with the assessors who will pose questions related to the high-level concepts, rationale and execution of the project. (c) Peer assessment : each member will assess their peers within the group, based on their capacity as a team player and leader, and their research performance. The activities in this Assessment emulate a real-life workplace scenario in a bioinformatics-relevant industry. More detail will be available on Blackboard. Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "To be submitted on Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nApplications for Extensions\nInformation on applying for an extension can be found here: my.UQ Applying for an extension .\nExtension applications must be received by the assessment due date and time.\nIf you are unable to provide approved documentation to support your application by the due date and time, you must still submit your application by the deadline but with an attached Word document that outlines why you cannot provide the approved documentation by the deadline. You will then need to acquire and upload the approved documentation to your request within 24 hours. Please note: When an extension request has been submitted and is pending, students are expected to continue to work on the assessment item, with the aim of submitting by the requested due date and time.\nProlonged Absence\nIf you have been ill or unable to attend class for more than 14 days, we advise you to carefully consider whether you are capable of successfully completing your courses this semester.\nExtensions with Student Access Plans (SAP)\nFor extensions up to 7 days, your SAP is all that is required as documentation to support your application. However, extension requests longer than 7 days (for any one assessment item) will require the submission of additional supporting documentation e.g. a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period). 10% will be deducted per day for up to 7 calendar days, at which point your submission will receive a mark of zero (0) unless an extension has been approved.\nIn most instances one or more hurdles will apply to your assessment item so you will need to submit it to fulfil the requirements of the course regardless of how late it is and the mark you are likely to be awarded.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Assessment 3 is a Group Project presentation of research findings, based on the tasks outlined in the project assignment, in omics data analysis. Students will work in groups of 5-6. Each group will consist at least one member from the developer stream (in the earlier Workshops). Contact sessions will be run as interactive classes, and requires active participation. There are three components in this Assessment: (a) Video presentation : submitted through Blackboard, during which each student in a group is required to present in turn within an allocated time. (b) Interview : each group will attend an in-person interview with the assessors who will pose questions related to the high-level concepts, rationale and execution of the project. (c) Peer assessment : each member will assess their peers within the group, based on their capacity as a team player and leader, and their research performance. The activities in this Assessment emulate a real-life workplace scenario in a bioinformatics-relevant industry. More detail will be available on Blackboard. Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End-of-Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "learning_outcomes_assessed": "L01, L03, L04, L06",
+      "task_description": "This assessment aims to test the breadth of the student's knowledge in bioinformatics. Particular emphasis is put on knowledge that is not explicitly assessed by means of assignments and practicals. The student will be given a set of short-answer questions and problems, covering the major topics discussed in the lectorials. Further details will be provided on Blackboard. Use of Artificial Intelligence (AI) and Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options Any calculator permitted Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This assessment aims to test the breadth of the student's knowledge in bioinformatics. Particular emphasis is put on knowledge that is not explicitly assessed by means of assignments and practicals. The student will be given a set of short-answer questions and problems, covering the major topics discussed in the lectorials. Further details will be provided on Blackboard. Use of Artificial Intelligence (AI) and Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 2 (24 Feb - 09 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Introduction to molecular biology Introduction to the course and molecular biology Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 2 (24 Feb - 09 Mar)",
+      "activity_type": "Practical",
+      "topic": "Core Practicals Core bioinformatics practicals on the use of public databases and analysis of biological sequences Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 3 To Week 4 (10 Mar - 23 Mar)",
+      "activity_type": "Tutorial",
+      "topic": "Introduction to bioinformatics computing Introduction to Galaxy, UNIX commandline, and simple scripting in Python Learning outcomes: L05, L06",
+      "learning_outcomes": [
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 3 To Week 5 (10 Mar - 30 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Sequence analysis Sequence analysis in bioinformatics (conservation, sequence alignment, high-throughput sequences, profiles, motifs) Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 5 To Week 6 (24 Mar - 06 Apr)",
+      "activity_type": "Workshop",
+      "topic": "Workshop 1: Genome and RNAseq/ChIPseq analysis 1A (user stream; RNAseq) or 1B (developer stream; ChIPseq). Design and implementation of computational workflows for bioinformatic analysis. This is a Course Assessment Hurdle. See ADDITIONAL COURSE GRADING INFORMATION for the hurdle/s relating to this assessment item. Learning outcomes: L01, L02, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 6 To Week 7 (31 Mar - 13 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Phylogenetics Phylogenetic methods in bioinformatics Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 7 To Week 9 (07 Apr - 04 May)",
+      "activity_type": "Workshop",
+      "topic": "Workshop 2: Sequence analysis and phylogenetics 2A (user stream) or 2B (developer stream) Comparative analysis of biological sequences and inference of phylogenetic relationship. Learning outcomes: L02, L03, L05, L06",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (14 Apr - 20 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Gene expression analysis Bioinformatic analysis of gene expression and transcriptome data Learning outcomes: L02, L04",
+      "learning_outcomes": [
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (28 Apr - 04 May)",
+      "activity_type": "Lecture",
+      "topic": "Databases Biological databases and ontology Learning outcomes: L05, L06",
+      "learning_outcomes": [
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 10 To Week 13 (05 May - 01 Jun)",
+      "activity_type": "Workshop",
+      "topic": "Group Project: Omics data analysis Group research project on genome-scale data analysis, guided with practical material and exercises. Learning outcomes: L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (12 May - 18 May)",
+      "activity_type": "Lecture",
+      "topic": "Protein bioinformatics Learning outcomes: L05, L06",
+      "learning_outcomes": [
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (19 May - 25 May)",
+      "activity_type": "Workshop",
+      "topic": "Career Panel Forum Open discussion forum about career prospects in bioinformatics Learning outcomes: L07",
+      "learning_outcomes": [
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (26 May - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Review Review of course content and preparation for the End-of-Semester Exam Learning outcomes: L01, L03, L04, L06",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

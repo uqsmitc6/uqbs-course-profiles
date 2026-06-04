@@ -1,0 +1,228 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/DECO7250-21346-7520",
+  "scraped_at": "2026-06-04T01:33:06.340664+00:00",
+  "course_code": "DECO7250",
+  "class_code": "21346",
+  "semester_code": "7520",
+  "full_course_code": "DECO7250-21346-7520",
+  "course_title": "Human-Computer Interaction",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Models of action, perception, cognition and interaction in human-machine systems. Methods of interaction analysis and interaction representation. Human-machine system evaluation. Practical implementation. Introduction to user and use-centred design principles. Broader topics may include: societal considerations, groupware, multimedia, media perspectives.\n\nThis course introduces students to the fundamental principles, theories, and methods of Human-Computer Interaction (HCI) . It explores how people interact with technology and how we can design more effective, usable, and engaging digital systems.\n\nThe course is structured around Norman’s Model of Interaction , focusing on the Gulfs of Execution and Evaluation . Through this model, students will learn to analyse and design interactive systems by considering three key perspectives:\n\nThe course is highly applied , with a mix of lectures, hands-on studio activities, and assessments that build students’ skills in user research, prototyping, and evaluation . Students will first design an interactive system (Assessment 1: Design Proposal) and then evaluate an interface using user-based and expert evaluation methods (Assessment 2: Interface Evaluation).\n\nBy the end of the course, students will have practical experience in designing and evaluating digital interfaces, with a strong understanding of the cognitive and usability principles that drive effective interaction design.\n\nThe content of this course has been modified several times based on student feedback. The duration of the lecture has been extended and group work has been reduced. Assessment has been redesigned to ensure that it is better distributed across the course and studio activities have been specifically aligned to the assessment tasks.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "DECO7140",
+      "CSSE7030"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP2506",
+      "COMP3501",
+      "COMP7904",
+      "DECO2500",
+      "This course is jointly-taught with:"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Peter Worthy",
+      "email": "DECO2500@eecs.uq.edu.au"
+    },
+    {
+      "role": "Course coordinator",
+      "name": "Dr Thilina Halloluwa"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Peter Worthy"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Thilina Halloluwa"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThe timetable for DECO2500 is split into a two-hour Lecture session combined with DECO7250 students, and a two-hour Studio session. Lectures will occur on campus and will be recorded. The studio sessions will occur on campus and will not be recorded.\nﾠ",
+  "course_aims": "This course provides students with an introduction to the theory and methods underlying Human-Computer Interaction. Students will gain experience in researching user needs and goals, then developing appropriately targeted design solutions to the needs and goals they have identified.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand Human-Computer Interaction from a historical/theoretical perspective to identify some of the major themes and influences that have shaped the field."
+    },
+    {
+      "number": "LO2.",
+      "description": "Relate cognitive, social, behavioural, and emotional theories to the design of effective human-system interaction."
+    },
+    {
+      "number": "LO3.",
+      "description": "Analyse human-centred design issues by applying a range of design research methods, which involve the people from target user groups, in the process of interactive system design."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply HCI techniques and principles of user-interface design in the design of an interactive system."
+    },
+    {
+      "number": "LO5.",
+      "description": "Select and apply appropriate HCI evaluation (user and expert) techniques to evaluate interactive systems and analyse the results of those evaluation methods."
+    },
+    {
+      "number": "LO6.",
+      "description": "Apply HCI knowledge, in terms of system accessibility, within appropriate user-interface design for a broad range of user groups."
+    },
+    {
+      "number": "LO7.",
+      "description": "Demonstrate an ability to work collaboratively and effectively with others in a team towards shared goals, while managing individual work"
+    },
+    {
+      "number": "LO8.",
+      "description": "Demonstrate an understanding of relevant HCI research by identifying, inspecting, and critiquing appropriate literature and with appropriate referencing [THIS LEARNING OBJECTIVE CONTRIBUTES TO AQF9 RESEARCH FOR MASTERS PROGRAMS]"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "A1 Design Proposal",
+      "weight": "20% (Group)",
+      "due_date": "A1.1 Draft Research Instruments: submitted during your allocated studio 18/03/2025 - 21/03/2025; A1.2 Design Proposal: Submission due 2pm 28/04/2025",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "A2 Interface Evaluation",
+      "weight": "25% (Individual)",
+      "due_date": "26/05/2025 2:00 pm"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "A3 Translating HCI Research for Industry",
+      "weight": "20% (Individual)",
+      "due_date": "12/05/2025 2:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "35% (Individual)",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "A1 Design Proposal",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "20% (Group)",
+      "due_date": "A1.1 Draft Research Instruments: submitted during your allocated studio 18/03/2025 - 21/03/2025 A1.2 Design Proposal: Submission due 2pm 28/04/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L06, L07",
+      "task_description": "In this assessment, you will work in teams to explore a user-centered design problem within a chosen domain. Across two phases , you will (1) conduct contextual inquiry (including user research, scenarios, and affinity diagramming) to identify user needs, and (2) develop a conceptual design (including a conceptual model, future scenarios, and a prototype) that addresses those needs. Throughout the process, each team will maintain a Work Record to document contributions and submit Individual Reflections to demonstrate collaboration and engagement. Please note: Full details of all tasks, required outputs, and grading criteria are provided in the Assessment Task Sheet that will be available in the course Blackboard site. Submission Sequence This assessment is divided into two key submission points to support your design process: Week 4 before the end of your allocated studio: You will submit Draft Research Instruments (e.g., interview questions, surveys) for early feedback. Incorporating this feedback will help you gather more reliable and relevant data for the next steps of your project. Week 9 on or before 2pm on Monday 28 April, 2025: You will submit your complete Design Proposal , which includes all artifacts from both the Contextual Inquiry and Conceptual Design phases, along with the Team Work Record and your Individual Reflection. This two-step approach ensures you receive formative input early on—enabling stronger user-centered research—and culminates in a fully developed proposal that demonstrates how your solution addresses real user needs. A1.1 Draft Research Instruments (Pass/Fail) This component is essential because it directly informs your user-centered design work for the A1.2 Design Proposal . You must submit draft interview/survey instruments in Week 4 and achieve a Pass to proceed effectively. One Chance to Resubmit : If you do not pass on the first submission, you will have an opportunity to revise your instruments based on feedback and resubmit. Failing After Resubmission : If you still do not pass after this second attempt, the highest grade you can attain for A1.2 Design Proposal will be capped at a Pass (4) . Rationale : Well-crafted research instruments are the foundation of your entire project. Ensuring they meet the minimum required standard guarantees that your subsequent design activities (scenarios, affinity diagram, user stories, etc.) are based on meaningful, accurate user data . Use of Generative AI and Machine Translation Tools This task has been designed to challenge students with authentic and complex problems, reflecting professional contexts in web design and development. The use of Generative AI (GenAI) and Machine Translation (MT) tools is permitted and encouraged, provided it aligns with the course's GenAI and MT Usage Framework (available in Blackboard / Course Resources) AND the boundaries for appropriate use as defined in the task sheet for this assessment item. Successful completion of this assessment requires students to: Critically engage with these tools to enhance creativity, problem-solving, and technical proficiency. Reflect on their use of AI technologies, documenting how they supported the task and evaluating their effectiveness, limitations, and ethical implications. Ensure all outputs are critically reviewed, revised, and transparently acknowledged, maintaining academic integrity. Students are expected to maintain ownership of their work by ensuring that the final submission reflects their understanding and skills. Misuse or failure to acknowledge the use of GenAI and MT tools in accordance with the GenAI and MT Usage Framework will be addressed under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "For both A1.1 Draft Research Instruments and A1.2 Final Design Proposal, you should submit a single electronic file via relevant the Turnitin Assignment Handler in Blackboard on or before the due date/time.\nPlease ensure that an Acknowledgement of the Usage of Generative AI and/or Machine Translation is included in your submission. The format and contents of this Acknowledgement are detailed in the assessment task sheet.\nYour team submission must be a single word-processed document that contains your team's report, including coversheet, reference list and appendix. Microsoft Word (.doc/.docx) or Pages (.pages) formats only. Note PDF is acceptable but is not the preferred format.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThis assessment is developed and iterated on with students needing to act on regular formative feedback over the semester. This is to support the development of genuine reflective practice in the assessment and enable students to learn skills required in standard industry design practice.\nIf there are exceptional circumstances, an exemption may be approved and may involve submitting/discussing your work as it stands. Exemptions must be requested as an extension with a note specifying exemption via my.UQ.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "ai_statement": "In this assessment, you will work in teams to explore a user-centered design problem within a chosen domain. Across two phases , you will (1) conduct contextual inquiry (including user research, scenarios, and affinity diagramming) to identify user needs, and (2) develop a conceptual design (including a conceptual model, future scenarios, and a prototype) that addresses those needs. Throughout the process, each team will maintain a Work Record to document contributions and submit Individual Reflections to demonstrate collaboration and engagement. Please note: Full details of all tasks, required outputs, and grading criteria are provided in the Assessment Task Sheet that will be available in the course Blackboard site. Submission Sequence This assessment is divided into two key submission points to support your design process: Week 4 before the end of your allocated studio: You will submit Draft Research Instruments (e.g., interview questions, surveys) for early feedback. Incorporating this feedback will help you gather more reliable and relevant data for the next steps of your project. Week 9 on or before 2pm on Monday 28 April, 2025: You will submit your complete Design Proposal , which includes all artifacts from both the Contextual Inquiry and Conceptual Design phases, along with the Team Work Record and your Individual Reflection. This two-step approach ensures you receive formative input early on—enabling stronger user-centered research—and culminates in a fully developed proposal that demonstrates how your solution addresses real user needs. A1.1 Draft Research Instruments (Pass/Fail) This component is essential because it directly informs your user-centered design work for the A1.2 Design Proposal . You must submit draft interview/survey instruments in Week 4 and achieve a Pass to proceed effectively. One Chance to Resubmit : If you do not pass on the first submission, you will have an opportunity to revise your instruments based on feedback and resubmit. Failing After Resubmission : If you still do not pass after this second attempt, the highest grade you can attain for A1.2 Design Proposal will be capped at a Pass (4) . Rationale : Well-crafted research instruments are the foundation of your entire project. Ensuring they meet the minimum required standard guarantees that your subsequent design activities (scenarios, affinity diagram, user stories, etc.) are based on meaningful, accurate user data . Use of Generative AI and Machine Translation Tools This task has been designed to challenge students with authentic and complex problems, reflecting professional contexts in web design and development. The use of Generative AI (GenAI) and Machine Translation (MT) tools is permitted and encouraged, provided it aligns with the course's GenAI and MT Usage Framework (available in Blackboard / Course Resources) AND the boundaries for appropriate use as defined in the task sheet for this assessment item. Successful completion of this assessment requires students to: Critically engage with these tools to enhance creativity, problem-solving, and technical proficiency. Reflect on their use of AI technologies, documenting how they supported the task and evaluating their effectiveness, limitations, and ethical implications. Ensure all outputs are critically reviewed, revised, and transparently acknowledged, maintaining academic integrity. Students are expected to maintain ownership of their work by ensuring that the final submission reflects their understanding and skills. Misuse or failure to acknowledge the use of GenAI and MT tools in accordance with the GenAI and MT Usage Framework will be addressed under the Student Code of Conduct. Read full task description Hide full task description\nThis task has been designed to challenge students with authentic and complex problems, reflecting professional contexts in web design and development. The use of Generative AI (GenAI) and Machine Translation (MT) tools is permitted and encouraged, provided it aligns with the course's GenAI and MT Usage Framework (available in Blackboard / Course Resources) AND the boundaries for appropriate use as defined in the task sheet for this assessment item.\nReflect on their use of AI technologies, documenting how they supported the task and evaluating their effectiveness, limitations, and ethical implications.\nPlease ensure that an Acknowledgement of the Usage of Generative AI and/or Machine Translation is included in your submission. The format and contents of this Acknowledgement are detailed in the assessment task sheet.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "A2 Interface Evaluation",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "25% (Individual)",
+      "due_date": "26/05/2025 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L05, L06",
+      "task_description": "For this assessment, each student will take one critical task from their group’s prototype and individually conduct a two-pronged evaluation. They will (1) perform an expert evaluation/review, applying established HCI principles (e.g., Nielsen’s heuristics) to diagnose usability and accessibility issues; and (2) run a user-based evaluation, gathering direct feedback from representative users. Findings will be analysed and linked back to HCI theory, culminating in recommendations for future improvements. This approach develops essential evaluation skills and ensures accessibility considerations remain at the forefront. Use of Generative AI and Machine Translation Tools This task has been designed to challenge students with authentic and complex problems, reflecting professional contexts in web design and development. The use of Generative AI (GenAI) and Machine Translation (MT) tools is permitted and encouraged, provided it aligns with the course's GenAI and MT Usage Framework (available in Blackboard / Course Resources) AND the boundaries for appropriate use as defined in the task sheet for this assessment item. Successful completion of this assessment requires students to: Critically engage with these tools to enhance creativity, problem-solving, and technical proficiency. Reflect on their use of AI technologies, documenting how they supported the task and evaluating their effectiveness, limitations, and ethical implications. Ensure all outputs are critically reviewed, revised, and transparently acknowledged, maintaining academic integrity. Students are expected to maintain ownership of their work by ensuring that the final submission reflects their understanding and skills. Misuse or failure to acknowledge the use of GenAI and MT tools in accordance with the GenAI and MT Usage Framework will be addressed under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "You should submit a single electronic file via the Turnitin Assignment Handler in Blackboard on or before the due date/time.\nPlease ensure that an Acknowledgement of the Usage of Generative AI and/or Machine Translation is included in your submission. The format and contents of this Acknowledgement are detailed in the assessment task sheet.\nYour submission must be a single word-processed document that contains your report, including any reference list and appendices. Microsoft Word (.doc/.docx) or Pages (.pages) formats only. Note PDF is acceptable but is not the preferred format.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach where feedback and/or detailed solutions will be released to students within 14 days. This is to ensure that students have feedback prior to their exam so they can act on this feedback for their exam.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "ai_statement": "For this assessment, each student will take one critical task from their group’s prototype and individually conduct a two-pronged evaluation. They will (1) perform an expert evaluation/review, applying established HCI principles (e.g., Nielsen’s heuristics) to diagnose usability and accessibility issues; and (2) run a user-based evaluation, gathering direct feedback from representative users. Findings will be analysed and linked back to HCI theory, culminating in recommendations for future improvements. This approach develops essential evaluation skills and ensures accessibility considerations remain at the forefront. Use of Generative AI and Machine Translation Tools This task has been designed to challenge students with authentic and complex problems, reflecting professional contexts in web design and development. The use of Generative AI (GenAI) and Machine Translation (MT) tools is permitted and encouraged, provided it aligns with the course's GenAI and MT Usage Framework (available in Blackboard / Course Resources) AND the boundaries for appropriate use as defined in the task sheet for this assessment item. Successful completion of this assessment requires students to: Critically engage with these tools to enhance creativity, problem-solving, and technical proficiency. Reflect on their use of AI technologies, documenting how they supported the task and evaluating their effectiveness, limitations, and ethical implications. Ensure all outputs are critically reviewed, revised, and transparently acknowledged, maintaining academic integrity. Students are expected to maintain ownership of their work by ensuring that the final submission reflects their understanding and skills. Misuse or failure to acknowledge the use of GenAI and MT tools in accordance with the GenAI and MT Usage Framework will be addressed under the Student Code of Conduct. Read full task description Hide full task description\nThis task has been designed to challenge students with authentic and complex problems, reflecting professional contexts in web design and development. The use of Generative AI (GenAI) and Machine Translation (MT) tools is permitted and encouraged, provided it aligns with the course's GenAI and MT Usage Framework (available in Blackboard / Course Resources) AND the boundaries for appropriate use as defined in the task sheet for this assessment item.\nReflect on their use of AI technologies, documenting how they supported the task and evaluating their effectiveness, limitations, and ethical implications.\nPlease ensure that an Acknowledgement of the Usage of Generative AI and/or Machine Translation is included in your submission. The format and contents of this Acknowledgement are detailed in the assessment task sheet."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "A3 Translating HCI Research for Industry",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "20% (Individual)",
+      "due_date": "12/05/2025 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L08",
+      "task_description": "In this assessment, postgraduate students will bridge the gap between academic research and industry practice by translating a peer-reviewed HCI research paper into a LinkedIn-style article targeted at professionals in the technology design and development community. This task is designed to enhance students’ ability to interpret, communicate, and apply academic research in real-world industry settings . Use of Generative AI and Machine Translation Tools This task has been designed to challenge students with authentic and complex problems, reflecting professional contexts in web design and development. The use of Generative AI (GenAI) and Machine Translation (MT) tools is permitted and encouraged, provided it aligns with the course's GenAI and MT Usage Framework (available in Blackboard / Course Resources) AND the boundaries for appropriate use as defined in the task sheet for this assessment item. Successful completion of this assessment requires students to: Critically engage with these tools to enhance creativity, problem-solving, and technical proficiency. Reflect on their use of AI technologies, documenting how they supported the task and evaluating their effectiveness, limitations, and ethical implications. Ensure all outputs are critically reviewed, revised, and transparently acknowledged, maintaining academic integrity. Students are expected to maintain ownership of their work by ensuring that the final submission reflects their understanding and skills. Misuse or failure to acknowledge the use of GenAI and MT tools in accordance with the GenAI and MT Usage Framework will be addressed under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Students will be provided with an HTML template and prescribed CSS files to ensure consistent styling.\nSubmission consists of two components :\n1. Webpage Submission :\nStudents will create a webpage using the provided template. The webpage files must be submitted as a zip file via a designated Blackboard link.\n2. Text-Only Submission :\nA plain text version of the article, including an acknowledgment of AI usage (as detailed in the GenAI and MT Framework for the course), must be submitted separately via the Turnitin Assignment Handler in Blackboard . Your written submission must be a single word-processed document that contains only the text of your article. Microsoft Word (.doc/.docx) or Pages (.pages) formats only. Note PDF is acceptable but is not the preferred format.\nBoth components must be submitted by the due date to receive a complete assessment.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach where feedback and/or detailed solutions will be released to students within 14 days.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "ai_statement": "In this assessment, postgraduate students will bridge the gap between academic research and industry practice by translating a peer-reviewed HCI research paper into a LinkedIn-style article targeted at professionals in the technology design and development community. This task is designed to enhance students’ ability to interpret, communicate, and apply academic research in real-world industry settings . Use of Generative AI and Machine Translation Tools This task has been designed to challenge students with authentic and complex problems, reflecting professional contexts in web design and development. The use of Generative AI (GenAI) and Machine Translation (MT) tools is permitted and encouraged, provided it aligns with the course's GenAI and MT Usage Framework (available in Blackboard / Course Resources) AND the boundaries for appropriate use as defined in the task sheet for this assessment item. Successful completion of this assessment requires students to: Critically engage with these tools to enhance creativity, problem-solving, and technical proficiency. Reflect on their use of AI technologies, documenting how they supported the task and evaluating their effectiveness, limitations, and ethical implications. Ensure all outputs are critically reviewed, revised, and transparently acknowledged, maintaining academic integrity. Students are expected to maintain ownership of their work by ensuring that the final submission reflects their understanding and skills. Misuse or failure to acknowledge the use of GenAI and MT tools in accordance with the GenAI and MT Usage Framework will be addressed under the Student Code of Conduct. Read full task description Hide full task description\nThis task has been designed to challenge students with authentic and complex problems, reflecting professional contexts in web design and development. The use of Generative AI (GenAI) and Machine Translation (MT) tools is permitted and encouraged, provided it aligns with the course's GenAI and MT Usage Framework (available in Blackboard / Course Resources) AND the boundaries for appropriate use as defined in the task sheet for this assessment item.\nReflect on their use of AI technologies, documenting how they supported the task and evaluating their effectiveness, limitations, and ethical implications.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "35% (Individual)",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "learning_outcomes_assessed": "L01, L02, L04",
+      "task_description": "The final end of semester exam will test understanding of the concepts covered over the entire course. The exam will be an invigilated on-campus exam that meets the identity verified assessment requirement. The format will be Multiple-choice and Short answer. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options Casio FX82 series calculator only Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Lecture Lectures will be delivered in-person (face-to-face) and will cover relevant topics in Human-Computer Interaction. Topics may include, but are not limited to, the interaction design process, interaction fundamentals, ethics, mental models, conceptual design, cognition, interaction paradigms, evaluating usability, etc. Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Studio",
+      "topic": "Weekly Studio Sessions Studios will be delivered in-person (face-to-face), as long as it is safe to do so. Students will work with demonstrators and staff on their team projects and related activities that support the assessment deliverables. Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

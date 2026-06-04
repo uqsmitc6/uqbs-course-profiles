@@ -1,0 +1,192 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CIVL7415-21379-7520",
+  "scraped_at": "2026-06-04T01:31:02.887626+00:00",
+  "course_code": "CIVL7415",
+  "class_code": "21379",
+  "semester_code": "7520",
+  "full_course_code": "CIVL7415-21379-7520",
+  "course_title": "Spatial and Quantitative Methods for Transport Data Analytics",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Civil Engineering School",
+  "course_description": "The growing amount of transport data that are available passively and actively from a variety of systems and sensors requires increasing knowledge of quantitative methods for descriptive and predictive purposes. Moreover, the location information in these data is increasingly important because the spatial context plays an essential role in decision making and problem solving in a number of transport applications. Accordingly, this course provides the necessary knowledge of regression techniques, Geographic Information Systems, and data mining, with emphasis on the theory as well as the practice of big data analytics.\n\nAs data science moves towards big data analytics, and as transport datasets become larger and more diverse in the amount and type of information, this course provides students with the necessary skills and tools to begin their analysis of large datasets. Specifically, the course addresses both the theory and practice of quantitative analysis of these data, encompassing quantitative values as well as spatial attributes, that are the hallmarks of transport data and other data in engineering.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "STAT2201",
+      "CIVL2530",
+      "CIVL7505",
+      "ENGG7518"
+    ],
+    "restrictions": [
+      "Minimum 30 students or at Head of School's discretion"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Mark Hickman",
+      "email": "m.hickman1@uq.edu.au",
+      "phone": "+61 7 3365 3692"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Mark Hickman",
+      "email": "m.hickman1@uq.edu.au",
+      "phone": "+61 7 3365 3692"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "Transport studies commonly require a variety of methods in order to draw meaningful conclusions about existing travel conditions and to estimate future conditions. This course introduces students to the foundational methods that may assist them to analyse various common sources of transport data, including fundamental statistics, econometrics, data mining, and geographic and spatial analysis. This course also provides opportunities to work directly with these methods on various transport data sets.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain and apply the basic principles of statistical methods for transport data analytics."
+    },
+    {
+      "number": "LO2.",
+      "description": "Explain and apply the basic principles of spatial analysis with geographic information systems (GIS) for transport data analytics."
+    },
+    {
+      "number": "LO3.",
+      "description": "Formulate and solve spatial transport problems with GIS techniques."
+    },
+    {
+      "number": "LO4.",
+      "description": "Perform decision-making with large transport datasets and propose solutions on the basis of the results of quantitative and spatial methods."
+    },
+    {
+      "number": "LO5.",
+      "description": "Report and present results of transport data analytics to decision makers working on transport solutions."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation, Project",
+      "title": "Linear Regression Project",
+      "weight": "20%",
+      "due_date": "28/03/2025 4:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Project",
+      "title": "Spatial Analysis and GIS Project",
+      "weight": "20%",
+      "due_date": "2/05/2025 4:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Project",
+      "title": "Data Mining and Spatial Analysis Project",
+      "weight": "20%",
+      "due_date": "30/05/2025 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Linear Regression Project",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Project",
+      "weight": "20%",
+      "due_date": "28/03/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L04, L05",
+      "task_description": "The first project will involve the description, analysis, manipulation, visualisation, and reporting of results, using the tools of linear regression. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "All electronically submitted assessment items must be submitted through TurnItIn in BlackBoard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The first project will involve the description, analysis, manipulation, visualisation, and reporting of results, using the tools of linear regression. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Spatial Analysis and GIS Project",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Project",
+      "weight": "20%",
+      "due_date": "2/05/2025 4:00 pm",
+      "learning_outcomes_assessed": "L02, L03, L04, L05",
+      "task_description": "The second project will involve the description, analysis, manipulation, visualisation, and reporting of results, using the tools of spatial analysis and geographic information systems. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "All electronically submitted assessment items must be submitted through Turnitin, in BlackBoard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The second project will involve the description, analysis, manipulation, visualisation, and reporting of results, using the tools of spatial analysis and geographic information systems. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Data Mining and Spatial Analysis Project",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Project",
+      "weight": "20%",
+      "due_date": "30/05/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The third project will involve the description, analysis, manipulation, visualisation, and reporting of results, using the tools of data mining and related spatial analysis. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "All electronically submitted assessment items must be submitted through TurnItIn in BlackBoard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The third project will involve the description, analysis, manipulation, visualisation, and reporting of results, using the tools of data mining and related spatial analysis. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "A final examination will be held during the standard examination period at the end of the semester. This exam will consist of short answer and problem-solving questions. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Open Book examination Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "A final examination will be held during the standard examination period at the end of the semester. This exam will consist of short answer and problem-solving questions. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial Activities Tutorials will be conducted in the one-hour sessions and will focus on practical applications using software and real-world data sets. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "In-Class Lectures Lectures will include a combination of theory and practice, with in-class discussion. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: School of Civil Engineering School Guidelines Learning activities"
+}

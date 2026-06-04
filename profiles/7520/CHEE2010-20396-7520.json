@@ -1,0 +1,249 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CHEE2010-20396-7520",
+  "scraped_at": "2026-06-04T01:29:55.497622+00:00",
+  "course_code": "CHEE2010",
+  "class_code": "20396",
+  "semester_code": "7520",
+  "full_course_code": "CHEE2010-20396-7520",
+  "course_title": "Engineering Investigation & Statistical Analysis",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Chemical Engineering School",
+  "course_description": "Project based investigation of engineering operations. Effective quantitative sampling & statistical analysis including hypothesis testing, standard probability models, estimation, regression & experimental design. Technical reporting & project management skills\n\nEngineering is at its heart about decision making, usually in the face of incomplete data and uncertainty. Data analysis, combined with observing, measuring, and correcting for uncertainty, are thus an essential part of the education of any engineering student, along with integration of these skills within a student's general engineering practice. In this course, statistical analysis and experimentation are integrated into engineering problem-solving, with a focus on quantitative estimation. That includes using observation of uncertainty to infer its impact on process outputs and parameters. The course incorporates observation of uncertainty, estimation of parameters related to both uncertainty and core processes, and propagation of uncertainty through a process to inform decision-making. The course integrates a problem solving workshop with practical computing sessions to embed data analysis, along with laboratory experimental work to generate real-life data.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ENGG1001",
+      "MATH1051",
+      "CHEE2001"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "STAT1201",
+      "STAT1301",
+      "STAT2203"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Kate O'Brien",
+      "email": "k.obrien@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Kate O'Brien",
+      "email": "k.obrien@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Hong Peng",
+      "email": "h.peng2@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Jason Wen",
+      "email": "x.wen@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Ms Alia Gallet--Pandelle",
+      "email": "a.galletpandelle@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Ronny Pibaque",
+      "email": "r.pibaquesanchez@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Natalie Teng",
+      "email": "n.teng@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Lee Burns",
+      "email": "lee.burns@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Rachel Fitzgerald",
+      "email": "rachel.fitzgerald1@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Rebecca Hall",
+      "email": "rebecca.hall@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Ms Rachel Mugumo",
+      "email": "r.mugumo@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Mohamed Ibrahim",
+      "email": "mohamed.ibrahim@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nEach week, there are the following learning activities:\na two hour workshop, where students complete activities designed for deep learning of core concepts\na two hour tutorial, where students apply those core concepts in practical examples using Python and Excel software\nshort videos, which are designed to be viewed either before, between or after the workshop and tutorials to consolidate learning\na weekly online quiz, to reinforce key concepts (students will receive a mark for attempting this quiz, regardless of their grade, to encourage students to test their learning without fear of \"getting it wrong\")\nStudents will also complete a practical experiment in week 7, and the data from this experiment will be used in the second and third submissions for the coffee project.",
+  "course_aims": "This course aims to teach you the basic principles of engineering investigation and data analysis. More specifically, you should be able to:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Data Analysis: Collect, import, tidy, clean, summarize and visualize data to characterise key elements of the system from which the data was taken, including central tendency, variability and distribution of data. Conduct and report on experiments safely and effectively. Apply appropriate statistical methods to data from an engineering application to answer relevant questions and inform decisions. Outline ethical principles of data analysis, including data sovereignty."
+    },
+    {
+      "number": "LO2.",
+      "description": "Use of appropriate tools: Undertake data analysis and modelling using EXCEL spreadsheets and coding in Python, supported by use of Artificial Intelligence (AI) tools."
+    },
+    {
+      "number": "LO3.",
+      "description": "Statistical modelling: Develop statistical models based on data, using linear and non-linear regression. Determine the significance, uncertainty and physical meaning of model parameters. Undertake basic model calibration and validation, and communicate uncertainty in model predictions."
+    },
+    {
+      "number": "LO4.",
+      "description": "Uncertainty analysis: Explain how multiple sources influence observed uncertainty. Identify and calculate uncertainty in simple models based on uncertainty in model inputs. Apply numerical propagation to quantify uncertainty for more complex processes."
+    },
+    {
+      "number": "LO5.",
+      "description": "Communication: Use critical thinking to communicate outcomes of data analysis clearly and concisely, using both text and figures, in a manner appropriate to the target audience."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Online Lab OH&S training",
+      "weight": "Compulsory",
+      "due_date": "7/04/2025 2:00 pm; Students must complete the online OH&S training in order to participate in the practical, where data will be collected for use in the second and third stage submissions for the coffee project.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "Weekly online quiz",
+      "weight": "5%",
+      "due_date": "3/03/2025 2:00 pm; 17/03/2025 2:00 pm; 24/03/2025 2:00 pm; 31/03/2025 2:00 pm; 7/04/2025 2:00 pm; 14/04/2025 2:00 pm; 28/04/2025 2:00 pm; 6/05/2025 2:00 pm; 12/05/2025 2:00 pm; 19/05/2025 2:00 pm; 26/05/2025 2:00 pm; Only 7 quizzes of 11 must be completed to receive the 5 % grade, therefore there will be no extensions granted.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Project",
+      "title": "Coffee project",
+      "weight": "45% (Part 1 10 %; Part 2 15 %; Part 3 20%)",
+      "due_date": "Project Part 1 - Analyse 24/03/2025 2:00 pm; Project Part 2 - Measure 2/05/2025 2:00 pm; Project Part 3 - Model 30/05/2025 2:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Exam During Exam Period (Central)",
+      "weight": "50% Individual - hurdle",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Online Lab OH&S training",
+      "mode": "Activity/ Performance",
+      "category": "Practical/ Demonstration",
+      "weight": "Compulsory",
+      "due_date": "7/04/2025 2:00 pm Students must complete the online OH&S training in order to participate in the practical, where data will be collected for use in the second and third stage submissions for the coffee project.",
+      "submission_guidelines": "Online Submission.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Weekly online quiz",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "5%",
+      "due_date": "3/03/2025 2:00 pm 17/03/2025 2:00 pm 24/03/2025 2:00 pm 31/03/2025 2:00 pm 7/04/2025 2:00 pm 14/04/2025 2:00 pm 28/04/2025 2:00 pm 6/05/2025 2:00 pm 12/05/2025 2:00 pm 19/05/2025 2:00 pm 26/05/2025 2:00 pm Only 7 quizzes of 11 must be completed to receive the 5 % grade, therefore there will be no extensions granted.",
+      "task_description": "Weekly online quizzes designed to reinforce students' understanding of course content, and provide the opportunity to test their knowledge. Marks are allocated on the basis of number of questions attempted, regardless of the answers - this is done to encourage students to test themselves without worrying about the outcome in order to enhance their learning. The quizzes will take approximately 10 minutes to complete and will be available for a week prior to due date. 0.714 % of overall grade will be awarded for each quiz completed, regardless of the score achieved. Students can retake the quizzes at any time. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nOnly 7 quizzes of 11 must be completed to receive the 5 % grade, therefore there will be no extensions granted.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nQuizzes will be available for a week prior to due date, and students can miss up to four quizzes and still attain the full 5 %.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Coffee project",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "45% (Part 1 10 %; Part 2 15 %; Part 3 20%)",
+      "due_date": "Project Part 1 - Analyse 24/03/2025 2:00 pm Project Part 2 - Measure 2/05/2025 2:00 pm Project Part 3 - Model 30/05/2025 2:00 pm",
+      "task_description": "Students will analyse, measure and model data related to coffee production in a three part project. Students will use data analysis, experimental results and modelling to explore different aspects of the current coffee-making methodology, identify current issues and recommend improvements. Uncertainty will be quantified, and the implications of uncertainty for decision-making discussed. Results need to be communicated in a clear and concise form, demonstrating critical thinking and using appropriate figures. In Parts 2 and 3 of the project, students will use data collected in the practical experiment undertaken 8-11 April. Data will be collected in teams, but submission will be individual. A portion of the mark for Part 2 will be allocated to data collection in the practical experiment. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission via Blackboard. Task sheet and marking criteria will be provided on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Students will analyse, measure and model data related to coffee production in a three part project. Students will use data analysis, experimental results and modelling to explore different aspects of the current coffee-making methodology, identify current issues and recommend improvements. Uncertainty will be quantified, and the implications of uncertainty for decision-making discussed. Results need to be communicated in a clear and concise form, demonstrating critical thinking and using appropriate figures. In Parts 2 and 3 of the project, students will use data collected in the practical experiment undertaken 8-11 April. Data will be collected in teams, but submission will be individual. A portion of the mark for Part 2 will be allocated to data collection in the practical experiment. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Exam During Exam Period (Central)",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50% Individual - hurdle",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "task_description": "Closed book examination with specified written materials of 2 hours duration, with no access to generative Artificial Intelligence (AI) or Machine Translation (MT) tools. A UQ approved calculator will be required for this exam. The exam is a course hurdle - you must achieve at least 50 % on the exam to pass the course. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - specified written materials permitted Materials Five double-sided pages of written or typed A4 notes can be brought into the exam. Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "Closed book examination with specified written materials of 2 hours duration, with no access to generative Artificial Intelligence (AI) or Machine Translation (MT) tools. A UQ approved calculator will be required for this exam. The exam is a course hurdle - you must achieve at least 50 % on the exam to pass the course. Read full task description Hide full task description\nClosed book examination with specified written materials of 2 hours duration, with no access to generative Artificial Intelligence (AI) or Machine Translation (MT) tools. A UQ approved calculator will be required for this exam. The exam is a course hurdle - you must achieve at least 50 % on the exam to pass the course.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Workshop",
+      "topic": "Weekly workshop In weekly workshops, students will undertake problem-solving activities to practice application of key concepts taught in the course. These activities are designed to build students' knowledge and skills, and prepare students for both the project assessment and final exam."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Workshop",
+      "topic": "Weekly tutorial In the tutorials, student will apply key concepts to engineering problem-solving using Python and EXCEL software. Students should bring their own laptop to the tutorials, loaded with appropriate software, as per instructions on Blackboard. The activities in the tutorials are designed to build the skills and knowledge required by students to successfully complete the coffee project, and to complement the activities in the workshop, the video content and the weekly online quizzes in building the skills and knowledge required to pass the final exam."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Not Timetabled",
+      "topic": "Weekly videos Each week, content to support the workshop and tutorials will be made available in short videos. The workshops, tutorials, videos and weekly quizzes are designed to complement each other and ensure that students have both underpinning knowledge and skills, and practice in applying that knowledge and skills in engineering problem-solving. The videos can be viewed prior to, between or following the weekly workshops and tutorials, but should be viewed each week to ensure that students develop deep conceptual learning of the course content."
+    },
+    {
+      "learning_period": "Week 7 (07 Apr - 13 Apr)",
+      "activity_type": "Practical",
+      "topic": "Practical All students will complete a two hour practical laboratory experiment in week 7, to measure data required to complete the second and third stages of the coffee project. In addition to the online OH&S training, students will also need to complete an induction to the undergraduate student laboratories in Building 46, the Andrew Liveris Building, if they have not already done so. This will be done as part of the prac. Students should be familiar with University policy Laboratory Safety in Teaching Laboratories ( https://ppl.app.uq.edu.au/content/2.30.14-occupational-health-and-safety-laboratory ). Pertinent information is in the mandatory online module and assessment, UGRD01. UGRD01 can be found on Blackboard in the Training courses Tab > UQ Workplace Inductions and OHS Training > UG Lab Students. UGRD01 only needs to be completed once. The Minimum PPE required across all School of Chemical Engineering undergraduate laboratories is: safety spectacles or over glasses, lab coat, long trousers that cover the ankles and fully enclosed shoes. Laboratory and practical specific information is given at beginning of each practical. It is important you arrive on time or you may not be allowed into the laboratory. Exceptions to the above will only be made under the same circumstances for any other exam (e.g. in cases of genuine illness where a medical certificate is provided). In such circumstances a single “special” safety induction will be held. For further information, contact the Course Coordinator."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: Safety Induction for Practicals Course guidelines Anyone undertaking courses with a practical component must complete the UQ Undergraduate Student Laboratory Safety Induction and pass the associated assessment. Specific instructions, usage guidelines and rules for each of the undergraduate laboratories will be delivered as part of each course. In some cases, students may be required to attend a specific face-to-face laboratory induction/training session. Learning activities"
+}

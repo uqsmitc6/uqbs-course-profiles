@@ -1,0 +1,254 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ELEC2400-20392-7520",
+  "scraped_at": "2026-06-04T01:37:50.091793+00:00",
+  "course_code": "ELEC2400",
+  "class_code": "20392",
+  "semester_code": "7520",
+  "full_course_code": "ELEC2400-20392-7520",
+  "course_title": "Electronic Devices and Circuits",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Physical models of semiconductor devices. Analysis and design of common electronic circuits using discrete semiconductor devices and operational amplifiers. Examples of use in analysis & design of amplifiers, analogue signal conditioning, filters and other circuits.\n\nThe broad focus of ELEC2400 is the study, analysis and design of electronic circuits. By the end of the course students should have the skills to comprehensively analyse, simulate and design electronic circuits using discrete semiconductors such as BJT and FET transistors as well as using op-amps.\n\nThe course will apply a range of analytical technique for modelling, analysing and designing electronic circuits. These include:\n\nStudents will be expected to demonstrate their knowledge in theoretical work and formal laboratory experiments.\n\nBased on previous student feedback, the tutorials will be conducted in small groups with more focussed content.ﾠ",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ENGG1300",
+      "MATH1051",
+      "MATH1071",
+      "MATH1052",
+      "MATH1072"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ELEC3400"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Hui Ma",
+      "email": "ELEC2400@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Hui Ma"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "Theﾠaim of this course is to provide students with a thorough background in the principles of analogue electronic circuit analysis and design. Students completing this course will be able to analyse, model, design and build circuits using discrete components (i.e. transistors) and analogue integrated circuits (i.e. op-amps). Students will be able to recognise the application of analoge electronics to other engineering disciplines, and to be able to apply their skills to multidisciplinary problems.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Use analytical tools such as the application of Ohm's law (nodal analysis, mesh analysis, Norton and Thvenin Equivalent circuits) to analyse complex circuits containing passive components (resistors, capacitors, inductors) and dependent and independent sources."
+    },
+    {
+      "number": "LO2.",
+      "description": "Apply amplifier models to model the behavior of arbitrary circuits."
+    },
+    {
+      "number": "LO3.",
+      "description": "Apply electronic circuit models of active electronic devices such as diodes, transistors (BJTs, FETs) and operational amplifiers to analyse and model the properties and behavior of single stage amplifier circuits."
+    },
+    {
+      "number": "LO4.",
+      "description": "Use a systems approach to analyse and synthesise a complex multi-stage electronic circuit (i.e. the internal circuitry of a simple op-amp). In particular, students should be able to \"break the circuit down\" into stages; model each stage using appropriate circuit analysis techniques (both large signal and small signal behavior); And using the models for each circuit stage, predict the behavior of the entire circuit."
+    },
+    {
+      "number": "LO5.",
+      "description": "Apply a systems approach and frequency domain analysis techniques to predict the frequency response of amplifier circuits."
+    },
+    {
+      "number": "LO6.",
+      "description": "Use computerized models of electronics (including: circuit simulation package's such as CircuitLab; MATLAB) in analyzing and synthesizing electronic circuits. Students should be able to explain the limitations of such packages both in general, and in the context of a specific problem."
+    },
+    {
+      "number": "LO7.",
+      "description": "Apply the engineering design process to develop analogue electronic circuits which address/solve some problem (typically starting from a given set of broad, general specifications). The specifications may originate from a multi-disciplinary, real world application."
+    },
+    {
+      "number": "LO8.",
+      "description": "Build, test, optimize and document practical implementations of analogue electronic circuits such as multistage amplifiers."
+    },
+    {
+      "number": "LO9.",
+      "description": "Effectively collaborate within a group and communicate the design, development and critical analysis of an electronics design project using oral communication, written communication and appropriate engineering drawing."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Practical lab work",
+      "weight": "20%",
+      "due_date": "12/03/2025 - 30/05/2025; During the lab/prac session.; Venue: 50-S105",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Tutorial Exercise Submission 1",
+      "weight": "10%",
+      "due_date": "17/04/2025 4:00 pm; More information is available through Blackboard"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Tutorial Exercise Submission 2",
+      "weight": "10%",
+      "due_date": "29/05/2025 4:00 pm; More information is available through Blackboard"
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester Exam - Invigilated closed book",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Practical lab work",
+      "mode": "Activity/ Performance, Written",
+      "category": "Practical/ Demonstration",
+      "weight": "20%",
+      "due_date": "12/03/2025 - 30/05/2025 During the lab/prac session. Venue: 50-S105",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "task_description": "Five lab/prac sessions will be conducted during the semester (starting from Week 3). Total 20 marks of the lab/prac sessions and distributions of each lab/prac sessions are Prac 1 - 3 marks; Prac 2 - 4 marks; Prac 3 - 4 marks; Prac 4 - 4 marks; Prac 5 - 5 marks. When attending the labs each student must bring a hard copy of the lab worksheet and the breadboard. If pre lab work is given for a particular lab/prac that work needs to be completed before attending the particular lab session. Labs are running for 3 hrs. Students are expected to be able to complete the assigned work in the first two hours. In the last hour course staffs will provide feedback. All lab work is assessed individually. Performance in the practical will be assessed using a combination of completing pre lab questions, active participation and performance in the lab, and completed lab worksheet including recorded results and discussions. At the end of each session course staffs will mark the lab sheets and provide feedback. Hence, good preparation is a prerequisite for a good outcome in lab/prac session. As lab/prac sessions are designed to complete within the set time limit NO STUDENT can enter the lab 20 min after the start time of each lab session. Students are required to present their student ID when submitting the reports at the end of the session. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. If you were not able to attend a lab session a formal request can be submitted. Instructions for how to formally submit extension requests is available here . Extension requests sent directly to Course Coordinators in the School of EECS will not be considered. Due to logistic issues, extensions of up to a maximum of one week will be provided for rescheduling the labs./pracs. Read full task description Hide full task description",
+      "submission_guidelines": "Individual hardcopy submission during the lab session.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nPrac reports are completed as part of a scheduled prac class.\nIf there are exceptional circumstances, an exemption may be approved and may involve submitting/discussing your work as it stands. Exemptions must be requested as an extension with a note specifying exemption via my.UQ. If you are unable to attend a scheduled lab session for a valid reason a formal request has to be submitted. Due to logistic issues, extensions of up to a maximum of one week will be provided for rescheduling the labs.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nIf report is not submitted during the lab session no marks will be offered for the corresponding lab.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Five lab/prac sessions will be conducted during the semester (starting from Week 3). Total 20 marks of the lab/prac sessions and distributions of each lab/prac sessions are Prac 1 - 3 marks; Prac 2 - 4 marks; Prac 3 - 4 marks; Prac 4 - 4 marks; Prac 5 - 5 marks. When attending the labs each student must bring a hard copy of the lab worksheet and the breadboard. If pre lab work is given for a particular lab/prac that work needs to be completed before attending the particular lab session. Labs are running for 3 hrs. Students are expected to be able to complete the assigned work in the first two hours. In the last hour course staffs will provide feedback. All lab work is assessed individually. Performance in the practical will be assessed using a combination of completing pre lab questions, active participation and performance in the lab, and completed lab worksheet including recorded results and discussions. At the end of each session course staffs will mark the lab sheets and provide feedback. Hence, good preparation is a prerequisite for a good outcome in lab/prac session. As lab/prac sessions are designed to complete within the set time limit NO STUDENT can enter the lab 20 min after the start time of each lab session. Students are required to present their student ID when submitting the reports at the end of the session. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. If you were not able to attend a lab session a formal request can be submitted. Instructions for how to formally submit extension requests is available here . Extension requests sent directly to Course Coordinators in the School of EECS will not be considered. Due to logistic issues, extensions of up to a maximum of one week will be provided for rescheduling the labs./pracs. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Tutorial Exercise Submission 1",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "10%",
+      "due_date": "17/04/2025 4:00 pm More information is available through Blackboard",
+      "task_description": "Tutorial exercise 1 should be submitted at 4pm Thursday, 17th April. Assignment for submission will be available in the Blackboard in Week 6. Overall the submission will be worth 10 marks. The submissions are collected through Blackboard. The assignment problems will be a similar style and structure to those in the final semester exams. Please make use of the help available to you in the tutorials, discussion board and consultation time. Tutorial submission solutions should be developed as an individual task. Students are encouraged to discuss the tasks with peers and teaching staff. However, copying the solutions from another student/s or any other sources is not allowed and will lead to a student misconduct investigation. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. If required an extension can be requested for this assessment. Instructions for how to formally submit extension requests is available here . Extension requests sent directly to Course Coordinators in the School of EECS will not be considered. Read full task description Hide full task description",
+      "submission_guidelines": "Through the Turnitin link provided in Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach where feedback and/or detailed solutions will be released to students within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Tutorial exercise 1 should be submitted at 4pm Thursday, 17th April. Assignment for submission will be available in the Blackboard in Week 6. Overall the submission will be worth 10 marks. The submissions are collected through Blackboard. The assignment problems will be a similar style and structure to those in the final semester exams. Please make use of the help available to you in the tutorials, discussion board and consultation time. Tutorial submission solutions should be developed as an individual task. Students are encouraged to discuss the tasks with peers and teaching staff. However, copying the solutions from another student/s or any other sources is not allowed and will lead to a student misconduct investigation. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. If required an extension can be requested for this assessment. Instructions for how to formally submit extension requests is available here . Extension requests sent directly to Course Coordinators in the School of EECS will not be considered. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Tutorial Exercise Submission 2",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "10%",
+      "due_date": "29/05/2025 4:00 pm More information is available through Blackboard",
+      "task_description": "Tutorial exercise 2 should be submitted at 4pm Thursday, 29th May. Assignment for submission will be available in the Blackboard in Week 10. Overall the submission will be worth 10 marks. The submissions are collected through blackboard. The assignment problems will be a similar style and structure to those in the final semester exams. Please make use of the help available to you in the tutorials, discussion board and consultation time. Tutorial submission solutions should be developed as an individual task. Students are encouraged to discuss the tasks with peers and teaching staff. However, copying the solutions from another student/s or any other sources is not allowed and will lead to a student misconduct investigation. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. If required an extension can be requested for this assessment. Instructions for how to formally submit extension requests is available here . Extension requests sent directly to Course Coordinators in the School of EECS will not be considered. Read full task description Hide full task description",
+      "submission_guidelines": "Through the Turnitin link provided in Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach where feedback and/or detailed solutions will be released to students within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Tutorial exercise 2 should be submitted at 4pm Thursday, 29th May. Assignment for submission will be available in the Blackboard in Week 10. Overall the submission will be worth 10 marks. The submissions are collected through blackboard. The assignment problems will be a similar style and structure to those in the final semester exams. Please make use of the help available to you in the tutorials, discussion board and consultation time. Tutorial submission solutions should be developed as an individual task. Students are encouraged to discuss the tasks with peers and teaching staff. However, copying the solutions from another student/s or any other sources is not allowed and will lead to a student misconduct investigation. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. If required an extension can be requested for this assessment. Instructions for how to formally submit extension requests is available here . Extension requests sent directly to Course Coordinators in the School of EECS will not be considered. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End of Semester Exam - Invigilated closed book",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "task_description": "The final exam will assess all materials presented during the course. This is a closed-book, on-campus, invigilated exam. The exam exam duration will be 120 min. More information about the exam format will be discussed during the class time. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (24 Feb - 02 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Course overview, Fundamentals of Circuit Analysis Teaching and discussions; directed reading; self-studies; revision of selected areas of 'assumed knowledge'."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (03 Mar - 01 Jun)",
+      "activity_type": "General contact hours",
+      "topic": "Problem solving The problem solving will start from the second week and will continue throughout the semester. The contact sheets will be available through Blackboard."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (03 Mar - 01 Jun)",
+      "activity_type": "Practical",
+      "topic": "Formal Laboratory Exercises The laboratory work in ELEC2400 is a series of five formal laboratory experiments consisting of (1) Diode Circuit; (2) Discrete BJT Amplifiers; (3) Multiple stage amplifiers; (4) Discrete FET Amplifiers; and (5)Instrumentation circuits. More details please see the Blackboard course site."
+    },
+    {
+      "learning_period": "Week 2 (03 Mar - 09 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Introduction to Semiconductor Devices; Diodes Brief introduction of semiconductors, PN junction, diode, circuit analysis with diode."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 3 To Week 4 (10 Mar - 23 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Bipolar Junction Transistors Bipolar junction transistor operation in amplifier circuits; load-line technique; large-signal equivalent circuits; bias circuits; small-signal equivalent circuits; performance of several important amplifier configurations."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 5 To Week 6 (24 Mar - 06 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Multi-stage Transistor Amplifier Gain stage and output stage of a multistage amplifier; analyze a simplified multistage bipolar amplifier; design a diff-amp with an output gain stage to meet a set of specifications."
+    },
+    {
+      "learning_period": "Week 7 (07 Apr - 13 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Amplifier Models and External Characteristics Basic concepts of amplifiers, Generic amplifier models, external specifications of amplifiers in selecting them for instrumentation application."
+    },
+    {
+      "learning_period": "Week 8 (14 Apr - 20 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Case Studies, and Course Revision BJT Circuits Revision and Case Studies"
+    },
+    {
+      "learning_period": "Week 9 (28 Apr - 04 May)",
+      "activity_type": "Lecture",
+      "topic": "Field Effect Transistors MOSFET operation, load-line technique, bias circuits, small-signal equivalent circuits, performance parameters of several FET amplifier configurations."
+    },
+    {
+      "learning_period": "Week 10 (05 May - 11 May)",
+      "activity_type": "Lecture",
+      "topic": "Current Source Different types of current sources"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 11 To Week 12 (12 May - 25 May)",
+      "activity_type": "Lecture",
+      "topic": "Discrete Differential Amplifiers Characteristics of the basic bipolar differential amplifier, characteristics of the basic MOSFET differential amplifier, BJT and FET differential amplifiers with active loads."
+    },
+    {
+      "learning_period": "Week 13 (26 May - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Operational Amplifier Circuit & Applications Operational Amplifier Circuit & Applications"
+    },
+    {
+      "learning_period": "Week 13 (26 May - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Revision Revision"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . You'll also need to be aware of the following policies and procedures while completing this course: Occupational Health and Safety in the Laboratory Guideline School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

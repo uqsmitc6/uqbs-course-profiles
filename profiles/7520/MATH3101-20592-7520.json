@@ -1,0 +1,228 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH3101-20592-7520",
+  "scraped_at": "2026-06-04T01:46:09.013063+00:00",
+  "course_code": "MATH3101",
+  "class_code": "20592",
+  "semester_code": "7520",
+  "full_course_code": "MATH3101-20592-7520",
+  "course_title": "Ordinary differential equations and dynamical systems",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Prior to 2022, this course was titled: Bifurcation and Chaos. Local theory of ODEs; n-dimensional linear systems of ODEs and normal forms; stability and bifurcation theory; one-dimensional maps; introduction to chaos.\n\nThis is a course on the qualitative methods for nonlinear ordinary differential equations and dynamical systems.\n\nStarting with the idea of Phase Space, we will investigate the existence of solutions, stability and bifurcations of stationary points and periodic orbits. This is followed by a discussion of the stationary points of maps and their bifurcations which leads naturally to a discussion of chaos in one dimensional maps. Finally we investigate chaos in continuous systems such as the Lorenz system.\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against ﾠ UQ Policy, ﾠ and will not be tolerated. We have developed a ﾠ suite of resources ﾠ to assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us. ﾠﾠ",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH2400",
+      "MATH2401",
+      "MATH2001",
+      "MATH2901",
+      "MATH2010",
+      "MATH2100",
+      "This course is jointly-taught with:",
+      "MATH3101",
+      "MATH7131"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Cecilia Gonzalez Tokman",
+      "email": "cecilia.gt@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Cecilia Gonzalez Tokman",
+      "email": "cecilia.gt@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Meagan Carney",
+      "email": "m.carney@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Ms Renee Oldfield"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Joshua Peters"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nClasses and practicals will be conducted on campus.ﾠConsult your personal timetable for times and locations.ﾠStudents are expected to attend these sessions in person,ﾠ unless they have a valid reason for being unable to attend (such as illness).ﾠ",
+  "course_aims": "This is a course on the qualitative methods for ordinary differential equations and dynamical systems.\n\nThe aims of this course are (i) to learn and understand these methods, (ii) to apply them to gain an in-depth understanding of models from mathematics, natural sciences and engineering, and (iii) to be able to communicate the results using mathematical and computational resources in a clear, relevant and coherent way.\n\nAfter successfully completing this course you should understand and be able to apply a range of techniques as outlined below, and successfully communicate your results and findings.ﾠ",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Investigate the existence and properties of solutions of systems of ordinary differential equations"
+    },
+    {
+      "number": "LO2.",
+      "description": "Investigate the existence and stability of a stationary point of a system of ordinary differential equations, with reference to Lyapunov Stability, Asymptotic Stability and possibly using Lyapunov functions"
+    },
+    {
+      "number": "LO3.",
+      "description": "Explain what is meant by hyperbolicity and how this implies the existence of stable and unstable manifolds, with reference to Hartman's Theorem and the Stable Manifold Theorem"
+    },
+    {
+      "number": "LO4.",
+      "description": "Investigate the bifurcation properties of critical points in two dimensions and be able to identify saddle node, transcritical, pitchfork and Hopf bifurcations"
+    },
+    {
+      "number": "LO5.",
+      "description": "Investigate the presence, stability characteristics and bifurcation properties of critical points of maps. Investigate bifurcations such as saddle node, transcritical, period doubling and cascades of period doubling bifurcations to chaos"
+    },
+    {
+      "number": "LO6.",
+      "description": "Determine if a map is chaotic, with reference to horseshoes, the property of sensitivity to initial conditions, symbolic dynamics and Lyapunov exponents"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignments",
+      "weight": "36%",
+      "due_date": "25/03/2025 4:00 pm; 29/04/2025 4:00 pm; 27/05/2025 4:00 pm; Assignments are due on Tuesday at 4pm on the corresponding week. Assignment 1 is worth 10%. Assignment 2 is worth 12% . Assignment 3 is worth 14%.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "Quiz 1",
+      "weight": "6%",
+      "due_date": "Monday Week 7, completed during second lecture.",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "Quiz 2",
+      "weight": "6%",
+      "due_date": "Tuesday Week 12, completed during lecture time.",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Two-hour invigilated exam",
+      "weight": "52%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignments",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "36%",
+      "due_date": "25/03/2025 4:00 pm 29/04/2025 4:00 pm 27/05/2025 4:00 pm Assignments are due on Tuesday at 4pm on the corresponding week. Assignment 1 is worth 10%. Assignment 2 is worth 12% . Assignment 3 is worth 14%.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "Assignments will comprise problems based on material presented in lectures and practicals. They will include an analytic component and may include a basic computing component. Students can use Matlab/Octave, Mathematica, Python and/or Julia to complete the computer-based task(s). Read full task description Hide full task description",
+      "submission_guidelines": "Assignments will be submitted electronically (as a single pdf file) using Gradescope, by the specified time on the due date.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for assessment item/s will be released one week after the assessment is due and as such, an extension after 7 days will not be possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for further extension/deferral information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Quiz 1",
+      "mode": "Activity/ Performance, Written",
+      "category": "Quiz",
+      "weight": "6%",
+      "due_date": "Monday Week 7, completed during second lecture.",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "Quizzes will comprise problems based on material presented in lectures and practicals. Quizzes are to be completed and submitted in-person by the end of the corresponding lecture. Read full task description Hide full task description",
+      "submission_guidelines": "Quizzes will be completed in-person during lecture time, and due by the end of the lecture.\nDeferral or extension\nYou may be able to defer this exam .\nIf, on approved grounds for an extension, a student is unable to sit a quiz, then they will qualify for a deferred assessment. A deferred assessment may consist of a combination of oral and written components, and must be taken at a specific time, informed to the student by the SMP student admin team.\nSee ADDITIONAL ASSESSMENT INFORMATION for further extension/deferral information relating to this assessment item.\nLate submission\nLate submissions will NOT be accepted.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "late_submission": "Late submissions will NOT be accepted.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Quiz 2",
+      "mode": "Activity/ Performance, Written",
+      "category": "Quiz",
+      "weight": "6%",
+      "due_date": "Tuesday Week 12, completed during lecture time.",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L04, L05, L06",
+      "task_description": "Quizzes will comprise problems based on material presented in lectures and practicals. Quizzes are to be completed and submitted in-person by the end of the corresponding lecture. Read full task description Hide full task description",
+      "submission_guidelines": "Quizzes will be completed in-person during lecture time, and due by the end of the lecture.\nDeferral or extension\nYou may be able to defer this exam .\nIf, on approved grounds for an extension, a student is unable to sit a quiz, then they will qualify for a deferred assessment. A deferred assessment may consist of a combination of oral and written components, and must be taken at a specific time, informed to the student by the SMP student admin team.\nSee ADDITIONAL ASSESSMENT INFORMATION for further extension/deferral information relating to this assessment item.\nLate submission\nLate submissions will NOT be accepted.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "late_submission": "Late submissions will NOT be accepted.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Two-hour invigilated exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "52%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "The final examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - specified written materials permitted Materials Two A4 sheets of handwritten notes, double sided, are permitted Bilingual dictionary Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.",
+    "required_resources": "Tutorial Sheets and other course materials will be available online via Blackboard. Please make sure you visit the course Blackboard website often throughout the semester.\nMake sure you have access to and read the following books.\nNonlinear Dynamics And Chaos: With Applications To Physics, Biology, Chemistry, And Engineering, by S. Strogatz. Westview Press, 2014.\nOnline at UQ: http://www.uql.eblib.com.au.ezproxy.library.uq.edu.au/patron/FullRecord.aspx?p=1181622&echo=1&userid=uJinVEXycVZ7v7FehDV1qyj7XbdaTB3Y&tstamp=1453437496&id=9FC56E71E09392D53B54FF5DA24072D1A25300C4\nStability, Instability and Chaos, by P. Glendinning, Cambridge University Press.\nOnline at UQ: http://ebooks.cambridge.org.ezproxy.library.uq.edu.au/ebook.jsf?bid=CBO9780511626296",
+    "recommended_resources": "Nonlinear Oscillations, Dynamical Systems, and Bifurcations of Vector Fields, J. Guckenheimer and P. Holmes, Applied Mathematical Sciences vol 42, Springer, 1983.\nhttp://link.springer.com/book/10.1007/978-1-4612-1140-2\nChaos, an introduction to Dynamical Systems, K.T. Alligood, T.D. Sauer, J.A. Yorke, Springer, 1996.\nhttp://link.springer.com/book/10.1007/b97589\nThe Lorenz Equations: Bifurcations, Chaos, and Strange Attractors, C. Sparrow, Applied Mathematical Sciences 41, Springer, 1982.\nhttp://link.springer.com/book/10.1007/978-1-4612-5767-7\nA Guide to Matlab For Beginners and Experienced Users 2nd edition\nBrian R. Hunt, Ronald L. Lipsman , Jonathan M. Rosenberg , Kevin R. Coombes , John E. Osborn, , Garrett J. Stuck\nhttps://www-cambridge-org.ezproxy.library.uq.edu.au/core/books/guide-to-matlab/CEC178067B0D5734E3F172FBE6777955\nhttps://www-cambridge-org.ezproxy.library.uq.edu.au/core/books/guide-to-matlab/CEC178067B0D5734E3F172FBE6777955\nExploring ODEs\nLloyd N. Trefethen, Ásgeir Birkisson, Tobin A. Driscoll\nhttp://people.maths.ox.ac.uk/trefethen/Exploring.pdf"
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "3 lectures a week Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (03 Mar - 01 Jun)",
+      "activity_type": "Practical",
+      "topic": "Practicals One Tutorial a week, in which a tutor demonstrates solutions of selected problems and is available to answer questions about the tutorial sheets. Students work on solving problems and understanding course material, and are able to ask questions. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

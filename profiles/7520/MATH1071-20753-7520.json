@@ -1,0 +1,187 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH1071-20753-7520",
+  "scraped_at": "2026-06-04T01:46:00.664058+00:00",
+  "course_code": "MATH1071",
+  "class_code": "20753",
+  "semester_code": "7520",
+  "full_course_code": "MATH1071-20753-7520",
+  "course_title": "Advanced Calculus & Linear Algebra I",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "1. Elementary linear algebra: Vectors, linear independence, scalar product. Matrices, simultaneous equations, determinants, Gaussian elimination, eigenvalues, eigenvectors, applications. Equation of straight line & plane.\n\n2. Introduction to proof-based calculus: Fields, sequences, limits, continuity, intermediate and extreme value theorems, maxima & minima.\n\n3. Techniques of calculus: Series, differentiation, integration, numerical methods, Taylor series, L'Hopital's rule.\n\nThis course differs from MATH1051 by treating material in more depth and with greater rigour.\n\nMATH1071 provides an important foundation in analysis and linear algebra that will prove useful for further studies in pure and applied mathematics, sciences, engineering and finance.\n\nWe develop the theory of limits of sequences and functions of one real variable, as well as continuity. The students receive an introduction to rigorous mathematical reasoning and learn the concept of a proof. We then investigate differentiation, optimisation and standard integration techniques. Another topic is the study of series (infinite sums).\n\nOur study of linear algebra begins with vectors and matrices. These topics are extensively utilised throughout the sciences, e.g., in modellingﾠ of systems of interacting elements. Matrix methods are common in structural engineering, and matrix algebra is necessary for computer graphics. The course covers linear independence, scalar product, simultaneous equations, Gaussian elimination and determinants. An important component of the study concerns eigenvalues and eigenvectors. These notions are fundamental to numerous problems in mathematics, physics and other areas, including modelling resonant frequencies in dynamical systems.\n\nAny questions relating to administrative matters should be sent to math1071@uq.edu.au .\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against ﾠ UQ Policy, ﾠ and will not be tolerated. We have developed aﾠ suite of resources ﾠ to assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1050"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH1051",
+      "MATH7051",
+      "MATH7501"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Ole Warnaar",
+      "email": "o.warnaar@maths.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Ole Warnaar",
+      "email": "o.warnaar@maths.uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Jieru Zhu",
+      "email": "jieru.zhu@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Bailey Whitbread"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Rhuaidi Burke"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Tapash Alister"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Alice Barnett"
+    },
+    {
+      "role": "Tutor",
+      "name": "Ms Rhea Wolski"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Simon Brims"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Patrick Hassall"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Andrew Mengede"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Max Orchard"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus. Consult your personal timetable for times and locations.ﾠ Students are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness). Alternative arrangements will be advised on Blackboard should the campus be closed for any reason.\nImportant\n: Please refrain from attending classes in person if you are unwell. Alternative arrangements can be organised – consult Blackboard for details.",
+  "course_aims": "The aim of this course is to provide students with an introduction to and a solid basis for further study in mathematics, in particular mathematical analysis. Students will be introduced toﾠ a number of new mathematical concepts, and will be presented both with theory and practical examples. The course also aims to help students develop a sense for the appropriate level of mathematical rigour needed in presenting mathematical arguments and solutions.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Evaluate limits, derivatives, and integrals, explain the underlying mathematical basis, interpret the results geometrically, and perform calculations associated with a number of applications"
+    },
+    {
+      "number": "LO2.",
+      "description": "Calculate the limits of sequences and series, and use them to approximate functions"
+    },
+    {
+      "number": "LO3.",
+      "description": "Understand linear transformations using matrices"
+    },
+    {
+      "number": "LO4.",
+      "description": "Work with matrices and vectors including a complete understanding of the behaviour of an m by n linear system"
+    },
+    {
+      "number": "LO5.",
+      "description": "Understand the concept of invertibility for matrices, know many criteria for invertibility and be able to find inverses"
+    },
+    {
+      "number": "LO6.",
+      "description": "Understand abstract concepts, construct proofs related to fields, limits and continuity"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Examination",
+      "title": "Final exam",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignments",
+      "weight": "40%",
+      "due_date": "Assignment 1 - 17 March 2025, 5pm.; Assignment 2 - 31 March 2025, 5pm.; Assignment 3 - 14 April 2025, 5pm.; Assignment 4 - 2 May 2025, 5pm.; Assignment 5 - 16 May 2025, 5pm.; Assignment 6 - 30 May 2025, 5pm.",
+      "conditions": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Final exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "task_description": "The final examination in this course will be held during the end-of-semester examination period. It will be a two-hour, in-person, closed book exam held on campus. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignments",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "40%",
+      "due_date": "Assignment 1 - 17 March 2025, 5pm. Assignment 2 - 31 March 2025, 5pm. Assignment 3 - 14 April 2025, 5pm. Assignment 4 - 2 May 2025, 5pm. Assignment 5 - 16 May 2025, 5pm. Assignment 6 - 30 May 2025, 5pm.",
+      "task_description": "There will be six assignments. Each will comprise of questions on recently covered course material recently. All assignments will be made available on Blackboard. Read full task description Hide full task description",
+      "submission_guidelines": "Assignment should be submitted through Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nDue to the high frequency of assignments and the need to provide solutions swiftly (one week after the due date), the maximal possible extension for each of the six assignments is one week. See ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Not scheduled",
+      "activity_type": "Not Timetabled",
+      "topic": "Independent Study During the semester students are expected to work on MATH1071 outside of class time to consolidate the information given during lectures, work on tutorial problem sheets and assignments, complete extra practice problems and study for examinations."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Lecture Students will be provided with theoretical material and examples."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (03 Mar - 01 Jun)",
+      "activity_type": "Practical",
+      "topic": "Practicals Students will receive help on the current assignment; be able to ask questions on the current problem set; be able to ask general questions related to course work."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

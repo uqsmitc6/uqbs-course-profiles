@@ -1,0 +1,191 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH3302-20599-7520",
+  "scraped_at": "2026-06-04T01:46:13.329479+00:00",
+  "course_code": "MATH3302",
+  "class_code": "20599",
+  "semester_code": "7520",
+  "full_course_code": "MATH3302-20599-7520",
+  "course_title": "Coding & Cryptography",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Cryptographic methods for encryption, decryption & authentication. AES, RSA. Error correction & detection. Hamming, BCH, Reed-Solomon & cyclic codes. Applications: CD players, EFTPOS, etc.\n\nThere are two parts to this course: coding theory and cryptography.\n\nThe coding theory part includes error correction and detection, linear and non-linear codes, error bounds and consideration of efficiency, cyclic codes, and applications.\n\nThe cryptography part includes private and public key cryptographic systems, key exchange and authentication protocols, modern encryption standards,ﾠand an introduction to cryptanalysis.\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against ﾠ UQ Policy, ﾠ and will not be tolerated. We have developed a suite of resources ﾠto assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team or alternatively, contact a SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH2301"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH7332",
+      "This course is jointly-taught with:",
+      "MATH3302"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Barbara Maenhaut",
+      "email": "bmm@maths.uq.edu.au",
+      "phone": "+61 7 3365 3258"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Barbara Maenhaut",
+      "email": "bmm@maths.uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Daniele Celoria",
+      "email": "d.celoria@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Vincent Cattoni"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus, consult your personal timetable for times and locations. Students are expected to attend these sessions unless they have a valid reason for being unable to attend (such as illness). Lectures will be recorded. Alternative arrangements will be advised on Blackboard should the campus be closed for any reason.\nPracticals commence in week 2. Students should sign-on to one practical time.\nFriday 18 April is a public holiday so there will be no practical that day, students are welcome to attend the other practical in that week.\nMonday 5 May is a public holiday, so there will be no lecture that day.",
+  "course_aims": "The aim of this course is for students to appreciate the important role that mathematics has in enabling secure , error-resistant communication. There are two related broad topic areas: cryptography, which is concerned with secrecy of transmitted information (security), and coding theory, which is concerned with robustness and error-resistance of transmitted data (reliability). In cryptography we willﾠcover various cryptosystems and methods for cryptanalysis, a number of historical and currently-used encryption techniques, and bothﾠpublic- and private-key cryptography. In coding theoryﾠwe will cover error detection and correction, and we will look at several important families of codes and whereﾠthey are used.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain the importance of cryptography and coding theory to real-world applications, both historically and currently."
+    },
+    {
+      "number": "LO2.",
+      "description": "Describe the mathematics behind a variety of techniques for secure reliable communication."
+    },
+    {
+      "number": "LO3.",
+      "description": "Contrast public-key and private-key cryptosystems."
+    },
+    {
+      "number": "LO4.",
+      "description": "Implement substitution and permutation ciphers and analyse some sophisticated cryptosystems, including AES."
+    },
+    {
+      "number": "LO5.",
+      "description": "Explain Shannon's concept of unconditional security."
+    },
+    {
+      "number": "LO6.",
+      "description": "Implement and describe the principles of Maximum Likelihood Decoding."
+    },
+    {
+      "number": "LO7.",
+      "description": "Use the generating and parity check matrices of a linear binary code to encode and decode messages."
+    },
+    {
+      "number": "LO8.",
+      "description": "Identify a Hamming code, the Golay code and the extended Golay code, and use these codes for encoding and decoding of messages; identify a cyclic linear code and use it to detect and correct burst errors."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignments",
+      "weight": "35% Assignment 1 worth 10%, Assignment 2 worth 10%, Assignment 3 worth 15%",
+      "due_date": "Assignment 1 28/03/2025 3:00 pm; Assignment 2 17/04/2025 3:00 pm; Assignment 3 30/05/2025 3:00 pm"
+    },
+    {
+      "category": "Participation/ Student contribution, Tutorial/ Problem Set",
+      "title": "Coding in-class problem set",
+      "weight": "5%",
+      "due_date": "6/05/2025 - 9/05/2025; Due by the end of your tutorial.",
+      "conditions": [
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final exam",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignments",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "35% Assignment 1 worth 10%, Assignment 2 worth 10%, Assignment 3 worth 15%",
+      "due_date": "Assignment 1 28/03/2025 3:00 pm Assignment 2 17/04/2025 3:00 pm Assignment 3 30/05/2025 3:00 pm",
+      "task_description": "Assignments 1 and 2 are on cryptography and Assignment 3 is on coding theory. For each assignment, the problem set will be available on the Blackboard page. You will need to submit your solutions to these problems by the due date. Read full task description Hide full task description",
+      "submission_guidelines": "Each assignment should be submitted through the appropriate link in Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for each assignment will be released 7 days after the assessment is due and as such, an extension after 7 days will not be possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for further extension/deferral information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Coding in-class problem set",
+      "mode": "Written",
+      "category": "Participation/ Student contribution, Tutorial/ Problem Set",
+      "weight": "5%",
+      "due_date": "6/05/2025 - 9/05/2025 Due by the end of your tutorial.",
+      "task_description": "During your tutorial in week 10, you will work in a group of 2 or 3 people, or individually if you prefer, to answer a series of questions on linear codes. Read full task description Hide full task description",
+      "submission_guidelines": "One solution booklet per group will be handed in at the end of the tutorial. All students in a group will receive the same mark for this assessment.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nIf you miss your week 10 tutorial for a valid reason (illness, unavoidable travel, etc.), please email the course coordinator to explain your reason and to arrange an alternative time to complete the activity.\nLate submission\nEach group will hand in their work at the end of the tutorial. There is no late submission.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "Each group will hand in their work at the end of the tutorial. There is no late submission.",
+      "special_indicators": [
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "task_description": "The final examination in this course will be held during the end-of-semester examination period. It will be a closed book, in-person exam held on campus. The exam will consist of questions that cover the entire course (both coding theory and cryptography). A Casio FX82 series or university approved (labelled) calculator can be used on the exam. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for further deferral information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Lectures The course material will be presented in lectures. Lectures will be in-person and will be recorded. Students are encouraged to attend lectures in person in order to engage in discussion and ask questions."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Exam week 2 (24 Feb - 22 Jun)",
+      "activity_type": "Not Timetabled",
+      "topic": "Independent Study Independent study during semester. UQ guidelines recommend 10 hours per week of study (including class contact) for a 2-unit course."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (03 Mar - 01 Jun)",
+      "activity_type": "Practical",
+      "topic": "Practical Practicals are designed to consolidate the students' knowledge base by giving them the opportunity to ask detailed questions about the course material. Help and hints for solving the problems on the problem sheets and assignments will also be given."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (03 Mar - 01 Jun)",
+      "activity_type": "Problem-based learning",
+      "topic": "Practice problem sets and assignments Students will be given problem sets and assignments consisting of relevant mathematical problems. The problem sets are for practice and will not be assessed. The assignments will be handed in and assessed."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

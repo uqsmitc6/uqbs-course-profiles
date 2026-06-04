@@ -1,0 +1,529 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MINE4127-22403-7520",
+  "scraped_at": "2026-06-04T01:48:45.731018+00:00",
+  "course_code": "MINE4127",
+  "class_code": "22403",
+  "semester_code": "7520",
+  "full_course_code": "MINE4127-22403-7520",
+  "course_title": "Mine Planning and Sustainability",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "Theoretical principles and practical methodologies associated with mine planning. Mine Planning is an iterative process entailing elements of design, scheduling, evaluation, and the incorporation of Environmental, Social and Governance (ESG) risks and opportunities across the value chain. Aspects of long term strategic mine planning as well as short term tactical planning will be investigated. Some recognised industry software products are used.\n\nThis course integrates technical mining knowledge with modern financial evaluation techniques toﾠgenerate and value mine plans. It deepens understanding of the key levers of value creation as part of the integrated strategic mine planning process. The course includes a study of: mining economics, feasibility studies, mining method selection, process route selection, scale of operation, sequence & scheduling, cut-off grade policy, mathematical optimisation, financial technical modelling, sensitivity analysis and mine closure planning. This course focuses heavily on economic considerations as these ultimately determine if a mining project receives board approval and the finance to commence construction and development.",
+  "requirements": {
+    "prerequisites": [
+      "We recommend completing the following courses before enrolling in this one:",
+      "MINE3122"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MINE3123"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Micah Nehring",
+      "email": "m.nehring@uq.edu.au",
+      "phone": "+61 7 3365 3664",
+      "notes": "Wednesdays 9:00am-11:00am or by appointment in 47A-806A."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Micah Nehring",
+      "email": "m.nehring@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThis course has been timed to avoid clashes with all other courses in this year level within the mining engineering discipline. If youﾠare enrolled in aﾠcourse that clashes with this courseﾠit is most likely a result ofﾠdeviating from theﾠprogram structure or taking additional courses from other year levels or courses outside of the mining engineering discipline. As this is a core compulsory course for mining engineers it is recommended that you attend this course and make alternative arrangements with coordinatorsﾠfrom otherﾠcourses.",
+  "course_aims": "This course aims to develop an understanding ofﾠthe principles and practical methodologies of mine planning and mine valuation.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "DEVELOP A GOOD KNOWLEDGE OF MINE PLANNING - Identify and recognise the key levers for value creation as part of the strategic mine planning process."
+    },
+    {
+      "number": "LO2.",
+      "description": "DEVELOP A GOOD KNOWLEDGE OF MINE PLANNING - Use the key levers for value creation to optimise a mine plan within the technical constraints of a mining operation."
+    },
+    {
+      "number": "LO3.",
+      "description": "DEVELOP A GOOD KNOWLEDGE OF MINE PLANNING - Appreciate the iterative nature of mine planning."
+    },
+    {
+      "number": "LO4.",
+      "description": "DEVELOP A GOOD KNOWLEDGE OF MINE PLANNING - Analyses, evaluate and compare mine plans according to key criteria."
+    },
+    {
+      "number": "LO5.",
+      "description": "DEVELOP A GOOD KNOWLEDGE OF MINE PLANNING - Select the most appropriate mine plan and development strategy with justification."
+    },
+    {
+      "number": "LO6.",
+      "description": "INCORPORATE OPTIMISATION PROCESSES - Understand and use pit optimisation algorithms including Lerch Grossman and Floating Cone."
+    },
+    {
+      "number": "LO7.",
+      "description": "INCORPORATE OPTIMISATION PROCESSES - Understand the capabilities of Operations Research and Mathematical Modelling on solving complex optimisation problems."
+    },
+    {
+      "number": "LO8.",
+      "description": "CREATE AND ANALYSE COMPLEX FINANCIAL MODELS - Understand the impacts of time value of money and discounting on mine plan valuation."
+    },
+    {
+      "number": "LO9.",
+      "description": "CREATE AND ANALYSE COMPLEX FINANCIAL MODELS - Incorporate taxation, carry forward losses and depreciation into detailed financial modelling."
+    },
+    {
+      "number": "LO10.",
+      "description": "KEY DIFFERENCES WITH MINING AND OTHER INDUSTRIES - Understand the role and impact of marginal, total and fixed costs on the mine planning process."
+    },
+    {
+      "number": "LO11.",
+      "description": "KEY DIFFERENCES WITH MINING AND OTHER INDUSTRIES - Understand the impact of the exploitation of non-renewable resources on mining company value."
+    },
+    {
+      "number": "LO12.",
+      "description": "KEY DIFFERENCES WITH MINING AND OTHER INDUSTRIES - Incorporate key changes into the mine plan in order to mitigate the effect to maximise value the latest technological innovations into the system where appropriate."
+    },
+    {
+      "number": "LO13.",
+      "description": "EFFECTIVE COMMUNICATION - Acquire team skills to develop a mining project."
+    },
+    {
+      "number": "LO14.",
+      "description": "EFFECTIVE COMMUNICATION - Obtain advanced written and oral communication skills."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Take home assignment",
+      "weight": "20%",
+      "due_date": "31/03/2025 - 14/04/2025; Submission is due at 1:00pm."
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Group Project (Pairs)",
+      "weight": "20%",
+      "due_date": "28/05/2025 1:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Take home assignment",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "31/03/2025 - 14/04/2025 Submission is due at 1:00pm.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L10, L11, L12, L13",
+      "task_description": "This is a take home task to be completed individually over a 2-week period. It will comprise of a series of short answer and calculation questions relating to material covered in weeks 1-7. The value of each question will be provided upon release of the item. Further details about this task will be provided closer to its release. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria. Read full task description Hide full task description",
+      "submission_guidelines": "This is submitted via Turnitin on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nTo facilitate timely feedback to students.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This is a take home task to be completed individually over a 2-week period. It will comprise of a series of short answer and calculation questions relating to material covered in weeks 1-7. The value of each question will be provided upon release of the item. Further details about this task will be provided closer to its release. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Group Project (Pairs)",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "28/05/2025 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14",
+      "task_description": "This project will consist of an activity requiring the use of the Whittle 4X Software Package. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via TurnItIn on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nTo facilitate timely feedback to students.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This project will consist of an activity requiring the use of the Whittle 4X Software Package. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L14",
+      "task_description": "This will be a comprehensive examination on all topics addressed in this course throughout the semester. Questions will assess your theoretical knowledge and the application of this on practical problem based questions that will require you to draw meaningful conclusions from calculations. The exam will contain five questions worth 25% each. Students must answer four out of five questions. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This will be a comprehensive examination on all topics addressed in this course throughout the semester. Questions will assess your theoretical knowledge and the application of this on practical problem based questions that will require you to draw meaningful conclusions from calculations. The exam will contain five questions worth 25% each. Students must answer four out of five questions. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (24 Feb - 02 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Introduction to Mine Planning & Sustainability. Introduction to financial concepts Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (03 Mar - 09 Mar)",
+      "activity_type": "Lecture",
+      "topic": "ESG in Mining Learning outcomes: L03, L04, L05, L13",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05",
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (03 Mar - 09 Mar)",
+      "activity_type": "Tutorial",
+      "topic": "The circular economy Learning outcomes: L01, L02, L03, L04, L05, L10, L11, L12",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L10",
+        "L11",
+        "L12"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (10 Mar - 16 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Mining Economics Learning outcomes: L01, L02, L03, L04, L05, L10, L11, L12",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L10",
+        "L11",
+        "L12"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (10 Mar - 16 Mar)",
+      "activity_type": "Tutorial",
+      "topic": "Financial Concepts. Mining Economics. Learning outcomes: L01, L02, L03, L04, L05, L09, L10, L11",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L09",
+        "L10",
+        "L11"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (17 Mar - 23 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Mining method selection Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L09, L10, L11",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L09",
+        "L10",
+        "L11"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (17 Mar - 23 Mar)",
+      "activity_type": "Tutorial",
+      "topic": "Mining method selection Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (24 Mar - 30 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Process route selection Learning outcomes: L01, L02, L03, L04, L05, L09, L10, L11, L12",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L09",
+        "L10",
+        "L11",
+        "L12"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (31 Mar - 06 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Scale of Operation. Equivalent Grade. Basic Cut-off Grade. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (31 Mar - 06 Apr)",
+      "activity_type": "Tutorial",
+      "topic": "Scale of Operation. Equivalent Grade. Basic Cut-off Grade. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (07 Apr - 13 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Open Pit Sequencing & Scheduling Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (07 Apr - 13 Apr)",
+      "activity_type": "Tutorial",
+      "topic": "Open Pit Sequencing & Scheduling Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (14 Apr - 20 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Underground Mine Production Scheduling Learning outcomes: L01, L02, L03, L04, L05, L07, L08, L09, L10, L11, L12",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (14 Apr - 20 Apr)",
+      "activity_type": "Tutorial",
+      "topic": "Underground Mine Production Scheduling Learning outcomes: L01, L02, L03, L04, L05, L07, L08, L09, L10, L11, L12",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break (21 Apr - 27 Apr)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Mid semester break"
+    },
+    {
+      "learning_period": "Week 9 (28 Apr - 04 May)",
+      "activity_type": "Lecture",
+      "topic": "Cutoff Grade Policy Learning outcomes: L01, L02, L03, L04, L05, L08, L09, L10",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L08",
+        "L09",
+        "L10"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (28 Apr - 04 May)",
+      "activity_type": "Tutorial",
+      "topic": "Cutoff Grade Policy Learning outcomes: L01, L02, L03, L04, L05, L08, L09, L10",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L08",
+        "L09",
+        "L10"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (05 May - 11 May)",
+      "activity_type": "Lecture",
+      "topic": "Pit optimisation algorithms Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (12 May - 18 May)",
+      "activity_type": "Lecture",
+      "topic": "Financial modelling Learning outcomes: L08, L09",
+      "learning_outcomes": [
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (12 May - 18 May)",
+      "activity_type": "Tutorial",
+      "topic": "Pit optimisation algorithms. Project. Learning outcomes: L08, L09",
+      "learning_outcomes": [
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (19 May - 25 May)",
+      "activity_type": "Lecture",
+      "topic": "Mine Closure Learning outcomes: L01, L02, L03, L04, L05, L11, L12, L13",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L11",
+        "L12",
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (19 May - 25 May)",
+      "activity_type": "Tutorial",
+      "topic": "Mine Closure. Project. Learning outcomes: L01, L02, L03, L04, L05, L11, L12, L13",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L11",
+        "L12",
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (26 May - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Course Review / Guest Lecturer Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13",
+        "L14"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (26 May - 01 Jun)",
+      "activity_type": "Tutorial",
+      "topic": "Course Review Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13",
+        "L14"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

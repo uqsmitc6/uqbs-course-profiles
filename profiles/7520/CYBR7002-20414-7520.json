@@ -1,0 +1,443 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CYBR7002-20414-7520",
+  "scraped_at": "2026-06-04T01:32:43.602667+00:00",
+  "course_code": "CYBR7002",
+  "class_code": "20414",
+  "semester_code": "7520",
+  "full_course_code": "CYBR7002-20414-7520",
+  "course_title": "Information Security Essentials",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "This is an introductory course covering key concepts and best practices in information security, and their application to the protection of organisation assets and business needs. It is designed for students from a broad range of backgrounds. It will include, but not be limited to topics such as; governance of information assets and ICT assets, develop understanding of business impact analysis of the confidentiality, integrity and availability of information assets and ICT assets, risk management using preventative, detective and responsive controls to manage risk, access control of information and information processing facilities, authentication protocols such as; shared secrets, cryptographic hash functions and challenge-response protocols. Topic coverage may also include; using biometrics for authentication, introduction to applied cryptography in information security, network and wireless network security, physical security of information assets, HR security, securing the human, phishing and social engineering, payment card industry security, cloud computing security, industrial control systems and cooperative and automated vehicles.\n\nTopics that will be covered include risk management, access control, authentication, authorisation, symmetric and asymmetric cryptography, network security and application-layer security, for example blockchain security and image forensics. Current industry standards will be referenced, including the ISO/IEC 27000 series on Information Security,ﾠthe Payment Card Industry Data Security Standard (PCI DSS), and the NIST Special Publications 800-53 & 800-82. Students will gain a basic knowledge of current real world Information Security practices and procedures.\n\nCourse Changes in Response to Previous Student Feedback:\n\nBased on valuable feedback from previous students, several improvements have been made to the assessment. The attack-defence group activities have been streamlined, and their weight has been reduced to better align with their intended purpose as a preparatory exercise for the final report.",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMS3000",
+      "CYBR3000",
+      "COMS7003"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Naipeng Dong",
+      "email": "CYBR7002@eecs.uq.edu.au"
+    },
+    {
+      "role": "Course coordinator",
+      "name": "Dr Priyanka Singh"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Naipeng Dong"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Priyanka Singh"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThe Week 9 presentation on April 30, 2025, will extend beyond the scheduled lecture time and take place throughout the entire day to ensure fairness for all participants.",
+  "course_aims": "The aim of the course is to provide an introduction to essential knowledge and skills in the field of Information Security. Concepts such as Access Control, Authentication, Integrity and Confidentiality will be discussed and students will gain an understanding of the basic cryptographic primitives and protocols that are required to implement these security goals. Students will develop the skills to perform practical Threat, Vulnerability and Risk Analysis, understand Information Security standards and be able to assess Information Security risks based on third-party attestations of standards compliance in on-premise, remote, cloud or edge-computing environments.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "describe and apply the concepts of Information Security, such as Confidentiality, Integrity, Authentication and Non-Repudiation, and their relevance in various contexts."
+    },
+    {
+      "number": "LO2.",
+      "description": "analyse and critically evaluate a range of access control and authentication mechanisms, including passwords, biometrics, PKI and multifactor authentication for various Australian and international application scenarios."
+    },
+    {
+      "number": "LO3.",
+      "description": "critically evaluate and apply cryptographic techniques, mechanisms and protocols."
+    },
+    {
+      "number": "LO4.",
+      "description": "independently locate, interpret and critically judge academic and other literature in the field of Information Security, and then apply outcomes to plan, evaluate, develop and reflect critically on justifications in academic reports."
+    },
+    {
+      "number": "LO5.",
+      "description": "compute the information theoretic entropy of random variables, passwords, etc."
+    },
+    {
+      "number": "LO6.",
+      "description": "analyse and critically report on the security of information systems."
+    },
+    {
+      "number": "LO7.",
+      "description": "understand the development of international information security standards by multi-cultural interdisciplinary teams and the importance and application of these international standards to support both domestic and international cross-jurisdictional information security requirements throughout the world."
+    },
+    {
+      "number": "LO8.",
+      "description": "development of group skills in attack-defence activities."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "In-class Quiz Series",
+      "weight": "15%",
+      "due_date": "Week 3, Fri; Week 4, Fri; Week 5, Fri; Week 6, Fri; Week 7, Fri; Week 10, Fri; Week 12, Fri; Week 13, Fri; Must be submitted during the practical class"
+    },
+    {
+      "category": "Presentation",
+      "title": "Presentation",
+      "weight": "15%",
+      "due_date": "30/04/2025; Whole day",
+      "conditions": [
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Report",
+      "weight": "30%",
+      "due_date": "23/05/2025 2:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-class Quiz Series",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "15%",
+      "due_date": "Week 3, Fri Week 4, Fri Week 5, Fri Week 6, Fri Week 7, Fri Week 10, Fri Week 12, Fri Week 13, Fri Must be submitted during the practical class",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L05, L07",
+      "task_description": "For each Quiz, students are given 5 minutes to answer 1-2 questions, based on learned course material, and submit their answers. The quizzes are held during practical sessions and must be submitted during class time. Students can bring your own devices to class or submit a paper copy. These are multiple choices and short answers, some with calculations, as individual work, to test the students' ability to apply the knowledge they have gained from the course material in new scenarios. There are 8 quizzes in total. Top 5 will be counted. Each Quiz counts 3%. In total 15%. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) and Machine Translation (MT) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Answer the questions in Blackboard test or submit a paper copy (Details see Learn.UQ at https://learn.uq.edu.au/).\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nNo extensions available. To accommodate unforeseen circumstances such as illness, the quiz score will be based on the best 5 out of 8 submissions.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "For each Quiz, students are given 5 minutes to answer 1-2 questions, based on learned course material, and submit their answers. The quizzes are held during practical sessions and must be submitted during class time. Students can bring your own devices to class or submit a paper copy. These are multiple choices and short answers, some with calculations, as individual work, to test the students' ability to apply the knowledge they have gained from the course material in new scenarios. There are 8 quizzes in total. Top 5 will be counted. Each Quiz counts 3%. In total 15%. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) and Machine Translation (MT) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) and Machine Translation (MT) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Presentation",
+      "mode": "Oral",
+      "category": "Presentation",
+      "weight": "15%",
+      "due_date": "30/04/2025 Whole day",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "Students are required to research and critically evaluate security risks and their counter measures and present in a group a summary and discussion of the selected attacking or defending scenario in the form of a presentation. This assessment tests students ability to compile a paper in a group that demonstrates the ability to locate high quality sources of relevant information, understand complex concepts, critically analyse and integrate information from a wide range of sources, evaluate opinions, make decisions and reflect critically on the justifications for decisions; and to synthesize a clear and concise paper of the appropriate level and style. Presentation is a fixed date in Week 9 (Wednesday). The assessment will be recorded. See Blackboard site for detailed schedule. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) and Machine Translation (MT) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct. The course coordinator reserves the right to vary group marks for each group member in the event of varied contributions to the team effort. Read full task description Hide full task description",
+      "submission_guidelines": "Reports and slides are submitted online (see blackboard for details)\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThis course uses team-based assessment where oral sessions/demo sessions are scheduled with multiple markers and is time limited.\nIf teams encounter extraordinary difficulties in meeting a deadline, they should contact the course coordinator in advance of the due date.\nAll team submissions received after the due date will either; (1) receive a zero mark (or failing grade), or (2) if an earlier version of the team’s work was submitted then this will instead be graded.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Students are required to research and critically evaluate security risks and their counter measures and present in a group a summary and discussion of the selected attacking or defending scenario in the form of a presentation. This assessment tests students ability to compile a paper in a group that demonstrates the ability to locate high quality sources of relevant information, understand complex concepts, critically analyse and integrate information from a wide range of sources, evaluate opinions, make decisions and reflect critically on the justifications for decisions; and to synthesize a clear and concise paper of the appropriate level and style. Presentation is a fixed date in Week 9 (Wednesday). The assessment will be recorded. See Blackboard site for detailed schedule. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) and Machine Translation (MT) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct. The course coordinator reserves the right to vary group marks for each group member in the event of varied contributions to the team effort. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) and Machine Translation (MT) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Report",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "30%",
+      "due_date": "23/05/2025 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "In this assignment, students are required to compile a report that demonstrates their ability to formulate and investigate problems, to critically analyse and integrate information from a wide range of sources, recognising the roles and expertise of associated disciplines, to evaluate opinions, make decisions and to reflect critically on the justifications for decisions, to generate ideas and adapt innovatively to create solutions, with an appreciation of the link between theory and practice, to innovate and improve current practices; and the ability synthesize a clear and concise research report of the appropriate level and style. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "An electronic copy of your assignment is required to be submitted via Blackboard (Learn.UQ at https://learn.uq.edu.au/). Submit early - updates can be submitted up until the deadline - it is your responsibility to ensure your assignment is successfully submitted BEFORE the deadline. No hard copy is required for this assignment.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 21 days. Extensions are given in multiples of 24 hours.\nFeedback will be given to students in a timeframe of 21-28 days, where the earlier time frame applies if there are no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "In this assignment, students are required to compile a report that demonstrates their ability to formulate and investigate problems, to critically analyse and integrate information from a wide range of sources, recognising the roles and expertise of associated disciplines, to evaluate opinions, make decisions and to reflect critically on the justifications for decisions, to generate ideas and adapt innovatively to create solutions, with an appreciation of the link between theory and practice, to innovate and improve current practices; and the ability synthesize a clear and concise research report of the appropriate level and style. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "The exam will be an on-campus paper-based exam. This exam will be a closed book and will contain a combination of multiple choices and short answers, some with calculations. It is individual work; to test the students' ability to apply the knowledge they have gained from the course material in new scenarios. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options Any calculator permitted Open/closed book Open Book examination Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The exam will be an on-campus paper-based exam. This exam will be a closed book and will contain a combination of multiple choices and short answers, some with calculations. It is individual work; to test the students' ability to apply the knowledge they have gained from the course material in new scenarios. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.",
+    "other_course_materials": "Recommended Item Description Further Requirement Mark Stamp. Information Security: Principles and Practice, Wiley book Michael Brewer, Information security, DISC/British Standards Institution book Bruce Schneier, Applied Cryptography: Protocols, Algorithms, and Source Code in C, Wiley book William Stallings, Cryptograhy and Network Security: principles and practice, Prentice Hall book C. Kaufman et al., Network Security: Private Communication in a Public World, Prentice Hall book Bruce Schneier, Secret and Lies, Wiley book Ross Anderson, Security Engineering, Wiley book Albert Menezes et al., The Handbook of applied Cryptography book Matt Bishop, Computer Security, Prentice Hall book",
+    "recommended": "Item Description Further Requirement Mark Stamp. Information Security: Principles and Practice, Wiley book Michael Brewer, Information security, DISC/British Standards Institution book Bruce Schneier, Applied Cryptography: Protocols, Algorithms, and Source Code in C, Wiley book William Stallings, Cryptograhy and Network Security: principles and practice, Prentice Hall book C. Kaufman et al., Network Security: Private Communication in a Public World, Prentice Hall book Bruce Schneier, Secret and Lies, Wiley book Ross Anderson, Security Engineering, Wiley book Albert Menezes et al., The Handbook of applied Cryptography book Matt Bishop, Computer Security, Prentice Hall book"
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Lecture",
+      "topic": "Introduction to the course Introduction to the Course Staff, Course Content, Assessments, Admin Issues, how to succeed in the course etc. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Practical",
+      "topic": "Introduction to the assessments and the Attack-Defence Scenario Learning outcomes: L01, L02, L03, L04, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Lecture",
+      "topic": "Information Security; Risk Management; Access Control Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Lecture",
+      "topic": "Password; Cryptographic Hashes Learning outcomes: L01, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Practical",
+      "topic": "Practice on Information Security; Risk Management; Access Control Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Lecture",
+      "topic": "Password; Salt; Historical Cryptography Learning outcomes: L01, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Practical",
+      "topic": "Work in team practicing risk identification"
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Lecture",
+      "topic": "Modern Cryptography; Symmetric Cryptography Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Practical",
+      "topic": "Practice on Password; Cryptographic Hashes Learning outcomes: L01, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Lecture",
+      "topic": "Asymmetric Cryptography; Digital Signature; Public Key Infrastructure Learning outcomes: L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Practical",
+      "topic": "Practice on Historical Cryptography; Modern Cryptography; Symmetric Cryptography Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Lecture",
+      "topic": "Authentication Protocols; Transport Layer Security Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Practical",
+      "topic": "Work in team practice on slides and presentation Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Lecture",
+      "topic": "Advanced Topics: Quantum Computing & Post-quantum Cryptography, Image Forensics Learning outcomes: L01, L02, L03, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Seminar",
+      "topic": "Presentation Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Practical",
+      "topic": "Practice on Asymmetric Encryption; Digital Signature; Public Key Infrastructure Learning outcomes: L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Lecture",
+      "topic": "Biometrics; Authorisation Learning outcomes: L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Practical",
+      "topic": "Practice on Bioinformatics; Authorisation Learning outcomes: L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Lecture",
+      "topic": "Guest Lecture Learning outcomes: L01, L02, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Practical",
+      "topic": "Presentation Feedback and Final Report Help Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Lecture",
+      "topic": "Trust; Zero Trust; Blockchain Learning outcomes: L01, L02, L03, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Practical",
+      "topic": "Practice on Trust; Zero Trust; Blockchain Learning outcomes: L01, L02, L03, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Lecture",
+      "topic": "Information Theory Learning outcomes: L05",
+      "learning_outcomes": [
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Practical",
+      "topic": "Practice on Information Theory Learning outcomes: L05",
+      "learning_outcomes": [
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

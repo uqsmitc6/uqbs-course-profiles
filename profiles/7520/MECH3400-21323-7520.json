@@ -1,0 +1,229 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MECH3400-21323-7520",
+  "scraped_at": "2026-06-04T01:46:57.460475+00:00",
+  "course_code": "MECH3400",
+  "class_code": "21323",
+  "semester_code": "7520",
+  "full_course_code": "MECH3400-21323-7520",
+  "course_title": "Thermodynamics & Heat Transfer",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "2nd law, entropy and availability. Power and refrigeration cycles. Mixtures, psychrometry, chemical reactions and combustion. Conduction, convection, radiation, multi-mode heat transfer applications.\n\nThis course will build on the knowledge learned in the introductory thermofluids courses to cover the fundamentals of classical thermodynamics and heat transfer, taught in ENGG1500 and MECH2410. The students will then be able to apply the principles learned in the course to mechanical engineering systems.\n\nThe thermodynamics part of this course builds on students' knowledge ofﾠthe fundamentals of thermodynamics including the second law, entropy, exergy, Carnot cycle ,ﾠand chemical reactio nsﾠgained in ENGG1500. The students will then learn about different heat engines/advanced power cycles (Carnot, Otto, Diesel, Brayton, Rankine, etc) and refrigeration cycles. Basics of heating, ventilation and air conditioning (HVAC) as well as psychrometry will be covered. Thermodynamic analysis of mixtures and combustion will ﾠalso be taught.ﾠ\n\nThe heat transfer part of this course builds on MECH2410 and ENGG1500, and coversﾠmodes of heat transfer and applies the newﾠknowledge toﾠheat exchanger design and evaluation. The students will learn about conduction (1D as well as 2D and 3D; with heat generation), convection (forced, free and mixed for both internal and external flow) and radiation heat transfer both under steady and unsteady conditions. Concepts like thermal resistance, area extension through fins, and logarithmic mean temperature difference (LMTD) will be introduced and their use in solving practical heat transfer problems will be covered.ﾠ",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ENGG1500",
+      "MECH2410"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Anand Veeraragavan",
+      "email": "anandv@uq.edu.au",
+      "phone": "+61 7 3365 4069",
+      "notes": "If you have questions you would like to discuss with Professor Veeraragavan, please email to arrange an appointment."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Anand Veeraragavan",
+      "email": "anandv@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Carolyn Jacobs",
+      "email": "c.jacobs@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Ramprakash Ananthapadmanaban",
+      "email": "r.ananthapadmanaban@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nﾠ\nﾠ",
+  "course_aims": "The aim of this course is to develop the student's ability to utilise advanced concepts in thermodynamics and heat transfer to analyse complex real-life industrial processes by making simplifying assumptions that can allow analytical or semi-emperical engineering calculations to be undertaken for performance analysis of such systems.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Identify and correctly use the fundamental principles of thermodynamics and heat transfer - Analyse simple canonical engineering problems and link them to these fundamental principles"
+    },
+    {
+      "number": "LO2.",
+      "description": "Identify and correctly use the fundamental principles of thermodynamics and heat transfer - Understand different modes of heat transfer (conduction, convection and radiation)"
+    },
+    {
+      "number": "LO3.",
+      "description": "Identify and correctly use the fundamental principles of thermodynamics and heat transfer - Apply basic thermodynamic principles to analyse well-known power/refrigeration cycles"
+    },
+    {
+      "number": "LO4.",
+      "description": "Identify and correctly use the fundamental principles of thermodynamics and heat transfer - Calculate the temperature distribution in a heat exchanger and for different processes"
+    },
+    {
+      "number": "LO5.",
+      "description": "Identify and correctly use the fundamental principles of thermodynamics and heat transfer - Demonstrate an understanding of the fundamental thermodynamic principles of combustion and chemical equilibrium"
+    },
+    {
+      "number": "LO6.",
+      "description": "Identify and correctly use the fundamental principles of thermodynamics and heat transfer - Read psychrometric charts and identify the relevant air properties (saturation temperature, humidity, enthalpy etc)"
+    },
+    {
+      "number": "LO7.",
+      "description": "Identify and correctly use the fundamental principles of thermodynamics and heat transfer - Understand the difference between transient and steady problems and select the proper tool to investigate the problem"
+    },
+    {
+      "number": "LO8.",
+      "description": "Apply thermodynamics and heat transfer problem-solving strategies to analyse the performance of complex engineering systems - Select and apply appropriate techniques and tools introduced in the course to quantify the thermodynamic performance of innovative power/refrigeration cycles"
+    },
+    {
+      "number": "LO9.",
+      "description": "Apply thermodynamics and heat transfer problem-solving strategies to analyse the performance of complex engineering systems - Apply simplified mathematical models to complex thermodynamic processes in heating ventilation and air conditioning problems"
+    },
+    {
+      "number": "LO10.",
+      "description": "Apply thermodynamics and heat transfer problem-solving strategies to analyse the performance of complex engineering systems - Create strategies for accommodating real effects building on the simplified frameworks developed in thermodynamics"
+    },
+    {
+      "number": "LO11.",
+      "description": "Apply thermodynamics and heat transfer problem-solving strategies to analyse the performance of complex engineering systems - Select the approach best suited to investigate a given heat transfer problem"
+    },
+    {
+      "number": "LO12.",
+      "description": "Apply thermodynamics and heat transfer problem-solving strategies to analyse the performance of complex engineering systems - Interpret temperature and heat transfer measurements"
+    },
+    {
+      "number": "LO13.",
+      "description": "Effectively communicate engineering solutions in thermodynamics and heat transfer to teaching staff and peers - Work collaboratively with team members to develop analysis of thermodynamics and heat transfer data from laboratory experiments"
+    },
+    {
+      "number": "LO14.",
+      "description": "Effectively communicate engineering solutions in thermodynamics and heat transfer to teaching staff and peers - Demonstrate the ability to articulate methodologies to estimate heat transfer and energy conversion efficiency"
+    },
+    {
+      "number": "LO15.",
+      "description": "Effectively communicate engineering solutions in thermodynamics and heat transfer to teaching staff and peers - Document and report engineering thermohydraulics measurements and analysis of physical data"
+    },
+    {
+      "number": "LO16.",
+      "description": "Use analysis methods of physical systems to contrast performance against potential environmental impacts and human comfort - Systematically utilise the basic thermodynamic analysis of advanced engineering systems to quantify environmental benefits of existing options"
+    },
+    {
+      "number": "LO17.",
+      "description": "Use analysis methods of physical systems to contrast performance against potential environmental impacts and human comfort - Compare and contrast different HVAC system options to identify environmental suitability based on their climate of application"
+    },
+    {
+      "number": "LO18.",
+      "description": "Use analysis methods of physical systems to contrast performance against potential environmental impacts and human comfort - Demonstrate an understanding of engineering tailored heat transfer solutions to achieve least environmental impact"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation, Practical/ Demonstration",
+      "title": "Thermodynamics and Heat Transfer prac sessions",
+      "weight": "15%",
+      "due_date": "24/03/2025 - 20/05/2025; 13:00 (1:00pm) One week from the attendance of your practical session"
+    },
+    {
+      "category": "Examination",
+      "title": "In-Semester Exam",
+      "weight": "25%",
+      "due_date": "In-semester Saturday; 29/03/2025 - 12/04/2025; Please refer to your personal exam timetable on my.UQ.",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Thermodynamics and Heat Transfer prac sessions",
+      "mode": "Activity/ Performance",
+      "category": "Paper/ Report/ Annotation, Practical/ Demonstration",
+      "weight": "15%",
+      "due_date": "24/03/2025 - 20/05/2025 13:00 (1:00pm) One week from the attendance of your practical session",
+      "task_description": "Students are expected to attend the practical on the date that they have signed up for. We strongly encourage the students to note this down in their calendar with adequate reminders, as this occurs only once in the semester for every student. The practical spaces are limited and hence it is very difficult to accommodate students who accidentally miss their session. We would suggest contacting Dr. Ramprakash Ananthapadmanaban (Practical Coordinator) by email, in the event of missing your session, owing only to extenuating circumstances, to be relocated to a new session. Please note that the Report deadlines noted below then shift to your new practical session and with the group of students you undertake this with. Pre-work (self-study at home and responding to questions posted on Blackboard) carries 5%, running the tests and Practical Report on thermodynamics (refrigeration) and heat transfer (conduction) carries the remaining 10%. Practical reports are due one week (5 working days) from the date that you attended your practical session. If that date falls on a holiday/mid-semester break, it will be due the next working day of the semester. The submission time for the report is 13:00 (1 PM ), even if your practical hours were different from this. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via TurnItIn on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nExtensions are available for the report.\nStudents will be provided with feedback within 15-21 days after the original due date.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Students are expected to attend the practical on the date that they have signed up for. We strongly encourage the students to note this down in their calendar with adequate reminders, as this occurs only once in the semester for every student. The practical spaces are limited and hence it is very difficult to accommodate students who accidentally miss their session. We would suggest contacting Dr. Ramprakash Ananthapadmanaban (Practical Coordinator) by email, in the event of missing your session, owing only to extenuating circumstances, to be relocated to a new session. Please note that the Report deadlines noted below then shift to your new practical session and with the group of students you undertake this with. Pre-work (self-study at home and responding to questions posted on Blackboard) carries 5%, running the tests and Practical Report on thermodynamics (refrigeration) and heat transfer (conduction) carries the remaining 10%. Practical reports are due one week (5 working days) from the date that you attended your practical session. If that date falls on a holiday/mid-semester break, it will be due the next working day of the semester. The submission time for the report is 13:00 (1 PM ), even if your practical hours were different from this. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In-Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "25%",
+      "due_date": "In-semester Saturday 29/03/2025 - 12/04/2025 Please refer to your personal exam timetable on my.UQ.",
+      "task_description": "The In-Semester examination will assess a portion of the thermodynamics/heat transfer content covered up to this point in the semester. Specific topics will be communicated via Blackboard announcements. Format: Multiple-choice, Short answer, Problem solving This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 60 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The In-Semester examination will assess a portion of the thermodynamics/heat transfer content covered up to this point in the semester. Specific topics will be communicated via Blackboard announcements. Format: Multiple-choice, Short answer, Problem solving This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "task_description": "Final Exam will assess all of the content covered in the course. Format: Multiple-choice, Problem solving This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "Final Exam will assess all of the content covered in the course. Format: Multiple-choice, Problem solving This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial Apply, practice, and extend the concepts taught during the lectures to sample problems and discuss worked solutions; receive feedback and assistance in the learning process; develop communication skills through in-class discussions."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Lectures on thermodynamics and heat transfer Learn new concepts and how to apply them to solve thermodynamics and heat transfer problems. Participate in in-class discussions regarding technical aspects of thermodynamics and heat transfer."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Not Timetabled",
+      "topic": "Independent Study Both the thermodynamics and heat transfer components of the course require students to undertake individual study. This is necessary to reinforce understanding of lecture material and practice application of the course concepts to tutorial and additional problems. Note that in any typical week for the course there are only 5 hours of contact (lectures and tutorials). At least the same proportion of time should be spent on independent reading and problem solving."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 5 To Week 11 (24 Mar - 18 May)",
+      "activity_type": "Practical",
+      "topic": "Thermodynamics & Heat Transfer Pracs Heat transfer practicals provide an opportunity to apply knowledge of course content to real problems, and thereby gain a more direct understanding of course concepts."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

@@ -1,0 +1,199 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/INFS7450-21275-7520",
+  "scraped_at": "2026-06-04T01:43:37.783399+00:00",
+  "course_code": "INFS7450",
+  "class_code": "21275",
+  "semester_code": "7520",
+  "full_course_code": "INFS7450-21275-7520",
+  "course_title": "Social Media Analytics",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "The growth of various social media platforms over the last decade has revolutionized the way individuals interact and industries conduct business. Individuals produce data at an unprecedented rate by interacting, sharing, and consuming content through social media. Understanding and processing this new type of data to glean actionable patterns presents challenges and opportunities for interdisciplinary research, novel algorithms, and tool development. This course integrates social media, network analysis and data mining to provide a convenient and coherent platform for students to understand the basics and potentials of social media analytics. It introduces basic concepts in social media analytics, metrics to characterize networks, models to explain the generation of networks, and methods to analyse networks. The students learn to use software tools to visualize and analyse real-world social network data. The course also introduces a wide variety of advanced topics in social media analytics such as information diffusion, community detection, behaviour analytics, social recommendations and privacy preserving in social media. If you want to share a piece of information or a site on social media, you would like to grab precious attention from other equally eager users of social media; if you are curious to know what is hidden or who is influential in the complex world of social media, you might wonder how one can find this information in big and messy social media; if you hope to serve your customers better in social media, you certainly want to employ effective means to understand them better. These are just some scenarios in which this course can help.\n\nWith various social media platforms (Facebook, Twitter, Instagram, Snapchat, etc.), people can share content, opinions, insights, experiences, perspectives, and media themselves and produce many new media. Social networks emerge with the pervasive use of social media. This course focuses on the analysis of large-scale social networks which provide many computational, algorithmic, and modelling challenges. The course will introduce state-of-the-art developments and research on the structure and analysis of such large social networks and on models and algorithms that abstract their basic properties. We will explore how to practically analyse large-scale network data and how to reason about it through models for network structure and content. Both basic concepts and principles of social networks such as small world, random networks, scale-free networks, community structure, laws and distributions and key techniques of social computing such as fast computation of various network centralities, community detection, and propagation of influence,ﾠlink prediction and graph reprensation ﾠlearning will be covered in this course.\n\nCourse Changes in Response to Previous Student Feedback\n\nThe description of Project 1 has been refined to highlight its connection to real-world applications, and a broader range of datasets have been incorporated. Lectures will feature more examples and visual elements to enhance engagement. Additionally, foundational knowledge will be expanded for the advanced topic “Graph Representation Learning” to support an easier transition from core material.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "COMP3506",
+      "COMP7505",
+      "STAT7003",
+      "INFS4203",
+      "INFS7203",
+      "We recommend completing the following courses before enrolling in this one:",
+      "COMP7703",
+      "COMP4702",
+      "INFS7410"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Hongzhi Yin",
+      "email": "INFS7450@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Hongzhi Yin"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The aim of this course is to provide a comprehensive introduction to Social Media Analytics (SMA). The topics covered include basic graph theories, node centrality measures, models of the small world, six degrees of separation, network measures and inference, power-laws, cascading behaviour in networks, models of network cascades, Influence maximization in networks, finding communities and clusters in networks, link analysis and prediction, and graph representation learning. The goal is to present fundamental concepts and algorithms for each topic, thus providing the students with the necessary background and practical skills for various social applications. The ultimate goal is to sharpen problem-solving and critical thinking skills of our post-graduate students and prepare them with this unique set of expertise for the increasing demand in the IT industry and for in-depth advanced research.ﾠ",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Master the knowledge of fundamental elements and basic concepts in social media analytics"
+    },
+    {
+      "number": "LO2.",
+      "description": "Design and apply essential metrics and models to effectively characterize and measure networks in the context of social media"
+    },
+    {
+      "number": "LO3.",
+      "description": "Acquire both principles and hands-on practical experience of implementing algorithms and models for various applications based on social media data, such as identifying influential users, computing the importance of each user in social networks, community discovery, influence propagation and maximization, link prediction, social recommendation"
+    },
+    {
+      "number": "LO4.",
+      "description": "Explain, analyse and discuss the discovered actionable patterns from social media data"
+    },
+    {
+      "number": "LO5.",
+      "description": "Assess and critically evaluate the performance of algorithms designed for social media analysis, demonstrating a nuanced understanding of their effectiveness and limitations"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Online Quizzes",
+      "weight": "20%",
+      "due_date": "14/03/2025 4:00 pm; 25/03/2025 4:00 pm; 1/04/2025 4:00 pm; 15/04/2025 4:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Project",
+      "title": "P1: Fast Computation of User Centrality Measures",
+      "weight": "15%",
+      "due_date": "16/04/2025 4:00 pm"
+    },
+    {
+      "category": "Project",
+      "title": "P2: Link Prediction in Social Networks",
+      "weight": "15%",
+      "due_date": "27/05/2025 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Online Quizzes",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "20%",
+      "due_date": "14/03/2025 4:00 pm 25/03/2025 4:00 pm 1/04/2025 4:00 pm 15/04/2025 4:00 pm",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01",
+      "task_description": "Quiz 1 is designed to help students better understand the basic graph theory lectured in week 2. Quiz 2 is designed to help students better understand various node measures such as node centrality introduced in week 3 and week 4. Quiz 3 is designed to help students better understand some important network measures (e.g., degree distribution, clustering coefficient, average path length) and models (e.g., random graph model and small-world model). Quiz 4 is designed to help students better understand social influence and homophily including their measures and models. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "This online quizzes can be completed anywhere. Each quiz has a time limit of 120 minutes and will save and submit automatically when the time expires. Once started, it must be completed in one sitting. Do not leave the test before clicking Save and Submit. Each quiz allows two attempts, and the higher mark will be counted.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nNo extensions available and 100% Late penalty applied for the online quizzes as results and feedback are released immediately after the due date. To accommodate unforeseen circumstances such as illness, your mark will be based on the best 3 out of 4 submissions, each worth 5%.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Quiz 1 is designed to help students better understand the basic graph theory lectured in week 2. Quiz 2 is designed to help students better understand various node measures such as node centrality introduced in week 3 and week 4. Quiz 3 is designed to help students better understand some important network measures (e.g., degree distribution, clustering coefficient, average path length) and models (e.g., random graph model and small-world model). Quiz 4 is designed to help students better understand social influence and homophily including their measures and models. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "P1: Fast Computation of User Centrality Measures",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "15%",
+      "due_date": "16/04/2025 4:00 pm",
+      "learning_outcomes_assessed": "L02, L03, L05",
+      "task_description": "This project aims to implement a number of efficient algorithms to compute various centrality measures for user nodes such as Pagerank, Betweenness and Closeness. Project details will be included in the assignment handout. Students are required to finish this project individually. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Codes and project reports are to be submitted through UQ Blackboard system before the due dates.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach where feedback and/or detailed solutions will be released to students within 21 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This project aims to implement a number of efficient algorithms to compute various centrality measures for user nodes such as Pagerank, Betweenness and Closeness. Project details will be included in the assignment handout. Students are required to finish this project individually. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "P2: Link Prediction in Social Networks",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "15%",
+      "due_date": "27/05/2025 4:00 pm",
+      "learning_outcomes_assessed": "L03, L04, L05",
+      "task_description": "This project aims to design and implement an effective algorithm to predict social links, which can be used for friend recommendation in social networks. The implemented algorithm will be evaluated on real-life datasets and its performance will be reported. Project details will be included in the assignment handout. Students are required to finish this project individually. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Codes and project reports are to be submitted through UQ Blackboard system before the due dates.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach where feedback and/or detailed solutions will be released to students within 21 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This project aims to design and implement an effective algorithm to predict social links, which can be used for friend recommendation in social networks. The implemented algorithm will be evaluated on real-life datasets and its performance will be reported. Project details will be included in the assignment handout. Students are required to finish this project individually. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "This exam will be closed-book and contain multiple-choice, short-answer, and essay questions. It covers all topics in the lectures. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options Any calculator permitted Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This exam will be closed-book and contain multiple-choice, short-answer, and essay questions. It covers all topics in the lectures. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Lecture Series The course lectures will be offered to provide in-depth knowledge of various concepts and techniques in the design of models and algorithms for Social Media Analytics. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (03 Mar - 01 Jun)",
+      "activity_type": "Tutorial",
+      "topic": "Contact Series Contacts will be offered to provide an opportunity to understand further, extend and practice the concepts and techniques introduced in the lectures via examples, exercises, coding demos, and problem-solving. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

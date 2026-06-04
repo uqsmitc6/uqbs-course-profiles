@@ -1,0 +1,221 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/STAT7007-21527-7520",
+  "scraped_at": "2026-06-04T02:06:20.954173+00:00",
+  "course_code": "STAT7007",
+  "class_code": "21527",
+  "semester_code": "7520",
+  "full_course_code": "STAT7007-21527-7520",
+  "course_title": "Deep Learning",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Deep learning has become a much sought-after game-changing technology that has enabled breakthroughs in applications such as intelligent virtual assistants, medical diagnosis, recommender systems, and autonomous driving. This course provides a comprehensive and rigorous coverage of deep learning from both applied and theoretical perspectives. Students taking this course will understand how, why and when the algorithms work, and be able to effectively apply deep learning methods to practical problems. This course begins with the basics of machine learning, followed by a broad coverage of deep neural networks, including some major deep neural network architectures, optimization of network parameters, and applications in classification, regression and reinforcement learning. This course is suitable for both students who want to build data-driven enabling applications with deep learning, and students who want to develop a solid foundation for doing research in deep learning in particular, and machine learning or artificial intelligence more broadly. To maximise the learning outcomes, students are expected to have a solid foundation in statistics, calculus, linear algebra, and programming. Python will be used for this course.\n\nDeep learning,ﾠa major sub-field of machine learning, has recently been applied to solve manyﾠreal world problems.ﾠThis course gives the students the basic ideas and intuitionﾠbehindﾠdeep learning. Students taking this course willﾠunderstandﾠhow, why and when theﾠalgorithms work, andﾠbe able to effectively apply deep learning methods toﾠpracticalﾠproblems.ﾠThisﾠcourse beginsﾠwith basics of machine learning,ﾠfollowed by a broad coverage on deep neural networks, including some major deep neural network architectures, optimization of network parameters, and applications in classification, regression and reinforcement learning. Python will be used for this course.\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against UQ Policy, and will not be tolerated. We have developed a suite of resources to assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "We recommend completing the following courses before enrolling in this one:",
+      "STAT2004",
+      "STAT2203",
+      "MATH2504",
+      "CSSE2002"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "STAT3007"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Nan Ye",
+      "email": "nan.ye@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Nan Ye",
+      "email": "nan.ye@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Nazeef Hamid"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Jonathan Wilton"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Jun Ju"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Joel Woodfield"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "Students will learn the fundamental theories, algorithms and models of deep learning. Students will be required to undertake a project chosen in consultation with the course coordinator, which will lead to a seminar and report. The various assessment tasks aim to develop independence in gaining knowledge and applicable skills, capabilities in using advanced software for machine learning and deep learning, critical thinking and verbal and written communication skills.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand and explain the intuition, ideas and theory of deep learning algorithms and models"
+    },
+    {
+      "number": "LO2.",
+      "description": "Assess whether a deep learning algorithm is effective and appropriate for an application"
+    },
+    {
+      "number": "LO3.",
+      "description": "Propose suitable deep learning solutions and implement them for real world problems"
+    },
+    {
+      "number": "LO4.",
+      "description": "Effectively explain deep learning solutions in the form of oral presentations and reports"
+    },
+    {
+      "number": "LO5.",
+      "description": "Develop deep learning solutions to substantial problems through collaborative work"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Project",
+      "title": "Project",
+      "weight": "40%",
+      "due_date": "Proposal 14/04/2025 5:00 pm; Seminar 30/05/2025 5:00 pm; Report 9/06/2025 5:00 pm; Reflective essay 10/06/2025 5:00 pm; The seminars will take place in week 13. The presentation schedule will be released closer to the date.",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment 1",
+      "weight": "20%",
+      "due_date": "4/04/2025 5:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment 2",
+      "weight": "20%",
+      "due_date": "16/05/2025 5:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "20%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Project",
+      "mode": "Activity/ Performance",
+      "category": "Project",
+      "weight": "40%",
+      "due_date": "Proposal 14/04/2025 5:00 pm Seminar 30/05/2025 5:00 pm Report 9/06/2025 5:00 pm Reflective essay 10/06/2025 5:00 pm The seminars will take place in week 13. The presentation schedule will be released closer to the date.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Group project with multiple milestones and deliverables. Proposal (5%) Seminar (10%) Report (20%) Reflective essay (5%) Details will be provided in the project task sheet (available on Blackboard). The group project is designed to help student hone their skills in developing deep learning solutions to substantial problems through collaborative work, and it must be completed in groups. Students can form their own groups, and students without their own groups will be assigned a group. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThis assessment consists of a sequence of items that must be completed in order, and a maximum extension of 7 days to allow timely completion of the project. See ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 1",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "4/04/2025 5:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "The assignment contains questions to deepen the students' understanding on the topics covered in the lectures. The questions will be a mix of theoretical questions and programming questions. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nThe maximum extension is 14 days for this assessment to allow timely release of marked reports.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 2",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "16/05/2025 5:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "The assignment contains questions to deepen the students' understanding on the topics covered in the lectures. The questions will be a mix of theoretical questions and programming questions. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item. The maximum extension is 14 days for this assessment to allow timely release of marked reports.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "20%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options Any calculator permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Practical",
+      "topic": "PRA1 (theory exercises) Students will be given theory questions to help them to better understand contents covered in the lectures before the practical sessions. The tutor will walk through the solutions and answer questions during the practical sessions. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Practical",
+      "topic": "PRA2 (programming exercises) Students will be given programming questions to help them to better understand contents covered in the lectures before the practical sessions. The tutor will walk through the solutions and answer questions during the practical sessions. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Lectures will be based on slides given on Blackboard. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

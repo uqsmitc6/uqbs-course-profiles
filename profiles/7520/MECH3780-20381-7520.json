@@ -1,0 +1,258 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MECH3780-20381-7520",
+  "scraped_at": "2026-06-04T01:46:59.271676+00:00",
+  "course_code": "MECH3780",
+  "class_code": "20381",
+  "semester_code": "7520",
+  "full_course_code": "MECH3780-20381-7520",
+  "course_title": "Computational Mechanics",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "Computational analysis of problems in solid and fluid mechanics using the finite element (FEM) and finite volume (FVM) methods, respectively, in the context of product lifecycle management (PLM). The FEM component addresses strain energy, interpolation functions, element types, two-dimensional analysis types, plate and shell models, and an introduction to nonlinear analysis. The computational fluid dynamics (i.e. FVM) component addresses transient and steady-state flows, laminar and turbulent regimes, boundary layer and turbulence modelling, and stability criteria. Topics common to both approaches include problem decomposition, appropriate selection of boundary conditions, grid convergence, model verification and validation, and data visualisation and interrogation.\n\nComputational methods are now routinely applied in the analysis of engineering problems in structural and fluid mechanics. They can be used to assist the prototyping of solutions, optimise designs against functional specifications, or interrogate the failure of a component or system assembly. As just one example, their combined application in Formula 1 facilitates the rapid development (e.g. in betweenﾠraces) of aerodynamic components that increase downforce, reduce drag, and stay within allowable deflection limits.ﾠIn this course you will learn about the finite element method (FEM) and computational fluid dynamics (CFD) and how they are applied to provide insight on engineering problems that cannot be readily obtained using analytical or experimental means. You will put your learning into practice using commercial software packages.\n\nThe first half of the course deals with finite element analysis (FEA). You will be introduced to the theory of the underlying methodﾠ(e.g. simple truss/heat/circuit problems, weak variational form, interpolation functions, element types), two-dimensional analysis types, plate and shell models, and nonlinear analysis.ﾠThe second half of the course deals with CFD as analysed using the finite volume method (FVM). You will be introduced to the theory of the method (e.g. conservation, discretisation, solution schemes), transient and steady-state flows, laminar and turbulent regimes, boundary layer and turbulence modelling, non-Newtonian flows, and stability criteria. Both halves of the course will address issues related to the practical application of FEA and CFD, includingﾠproblem decomposition, appropriate selection of boundary conditions, grid convergence, model verification and validation, and data visualisation and interrogation. The place of computational mechanics within broader principles of product lifecycle management (PLM) will also be discussed.\n\nThis is not a numerical methods course. The derivation of finite element and finite volume schemes will only be presented to the depth required for you to appreciate their respective limitations, understand why certain choices of solution technique or model parameter are appropriate (or inappropriate), and identify and interpret the metrics that should be used to assess the quality of a computational analysis.ﾠ",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MECH2410",
+      "MECH2700",
+      "MECH2300"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MECH3300",
+      "MECH4480",
+      "MECH7480"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Christopher Leonardi",
+      "email": "c.leonardi@uq.edu.au",
+      "phone": "+61 7 3365 3761",
+      "notes": "Please email A/Prof Leonardi to arrange a consultation."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Christopher Leonardi",
+      "email": "c.leonardi@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Travis Mitchell",
+      "email": "t.mitchell@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The aim of this course is to imbue you with the technical understanding and practical perspective required to apply computational methods to generate robust engineering insight on problems related to structural mechanics and fluid mechanics.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Discuss the role that computational analysis plays in product lifecycle management."
+    },
+    {
+      "number": "LO2.",
+      "description": "Apply engineering principles to reduce complex mechanical systems and fluid flows (including the loads and constraints to which they are subjected) to a form that can be analysed using finite element analysis (FEA) or computational fluid dynamics (CFD), respectively."
+    },
+    {
+      "number": "LO3.",
+      "description": "Derive the system of linear equations that models a truss (and analogous problems in mechanical engineering) using direct and variational approaches."
+    },
+    {
+      "number": "LO4.",
+      "description": "Select the most appropriate element formulation (truss, beam, membrane, shell, solid) to apply to FEA of mechanical systems."
+    },
+    {
+      "number": "LO5.",
+      "description": "Model nonlinear behaviour (contact, plasticity, large deformation) in FEA of mechanical systems using commercial software."
+    },
+    {
+      "number": "LO6.",
+      "description": "Derive the systems of linear equations that model components (convection, diffusion, convection-diffusion) of the Navier-Stokes equations for incompressible fluid flows using finite difference and finite volume methods."
+    },
+    {
+      "number": "LO7.",
+      "description": "Model turbulence and heat transfer in fluid flows using commercial CFD software and closure parameters calculated from fluid mechanical theory."
+    },
+    {
+      "number": "LO8.",
+      "description": "Apply systematic mesh/grid refinement techniques to appropriately discretise (in the context of standard quality metrics) solid/fluid geometries for FEA/CFD using commercial software."
+    },
+    {
+      "number": "LO9.",
+      "description": "Demonstrate the computational analysis workflow (model definition, dimensional analysis, mesh/grid generation, application of boundary and initial conditions, selection of solution strategy, interrogation of results) in FEA and CFD of mechanical and fluid systems, respectively."
+    },
+    {
+      "number": "LO10.",
+      "description": "Verify and validate the predictions of FEA and CFD using analytical solutions and experimental data."
+    },
+    {
+      "number": "LO11.",
+      "description": "Communicate the outcomes of FEA and CFD using appropriate visual aids (e.g. plots, graphs) in formal technical reporting."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Project",
+      "title": "FEA Project Assignment",
+      "weight": "25%",
+      "due_date": "14/04/2025 8:00 am"
+    },
+    {
+      "category": "Examination",
+      "title": "In-Semester Exam",
+      "weight": "25%",
+      "due_date": "In-semester Saturday; 29/03/2025 - 12/04/2025; Please refer to your personal exam timetable on my.UQ.",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Project",
+      "title": "CFD Project Assignment",
+      "weight": "20%",
+      "due_date": "30/05/2025 6:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "30%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025; Please refer to your personal exam timetable.",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "FEA Project Assignment",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "25%",
+      "due_date": "14/04/2025 8:00 am",
+      "learning_outcomes_assessed": "L01, L02, L04, L05, L08, L11",
+      "task_description": "Structural analysis of a component or assembly using Siemens NX. This assignment will help demonstrate your ability to (i) develop a practical computational model of an engineering problem of interest, (ii) make sound engineering decisions that facilitate robust, efficient, and accurate analysis, and (iii) interrogate, visualise and document analysis results in a technical letter. Turnitin (and other platforms) will be used to detect plagiarism and collusion in your reports and analysis file(s). This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submit technical letter (in .pdf format) and analysis file(s) via TurnItIn on Blackboard.\nRefer to submission instructions on Blackboard, which include what to do in the event of technical issues.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nStudents will be provided with feedback within 14-21 days of the original due date.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Structural analysis of a component or assembly using Siemens NX. This assignment will help demonstrate your ability to (i) develop a practical computational model of an engineering problem of interest, (ii) make sound engineering decisions that facilitate robust, efficient, and accurate analysis, and (iii) interrogate, visualise and document analysis results in a technical letter. Turnitin (and other platforms) will be used to detect plagiarism and collusion in your reports and analysis file(s). This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In-Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "25%",
+      "due_date": "In-semester Saturday 29/03/2025 - 12/04/2025 Please refer to your personal exam timetable on my.UQ.",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "Written exam covering the finite element analysis (FEA) half of the course. You will be marked on the correctness and completeness of your answers. Questions will show the number of marks allocated. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "CFD Project Assignment",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "20%",
+      "due_date": "30/05/2025 6:00 pm",
+      "learning_outcomes_assessed": "L02, L07, L08, L09, L10, L11",
+      "task_description": "Computational analysis of a fluid flow problem using Siemens StarCCM+. This assignment will help demonstrate your ability to (i) develop a practical computational model of an engineering problem of interest, (ii) make sound engineering decisions that facilitate robust, efficient, and accurate analysis, and (iii) interrogate, visualise and document analysis results in a formal report. Turnitin (and other platforms) will be used to detect plagiarism and collusion in your reports and analysis file(s). This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Refer to submission instructions released during the semester on Blackboard, which include what to do in the event of technical issues.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nStudents will be provided with feedback within 7-14 days of the original due date.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Computational analysis of a fluid flow problem using Siemens StarCCM+. This assignment will help demonstrate your ability to (i) develop a practical computational model of an engineering problem of interest, (ii) make sound engineering decisions that facilitate robust, efficient, and accurate analysis, and (iii) interrogate, visualise and document analysis results in a formal report. Turnitin (and other platforms) will be used to detect plagiarism and collusion in your reports and analysis file(s). This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "30%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025 Please refer to your personal exam timetable.",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L06, L07",
+      "task_description": "Invigilated exam covering the computational fluid dynamics (CFD) half of the course. You will be marked on the correctness and completeness of your answers. Questions will show the number of marks allocated. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Lecture Series Lectures on the basic underlying theory of FEA and CFD. Weeks 1-6 will focus on FEA and Weeks 7-13 will focus on CFD. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "General contact hours",
+      "topic": "Contact Sessions Demonstration of the numerical implementation and practical application of FEA and CFD. Some lecture-type material will be presented in some sessions. Weeks 1-6 will focus on FEA and Weeks 7-13 will focus on CFD. Learning outcomes: L01, L02, L04, L05, L07, L08, L09, L10",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05",
+        "L07",
+        "L08",
+        "L09",
+        "L10"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Tutorial",
+      "topic": "Computer-Based Tutorials FEA and CFD tutorial problems with assistance from the teaching team. Learning outcomes: L02, L04, L05, L07, L08, L09, L10, L11",
+      "learning_outcomes": [
+        "L02",
+        "L04",
+        "L05",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

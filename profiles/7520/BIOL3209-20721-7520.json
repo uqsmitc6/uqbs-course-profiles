@@ -1,0 +1,312 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BIOL3209-20721-7520",
+  "scraped_at": "2026-06-04T01:28:04.178635+00:00",
+  "course_code": "BIOL3209",
+  "class_code": "20721",
+  "semester_code": "7520",
+  "full_course_code": "BIOL3209-20721-7520",
+  "course_title": "Biodiversity & Systematics",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "The Environment School",
+  "course_description": "This course examines the processes that drive the diversity and distributions of plants and animals. It will cover topics about the basic units of biodiversity - species -and how new species are discovered, recognised and described. We cover the phylogenetic basis of classification systems, and the different methods used to reconstruct evolutionary history and to test the origin of traits, including those relevant for ecology and adaption. We discuss processes that are thought to contribute to lineage diversity, and how biodiversity has changed through time and over large geographic scales. Case studies come primarily from plants and animals (both terrestrial and marine), but with some reference to other organisms. Examples will largely be drawn from, but not limited to, Australian examples.\n\nThis course examines the processes that drive the evolution, diversity and distributions of plants and animals, and how organisms are named, described and classified. It will cover topics about the basic units of biodiversity—species—and how new species are discovered, recognised, described and classified (Systematics). We cover the phylogenetic basis of classification systems, and the different methods used to reconstruct evolutionary history and to test the origin of traits, including those relevant for ecology and adaption. We also consider biodiversity below the species level, includingﾠgenetic and morphological variation among populations, and speciation with and without gene flow.ﾠ\n\nWe include phylogenetic and comparative approaches that test hypotheses about the generation and maintenance of biodiversity. The course takes an evolutionary approach to addressing these questions, primarily for plants and animals. Examples will largely be drawn from, but not limited to, Australian examples.ﾠ\n\nSystematics and comparative and phylogenetic approaches form the basis of our understanding of ecology and evolution. \"Species\" are the primary units of biodiversity and ecological studies, and conservation legislation. This course will provide the knowledge of how species are defined and categorised by taxonomists, which is critical for fully understanding and interpreting ecological and biodiversity studies. The course places emphases on phylogenetic analysis and comparative analyses, which are critical in inferences of trait evolution and assumptions of ecological associations.",
+  "requirements": {
+    "prerequisites": [
+      "We recommend completing the following courses before enrolling in this one:",
+      "BIOL2201",
+      "BIOL2205",
+      "BIOL2204"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Lyn Cook",
+      "email": "l.cook@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Lyn Cook",
+      "email": "l.cook@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Simone Blomberg",
+      "email": "s.blomberg1@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Nigel Beebe",
+      "email": "n.beebe@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr James Hereward",
+      "email": "j.hereward@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Misha Mangila",
+      "email": "l.mangila@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Ms Barbara Azevedo de Oliveira",
+      "email": "b.azevedodeoliveira@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nIt is expected that students will attend all lectures and practicals in person. Lectures will not be routinely recorded, although small sections of the session might be. Practicals are not recorded.",
+  "course_aims": "The major aims of this course are to:\n\n• explain how biodiversity is discovered, named and classified,\n\n• assess patterns of bioversity at local and global scales,\n\n• explore evolutionary processes that lead to diversification above and below the species level, and\n\n• examine the role of modern biological collections in understanding biodiersity.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Use tools in the Spatial Portal of Atlas of Living Australia to address questions about biodiversity"
+    },
+    {
+      "number": "LO2.",
+      "description": "Obtain observation data and map species occurrences (in R)"
+    },
+    {
+      "number": "LO3.",
+      "description": "Construct maps of species richness (in R)"
+    },
+    {
+      "number": "LO4.",
+      "description": "estimate a phylogeny using DNA sequence data"
+    },
+    {
+      "number": "LO5.",
+      "description": "use DNA-barcoding to identify an unknown organism"
+    },
+    {
+      "number": "LO6.",
+      "description": "implement species distribution modelling (environmental niche modelling) using maxent"
+    },
+    {
+      "number": "LO7.",
+      "description": "interpret population genetic data"
+    },
+    {
+      "number": "LO8.",
+      "description": "explain the meaning of \"systematics\" and why it is important in understanding biodiversity"
+    },
+    {
+      "number": "LO9.",
+      "description": "demonstrate an understanding of biodiversity and diversification, and how these are reflected in present-day environments."
+    },
+    {
+      "number": "LO10.",
+      "description": "explain how organisms are classified and how the different schools of classification differ"
+    },
+    {
+      "number": "LO11.",
+      "description": "critically evaluate inferences of phylogenetic relationships"
+    },
+    {
+      "number": "LO12.",
+      "description": "interpret a phylogeny in a biological context"
+    },
+    {
+      "number": "LO13.",
+      "description": "critically evaluate a taxonomic paper"
+    },
+    {
+      "number": "LO14.",
+      "description": "elucidate the importance of biodiversity to modern human society"
+    },
+    {
+      "number": "LO15.",
+      "description": "present the results of biodiversity and evolutionary studies orally"
+    },
+    {
+      "number": "LO16.",
+      "description": "explain the importance of biodiversity collections (museums and herbaria"
+    },
+    {
+      "number": "LO17.",
+      "description": "demonstrate an understanding of how organisms are named and the importance of type specimens"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation, Essay/ Critique, Quiz, Reflection",
+      "title": "Weekly in-class quizzes for each learning module",
+      "weight": "50%",
+      "due_date": "Week 1 - Week 13; During Class",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Project applying practical skills",
+      "weight": "50%",
+      "due_date": "30/05/2025 1:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Weekly in-class quizzes for each learning module",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Essay/ Critique, Quiz, Reflection",
+      "weight": "50%",
+      "due_date": "Week 1 - Week 13 During Class",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "task_description": "Each week, there is required pre-class learning material (related to the topic for the week), which is to be completed before the lecture. During each lecture, there will be a quiz that focusses on the pre-class learning materials for that week and the activities undertaken in the current or previous week's lecture. There is no final exam and these quizzes form the major theory and content-based assessment. \"Quizzes\" include quizzes, summations, writing assignments or critical thinking challenges based on the pre-class learning material and the previous and/or current week's lecture. The assessment is designed to assess understanding of assigned readings and the week's learning material, and to keep students on track for successfully incorporating biodiversity and systematics concepts. Quizzes are administered via Learn.UQ or via paper-copy during lectures. They are to be done in-person during class. There are 11 quizzes but only the best 8 scores will be included in your final mark. Each will be equally weighted and averaged for your final score. This means you can miss several quizzes wthout needing a medical certificate, but if you miss more you should contact the course coordinator. Read full task description Hide full task description",
+      "submission_guidelines": "Submission is during class time.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nExtensions or Deferral of this assessment are not permitted as these quizzes are completed in class each week based on the topic of the week. The best 8 of 11 quiz scores count toward your final mark so you may miss some sessions if you are unable to attend.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Project applying practical skills",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "50%",
+      "due_date": "30/05/2025 1:00 pm",
+      "task_description": "New analytical skills are covered in practicals each week, related to the weekly topic. Using skills learned in practicals, students will design and implement analyses to address questions relating to those topics covered in the course. The topic for assessment will be randomly assigned from among those covered in class shortly before the due date. There may also be an identification quiz during one of the practicals. Read full task description Hide full task description",
+      "submission_guidelines": "Submission through Turnitin only.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional assessment information section below for information relating to extension applications\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (24 Feb - 02 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Introduction to biodiversity & systematics Overview of course. What is biodiversity and why is it important. How does systematics underpin our understanding of biodiversity. The Linnaean system of naming and classification. Lyn Cook"
+    },
+    {
+      "learning_period": "Week 1 (24 Feb - 02 Mar)",
+      "activity_type": "Practical",
+      "topic": "Biodiversity databases Exploring the relationships between the Australian Faunal Directory, the Australian Plant Census, The Australian Virtual Herbarium, the Atlas of Living Australia (ALA) and the Global Biodiversity Information Facility (GBIF), and the roles of citizen science databases such as Questagame, iNaturalist and Birdlife Australia in contributing to biodiversity data. Lyn Cook"
+    },
+    {
+      "learning_period": "Week 2 (03 Mar - 09 Mar)",
+      "activity_type": "Lecture",
+      "topic": "How many species are there? Species as the basic units of biodiversity. What are the current estimates for the number of species on the planet, and how is species diversity estimated when there are so many unknowns."
+    },
+    {
+      "learning_period": "Week 2 (03 Mar - 09 Mar)",
+      "activity_type": "Practical",
+      "topic": "Estimating & identifying biodiversity Species accumulation curves for estimating diversity. Dichotomous, multi-entry, computer vision & AI, and pictorial keys are used for identifying species. Lyn Cook"
+    },
+    {
+      "learning_period": "Week 3 (10 Mar - 16 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Species concepts & speciation Where is biodiversity? Geographic structuring of biodiversity, such as the latitudinal gradient. Lyn Cook"
+    },
+    {
+      "learning_period": "Week 3 (10 Mar - 16 Mar)",
+      "activity_type": "Practical",
+      "topic": "Applying species concepts—Antechinus Obtain occurrence data for a group of organisms and produce a species richness map. Determine biodiversity hotspots for the taxon. Lyn Cook"
+    },
+    {
+      "learning_period": "Week 4 (17 Mar - 23 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Importance of biodiversity collections How species are named and described. The role of biodiversity collections (museums and Herbarium). Lyn Cook"
+    },
+    {
+      "learning_period": "Week 4 (17 Mar - 23 Mar)",
+      "activity_type": "Excursion",
+      "topic": "Optional visit to QLD Herbarium Optional behind the scenes visit to the Queensland Herbarium. Meet with research scientists and see how specimens are stored and used at QLD's premier herbarium. There is no in-class practical this week."
+    },
+    {
+      "learning_period": "Week 5 (24 Mar - 30 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Homology and classification What are species? How do species form? Are species real? Simone Blomberg"
+    },
+    {
+      "learning_period": "Week 5 (24 Mar - 30 Mar)",
+      "activity_type": "Practical",
+      "topic": "Classifications Applying different approaches to delimit species of Antechinus: how does concept and method affect our interpretation of species boundaries. Simone Blomberg"
+    },
+    {
+      "learning_period": "Week 6 (31 Mar - 06 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Comparative methods Covers how classification systems have changed over time in Western civilisations. Is it necessary to have \"scientific names\" as a distinct system from indigenous naming and classification. Simone Blomberg"
+    },
+    {
+      "learning_period": "Week 6 (31 Mar - 06 Apr)",
+      "activity_type": "Practical",
+      "topic": "Phylomorphospace and PGLS Testing classifications of real organisms Simone Blomberg"
+    },
+    {
+      "learning_period": "Week 7 (07 Apr - 13 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Cryptic species—distributions"
+    },
+    {
+      "learning_period": "Week 7 (07 Apr - 13 Apr)",
+      "activity_type": "Practical",
+      "topic": "SDM (ENM)"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 8 To Week 9 (14 Apr - 04 May)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Easter and mid-semester break and 3rd-year teaching free week"
+    },
+    {
+      "learning_period": "Week 8 (14 Apr - 20 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Phylogeography and population genetics"
+    },
+    {
+      "learning_period": "Week 10 (05 May - 11 May)",
+      "activity_type": "Lecture",
+      "topic": "Cryptic species—DNA barcoding"
+    },
+    {
+      "learning_period": "Week 10 (05 May - 11 May)",
+      "activity_type": "Practical",
+      "topic": "PCA, STRUCTURE, Popgen"
+    },
+    {
+      "learning_period": "Week 11 (12 May - 18 May)",
+      "activity_type": "Lecture",
+      "topic": "Prepare for project"
+    },
+    {
+      "learning_period": "Week 11 (12 May - 18 May)",
+      "activity_type": "Practical",
+      "topic": "Work on project"
+    },
+    {
+      "learning_period": "Week 12 (19 May - 25 May)",
+      "activity_type": "Lecture",
+      "topic": "Australian biota and biogeography"
+    },
+    {
+      "learning_period": "Week 12 (19 May - 25 May)",
+      "activity_type": "Practical",
+      "topic": "Work on project Phylogeography examines the spatial distribution of diversity below the species level Nigel Beebe"
+    },
+    {
+      "learning_period": "Week 13 (26 May - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Humans and biodiversity"
+    },
+    {
+      "learning_period": "Week 13 (26 May - 01 Jun)",
+      "activity_type": "Practical",
+      "topic": "Finalise and submit project"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

@@ -1,0 +1,267 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE7030-21301-7520",
+  "scraped_at": "2026-06-04T01:32:36.505753+00:00",
+  "course_code": "CSSE7030",
+  "class_code": "21301",
+  "semester_code": "7520",
+  "full_course_code": "CSSE7030-21301-7520",
+  "course_title": "Introduction to Software Engineering",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Introduction to programming focusses on the fundamentals of computing and programming using an exploratory problem-based approach. Building abstractions with procedures, data and objects; data modelling; designing, coding and debugging programs of increasing complexity. This course introduces fundamental concepts in programming, using the Python programming language. Emphasis is placed on problem solving using computational techniques, creating algorithms and designing abstractions.\n\nThis course introduces fundamental concepts in programming, using the Python programming language. Emphasis is placed on problem solving using computational techniques, creating algorithms and designing classes.",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP1502",
+      "CSSE1001",
+      "ENGG1001"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Azin Janani",
+      "email": "csse7030@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Azin Janani",
+      "email": "csse7030@eecs.uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nNote that contact and practical sessions start in\nWeek 2\n. You need to sign-on for one of the practical group streams and one of the contact session streams. Students may attend additional contact sessions, beyond the one to which they are allocated, if there are not too many students in the room for the demonstrators to manage, they may limit attendance to only those allocated to the session.\nPractical sessions tend to become very crowded close to assignment due dates. Demonstrators may limit attendance to only those allocated to a practical session to ensure that the session is manageable.\nLectures will be recorded and available on the course Blackboard site. However, attendance at the physical lecture is strongly recommended, with recordings used to revise content.\nAn In-Semester Exam will be scheduled on one of the following dates: Saturday, 29 March (end of week 5) or Saturday, 5 April (end of week 6) or Saturday, 12 April (end of week 7)\nThe exact date and time of the In-Semester Exam will be announced via email and on the course Blackboard site later during the semester.",
+  "course_aims": "This course aims to provide students with foundation level programming skills. Taking this course will teach you the fundamental techniques that are common to good programming practice, independent of the programming language. After completing this course you should be able to transfer the programming skillsets you learn to other programming languages which employ similar paradigms. This includes understanding of data types, data structures, functions, building abstractions to hide details, separating a specification from an implementation and establishing conventional interfaces to allow the creation of standard extendable software modules. Programming practice is necessary to achieve the learning outcomes of the course. You will be using Python to practice coding and for your assessment as it is well-suited to understanding fundamental programming ideas and practices. Upon course completion you will be able to analyse a problem and design and implement a computational solution to the problem. You will make use of two major paradigms: imperative and object-oriented programming.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "apply program constructs such as variables, selection, iteration and sub-routines,"
+    },
+    {
+      "number": "LO2.",
+      "description": "apply basic object-oriented concepts such as classes, instances and methods,"
+    },
+    {
+      "number": "LO3.",
+      "description": "read and analyse code written by others,"
+    },
+    {
+      "number": "LO4.",
+      "description": "analyse a problem and design an algorithmic solution to the problem,"
+    },
+    {
+      "number": "LO5.",
+      "description": "read and analyse a design and be able to translate the design into a working program,"
+    },
+    {
+      "number": "LO6.",
+      "description": "apply techniques for testing and debugging,"
+    },
+    {
+      "number": "LO7.",
+      "description": "understand and implement basic cybersecurity measures, including input validation and format checking, in programming."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Quiz, Reflection",
+      "title": "Weekly RiPPLE activities",
+      "weight": "10%",
+      "due_date": "Cycle 1 (RiPPLE) - Creation 18/03/2025 3:00 pm; Cycle 1 (RiPPLE) - Moderation 25/03/2025 3:00 pm; Cycle 1 (RiPPLE) - Practice 1/04/2025 3:00 pm; Cycle 2 (RiPPLE) - Creation 8/04/2025 3:00 pm; Cycle 2 (RiPPLE) - Moderation 15/04/2025 3:00 pm; Cycle 3 (RiPPLE)- Creation 29/04/2025 3:00 pm; Cycle 3 (RiPPLE) - Moderation 6/05/2025 3:00 pm; Cycle 3 (RiPPLE) - Practice 13/05/2025 3:00 pm; Cycle 4 (RiPPLE) - Creation 20/05/2025 3:00 pm; Cycle 4 (RiPPLE) - Moderation 27/05/2025 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "In-semester Exam",
+      "weight": "25%",
+      "due_date": "In-semester Saturday; 29/03/2025 - 12/04/2025; The In-Semester Exam will be held at 2pm on Saturday 5 April (Week 6)",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code",
+      "title": "Computer exercise (Assignment 1)",
+      "weight": "10%",
+      "due_date": "11/04/2025 3:00 pm"
+    },
+    {
+      "category": "Computer Code",
+      "title": "Computer exercise 2 (Assignment 2)",
+      "weight": "15%",
+      "due_date": "23/05/2025 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "End of semester exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Weekly RiPPLE activities",
+      "mode": "Written",
+      "category": "Computer Code, Quiz, Reflection",
+      "weight": "10%",
+      "due_date": "Cycle 1 (RiPPLE) - Creation 18/03/2025 3:00 pm Cycle 1 (RiPPLE) - Moderation 25/03/2025 3:00 pm Cycle 1 (RiPPLE) - Practice 1/04/2025 3:00 pm Cycle 2 (RiPPLE) - Creation 8/04/2025 3:00 pm Cycle 2 (RiPPLE) - Moderation 15/04/2025 3:00 pm Cycle 3 (RiPPLE)- Creation 29/04/2025 3:00 pm Cycle 3 (RiPPLE) - Moderation 6/05/2025 3:00 pm Cycle 3 (RiPPLE) - Practice 13/05/2025 3:00 pm Cycle 4 (RiPPLE) - Creation 20/05/2025 3:00 pm Cycle 4 (RiPPLE) - Moderation 27/05/2025 3:00 pm",
+      "other_conditions": "Peer assessed. See the conditions definitions",
+      "task_description": "Students will regularly participate in a series of activities via the course's Blackboard site. These activities will enable students to track their learning through regular activities using a combination of learning platforms including RiPPLE (i.e. creation, moderation and practice cycles). Between Week 3 & 13, students will regularly complete a weekly activity to test their knowledge of recently practiced topic. Student completion of each weekly activity will be graded by their peers in order to provide a means of tracking learning. Best 8 out of 10 activities will be counted (1.25% each). Read full task description Hide full task description",
+      "submission_guidelines": "RiPPLE activities will be submitted on-line via Blackboard (RiPPLE). Detailed submission instruction will be provided on the Blackboard site of the course.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nNo extensions available and 100% Late penalty applied for RiPPLE activities. To accommodate unforeseen circumstances such as illness, your score will be based on the best 8 out of 10 submissions.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late ."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In-semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "25%",
+      "due_date": "In-semester Saturday 29/03/2025 - 12/04/2025 The In-Semester Exam will be held at 2pm on Saturday 5 April (Week 6)",
+      "task_description": "This is a closed book and identity verified examination conducted on campus. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. This exam is compulsory and covers up to Week 5 (inclusive). This exam will be scheduled at a fixed time for all students. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nThe In-Semester Saturday Deferred Exam will be held on Saturday 10th of May (Week 10).",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This is a closed book and identity verified examination conducted on campus. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. This exam is compulsory and covers up to Week 5 (inclusive). This exam will be scheduled at a fixed time for all students. Read full task description Hide full task description\nThis is a closed book and identity verified examination conducted on campus. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Computer exercise (Assignment 1)",
+      "mode": "Written",
+      "category": "Computer Code",
+      "weight": "10%",
+      "due_date": "11/04/2025 3:00 pm",
+      "task_description": "Students will implement a small program based on a provided specification. This part assesses topics covered in teaching weeks one through four, including functions, strings, lists, tuples, loops, and conditional statements (if statements). While this assessment, students must: Work independently, without viewing anyone else's code or sharing their own code with others. Avoid copying code from the internet or other sources. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Assignment submitted on-line via Blackboard (Gradescope). Students should submit their code regularly to Gradescope as they progress in the assignment. Detailed submission instruction will be provided on the Blackboard site of the course.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nDetailed solutions with feedback will be released to students within 7 days.\nLate submission\n100% Late Penalty after 1 hour grace period. The one-hour grace period is recorded from the time the submission is due. This grace period is designed to deal with issues that might arise during submission (e.g. delays with Blackboard or Gradescope) and should not be considered a shift of the due time.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "100% Late Penalty after 1 hour grace period. The one-hour grace period is recorded from the time the submission is due. This grace period is designed to deal with issues that might arise during submission (e.g. delays with Blackboard or Gradescope) and should not be considered a shift of the due time.",
+      "ai_statement": "Students will implement a small program based on a provided specification. This part assesses topics covered in teaching weeks one through four, including functions, strings, lists, tuples, loops, and conditional statements (if statements). While this assessment, students must: Work independently, without viewing anyone else's code or sharing their own code with others. Avoid copying code from the internet or other sources. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Computer exercise 2 (Assignment 2)",
+      "mode": "Written",
+      "category": "Computer Code",
+      "weight": "15%",
+      "due_date": "23/05/2025 3:00 pm",
+      "task_description": "Students will implement an object oriented program based on a provided specification. This assessment covers topics from teaching week one through eleven. While completing this assignment, students must: Work independently, without viewing anyone else's code or sharing their own code with others. Avoid copying code from the internet or other sources. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Assignment 2 will be submitted on-line via Blackboard (Gradescope). Students should submit their code regularly to Gradescope as they progress in the assignment 2. Detailed submission instruction will be provided on the Blackboard site of the course.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nDetailed solutions with feedback will be released to students within 7 days.\nLate submission\n100% Late Penalty after 1 hour grace period. The one-hour grace period is recorded from the time the submission is due. This grace period is designed to deal with issues that might arise during submission (e.g. delays with Blackboard or Gradescope) and should not be considered a shift of the due time.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "100% Late Penalty after 1 hour grace period. The one-hour grace period is recorded from the time the submission is due. This grace period is designed to deal with issues that might arise during submission (e.g. delays with Blackboard or Gradescope) and should not be considered a shift of the due time.",
+      "ai_statement": "Students will implement an object oriented program based on a provided specification. This assessment covers topics from teaching week one through eleven. While completing this assignment, students must: Work independently, without viewing anyone else's code or sharing their own code with others. Avoid copying code from the internet or other sources. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-4",
+      "title": "End of semester exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "task_description": "This is a closed-book , identity-verified examination conducted on campus. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. The final exam is compulsory and covers the entire course. The final exam will be scheduled at a fixed time for all students. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This is a closed-book , identity-verified examination conducted on campus. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. The final exam is compulsory and covers the entire course. The final exam will be scheduled at a fixed time for all students. Read full task description Hide full task description\nThis is a closed-book , identity-verified examination conducted on campus. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (24 Feb - 02 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Week 1 Course introduction. Arithmetic, types and variables in programming. Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 12 (03 Mar - 25 May)",
+      "activity_type": "Practical",
+      "topic": "Practicals Weekly practical start from Week 2"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (03 Mar - 01 Jun)",
+      "activity_type": "General contact hours",
+      "topic": "Contact hours Weekly contact hours start from Week 2."
+    },
+    {
+      "learning_period": "Week 2 (03 Mar - 09 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Week 2 Control Structures (if statement and While loop)."
+    },
+    {
+      "learning_period": "Week 3 (10 Mar - 16 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Week 3 Strings, For loops, and Functions"
+    },
+    {
+      "learning_period": "Week 4 (17 Mar - 23 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Week 4 Tuples and Lists - Strings and Lists methods"
+    },
+    {
+      "learning_period": "Week 5 (24 Mar - 30 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Week 5 Dictionary , Scope"
+    },
+    {
+      "learning_period": "Week 6 (31 Mar - 06 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Week 6 File Processing, Debugging and Testing"
+    },
+    {
+      "learning_period": "Week 7 (07 Apr - 13 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Week 7 Exceptions and Intro to OOP"
+    },
+    {
+      "learning_period": "Week 8 (14 Apr - 20 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Week 8 Dunder/Magic methods. Inheritance and Polymorphism."
+    },
+    {
+      "learning_period": "Week 9 (28 Apr - 04 May)",
+      "activity_type": "Lecture",
+      "topic": "Week 9 MVC Design Pattern, Intro to Cyber Security"
+    },
+    {
+      "learning_period": "Week 11 (12 May - 18 May)",
+      "activity_type": "Lecture",
+      "topic": "Week 11 Functional Programming"
+    },
+    {
+      "learning_period": "Week 12 (19 May - 25 May)",
+      "activity_type": "Lecture",
+      "topic": "Week 12 Recursion"
+    },
+    {
+      "learning_period": "Week 13 (26 May - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Week 13 Revision."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

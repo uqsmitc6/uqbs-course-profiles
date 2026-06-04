@@ -1,0 +1,224 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE7023-21320-7520",
+  "scraped_at": "2026-06-04T01:32:35.305889+00:00",
+  "course_code": "CSSE7023",
+  "class_code": "21320",
+  "semester_code": "7520",
+  "full_course_code": "CSSE7023-21320-7520",
+  "course_title": "Advanced Software Engineering",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Working on complex software systems and ensuring those systems remain maintainable requires disciplined, individual software development practices. Software must be well-specified, well-implemented and well-tested. This course covers concepts and techniques in modern programming languages that help support good software development practice (such as OO concepts, genericity and exception handling) with specific application to file IO and GUIs in Java.\n\nTo effectively manage the complexity of large software systems, higher order language constructs are required. In particular, classes to implement independent modules with robust and small interfaces are required. This course utilises the Java programming language to introduce students to the details of concepts such as object-oriented programming, data abstraction, specification and unit testing. The lecture topics include an introduction to Java, Object-Oriented Programming (OOP) (classes and objects), Java's use of the stack and heap, inheritance and polymorphism, packages, enumerated types, collections, exception handling, unit testing, programming by contract, Java I/O, parsing files and folders, GUIs (event handlers, buttons, tables, lists, etc.), design quality, coupling, cohesion, GUI design principles, model-view-controller variants, generics, lambda expressions, streams, recursion and iteration, sorting, and textual analysis.\n\nThe following aspects of the course have been changed from last semester, in response to student feedback:\n\nRegarding the resourcing for the course (including various comments on delayed feedback and slow response on discussion forums), the unprecedented loss of critical teaching staff in 2024 has now been resolved and we have a fully-staffed teaching team, with the Course Coordinator and two lecturers who are full-time members of staff, and additional teaching staff across the board: lectures, practicals, and contact sessions.\n\nRegarding the specification and documentation of the previous assignments (the previous assignments had been developed by non-teaching staff), entirely new programming assignments have been developed by the same staff who are teaching the course, to specifically enhance the teaching points of the course, bind tightly with the course objectives, and minimise ambiguity and assumptions.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE7030"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP2500",
+      "CSSE7908",
+      "CSSE2002"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr David Ross",
+      "email": "CSSE7023@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr David Ross"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Ashley Stewart"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nYou must sign up for one Practical session and one Contact session.\nLectures and the \"\nEd Lessons\n\" on-line weekly assignments begin in Week 1. Practical classes and contact sessions begin in Week 2.\nThe class preferencing window opens in early January before the semester begins and closes only a week or two later – check the Academic Calendar for the exact dates. During this time, you'll need to select your preferred practical session and contact session – the system only begins allocating students to classes once the preferencing window has closed.\nA lecture or practical class that would have been scheduled on a public holiday will not occur and will not be substituted for another date. The course schedule (including pracs) has been planned to accommodate the missing dates. There are no pracs in Week 1 or Week 10.",
+  "course_aims": "Working on large and complex software systems and ensuring those systems remain maintainable requires disciplined, individual practices. Software must be well-specified, well-implemented and well-tested. This course covers concepts and techniques in modern programming languages that help support good practice (such as OO concepts, genericity and exception handling) in Java.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Implement object-oriented programs according to their specifications."
+    },
+    {
+      "number": "LO2.",
+      "description": "Design, implement and document object-oriented programs using language features such as inheritance, interfaces, polymorphism, exceptions and I/O."
+    },
+    {
+      "number": "LO3.",
+      "description": "Design and implement test components for object-oriented programs."
+    },
+    {
+      "number": "LO4.",
+      "description": "Analyse code to judge whether it follows good programming practice."
+    },
+    {
+      "number": "LO5.",
+      "description": "Write, interpret and critique specifications for program modules (e.g. classes or interfaces)."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Quiz, Tutorial/ Problem Set",
+      "title": "Online problems (Ed Lessons)",
+      "weight": "10%",
+      "due_date": "Week 2 Mon - Week 13 Mon; Submission due date and time is 1:00pm Monday each week.; Due to Cyclone Alfred, Week 2 is due 1:00pm Friday 14 March and Week 3 is cancelled. Due to a public holiday, Week 9 is due 1:00pm Tuesday 6 May.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code",
+      "title": "Individual Assignment 1",
+      "weight": "20%",
+      "due_date": "4/04/2025 1:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Computer Code",
+      "title": "Individual Assignment 2",
+      "weight": "20%",
+      "due_date": "30/05/2025 1:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Online problems (Ed Lessons)",
+      "mode": "Written",
+      "category": "Computer Code, Quiz, Tutorial/ Problem Set",
+      "weight": "10%",
+      "due_date": "Week 2 Mon - Week 13 Mon Submission due date and time is 1:00pm Monday each week. Due to Cyclone Alfred, Week 2 is due 1:00pm Friday 14 March and Week 3 is cancelled. Due to a public holiday, Week 9 is due 1:00pm Tuesday 6 May.",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "The due date and time will be before 1:00pm the following Monday of each week, commencing with the first (Week 1) set due before 1:00pm on the Monday of Week 2; and the last (Week 12) set due before 1:00pm on the Monday of Week 13. Due to TC Alfred, Week 2 is now due before 1:00pm on Friday 14th March. Due to TC Alfred, there are no Week 3 Ed Lessons (there are now only 11 sets of Ed Lessons); Week 4 Ed Lessons are due before 1:00pm on the Monday of Week 5 (24th March), as normal. Due to the public holiday on Monday 5th May, the Week 9 set will instead be due before 1:00pm on Tuesday 6th May. You will be given sets of simple practical Java programming problems to solve during the semester. These problem sets will be delivered and submitted via the Ed Lessons online environment. Each set of problems will reinforce concepts delivered in the course. Refer to the assessment description on Blackboard. A link to this environment is available on Blackboard. This assessment task is designed to develop students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies may constitute student misconduct under the Student Code of Conduct and at the very least will harm the student's own learning in their development for other assessments. Read full task description Hide full task description",
+      "submission_guidelines": "These problem sets will be delivered and submitted via the Ed Lessons online environment. A link to this environment is available on Blackboard.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nNo extensions are possible and a 100% Late penalty is applied for the weekly online quizzes as results and feedback are released immediately.\nTo accommodate unforeseen circumstances such as late enrolment, illness, or other life events, your mark will be based on your best 9 out of the 11 possible submissions. Any missing submissions are calculated as zero marks for that submission.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "The due date and time will be before 1:00pm the following Monday of each week, commencing with the first (Week 1) set due before 1:00pm on the Monday of Week 2; and the last (Week 12) set due before 1:00pm on the Monday of Week 13. Due to TC Alfred, Week 2 is now due before 1:00pm on Friday 14th March. Due to TC Alfred, there are no Week 3 Ed Lessons (there are now only 11 sets of Ed Lessons); Week 4 Ed Lessons are due before 1:00pm on the Monday of Week 5 (24th March), as normal. Due to the public holiday on Monday 5th May, the Week 9 set will instead be due before 1:00pm on Tuesday 6th May. You will be given sets of simple practical Java programming problems to solve during the semester. These problem sets will be delivered and submitted via the Ed Lessons online environment. Each set of problems will reinforce concepts delivered in the course. Refer to the assessment description on Blackboard. A link to this environment is available on Blackboard. This assessment task is designed to develop students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies may constitute student misconduct under the Student Code of Conduct and at the very least will harm the student's own learning in their development for other assessments. Read full task description Hide full task description\nThis assessment task is designed to develop students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies may constitute student misconduct under the Student Code of Conduct and at the very least will harm the student's own learning in their development for other assessments.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Individual Assignment 1",
+      "mode": "Written",
+      "category": "Computer Code",
+      "weight": "20%",
+      "due_date": "4/04/2025 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L05",
+      "task_description": "Assignments are used to assess the practical skills of students on non-trivial, but reasonably well-defined problems. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop code is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online via Gradescope unless otherwise specified for a particular assessment item. Details will be provided with the assignment specification.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach, where Assignment 2 relies on Assignment 1. A maximum of 7 days extension is possible and standard late penalties of 10% of the maximum possible mark apply per day for up to 7 days. Detailed solutions will be released to students within 14 days as part of the Assignment 2 specification.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Assignments are used to assess the practical skills of students on non-trivial, but reasonably well-defined problems. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop code is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop code is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Individual Assignment 2",
+      "mode": "Written",
+      "category": "Computer Code",
+      "weight": "20%",
+      "due_date": "30/05/2025 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Assignments are used to assess the practical skills of students on non-trivial, but reasonably well-defined problems. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop code is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online via Gradescope unless otherwise specified for a particular assessment item. Details will be provided with the assignment specification.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach where feedback and/or detailed solutions will be released to students within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Assignments are used to assess the practical skills of students on non-trivial, but reasonably well-defined problems. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop code is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop code is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The exam will be similar in format to previous semesters and will cover all course content. You may use past exams as practice questions. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Lectures Lectures will be mainly used to introduce new material. Learning materials are available on Blackboard. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13",
+      "activity_type": "General contact hours",
+      "topic": "Contact There will be weekly Contact sessions starting in week 2. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13",
+      "activity_type": "Practical",
+      "topic": "Practicals There will be weekly prac sessions starting in week 2. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

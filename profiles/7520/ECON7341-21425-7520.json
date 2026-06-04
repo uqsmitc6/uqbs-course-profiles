@@ -1,0 +1,333 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ECON7341-21425-7520",
+  "scraped_at": "2026-06-04T01:35:01.427975+00:00",
+  "course_code": "ECON7341",
+  "class_code": "21425",
+  "semester_code": "7520",
+  "full_course_code": "ECON7341-21425-7520",
+  "course_title": "Productivity and Efficiency Analysis",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Economics School",
+  "course_description": "This course provides a comprehensive coverage of modern methods for analysing the productivity and efficiency of different types of decision-making units (e.g., individuals, firms, industries, regions, economies). Students learn how different assumptions concerning technologies, markets and firm behaviour can be used to guide the construction of proper productivity indexes. They then learn how these indexes can be exhaustively decomposed into measures of technical change, environmental change, and various types of efficiency change. Students learn how to estimate these components using data envelopment analysis (DEA), deterministic frontier analysis (DFA) and stochastic frontier analysis (SFA) methods. Students gain an understanding of why the estimation of these components is critically important for public policy-making. The course has a strong applied focus.\n\nThe focus of the course is on measures of firm performance that are of practical relevance to policy makers (e.g., output per employee, technical efficiency). The course explains how various assumptions concerning production technologies and managerial behaviour can be used to inform the computation (or estimation) of many of these measures. For example, under very strong assumptions, changes in total factor productivity (TFP) can be estimated using the well-known growth accounting method of Solow (1957). Under much weaker assumptions, changes in TFP can be measured using the regression methods taught in ECON2300 (Introductory Econometrics). The course provides students with a step-by-step guide on how to choose between and implementﾠthese types of methods. Students analyse different datasets using RStudio. RStudio is a free integrated development environment (IDE) for R. In turn, R is a free open-source software environment that is widely used for statistical computing and graphics in academia, government and industry.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ECON2300",
+      "We recommend completing the following courses before enrolling in this one:",
+      "ECON2050",
+      "ECON7250"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ECON3340"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Christopher O'Donnell",
+      "email": "c.odonnell1@uq.edu.au"
+    },
+    {
+      "role": "School enquiries",
+      "name": "School Enquiries, School of Economics",
+      "email": "enquiries@economics.uq.edu.au",
+      "notes": "All enquiries regarding student and academic administration (i.e. non-course content information, e.g., class allocation, timetables, extension to assessment due date, etc.) should be directed to enquiries@economics.uq.edu.au . Enquiries relating specifically to course content should be directed to the Course Coordinator/Lecturer."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Christopher O'Donnell",
+      "email": "c.odonnell1@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Professor Christopher O'Donnell",
+      "email": "c.odonnell1@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLectures commence in Week 1. Tutorials commence in Week 1. Students should refer to the timetable prior to the commencement of classes to ensure that they have the most up to date information, as from time to time late room changes may occur.\nImportant Dates:\n·\nPublic Holidays\n: Fri 18 April (Good Friday), Mon 5ﾠMay (Labour Day).\n·\nMid-Semester Break\n: 21ﾠApril - 25ﾠApril. Semester 1 classes recommence on Mon 28ﾠApril.",
+  "course_aims": "The aims of this course are to",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "explain the most common assumptions made about production technologies (e.g., inactivity, no free lunch)."
+    },
+    {
+      "number": "LO2.",
+      "description": "compute measures of output and input quantity change (and therefore productivity change) in ways that are consistent with measurement theory."
+    },
+    {
+      "number": "LO3.",
+      "description": "explain the situations under which different firm managers may choose to maximise output, minimise input, maximise revenue, minimise cost, maximise profit and/or maximise productivity."
+    },
+    {
+      "number": "LO4.",
+      "description": "define various measures of technical, mix, scale, allocative, revenue, cost and profit efficiency."
+    },
+    {
+      "number": "LO5.",
+      "description": "explain the main assumptions that underpin piecewise frontier analysis and use DEA and FDH methods to estimate a piecewise-linear frontier"
+    },
+    {
+      "number": "LO6.",
+      "description": "explain the main assumptions that underpin deterministic frontier analysis and use GA, LS and ML methods to estimate the parameters of a deterministic frontier model"
+    },
+    {
+      "number": "LO7.",
+      "description": "explain the main assumptions that underpin stochastic frontier analysis and use LS and ML methods to estimate the parameters of a stochastic frontier model"
+    },
+    {
+      "number": "LO8.",
+      "description": "use DEA, LS and ML methods to estimate levels of technical, cost, revenue and profit efficiency."
+    },
+    {
+      "number": "LO9.",
+      "description": "use DEA, LS and ML methods to decompose proper TFP indexes into measures of technical change, environmental change and various types of efficiency change."
+    },
+    {
+      "number": "LO10.",
+      "description": "identify the policies that governments might use to target the different drivers of productivity change."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "MCQs",
+      "weight": "20%",
+      "due_date": "Quiz 1: 21/03/2025 4:00 pm; Quiz 2: 4/04/2025 4:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "In-semester Exam",
+      "weight": "30%",
+      "due_date": "End of the Week 8 tutorial.",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment 1: PFA",
+      "weight": "20%",
+      "due_date": "2/05/2025 4:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment 2: DFA and SFA",
+      "weight": "30%",
+      "due_date": "30/05/2025 4:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "MCQs",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "20%",
+      "due_date": "Quiz 1: 21/03/2025 4:00 pm Quiz 2: 4/04/2025 4:00 pm",
+      "other_conditions": "Student specific, Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "Quiz 1 will cover production technologies and measures of productivity change. Quiz 2 will cover managerial behaviour and measures of efficiency. These assessment tasks evaluate student's abilities, skills and knowledge without the aid of Artificial Intelligence (Al). Students are advised that the use of Al technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Each quiz is worth 10%. Students will have 30 minutes to complete each quiz. Each quiz will be released on Blackboard at 10am and must be completed by 4pm on the due date.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Quiz 1 will cover production technologies and measures of productivity change. Quiz 2 will cover managerial behaviour and measures of efficiency. These assessment tasks evaluate student's abilities, skills and knowledge without the aid of Artificial Intelligence (Al). Students are advised that the use of Al technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nQuiz 1 will cover production technologies and measures of productivity change. Quiz 2 will cover managerial behaviour and measures of efficiency. These assessment tasks evaluate student's abilities, skills and knowledge without the aid of Artificial Intelligence (Al). Students are advised that the use of Al technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In-semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "30%",
+      "due_date": "End of the Week 8 tutorial.",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "This examination will be held in the Week 8 tutorial. It will evaluate student's abilities, skills and knowledge without the aid of Artificial Intelligence (Al). Students are advised that the use of Al technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 60 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Answer sheets/booklets will be collected at the end of the examination.\nDeferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This examination will be held in the Week 8 tutorial. It will evaluate student's abilities, skills and knowledge without the aid of Artificial Intelligence (Al). Students are advised that the use of Al technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis examination will be held in the Week 8 tutorial. It will evaluate student's abilities, skills and knowledge without the aid of Artificial Intelligence (Al). Students are advised that the use of Al technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 1: PFA",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "2/05/2025 4:00 pm",
+      "other_conditions": "Longitudinal. See the conditions definitions",
+      "learning_outcomes_assessed": "L05, L08, L09, L10",
+      "task_description": "This assessment task evaluates student's abilities, skills and knowledge without the aid of Artificial Intelligence (Al). Students are advised that the use of Al technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "This assignment must be submitted electronically via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assessment task evaluates student's abilities, skills and knowledge without the aid of Artificial Intelligence (Al). Students are advised that the use of Al technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates student's abilities, skills and knowledge without the aid of Artificial Intelligence (Al). Students are advised that the use of Al technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Assignment 2: DFA and SFA",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "30%",
+      "due_date": "30/05/2025 4:00 pm",
+      "other_conditions": "Longitudinal. See the conditions definitions",
+      "learning_outcomes_assessed": "L06, L07, L08, L09, L10",
+      "task_description": "This assessment task evaluates student's abilities, skills and knowledge without the aid of Artificial Intelligence (Al). Students are advised that the use of Al technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "This assignment must be submitted electronically via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assessment task evaluates student's abilities, skills and knowledge without the aid of Artificial Intelligence (Al). Students are advised that the use of Al technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates student's abilities, skills and knowledge without the aid of Artificial Intelligence (Al). Students are advised that the use of Al technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.",
+    "other_course_materials": "If we've listed something under further requirement, you'll need to provide your own. Required Item Description Further Requirement Computer Tutorials will be held in a Bring Your Own Device teaching space. own item needed R and RStudio Used for all computer work. own item needed",
+    "required": "Item Description Further Requirement Computer Tutorials will be held in a Bring Your Own Device teaching space. own item needed R and RStudio Used for all computer work. own item needed"
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (24 Feb - 02 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Overview Course structure; overview of topics; introduction to R and RStudio Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (03 Mar - 09 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Production Technologies Output sets; distance functions; other sets and functions Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (10 Mar - 16 Mar)",
+      "activity_type": "Not Timetabled",
+      "topic": "No Classes"
+    },
+    {
+      "learning_period": "Week 4 (17 Mar - 23 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Measures of Productivity Change Quantity indexes, productivity indexes, other indexes Learning outcomes: L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (24 Mar - 30 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Managerial Behaviour and Measures of Efficiency Output maximisation; cost minimisation; other types of behaviour; output- and cost-oriented measures of efficiency; other measures Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (31 Mar - 06 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Piecewise Frontier Analysis A Basic models; models with different assumptions Learning outcomes: L05, L08",
+      "learning_outcomes": [
+        "L05",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (07 Apr - 13 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Piecewise Frontier Analysis B Inference; productivity analysis; other models Learning outcomes: L09",
+      "learning_outcomes": [
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (14 Apr - 20 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Review and In-semester Examination Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (28 Apr - 04 May)",
+      "activity_type": "Lecture",
+      "topic": "Deterministic Frontier Analysis A Basic models; least squares estimation Learning outcomes: L06, L08",
+      "learning_outcomes": [
+        "L06",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (05 May - 11 May)",
+      "activity_type": "Lecture",
+      "topic": "Deterministic Frontier Analysis B Maximum likelihood estimation; productivity analysis Learning outcomes: L09",
+      "learning_outcomes": [
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (12 May - 18 May)",
+      "activity_type": "Lecture",
+      "topic": "Stochastic Frontier Analysis A Basic models; least squares and maximum likelihood estimation Learning outcomes: L07, L08",
+      "learning_outcomes": [
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (19 May - 25 May)",
+      "activity_type": "Lecture",
+      "topic": "Stochastic Frontier Analysis B Productivity analysis Learning outcomes: L09",
+      "learning_outcomes": [
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (26 May - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Review Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

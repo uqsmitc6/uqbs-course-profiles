@@ -1,0 +1,185 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH3303-20582-7520",
+  "scraped_at": "2026-06-04T01:46:14.530438+00:00",
+  "course_code": "MATH3303",
+  "class_code": "20582",
+  "semester_code": "7520",
+  "full_course_code": "MATH3303-20582-7520",
+  "course_title": "Abstract Algebra & Number Theory",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "MATH3303 covers key topics in group theory and ring theory, with a view towards commutative algebra, algebraic number theory and representation theory.\n\nThis course covers topics fromﾠ modern algebraﾠ, especially groups and rings.ﾠ This is an essential course for any student wishing to undertake further study in pure mathematics and mathematical physics.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH2301"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH7333"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Masoud Kamgarpour",
+      "email": "masoud@uq.edu.au",
+      "phone": "+61 7 3365 6130"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Masoud Kamgarpour",
+      "email": "masoud@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Joseph Kwong"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Lucas Sobolev"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Bailey Whitbread"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Declan Fletcher"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThere will be no lectures or practicals on public holidays.",
+  "course_aims": "On successfulﾠcompletion of this course students should have a solid understanding of the fundamentals of groups, rings and fields.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Group theory - After completion of this course students should have a solid understanding of the essentials of modern group theory. Topics covered include the three isomorphism theorems, the notion of solvable and simple groups, the JordanHlder theorem and the extension problem."
+    },
+    {
+      "number": "LO2.",
+      "description": "Ring theory - After completion of this course students should have a solid understanding of basic ring theory. Topics covered include ideals, the characteristic of a ring, the isomorphism theorems for rings, domains and integral domains, fraction fields and unique factorsation domains."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignments",
+      "weight": "30%",
+      "due_date": "21/03/2025 4:00 pm; 11/04/2025 4:00 pm; 9/05/2025 4:00 pm; 30/05/2025 4:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "Quiz 1",
+      "weight": "20%",
+      "due_date": "24/03/2025 2:00 pm",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "Quiz 2",
+      "weight": "20%",
+      "due_date": "14/04/2025 2:00 pm",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "Quiz 3",
+      "weight": "30%",
+      "due_date": "19/05/2025 2:00 pm",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignments",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "30%",
+      "due_date": "21/03/2025 4:00 pm 11/04/2025 4:00 pm 9/05/2025 4:00 pm 30/05/2025 4:00 pm",
+      "task_description": "There will be 4 assignments, each worth 7.5%. Read full task description Hide full task description",
+      "submission_guidelines": "Submit using Gradescope.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions will be released after 7 days so that is the maximum extension possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Quiz 1",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "20%",
+      "due_date": "24/03/2025 2:00 pm",
+      "task_description": "Quiz 1 will be conducted in class. Read full task description Hide full task description",
+      "submission_guidelines": "Submit in the lecture.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nIf you miss either quiz 1 or 2 for a valid reason (e.g. with a medical certificate), then your other two quizzes will count for more. If you miss two quizzes or more, or if you miss quiz 3, then you must do an oral examination.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Quiz 2",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "20%",
+      "due_date": "14/04/2025 2:00 pm",
+      "task_description": "Quiz 2 will be conducted in class. Read full task description Hide full task description",
+      "submission_guidelines": "Submit in person in the lecture.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nIf you miss either quiz 1 or 2 for a valid reason (e.g. with a medical certificate), then your other two quizzes will count for more. If you miss two quizzes or more, or if you miss quiz 3, then you must do an oral examination.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Quiz 3",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "30%",
+      "due_date": "19/05/2025 2:00 pm",
+      "task_description": "Quiz 3 will be conducted in class. Read full task description Hide full task description",
+      "submission_guidelines": "Submit in person in the lecture.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nIf you miss either quiz 1 or 2 for a valid reason (e.g. with a medical certificate), then your other two quizzes will count for more. If you miss two quizzes or more, or if you miss quiz 3, then you must do an oral examination.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Lecture classes Three traditional black/whiteboard lectures per week. Students are expected to actively participate by taking notes, asking questions, and by answering weekly homework problems."
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Practical",
+      "topic": "Practicals During the practicals students can work on the assignment problems (some of which are deliberately hard and require assistance from the tutor)."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

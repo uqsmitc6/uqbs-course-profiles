@@ -1,0 +1,196 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE3100-21367-7520",
+  "scraped_at": "2026-06-04T01:32:31.539415+00:00",
+  "course_code": "CSSE3100",
+  "class_code": "21367",
+  "semester_code": "7520",
+  "full_course_code": "CSSE3100-21367-7520",
+  "course_title": "Reasoning About Programs",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Software is written with the intention that it will carry out a desired task. To write such software requires algorithmic problem solving skills; and to do so correctly requires us to make precise the task at hand, and to be able to reason that an implementation satisfies the task's precise requirements. This advanced course on programming introduces structured, formal methods for: specifying the desired behaviour of programs, showing that programs are correct with respect to their specifications, and deriving algorithms from specifications. These techniques are designed to assist developers to solve programming problems, and to produce high quality software.\n\nThe primary aim of this course is to introduce you to techniques and tools that allow you to reason about a program to show that it meets its specification for all valid inputs, not just a single test input. In other words, you will learn to verify that a program satisfies its specification.\n\nOn entry to Reasoning About Programs, you will have studied basic programming techniques as well as proofs in predicate logic. The course brings these two strands of study together to use logic to reason about programs. You will also learn to use state-of-the-art tools for automating and checking proofs of program correctness.\n\nOverall, this course can be viewed as an advanced course on programming, with the emphasis being on developing your ability to guarantee that a program you have written satisfies its specification.\n\nIn response to previous student feedback, the problem-based learning sessions in this course have been extended from 1 to 2 hours (to provide students with more access to teaching staff on a weekly basis). Also, new lecture material has been added on debugging failed verification attempts (to aid students with using the program verifier in assignments).",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1061",
+      "CSSE2002"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "CSSE7100",
+      "This course is jointly-taught with:"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Graeme Smith",
+      "email": "CSSE3100@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Graeme Smith"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "To enhance your ability to program by teaching you an alternative approach to designing algorithms that will deepen your understanding of how to think about programs.\n\nTo develop skills in both specifying programs and reasoning about the correctness of programs, with the aim of being able to derive correct programs from specifications.\n\nTo give you experience using state-of-the-art program verification tools.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain the rationale for the formal specification and verification of programs."
+    },
+    {
+      "number": "LO2.",
+      "description": "Specify the desired behaviour of methods and functions in a program in a mathematically precise way."
+    },
+    {
+      "number": "LO3.",
+      "description": "Use formal techniques to verify that a method is correct with respect to its specification."
+    },
+    {
+      "number": "LO4.",
+      "description": "Derive correct methods from abstract specifications using a formal, structured approach."
+    },
+    {
+      "number": "LO5.",
+      "description": "Specify and verify the correctness of objects and data structures in programs."
+    },
+    {
+      "number": "LO6.",
+      "description": "Use a verification tool to automatically and interactively verify the correctness of programs."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code",
+      "title": "Assignment 1",
+      "weight": "15%",
+      "due_date": "1/04/2025 4:00 pm"
+    },
+    {
+      "category": "Computer Code",
+      "title": "Assignment 2",
+      "weight": "20%",
+      "due_date": "6/05/2025 4:00 pm"
+    },
+    {
+      "category": "Computer Code",
+      "title": "Assignment 3",
+      "weight": "15%",
+      "due_date": "27/05/2025 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment 1",
+      "mode": "Written",
+      "category": "Computer Code",
+      "weight": "15%",
+      "due_date": "1/04/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "Students will formally verify one or more programs using weakest precondition reasoning. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted electronically via Gradescope.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach where feedback and/or detailed solutions will be released to students within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Students will formally verify one or more programs using weakest precondition reasoning. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 2",
+      "mode": "Written",
+      "category": "Computer Code",
+      "weight": "20%",
+      "due_date": "6/05/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L06",
+      "task_description": "Students will formally specify and derive one or more programs, and verify them using the Dafny verification tool. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted electronically via Gradescope.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach where feedback and/or detailed solutions will be released to students within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Students will formally specify and derive one or more programs, and verify them using the Dafny verification tool. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 3",
+      "mode": "Written",
+      "category": "Computer Code",
+      "weight": "15%",
+      "due_date": "27/05/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L05, L06",
+      "task_description": "Students will formally specify one or more programs using objects and data structures, and verify them using the Dafny verification tool. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted electronically via Gradescope.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach where feedback and/or detailed solutions will be released to students within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Students will formally specify one or more programs using objects and data structures, and verify them using the Dafny verification tool. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "A two-hour final examination will be held during the final examination period. The examination is used to assess both the practical ability of the students on small problems and their understanding of the course material. You may bring in one A4-size page crib sheet written or printed on both sides; no other written or printed material is permitted. Calculators and other computing or communication devices are not permitted. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Lectures will be used to introduce new course content. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Problem-based learning",
+      "topic": "Problem-based learning sessions These sessions will be used to work on exercises on the course content, and to get help with assignments. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

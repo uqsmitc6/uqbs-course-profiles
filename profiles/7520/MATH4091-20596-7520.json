@@ -1,0 +1,204 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH4091-20596-7520",
+  "scraped_at": "2026-06-04T01:46:18.230537+00:00",
+  "course_code": "MATH4091",
+  "class_code": "20596",
+  "semester_code": "7520",
+  "full_course_code": "MATH4091-20596-7520",
+  "course_title": "Financial Calculus",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Topics from financial calculus including financial derivatives & arbitrage, asset prices, price dynamics, continuous-time hedging, Brownian motion, Martingales, stochastic integration, solving stochastic differential equations & stochastic control.\n\nThe course introduces the mathematics of continuous-time derivative security pricing models. ﾠWe first use the binomial model to introduce theﾠrisk-neutral approach to derivative security pricing. ﾠA substantial part of the course is then devoted to developing the mathematics of Brownian motion,ﾠstochastic calculus, stochastic differential equations, and partial differential equations (PDE), which is needed forﾠcontinuous-time pricingﾠmodels. The mainﾠgoal is toﾠdevelop the two mainﾠapproaches to deriving continuous-time pricing models in the standard Black-Scholes market model, namely the PDEﾠand the risk-neutral approaches. Weﾠinvestigateﾠthe link between these approaches via the Feynman-Kac theory, and finishﾠwith presenting basic short-rate models of the yield curve.\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and againstﾠ UQ Policy, ﾠand will not be tolerated. We have developed aﾠ suite of resources ﾠto assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "STAT3004",
+      "We recommend completing the following courses before enrolling in this one:",
+      "MATH3090"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH7091"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Kazutoshi Yamazaki",
+      "email": "k.yamazaki@uq.edu.au",
+      "notes": "Mondays 12:30pm-1:30pm in my office 67-744 and on Zoom (link to be provided on the Announcement page)"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Kazutoshi Yamazaki",
+      "email": "k.yamazaki@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Nhat Pham"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Qingyuan Zhang"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus at the times and location advertised in your personal timetable.\nImportant: If you are ill, then do not attend any classes in person. Alternative arrangements can be organised – consult Blackboard for details.",
+  "course_aims": "MATH4091 is primarily concerned with the mathematics of continuous-time derivative securityﾠpricing models. It moves from theﾠbinomialﾠmodel toﾠmore sophisticated continuous-time models driven by Brownian motion.ﾠﾠAﾠmajor portion of the course is devoted to developing the mathematical backgroundﾠneeded in quantitative finance such as martingales and Brownian motion,ﾠstochastic calculus,ﾠstochastic differential equations, and partial differential equations. ﾠThe main aimﾠof the course is to deriveﾠthe Black-Scholes option pricing model viaﾠthe two standard approachesﾠin quantitative finance: ﾠthe partial differential equation (PDE) and the risk-neutral approaches. ﾠThe course also investigates the Feynman-Kac theory and basic short-rate models of the yield curve. Finally, the course also focuses on solving a range of practical problems arising in financial mathematics via stochastic calculus tools.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Define and use stochastic processes in financial mathematics, in particular martingales and Brownian motion."
+    },
+    {
+      "number": "LO2.",
+      "description": "Derive, understand, and work with the properties of the Ito integrals. Understand and work with basic notions surrounding the concept of an Ito process."
+    },
+    {
+      "number": "LO3.",
+      "description": "Explain with rigour the key notions of arbitrage, risk-neutral or equivalent martingale measure, market completeness, and the fundamental theorems of asset pricing."
+    },
+    {
+      "number": "LO4.",
+      "description": "Analyse the link (via the Feynman-Kac theory) and the differences between the Partial Differential Equation and the risk-neutral pricing approaches for financial contracts."
+    },
+    {
+      "number": "LO5.",
+      "description": "Use the Partial Differential Equation and the risk-neutral pricing approaches to European options in the Black-Scholes model."
+    },
+    {
+      "number": "LO6.",
+      "description": "Construct basic short-rate models of the yield curve, and explain their key properties, and formulate a range of related pricing problems."
+    },
+    {
+      "number": "LO7.",
+      "description": "Apply Ito stochastic calculus tools to solve a range of problems arising in financial mathematics."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignment 1",
+      "weight": "20%",
+      "due_date": "3/04/2025 1:00 pm"
+    },
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignment 2",
+      "weight": "20%",
+      "due_date": "28/04/2025 1:00 pm"
+    },
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignment 3",
+      "weight": "20%",
+      "due_date": "26/05/2025 1:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment 1",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "3/04/2025 1:00 pm",
+      "learning_outcomes_assessed": "L01",
+      "task_description": "A list of questions and problems to be answered and solved. Read full task description Hide full task description",
+      "submission_guidelines": "An electronic copy of your assignment solutions must be uploaded as one PDF document to the Blackboard site by the due date.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nA maximum of seven calendar days is allowed for an extension because the solutions need to be released.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 2",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "28/04/2025 1:00 pm",
+      "learning_outcomes_assessed": "L02, L03, L04, L05",
+      "task_description": "A list of questions and problems to be answered and solved. Read full task description Hide full task description",
+      "submission_guidelines": "An electronic copy of your assignment solutions must be uploaded as one PDF document to the Blackboard site by the due date.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nA maximum of seven calendar days is allowed for an extension because the solutions need to be released.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 3",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "26/05/2025 1:00 pm",
+      "learning_outcomes_assessed": "L04, L05, L06, L07",
+      "task_description": "A list of questions and problems to be answered and solved. Read full task description Hide full task description",
+      "submission_guidelines": "An electronic copy of your assignment solutions must be uploaded as one PDF document to the Blackboard site by the due date.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nA maximum of seven calendar days is allowed for an extension because the solutions need to be released.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "The final examination will test all topics presented in the course. The examination will be closed-book and invigilated on-campus. Alternative arrangements will be advised on Blackboard should the campus be closed for any reason. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Stochastic Calculus and Financial Mathematics Introduce students to the mathematical tools used to derive continuous-time derivative security pricing models in quantitative finance. Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (03 Mar - 01 Jun)",
+      "activity_type": "Practical",
+      "topic": "Exercise Questions Exercises, problems, and questions to consolidate knowledge and understanding of the material. Practicals start the second week of class. Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

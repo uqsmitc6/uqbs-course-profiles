@@ -1,0 +1,283 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CHEE3005-21765-7520",
+  "scraped_at": "2026-06-04T01:29:58.453826+00:00",
+  "course_code": "CHEE3005",
+  "class_code": "21765",
+  "semester_code": "7520",
+  "full_course_code": "CHEE3005-21765-7520",
+  "course_title": "Reaction Engineering",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Chemical Engineering School",
+  "course_description": "Reaction kinetics & mechanisms. Design of batch, flow & multiple reactors. Residence time distribution & non-ideal flow reactors. Non-isothermal reactors. Catalytic & non-catalytic heterogeneous reactions. Transport effects. Multiple reactors.\n\nReactors are everywhere in nature and in engineered systems. They are a key unit operation in most processes that chemical engineers deal with and are present in natural systems from the atmosphere to individual cells. Reaction engineering deals with the modelling, analysis, and design of systems where reactions occur. The analysis involves principles of chemical kinetics, thermodynamics, heat and mass transfer, and fluid mechanics. This course considers the types of reactors found in industry and nature building up understanding from simple to more complex systems. Given the infinite variety of reactors that exist (or are yet to be invented) there is a focus on the methods that systematically unpack the complexity of reactors to produce useful models, analysis, and designs. Complexities can arise from complex reaction mechanisms (e.g. multiple reactions), heterogeneous reactions, complex flow patterns, and non-isothermal behaviour and these will all be considered in this course.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CHEE2001",
+      "CHEE2003",
+      "CHEE2030",
+      "CHEE3003",
+      "CHEE2040",
+      "CHEE3002"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Greg Birkett",
+      "email": "g.birkett@uq.edu.au",
+      "phone": "+61 7 3365 3813",
+      "notes": "Office hours: Wednesday, 12:30pm - 2pm in my office (46-504, Level 5 of Liveris). Knock on my window to get my attention! Other times: Very happy to meet at other times by email appointment to discuss any issues with the course or your studies."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Greg Birkett",
+      "email": "g.birkett@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor John Zhu",
+      "email": "z.zhu@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Ms Sichun Yang",
+      "email": "sichun.yang@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Alexander Johnson",
+      "email": "alexander.johnson@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Nicholas Hearn",
+      "email": "n.hearn@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Britany Lu",
+      "email": "b.lu@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Yujin Seki",
+      "email": "y.seki@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Sophie Renton",
+      "email": "s.renton@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nWorkshops and tutorials start in week 1. Practical is run only in week 4 and requires you to preference your times for allocation.",
+  "course_aims": "This course prepares students to be able to design and analyse reactors that are part of engineered and natural process. This is really an application of some of the \"big ideas\" of engineering to reactors:\n\nTo be able to do this, students will develop an understanding of reaction kinetics & mechanisms, design of batch & flowﾠ reactors, residence time distribution & non-ideal flow reactors, non-isothermal reactors, heterogeneous reactions, and transport effects. With these fundamentals a student should be able to critically evaluate the suitability of a reactor design, how changes in conditions will affect a reactor and the factors that impact the optimal design and running conditions of a reactor.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Calculate thermodynamic limits of reactions and explain the impact of changing conditions on these limits."
+    },
+    {
+      "number": "LO2.",
+      "description": "Model and analyse ideal reactors (batch, CSTRs, and PFTRs) using mass balances, stoichiometry, rate equations, and/or empirical data."
+    },
+    {
+      "number": "LO3.",
+      "description": "Formulate rate equations for complex reaction mechanisms, including heterogeneous and biological reactions, and explain key features of complex rate equations based on the relevant phenomena."
+    },
+    {
+      "number": "LO4.",
+      "description": "Model and analyse reactors with non-isothermal behaviour and/or significant heat transfer and explain the impact on reactor behaviour of different reactor configurations and conditions."
+    },
+    {
+      "number": "LO5.",
+      "description": "Model and analyse reactors with non-ideal flow regimes using residence time distributions and composite reactor models and explain the impact on reactor behaviour of different reactor configurations and flow regimes."
+    },
+    {
+      "number": "LO6.",
+      "description": "Design a reactor using literature data, reactor modelling, and recommended design practices, to achieve specified process outcomes with consideration of the broader process."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Problem Sets",
+      "weight": "30% Part of in-semester hurdle",
+      "due_date": "14/03/2025 2:00 pm; 24/03/2025 2:00 pm; 7/04/2025 2:00 pm; 28/04/2025 2:00 pm; 12/05/2025 2:00 pm",
+      "conditions": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Practical/ Demonstration",
+      "title": "Practical completion and report",
+      "weight": "5% Part of in-semester hurdle",
+      "due_date": "31/03/2025 2:00 pm; Some marks for completing practical in week 4. You must attend your allocated session.",
+      "conditions": [
+        "Hurdle",
+        "In-person",
+        "Online"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Project",
+      "title": "Reactor Design",
+      "weight": "20% Part of in-semester hurdle",
+      "due_date": "30/05/2025 4:00 pm",
+      "conditions": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Exam During Exam Period (Central)",
+      "weight": "45% Hurdle",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Problem Sets",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "30% Part of in-semester hurdle",
+      "due_date": "14/03/2025 2:00 pm 24/03/2025 2:00 pm 7/04/2025 2:00 pm 28/04/2025 2:00 pm 12/05/2025 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Problem set sequence with a weight of 6% each. Problem solving, analysis, and concept questions covering key concepts for the exam and reactor design assignment. Submitted via Gradescope as a single PDF. The PDF must be clear and legible. Use a PDF scanning app on your phone for hand written pages. If you don't have a suitable phone, you can scan to PDF in the library. Do NOT take photos and paste into a word document. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submission via Gradescope.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nResults and feedback are released after 7 days. Beyond 7 days, an exemption may be granted for up to one problem set with the weighting re-distributed to other problem sets.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Course Instance (CI), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Problem set sequence with a weight of 6% each. Problem solving, analysis, and concept questions covering key concepts for the exam and reactor design assignment. Submitted via Gradescope as a single PDF. The PDF must be clear and legible. Use a PDF scanning app on your phone for hand written pages. If you don't have a suitable phone, you can scan to PDF in the library. Do NOT take photos and paste into a word document. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Practical completion and report",
+      "mode": "Activity/ Performance, Written",
+      "category": "Paper/ Report/ Annotation, Practical/ Demonstration",
+      "weight": "5% Part of in-semester hurdle",
+      "due_date": "31/03/2025 2:00 pm Some marks for completing practical in week 4. You must attend your allocated session.",
+      "learning_outcomes_assessed": "L02, L06",
+      "task_description": "Short report covering results and analysis from the practical. Information and instructions will be available on Blackboard. 50% of marks are associated with successfully completing practical in person experiments. Attendance in your allocated practical sessions is required to attain these marks. Anyone arriving more than 5 minutes late will not be able to undertake the practical as you will have missed the briefing. If you cannot attend your practical due to exceptional circumstances, you need to apply for an extension to be allocated to another practical time. Practicals require students to have Lab PPE: Closed shoes Long pants Lab coat Safety glasses If you don't have suitable Lab PPE you will not be able to complete your practical and will forfeit marks associated with completing the practical. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Complete practical in person in your allocated session and submit your report via Gradescope by the due date.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nThis assessment item contains specific marks for completing the practical in person. Practical can only be rescheduled with an approved extension within available times. Beyond this, an exemption may be granted with the weighting re-distributed to the problem sets and written practical component.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Course Instance (CI), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Short report covering results and analysis from the practical. Information and instructions will be available on Blackboard. 50% of marks are associated with successfully completing practical in person experiments. Attendance in your allocated practical sessions is required to attain these marks. Anyone arriving more than 5 minutes late will not be able to undertake the practical as you will have missed the briefing. If you cannot attend your practical due to exceptional circumstances, you need to apply for an extension to be allocated to another practical time. Practicals require students to have Lab PPE: Closed shoes Long pants Lab coat Safety glasses If you don't have suitable Lab PPE you will not be able to complete your practical and will forfeit marks associated with completing the practical. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "In-person",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Reactor Design",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Project",
+      "weight": "20% Part of in-semester hurdle",
+      "due_date": "30/05/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L06",
+      "task_description": "This is a short report detailing the design of a reactor for a specified process with specified requirements. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submitted via Gradescope.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Course Instance (CI), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This is a short report detailing the design of a reactor for a specified process with specified requirements. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Exam During Exam Period (Central)",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "45% Hurdle",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Final Exam covering all weeks. On campus invigilated exam. Closed book with formula sheet provided. Casio FX-82 or UQ approved (with sticker) calculator required. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 180 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "Final Exam covering all weeks. On campus invigilated exam. Closed book with formula sheet provided. Casio FX-82 or UQ approved (with sticker) calculator required. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.",
+    "other_course_materials": "If we've listed something under further requirement, you'll need to provide your own. Required Item Description Further Requirement Lab PPE Lab PPE required: Lab coat, safety glasses, closed shoes, long pants. own item needed",
+    "required": "Item Description Further Requirement Lab PPE Lab PPE required: Lab coat, safety glasses, closed shoes, long pants. own item needed"
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From O-week To Week 12 (17 Feb - 25 May)",
+      "activity_type": "Not Timetabled",
+      "topic": "Online module with video lectures Weekly online module containing short video lectures, notes, and quizzes for the week. The videos should be viewed before the workshop (WKS). Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Workshop",
+      "topic": "Workshop Weekly workshop covering the key concepts, topics, and skills for the week with reference to links with problem set, practical, and reactor design in relevant weeks. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial Tutorial to support students in completing problem sets, reactor design, and any other questions about course concepts. Support available from tutors and staff. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (17 Mar - 23 Mar)",
+      "activity_type": "Practical",
+      "topic": "Practical Experiments for each of the major reactor types: batch, CSTR, and PFR. Students sign-on to a single 2 hour session. Learning outcomes: L02, L06",
+      "learning_outcomes": [
+        "L02",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: Safety Induction for Practicals Course guidelines Anyone undertaking courses with a practical component must complete the UQ Undergraduate Student Laboratory Safety Induction and pass the associated assessment. Specific instructions, usage guidelines and rules for each of the undergraduate laboratories will be delivered as part of each course. In some cases, students may be required to attend a specific face-to-face laboratory induction/training session. Learning activities"
+}

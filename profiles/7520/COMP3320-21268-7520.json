@@ -1,0 +1,182 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMP3320-21268-7520",
+  "scraped_at": "2026-06-04T01:31:11.172997+00:00",
+  "course_code": "COMP3320",
+  "class_code": "21268",
+  "semester_code": "7520",
+  "full_course_code": "COMP3320-21268-7520",
+  "course_title": "Vulnerability Assessment and Penetration Testing",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "The course provides an introduction to the methodologies and software tools of cyber security vulnerability assessment and cyber security penetration testing. It covers key concepts and topics in cyber security vulnerability assessment and penetration testing, as an integral part of overall enterprise information security management, including the vulnerability assessment process, host and network scanning techniques, the principles of penetration testing, and penetration testing techniques for network security, software security, web security and mobile device security.\n\nThis course is designed and delivered by industry experts. It includes a number of guest lectures by other industry professionals as well. The lecture topics include ethics, techniques, reconnaissance, open-source intelligence, network scanning, sniffing and spoofing, cryptography, password security, log files, software vulnerabilities, static/dynamic software assessment, fuzzing, embedded systems, memory corruption, Web hacking (backend/frontend), SSL/TLS, Windows hacking and also mobile device security. The course includes practical sessions on discovering, exploiting and mitigating vulnerabilities, and configuring and operating relevant software tools. Components of these practical sessions are assessed on-campus every week . The course uses only Unix-based tools and does not use Microsoft Windows or other GUI-based systems. All practical assessments use a shell command line (see Assumed Background ). The prerequisite assumed knowledge will not be re-taught in this course. Every practical session develops new skills and assesses the application of the skills from the previous week's practical session. Thus, practical sessions are cumulative, each week building on the previous week.\n\nThe following aspects of the course have been changed from last year, in response to student feedback:\n\nRegarding the speed of marking, the new practical exercises are now marked instantly, entirely during the running practical session with immediate feedback (previously the marking was performed up to 6 days after the practical), and the teaching staff can now concentrate on the Assignment marking rather than marking the practical exercises;\n\nRegarding the practical assignments requiring hours of work before the practical session in order to finish them by the end of the allocated session (including suggestions that practical sessions should be longer than 2 hours per week), this is expected - students should be spending approximately 6 hours additional time every week, on top the contact hours, and this will now be emphasised during the initial lecture;\n\nRegarding the suggestion of providing practical-style environments for students to \"practice\" on outside of their allocated \"Practical\" session, the teaching staff are setting similar environments up to practice on outside of the scheduled practical times (during any scheduled practical time all of our computing resources will be dedicated to the allocated practical class); and finally,\n\nRegarding the \"Assignment\" (previously purely a research assignment) being too abstracted from the course, the \"Penetration Testing Assignment\" now covers greater working aspects of actual industry penetration testing in practice, rather than only research aspects.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE2310",
+      "CSSE7231",
+      "CYBR3000",
+      "COMS3000",
+      "CYBR7002"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr David Ross",
+      "email": "COMP3320@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr David Ross"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nNote that the first of the practical assignments are\nissued in Week 1\nand start with the\nfirst practical classes in Week 2\n. Weekly attendance at your allocated practical session is mandatory. There are a number of different practical sessions available. You must select a practical session that you can physically attend at the same time every week. Students adding this course during Week 2 after teaching has started must select and attend a remaining available practical session during Week 2. (\nLate addition of this course after Week 2 is not permitted.\n) Do not take this course if you cannot secure a practical session where you can attend the full 2 hours every week (some labs are made up of 2 different 1-hour sessions). Missed sessions are calculated as zero marks for that session. A lecture or practical class that would have been scheduled on a public holiday will not occur and will not be substituted for another date. The course schedule (including labs) has been planned to accommodate the missing dates. There are no practical sessions in Week 1 or Week 8.",
+  "course_aims": "This course aims to provide students with the foundations of, and hands-on experience with the core technologies used for, vulnerability assessment and penetration testing. This prepares students for understanding the process of vulnerability assessment and penetration testing, identifying vulnerabilities, evaluating and reporting on the security of a system and proposing appropriate plans to mitigate security threats.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "apply the ethical and legal aspects of conducting vulnerability assessment and penetration testing"
+    },
+    {
+      "number": "LO2.",
+      "description": "interpret the processes of vulnerability assessment and penetration testing"
+    },
+    {
+      "number": "LO3.",
+      "description": "select and apply suitable techniques and tools for reconnaissance, sniffing, scanning and enumeration"
+    },
+    {
+      "number": "LO4.",
+      "description": "recognise the known vulnerabilities in existing protocols, systems and applications"
+    },
+    {
+      "number": "LO5.",
+      "description": "design and compare suitable strategies and techniques for access gaining"
+    },
+    {
+      "number": "LO6.",
+      "description": "develop customised plans of vulnerability discovery, management and remediation"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Practical Reports (Progressive Assessment)",
+      "weight": "35%",
+      "due_date": "Week 2 - Week 7; Week 9 - Week 13; Practical reports are submitted during the student's allocated practical session.",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Penetration Testing Assignment",
+      "weight": "15%",
+      "due_date": "15/04/2025 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Practical Reports (Progressive Assessment)",
+      "mode": "Activity/ Performance",
+      "category": "Practical/ Demonstration",
+      "weight": "35%",
+      "due_date": "Week 2 - Week 7 Week 9 - Week 13 Practical reports are submitted during the student's allocated practical session.",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L02, L03, L04, L05, L06",
+      "task_description": "The weekly practical work will involve tasks and exercises to be progressively assessed each week during the student's allocated practical session. Practical classes start in Week 3. Weekly attendance at your allocated practical session is mandatory. Missed sessions are calculated as zero marks for that session. Late addition of this course after Week 2 is not permitted. Every practical session develops new skills and assesses the application of the skills from the previous week's practical session. Thus, practical sessions are cumulative, each week building on the previous week. The first practical class in week 3 provides the formative learning that will be assessed the following week. The weekly practical reports must be submitted as part of the student’s allocated practical session - late submissions receive a 100% late penalty and no extensions are possible. Information required for your unique solution for the weekly assessments can only be obtained during your practical session. Target machines are only orchestrated for each hour of your scheduled lab session and are torn-down automatically and changed to accommodate the next session. You must select a single lab session that you can physically attend at the same time for the full 2 hours every week. The Week 3 assessment is formative (practice). All nine remaining practical sessions start with summative assessments of the previous week's practical skills. The practical sessions will be delivered in the Computer Labs in the General Purpose South building (78-116) or, for some weeks, in the UQ Cyber War Rooms on Level 4 of the General Purpose South building (78). Ensure you request practical sessions that you can physically attend the whole 2-hour session (all timetabling shows the location as 78-116). You may not attend another session that you are not allocated to. Lab sessions will be very full and the practical environments will be set up with the logins of the students allocated to each particular session in UQ's class allocation system. The course uses only Unix-based tools and does not use Microsoft Windows or other GUI-based systems. All practical assessments use a shell command line (see Assumed Background ). The prerequisite assumed knowledge will not be re-taught in this course. Details of each weekly session's tasks and method for submission will be provided on the Lab Instructions each week (downloadable from Blackboard each week). There are no practical sessions in Week 1 or Week 8 (due to a public holiday affecting one of the classes in Week 8). This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "The practical work is submitted during the practical session. Practical reports assess the practical skills developed the previous week. Additional submission details will be given in the lab sheet each week.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nPractical reports are completed as part of a scheduled practical class.\nIf there are exceptional circumstances, an exemption may be approved and may involve submitting/discussing your work as it stands. Exemptions must be requested as an \"extension\" with a note specifying you are requesting an exemption via my.UQ.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "The weekly practical work will involve tasks and exercises to be progressively assessed each week during the student's allocated practical session. Practical classes start in Week 3. Weekly attendance at your allocated practical session is mandatory. Missed sessions are calculated as zero marks for that session. Late addition of this course after Week 2 is not permitted. Every practical session develops new skills and assesses the application of the skills from the previous week's practical session. Thus, practical sessions are cumulative, each week building on the previous week. The first practical class in week 3 provides the formative learning that will be assessed the following week. The weekly practical reports must be submitted as part of the student’s allocated practical session - late submissions receive a 100% late penalty and no extensions are possible. Information required for your unique solution for the weekly assessments can only be obtained during your practical session. Target machines are only orchestrated for each hour of your scheduled lab session and are torn-down automatically and changed to accommodate the next session. You must select a single lab session that you can physically attend at the same time for the full 2 hours every week. The Week 3 assessment is formative (practice). All nine remaining practical sessions start with summative assessments of the previous week's practical skills. The practical sessions will be delivered in the Computer Labs in the General Purpose South building (78-116) or, for some weeks, in the UQ Cyber War Rooms on Level 4 of the General Purpose South building (78). Ensure you request practical sessions that you can physically attend the whole 2-hour session (all timetabling shows the location as 78-116). You may not attend another session that you are not allocated to. Lab sessions will be very full and the practical environments will be set up with the logins of the students allocated to each particular session in UQ's class allocation system. The course uses only Unix-based tools and does not use Microsoft Windows or other GUI-based systems. All practical assessments use a shell command line (see Assumed Background ). The prerequisite assumed knowledge will not be re-taught in this course. Details of each weekly session's tasks and method for submission will be provided on the Lab Instructions each week (downloadable from Blackboard each week). There are no practical sessions in Week 1 or Week 8 (due to a public holiday affecting one of the classes in Week 8). This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Penetration Testing Assignment",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "15%",
+      "due_date": "15/04/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L04, L06",
+      "task_description": "This assignment requires students to compile a report that demonstrates the ability to locate high quality sources of relevant information, to understand complex concepts, to analyse and organise information and ideas and to convey those ideas clearly and fluently; and the ability synthesize a clear and concise report of the appropriate level and style. The specific details, tasks, and assessment criteria for this assignment will be released during the first lecture on 25th February 2025 and will be due seven weeks later, on 15th April 2025. The assignment runs concurrently with the first half of the course's lectures and practicals, but assesses a completely different aspect of the course objectives, requiring a combination of risk assessment, legal, and ethical considerations that you have researched after the Week 1 lecture, and your solution is then presented in your report in a manner appropriate for the target audience. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nThe assignment is designed to be completed in the first half of the course in order to maximise students' remaining time for the practicals, which due to their progressive complexity, become increasingly challenging in the later weeks. While extensions are possible for this assignment, students must also be aware of the increasing practical workload as the course progresses. Any extension must be requested via my.UQ.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assignment requires students to compile a report that demonstrates the ability to locate high quality sources of relevant information, to understand complex concepts, to analyse and organise information and ideas and to convey those ideas clearly and fluently; and the ability synthesize a clear and concise report of the appropriate level and style. The specific details, tasks, and assessment criteria for this assignment will be released during the first lecture on 25th February 2025 and will be due seven weeks later, on 15th April 2025. The assignment runs concurrently with the first half of the course's lectures and practicals, but assesses a completely different aspect of the course objectives, requiring a combination of risk assessment, legal, and ethical considerations that you have researched after the Week 1 lecture, and your solution is then presented in your report in a manner appropriate for the target audience. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "The final exam will be a summative assessment which covers all topics in this course. The exam will be an on-campus paper-based exam. This exam will be closed-book and will contain a combination of problem-solving and short answer questions. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options Any calculator permitted Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Lectures will be mainly used to introduce new material. Learning materials are available on Blackboard. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (03 Mar - 01 Jun)",
+      "activity_type": "Practical",
+      "topic": "Practical lab sessions Practical sessions are based on the topics covered by lectures. They will be mainly used to work on hands-on exercises and challenges. This will be a more interactive process than lecture presentations. The intent is to provide a learning environment that provides better support for developing practical skills. There will also be time during practical sessions specifically for getting help and being assessed by lab demonstrators. Learning outcomes: L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

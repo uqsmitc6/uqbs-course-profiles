@@ -1,0 +1,197 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CIVL6410-20053-7520",
+  "scraped_at": "2026-06-04T01:31:00.975302+00:00",
+  "course_code": "CIVL6410",
+  "class_code": "20053",
+  "semester_code": "7520",
+  "full_course_code": "CIVL6410-20053-7520",
+  "course_title": "Transport Network Modelling",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Civil Engineering School",
+  "course_description": "The interaction between demand (i.e., whether to travel or not, which route to take) and supply (i.e., roadway capacity, travel time) in the transport networks is a complex phenomenon that requires special analysis techniques. This course will expose students to the basic concepts of static and dynamic transport network analysis, as well as explore some applications. These models are used to model traffic flows at the scale of a city or metropolitan region, and are useful for predicting the impact of changes to the transportation system (added capacity, signal retiming, multimodal).\n\nThis course introduces students to the basic concepts and methods of transportation network modelling, providing a foundational understanding essential for urban transport planning and operations. The methods presented also serve as the basis for developingﾠtraffic simulation models widely used in analysingﾠand predicting traffic conditions in urban transportation networks. Topics covered include graph representation of road networks, graph theory and algorithms, equilibrium analysis of transportation systems, traffic assignment problems, travellers' choice behaviours, and discrete choice modelling. Throughout the course, students will engage in hands-on exercises to reinforce their understanding of transportation network modelling principles and their application in real-world scenarios.\n\nA key component of the course is the application of Python programming for data analysis and algorithm implementation. Students will work extensively with Python data structures, pandas DataFrames, for-loops, if-statements, and function definitions to develop and analyse transport network models. A solid understanding of these fundamental programming skills is essential, and students without them will find the course challenging.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CIVL2420"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Jiwon Kim",
+      "email": "jiwon.kim@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Jiwon Kim",
+      "email": "jiwon.kim@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The course aims to enable students to:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain the basic concepts of transport network modelling and its applications in transport planning and traffic operations."
+    },
+    {
+      "number": "LO2.",
+      "description": "Formulate and solve basic static traffic assignment problems using mathematical programming and optimisation models"
+    },
+    {
+      "number": "LO3.",
+      "description": "Describe graph theory and algorithms for traffic assignment problems and network traffic analysis"
+    },
+    {
+      "number": "LO4.",
+      "description": "Formulate discrete choice models for route choice applications and explain traveller behaviours"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment 1 - Problem Set/s",
+      "weight": "15%",
+      "due_date": "28/04/2025 4:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment 2 - Problem Set/s",
+      "weight": "15%",
+      "due_date": "30/05/2025 4:00 pm"
+    },
+    {
+      "category": "Quiz",
+      "title": "In-class Quizzes",
+      "weight": "30%",
+      "due_date": "Week 4 In-class Quiz 18/03/2025 1:00 pm; Week 5 In-class Quiz 25/03/2025 1:00 pm; Week 6 In-class Quiz 1/04/2025 1:00 pm; Week 7 In-class Quiz 8/04/2025 1:00 pm; Week 8 In-class Quiz 15/04/2025 1:00 pm; Week 9 In-class Quiz 29/04/2025 1:00 pm; Week 11 In-class Quiz 13/05/2025 1:00 pm; Week 12 In-class Quiz 20/05/2025 1:00 pm",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment 1 - Problem Set/s",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "15%",
+      "due_date": "28/04/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "This assignment is designed to assess students' understanding of traffic assignment problems covered in lectures and their ability to apply practical skills learned in tutorials to solve relevant problems. The assignment problems will include both problem-solving questions and coding tasks in Python. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Assignments in this course can be extended by a maximum of one week. Read full task description Hide full task description",
+      "submission_guidelines": "Assessment must be submitted through the course BlackBoard site\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assignment is designed to assess students' understanding of traffic assignment problems covered in lectures and their ability to apply practical skills learned in tutorials to solve relevant problems. The assignment problems will include both problem-solving questions and coding tasks in Python. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Assignments in this course can be extended by a maximum of one week. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 2 - Problem Set/s",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "15%",
+      "due_date": "30/05/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L04",
+      "task_description": "This assignment is designed to assess students' understanding of discrete choice modelling covered in lectures and their ability to apply practical skills learned in tutorials to solve relevant problems. The assignment problems will include both problem-solving questions and coding tasks in Python. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Assignments in this course can be extended by a maximum of one week. Read full task description Hide full task description",
+      "submission_guidelines": "Assessment must be submitted through the course BlackBoard site\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assignment is designed to assess students' understanding of discrete choice modelling covered in lectures and their ability to apply practical skills learned in tutorials to solve relevant problems. The assignment problems will include both problem-solving questions and coding tasks in Python. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Assignments in this course can be extended by a maximum of one week. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "In-class Quizzes",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "30%",
+      "due_date": "Week 4 In-class Quiz 18/03/2025 1:00 pm Week 5 In-class Quiz 25/03/2025 1:00 pm Week 6 In-class Quiz 1/04/2025 1:00 pm Week 7 In-class Quiz 8/04/2025 1:00 pm Week 8 In-class Quiz 15/04/2025 1:00 pm Week 9 In-class Quiz 29/04/2025 1:00 pm Week 11 In-class Quiz 13/05/2025 1:00 pm Week 12 In-class Quiz 20/05/2025 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "In selected weeks (Weeks 3–12), an in-person quiz will be conducted during the tutorial session to assess students' understanding of the material covered in lectures and tutorials so far. The quiz will consist of a set of questions designed to reinforce key concepts and provide ongoing feedback on students' progress. Students are required to complete and submit their responses during the tutorial session on-site. A total of eight quizzes will be conducted, and the best six scores will be counted toward the final grade. Each of these six quizzes is worth 5%, making the total weight of the in-class quiz component 30%. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Students are required to complete and submit their responses during the tutorial session on-site.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThe solution to each quiz is released within one week after the submission deadline.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nStudents need to complete the best 6 of 8 in-class quizzes.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "In selected weeks (Weeks 3–12), an in-person quiz will be conducted during the tutorial session to assess students' understanding of the material covered in lectures and tutorials so far. The quiz will consist of a set of questions designed to reinforce key concepts and provide ongoing feedback on students' progress. Students are required to complete and submit their responses during the tutorial session on-site. A total of eight quizzes will be conducted, and the best six scores will be counted toward the final grade. Each of these six quizzes is worth 5%, making the total weight of the in-class quiz component 30%. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial sessions Tutorial sessions to be held throughout the semester. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Not Timetabled",
+      "topic": "Self-managed study Students are expected to spend at least six hours per week, in addition to the timetabled lectures and tutorial sessions, to adequately complete the coursework. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: School of Civil Engineering School Guidelines Learning activities"
+}

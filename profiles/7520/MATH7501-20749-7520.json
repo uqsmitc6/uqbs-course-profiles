@@ -1,0 +1,200 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH7501-20749-7520",
+  "scraped_at": "2026-06-04T01:46:53.889996+00:00",
+  "course_code": "MATH7501",
+  "class_code": "20749",
+  "semester_code": "7520",
+  "full_course_code": "MATH7501-20749-7520",
+  "course_title": "Mathematics for Data Science 1",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "This course will provide students with the mathematical foundations needed for analytical and statistical data science. The course will introduce logic, proofs and the elementary properties of graphs which are used for modelling networks. Limits, sequences and series which form the basis of calculus are introduced. Derivatives, maxima/minima, integration and Taylor series. Extension to multi-dimensional problems. Partial derivatives, maxima and minima. Data fitting using least squares. Numerical integration and solution of non-linear equations. Linear Algebra. Vectors, linear independence, scalar product. Matrices, simultaneous equations, determinants, vector product, eigenvalues, eigenvectors, applications. Use of mathematical software for linear algebra applications.\n\nThe ability to collect, interpret, and analyse large data sets is an important skill when making informed decisions and predictions. Integral to these skills is a good understanding of and the ability to apply a raft of mathematical techniques, as well as the means to implement and carry out these methods on a computer. This course introduces students to a number of basic mathematical notions, tools, and methods needed for understanding the mathematics involved in data science.\n\nIn the School of Mathematics and Physics, we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against ﾠ UQ Policy, ﾠ and will not be tolerated. We have developed a ﾠ suite of resources ﾠ to assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "A grade of C or higher in Queensland Year 12 Mathematical Methods (Units 3 & 4) (or equivalent)."
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH1050",
+      "MATH1061",
+      "MATH1051",
+      "MATH1052",
+      "MATH7051",
+      "MATH7052",
+      "MATH7861"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Jorgen Rasmussen",
+      "email": "j.rasmussen@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Jorgen Rasmussen",
+      "email": "j.rasmussen@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Hui Yao"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Mitchell Ryan"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nTimetabled activities onﾠ Tuesday 25 April (Anzac Day; Week 9) andﾠ Monday 6ﾠ May (Labour day; Week 11)ﾠ will be substituted. Please pay attention to announcements regarding the alternative sessions.",
+  "course_aims": "The aim of this course is to provide students with an introduction to and a solid basis for further study in the mathematics of data science. Students will learn about several mathematical concepts which are important in understanding how to collect, analyse, and interpret data, and the mathematics involved in understanding how to use a computer to carry out data science. Students will be presented withﾠtheory and practical examples.ﾠThe course also aims to help students develop practice in presenting their findings.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand how to apply logic to formulate a valid argument and to construct a simple proof;"
+    },
+    {
+      "number": "LO2.",
+      "description": "Use an understanding of lists and sets to count probabilities and know how these apply to functions;"
+    },
+    {
+      "number": "LO3.",
+      "description": "Understand functions and relations and how associated concepts apply to mathematics and computing;"
+    },
+    {
+      "number": "LO4.",
+      "description": "Evaluate limits, derivatives, explain the underlying mathematical basis, interpret the results geometrically, and calculate the limits of sequences and series, and use them to approximate functions;"
+    },
+    {
+      "number": "LO5.",
+      "description": "Understand matrix/vector arithmetic and be competent in extracting information from data sets by indexing and using mathematical software, understand the concept of invertibility for matrices, know many criteria for invertibility and be able to find inverses, and how matrices are used in solving systems of equations;"
+    },
+    {
+      "number": "LO6.",
+      "description": "Understand basic numerical concepts such as using the Intermediate value theorem, optimisation of functions, solving a simple differential equation, calculating and using partial derivatives, and using the Taylor series;"
+    },
+    {
+      "number": "LO7.",
+      "description": "Calculate single and double integrals using a number of both symbolic and numerical methods;"
+    },
+    {
+      "number": "LO8.",
+      "description": "Use mathematical software to collect, analyse, interpret and present data."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignments",
+      "weight": "30%",
+      "due_date": "28/03/2025 4:00 pm; 9/05/2025 4:00 pm; 30/05/2025 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "In-Semester Exam",
+      "weight": "20%",
+      "due_date": "8/04/2025 5:00 pm; In-class examination",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignments",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "30%",
+      "due_date": "28/03/2025 4:00 pm 9/05/2025 4:00 pm 30/05/2025 4:00 pm",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "The assignments require you to complete a set of theoretical and practical exercises, and to submit your written solutions. Read full task description Hide full task description",
+      "submission_guidelines": "The assignments must be submitted electronically through Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nYou may be able to apply for an extension.\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nAssignment solutions will be released a week after the assignment is due.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In-Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "20%",
+      "due_date": "8/04/2025 5:00 pm In-class examination",
+      "learning_outcomes_assessed": "L01, L02, L03, L05",
+      "task_description": "The in-semester exam will cover the first five chapters of the course workbook. This exam is an important opportunity for obtaining feedback on your progress in the course. Students are permitted to bring one double-sided A4 sheet of handwritten notes. Scanned / Photocopied / Printed notes are not permitted. You are permitted to use an approved calculator in the exam. It should either be a Casio fx-82 or have an official \"Approved\" label attached. Visit here for a list of approved calculators and procedures for obtaining the official label. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 60 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "learning_outcomes_assessed": "L01, L03, L04, L06, L07",
+      "task_description": "The final examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus. This exam has specified materials permitted. Students are permitted to bring one A4 sheet of handwritten notes single sided. Scanned / Photocopied / Printed notes are not permitted. You are permitted to use an approved calculator in the exam. It should either be a Casio fx-82 (series) or have an official \"UQ Approved\" label attached. Visit here for a list of approved calculators and procedures for obtaining the official label. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Practical",
+      "topic": "Practical Problem sheets will be available on Blackboard. Help with the problem sheets is available at the practical. Solutions will be available on Blackboard to assist with independent study. Some problem sheets will include a programming activity. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Lecture We will work through the examples in the course notes during the lectures. You are strongly encouraged to print out the course notes and bring these to class. Completed course notes will be posted on Blackboard after each lecture. Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

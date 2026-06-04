@@ -1,0 +1,224 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE4011-21281-7520",
+  "scraped_at": "2026-06-04T01:32:32.791141+00:00",
+  "course_code": "CSSE4011",
+  "class_code": "21281",
+  "semester_code": "7520",
+  "full_course_code": "CSSE4011-21281-7520",
+  "course_title": "Advanced Embedded Systems",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Advanced topics in Embedded System, including wireless networks and wireless sensor networks.\n\nThe course provides a review of the theory and applications of advanced embedded systems and wireless sensor network applications. It also provides an opportunity to undertake a substantial group project in embedded systemﾠdevelopment.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE3010"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "CSSE4003",
+      "CSSE7005",
+      "CSSE7411"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Matthew D'Souza",
+      "email": "CSSE4011@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Matthew D'Souza"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Michael Bruenig"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The course aims to provide students with a theoretical understanding of the fundamentals of advanced embedded systems and Wireless Sensor Networks (WSN), and experience with programming advanced embedded systems/WSN systems in a major group project.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain and apply the fundamental background science and engineering behind advanced embedded systems."
+    },
+    {
+      "number": "LO2.",
+      "description": "Apply advanced concepts of peripheral interfacing and communication protocols."
+    },
+    {
+      "number": "LO3.",
+      "description": "Build embedded systems that utilise wireless communication networks."
+    },
+    {
+      "number": "LO4.",
+      "description": "Create and execute a project plan for a complex embedded systems design."
+    },
+    {
+      "number": "LO5.",
+      "description": "Work successfully as part of a team."
+    },
+    {
+      "number": "LO6.",
+      "description": "Propose and analyse advanced embedded system design solutions using effective written and oral communication techniques."
+    },
+    {
+      "number": "LO7.",
+      "description": "Demonstrate realtime operating system concepts used in advanced embedded systems."
+    },
+    {
+      "number": "LO8.",
+      "description": "Use advanced hardware design principles for implementing embedded systems."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Practical/ Demonstration",
+      "title": "Laboratory Practicals",
+      "weight": "50% Prac 1 is worth 10%. Prac 2 and 3 are each worth 20%.",
+      "due_date": "Practical 1 17/03/2025 1:00 pm; Practical 2 7/04/2025 1:00 pm; Practical 3 6/05/2025 1:00 pm; All stated dates and times are AEST",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Practical/ Demonstration, Project",
+      "title": "Project Milestone",
+      "weight": "10%",
+      "due_date": "15/05/2025 - 16/05/2025; The milestone presentation must be given by all group members in the assigned timeslot during the lab session. Before the presentation, all presentation slides must be uploaded to BB, and the code and wiki must be committed to the git repository.",
+      "conditions": [
+        "Identity Verified",
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Practical/ Demonstration, Poster, Project",
+      "title": "Project Submission",
+      "weight": "40%",
+      "due_date": "29/05/2025 - 30/05/2025; All stated dates and times are AEST",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "Team or group-based",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Laboratory Practicals",
+      "mode": "Activity/ Performance",
+      "category": "Computer Code, Practical/ Demonstration",
+      "weight": "50% Prac 1 is worth 10%. Prac 2 and 3 are each worth 20%.",
+      "due_date": "Practical 1 17/03/2025 1:00 pm Practical 2 7/04/2025 1:00 pm Practical 3 6/05/2025 1:00 pm All stated dates and times are AEST",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L06, L07, L08",
+      "task_description": "There are three practicals (prac). Practicals will be done in groups of 3 with designated tasks for each group member. A group has partner A, partner B, and partner C . Each practical consists of a demonstration and code repository submission. Prac work will involve individual tasks for each partner. The lab sessions are designed to build up the necessary knowledge and skills and develop software modules. The work in pracs takes you from the basic functionality of software modules to advanced features. All assessment tasks evaluate students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses (e.g. generate code) is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Students may only use AI code libraries in completing an assessment task when directed to by the instructor (teaching staff) and only with the AI tools and libraries approved by the instructor. Students must clearly reference any use of AI (libraries and tools) in each instance. Read full task description Hide full task description",
+      "submission_guidelines": "Practical code must be submitted to the specified code repository by the due date using git push. Code submissions made with only git commit will not be accepted. The practical must be demonstrated during your assigned lab session.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nIf you have an approved extension, you must post a private note on the ED Discussion Board using the EXTENSION tag when your code has been uploaded to your repository. A staff member will respond to your note to state when your demo will be assessed.\nIf an extension has been granted for a group member, then the same extension duration may be applied to the whole group, depending on the circumstance. An affected group is required to check with the coordinator.\nThis course uses a progressive assessment approach, where feedback will be released to students within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou must post a private note on the ED Discussion Board, using the LATE tag, when your code has been uploaded to your repository. A staff member will respond to your note to state when your demo will be assessed. You will be expected to demo with your group.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "There are three practicals (prac). Practicals will be done in groups of 3 with designated tasks for each group member. A group has partner A, partner B, and partner C . Each practical consists of a demonstration and code repository submission. Prac work will involve individual tasks for each partner. The lab sessions are designed to build up the necessary knowledge and skills and develop software modules. The work in pracs takes you from the basic functionality of software modules to advanced features. All assessment tasks evaluate students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses (e.g. generate code) is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Students may only use AI code libraries in completing an assessment task when directed to by the instructor (teaching staff) and only with the AI tools and libraries approved by the instructor. Students must clearly reference any use of AI (libraries and tools) in each instance. Read full task description Hide full task description\nAll assessment tasks evaluate students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses (e.g. generate code) is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.\nStudents may only use AI code libraries in completing an assessment task when directed to by the instructor (teaching staff) and only with the AI tools and libraries approved by the instructor. Students must clearly reference any use of AI (libraries and tools) in each instance.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Project Milestone",
+      "mode": "Oral, Product/ Artefact/ Multimedia",
+      "category": "Computer Code, Practical/ Demonstration, Project",
+      "weight": "10%",
+      "due_date": "15/05/2025 - 16/05/2025 The milestone presentation must be given by all group members in the assigned timeslot during the lab session. Before the presentation, all presentation slides must be uploaded to BB, and the code and wiki must be committed to the git repository.",
+      "learning_outcomes_assessed": "L01, L02, L04, L05, L06",
+      "task_description": "The project proposal and progress will be assessed in the project milestone. The project milestone is assessed as an oral presentation that must involve all group members. The current project progress will be assessed in the lab session. All assessment tasks evaluate students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses (e.g. generate code) is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Students may only use AI code libraries in completing an assessment task when directed to by the instructor (teaching staff) and only with the AI tools and libraries approved by the instructor. Students must clearly reference any use of AI (libraries and tools) in each instance. Read full task description Hide full task description",
+      "submission_guidelines": "Milestone code and the wiki must be submitted to the specified code repository by the due date using git push. Code submissions made with only git commit will not be accepted. The milestone presentation slides must also be uploaded to BlackBoard. The milestone presentation must be given by all group members in the assigned time slot during the lab session.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nIf there is a situation that affects multiple members of the group and the oral presentation cannot be given by all group members, then an extension may be granted. The affected group must consult with the course coordinator before the group's assigned presentation time slot during the lab session.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "The project proposal and progress will be assessed in the project milestone. The project milestone is assessed as an oral presentation that must involve all group members. The current project progress will be assessed in the lab session. All assessment tasks evaluate students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses (e.g. generate code) is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Students may only use AI code libraries in completing an assessment task when directed to by the instructor (teaching staff) and only with the AI tools and libraries approved by the instructor. Students must clearly reference any use of AI (libraries and tools) in each instance. Read full task description Hide full task description\nAll assessment tasks evaluate students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses (e.g. generate code) is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.\nStudents may only use AI code libraries in completing an assessment task when directed to by the instructor (teaching staff) and only with the AI tools and libraries approved by the instructor. Students must clearly reference any use of AI (libraries and tools) in each instance.",
+      "special_indicators": [
+        "Identity Verified",
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Project Submission",
+      "mode": "Oral, Product/ Artefact/ Multimedia",
+      "category": "Computer Code, Practical/ Demonstration, Poster, Project",
+      "weight": "40%",
+      "due_date": "29/05/2025 - 30/05/2025 All stated dates and times are AEST",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "The project is done in a group and demonstrated during the lab session in week 13. The project will involve implementing an embedded system for a real-world application that involves: Using a real-time operating system Sensor/peripheral integration Advanced networking features (e.g. Bluetooth, MQTT) sensor data fusion techniques or embedded machine learning Integrated software and hardware design approaches Peer Assessment A peer assessment factor is applied to the final project mark of each group member. The default Peer Assessment Factor (PAF), which will moderate the final project mark, will be 1.0. If any members of the group wish to change this distribution, a moderation meeting will be required with the teaching staff. Students must indicate this intention by email to the course coordinator by 4pm Friday 30 May 2025. A moderation meeting will require the attendance of all members and a brief presentation with the best evidence of their contribution to the project. Every opportunity will be given to the group to derive an acceptable distribution of PAFs. If no resolution within the meeting is possible, teaching staff will allocate PAFs based on the material presented, history of performance, staff feedback, and marked project demo. A PAF of one indicates that you are making a satisfactory/expected contribution to the group. A PAF less than one indicates your contribution is less than expected. A PAF greater than one indicates you are contributing more than expected. Your overall PAF will determine a Project Scaling Factor (PSF) as follows: PSF = PAF if your PAF is <= 1 and PSF = (1+PAF)/2 if your PAF is > 1 Your final project mark will be scaled (multiplied) by this PSF (and capped at the maximum possible project mark where applicable). All assessment tasks evaluate students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses (e.g. generate code) is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Students may only use AI code libraries in completing an assessment task when directed to by the instructor (teaching staff) and only with the AI tools and libraries approved by the instructor. Students must clearly reference any use of AI (libraries and tools) in each instance. Read full task description Hide full task description",
+      "submission_guidelines": "The project code and the wiki must be submitted to the specified code repository by the due date using git push. Code submissions made with only git commit will not be accepted. The project poster must also be uploaded to BlackBoard. The group demonstration must be given in an assigned time slot during the lab session.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nIf there is a situation that affects multiple members of the group and the demonstration cannot be given by all group members, then an extension may be granted. The group must consult with the course coordinator before the group's assigned demonstration time slot during the lab session.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "The project is done in a group and demonstrated during the lab session in week 13. The project will involve implementing an embedded system for a real-world application that involves: Using a real-time operating system Sensor/peripheral integration Advanced networking features (e.g. Bluetooth, MQTT) sensor data fusion techniques or embedded machine learning Integrated software and hardware design approaches Peer Assessment A peer assessment factor is applied to the final project mark of each group member. The default Peer Assessment Factor (PAF), which will moderate the final project mark, will be 1.0. If any members of the group wish to change this distribution, a moderation meeting will be required with the teaching staff. Students must indicate this intention by email to the course coordinator by 4pm Friday 30 May 2025. A moderation meeting will require the attendance of all members and a brief presentation with the best evidence of their contribution to the project. Every opportunity will be given to the group to derive an acceptable distribution of PAFs. If no resolution within the meeting is possible, teaching staff will allocate PAFs based on the material presented, history of performance, staff feedback, and marked project demo. A PAF of one indicates that you are making a satisfactory/expected contribution to the group. A PAF less than one indicates your contribution is less than expected. A PAF greater than one indicates you are contributing more than expected. Your overall PAF will determine a Project Scaling Factor (PSF) as follows: PSF = PAF if your PAF is <= 1 and PSF = (1+PAF)/2 if your PAF is > 1 Your final project mark will be scaled (multiplied) by this PSF (and capped at the maximum possible project mark where applicable). All assessment tasks evaluate students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses (e.g. generate code) is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Students may only use AI code libraries in completing an assessment task when directed to by the instructor (teaching staff) and only with the AI tools and libraries approved by the instructor. Students must clearly reference any use of AI (libraries and tools) in each instance. Read full task description Hide full task description\nAll assessment tasks evaluate students' abilities, skills, and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI technologies to develop responses (e.g. generate code) is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.\nStudents may only use AI code libraries in completing an assessment task when directed to by the instructor (teaching staff) and only with the AI tools and libraries approved by the instructor. Students must clearly reference any use of AI (libraries and tools) in each instance.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "Team or group-based",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 12 (24 Feb - 25 May)",
+      "activity_type": "Lecture",
+      "topic": "Weekly Lectures Weekly Lectures cover the theoretical background to the course. The lectures are aligned as much as possible with laboratory experiments and the project. The schedule of lectures and the topics is available on this course Blackboard site. Learning outcomes: L01, L02, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 9 (24 Feb - 04 May)",
+      "activity_type": "Practical",
+      "topic": "Lab Sessions Weekly laboratory development and consultation sessions with tasks specified according to the Practical specifications. Learning outcomes: L01, L02, L03, L04, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 10 To Week 13 (05 May - 01 Jun)",
+      "activity_type": "Practical",
+      "topic": "Project Students will work in groups to undertake the development of a significant embedded systems application. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

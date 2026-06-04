@@ -1,0 +1,240 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/METR3100-21329-7520",
+  "scraped_at": "2026-06-04T01:47:44.157190+00:00",
+  "course_code": "METR3100",
+  "class_code": "21329",
+  "semester_code": "7520",
+  "full_course_code": "METR3100-21329-7520",
+  "course_title": "Control System Implementation",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "METR3100 introduces students to engineering frameworks that support the design and implementation of safe, robust control systems. Students are shown how to identify and mitigate against hazards using a system theoretic approach to managing risk. The course also explores the operating principles of sensing, logic, and actuation subsystems that comprise an overall control system.\n\nMETR3100 introduces engineering processes used in the implementation of industrial control systems. These frameworks provide a robust design methodology for delivering control system implementations commensurate with design specification.\n\nThis course is for students who already have some experience with and understanding of mechatronic systems. The course aims to build on this experience by focusing on the considerations needed at the design and implementation stages of industrial control systems.",
+  "requirements": {
+    "prerequisites": [
+      "We recommend completing the following courses before enrolling in this one:",
+      "ENGG1300"
+    ],
+    "companions": [
+      "We recommend completing the following courses at the same time:",
+      "ELEC2003",
+      "ELEC2004"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Tyson Phillips",
+      "email": "t.phillips1@uq.edu.au",
+      "phone": "+61 7 3365 3587",
+      "notes": "Please email Dr Phillips to arrange a consultation."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Tyson Phillips",
+      "email": "t.phillips1@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Kevin Austin",
+      "email": "kevin.austin@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr T. Thang Vo-Doan",
+      "email": "t.vodoan@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease sign on for one tutorial session and one practical session.",
+  "course_aims": "This course will introduce you to the formalisms, tools, and methodologies that provide for the design and implementation of reliable and inherently safe control systems. At the completion of this course, students will be able to: (i) understand the underlying principles and limitations of sensors, logic systems, and actuators, in order to inform design, implementation, and verification of control systems; and (ii) apply system theoretic approaches to identify and mitigate potential failure mechanisms.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Apply risk-based engineering frameworks to design and implement control systems."
+    },
+    {
+      "number": "LO2.",
+      "description": "Apply systems-based engineering frameworks to design and implement control systems."
+    },
+    {
+      "number": "LO3.",
+      "description": "Design and implement control system sensing elements."
+    },
+    {
+      "number": "LO4.",
+      "description": "Design and implement control system decision making elements."
+    },
+    {
+      "number": "LO5.",
+      "description": "Design and implement control system actuation elements."
+    },
+    {
+      "number": "LO6.",
+      "description": "Work within an engineering team towards the design and implementation of control systems."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Practical/ Demonstration, Tutorial/ Problem Set",
+      "title": "Five Laboratory Practicals with Pre-work",
+      "weight": "30%",
+      "due_date": "Pre-work 1 & Practical 1 31/03/2025 1:00 pm; Pre-work 2 & Practical 2 14/04/2025 1:00 pm; Pre-work 3 & Practical 3 28/04/2025 1:00 pm; Pre-work 4 & Practical 4 12/05/2025 1:00 pm; Pre-work 5 & Practical 5 19/05/2025 1:00 pm",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Engineering Framework Report",
+      "weight": "20%",
+      "due_date": "6/05/2025 1:00 pm",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Actuator Assignment",
+      "weight": "10%",
+      "due_date": "26/05/2025 1:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025; Please refer to your personal exam timetable on my.UQ.",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Five Laboratory Practicals with Pre-work",
+      "mode": "Activity/ Performance, Written",
+      "category": "Practical/ Demonstration, Tutorial/ Problem Set",
+      "weight": "30%",
+      "due_date": "Pre-work 1 & Practical 1 31/03/2025 1:00 pm Pre-work 2 & Practical 2 14/04/2025 1:00 pm Pre-work 3 & Practical 3 28/04/2025 1:00 pm Pre-work 4 & Practical 4 12/05/2025 1:00 pm Pre-work 5 & Practical 5 19/05/2025 1:00 pm",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L03, L04, L05",
+      "task_description": "This course has a set of five (5) laboratory practical sessions where students will put Learning Outcomes into practice. The total of this assessment sequence is 30%. Which comprises of 4% for each of the 5 pre-works and a 10% component calculated from the best 4 out of 5 practical marks. Each practical includes a pre-work component to ensure that students are familiar with the experiments/equipment on arrival. The assessments are scheduled to allow adequate time for students to receive and incorporate feedback on the pre-work prior to attending the practical session. The five practicals are as follows: Prac 1: Strain Gauges Prac 2: LiDAR Perception Prac 3: GNSS Sensors Prac 4: Bio-inspired Control Systems Prac 5: PLC Sequencing Prac 1, 2, 4, and 5 are in room #50-C403. This room has 6 work stations at which students will work in small groups of 2-4 to complete the prac. Prac 3 requires line of sight to the sky and will be conducted in the courtyard behind the Andrew N. Liveris Building (#46). Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria. Read full task description Hide full task description",
+      "submission_guidelines": "Pre-work is to be submitted using the TurnItIn link on Blackboard.\nPracticals will be assessed by a member of the teaching team at the practical session.\nDeferral or extension\nYou may be able to apply for an extension .\nMaximum extension length is 3 calendar days as, pre-work must be completed prior to scheduled practical class.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This course has a set of five (5) laboratory practical sessions where students will put Learning Outcomes into practice. The total of this assessment sequence is 30%. Which comprises of 4% for each of the 5 pre-works and a 10% component calculated from the best 4 out of 5 practical marks. Each practical includes a pre-work component to ensure that students are familiar with the experiments/equipment on arrival. The assessments are scheduled to allow adequate time for students to receive and incorporate feedback on the pre-work prior to attending the practical session. The five practicals are as follows: Prac 1: Strain Gauges Prac 2: LiDAR Perception Prac 3: GNSS Sensors Prac 4: Bio-inspired Control Systems Prac 5: PLC Sequencing Prac 1, 2, 4, and 5 are in room #50-C403. This room has 6 work stations at which students will work in small groups of 2-4 to complete the prac. Prac 3 requires line of sight to the sky and will be conducted in the courtyard behind the Andrew N. Liveris Building (#46). Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Engineering Framework Report",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "6/05/2025 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L06",
+      "task_description": "Students will apply a system theoretic process analysis (STPA) towards the identification of loss scenarios in a described control system. Students will then use the ideas contained within the functional safety framework to design a safety system that reduces an identified hazard’s risk to a tolerable level. The grading criteria of this assessment item will be focused towards the application of engineering frameworks for the identification of hazards and the reduction of risk that hazards impose. The criteria will not focus on the elegance or detail of the proposed system. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria Read full task description Hide full task description",
+      "submission_guidelines": "This assignment will be submitted through TurnItIn via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nTo facilitate timely feedback to students.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Students will apply a system theoretic process analysis (STPA) towards the identification of loss scenarios in a described control system. Students will then use the ideas contained within the functional safety framework to design a safety system that reduces an identified hazard’s risk to a tolerable level. The grading criteria of this assessment item will be focused towards the application of engineering frameworks for the identification of hazards and the reduction of risk that hazards impose. The criteria will not focus on the elegance or detail of the proposed system. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Actuator Assignment",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "10%",
+      "due_date": "26/05/2025 1:00 pm",
+      "learning_outcomes_assessed": "L05",
+      "task_description": "The actuators module is the final module of the course. It does not have an associated practical or report attached to it. This assessment item will consist of 'tutorial-like' questions that relate to the modelling of AC and DC motors. This assessment item serves as a way to provide students with feedback against the actuator Learning Objectives prior to the Final Examination. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria Read full task description Hide full task description",
+      "submission_guidelines": "The assignments will be submitted through TurnItIn via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFeedback will be provided to students within 15-21 days of the assessment item's due date.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The actuators module is the final module of the course. It does not have an associated practical or report attached to it. This assessment item will consist of 'tutorial-like' questions that relate to the modelling of AC and DC motors. This assessment item serves as a way to provide students with feedback against the actuator Learning Objectives prior to the Final Examination. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025 Please refer to your personal exam timetable on my.UQ.",
+      "learning_outcomes_assessed": "L01, L03, L04, L05",
+      "task_description": "The examination covers the contents learnt in both classroom teaching and practicals. Students will have received feedback for all examinable Learning Objectives prior to the Final Exam. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Each week will include two 1 hour lectures. Lectures will be recorded via ECHO360 which will be accessible from Blackboard. Lectures will introduce material to the class. These ideas will be reinforced through the weekly tutorial and contact sessions. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (03 Mar - 01 Jun)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorials There are six tutorial sheets that we will work through over the semester (1A, 1B, 2A, 2B, 3, 4). The solutions to these tutorials will be provided after you have had a chance to complete them. The questions are designed to provide an opportunity for students to test their understanding of the course content and ask questions where gaps may appear. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (03 Mar - 01 Jun)",
+      "activity_type": "Workshop",
+      "topic": "Contact We will have a 1 hour contact session in Weeks 2-13. These sessions are an opportunity for students to ask for additional help/explanation on any of the course content. These sessions will often be used to discuss the assessment items that are approaching. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 6 To Week 13 (31 Mar - 01 Jun)",
+      "activity_type": "Practical",
+      "topic": "Practicals Students will complete five practical sessions. The practical sessions allow students to see theoretical content in practice. Please see the Sequenced assessment item for further information about the practical content. Learning outcomes: L02, L03, L04, L06",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

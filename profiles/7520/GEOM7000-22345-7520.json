@@ -1,0 +1,420 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/GEOM7000-22345-7520",
+  "scraped_at": "2026-06-04T01:41:32.747014+00:00",
+  "course_code": "GEOM7000",
+  "class_code": "22345",
+  "semester_code": "7520",
+  "full_course_code": "GEOM7000-22345-7520",
+  "course_title": "Introduction to Earth Observation Sciences (EOS)",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "External",
+  "attendance_mode": "Online",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "The Environment School",
+  "course_description": "Remote sensing or earth observation, is one of the most important and widely applied methods for measuring, monitoring and understanding the atmospheric, terrestrial and aquatic environments of the earth (and other planets). Information extracted from images may be used in many ways, e.g., as a basis for mapping and monitoring changes to features (vegetation communities, land use type, soil types, mineral outcrops), biophysical properties (biomass of forest, crop yields, ozone concentration, soil moisture, building height) and for integration in geographic information systems (GIS) with other spatial data to support monitoring and management of natural and built environments. Remote sensing is taught in a number of courses at the University of Queensland and GEOM2000/7000 is the fundamental course. GEOM3001/7001 provides more advanced image processing skills, while various 3###/7### levels Special Topics presents a project based study in Biophysical Remote Sensing of a specific environment. GEOS3102 explains how remote sensing is used to measure global scale environmental changes.ﾠ The skills learnt in remote sensing also form essential tools for use in higher level physical geography, ecology, human and physical geography, archaeology and earth science courses, including geomorphology, hydrology, climatology, oceanography and geophysics. The content objective of the course is to understand: (1) how remotely sensed images are acquired; and (2) the biological, physical and chemical factors determining the appearance of natural and built environmental features in images. The process objective develops skills enabling you to solve an environmental science, monitoring, planning or management problem by selecting an appropriate remotely sensed data set and applying the relevant image processing, interpretation and analysis techniques to detect and measure the composition of the environment and its biophysical properties.",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "GEOM2000",
+      "GEOS2301"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Stuart Phinn",
+      "email": "s.phinn@uq.edu.au",
+      "phone": "+61 7 3365 6526",
+      "notes": "Please email to arrange a consultation time - s.phinn@uq.edu.auﾠ"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Stuart Phinn",
+      "email": "s.phinn@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr William Woodgate",
+      "email": "w.woodgate@uq.edu.au"
+    },
+    {
+      "role": "Demonstrator",
+      "name": "Ms Gillian Rowan",
+      "email": "g.rowan@uq.edu.au"
+    },
+    {
+      "role": "Demonstrator",
+      "name": "Dr Avik Nandy",
+      "email": "a.nandy@uq.edu.au"
+    },
+    {
+      "role": "Demonstrator",
+      "name": "Mrs Joanna Smart",
+      "email": "joanna.smart@uq.edu.au"
+    },
+    {
+      "role": "Demonstrator",
+      "name": "Mr Muhammad Hafizt",
+      "email": "m.hafizt@uq.edu.au"
+    },
+    {
+      "role": "Demonstrator",
+      "name": "Mr Raja Ram Aryal",
+      "email": "r.aryal@uq.edu.au"
+    },
+    {
+      "role": "Demonstrator",
+      "name": "Mr Ilyas Nursamsi",
+      "email": "i.nursamsi@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nFor internal students and local external students, a single day field trip will be run in Week 3 of the course, based on the St Lucia campus, on either Wed, Thurs or Fri.\nFor external students only - there is a virtual/remote version of the field-day.\nInternal Students are required to sign-on for one of the three days through links provided in Week 1 of classes.\nThere are no additional costs for this field trip.",
+  "course_aims": "The content objectives of the course are to understand: (1) how remotely sensed images are acquired from satellites and aircraft ; and (2) how remotely sensed images can be used to map and monitor the biological and physical and properties of the earth's environments and human activities ocurring within them.\n\nThe process objective develops skills that would enable you to address an environmental monitoring problem by selecting an appropriate remotely sensed data set and applying the relevant image analysis and interpretation techniques.\n\nThe objectives of the course are achieved through (1) understanding of the lecture content and related reading material, (2) active participation in a field trip, (3) development of practical image analysis and processing skills in exercises, and (4) synthesis of and reflection on achieved knowledge in compilation of assignments and an exam or a remote sensing application review.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain how electromagnetic radiation is transferred through the atmosphere and interacts with atmospheric, oceanic, vegetation and terrestrial features."
+    },
+    {
+      "number": "LO2.",
+      "description": "Identify the types of information able to be extracted from remotely sensed data on an environment(composition, configuration, biophysical and dynamics) and the methods used to do this in qualitative and quantitative forms."
+    },
+    {
+      "number": "LO3.",
+      "description": "Plan, obtain, analyse and link field measurements with remotely sensed images at different spatial scales to produce maps of land cover and biophysical parameters."
+    },
+    {
+      "number": "LO4.",
+      "description": "Understand the concepts of spatial, spectral, radiometric and temporal resolutions of remotely sensed data and how these concepts relate to remote sensing applications in different environments."
+    },
+    {
+      "number": "LO5.",
+      "description": "Identify the range of commercially available airborne and satellite remotely sensed data sets, their geometric and radiometric properties, their limitations and how to acquire them."
+    },
+    {
+      "number": "LO6.",
+      "description": "Identify, explain and apply the fundamental image interpretation elements (e.g., tone, texture, size, shape, pattern, site and association."
+    },
+    {
+      "number": "LO7.",
+      "description": "Apply basic image pre-processing operations to produce image data sets that can be integrated with other forms of digital spatial data."
+    },
+    {
+      "number": "LO8.",
+      "description": "Interpret images provided by optical (cameras, broad-band, hyperspectral and thermal) and active (imaging radar) sensors and explain the steps used to convert an image into a thematic map (e.g.land-cover) or quantitative map (e.g. water depth)."
+    },
+    {
+      "number": "LO9.",
+      "description": "Describe how remotely sensed data are applied in commercial, public-sector and research applications."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Practical 1 - Linking Field to Earth Observation Data",
+      "weight": "30%",
+      "due_date": "8/04/2025 2:00 pm"
+    },
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Practical 2 - Image Processing: Images to Information",
+      "weight": "30%",
+      "due_date": "13/05/2025 2:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Workshop 1 and 2 - Engagement Exercises: (1) Controversy in Land/Vegetation Clearing estimates and (2) Communication of an EO solution to an application/problem",
+      "weight": "10%",
+      "due_date": "23/05/2025 2:00 pm"
+    },
+    {
+      "category": "Presentation",
+      "title": "Project Brief: Why Use Earth Observation for [insert your selected topic]",
+      "weight": "30%",
+      "due_date": "29/05/2025 2:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Practical 1 - Linking Field to Earth Observation Data",
+      "mode": "Written",
+      "category": "Practical/ Demonstration",
+      "weight": "30%",
+      "due_date": "8/04/2025 2:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L04, L06, L07, L08",
+      "task_description": "The objectives of this assessment are to: (1) To build core skills for interpreting and analyzing remotely sensed images and geospatial data derived from them, by understanding how the physical, biological and chemical properties of the atmosphere, water bodies, vegetation and soils, are measured by remote sensing instruments. (2) To understand how the attributes or dimensions (spatial, spectral, radiometric and temporal) of an airborne or satellite imaging system control the environmental information measured in an airborne or satellite image data set. Both of these objectives will be addressed using the data sets collected in the practical field day exercise from week 4. Internal students - You will be applying geospatial and remote sensing processing techniques learnt in weeks 1-4 to the data sets you collected on the field practical day. External students - You will be applying geospatial and remote sensing processing techniques learnt in weeks 1-4, and the virtual field trip, to a field practical data set provided to you and able to be accessed from the course Blackboard site. Read full task description Hide full task description",
+      "submission_guidelines": "Turnitin Link on Blackboard page\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional assessment information section further below for information relating to extension and deferral applications.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Practical 2 - Image Processing: Images to Information",
+      "mode": "Written",
+      "category": "Practical/ Demonstration",
+      "weight": "30%",
+      "due_date": "13/05/2025 2:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L04, L05, L06, L07",
+      "task_description": "The objectives of this assessment are to: 1) Develop basic image display and analysis skills using ENVI, an industry standard image processing system; 2) Apply a geometric correction procedure to register an uncorrected satellite image to a corrected satellite image for the same area; 3) Develop and apply measures to assess how well your geometric correction worked; 4) Develop and apply a supervised classification process to map land-cover types in a satellite image ; and 5) Develop and apply measures to assess how well your image classification worked. You are required to prepare and submit a report that includes: an outline of the procedures you applied; images, maps and graphics showing and explaining the results; short format (supported by appropriate literature) answers to a number of questions. Read full task description Hide full task description",
+      "submission_guidelines": "Turnitin Link on Blackboard page\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional assessment information section further below for information relating to extension and deferral applications.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Workshop 1 and 2 - Engagement Exercises: (1) Controversy in Land/Vegetation Clearing estimates and (2) Communication of an EO solution to an application/problem",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "10%",
+      "due_date": "23/05/2025 2:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L02, L03, L05, L09",
+      "task_description": "A document containing responses to two sets of summary questions to be answered after participation in and completion of workshops (1) and (2) . Workshop 1- This workshop provides experience in critically assessing two large public remote sensing projects in Australia to understand the differences in data sets, processing methods and outputs. By doing so students gain an understanding of how to select appropriate data and algorithms and how to apply them to deliver scientifically and legally justifiable data and information. Workshop 2- This workshop provides the essential briefing and materials required for you to complete the final piece of assessment in the course, \"The Project Brief.\" It also provides you with an opportunity to develop and obtain feedback on the material you will use for the \"The Project Brief.\" Read full task description Hide full task description",
+      "submission_guidelines": "Submit via Turnitin on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional assessment information section further below for information relating to extension and deferral applications.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Project Brief: Why Use Earth Observation for [insert your selected topic]",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Presentation",
+      "weight": "30%",
+      "due_date": "29/05/2025 2:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L02, L03, L04, L05, L09",
+      "task_description": "The aim of this task is to integrate the practical skills and knowledge of earth observation you have developed in the course this assessment item requires you to prepare a recorded presentation providing a 5-minute long \"project briefing\" video. You have to produce a \"Briefing Video\" to outline to an audience from the general public, how earth-observation/remote-sensing can be used to provide the information required to address an environmental, infrastructure, community, or socio-economic monitoring problem that you select based on your interests. Your aim is to use the brief to convince the reader that, you : - are addressing a real problem for industry, government or community; - can demonstrate from previous published, scientific literature, that earth-observation can be used to address the problem; - have selected the most suitable type of earth observation data; - will apply a sequence of image processing operations that will deliver accurate, verifiable and use-able information; and - can explain the limitations of the data and methods used. All instructions for completing and submitting this assessment item, including an example presentation, are on the course Blackboard site in the \"Assessment\" folder, in the \"Project Brief Presentation\" folder. Media to Use: Your recording can be compiled using Powerpoint, Prezzi, or any other software. The presentation will need to be based on material covered during the semester, along with significant amount of background research in peer-reviewed remote sensing literature. The presentation will need to be based primarily on relevant graphic (images, maps, graphs, photos, diagrams), with limited use of detailed text, e.g. less than 30% of each slide. Read full task description Hide full task description",
+      "submission_guidelines": "Use Submission link provided in Assessment Section of course Blackboard Page.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional assessment information section further below for information relating to extension and deferral applications.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (24 Feb - 02 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Introduction to Earth Observation and Our Course Introduction to Earth Observation and Our Course - In person lecture and discussion for internal students, live for external students ONLY Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 1 (24 Feb - 02 Mar)",
+      "activity_type": "Practical",
+      "topic": "Practical - Introduction to Geospatial Data and Analysis and Earth Observation Practical - Introduction to Geospatial Data and Analysis and Earth Observation Learning outcomes: L02, L04",
+      "learning_outcomes": [
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (03 Mar - 09 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Fundamentals of Earth Observation: 1. EMR (Electro-Magnetic-Radiation) fundamentals Fundamentals of Earth Observation: 1. EMR (Electro-Magnetic-Radiation)fundamentals - recorded Learning outcomes: L01, L02, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (03 Mar - 09 Mar)",
+      "activity_type": "Practical",
+      "topic": "Practical - Introduction to EO Image and Geospatial data/digital Essentials for Field Practical and Assessment Practical - Introduction to EO Image and Geospatial data/digital Essentials for Field Practical and Assessment Learning outcomes: L01, L02, L04, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (17 Mar - 23 Mar)",
+      "activity_type": "Fieldwork",
+      "topic": "Earth Observation Field Practical Day Compulsory Field Practical Day - on St Lucia campus for internal students Generates data, knowledge and experience required to complete Practical 1. See Blackboard for dates. We recognize some of you have work and class commitments that clash, details will be provided in weeks 1and 2 of alternative arrangements. External students - will complete a \"Virtual Field Practical Day\" and receive data related to this for use in Practical 1. Learning outcomes: L02, L03, L04, L08",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (17 Mar - 23 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Fundamentals of Earth Observation: 2. Remote Sensing Sensors and Platforms Fundamentals of Earth Observation: 2. Remote Sensing Sensors and Platforms - In person lecture and discussion for internal students, live for external students ONLY Learning outcomes: L02, L04, L05, L08",
+      "learning_outcomes": [
+        "L02",
+        "L04",
+        "L05",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (24 Mar - 30 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Earth Observation Images to Information: 1) Earth Observation Processing Sequence, and 2) Analysis Ready (Earth Observation) Data Earth Observation Images to Information: 1) Earth Observation Processing Sequence, and 2) Analysis Ready (Earth Observation) Data - In person lecture and discussion for internal students, live for external students ONLY Learning outcomes: L02, L04, L05, L07",
+      "learning_outcomes": [
+        "L02",
+        "L04",
+        "L05",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (24 Mar - 30 Mar)",
+      "activity_type": "Practical",
+      "topic": "Practical 1 - Linking field to EO data – How to collect and process EO data (2 hrs F2F + online) Practical 1 - Linking field to EO data – How to collect and process EO data (2 hrs F2F + online) Learning outcomes: L01, L02, L04, L06, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L06",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (31 Mar - 06 Apr)",
+      "activity_type": "Practical",
+      "topic": "Revision Practical 1 - Linking field to EO data – How to collect and process EO data (2 hrs F2F + online ) Revision Practical 1 - Linking field to EO data –: How to collect and process EO data (2 hrs F2F + online ) Learning outcomes: L01, L02, L04, L06, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L06",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (07 Apr - 13 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Earth Observation Processing: Accuracy and error assessment? Earth Observation Processing: Accuracy and error assessment? - recorded Learning outcomes: L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (14 Apr - 20 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Earth Observation Processing: Data Selection/Evaluation, and Processing and Analysis Software Options Earth Observation Processing: Data Selection/Evaluation, and Processing and Analysis Software Options - recorded Learning outcomes: L02, L03, L05, L08, L09",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (14 Apr - 20 Apr)",
+      "activity_type": "Practical",
+      "topic": "Practical 2 - Image Processing Sequence Software, Workflows and Practices (2 hrsF2F + online) Practical 2 - Image Processing Sequence Software, Workflows and Practices (2 hrsF2F + online) Learning outcomes: L02, L03, L04, L06, L07, L08",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break (21 Apr - 27 Apr)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Mid-semester break - No classes Mid-semester break - No classes"
+    },
+    {
+      "learning_period": "Week 9 (28 Apr - 04 May)",
+      "activity_type": "Lecture",
+      "topic": "Biophysical remote sensing fundamentals - atmosphere, vegetation, soils, water, ice…other planets! Biophysical remote sensing fundamentals - atmosphere, vegetation, soils, water, ice…other planets! - In person lecture and discussion for internal students, live for external students ONLY Learning outcomes: L01, L02, L04, L09",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (28 Apr - 04 May)",
+      "activity_type": "Practical",
+      "topic": "Revision Practical 2 - Image Processing Sequence Software, Workflows and Practices (2 hrsF2F) Revision Practical 2 - Image Processing Sequence Software, Workflows and Practices (2 hrsF2F) Learning outcomes: L02, L03, L04, L06, L07, L08",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (05 May - 11 May)",
+      "activity_type": "Lecture",
+      "topic": "Communicating Earth Observation Information - When, Why and How? Communicating Earth Observation Information - When, Why and How? - In person lecture and discussion for internal students, live for external students ONLY Learning outcomes: L02, L03, L05, L09",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (12 May - 18 May)",
+      "activity_type": "Lecture",
+      "topic": "Industry/Government/Community Earth Observation Careers - Including guest speakers and panel Industry/Government/Community Earth Observation Careers - Including guest speakers and panel - In person lecture and discussion for internal students, live for external students ONLY Learning outcomes: L02, L05, L09",
+      "learning_outcomes": [
+        "L02",
+        "L05",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (12 May - 18 May)",
+      "activity_type": "Workshop",
+      "topic": "Workshop 2 - Project Brief Design Workshop Workshop - Project Brief Design Workshop, Communication of an EO solution to an application/problem In person workshop and discussion for internal students, live for external students ONLY Critically assess remote sensing data and image processing used to map or monitor biophysical features or processes (LO4) Describe how remotely sensed data are applied within and across public, private, and other sectors (LO6) Communicate effectively to diverse audiences/stakeholders (LO7) Learning outcomes: L02, L09",
+      "learning_outcomes": [
+        "LO4",
+        "LO6",
+        "LO7",
+        "L02",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (19 May - 25 May)",
+      "activity_type": "Practical",
+      "topic": "Project Brief - Practical Group + Individual Discussions Practical design of EO image collection, correction, processing, analyses, validation and communication workflow, for final assessment item Learning outcomes: L02, L03, L05, L06, L09",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05",
+        "L06",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (26 May - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Earth Observation Futures and Future Study - Careers, Satellites, Sensors, AI, Ethics and anything else! Earth Observation Futures - Careers, Satellites, Sensors, AI, Ethics and anything else! - In person lecture and discussion for internal students, live for external students ONLY Learning outcomes: L02, L05, L09",
+      "learning_outcomes": [
+        "L02",
+        "L05",
+        "L09"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

@@ -1,0 +1,196 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/INFS4205-21305-7520",
+  "scraped_at": "2026-06-04T01:43:34.063683+00:00",
+  "course_code": "INFS4205",
+  "class_code": "21305",
+  "semester_code": "7520",
+  "full_course_code": "INFS4205-21305-7520",
+  "course_title": "Advanced Techniques for High Dimensional Data",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Selected advanced topics from spatial and multimedia databases: multidimensional data management concepts, theories and technologies, focusing on data access methods and similarity query processing for spatial, multimedia and Web-based databases, with particular emphasis on video indexing and search.\n\nThis course explores advanced database topics designed to cultivate critical thinking about techniques for managing large-scale, complex data. Many application domains—such as spatial, multimedia, and scientific fields—often represent data in multidimensional formats. Students will be introduced to the key concepts, theories, and technologies underlying multidimensional data management, with a particular emphasis on data access methods and similarity query processing for spatial and multimedia datasets. Additionally, the course will cover specialized topics, including the application of AI in trajectory analysis.\n\nIn response to feedback from our previous offering, we have redesigned the project assessment to provide greater flexibility in development options. For example, we will demonstrate an AI-assisted full-stack application that uses PostgreSQL as its database, giving students the opportunity to build and deploy a real spatio-temporal web application.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "INFS2200",
+      "INFS7903",
+      "COMP3506",
+      "COMP7505"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "INFS4200",
+      "INFS7200",
+      "INFS7205",
+      "This course is jointly-taught with:"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Yadan Luo",
+      "email": "INFS4205@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Yadan Luo"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Zixin Wang"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course is designed to help students to learn the latest knowledge, gain insightful understanding and develop skills of critical thinking on large-scale complex data management, for effectively and efficiently managing and searching the information of user interest beyond the traditional relational databases. Through in-depth discussions on spatiotemporal and multimedia data, in this course, we will study the theory and techniques of representing complex data objects as multidimensional feature vectors and processing similarity-based queries. These theories and techniques form the foundation of modern data management, which can also find applications in a wide range of areas such as information retrieval, Web search, bioinformatics, data mining and data science.ﾠ",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Identify the applications and features of complex data types, including spatial, spatialtemporal and multimedia data."
+    },
+    {
+      "number": "LO2.",
+      "description": "Understand existing advanced spatial and multimedia processing techniques from database management and machine learning perspectives."
+    },
+    {
+      "number": "LO3.",
+      "description": "Examine the major issues of spatial and multimedia data management systems."
+    },
+    {
+      "number": "LO4.",
+      "description": "Analyze and evaluate existing research methods, creative to identify and define problems, and innovative for their solutions for multimedia database management."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Practical/ Demonstration",
+      "title": "Prac 1 - Implementation",
+      "weight": "5%",
+      "due_date": "28/03/2025 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "In-Semester Exam",
+      "weight": "15%",
+      "due_date": "14/04/2025; This exam will be held in the Lecture timeslot. However, students can access the exam online and are not required to be on campus.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Practical/ Demonstration, Project",
+      "title": "Prac 2 - Project",
+      "weight": "25%",
+      "due_date": "16/05/2025 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Prac 1 - Implementation",
+      "mode": "Activity/ Performance",
+      "category": "Computer Code, Practical/ Demonstration",
+      "weight": "5%",
+      "due_date": "28/03/2025 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "The practical practice consists of one coding task. There will be demonstrations illustrating how to perform indexing and querying in a spatio-temporal database using PostgreSQL. These examples will serve as a guide for students to accomplish the project. Additionally, there will be a specific question that students need to address using SQL scripts. These SQL scripts should be submitted through the Blackboard platform. AI Policy. This task has been designed to be challenging, authentic, and complex. While students may use AI and/or MT technologies, successful completion will require critical engagement in specific contexts and tasks, where AI will provide only limited support and guidance. To pass this assessment, students must demonstrate detailed comprehension of their written submission independent of AI and MT tools. Failure to reference AI or MT use may result in student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Code will be submitted on Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach where feedback and/or detailed solutions will be released to students within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In-Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "15%",
+      "due_date": "14/04/2025 This exam will be held in the Lecture timeslot. However, students can access the exam online and are not required to be on campus.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "It is an Online Quiz (with specified materials permitted) for the knowledge covered by the lectures from week 2 to week7. This exam is held at Lecture time. However, students can access the exam online and are not required to be on campus. AI Policy. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options Any calculator permitted Open/closed book Open Book examination Exam platform Other Invigilation Not invigilated",
+      "submission_guidelines": "In-Semester exam will be submitted on Blackboard\nDeferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "It is an Online Quiz (with specified materials permitted) for the knowledge covered by the lectures from week 2 to week7. This exam is held at Lecture time. However, students can access the exam online and are not required to be on campus. AI Policy. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nAI Policy. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Prac 2 - Project",
+      "mode": "Activity/ Performance, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Practical/ Demonstration, Project",
+      "weight": "25%",
+      "due_date": "16/05/2025 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "Students must execute the prescribed algorithms to address the challenges outlined in the project specifications, which will be made available in Week 6. This project is intended to be completed individually, and each student is expected to provide a 4-page report detailing their implementation efforts. It is crucial for students to independently handle both the design and implementation aspects of the project. While there are no restrictions on the choice of programming languages, Python/SQL will be an integral part of this project. AI Policy. This task has been designed to be challenging, authentic, and complex. While students may use AI and/or MT technologies, successful completion will require critical engagement in specific contexts and tasks, where AI will provide only limited support and guidance. To pass this assessment, students must demonstrate detailed comprehension of their written submission independent of AI and MT tools. Failure to reference AI or MT use may result in student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Projects will be submitted via Turnitin on Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach where feedback and/or detailed solutions will be released to students within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "A centrally controlled on-campus exam will be held. Timing: The final exam will be scheduled at a fixed time for all students – i.e. students will complete the exam simultaneously. AI Policy. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options Any calculator permitted Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "A centrally controlled on-campus exam will be held. Timing: The final exam will be scheduled at a fixed time for all students – i.e. students will complete the exam simultaneously. AI Policy. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nAI Policy. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Weekly Lectures Readings/Ref: Lecture Notes; Other Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Tutorial",
+      "topic": "Contacts Contacts will be only held between Week 2 - Week 13 Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

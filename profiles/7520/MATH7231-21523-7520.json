@@ -1,0 +1,152 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH7231-21523-7520",
+  "scraped_at": "2026-06-04T01:46:44.472405+00:00",
+  "course_code": "MATH7231",
+  "class_code": "21523",
+  "semester_code": "7520",
+  "full_course_code": "MATH7231-21523-7520",
+  "course_title": "Scientific Computing: Advanced Techniques and Applications",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Many modern applications of mathematics are carried out on personal computers or super-computers. This course will introduce students to the theory and advanced applications of scientific computing using Matlab. The first section of the course will focus on Taylor series, Newton method, methods of steepest descent, and solution of ordinary differential equations. In the second half, boundary value problems, finite-difference, interpolation and integration will be introduced.\n\nMany of the most important practical problems in science can only be solved with the aid of computational techniques.\n\nMATH3201 will give you an opportunity to develop a systematic approach to computer-based scientific/engineering studies. The specific learning goals are defined by the description of each weekly program, and by the assessment criteria.\n\nMATH3201 will cover the following topics:\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against ﾠ UQ Policy, ﾠand will not be tolerated. We have developed a ﾠ suite of resources ﾠ to assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH7000",
+      "COSC7500",
+      "MATH7100"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH3201"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Meagan Carney",
+      "email": "m.carney@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Meagan Carney",
+      "email": "m.carney@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Agnese Barbensi",
+      "email": "a.barbensi@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Andrew Mengede"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThere are 3 one-hour lectures and 1 two-hour practical per week for this course. These will be conducted in-person. In the event of campus closure, alternative arrangements will be advised on Blackboard. Important: if you are ill, then do not attend any classes in person. Alternative arrangements can be organised – consult Blackboard for details.",
+  "course_aims": "This course aims to introduce students to numerical analysis and scientific computing by using numerical methods to solve scientific problems using environments such as Matlab.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Frame and solve a scientific problem using the appropriate numerical techniques."
+    },
+    {
+      "number": "LO2.",
+      "description": "Describe the derivation, error analysis, and expected performance of the basic methods in scientific computation."
+    },
+    {
+      "number": "LO3.",
+      "description": "Translate the numerical method into a computer algorithm and code."
+    },
+    {
+      "number": "LO4.",
+      "description": "Model problems with differential equations and obtain and interpret accurate numerical solutions to these problems."
+    },
+    {
+      "number": "LO5.",
+      "description": "Select and implement appropriate methods for solving boundary value problems and partial differential equations."
+    },
+    {
+      "number": "LO6.",
+      "description": "Select and implement appropriate numerical methods of interpolation and integration."
+    },
+    {
+      "number": "LO7.",
+      "description": "Demonstrate written communication skills appropriate for scientific reports."
+    },
+    {
+      "number": "LO8.",
+      "description": "Examine how ideas and techniques from this course are applied in other disciplines"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Problem Set",
+      "weight": "40% equally weighted - 10% each",
+      "due_date": "21/03/2025 5:00 pm; 28/03/2025 5:00 pm; 2/05/2025 5:00 pm; 23/05/2025 5:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Two-hour Invigilated Final Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Problem Set",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "40% equally weighted - 10% each",
+      "due_date": "21/03/2025 5:00 pm 28/03/2025 5:00 pm 2/05/2025 5:00 pm 23/05/2025 5:00 pm",
+      "task_description": "Students will hand in solutions to a number of questions on the theory and applications of numerical methods. Read full task description Hide full task description",
+      "submission_guidelines": "Prepare your assignment as a single pdf file, either by typing it or by scanning your handwritten work. Name your file MATH3201_sxxxxxxx_surname.pdf. Ensure that your name and student number appear on the first page of your submission. Check that your pdf file is legible and that the file size is not excessive (aim for less than 2MB). Files that are poorly scanned and/or illegible may not be marked. Upload your submission using the assignment submission link in Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions will be released on Blackboard 7 days after the submission deadline.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Two-hour Invigilated Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "task_description": "The final examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus. Students will not be asked questions on MATLAB- or Python-specific code, scripts or functions. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten notes , single sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Lecture Series You will complete a 3-times weekly lecture series covering the theory and applications of computational methods introduced in this course."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (03 Mar - 01 Jun)",
+      "activity_type": "Practical",
+      "topic": "Practicals in Numerical Implementation You will complete a weekly practical in addition to the lecture series."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

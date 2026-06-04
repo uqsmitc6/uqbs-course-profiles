@@ -1,0 +1,177 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CIVL3340-21312-7520",
+  "scraped_at": "2026-06-04T01:30:47.069173+00:00",
+  "course_code": "CIVL3340",
+  "class_code": "21312",
+  "semester_code": "7520",
+  "full_course_code": "CIVL3340-21312-7520",
+  "course_title": "Structural Analysis",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Civil Engineering School",
+  "course_description": "In this course, you will learn how to analyse statically-indeterminate structures. Static and kinematic indeterminacy, flexibility and stiffness concepts will be introduced as the basis for the direct stiffness analysis method, used in modern computational structural analysis. Students shall learn the theory underpinning this software and also learn how to practically use such common analysis software for the modelling, design, and checking of advanced structure behaviours.\n\nThis course introduces to the students the concept and techniques of analyzing statically indeterminate structures, including but not limited to, continuous beams and portal frames with uniform or non-uniform cross sections. Structural analysis is essential for achieving a safe, efficient and economical design. The course consists of lectures, tutorials, examples class, contact sessions and individual/group working teaching format (3L + 1T + 1C per week). Attendance of these lectures and tutorials is recommended.ﾠAll lectures and tutorials will be recorded and published on the course Blackboard.ﾠIndividual/group working in contact class will help students consolidate the materials delivered weekly. A revision lecture and Q&A session will be arranged slightly before the final examination.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CIVL2330"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Shujian Chen",
+      "email": "shujian.chen@uq.edu.au",
+      "notes": "Please email Dr. Shujian Chen if you have (a) general inquiries or (b) questions regarding the Direct Stiffness Method. Ensure your email Subject starts with the course code \"CIVL3340\" for a timely response."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Shujian Chen",
+      "email": "shujian.chen@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Johnny Ho",
+      "email": "johnny.ho@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course aims to establish the concepts of structural analysis and to introduce various analysis techniques.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Comprehend and apply the analytical theory for solving statically indeterminate structures including continuous beams and portal frame with uniform or non-uniform section via: (a) Method of consistent deformation; (b) Slope-deflection equations; (c) Moment-distribution method; (d) Column analogy method; (e) Moment redistribution and inelastic design"
+    },
+    {
+      "number": "LO2.",
+      "description": "Understand and apply the computational method for solving statically indeterminate structures via direct stiffness method using stiffness matrix"
+    },
+    {
+      "number": "LO3.",
+      "description": "Appreciate the difference in the analysis and real design of structures. Hence, students shall be able to make reasonable assumptions on structural modelling during analysis, e.g. loading, member sizing and connection fixity."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply the method in (1) or (2) to quickly sketch bending moment diagram and deflected shape of statically indeterminate structures without carrying out any calculation."
+    },
+    {
+      "number": "LO5.",
+      "description": "Understand how to use computer software to analyse statically indeterminate structures."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "End-of-chapter Assignment",
+      "weight": "40%",
+      "due_date": "28/03/2025 4:00 pm; 4/04/2025 4:00 pm; 11/04/2025 4:00 pm; 28/04/2025 4:00 pm; 9/05/2025 4:00 pm; 16/05/2025 4:00 pm; 23/05/2025 4:00 pm; 30/05/2025 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "End-of-chapter Assignment",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "40%",
+      "due_date": "28/03/2025 4:00 pm 4/04/2025 4:00 pm 11/04/2025 4:00 pm 28/04/2025 4:00 pm 9/05/2025 4:00 pm 16/05/2025 4:00 pm 23/05/2025 4:00 pm 30/05/2025 4:00 pm",
+      "task_description": "Assignment 1 (5%) - Method of Consistent deformation and three-moment-equation (A/Prof Ho) Assignment 2 (5%) - Slope deflection equation (A/Prof Ho) Assignment 3 (5%) - Moment distribution method (A/Prof Ho) Assignment 4 (5%) - Non-uniform member (A/Prof Ho) Assignment 5 (5%) - Moment redistribution (A/Prof Ho) Assignment 6 (5%) - Gravity projected load (A/Prof Ho) Assignment 7 (5%) - Direct stiffness method - truss (Dr Chen) Assignment 8 (5%) - Direct stiffness method - beam and/or frame (Dr Chen) This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submit your handwritten answers via the course Blackboard site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Assignment 1 (5%) - Method of Consistent deformation and three-moment-equation (A/Prof Ho) Assignment 2 (5%) - Slope deflection equation (A/Prof Ho) Assignment 3 (5%) - Moment distribution method (A/Prof Ho) Assignment 4 (5%) - Non-uniform member (A/Prof Ho) Assignment 5 (5%) - Moment redistribution (A/Prof Ho) Assignment 6 (5%) - Gravity projected load (A/Prof Ho) Assignment 7 (5%) - Direct stiffness method - truss (Dr Chen) Assignment 8 (5%) - Direct stiffness method - beam and/or frame (Dr Chen) This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "task_description": "The final exam will include problem-solving calculation questions and short answer questions. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 180 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The final exam will include problem-solving calculation questions and short answer questions. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Tutorial",
+      "topic": "Worked examples demonstration"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Problem-based learning",
+      "topic": "Contact"
+    },
+    {
+      "learning_period": "Week 1 (24 Feb - 02 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Method of consistent deformation By A/Prof Johnny Ho"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 3 (03 Mar - 16 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Slope deflection method By A/Prof Johnny Ho"
+    },
+    {
+      "learning_period": "Week 4 (17 Mar - 23 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Moment distribution method By A/Prof Johnny Ho"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 5 To Week 6 (24 Mar - 06 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Analysis of non-uniform indeterminate structures By A/Prof Johnny Ho"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 7 To Week 8 (07 Apr - 20 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Moment redistribution By A/Prof Johnny Ho"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 9 To Week 12 (28 Apr - 25 May)",
+      "activity_type": "Lecture",
+      "topic": "Direct stiffness method By Dr Shujian Chen Learning outcomes: L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (26 May - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Revision By A/Prof Johnny Ho and Dr Shujian Chen"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: School of Civil Engineering School Guidelines Learning activities"
+}

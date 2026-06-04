@@ -1,0 +1,210 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/INFS3200-21359-7520",
+  "scraped_at": "2026-06-04T01:43:31.441426+00:00",
+  "course_code": "INFS3200",
+  "class_code": "21359",
+  "semester_code": "7520",
+  "full_course_code": "INFS3200-21359-7520",
+  "course_title": "Advanced Database Systems",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Distributed database design, query and transaction processing, data integration, data warehousing, data cleansing, management of spatial data, and data from large scale distributed devices.\n\nMost contemporary information systems are built to derive value from very large amounts of dynamic data from different sources with high efficiency, high scalability, and low cost. This course builds on students' previous knowledge of centralised information systems to introduce advanced technologies and their design issuesﾠ including data warehousing for online analytical processing, dataﾠintegration for combining heterogeneousﾠ and oftenﾠ unstructuredﾠdata from ﾠdifferentﾠsources, and data quality management forﾠ ensuring ﾠthe ﾠfitness of data for use. Data security and privacy issues will be discussed. The course also looks at related topics ofﾠemerging platforms for managing large-scale or \"big\" data. Based on student feedback, the course materials, including lecture notes, tutorials, and practical sessions, have been revised and enhanced for improved quality.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "INFS2200"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "INFS7907"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Sen Wang",
+      "email": "INFS3200@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Sen Wang"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Junliang Yu"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Shazia Sadiq"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Zhi Chen"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "To provide an understanding of the issues involved in designing and implementing large scale data intensive applications. To equip the students with sufficient conceptual and practical knowledge, to be able to recognize the challenges, analyze the appropriateness of the technology and understand the design and implementation complexities.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Distinguish and classify the main architectures in large scale database systems including centralized, distributed and multi-databases."
+    },
+    {
+      "number": "LO2.",
+      "description": "Develop insights into issues and challenges in data integration including data quality control, data cleansing, and design and construction of data warehouses."
+    },
+    {
+      "number": "LO3.",
+      "description": "Relate your conceptual and practical knowledge in advanced database systems to past knowledge as well as emerging trends including implications of big data."
+    },
+    {
+      "number": "LO4.",
+      "description": "Understand and analyze post-relational database models and advanced issues related to data integration, data quality, and data privacy."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Practical/ Demonstration",
+      "title": "Practicals - 1",
+      "weight": "10%",
+      "due_date": "4/04/2025 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "In-Semester Exam",
+      "weight": "30%",
+      "due_date": "In-semester Saturday; 29/03/2025 - 12/04/2025; The In-Semester Exam will be held at 11am on Saturday 12 April (Week 7)",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Practical/ Demonstration",
+      "title": "Practicals - 2",
+      "weight": "10%",
+      "due_date": "23/05/2025 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Practicals - 1",
+      "mode": "Written",
+      "category": "Computer Code, Practical/ Demonstration",
+      "weight": "10%",
+      "due_date": "4/04/2025 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "There are several practical tasks. Students may complete the task earlier than the due deadline and have it marked off. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online Submission.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach where feedback and/or detailed solutions will be released to students within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "There are several practical tasks. Students may complete the task earlier than the due deadline and have it marked off. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThere are several practical tasks. Students may complete the task earlier than the due deadline and have it marked off. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In-Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "30%",
+      "due_date": "In-semester Saturday 29/03/2025 - 12/04/2025 The In-Semester Exam will be held at 11am on Saturday 12 April (Week 7)",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "The in-semester exam is a 90-minute closed-book examination. More details of the in-semester exam will be announced on the course website. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nThe In-Semester Saturday Deferred Exam will be held on Saturday 10th of May (Week 10).",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Practicals - 2",
+      "mode": "Written",
+      "category": "Computer Code, Practical/ Demonstration",
+      "weight": "10%",
+      "due_date": "23/05/2025 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "There are several practical tasks. Students may complete the task earlier than the due deadline and have it marked off. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online Submission.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach where feedback and/or detailed solutions will be released to students within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "There are several practical tasks. Students may complete the task earlier than the due deadline and have it marked off. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThere are several practical tasks. Students may complete the task earlier than the due deadline and have it marked off. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "The final closed-book examination will cover all course topics. Students will sit an on-campus invigilated exam. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Weekly Lecture Presentations Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 3 To Week 13 (10 Mar - 01 Jun)",
+      "activity_type": "Tutorial",
+      "topic": "Contacts Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 3 To Week 13 (10 Mar - 01 Jun)",
+      "activity_type": "Practical",
+      "topic": "Lab-based Practicals Learning outcomes: L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

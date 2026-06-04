@@ -1,0 +1,264 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MECH2300-21322-7520",
+  "scraped_at": "2026-06-04T01:46:55.353766+00:00",
+  "course_code": "MECH2300",
+  "class_code": "21322",
+  "semester_code": "7520",
+  "full_course_code": "MECH2300-21322-7520",
+  "course_title": "Structures & Materials",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "Mechanics of simple structures; Transformation of stress and strain; Linear elasticity; Phase diagrams; Steel microstructures; Strengthening mechanisms of metals; Material failure mechanisms; Corrosion.\n\nThe mechanical integrity of an engineering component or structure depends on the stresses and strains induced in it by the loads to which it is subjected. The integrity also depends on the properties of the material(s) from which it is made and the environment to which those materials are exposed.\n\nThis course builds on the mechanics and materials knowledge that students have obtained through their first-year courses. It systematically develops the methods for determining stresses and strains in components and structures for different loading situations. The question that must be addressed simultaneously is whether the materials from which the component or structure is made will be suitable for it to meet its design objectives. If design objectives are not met, methods are presented so students can investigate whether the materials can be modified so that they are.\n\nThe concepts in the course are brought together near the end of the course in an integrated assignment that combines stress analysis and materials selection tasks.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ENGG1400",
+      "ENGG1200",
+      "ENGG1211",
+      "ENGG1700"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MINE2123"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor David Gildfind",
+      "email": "d.gildfind@uq.edu.au",
+      "phone": "+61 7 3365 3593"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor David Gildfind",
+      "email": "d.gildfind@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Jeffrey Venezuela",
+      "email": "j.venezuela@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThe University expects ﾠthe average student to ﾠspendﾠ a minimum of 10 hours ﾠper week during the semester to pass a two-unit course. See the University's advice on time management\nhere\n.",
+  "course_aims": "The aim of the course is to introduce basic concepts of structural mechanics and materials science and show the relevance of both areas in product design and engineering analysis.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Analyse the mechanical behaviour of statically determinate or indeterminate 1D structural members under various loadings, and interpret experimental data for bending of beams."
+    },
+    {
+      "number": "LO2.",
+      "description": "Evaluate two-dimensional stress and strain states in solids, and apply this knowledge to solve design problems involving stress analysis and materials selection."
+    },
+    {
+      "number": "LO3.",
+      "description": "Interpret mechanical properties in terms of yield, modulus, fracture toughness, creep and how they are related to failure modes and design"
+    },
+    {
+      "number": "LO4.",
+      "description": "Interpret the impact of fundamental material characteristics and microstructure on the mechanical properties of engineering materials."
+    },
+    {
+      "number": "LO5.",
+      "description": "Identify the major forms of metal corrosion and methods to limit their effects."
+    },
+    {
+      "number": "LO6.",
+      "description": "Utilize phase diagrams and Time-Temperature-Transformation (TTT) diagrams to predict the microstructure of fundamental metal systems."
+    },
+    {
+      "number": "LO7.",
+      "description": "Collaborate in small groups to develop your teamwork skills and prepare group reports on engineering investigations."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Weekly Online Quiz",
+      "weight": "20% See task description",
+      "due_date": "Week 1 - Week 13; Quizzes will run on Weeks 1-7 and 9-13 (there will be no quiz in Week 8 due to the Good Friday public holiday). Hence there will be 12 quizzes in total. Each quiz will be is released on Friday at 12pm, and will test that week's syllabus. The due date will be 10am on following Thursday.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Practical/ Demonstration, Quiz",
+      "title": "Practical Sequence - Bending of Beams Prac (5%) and Heat Treatment Prac (5%)",
+      "weight": "10% See task description",
+      "due_date": "Bending of the Beams Pre-work due (all students in all groups) 20/03/2025 1:00 pm; Heat Treatment Pre-work due (all students in all groups) 1/05/2025 1:00 pm; Group reports:; For each of the two practicals, each group is required to submit a group report within 2 working days of the group's scheduled session (by 5pm on that day).",
+      "conditions": [
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Integrated Assignment Report",
+      "weight": "20% See task description",
+      "due_date": "29/05/2025 1:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Weekly Online Quiz",
+      "mode": "Activity/ Performance",
+      "category": "Quiz",
+      "weight": "20% See task description",
+      "due_date": "Week 1 - Week 13 Quizzes will run on Weeks 1-7 and 9-13 (there will be no quiz in Week 8 due to the Good Friday public holiday). Hence there will be 12 quizzes in total. Each quiz will be is released on Friday at 12pm, and will test that week's syllabus. The due date will be 10am on following Thursday.",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "task_description": "Weekly online quiz using the Pearson “Mastering Engineering” platform. This platform integrates into Blackboard and enables the course to run assessed quizzes which draw from a large range of example structures and materials problems. The problems are randomizable to ensure all students work with a unique set of numbers to ensure individual work in support of academic integrity. Each week's quiz is designed to test concepts covered in that week's lecture and tutorial. If you attend that week's tutorial and understand the problems which it covers, then you should be well prepared to complete that week's quiz. You are strongly encouraged to attend the tutorials and clarify any questions about the tutorial problems during that session. Each week's quiz is timed to become available to students at the conclusion of the last tutorial for that week, and is then due 2 hours before the following week's tutorial. This ensures all students have the same amount of time to attempt the quiz, regardless of which tutorial they attend, and also ensures that tutorial time can focus on that week's tutorial problems. If you have questions about the quizzes you should raise these on Ed Discussion Board, which will ensure all students have access to the teaching staff's advice on this assessment item. The mark for this assessment is calculated as follows: The maximum mark for each week's quiz is 2% of the overall course grade, and there are 12 quizzes in total. To get the full 2% for each week's quiz, you will need to get at least 75% for the quiz (i.e. correctly answer 75% of the quiz problems). Each quiz mark will be computed as follows: weekly quiz grade = minimum(<your quiz mark in %>, 75%)/(75%)×2% The total mark for this assessment item is capped at 20% for the semester, with overall grade = min(20%, ∑<your quiz grades across the 12 quizzes>) You are required to register with Pearson Mastering in Week 1 of Semester so that you are able to complete the assessed online quizzes. If you encounter technical problems doing so, as a first step you should refer to the provided support documents on Blackboard; as a second step, seek advice through the Ed Discussion Board; if you continue to have problems you should contact the Course Coordinator by email. If you leave the registration process until Week 2 and encounter technical problems which prevent submission of your quiz by the due date, these technical problems will not be accepted as grounds for an extension to the assessment. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria. Read full task description Hide full task description",
+      "submission_guidelines": "Access to the Pearson Mastering Engineering online quiz is via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nTo facilitate timely feedback to students.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Weekly online quiz using the Pearson “Mastering Engineering” platform. This platform integrates into Blackboard and enables the course to run assessed quizzes which draw from a large range of example structures and materials problems. The problems are randomizable to ensure all students work with a unique set of numbers to ensure individual work in support of academic integrity. Each week's quiz is designed to test concepts covered in that week's lecture and tutorial. If you attend that week's tutorial and understand the problems which it covers, then you should be well prepared to complete that week's quiz. You are strongly encouraged to attend the tutorials and clarify any questions about the tutorial problems during that session. Each week's quiz is timed to become available to students at the conclusion of the last tutorial for that week, and is then due 2 hours before the following week's tutorial. This ensures all students have the same amount of time to attempt the quiz, regardless of which tutorial they attend, and also ensures that tutorial time can focus on that week's tutorial problems. If you have questions about the quizzes you should raise these on Ed Discussion Board, which will ensure all students have access to the teaching staff's advice on this assessment item. The mark for this assessment is calculated as follows: The maximum mark for each week's quiz is 2% of the overall course grade, and there are 12 quizzes in total. To get the full 2% for each week's quiz, you will need to get at least 75% for the quiz (i.e. correctly answer 75% of the quiz problems). Each quiz mark will be computed as follows: weekly quiz grade = minimum(<your quiz mark in %>, 75%)/(75%)×2% The total mark for this assessment item is capped at 20% for the semester, with overall grade = min(20%, ∑<your quiz grades across the 12 quizzes>) You are required to register with Pearson Mastering in Week 1 of Semester so that you are able to complete the assessed online quizzes. If you encounter technical problems doing so, as a first step you should refer to the provided support documents on Blackboard; as a second step, seek advice through the Ed Discussion Board; if you continue to have problems you should contact the Course Coordinator by email. If you leave the registration process until Week 2 and encounter technical problems which prevent submission of your quiz by the due date, these technical problems will not be accepted as grounds for an extension to the assessment. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Practical Sequence - Bending of Beams Prac (5%) and Heat Treatment Prac (5%)",
+      "mode": "Activity/ Performance, Written",
+      "category": "Paper/ Report/ Annotation, Practical/ Demonstration, Quiz",
+      "weight": "10% See task description",
+      "due_date": "Bending of the Beams Pre-work due (all students in all groups) 20/03/2025 1:00 pm Heat Treatment Pre-work due (all students in all groups) 1/05/2025 1:00 pm Group reports: For each of the two practicals, each group is required to submit a group report within 2 working days of the group's scheduled session (by 5pm on that day).",
+      "task_description": "This assessment series involves two separate practicals. This assessment series involves two separate practicals. Each practical assessment task has two parts, as follows: An individual pre-work online Blackboard quiz. This must be completed by students, individually, by the specified due date, which is in advance of the practicals; and A group report. This must be completed by the group and submitted within 2 working days of the group's scheduled session (by 5pm on that day). Further details are provided below. Individual Pre-work: Students are required to individually complete an online Blackboard quiz comprising a set of pre-work questions, in advance of the practical session, by the specified due date, via Blackboard. This part of the assessment constitutes 20% of the available mark for this assessment item. If students fail to individually submit the pre-work part of this assessment, they will individually receive a zero for this part of the assessment. Practical and group report: Students are divided into groups at the start of the practical session. Each group is required to submit a group report for the practical within 2 business days of the group's scheduled session (by 5pm on that day). This part of the assessment constitutes 80% of the available mark. Details of the assessment task will be provided on Blackboard. Notes: All students in the group must have attended the same session and worked as a group. The group size is normally four students. The group size may be extended by 1 student by the casual demonstrator. If your group is not functioning during the session, inform your casual demonstrator as early in the session as possible so that issues can be resolved. The names and student numbers of all group members have to be listed on the first page of the group report. Criteria & Marking: A detailed marking rubric will be made available on the Blackboard site of the course. Note that 20% of the mark for this assignment will be based on individual student's pre-work quiz result; the remaining 80% will be based on the group report. Submission: Pre-work to be completed via Blackboard online quiz; group report to be submitted via TurnItIn on Blackboard. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria. Read full task description Hide full task description",
+      "submission_guidelines": "Pre-work to be submitted via Blackboard; group report to be submitted via TurnItIn on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nThe penalty detailed above refers to the late submission of the Group Reports ONLY .\nPre Work Late Penalty: 100% Late Penalty. No Grace period.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assessment series involves two separate practicals. This assessment series involves two separate practicals. Each practical assessment task has two parts, as follows: An individual pre-work online Blackboard quiz. This must be completed by students, individually, by the specified due date, which is in advance of the practicals; and A group report. This must be completed by the group and submitted within 2 working days of the group's scheduled session (by 5pm on that day). Further details are provided below. Individual Pre-work: Students are required to individually complete an online Blackboard quiz comprising a set of pre-work questions, in advance of the practical session, by the specified due date, via Blackboard. This part of the assessment constitutes 20% of the available mark for this assessment item. If students fail to individually submit the pre-work part of this assessment, they will individually receive a zero for this part of the assessment. Practical and group report: Students are divided into groups at the start of the practical session. Each group is required to submit a group report for the practical within 2 business days of the group's scheduled session (by 5pm on that day). This part of the assessment constitutes 80% of the available mark. Details of the assessment task will be provided on Blackboard. Notes: All students in the group must have attended the same session and worked as a group. The group size is normally four students. The group size may be extended by 1 student by the casual demonstrator. If your group is not functioning during the session, inform your casual demonstrator as early in the session as possible so that issues can be resolved. The names and student numbers of all group members have to be listed on the first page of the group report. Criteria & Marking: A detailed marking rubric will be made available on the Blackboard site of the course. Note that 20% of the mark for this assignment will be based on individual student's pre-work quiz result; the remaining 80% will be based on the group report. Submission: Pre-work to be completed via Blackboard online quiz; group report to be submitted via TurnItIn on Blackboard. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Integrated Assignment Report",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "20% See task description",
+      "due_date": "29/05/2025 1:00 pm",
+      "task_description": "Analyse a mechanical system and solve materials selection problems. A professional technical report for the structural analysis and the materials selection is to be submitted. The technical report for the structural analysis and the materials selection part can be submitted individually or in pairs . The title page must include the names and student numbers of both students, if it is a group report. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via TurnItIn on Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nTo facilitate timely feedback to students.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Analyse a mechanical system and solve materials selection problems. A professional technical report for the structural analysis and the materials selection is to be submitted. The technical report for the structural analysis and the materials selection part can be submitted individually or in pairs . The title page must include the names and student numbers of both students, if it is a group report. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "task_description": "End of Semester Exam consisting of 50% Structures questions and 50% Materials questions Format: Multiple-choice, Short answer, Problem solving No electronic aids are permitted e.g. laptops, phones. Useful formulas are provided at the end of the examination paper. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "End of Semester Exam consisting of 50% Structures questions and 50% Materials questions Format: Multiple-choice, Short answer, Problem solving No electronic aids are permitted e.g. laptops, phones. Useful formulas are provided at the end of the examination paper. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Tutorial",
+      "topic": "Weekly Tutorials The weekly 2 hour tutorial sessions are used to apply and extend concepts presented in the course, discuss and solve sample problems and study worked solutions. Use 'Sign-on' to select a tutorial session. Note, due to the Good Friday public holiday, no tutorials will run in Week 8."
+    },
+    {
+      "learning_period": "Week 1 (24 Feb - 02 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Introduction and Revision Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems."
+    },
+    {
+      "learning_period": "Week 2 (03 Mar - 09 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Axial Loading Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems."
+    },
+    {
+      "learning_period": "Week 3 (10 Mar - 16 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Beam Deflection Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems."
+    },
+    {
+      "learning_period": "Week 4 (17 Mar - 23 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Bending and Shear Stresses in Beams Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems."
+    },
+    {
+      "learning_period": "Week 5 (24 Mar - 30 Mar)",
+      "activity_type": "Lecture",
+      "topic": "Special Topics in Stress Analysis Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems."
+    },
+    {
+      "learning_period": "Week 6 (31 Mar - 06 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Transformation of Stress Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems."
+    },
+    {
+      "learning_period": "Week 7 (07 Apr - 13 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Transformation of Strain Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems."
+    },
+    {
+      "learning_period": "Week 8 (14 Apr - 20 Apr)",
+      "activity_type": "Lecture",
+      "topic": "Designing against Plastic Failure of Materials Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems."
+    },
+    {
+      "learning_period": "Week 9 (28 Apr - 04 May)",
+      "activity_type": "Lecture",
+      "topic": "Correlating Microstructure to Mechanical Strength: Part 1 Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems."
+    },
+    {
+      "learning_period": "Week 10 (05 May - 11 May)",
+      "activity_type": "Lecture",
+      "topic": "Correlating Microstructure to Mechanical Strength: Part 2 Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems."
+    },
+    {
+      "learning_period": "Week 11 (12 May - 18 May)",
+      "activity_type": "Lecture",
+      "topic": "Fracture and Fracture Toughness Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems."
+    },
+    {
+      "learning_period": "Week 12 (19 May - 25 May)",
+      "activity_type": "Lecture",
+      "topic": "Fatigue and Creep Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems."
+    },
+    {
+      "learning_period": "Week 13 (26 May - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Corrosion Weekly lectures will cover the relevant theory for each week's topic and demonstrate application of the theory to practical example problems."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

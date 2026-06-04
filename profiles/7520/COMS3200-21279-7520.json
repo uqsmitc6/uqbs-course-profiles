@@ -1,0 +1,193 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMS3200-21279-7520",
+  "scraped_at": "2026-06-04T01:31:17.257688+00:00",
+  "course_code": "COMS3200",
+  "class_code": "21279",
+  "semester_code": "7520",
+  "full_course_code": "COMS3200-21279-7520",
+  "course_title": "Computer Networks I",
+  "study_period": "Semester 1, 2025 (24/02/2025 - 21/06/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "OSI and Internet reference models. Communication protocols for Local, Metropolitan and Wide Area Networks. BISDN networks. The Internet protocol suite. Mobile Networks. Quality of service in communication protocols. Network security. Trends in communication networks.\n\nCOMS3200 is a course on computer networks that focusses on the communication protocols, architectures and applicationsﾠof the Internet.\n\nThe course is based on the Internet protocol stack and works through the layers of the protocol sequentially.\n\nFirstly, fundamental principles and metrics for computer networking are described, and the overall architecture of the Internet is described.\n\nThe application layer looks at protocols such as HTTP, DNS, and SMTP.\n\nThe transport layer looks at UDP and TCP, including congestion control.\n\nThe network layer looks at IPv4, IPv6, and routing algorithms and protocols.\n\nThe Link Layer looks at Ethernet, Link Layer Addressing, and ARP.\n\nThe physical layer is not considered in detail.\n\nAspects of cyber-security will also be covered.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "COMP2303",
+      "CSSE2310"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMS7201"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Dan Kim",
+      "email": "COMS3200@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Dan Kim"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Peter Sutton"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nNote that lab contact (CON) classes start in WEEK 2.\nStudents should use Allocate+ to sign-on to one CON class.",
+  "course_aims": "The course equips students with a good understanding of computer network architectures and protocols.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Describe the layered architecture of the Internet and be able to explain, analyse and compare important protocols and features"
+    },
+    {
+      "number": "LO2.",
+      "description": "Evaluate the performance of various network architectures and protocols"
+    },
+    {
+      "number": "LO3.",
+      "description": "Simulate the behaviour of key network protocols and algorithms (e.g. routing algorithms)"
+    },
+    {
+      "number": "LO4.",
+      "description": "Design and develop computer networking protocols/applications"
+    },
+    {
+      "number": "LO5.",
+      "description": "Analyse computer network traffic using a network protocol analyser tool"
+    },
+    {
+      "number": "LO6.",
+      "description": "Identify and explain security issues in computer networking."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Quizzes",
+      "weight": "10%",
+      "due_date": "4/03/2025 10:00 am; 14/03/2025 10:00 am; 18/03/2025 10:00 am; 25/03/2025 10:00 am; 1/04/2025 10:00 am; 8/04/2025 10:00 am; 15/04/2025 10:00 am; 29/04/2025 10:00 am; 6/05/2025 10:00 am; 13/05/2025 10:00 am; 20/05/2025 10:00 am; 27/05/2025 10:00 am",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Quiz",
+      "title": "Assignment",
+      "weight": "35%",
+      "due_date": "9/05/2025 3:00 pm",
+      "conditions": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period; 7/06/2025 - 21/06/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Quizzes",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "10%",
+      "due_date": "4/03/2025 10:00 am 14/03/2025 10:00 am 18/03/2025 10:00 am 25/03/2025 10:00 am 1/04/2025 10:00 am 8/04/2025 10:00 am 15/04/2025 10:00 am 29/04/2025 10:00 am 6/05/2025 10:00 am 13/05/2025 10:00 am 20/05/2025 10:00 am 27/05/2025 10:00 am",
+      "learning_outcomes_assessed": "L01, L02, L03, L05, L06",
+      "task_description": "Weekly online quizzes will be due at 10am every Tuesday*, starting from week 2. 12 quizzes will be made available in total. Quizzes will open at least 4-5 days prior to the due time. *(with the exception of Week 3) Quizzes will usually cover topics from the previous week or two of classes, but may cover topics from any previous week and/or may require students to do some research or reading beyond the class notes. Students are expected to take the quiz individually and on their own time and these weekly quizzes are designed to keep students up to date with the week by week teaching material. Each quiz must be explicitly submitted by the due date (i.e. quizzes are not auto-submitted). Artificial Intelligence (AI) and Machine Translation tools are permitted to be used in the quizzes but they are not required to be used and not recommended to be used as they may inhibit learning. Read full task description Hide full task description",
+      "submission_guidelines": "Quizzes will be undertaken through Blackboard.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThe best 10 quizzes will be considered towards final grade, each worth 1%. If a student misses more than two quizzes due to exceptional circumstances (supported by documentation) then they may seek an exemption from the third (and subsequent) missed quizzes. If N such exemptions are granted, the student's result will be calculated using their best 10-N quiz results, weighted 1% each, with the final exam weight being increased by N%. Exemptions must be requested as an extension with a note specifying exemption via my.UQ.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Weekly online quizzes will be due at 10am every Tuesday*, starting from week 2. 12 quizzes will be made available in total. Quizzes will open at least 4-5 days prior to the due time. *(with the exception of Week 3) Quizzes will usually cover topics from the previous week or two of classes, but may cover topics from any previous week and/or may require students to do some research or reading beyond the class notes. Students are expected to take the quiz individually and on their own time and these weekly quizzes are designed to keep students up to date with the week by week teaching material. Each quiz must be explicitly submitted by the due date (i.e. quizzes are not auto-submitted). Artificial Intelligence (AI) and Machine Translation tools are permitted to be used in the quizzes but they are not required to be used and not recommended to be used as they may inhibit learning. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation tools are permitted to be used in the quizzes but they are not required to be used and not recommended to be used as they may inhibit learning.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Quiz",
+      "weight": "35%",
+      "due_date": "9/05/2025 3:00 pm",
+      "learning_outcomes_assessed": "L04, L05",
+      "task_description": "The assignment will consist of the following parts: Some questions for Wireshark exercises A programming assignment. Referencing and Use of AI Note that the assignment is to be worked on individually and must be your own work except where the use of code written or provided by other entities (teaching staff, Linux man pages, AI tools, etc.) is explicitly permitted by the assignment specification. Artificial Intelligence (AI) tools are permitted to be used in this assignment but they are not required to be used and not recommended to be used as they may inhibit learning and introduce bugs into your code. You must always follow the referencing requirements set out in the assignment specification and documents referenced from the assignment specification. Failure to appropriately reference the resources (tools and information sources) used in your work may result in misconduct allegations against you. You are encouraged to discuss the concepts behind the assignment but under no circumstances should you show your code to, or allow your code to be seen by, another student. You should not look at the code of any other student. You must sufficiently protect all electronic and paper copies of your code. All submitted code will be subject to electronic plagiarism and collusion detection. Assignments with no academic merit will be awarded a mark of zero. You may have to verbally answer questions about your submission as part of the assignment marking process.ﾠ Programming Assignment Interviews Teaching staff will conduct interviews with a subset of students about their submissions for the purpose of establishing genuine authorship. If you write your own code, you have nothing to fear from this process. If you legitimately use permitted code from other sources (following the usage/referencing requirements in the assignment specification) then you are expected to understand that code. If you are not able to adequately explain the design of your solution and/or adequately explain your submitted code and/or be able to make simple modifications to your solution as requested at the interview, then your assignment mark will be scaled down based on the level of understanding you are able to demonstrate and/or your submission may be subject to a misconduct investigation where your interview responses form part of the evidence. Interview invitations will be issued by email to your student email account at any time up until the end of week one of the exam period. Failure to respond to an interview invitation by the deadline stated in the invitation (which will be at least one week after the invitation is sent) or failure to attend a scheduled interview will result in zero marks for the assignment unless exceptional circumstances can be demonstrated with supporting evidence. Read full task description Hide full task description",
+      "submission_guidelines": "The assignment must be submitted via the link on Blackboard. Students should keep a copy of their assignment submission. The required submission procedure for the assignment will be detailed on the handout for that assessment item. Students will have to state that the submission is their original work when submitting their assignments.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The assignment will consist of the following parts: Some questions for Wireshark exercises A programming assignment. Referencing and Use of AI Note that the assignment is to be worked on individually and must be your own work except where the use of code written or provided by other entities (teaching staff, Linux man pages, AI tools, etc.) is explicitly permitted by the assignment specification. Artificial Intelligence (AI) tools are permitted to be used in this assignment but they are not required to be used and not recommended to be used as they may inhibit learning and introduce bugs into your code. You must always follow the referencing requirements set out in the assignment specification and documents referenced from the assignment specification. Failure to appropriately reference the resources (tools and information sources) used in your work may result in misconduct allegations against you. You are encouraged to discuss the concepts behind the assignment but under no circumstances should you show your code to, or allow your code to be seen by, another student. You should not look at the code of any other student. You must sufficiently protect all electronic and paper copies of your code. All submitted code will be subject to electronic plagiarism and collusion detection. Assignments with no academic merit will be awarded a mark of zero. You may have to verbally answer questions about your submission as part of the assignment marking process.ﾠ Programming Assignment Interviews Teaching staff will conduct interviews with a subset of students about their submissions for the purpose of establishing genuine authorship. If you write your own code, you have nothing to fear from this process. If you legitimately use permitted code from other sources (following the usage/referencing requirements in the assignment specification) then you are expected to understand that code. If you are not able to adequately explain the design of your solution and/or adequately explain your submitted code and/or be able to make simple modifications to your solution as requested at the interview, then your assignment mark will be scaled down based on the level of understanding you are able to demonstrate and/or your submission may be subject to a misconduct investigation where your interview responses form part of the evidence. Interview invitations will be issued by email to your student email account at any time up until the end of week one of the exam period. Failure to respond to an interview invitation by the deadline stated in the invitation (which will be at least one week after the invitation is sent) or failure to attend a scheduled interview will result in zero marks for the assignment unless exceptional circumstances can be demonstrated with supporting evidence. Read full task description Hide full task description\nReferencing and Use of AI\nNote that the assignment is to be worked on individually and must be your own work except where the use of code written or provided by other entities (teaching staff, Linux man pages, AI tools, etc.) is explicitly permitted by the assignment specification. Artificial Intelligence (AI) tools are permitted to be used in this assignment but they are not required to be used and not recommended to be used as they may inhibit learning and introduce bugs into your code. You must always follow the referencing requirements set out in the assignment specification and documents referenced from the assignment specification. Failure to appropriately reference the resources (tools and information sources) used in your work may result in misconduct allegations against you. You are encouraged to discuss the concepts behind the assignment but under no circumstances should you show your code to, or allow your code to be seen by, another student. You should not look at the code of any other student. You must sufficiently protect all electronic and paper copies of your code. All submitted code will be subject to electronic plagiarism and collusion detection. Assignments with no academic merit will be awarded a mark of zero. You may have to verbally answer questions about your submission as part of the assignment marking process.ﾠ",
+      "special_indicators": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period 7/06/2025 - 21/06/2025",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L05, L06",
+      "task_description": "The exam will be an invigilated on-campus exam. This exam will be closed-book and will contain a combination of problem-solving and short/long answer questions. AI and Machine Translation tools may not be used. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Materials None. Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (24 Feb - 01 Jun)",
+      "activity_type": "Lecture",
+      "topic": "Lecture Contents for each week are on the teaching plan on Blackboard. Lectures will be recorded and available afterwards for viewing via Blackboard. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (03 Mar - 01 Jun)",
+      "activity_type": "General contact hours",
+      "topic": "Weekly contacts/pracs They are weekly \"wireshark\" exercises, contacts for lecture content, and for assistance on the assignment. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}
