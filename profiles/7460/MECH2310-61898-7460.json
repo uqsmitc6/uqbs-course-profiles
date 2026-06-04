@@ -1,0 +1,428 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MECH2310-61898-7460",
+  "scraped_at": "2026-06-04T01:07:01.673005+00:00",
+  "course_code": "MECH2310",
+  "class_code": "61898",
+  "semester_code": "7460",
+  "full_course_code": "MECH2310-61898-7460",
+  "course_title": "Science & Engineering of Metals",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "Phase diagrams, phase transformations, dislocations, strengthening mechanisms, metallography, corrosion, recycling, future directions\n\nMaterials* are evolving today faster than at any other time in history. Industrial nations regard materials technology as an underpinning technology, one that can stimulate innovation in all branches of engineering, making possible new designs for structures, appliances, etc.ﾠThus, the engineer must be more aware of materials and their properties than ever before.\n\nThe engineer must be able to compare with precision the properties of materials competing for a given application. To do this, an understanding of the basic properties of materials, how the processing controls the properties, how materials are formed, joined, finished, and how to improve the properties of a given material is required.\n\nThis course aims at providing engineering students with the basic tools to understand material properties and factors that control these properties, with an emphasis on metallic materials. The physics behind properties such as elastic modulus and yield stress, as well as the thermodynamics principles governing phase transformations, will be discussed from first principles, starting from the structure of metals, followed by defects in metals, plastic deformation, phase diagrams and diffusion, heat treatment of steels, alloy steels, recovery and recrystallisation, precipitations and mechanical properties of metals. The main aim is to develop a unified view of the main structural materials: metals, including ferrous and non-ferrous alloys. However, in order to stay in touch with actual engineering materials, many case studies will be discussed in class or included in the tutorials.\n\n*Adapted from Ashby and Jones, Engineering Materials 2, Pergamon, 1982.",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MECH3305"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Mingxing Zhang",
+      "email": "mingxing.zhang@uq.edu.au",
+      "phone": "+61 7 3346 8709",
+      "notes": "Please email Professor Zhang to arrange a consultation."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Mingxing Zhang",
+      "email": "mingxing.zhang@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Qiyang Tan",
+      "email": "q.tan@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course provides an understanding of the principles governing the mechanical properties of engineering materials, which includes crystal structure, defects, dislocations andﾠphase transformations in metals. Heat treatment of steels, alloy steels, precipitation process in alloys and mechanical properties of metals will also beﾠcovered in the course.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Electronic structure of materials - Comprehend the atomic interaction (atomic bonding) and classes of materials."
+    },
+    {
+      "number": "LO2.",
+      "description": "Electronic structure of materials - Estimate, from first principles, the elastic modulus of different materials."
+    },
+    {
+      "number": "LO3.",
+      "description": "Crystal structure of metals - Demonstrate comprehension of the basic structures of crystals and their defects, including dislocations, point defects and interfaces."
+    },
+    {
+      "number": "LO4.",
+      "description": "Crystal structure of metals - Understand the effects of the defects on mechanical properties."
+    },
+    {
+      "number": "LO5.",
+      "description": "Crystal structure of metals - Know the basic principle of atomic diffusions in metals."
+    },
+    {
+      "number": "LO6.",
+      "description": "Mechanical behaviour of materials - Understand the various methods of strengthening (e.g. what makes some Al alloys stronger and harder than pure Al metal), and how steels can be strengthened."
+    },
+    {
+      "number": "LO7.",
+      "description": "Mechanical behaviour of materials - Understand the difference of various mechanical properties of metals, such as Young's modulus, yield strength, tensile strength, toughness and ductility."
+    },
+    {
+      "number": "LO8.",
+      "description": "Phase diagrams, phase transformations and plastic - Interpret binary phase diagrams."
+    },
+    {
+      "number": "LO9.",
+      "description": "Phase diagrams, phase transformations and plastic - Solve elementary problems on diffusive and diffusionless phase transformations applied to aluminum alloys and steels."
+    },
+    {
+      "number": "LO10.",
+      "description": "Phase diagrams, phase transformations and plastic - Know the principle and process of heat treatment of metals to improve their mechanical properties."
+    },
+    {
+      "number": "LO11.",
+      "description": "Phase diagrams, phase transformations and plastic - Understand the mechanisms of plastic deformation and recrystallisation of metals."
+    },
+    {
+      "number": "LO12.",
+      "description": "Heat treatment of metals, and entropy alloy - Understand the basic principle and process of heat treatment of steels and non-ferrous alloys."
+    },
+    {
+      "number": "LO13.",
+      "description": "Heat treatment of metals, and entropy alloy - Understand the effects of alloy elements on properties and hardenability of steels."
+    },
+    {
+      "number": "LO14.",
+      "description": "Heat treatment of metals, and entropy alloy - Understand typical heat treatment processes and the applications of different types of steels."
+    },
+    {
+      "number": "LO15.",
+      "description": "Heat treatment of metals, and entropy alloy - Comprehend the relationship between precipitation and the mechanical properties of alloys."
+    },
+    {
+      "number": "LO16.",
+      "description": "Heat treatment of metals, and entropy alloy - Understand the basic knowledge of high entropy alloys, including their design principles and properties."
+    },
+    {
+      "number": "LO17.",
+      "description": "Heat treatment of metals, and entropy alloy - Contribute to team work in practical groups through data analysis and materials characterization"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz, Tutorial/ Problem Set",
+      "title": "In class quiz",
+      "weight": "20%",
+      "due_date": "24/07/2024 - 9/10/2024; During tutorial time.",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Age hardening behaviours of AZ91 alloy",
+      "weight": "15%",
+      "due_date": "13/09/2024 4:00 pm",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Heat treatment of steels",
+      "weight": "15%",
+      "due_date": "18/10/2024 4:00 pm",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In class quiz",
+      "mode": "Written",
+      "category": "Quiz, Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "24/07/2024 - 9/10/2024 During tutorial time.",
+      "other_conditions": "Time limited, Peer assessed. See the conditions definitions",
+      "task_description": "For each 2-hour lecture, there is a corresponding 2-hour tutorial session each week from weeks 1 to 11. Tutorial questions will be provided at least one week before the tutorial. In the first hour of the tutorial, students are to work on the tutorial questions and the lecturer and members of the teaching team are available to answer question in the class. In the second hour of the tutorial, the first 30 minutes is allocated to the lecturer/memebers of the teaching team working together with students to answer all the tutorial questions. Then, in the last 20 minutes of the tutorial, an in class quiz will be done each week for 10 weeks. Each quiz is worth 2 marks in the total final marks. Each quiz contains one short answer question that is one of the tutorial questions in the same week and two multiple-choice questions. The short answer question is worth 1 mark in the total final marks, and each multiple-choice question is worth 0.5 mark in the total final marks. Each multiple-choice question has four possible answers, in which only one is correct. Thus, only one answer can be selected. Read full task description Hide full task description",
+      "submission_guidelines": "All answer sheets are submitted in class at end of the tutorial each week.\nDeferral or extension\nYou may be able to defer this exam .\nDeferred quizzes must be completed within one business day of the final date on the supporting documentation.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nIn class quizzes are time limited and cannot be submitted late.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Age hardening behaviours of AZ91 alloy",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "15%",
+      "due_date": "13/09/2024 4:00 pm",
+      "task_description": "Age Hardening behaviours of the AZ91 Mg alloy. The practical will be done in a group; however, an individual report is required. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via TurnItIn on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFeedback is provided to students following 14 calendar days.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Heat treatment of steels",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "15%",
+      "due_date": "18/10/2024 4:00 pm",
+      "task_description": "To understand the hardenability of steels and effect of heat treatment process on mechanical properties of steels. The practical will be done in a group; however, an individual report is required. Read full task description Hide full task description",
+      "submission_guidelines": "To be submitted online through TurnItIn on the Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFeedback is provided to students following 14 calendar days.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End of Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series or UQ approved , labelled calculator only Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (22 Jul - 28 Jul)",
+      "activity_type": "Lecture",
+      "topic": "L1 Lecture 1 - Structure of Metals",
+      "learning_outcomes": [
+        "L1"
+      ]
+    },
+    {
+      "learning_period": "Week 1 (22 Jul - 28 Jul)",
+      "activity_type": "Tutorial",
+      "topic": "T1 Tutorial 1 - Structure of Metals"
+    },
+    {
+      "learning_period": "Week 2 (29 Jul - 04 Aug)",
+      "activity_type": "Lecture",
+      "topic": "L2 Lecture 2 - Mechanical properties of metals",
+      "learning_outcomes": [
+        "L2"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (29 Jul - 04 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "T2 Tutorial 2 - Mechanical properties of metals"
+    },
+    {
+      "learning_period": "Week 3 (05 Aug - 11 Aug)",
+      "activity_type": "Lecture",
+      "topic": "L3 Lecture 3 - Dislocations (Part I)",
+      "learning_outcomes": [
+        "L3"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (05 Aug - 11 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "T3 Tutorial 3 - Dislocations (Part I)"
+    },
+    {
+      "learning_period": "Week 3 (05 Aug - 11 Aug)",
+      "activity_type": "Practical",
+      "topic": "P1 - Aging hardening of the AZ91 alloy Solution treatment and aging of the AZ91 alloy: All groups attend this practical at practical time in Week 3."
+    },
+    {
+      "learning_period": "Week 4 (12 Aug - 18 Aug)",
+      "activity_type": "Lecture",
+      "topic": "L4 Lecture 4 - Dislocations (Part II)",
+      "learning_outcomes": [
+        "L4"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (12 Aug - 18 Aug)",
+      "activity_type": "Practical",
+      "topic": "P1 - Aging hardening of the AZ91 alloy Hardness measurement, Microstructural analysis, Tensile testing: Groups 1, 2, 3, 4 attend the practical within this week."
+    },
+    {
+      "learning_period": "Week 5 (19 Aug - 25 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "T4 Tutorial 4 - Dislocations (Part II)"
+    },
+    {
+      "learning_period": "Week 5 (19 Aug - 25 Aug)",
+      "activity_type": "Lecture",
+      "topic": "L5 Lecture 5 - Other defects & diffusion",
+      "learning_outcomes": [
+        "L5"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (19 Aug - 25 Aug)",
+      "activity_type": "Practical",
+      "topic": "P1 - Aging hardening of the AZ91 alloy Hardness measurement, Microstructural analysis, Tensile testing: Groups 5, 6, 1, 2 attend the practical in this week."
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "T5 Tutorial 5 - Other defects & diffusion"
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "Lecture",
+      "topic": "L6 Lecture 6 - Phase diagram and thermodynamics",
+      "learning_outcomes": [
+        "L6"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "Practical",
+      "topic": "P1 - Aging hardening of the AZ91 alloy Hardness measurement, Microstructural analysis, Tensile testing: Groups 5, 6, 3, 4 attend the practical in this week."
+    },
+    {
+      "learning_period": "Week 7 (02 Sep - 08 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "T6 Tutorial 6 - Phase diagram and thermodynamics"
+    },
+    {
+      "learning_period": "Week 7 (02 Sep - 08 Sep)",
+      "activity_type": "Lecture",
+      "topic": "L7 Lecture 7 - Solidification and phase transformations in solids",
+      "learning_outcomes": [
+        "L7"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (09 Sep - 15 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "T7 Tutorial 7 - Solidification and transformations in solids"
+    },
+    {
+      "learning_period": "Week 8 (09 Sep - 15 Sep)",
+      "activity_type": "Lecture",
+      "topic": "L8 Lecture 8 - TTT and CCT diagrams, heat treatment of steels",
+      "learning_outcomes": [
+        "L8"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (09 Sep - 15 Sep)",
+      "activity_type": "Practical",
+      "topic": "P2 - Heat treatment of steels Heat treatment of both the plain carbon steel and alloy steel: All groups attend"
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "T8 Tutorial 8 - TTT and CCT diagrams, heat treatment of steels"
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Lecture",
+      "topic": "L9 Lecture 9 - Alloy steels",
+      "learning_outcomes": [
+        "L9"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Practical",
+      "topic": "P2 - Heat treatment of steels Hardness test and microstructure analysis: Groups 1 & 2 attend"
+    },
+    {
+      "learning_period": "Week 10 (30 Sep - 06 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "T9 Tutorial 9 - Alloy steels"
+    },
+    {
+      "learning_period": "Week 10 (30 Sep - 06 Oct)",
+      "activity_type": "Lecture",
+      "topic": "L10 Lecture 10 - Plastic deformation and recrystallization",
+      "learning_outcomes": [
+        "L10"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (30 Sep - 06 Oct)",
+      "activity_type": "Practical",
+      "topic": "P2 - Heat treatment of steels Hardness test and microstructure analysis - Groups 3 & 4 attend"
+    },
+    {
+      "learning_period": "Week 11 (07 Oct - 13 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "T10 Tutorial 10 - Plastic deformation and recrystallization"
+    },
+    {
+      "learning_period": "Week 11 (07 Oct - 13 Oct)",
+      "activity_type": "Lecture",
+      "topic": "L11 Lecture 11 - Precipitation hardening and heat treatment of non-ferrous alloys",
+      "learning_outcomes": [
+        "L11"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (07 Oct - 13 Oct)",
+      "activity_type": "Practical",
+      "topic": "P2 - Heat treatment of steels Hardness test and microstructure analysis - Groups 5 & 6 attend"
+    },
+    {
+      "learning_period": "Week 12 (14 Oct - 20 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "T11 Tutorial 11 - Precipitation hardening and heat treatment of non-ferrous alloys"
+    },
+    {
+      "learning_period": "Week 12 (14 Oct - 20 Oct)",
+      "activity_type": "Lecture",
+      "topic": "L12 Lecture 12 - Other strengthening mechanisms and high entropy alloys",
+      "learning_outcomes": [
+        "L12"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (21 Oct - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "T12 Tutorial 12 - Other hardening mechanisms and high entropy alloys"
+    },
+    {
+      "learning_period": "Week 13 (21 Oct - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "L13 Lecture 13 - Revision",
+      "learning_outcomes": [
+        "L13"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

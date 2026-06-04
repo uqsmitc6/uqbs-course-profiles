@@ -1,0 +1,235 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/METR4202-61132-7460",
+  "scraped_at": "2026-06-04T01:07:33.710543+00:00",
+  "course_code": "METR4202",
+  "class_code": "61132",
+  "semester_code": "7460",
+  "full_course_code": "METR4202-61132-7460",
+  "course_title": "Robotics & Automation",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Modern robotic algorithms and techniques for use in practical applications. Coverage of advanced navigation, motion planning and control methodologies for intelligent robotic systems.\n\nThis course teaches the fundamentals of robotic systems covering navigation, motion planning, perception and control of mobile robots and robot arms.ﾠIts emphasis is a principled, algorithmic approach to robotics and deals specifically with challenges arising from noise and uncertainty in the sense-think-act cycle of an autonomous robot. Students will gain a systematic understanding of the design of robotic systemsﾠthrough a team project assignment developing algorithms in ROS2 to be deployed and tested in simulation and in hardware.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ELEC3004",
+      "METR3200",
+      "METR4201"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "METR4200",
+      "METR7201",
+      "METR7202",
+      "ELEC3700",
+      "ELEC7700"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Jen Jen Chung",
+      "email": "METR4202@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Jen Jen Chung"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nWorkshops start in week 2.",
+  "course_aims": "The course covers the modelling, analysis, design and control of mobile robotic systems. At the end of this course, students should acquire the skills to apply the concepts of\n\nStudents should also a foundational understanding of how modernﾠrobotic technologies influence and are influenced by contemporaryﾠsocietal needs and concerns.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain the see-think-act cycle in robotic systems"
+    },
+    {
+      "number": "LO2.",
+      "description": "Analyse and model sensing and actuation noise in robotic systems"
+    },
+    {
+      "number": "LO3.",
+      "description": "Derive and implement recursive state estimation and filters for robot navigation"
+    },
+    {
+      "number": "LO4.",
+      "description": "Design and implement global, local and reactive motion planning algorithms"
+    },
+    {
+      "number": "LO5.",
+      "description": "Apply forward and inverse kinematics to control multi-linked robots"
+    },
+    {
+      "number": "LO6.",
+      "description": "Evaluate and explain different sensing modalities used in robotic perception"
+    },
+    {
+      "number": "LO7.",
+      "description": "Design and implement sensing, planning and control algorithms on a practical robotic system"
+    },
+    {
+      "number": "LO8.",
+      "description": "Apply a systematic approach to the design process for robotic systems"
+    },
+    {
+      "number": "LO9.",
+      "description": "Discuss the practical application of robotic systems to intelligent mechatronics applications"
+    },
+    {
+      "number": "LO10.",
+      "description": "Work as an effective member of a team, demonstrating respect for others' ideas, work styles and backgrounds"
+    },
+    {
+      "number": "LO11.",
+      "description": "Think creatively, independently and in teams, about engineering problems of complex systems"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Presentation, Project",
+      "title": "Team Project Proposal Presentations",
+      "weight": "pass/fail",
+      "due_date": "27/08/2024 - 28/08/2024; All team members must be in attendance and contribute to the presentation.",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Practical/ Demonstration, Presentation, Project",
+      "title": "Team Project Interim Assessment",
+      "weight": "pass/fail",
+      "due_date": "10/09/2024 - 23/10/2024; Team members must be in attendance and contribute to the presentation in order to attempt the individual oral assessment component. Teams that attempt their Interim Assessment after Week 12 will be subject to the code freeze applied to all teams at 4PM on Monday Week 13.",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Practical/ Demonstration, Presentation, Project",
+      "title": "Team Project Final Demo",
+      "weight": "50%",
+      "due_date": "21/10/2024 - 25/10/2024; All team members must be in attendance and contribute to the presentation. Demonstrations will be scheduled during Week 13's class sessions. A code freeze is applied at 4PM on Monday Week 13.; A Peer Assessment Factor must be submitted for the Team Project Final Demo.",
+      "conditions": [
+        "Identity Verified",
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam (Individual)",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Team Project Proposal Presentations",
+      "mode": "Oral",
+      "category": "Presentation, Project",
+      "weight": "pass/fail",
+      "due_date": "27/08/2024 - 28/08/2024 All team members must be in attendance and contribute to the presentation.",
+      "task_description": "The team project will consist of a robotics challenge to be solved by a group of four students (or three or five depending on number of enrolments). The project brief will be released in Week 1 so you can start getting familiar with the requirements. The objective of the project is for students to learn practical robotics skills, practice applying robotics concepts to solve problems, and gain experience working in teams. Teams will be assessed on the performance of their solution. Specific details of the task requirements and guidelines are provided in the project brief document. The Team Project Proposal Presentations will be held in class during the workshop (WKS1) sessions in Week 6. Teams must prepare and deliver a 10-minute presentation detailing and justifying their proposed approach to the project brief, including a planned schedule and breakdown of tasks for each team member. A 5-minute Q&A will follow each presentation. Read full task description Hide full task description",
+      "submission_guidelines": "Team presentations will occur in class during the workshop (WKS1) sessions of Week 6.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nTeams that fail the project presentation must reattempt the assessment.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Team Project Interim Assessment",
+      "mode": "Oral, Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Practical/ Demonstration, Presentation, Project",
+      "weight": "pass/fail",
+      "due_date": "10/09/2024 - 23/10/2024 Team members must be in attendance and contribute to the presentation in order to attempt the individual oral assessment component. Teams that attempt their Interim Assessment after Week 12 will be subject to the code freeze applied to all teams at 4PM on Monday Week 13.",
+      "task_description": "The team project will consist of a robotics challenge to be solved by a group of four students (or three or five depending on number of enrolments). The project brief will be released in Week 1 so you can start getting familiar with the requirements. The objective of the project is for students to learn practical robotics skills, practice applying robotics concepts to solve problems, and gain experience working in teams. Teams will be assessed on the performance of their solution. Specific details of the task requirements and guidelines are provided in the project brief document. From week 8, teams can undertake the Team Project Interim Assessment. This assessment is a pass/fail hurdle, students and teams may make multiple attempts to pass the interim assessment until the end of semester. The purpose of the Interim Assessment is for teams to receive detailed feedback and support on the progress of their team project in preparation for the Final Demo. The interim assessment involves the following elements: System Demonstration (team): Live demonstration by the team of their robot in simulation accomplishing the first stage of the project brief during the in-class workshop (WKS1) session. Oral Assessment (individual): Students will be asked technical questions about their individual technical contributions, the system implementation, and design choices during the in-class workshop (WKS1) session. Report Submission (team): Written documentation describing all modules within the system and how they interact to achieve the target task. The report should clearly state which components were custom designed by the team and which were integrated from existing libraries. Code Submission (team): Complete git repository required to run the demo including relevant code comments and README instructions for installation and operation. Read full task description Hide full task description",
+      "submission_guidelines": "Teams that wish to conduct their in-class system demonstration and oral assessment must submit their code and report 24 hours prior to their workshop (WKS1) session.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nTeams that fail the project interim assessment must reattempt the assessment. As the Team Project Interim Assessment is a team-based assessment, no extensions or deferrals are possible.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Team Project Final Demo",
+      "mode": "Activity/ Performance, Oral, Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Practical/ Demonstration, Presentation, Project",
+      "weight": "50%",
+      "due_date": "21/10/2024 - 25/10/2024 All team members must be in attendance and contribute to the presentation. Demonstrations will be scheduled during Week 13's class sessions. A code freeze is applied at 4PM on Monday Week 13. A Peer Assessment Factor must be submitted for the Team Project Final Demo.",
+      "other_conditions": "Time limited, Peer assessment factor. See the conditions definitions",
+      "task_description": "The team project will consist of a robotics challenge to be solved by a group of four students (or three or five depending on number of enrolments). The project brief will be released in Week 1 so you can start getting familiar with the requirements. The objective of the project is for students to learn practical robotics skills, practice applying robotics concepts to solve problems, and gain experience working in teams. Teams will be assessed on the performance of their solution. Specific details of the task requirements and guidelines are provided in the project brief document. The Final Project Demo will be in Week 13, during scheduled class sessions. To be fair with all teams, a code freeze will be applied at 4PM on Monday Week 13. All teams must submit their git repository containing all necessary code to run the demo at this time. While marks will be given for working subsystems, the assessment scheme is biased towards completeness; marking criteria will reflect minimum expected functionality. If the hardware system does not completely function at testing, a demonstration in simulation, videos of working prototypes and incremental progress will be assessed on their merits according to the marking criteria. Anything not submitted or shown at the demonstration session will not be assessed. Late projects will not be assessed. Penalties will be applied for failing to meet specific requirements or exceeding design restrictions or limitations. Penalties will also apply for missing or inaccurate files/documentation submitted with the robot system. At the Team Project Final Demo, you will be asked to evaluate each member of your team. The peer assessment factors (PAFs) will modify your project mark to reflect your relative contribution to the assessment, as judged by your teammates. The evaluations will be performed by having each team member assessed by the other team members using a peer assessment form. Team members are to use the following criteria: Team Player: Did this person work as a member of a team? Did they wait to be told what to do? Alternatively, did they attempt to control the whole project? Creative Input: The extent to which this team member contributed to generating new ideas in the project, and general problem-solving ability. Technical Contribution: The technical skills that this team member brought to the project in areas such as navigation, planning, perception and control, as well as the overall software architecture design. Reliability: Did this person perform their assignments effectively and on time? Did this person respond to emails, etc.? Hard Work: The extent to which this person slogged away at their appointed tasks, regardless of their success in achieving good outcomes. Communication: Was this person easy to communicate with? Did you have difficulties understanding their issues? Did they have difficulties understanding yours? Meeting Attendance: Did this person attend meetings on time and every week? The peer assessment factor will be calculated by: (4 * Your Peer Mark / Total of Peer Marks Assigned in Your Team) ^0.6. This formula also normalises for team sizes other than 4. A three-member team will typically have peer assessment factors greater than 1 (meaning they don't have to implement as much functionality to get the same overall product mark as a four-member team). A five-member team will typically have peer assessment factors less than 1 (meaning they will have to implement more functionality to get the same mark as a four-member team). As an example, if all members of a team receive equal peer marks, your peer assessment factor will be 1. If you are in a three-person team and all members of the team receive equal peer marks, your peer assessment factor will be 1.188. If you are in a five-person team and all members of the team receive equal peer marks, your peer assessment factor will be 0.875. If a student does not submit a PAF form, their contribution to the PAF will be accounted as a score of zero awarded to each student, making the resultant scores determined entirely by the team members who did submit a PAF form. The course coordinator and teaching staff will moderate the peer assessments to ensure that marks are indicative of a student's achievement in the course; PAFs which mischaracterise contributions or unfairly penalize or reward team members will be set to null. The PAF will be accompanied by a Tutor Assessment Factor (TAF); the two will be multiplied together for the final scaling factor of the final project demo. The TAF will be based on in-class observations of the student interactions and contributions by casual academics and staff. Read full task description Hide full task description",
+      "submission_guidelines": "The PAF will be conducted via Blackboard (Buddycheck) and must be completed by Week 13 Friday 25/10/2024 16:00.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThe Team Project Final Demo is a scheduled class-wide exhibit, you cannot defer these, and no extensions will be available.\nLate submission\nFor the PAF, a penalty of 0.1 (10% of the nominal peer assessment factor of 1) will apply to your PAF per 24 hours from the time submission is due for up to 7 days. After 7 days, you will receive a PAF of zero.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "For the PAF, a penalty of 0.1 (10% of the nominal peer assessment factor of 1) will apply to your PAF per 24 hours from the time submission is due for up to 7 days. After 7 days, you will receive a PAF of zero.",
+      "special_indicators": [
+        "Identity Verified",
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam (Individual)",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 12 (22 Jul - 20 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Live Lectures Lectures develop a scaffold to help you understand the course content by providing a continuous development of the material. Key concepts will be introduced and discussed. There will be one lecture per week. Students are encouraged to attend the lecture live, on-campus, to be able to ask direct questions to the lecturer. Students will be also be pointed to recommended book chapters, exercises and online material that are relevant to the course's learning objectives. It is expected that students dedicate time to studying the recommended material."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Not Timetabled",
+      "topic": "Self-study This is a demanding course in terms of time, effort and self-discipline. Since most things we learn come from insight built through personal investigation and exploration, self study is a crucial part of this course. The expected total time commitment for the course is approximately 10 hours per week of productive effort. You should be looking to invest five hours per week in self or group study outside of the tutorials, lectures and practicals. Experience suggests that the students who make this investment achieve superior results. Students will be pointed to recommended book chapters, exercises and online material that are relevant to the course's learning objectives. This material will be published progressively throughout the semester on the course Blackboard page. Having efficient and effective independent learning processes is the key to doing well in this course. This includes working steadily throughout the semester; it is not possible to leave it all to the end of semester."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (29 Jul - 27 Oct)",
+      "activity_type": "Practical",
+      "topic": "Workshop (Practical) A two hour workshop (WKS1) session will be held each week. During these sessions, students will learn practical robotics skills using ROS2 and robot simulators. Students will be given the opportunity to deploy their work on robot hardware and work on team projects. Engagement with these activities, combined with student's self-review of workshop exercises, will be a significant contributor to the student learning process."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (29 Jul - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Workshop (Tutorial) A one hour workshop (WKS2) session will be held each week. During these sessions, students will apply the concepts and techniques presented in lectures to solve problems/exercises under the guidance of tutors. This provides students with the opportunity to discuss any theoretical questions which arise from the lectures. On select weeks, guest lecturers will be invited to present during the workshop sessions to provide students with perspectives from industry and research on state-of-the-art developments in robotics."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . You'll also need to be aware of the following policies and procedures while completing this course: Occupational Health and Safety in the Laboratory Guideline School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Course guidelines Students will have the opportunity to deploy their algorithmic solutions on robot hardware. Students must be inducted with the relevant occupational health and safety knowledge to understand the risks and safe handling procedures prior to using any robot equipment. Learning activities"
+}

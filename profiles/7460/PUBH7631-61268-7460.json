@@ -1,0 +1,325 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/PUBH7631-61268-7460",
+  "scraped_at": "2026-06-04T01:16:39.224615+00:00",
+  "course_code": "PUBH7631",
+  "class_code": "61268",
+  "semester_code": "7460",
+  "full_course_code": "PUBH7631-61268-7460",
+  "course_title": "Practical Regression Analyses",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Postgraduate Coursework",
+  "location": "External",
+  "attendance_mode": "Online",
+  "units": "2",
+  "administrative_campus": "Herston",
+  "coordinating_unit": "Public Health School",
+  "course_description": "The course covers Normal-theory regression (for continuous and categorical predictor variables), Poisson regression, logistic regression and survival analysis. Goodness-of-fit issues are discussed, as are model-building strategies. Developing a structured plan of analysis, to incorporate specific analytical tools around a set of research objectives, with an appropriate report structure is emphasised.\n\nThis course may not be offered if the enrolment is less than 10 students.\n\nThis intermediate level course explores the methods and application of regression analysis in health research. Regression is used to model relationships between multiple variables and determine the magnitude of those relationships. You will examine a series of applications, with differing statistical issues, designs, and analytical approaches, set around a question involving multiple determinants or predictors of a health outcome. You will need to already have knowledge of basic statistical methods, at the level of the core course PUBH7630 Introduction to Biostatistics.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "PUBH7600",
+      "PUBH7630",
+      "This course is jointly-taught with:",
+      "Another instance of the same course",
+      "This course has an in person and external offering with the same course code. All activities are identical."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Michael Waller",
+      "email": "m.waller@uq.edu.au",
+      "phone": "+61 7 3346 4611"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Michael Waller",
+      "email": "m.waller@uq.edu.au"
+    }
+  ],
+  "course_aims": "The course imparts knowledge and practical skills in the design and analysis of multivariable studies, including cross-sectional surveys, cohort studies and intervention studies. Emphasis is placed on careful planning, execution, and reporting of multivariate analysis, with a concentration on various statistical modelling techniques, comprising Normal theory regression, Poisson regression and logistic regression.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Carry out preliminary data analysis to assess appropriateness of a particular modelling technique (Normal, Poisson, or Logistic regression or Survival analysis)"
+    },
+    {
+      "number": "LO2.",
+      "description": "Determine an appropriate modelling method for the data set they wish to analyse."
+    },
+    {
+      "number": "LO3.",
+      "description": "Fit the statistical model using computer software."
+    },
+    {
+      "number": "LO4.",
+      "description": "Interpret the results of the modelling process and conduct formal tests of hypotheses."
+    },
+    {
+      "number": "LO5.",
+      "description": "Use the resulting best model for prediction of future outcomes or events."
+    },
+    {
+      "number": "LO6.",
+      "description": "Assess the fit of the model and the statistical assumptions made in the modelling process."
+    },
+    {
+      "number": "LO7.",
+      "description": "Demonstrate understanding the range of statistical modelling techniques available"
+    },
+    {
+      "number": "LO8.",
+      "description": "Prepare a report, summarising, in tabular and text form, the results of a multivariate regression"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Normal Regression: Analysis and Interpretation",
+      "weight": "33%",
+      "due_date": "9/08/2024 - 26/08/2024"
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Regression: Analysis and Interpretation",
+      "weight": "33%",
+      "due_date": "6/09/2024 - 23/09/2024"
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Quiz",
+      "title": "Assignment 3",
+      "weight": "34%",
+      "due_date": "4/11/2024 - 11/11/2024; Due 2pm 11/11/2024",
+      "conditions": [
+        "Online"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Normal Regression: Analysis and Interpretation",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "33%",
+      "due_date": "9/08/2024 - 26/08/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "Analysis of a supplied data set and written interpretation of findings Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nPlease refer to the Policies and guidelines\nLate submission\n10% of awarded grade deducted each day late until 50% (minimum passing grade) is reached",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "10% of awarded grade deducted each day late until 50% (minimum passing grade) is reached"
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Regression: Analysis and Interpretation",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "33%",
+      "due_date": "6/09/2024 - 23/09/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "Analysis of a supplied data set and written interpretation of findings Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nPlease refer to the Policies and guidelines\nLate submission\n10% of awarded grade deducted each day late until 50% (minimum passing grade) is reached",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "10% of awarded grade deducted each day late until 50% (minimum passing grade) is reached"
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 3",
+      "mode": "Activity/ Performance, Written",
+      "category": "Paper/ Report/ Annotation, Quiz",
+      "weight": "34%",
+      "due_date": "4/11/2024 - 11/11/2024 Due 2pm 11/11/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "This assignment will comprise multiple-choice, multiple answer, or short answer questions, and a short assignment submission. These will cover the entire course. The assignment can be attempted multiple times, edited, and saved on-goingly, but can only be submitted once. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nPlease refer to the Policies and guidelines\nLate submission\n10% of awarded grade deducted each day late until 50% (minimum passing grade) is reached.\nWith this assignment late submissions and extensions will need to be arranged prior so that the quiz component can remain open beyond the original due date.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "10% of awarded grade deducted each day late until 50% (minimum passing grade) is reached.",
+      "special_indicators": [
+        "Online"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Principles of Regression 1.1a Correlation and Regression: the Basics Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Principles of Regression 1.1b Correlation and Regression: the Basics Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Principles of Multivariable Regression 1.2 Continuous Predictors Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Principles of Multivariable Regression 1.3 Categorical Predictors Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Principles of Multivariable Regression 1.4 Interaction Models Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Logistic Regression 2.1 Introduction to the Logistic Model Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Logistic Regression 2.2 Logistic Regression - continuous predictors Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Logistic Regression 2.3 Interaction models Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Poisson Regression 3.1 Poisson Regression Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Survival Analysis 4.1 Kaplan-Meier Analysis, Life Tables Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Survival Analysis 4.2 Proportional Hazards Models Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Revision and Review Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Course guidelines School of Public Health (SPH) Guidelines for late submission of progressive assessment - Preamble To apply for an extension to the due date for a piece of progressive assessment (eg assignments, oral presentations and computer-based assignments) students should complete the online request at https://my.uq.edu.au/node/218/1 Information regarding deferral of in-semester exams and end-of-semester exams is available from https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam If requesting an extension on medical grounds, a medical certificate must be provided. The extension will be approved for the number of days included in the medical certificate that the student was not fit to study or work, eg if the medical certificate is for 3 days, an extension will be approved for 3 days maximum regardless of the student's request. If requesting an extension using a Student Access Plan for Disability (SAPD) as evidence, a maximum of 7-day extension will be approved in the first instance. Updated medical documentation, as well as a copy of the SAPD, is required if requesting an extension for more than 7 days. The maximum time for an in-semester extension is four weeks. The following SPH guidelines are consistent with the UQ policy. However, the SPH Guidelines contain specific rules and interpretations for SPH courses, and requests for extension and penalties for late submissions will be judged according to the guidelines outlined in this document. You should read both the information in your my.UQ at the following link: https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension?p=1#1 and the SPH guidelines (below) before submitting a request for an extension. The SPH Guidelines apply to all courses offered by the School of Public Health unless the ECP explicitly states otherwise. SPH Guidelines for late submission of progressive assessment Initial extension for an individual item of assessment – the SPH Teaching & Assessment Support Team and/or the Course Coordinator decides. This could be for medical or compassionate reasons, or if, in the opinion of the Course Coordinator, there are exceptional circumstances. Acceptable and unacceptable reasons for an extension are listed at the following link, along with the required evidence to be provided: https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension?p=1#1 All requests should be lodged at least 24 hours prior to the due date for the assessment. If applying for an extension after the due date and time of the assessment item , your request may not be approved. An explanation as to why your request was not submitted prior must be included. If approved, a new due date will be set. This would generally be no later than 7 days after the original due date, however this can be modified to take account of the circumstances of the request and the time that would have been lost from studies. If the new due date is past the date for submission of end-of-semester results, the student will receive an INC (incomplete) result. Second and all subsequent extensions for an individual item of assessment – the SPH Teaching & Assessment Support Team and/or the Program Director together with the Course Coordinator decides. This would only be approved for exceptional circumstance with supporting documentation. Online requests must be made at least 24 hours prior to the due date from the first extension. The SPH Teaching & Assessment Support Team and/or the Course Coordinator will consult with the Program Director, who will make the final decision. If approved, the new due date would generally be no later than 7 days after the first extension due date. The Program Director should consider if remedial or other support should be offered to the student. The Program Director should provide a report on these matters as needed at SPH Examiners’ Meetings. Please Note : In order to support course progression, extensions that total more than 14 calendar days from the original due date of an assessment item will only be approved in very exceptional circumstances. These requests are assessed and approved or denied on a case-by-case basis. If you have been ill or unable to attend class for more than 14 days, we advise you to carefully consider whether you are capable of successfully completing your courses this semester. You might be eligible to withdraw without academic penalty . Penalty for late submission Submission of assignments, practical reports, workbooks, and other types of written assessments after the due date specified in the Electronic Course Profile (ECP) will receive a penalty. The penalty will be a deduction of 10% RELATIVE PERCENTAGE per day ( 24 hour period or part thereof, including weekends and public holidays) or for work graded on a 1-7 scale, a deduction of one grade per day, e.g If the original mark is 73%, then 10% relative percentage is 10% of this value, ie 7.3%, The final mark for this assessment item after applying the penalty for 1 day late submission would be 73 -7.3 = 65.7% The same outcome is achieved by multiplying the original score by .9; ie 73 x .9 = 65.7% The penalty for multiple days late is the relative percentage multiplied by the number of days late. A submission that is not made within 10 days of the due date will receive a mark of 0% for that assessment item. Where a student has sought more than one extension, the due date for calculating the penalty will be the due date for the most recently approved extension. Submission of Medical Certificates Students are responsible for ensuring that any medical documentation they submit is authentic and signed by a registered medical practitioner. Such practitioners can be identified via the AHPRA website . Also note that: Not all online medical services are staffed by registered practitioners If the registration status of the practitioner cannot be verified, then an alternative practitioner should be sought Students will be held fully responsible for all documentation they submit, even if done so in ignorance of the practitioner's registration status Medical documentation may be subjected to an audit by the University. School of Public Health (SPH) Assessment Guidelines The School of Public Health assessment tasks have been designed to be challenging, authentic and complex. While students may us AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. Learning activities"
+}

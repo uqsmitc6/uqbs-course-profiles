@@ -1,0 +1,206 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMP3820-60577-7460",
+  "scraped_at": "2026-06-04T00:52:35.407055+00:00",
+  "course_code": "COMP3820",
+  "class_code": "60577",
+  "semester_code": "7460",
+  "full_course_code": "COMP3820-60577-7460",
+  "course_title": "Digital Health Software Project",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "This course will help you learn the basic fundamentals of digital health technology through hands-on experience, and through exposure to the real-world use of data and informatics in the health industry. The course includes a MOOC component that provides a broad introduction to healthcare informatics. There will also be a number of guest lecturers from industry talking about the current digital health landscape. A major part of the course is composed of a group software development project building a FHIR app for use in a clinical (or clinical education) setting, with real-world clients. FHIR (Fast Healthcare Interoperability Resources) is the new standard for sharing health data that is revolutionising how clinicians and patients are interacting with digital technology and has been adopted by major global IT companies (e.g., Apple, Google, Microsoft, etc.) and digital health vendors (e.g., Cerner, EPIC, etc.). Be at the forefront of healthcare application development by learning about and developing new FHIR and SMART-on-FHIR applications.\n\nCOMP3820 introduces students to interoperability standards for exchanging electronic healthcare data via the FHIR (Fast Healthcare Interoperability Resources) platform. As a software project development course, teams of students work together to design and develop a web-based application using FHIR.\n\nCourse Changes in Response to Previous Student Feedback\n\nChanges in 2024: to address feedback, the assessments have been streamlined and more spread out over the semester. The MOOC has also been updated.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE2002",
+      "CSSE7023",
+      "COMP2140",
+      "CSSE2310",
+      "CSSE7231",
+      "DECO2500",
+      "DECO7250",
+      "BIOE6901",
+      "We recommend completing the following courses before enrolling in this one:",
+      "DECO2800",
+      "DECO7280",
+      "DECO3800",
+      "DECO7380"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP3000"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Chelsea Dobbins",
+      "email": "COMP3820@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Chelsea Dobbins"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThe timetable for COMP3820 is 4C, which is split into 2 x 2-hour studio-like sessions per week.\nStudents are expected to attend both sessions.\nGuest speakers will be scheduled according to speaker availability and as such may occur during any timetabled session. Speaker talks will only be recorded by permission of the guest speakers. We ask that you respect that they do this for confidentiality reasons and that you do not make any recordings of your own. Sessions where a guest speaker has not been scheduled will not be recorded.\nThis is a 2-unit course. Under University policy, a total workload of approximately 10 – 12 hours per week (including class contact time) is expected for\nsatisfactory\nprogress. The two sessions per week will total 4 hours. Therefore, in addition to attending classes, students should expect to spend\nat least\napprox. 6-8 hours for at-home study and work on assessment. Please note that these are guidelines only and actual time spent on the course may vary.",
+  "course_aims": "To teach the basic fundamentals of digital health technology through hands-on experience, and through exposure to the real-world use of data and informatics in the health industry. The course includes a MOOC component that provides a broad introduction to healthcare informatics. There will also be a number of guest lecturers from industry talking about how digital health is used in their work. A major part of the course is composed of a group software project building a FHIR app for use in a clinical (or clinical education) setting, with real-world clients. FHIR (Fast Healthcare Interoperability Resources) is the new standard for sharing health data that is revolutionising how clinicians and patients are interacting with digital technology and has been adopted by major global IT companies (e.g. Apple, Google, Microsoft, etc.) and digital health vendors (e.g. Cerner, EPIC, etc.). Be at the forefront of healthcare application development by learning about and developing new FHIR and SMART-on-FHIR applications in collaboration with CSIRO’s Australian e-Health Research Centre, Georgia Tech University (USA) and UQ’s Faculty of Medicine and Faculty of Health and Behavioural Sciences.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Research, explain and describe aspects of the digital health landscape"
+    },
+    {
+      "number": "LO2.",
+      "description": "Apply the Software Development Life Cycle and previous experience and skills in human-centred design and software development to deliver a complete and functioning application that meets your client's requirements within a pre-determined deadline"
+    },
+    {
+      "number": "LO3.",
+      "description": "Develop and clearly document a healthcare application using the FHIR standard for use in a clinical or clinical education context utilising interoperability standards"
+    },
+    {
+      "number": "LO4.",
+      "description": "Analyse and respond to user-experience design issues that arise in designing a healthcare application"
+    },
+    {
+      "number": "LO5.",
+      "description": "Communicate effectively with stakeholders to gather requirements and to manage expectations over the course of a project"
+    },
+    {
+      "number": "LO6.",
+      "description": "Demonstrate an ability to work collaboratively and effectively with others in a multi-disciplinary team towards shared project goals, while managing individual work"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Essay/ Critique",
+      "title": "Individual Essay",
+      "weight": "20% (Individual)",
+      "due_date": "6/09/2024 4:00 pm"
+    },
+    {
+      "category": "Project",
+      "title": "Team FHIR Project",
+      "weight": "45% (Team)",
+      "due_date": "In-class Team Project Presentation 24/10/2024 2:00 pm; Team Project Final Report and Codebase 5/11/2024 4:00 pm; Team Project Video 11/11/2024 4:00 pm",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Online Activities",
+      "weight": "Pass/Fail (Individual)",
+      "due_date": "25/10/2024 4:00 pm",
+      "conditions": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "category": "Portfolio",
+      "title": "Individual Portfolio",
+      "weight": "35% (Individual)",
+      "due_date": "8/11/2024 4:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Individual Essay",
+      "mode": "Written",
+      "category": "Essay/ Critique",
+      "weight": "20% (Individual)",
+      "due_date": "6/09/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01",
+      "task_description": "Each student will write an essay (approx. 2,000 words) that should be related to a topic discussed in the MOOC course, “Digital Health on FHIR”. Read full task description Hide full task description",
+      "submission_guidelines": "You should submit a single electronic file via the Turnitin Assignment Handler in Blackboard on or before the due date/time. Please ensure that you include a completed and signed coversheet to the beginning of your work before it is submitted. Your submission must be a single word-processed document that contains your assignment, including coversheet. You should submit the word processor file (e.g. Microsoft Word (.doc/.docx), Pages (.pages), etc. formats only. PDF is acceptable but is not the preferred format).\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 7-14 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Team FHIR Project",
+      "mode": "Oral, Product/ Artefact/ Multimedia, Written",
+      "category": "Project",
+      "weight": "45% (Team)",
+      "due_date": "In-class Team Project Presentation 24/10/2024 2:00 pm Team Project Final Report and Codebase 5/11/2024 4:00 pm Team Project Video 11/11/2024 4:00 pm",
+      "task_description": "In teams, you will work through the Software Development Life Cycle to deliver 1) a complete and functional SMART-on-FHIR digital healthcare application, 2) team presentation of your application during class, 3) documentation of your development process in one team report and 4) team project demo video. Progress on the project will be monitored over the semester through various mechanisms, including the completion of various milestones. The main mode of assessment will be different for each milestone, but they will require an update during class time on the progress of the application’s development. Milestones/deliverables include: Week 04: Project scope and plan of work (verbal update and Team Charter submitted end of week 4) Week 08: Implementation update (verbal update/GitHub commits) Week 11: Testing update (verbal update/GitHub commits) Week 13: In-class Team Project Presentation (Week 13 – Thursday class) Exam Week 1: Team Project Final Report and Codebase (05/11/2024 by 4PM) Exam Week 2: Team Project Video (11/11/2024 by 4PM) Milestones 1 – 3 will be formative, intended to provide students with an understanding of the quality of their work. In the final Thursday class in week 13, each team will give a presentation/demonstration of their SMART-on-FHIR application. As an identity verified assessment, all students must be available for this part of the assessment item. All presentations must be given live and will be recorded by the teaching team for archiving purposes. This part of the assessment task is to be completed in-person. Read full task description Hide full task description",
+      "submission_guidelines": "Submission for each component includes:\nTeam Project Presentation: In-Class (all team members must attend in-person) Final Report: Your team should submit a single electronic file via the Turnitin Assignment Handler in Blackboard on or before the due date/time. Please ensure that a completed and signed coversheet is attached to the beginning of the work before it is submitted. The submission must be a single word-processed document that contains your team’s assignment, including coversheet. A word processor file should be submitted (e.g. Microsoft Word (.doc/.docx), Pages (.pages), etc. formats only. PDF is acceptable but is not the preferred format). Only one member of the team is required to submit on behalf of everyone. Final Codebase: GitHub Team Project Video: Blackboard\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThis course uses team-based assessment where the team assignment is developed and iterated on with students needing to act on regular formative feedback over the semester. This is to support the development of genuine reflective practice in the assessment and enable students to learn skills required in standard industry design practice. If teams encounter extraordinary difficulties in meeting a deadline, they should contact the course coordinator in advance of the due date. In all cases, teams should submit a version of the assignment by the deadline. All team submissions received after the deadline will be subject to the late penalty specified.\nLate submission\nLate submission penalty for each component includes:\nTeam Project Presentation: 100% late penalty (no grace period) Final Report & Codebase and Team Project Video: A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "Late submission penalty for each component includes:",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Online Activities",
+      "mode": "Activity/ Performance",
+      "category": "Tutorial/ Problem Set",
+      "weight": "Pass/Fail (Individual)",
+      "due_date": "25/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01",
+      "task_description": "Short activities completed online within the MOOC, “Digital Health on FHIR”. The online activities are to be completed individually. Students must complete (and pass) all activities within the MOOC. Activities can be attempted multiple times. Read full task description Hide full task description",
+      "submission_guidelines": "Once you have completed (and passed) all activities in the MOOC, you must upload a screenshot of your progress page to Blackboard on or before the due date/time. You must include the “Grade Summary” information and your username in your screenshot. The task will only be deemed as completed once this screenshot has been uploaded to Blackboard. Failure to upload the screenshot to Blackboard will result in the task being deemed a “Fail”.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 7-14 days where the earlier time frame applies if no extensions.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Individual Portfolio",
+      "mode": "Written",
+      "category": "Portfolio",
+      "weight": "35% (Individual)",
+      "due_date": "8/11/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L06",
+      "task_description": "This assessment item plays a similar role to a final exam, where you are required to demonstrate what you have learned across the whole course. The main purpose of a portfolio is to collect evidence that demonstrates that you have been actively engaged with your course, particularly in relation to the Team FHIR Project, guest seminars, and the online MOOC. In the section of the portfolio devoted to Team FHIR Project, you are required to include information about tasks that you have completed in collaboration with your team, which will be heavily influenced by your skills and background, as well as by the nature of the project you have worked on. As well as explaining what you individually contributed to your team project, you should also include information around how these fit within the bigger picture of the entire project and what you would do differently, as well as any conflict resolution strategies that were applied and the outcomes (if applicable). This piece should demonstrate how you have developed your teamworking skills, such as teamwork strategies, abilities, etc. In the other sections of the portfolio, such as the reflections on seminars, the MOOC and the course as a whole, you should reflect on these individually. This will allow you to reflect on your own learning and experiences, rather than just those of your team. This reflective component is important so that you can demonstrate deeper learning. Read full task description Hide full task description",
+      "submission_guidelines": "You should submit a single electronic file via the Turnitin Assignment Handler in Blackboard on or before the due date/time. Please ensure that you include a completed and signed coversheet to the beginning of your work before it is submitted. Your submission must be a single word-processed document that contains your assignment, including coversheet. You should submit the word processor file (e.g. Microsoft Word (.doc/.docx), Pages (.pages), etc. formats only. PDF is acceptable but is not the preferred format).\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 7-14 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Seminar",
+      "topic": "Guest Lectures Guest talks from industry will occur within some of the contact sessions about different aspects of the healthcare system and its use of data and informatics."
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Not Timetabled",
+      "topic": "Online MOOC Delivered via the Digital Health on FHIR online MOOC covering the key concepts of digital health."
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "General contact hours",
+      "topic": "Weekly Contact Sessions Students will work with each other on their team project and related activities that support the assessment deliverables. Studio sessions will be delivered in-person (face-to-face) and so you will be expected to participate in an entirely in-person (face-to-face) capacity in both sessions that occur each week. By default, these sessions will not be recorded. This course relies on students undertaking a self-directed team-based and individual learning approach towards the achievement of assessment deliverables. Active student participation is expected at all sessions . Students are expected to meaningfully contribute to all aspects of the team project. The teaching team are available to assist with issues."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

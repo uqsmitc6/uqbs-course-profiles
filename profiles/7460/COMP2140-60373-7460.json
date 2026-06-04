@@ -1,0 +1,219 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMP2140-60373-7460",
+  "scraped_at": "2026-06-04T00:52:30.222652+00:00",
+  "course_code": "COMP2140",
+  "class_code": "60373",
+  "semester_code": "7460",
+  "full_course_code": "COMP2140-60373-7460",
+  "course_title": "Web/Mobile Programming",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "In this course, students will build knowledge of functional programming with JavaScript, culminating in the production of interactive, cross-platform web/native apps using JavaScript frameworks. Throughout, students will consider and evaluate challenges posed by cross-platform architectures, testing their design and code approaches of web/native apps.\n\nCourse Changes in Response to Previous Student Feedback",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "DECO1400",
+      "CSSE1001",
+      "ENGG1001"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Aneesha Bakharia",
+      "email": "COMP2140@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Aneesha Bakharia"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nNote:\nContacts will be run from Week 1.",
+  "course_aims": "In this course, students will build knowledge of functional programming with JavaScript, culminating in the production of interactive, cross-platform web/native apps using JavaScript frameworks. Throughout, students will consider and evaluate challenges posed by cross-platform architectures, testing their design and code approaches of web/native apps.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Apply an intermediate knowledge of functional programming with vanilla JavaScript."
+    },
+    {
+      "number": "LO2.",
+      "description": "Analyse a specification and develop interactive web apps with a cross-platform JavaScript framework, testing across web browsers and device sizes."
+    },
+    {
+      "number": "LO3.",
+      "description": "Analyse a specification and develop interactive native apps with a cross-platform JavaScript framework, testing with device simulators (iOS and Android)."
+    },
+    {
+      "number": "LO4.",
+      "description": "Develop Javascript code to communicate with web and device APIs that are shared across web/native apps."
+    },
+    {
+      "number": "LO5.",
+      "description": "Apply user interface (UI) principles and critically evaluate user data privacy considerations for web/native apps."
+    },
+    {
+      "number": "LO6.",
+      "description": "Evaluate the design, implementation and architecture for delivering complex, cross-platform web/native apps."
+    },
+    {
+      "number": "LO7.",
+      "description": "Develop customised testing regimes for evaluating design, code and security of cross-platform web/native apps."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Participation/ Student contribution, Quiz, Tutorial/ Problem Set",
+      "title": "Weekly Activities",
+      "weight": "10%",
+      "due_date": "2/08/2024 - 11/10/2024; Weekly activities are due on Friday at 3:00pm.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "JavaScript Functional Programming",
+      "weight": "30%",
+      "due_date": "30/08/2024 3:00 pm"
+    },
+    {
+      "category": "Computer Code, Project",
+      "title": "React Web App",
+      "weight": "20%",
+      "due_date": "4/10/2024 3:00 pm"
+    },
+    {
+      "category": "Computer Code, Project",
+      "title": "React Native App",
+      "weight": "20%",
+      "due_date": "4/11/2024 3:00 pm"
+    },
+    {
+      "category": "Computer Code, Practical/ Demonstration, Reflection",
+      "title": "Code Reviews",
+      "weight": "20%",
+      "due_date": "The React Web App Review will occur in Week 9. 16/09/2024 - 20/09/2024; The React Native App Review will occur in Week 13. 21/10/2024 - 25/10/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Weekly Activities",
+      "mode": "Activity/ Performance",
+      "category": "Participation/ Student contribution, Quiz, Tutorial/ Problem Set",
+      "weight": "10%",
+      "due_date": "2/08/2024 - 11/10/2024 Weekly activities are due on Friday at 3:00pm.",
+      "other_conditions": "Peer assessed. See the conditions definitions",
+      "learning_outcomes_assessed": "L05, L06, L07",
+      "task_description": "In the Weekly Activities assessment, students will regularly participate in a series of activities via the course's Blackboard site. These activities will enable students to track their learning through regular quizzes and activities using a combination of learning platforms including Blackboard quizzes, RiPPLE (i.e. creation, moderation and practice cycles) and GradeScope. Between Week 2 & 12, students will regularly complete a weekly activity to test their knowledge of recently practiced functional programming in JavaScript, React Web & React Native. Student completion of each weekly activity will be graded in order to provide a means of tracking learning. Read full task description Hide full task description",
+      "submission_guidelines": "Submission details will be available via the assessment brief on Blackboard.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nTo accommodate unforeseen circumstances such as illness, your grade will be based on the best 8 out of 10 submissions.\nLate submission\n100% Late Penalty after 1 hour grace period. The one-hour grace period is recorded from the time the submission is due.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "100% Late Penalty after 1 hour grace period. The one-hour grace period is recorded from the time the submission is due.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "JavaScript Functional Programming",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "30%",
+      "due_date": "30/08/2024 3:00 pm",
+      "learning_outcomes_assessed": "L01, L04, L06, L07",
+      "task_description": "In the JavaScript Functional Programming assessment, students will build a terminal-based, Node.js app that demonstrates their knowledge & application of functional programming in JavaScript. This assessment is designed to extend student’s skills in JavaScript & programming fundamentals, through the prerequisite courses, DECO1400 (JavaScript) & CSSE1001 (Python). Work towards this assessment will assist in making architectural decisions for the Cross-Platform Project . Read full task description Hide full task description",
+      "submission_guidelines": "Submission details will be available via the assessment brief on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked submissions with feedback and/or detailed solutions with feedback will be released to students within 14-21 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "React Web App",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Computer Code, Project",
+      "weight": "20%",
+      "due_date": "4/10/2024 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L04, L05, L06, L07",
+      "task_description": "In the React Web App assessment (the 1st part of the Cross-Platform Project ), students will build an interactive web app with a cross-platform JavaScript framework (React), testing across web browsers & device sizes. The web app will communicate with web & device APIs that are shared across the Cross-Platform Project . Throughout, students will evaluate the design, implementation & architecture for delivering a complex web app. Work towards this assessment will then inform the 2nd part of the Cross-Platform Project — the React Native App assessment. Read full task description Hide full task description",
+      "submission_guidelines": "Submission details will be available via the assessment brief on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked submissions with feedback and/or detailed solutions with feedback will be released to students within 14-21 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "React Native App",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Computer Code, Project",
+      "weight": "20%",
+      "due_date": "4/11/2024 3:00 pm",
+      "learning_outcomes_assessed": "L01, L03, L04, L05, L06, L07",
+      "task_description": "In the React Native App assessment (the 2nd part of the Cross-Platform Project ), students will build an interactive native app with a cross-platform JavaScript framework (React Native), testing with device simulators (iOS & Android). The native app will communicate with web & device APIs that are shared across the Cross-Platform Project . Throughout, students will evaluate the design, implementation & architecture for delivering a complex native app. Previous work towards the React Web App assessment will inform this part of the Cross-Platform Project . Read full task description Hide full task description",
+      "submission_guidelines": "Submission details will be available via the assessment brief on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked submissions with feedback and/or detailed solutions with feedback will be released to students within 14-21 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-4",
+      "title": "Code Reviews",
+      "mode": "Oral",
+      "category": "Computer Code, Practical/ Demonstration, Reflection",
+      "weight": "20%",
+      "due_date": "The React Web App Review will occur in Week 9. 16/09/2024 - 20/09/2024 The React Native App Review will occur in Week 13. 21/10/2024 - 25/10/2024",
+      "task_description": "Students are required to complete a Code Review for the React Web App and the React Native App assessment items in their scheduled Contact session. Code Review of Web App: During the Week 9 Contact, students will deliver a demo of a half complete version of their React Web App assessment. Students will consult with teaching staff & peers to inform improvements to their work prior to final submission in Week 10. Code Review of React Native App: During the Week 13 Contact, students will deliver a demo of a half complete version of their React Native App assessment. Students will consult with teaching staff & peers to inform improvements to their work prior to final submission in Exam Week 1. Read full task description Hide full task description",
+      "submission_guidelines": "The Code Reviews will occur in your scheduled Contact.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Practical",
+      "topic": "Contacts from Week 1 to 13 3.5 hour Contacts delivered in-person. Contacts enable students to practice functional programming in JavaScript, React Web & React Native. Additionally, students will have multiple opportunities to give & receive feedback on their work to date, with a couple of Contacts earmarked for reviews of their assessments. Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 12 (22 Jul - 20 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lectures from Week 1 to 12 1.5 hour Lectures delivered in-person, with recordings available for viewing anytime. Lectures will introduce functional programming in JavaScript, React Web & React Native in preparation for building upon these skills during later Contacts. Additionally, Lectures will discuss topics pertinent to the assessments, such as assessment introductions, cross device/browser design, privacy & ethics. Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

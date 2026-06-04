@@ -1,0 +1,539 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MINE3122-60056-7460",
+  "scraped_at": "2026-06-04T01:08:39.884335+00:00",
+  "course_code": "MINE3122",
+  "class_code": "60056",
+  "semester_code": "7460",
+  "full_course_code": "MINE3122-60056-7460",
+  "course_title": "Mining Systems and Automation",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 16/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "This course will be discontinued from 2025. Students should enrol into MINE4126.\n\nThis course presents a systems approach to the principles, design and application of the major surface and underground mining methods together with the associated equipment, services and infrastructure. Furthermore, the course provides an introductory overview of automation and its diverse applications in both surface and underground mining contexts.\n\nThis course provides an in-depth exploration of major mining methods, the associated equipment, and essential support infrastructure. Students will gain the skills and knowledge to:\n\nBy the end of the course, students will be equipped with a comprehensive understanding of mining systems, enabling them to make informed decisions that promote sustainable and responsible mining operations.",
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Mehmet Kizil",
+      "email": "m.kizil@uq.edu.au",
+      "phone": "+61 7 3365 4499",
+      "notes": "Wed 13:00 - 14:00 or email for an appointment."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Mehmet Kizil",
+      "email": "m.kizil@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Adjunct Professor Warren Seib",
+      "email": "w.seib@uq.edu.au"
+    },
+    {
+      "role": "Demonstrator",
+      "name": "Mr Riley Barker"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The aim of this course is to provide students with the capability to select the appropriate mining method, together with its associated equipment, services and infrastructure, for a given deposit as well as comprehend the technological developments in mineﾠautomation.ﾠ",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Appreciate mining methods and associated deposits - Identify the major parameters that govern the selection of mining method (i.e. surface or underground, and choice therein) for a given deposit;"
+    },
+    {
+      "number": "LO2.",
+      "description": "Appreciate mining methods and associated deposits - Assess the suitability of a range of mining methods for a given mining project;"
+    },
+    {
+      "number": "LO3.",
+      "description": "Appreciate mining methods and associated deposits - Select the mining method most appropriate for a deposit in the presence of a limited set of constraints."
+    },
+    {
+      "number": "LO4.",
+      "description": "Appraise mining methods with respect to metrics - Calculate productivity of loading and hauling equipment given averaged utilisation and availability data;"
+    },
+    {
+      "number": "LO5.",
+      "description": "Appraise mining methods with respect to metrics - Estimate and compare the short- and long-term productivity and efficiency of mining methods with moderate precision;"
+    },
+    {
+      "number": "LO6.",
+      "description": "Appraise mining methods with respect to metrics - Contrast the relative safety, sustainability and risk of a range of mining methods for a given mining project."
+    },
+    {
+      "number": "LO7.",
+      "description": "Describe and illustrate major mining methods - Recall the major geotechnical and mechanical components of a range of common mining methods, along with their supporting infrastructure;"
+    },
+    {
+      "number": "LO8.",
+      "description": "Describe and illustrate major mining methods - Draw schematic diagrams of a range of common mining methods, highlighting their major features and components;"
+    },
+    {
+      "number": "LO9.",
+      "description": "Describe and illustrate major mining methods - Identify the key performance drivers and constraints of a range of common mining methods."
+    },
+    {
+      "number": "LO10.",
+      "description": "Understand a systems approach to mining - Understand the basic principles (i.e. processes, sub-systems and their interconnection) of systems engineering;"
+    },
+    {
+      "number": "LO11.",
+      "description": "Understand a systems approach to mining - Interpret mining methods and operations in the context of systems engineering;"
+    },
+    {
+      "number": "LO12.",
+      "description": "Understand a systems approach to mining - Identify the aspects of mining methods and equipment that best represent inputs, outputs, key drivers and constraints."
+    },
+    {
+      "number": "LO13.",
+      "description": "Recognise major technological trends in mining - Appreciate the changing role of technologies such as data science and automation in mining projects."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Tutorials",
+      "weight": "20%",
+      "due_date": "1/08/2024 - 24/10/2024",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "Quiz I - Surface Mining Systems",
+      "weight": "20%",
+      "due_date": "29/08/2024 9:00 am"
+    },
+    {
+      "category": "Quiz",
+      "title": "Quiz II - Underground Mining Systems",
+      "weight": "20%",
+      "due_date": "10/10/2024 9:00 am"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "40% Hurdle Rate: 40/100",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Tutorials",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "1/08/2024 - 24/10/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13",
+      "task_description": "Students are to submit their tutorial exercises at the end of each weekly tutorial session. The first 10 minutes of each tutorial will be used to discuss the previous tutorial’s solutions. The total mark for this assessment will be comprised of ten tutorials (20%). Read full task description Hide full task description",
+      "submission_guidelines": "Submit to the tutor at the end of the tutorial session.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nFeedback is provided to students following 7 calendar days. Answers to the previous week's tutorial questions are discussed.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nSubmission occurs at the conclusion of the tutorial.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Quiz I - Surface Mining Systems",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "20%",
+      "due_date": "29/08/2024 9:00 am",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13",
+      "task_description": "Services and infrastructure, surface mining systems and systems engineering. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nQuizzes are time limited and completed within the tutorial session.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late ."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Quiz II - Underground Mining Systems",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "20%",
+      "due_date": "10/10/2024 9:00 am",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L13",
+      "task_description": "Underground mine access and development, and underground mining systems. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nQuizzes are time limited and completed within the tutorial session.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late ."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40% Hurdle Rate: 40/100",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13",
+      "task_description": "End of semester examination. Exam questions will cover all content presented in the course with questions in both short answer and problem solving format. The exam will be closed book and include a hurdle rate of 40% . This means that you will need to score at least 40/100 on the final exam to pass the course. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series or UQ approved , labelled calculator only Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (22 Jul - 28 Jul)",
+      "activity_type": "Lecture",
+      "topic": "General Lecture I Introduction to course including course outline, course content, weekly schedules, learning outcomes, assessment, expectations, guidelines and teaching and learning strategy. Systems engineering concepts. Learning outcomes: L10, L11, L12",
+      "learning_outcomes": [
+        "L10",
+        "L11",
+        "L12"
+      ]
+    },
+    {
+      "learning_period": "Week 1 (22 Jul - 28 Jul)",
+      "activity_type": "Lecture",
+      "topic": "General Lecture II Mine services and infrastructure. Surface vs underground mining method selection. Learning outcomes: L01, L02, L03, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (29 Jul - 04 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Surface Mining I Open pit mining: Introduction and principles. Open pit mining: Loading and hauling equipment. Learning outcomes: L03, L04, L05, L06, L07, L08, L09, L13",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (29 Jul - 04 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial I Bench and open pit slope geometry. Learning outcomes: L01, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (05 Aug - 11 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Surface Mining II Strip mining: Introduction and principles. Strip mining: Draglines, bucket wheel excavators, and dozers. Learning outcomes: L02, L03, L04, L05, L06, L07, L08, L09, L13",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (05 Aug - 11 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial II Dragline selection and productivity. Learning outcomes: L04, L05, L06",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (12 Aug - 18 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Surface Mining III Haul roads and waste dumps. Highwall mining. Learning outcomes: L06, L07, L08, L09",
+      "learning_outcomes": [
+        "L06",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (12 Aug - 18 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial III Truck and shovel selection. Learning outcomes: L04, L05, L06, L07, L08, L13",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (19 Aug - 25 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Surface Mining IV Surface miners. Solution mining and other mining methods. Learning outcomes: L05, L06, L07, L08, L13",
+      "learning_outcomes": [
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (19 Aug - 25 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial IV Truck and Shovel Selection using Talpac. Learning outcomes: L04, L05, L13",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Underground Mining I Underground mine access and development. Underground mine method selection. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Quiz I First quiz, covering services and infrastructure, surface mining systems, and systems engineering. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (02 Sep - 08 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Underground Mining II Underground coal: Introduction and longwall mining. Learning outcomes: L01, L02, L03, L04, L05, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (02 Sep - 08 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial V Underground mine access: Shaft vs. decline. Learning outcomes: L07, L08, L09",
+      "learning_outcomes": [
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (09 Sep - 15 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Underground Mining IV Underground coal: Thick seam coal mining. Learning outcomes: L01, L02, L03, L06, L07, L08, L09, L13",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (09 Sep - 15 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial VI Longwall mining Learning outcomes: L04, L05, L06, L07, L08, L09",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Underground Mining III Bord (coal) and room (metal) and pillar mining. Underground metal: Cut and fill stoping. Learning outcomes: L01, L02, L03, L05, L06, L07, L08, L09",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial VII Thick Seam Mining Learning outcomes: L05, L06, L07, L08, L09",
+      "learning_outcomes": [
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (30 Sep - 06 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Underground Mining VI Underground metal: Sublevel stoping. Underground metal: Narrow vein mining. Learning outcomes: L01, L02, L03, L05, L06, L07, L08, L09",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (30 Sep - 06 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial VIII Bord and Pillar Mining Learning outcomes: L05, L06, L07, L08, L09",
+      "learning_outcomes": [
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (07 Oct - 13 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Underground Mining V Undergound metal: Caving methods. Learning outcomes: L01, L02, L03, L05, L06, L07, L08, L09, L10, L13",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (07 Oct - 13 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Quiz II Second quiz, covering underground mine access and development, and underground mining systems. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L13",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (14 Oct - 20 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Introduction to Automation in Mining Automation in Mining Learning outcomes: L13",
+      "learning_outcomes": [
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (14 Oct - 20 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial IX Block Caving Learning outcomes: L01, L06, L07, L10, L11, L12, L13",
+      "learning_outcomes": [
+        "L01",
+        "L06",
+        "L07",
+        "L10",
+        "L11",
+        "L12",
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (21 Oct - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Applications of Automation in Mining Applications of Automation in Mining Learning outcomes: L13",
+      "learning_outcomes": [
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (21 Oct - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial X- Visit to Virtual Reality Lab Watching Surface and Underground Mine simulations in VR Lab Learning outcomes: L01, L06, L07, L10, L11, L12, L13",
+      "learning_outcomes": [
+        "L01",
+        "L06",
+        "L07",
+        "L10",
+        "L11",
+        "L12",
+        "L13"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

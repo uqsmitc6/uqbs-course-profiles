@@ -1,0 +1,264 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG3800-60972-7460",
+  "scraped_at": "2026-06-04T00:58:33.036993+00:00",
+  "course_code": "ENGG3800",
+  "class_code": "60972",
+  "semester_code": "7460",
+  "full_course_code": "ENGG3800-60972-7460",
+  "course_title": "Team Project II",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Small teams of students undertake design, implementation, testing, evaluation and presentation of a complete product\n\nENGG3800 (Team Project II) is a project based electronics and software design course in which a prescribed \"product\" isﾠdesigned, constructed and tested in small teams. The product will encompass aspects of digital and analog electronics as well as an embedded processor requiring firmware. Interfacing and control by a host PC is also a component of the product.ﾠBoth the functionality of the device and the performance of the team in terms of planning, written and verbal communication and problem solving is assessed. Team based assessment is combined with assessment of the individual's contribution to derive the final mark.\n\nThe course is designed to provide a challenging design task for laterﾠyearﾠelectrical engineering students as well as being a frameworkﾠfor refiningﾠpreviously acquiredﾠproject management, interpersonal and communication skills.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ENGG2800",
+      "CSSE3010",
+      "ELEC2400",
+      "ELEC3400"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ENGG4810"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Karl Bertling",
+      "email": "engg3800@eecs.uq.edu.au"
+    },
+    {
+      "role": "Course coordinator",
+      "name": "Dr Jeremy Herbert",
+      "email": "engg3800@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Karl Bertling"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Jeremy Herbert"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPracs are not mandatory and there is no sign-up or allocation to particular sessions. They are an opportunity for you to get help from the teaching staff and it is expected that you will attend some sessions.",
+  "course_aims": "Team Project II addresses a wide range of goals for the learner from personal development to technical experience. Working in a team, you may be only lightly exposed to some technical skill areas, while deeply developing your abilities in other technical areas. Although background technical requirements and some theory will be presented, you will be responsible for your learning - choose your areas of expertise and interest in conjunction with your team. The goals related to personal development, on the other hand, are the core learning goals for the course that will relate to every member of the team. During this course you will:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "work effectively as a member of a team to design and build an electronic product on-budget and on-time"
+    },
+    {
+      "number": "LO2.",
+      "description": "apply a code of ethics to your team behaviour"
+    },
+    {
+      "number": "LO3.",
+      "description": "demonstrate specific electronic and/or software design skills required to produce a moderately complex analog and digital system fit-for-purpose"
+    },
+    {
+      "number": "LO4.",
+      "description": "effectively use software tools to aid project management, product design, version control and communication tasks."
+    },
+    {
+      "number": "LO5.",
+      "description": "summarise relevant aspects of the product design and design process to defined audiences via seminars and reports"
+    },
+    {
+      "number": "LO6.",
+      "description": "analyze issues that should be considered regarding sustainability of the product design"
+    },
+    {
+      "number": "LO7.",
+      "description": "apply the legal requirements of respect for intellectual property (IP) to your design"
+    },
+    {
+      "number": "LO8.",
+      "description": "reflect on your learning practices or development process to identify areas for personal improvement."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Team Code of Ethics and Code of Conduct",
+      "weight": "Pass/Fail",
+      "due_date": "9/08/2024 4:00 pm; As long as the task is submitted on time, resubmission will be possible once if a passing mark is not awarded. Details of the resubmission time will be made available to teams individually.",
+      "conditions": [
+        "Hurdle",
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Presentation",
+      "title": "Seminar presentation",
+      "weight": "10%",
+      "due_date": "9/09/2024 - 13/09/2024; Presentations will be scheduled based on the availability of participants and suitable presentation spaces.",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Practical/ Demonstration, Product/ Design, Project",
+      "title": "Product Demonstration Sequence",
+      "weight": "85%",
+      "due_date": "Week 5 - Demo 1 (Preliminary); Week 9 - Demo 2 (Intermediate); Week 13 - Final Demo. ALL projects are due at 10am on Monday 21/10/2024; Signup polls will be distributed in the weeks before demonstrations.",
+      "conditions": [
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Reflection",
+      "title": "Final Report and Reflection",
+      "weight": "5%",
+      "due_date": "4/11/2024 4:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Participation/ Student contribution, Reflection",
+      "title": "Assessment of Individual Performance (Formative/incorporated into product mark)",
+      "weight": "Formative/incorporated into product mark",
+      "due_date": "Peer assessment 1 19/08/2024 4:00 pm; Peer assessment 2 16/09/2024 4:00 pm; Peer assessment 3 21/10/2024 4:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Team Code of Ethics and Code of Conduct",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "Pass/Fail",
+      "due_date": "9/08/2024 4:00 pm As long as the task is submitted on time, resubmission will be possible once if a passing mark is not awarded. Details of the resubmission time will be made available to teams individually.",
+      "learning_outcomes_assessed": "L01, L02",
+      "task_description": "Each team is to create and submit a team code of ethics and code of conduct outlining how team members will conduct themselves over the course of the semester. The code of ethics must outline the principles that the team will adhere to during the semester. It is recommended that this is informed by the codes of ethics for relevant professional societies (e.g. Engineers Australia and IEEE). The code of conduct must outline the expected (and/or prohibited) behaviour of team members, and must include statements on expected communication modes / frequencies and attendance expectations. Read full task description Hide full task description",
+      "submission_guidelines": "Submission via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Hurdle",
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Seminar presentation",
+      "mode": "Oral",
+      "category": "Presentation",
+      "weight": "10%",
+      "due_date": "9/09/2024 - 13/09/2024 Presentations will be scheduled based on the availability of participants and suitable presentation spaces.",
+      "learning_outcomes_assessed": "L01, L03, L04, L05",
+      "task_description": "A demonstration of progress by means of a brief presentation (e.g. PowerPoint) by each team member is expected. Physical artefacts such as breadboards, PCBs and components may also be used along with software demonstrations. This will take about 2.5 minutes per person. It is expected that you will identify problems and propose solutions. Presentations will be open to all students and a schedule will be determined in the week prior to seminars. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Product Demonstration Sequence",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Computer Code, Practical/ Demonstration, Product/ Design, Project",
+      "weight": "85%",
+      "due_date": "Week 5 - Demo 1 (Preliminary) Week 9 - Demo 2 (Intermediate) Week 13 - Final Demo. ALL projects are due at 10am on Monday 21/10/2024 Signup polls will be distributed in the weeks before demonstrations.",
+      "other_conditions": "Peer assessed. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L07",
+      "task_description": "Over the duration of the semester, teams are to implement a hardware and software product that meets the published specification and associated TP-STD standards available on Blackboard. You will demonstrate your product at three separate points during semester. You will be assessed for participation as well as your progress (hardware, firmware or software) based on the evidence presented using a marksheet available on the course Blackboard site. The demonstrations will occur at the following points in semester: Preliminary demonstration 1 (weighting: 10%) Intermediate demonstration 2 (weighting: 10%) Final demo (weighting: 65%) For all three demonstrations, a poll will be sent to all teams in the weeks before the due date in order to allow them to sign up for a time slot. Further details about the process will be available on Blackboard. The final submission requires the team to submit the following in an Australia Post BX1, BX2, Small (SKU: 44862) or Medium (SKU: 44863) box (or equivalent) to staff in 47-209 by 10 AM on Monday of week 13: your product, including any cables, batteries (which should be uninstalled) etc. as required for the product to be tested. All of these parts must be budgeted for (any exceptions will be explicitly noted in the specification). printed copy of all schematic files documenting all electrical components (resistors, capacitors, integrated circuits, connectors etc). any other required documentation (details will be provided) a USB drive containing a software installer and any required files/documents (details will be provided). The USB drive will be returned to you after your demonstration. a declaration signed by all team members validating all submitted contents (provided as a label to stick on your submission box) More details on the submission process will be provided via Blackboard. In general, all members of the team are expected to attend the marking sessions. If you are not able to attend, your product will be marked in your absence and you will not be able to provide critical clarifications to the marker about the functionality implemented in your product. Given that the circumstances of any absence may be considered as part of the moderation process, it is important to let your team and the teaching staff know if you are unable to attend the demonstration. While marks will be given for working subsystems, the assessment scheme is biased towards completeness. To get a good grade the product must be sufficiently implemented for the customer to be able to use it in its operational environment, even if it might not quite meet the specifications. If your final product does not work you will be better off submitting working prototypes. Anything not submitted at submission time cannot be assessed. The system must be delivered in a testable form by the due date. Penalties will apply for missing or inaccurate files/documentation submitted with the product (and for inconsistencies between printed and electronic documentation). These penalties will be outlined in the marksheet on blackboard. Penalties apply for not meeting the TP-STD standards - your final product mark will be limited to a maximum of 50%. Your team's printed circuit board(s) (PCBs) must be manufactured via pinecone or your final product mark will be limited to a maximum of 50%. The product mark will be based mainly on the performance of the product during evaluation. It is very important that your product is functioning correctly during the demonstration session, and that clear instructions are provided as to how the product is operated. However, you may not use operating instructions as a way to require the user to perform more complex/onerous actions than those that are required by the specification. Consideration of past performance or re-evaluation of the product at a later date will not be available. Based on staff observation and/or team request and/or the team’s performance in an interim demonstration and/or responses to a peer assessment, the teaching staff may require your team to attend regular meetings with a teaching staff member. This is intended to support teams that are perceived to be struggling in some way. Failure to participate in such meetings will be taken into account during the moderation process and may therefore result in a lower product mark. Read full task description Hide full task description",
+      "submission_guidelines": "The preliminary and intermediate demonstrations will occur during prac sessions in the the allocated lab.\nThe final product is to be submitted to teaching staff in 47-209 (Axon) by the specified time.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nIf there are exceptional circumstances an exemption may be approved and may involve submitting/discussing your work as it stands. Exemptions must be requested as an extension with a note specifying exemption via my.UQ .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Report and Reflection",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Reflection",
+      "weight": "5%",
+      "due_date": "4/11/2024 4:00 pm",
+      "learning_outcomes_assessed": "L05, L06, L08",
+      "task_description": "The final report will consist of a brief re-statement of the team's roles and an individual summary of the background, methods and results of your work. The report must also address sustainability issues around your design. The report is an individual item of assessment - all parts must be completed individually. You may appropriately use generative AI tools in completing this task but you must reference every instance of any such use of AI. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. In addition, a reflection describing your group work experience over the duration of the semester is required. The goal of this part of the assignment is to prompt reflective thoughts about the interactive aspects of the engineering project you have participated in. The reflection is an opportunity for you to consider the inter-personal mechanics of group work, and your experiences working as part of a team, and to document particular challenges you may have faced which did not form part of any technical reports or presentations. Discuss what you have learned about how to work in a group. Describe what worked well within your group, what did not work well, and why. How might you organise team work differently to improve performance? If your group had conflicts or problems in working as a team, describe them and give insights into how such problems were resolved, or could be avoided in the future. This report is not assessed solely on the basis of technical outcomes of the team, but also on the identification of interactions, personality types and organisational tools which formed part of the successes (or failures!) of your team. The document will be submitted through Turnitin on the Blackboard site. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via Blackboard (Turnitin).\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions may cause delays in grade release.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The final report will consist of a brief re-statement of the team's roles and an individual summary of the background, methods and results of your work. The report must also address sustainability issues around your design. The report is an individual item of assessment - all parts must be completed individually. You may appropriately use generative AI tools in completing this task but you must reference every instance of any such use of AI. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. In addition, a reflection describing your group work experience over the duration of the semester is required. The goal of this part of the assignment is to prompt reflective thoughts about the interactive aspects of the engineering project you have participated in. The reflection is an opportunity for you to consider the inter-personal mechanics of group work, and your experiences working as part of a team, and to document particular challenges you may have faced which did not form part of any technical reports or presentations. Discuss what you have learned about how to work in a group. Describe what worked well within your group, what did not work well, and why. How might you organise team work differently to improve performance? If your group had conflicts or problems in working as a team, describe them and give insights into how such problems were resolved, or could be avoided in the future. This report is not assessed solely on the basis of technical outcomes of the team, but also on the identification of interactions, personality types and organisational tools which formed part of the successes (or failures!) of your team. The document will be submitted through Turnitin on the Blackboard site. Read full task description Hide full task description\nThe final report will consist of a brief re-statement of the team's roles and an individual summary of the background, methods and results of your work. The report must also address sustainability issues around your design. The report is an individual item of assessment - all parts must be completed individually. You may appropriately use generative AI tools in completing this task but you must reference every instance of any such use of AI. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-4",
+      "title": "Assessment of Individual Performance (Formative/incorporated into product mark)",
+      "mode": "Activity/ Performance",
+      "category": "Participation/ Student contribution, Reflection",
+      "weight": "Formative/incorporated into product mark",
+      "due_date": "Peer assessment 1 19/08/2024 4:00 pm Peer assessment 2 16/09/2024 4:00 pm Peer assessment 3 21/10/2024 4:00 pm",
+      "other_conditions": "Peer assessed, Peer assessment factor. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L08",
+      "task_description": "You will undertake three evaluations of each member of your team through the semester. They, of course, will be evaluating you. The purpose of the first two evaluations is to give formative feedback to all team members on their performance to that point. Results from the third evaluation will be used if moderation takes place (see below). The peer assessment scores will not directly moderate the product mark, but may serve as a prompt to teams to request a moderation meeting. The absolute values and trends across the three evaluations may be used as evidence of the team performance of individuals in a moderation meeting. The default Peer Assessment Factor (PAF) which will moderate the product mark will be 1.0. If any members of the team wish to change this distribution, a moderation meeting will be required with teaching staff. Students must indicate this intention by email to the course coordinator by 4pm, Friday Week 13. It is recommended that you wait until after your final demonstration to apply for moderation, as moderation meetings cannot be cancelled once requested. A moderation meeting will require attendance of all members. Every opportunity will be given to the team to derive an acceptable distribution of PAFs. If no resolution within the meeting is possible, teaching staff will allocate PAFs on the basis of responses to questions, history of performance, demonstrator feedback and marked product. A document describing the moderation process can be found on Blackboard. A PAF of 1.0 indicates that you are making a satisfactory/expected contribution to the team. A PAF less than 1.0 indicates your contribution is less than expected. A PAF greater than 1.0 indicates you are contributing more than expected. Failure to complete a formative peer assessment will result in you receiving a PAF of 0.5 for that evaluation, i.e. it will be assumed that your contribution to the team up to that point has been much less than expected. Your overall PAF will determine a Product Scaling Factor (PSF) as follows: for a team of 4 or 5, PSF = PAF if your PAF is <= 1 and PSF = (1+PAF)/2 if your PAF is > 1 for a team of 3, PSF = 1.1 * PAF if your PAF is <= 1 and PSF = 1.1*(1+PAF)/2 if your PAF is > 1 for a team of 2, PSF = 1.25 * PAF if your PAF is <= 1 and PSF = 1.25*(1+PAF)/2 if your PAF is > 1 Your product mark will be scaled (multiplied) by this PSF (and then capped at the maximum possible product mark where applicable). Submission of formative PAFs at each timepoint is your responsibility. Submission after the due date is not possible, and a lack of submission may be considered negatively toward you in a moderation meeting. Read full task description Hide full task description",
+      "submission_guidelines": "Submitted online via the provided tool (Blackboard link will be provided)\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "special_indicators": [
+        "Online"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website .",
+    "other_course_materials": "Recommended Item Description Further Requirement TP-Info https://tp-info.uqcloud.net/ Saturn PCB toolkit https://saturnpcb.com/saturn-pcb-toolkit/",
+    "recommended": "Item Description Further Requirement TP-Info https://tp-info.uqcloud.net/ Saturn PCB toolkit https://saturnpcb.com/saturn-pcb-toolkit/"
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Lectures and self-study series The lecture series will cover the course structure and organisation, product specifications, project planning, practical electronics and software design relevant to the product in the first few weeks of semester. Lecture notes will be posted on Blackboard and lectures will be recorded. Pre-recorded lectures are available on various topics. Further reading materials are available through tp-info. Learning outcomes: L01, L03, L04, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Practical",
+      "topic": "Teaching staff consultations Online help and feedback provided by teaching staff. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

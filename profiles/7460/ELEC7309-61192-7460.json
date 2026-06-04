@@ -1,0 +1,189 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ELEC7309-61192-7460",
+  "scraped_at": "2026-06-04T00:58:26.150407+00:00",
+  "course_code": "ELEC7309",
+  "class_code": "61192",
+  "semester_code": "7460",
+  "full_course_code": "ELEC7309-61192-7460",
+  "course_title": "Power System Planning and Reliability",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "This course covers power system planning, operation and management issues as well as reliability in a deregulated environment. The course will give a comprehensive overview of power system reliability. Evaluation of generation, transmission and distribution system reliability and their impacts on system planning will be covered. It will address the factors affecting power system expansion planning, operation and management as well as reliability in an electricity market including system adequacy, security, ancillary services market, decision making and other management issues. Students are assessed by tutorial, assignments and examination.\n\nELEC7309 introduces students to the fundamental concepts of power system reliability and planning within the context of the competitive electricity market. The course is divided into two parts: planning and reliability.\n\nThe course aims to equip students with advanced concepts in power system reliability and planning, providing valuable skills for professional practice in power systems operations and planning.\n\nChanges in response to previous student feedback",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ELEC4300",
+      "ELEC4310",
+      "ELEC7303"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ELEC7301",
+      "ELEC7305"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Wayes Tushar",
+      "email": "ELEC7309@eecs.uq.edu.au",
+      "notes": "Consultation time: Monday, from 12:00 pm to 1:00 pm (Room 47-402)"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Wayes Tushar"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Feifei Bai"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nTeaching staff do not have access to the timetable system. If you need help with your timetable allocation of classes and learning sessions, please email\ntimetables@eait.uq.edu.au\nfrom your UQ student email account with the following details:\nFull name\nStudent ID\nCourse Code",
+  "course_aims": "This course aims to enable you to:\n\n- Apply fundamentals ofﾠreliability analysis to power systems and demonstrate the calculation of basic reliability indices for smallﾠexamples.\n\n- Identify core reasons and conditions leading to the increased probability of failure of key network components, such as transformers and power lines.\n\n- Explain theﾠsocio-economic reasoning behind defining minimum reliability standards and penalties for not meeting them.\n\n- Use of reliability indicators for decision-making in power systemﾠplanning with a main focus on extension planning.\n\n- Identify stakeholders in power systems and explain their economic motivations related to power system planning.\n\n- Discuss the advantages and disadvantages of a range of common optimisation techniques used to solve power system planning problems.ﾠ",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Construct a basic modelling of power system components for reliability evaluation and planning"
+    },
+    {
+      "number": "LO2.",
+      "description": "Design methodologies to solve power system generation system reliability calculation and generation planning."
+    },
+    {
+      "number": "LO3.",
+      "description": "Investigate calculation of reliability indices for combined generation and transmission systems."
+    },
+    {
+      "number": "LO4.",
+      "description": "Formulate reliability concepts to transmission, distribution and interconnected systems, especially in planning."
+    },
+    {
+      "number": "LO5.",
+      "description": "Design power systems reliability and planning in the context of the deregulated environment."
+    },
+    {
+      "number": "LO6.",
+      "description": "Develop load forecasting models for short-term and long-term power system planning"
+    },
+    {
+      "number": "LO7.",
+      "description": "Construct transmission and generation expansion models for both regulated and deregulated power systems."
+    },
+    {
+      "number": "LO8.",
+      "description": "Develop a simple peer-to-peer energy trading algorithm for distribution system planning analysis."
+    },
+    {
+      "number": "LO9.",
+      "description": "Select suitable technology options for generation and transmission planning problems using cost-benefit analysis."
+    },
+    {
+      "number": "LO10.",
+      "description": "Investigate challenges and tools for solving large-scale power system planning problems."
+    },
+    {
+      "number": "LO11.",
+      "description": "Construct small-scale planning/reliability problems using power system packages and toolboxes."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignments",
+      "weight": "40% Individual",
+      "due_date": "Assignment 1 16/08/2024 3:00 pm; Assignment 2 30/08/2024 3:00 pm; Assignment 3 11/10/2024 3:00 pm; Assignment 4 18/10/2024 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final exam during exam period",
+      "weight": "60% Individual",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignments",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "40% Individual",
+      "due_date": "Assignment 1 16/08/2024 3:00 pm Assignment 2 30/08/2024 3:00 pm Assignment 3 11/10/2024 3:00 pm Assignment 4 18/10/2024 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11",
+      "task_description": "Task Description: Four assignments will be given for the whole course. The weight of each assignment be 10%. Thus, the total weight for four assignments is 40%. Assignment 1: Assignment 1 will be based on the Power System Planning part of the course covering the topic of Power System Economics and Transmission Planning. Assignment 2: Assignment 2 will be based on the Power System Planning part of the course covering the topic of Generation Planning and Peer-to-Peer Energy Trading. Assignment 3: Assignment 3 will be based on the Power System Reliability part of the course covering the topic of Generation Reliability analysis using the PowerFactory tool. Assignment 4: Assignment 4 will be based on the Power System Reliability part of the course covering the topic of Generation, Transmission, and Composite System Reliability. Students will get at least one week time to work on their assignments. All the assignment questions will be made available via Blackboard. Criteria & Marking: Understanding of the course content will be tested by short answers, problem-solving and PowerFactory Simulations. Read full task description Hide full task description",
+      "submission_guidelines": "All assignments will be submitted online via Blackboard unless specified otherwise.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\n100% Late Penalty after 1 hour grace period. The one-hour grace period is recorded from the time the submission is due.\nMarked assessment will be released within 3 days of the due date to permit students to progress with follow up assignments.\nIf there are exceptional circumstances , an exemption may be approved and may involve submitting/discussing your work as it stands. Exemptions must be requested as an extension with a note specifying exemption via my.UQ .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Final exam during exam period",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60% Individual",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09",
+      "task_description": "Task Description: The final exam will examine the full course, i.e. reliability and planning sections of the course. This final exam will be an on-campus invigilated exam. The final exam will be scheduled at a fixed time for all students – i.e. students will complete the exam simultaneously. Students will be required to use the Casio fx-82 series or UQ-approved and labelled non-programmable calculator for this exam. Students are not allowed to use computers or any software to solve the problems. No marks will be given if the students use a computer to solve problems. Assessment types will be from the following items: Short Answer, and Problem solving. The exam will be a closed-book exam. Further details will be discussed and announced during the semester lecture/tutorial scheduled events. To pass the course (GP 4 and above) the students must get at least 45% in the FINAL EXAM. Criteria & Marking: Understanding of the course content will be tested by short answers, short essays and problem-solving. Students are required to explain their procedures and algorithms with the formula/equation number used for each section of problems. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Lecture Series The Lecture Series will cover the following topics: Introduction and Engineering Economics for Power System Planning Transmission Expansion Planning Generation Expansion Planning Overview of Peer-to-Peer Energy Trading for Distribution System Introduction to Power System Reliability Generation Reliability Generation and Transmission Reliability Composite System Reliability Distribution System Reliability Evaluation Transmission and Distribution System Several Guest Lectures will also be organised on the broader industry practices in power system planning and reliability . All Lecturers will be delivered face-to-face in the classroom. The recording of the lectures will be made available on the same day of the Lecture. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13",
+      "activity_type": "Case-based learning",
+      "topic": "Case-based Learning Sessions Each 2-hour Case-based Learning Activity session will allow students to explore the topics covered in the Lecture Series and address power system planning and reliability problems alongside teaching staff. DigSILENT PowerFactory will be demonstrated, enabling students to simulate real-world power system reliability issues as part of their learning and assignments. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

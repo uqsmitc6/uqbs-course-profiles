@@ -1,0 +1,416 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CONS7008-64653-7460",
+  "scraped_at": "2026-06-04T00:53:41.491257+00:00",
+  "course_code": "CONS7008",
+  "class_code": "64653",
+  "semester_code": "7460",
+  "full_course_code": "CONS7008-64653-7460",
+  "course_title": "Sampling Design & Analysis in Conservation Science",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Postgraduate Coursework",
+  "location": "External",
+  "attendance_mode": "Online",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "The Environment School",
+  "course_description": "The modern conservation professional possesses the ability to collect/interpret data, and to understand statistical analysis as presented in research reports. As part of this course you will develop highly important skills in statistical analysis using the R program. The underlying theory and philosophy is explained without recourse to mathematical symbolism. Illustrations draw from a wide variety of studies in conservation biology. These skills will be reinforced and utilized throughout many of the remaining courses in the Masters of Conservation Biology program\n\nHow many koalas are there in the Gold Coast? What are the best ways to plant trees for habitat restoration? How are the distributions of species responding to habitat change? These are real questions of the type that scientists and other professionals often want to answer.\n\nDuring the course we develop the statistical skills needed to understand how scientists answer such questions.\n\nThe emphasis is threefold:\n\n(i) understanding how to formulate a \"good\" question: one that is both important and amenable to statistical methods;\n\n(ii) designing studies that will produce data and strong statistical inferences that address questions unambiguously, and;\n\n(iii) analysing data using the R statistical package.\n\nNo prior knowledge of statistical methods is assumed. The emphasis is on hypothesis testing, using linear regression techniques. From the basics, it takes the students up into mixed effects modelling and generalized linear modelling. It also covers principal components analysis, ordination techniques and multi-dimensional scaling.",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "CONS6008",
+      "This course is jointly-taught with:",
+      "Another instance of the same course",
+      "The course is taught in person and externally."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr John Dwyer",
+      "email": "j.dwyer2@uq.edu.au",
+      "phone": "+61 7 3365 2863"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr John Dwyer",
+      "email": "j.dwyer2@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Richard Fuller",
+      "email": "r.fuller@uq.edu.au"
+    },
+    {
+      "role": "Demonstrator",
+      "name": "Ms Ella Cathcart-Van Weeren",
+      "email": "e.cathcartvanweeren@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "Our aim is to teach students how to apply quantitative methods when formulating and addressing important questions in conservation science.\n\nWe teach students how to:\n\n1) choose well the question that is the focus of the research effort;\n\n2) plan the data gathering process, with the data analysis in mind, in order that the analysis address that question, and;\n\n3) perform that analysis using the R statistical package.",
+  "assessment_summary": [
+    {
+      "category": "Essay/ Critique",
+      "title": "Written project proposal",
+      "weight": "30%",
+      "due_date": "12/09/2024 2:00 pm"
+    },
+    {
+      "category": "Presentation",
+      "title": "Detailed research proposal (recorded group presentation)",
+      "weight": "30%",
+      "due_date": "3/10/2024 2:00 pm",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "Statistical analysis using R (10 weekly quizzes worth 1 mark each)",
+      "weight": "10%",
+      "due_date": "5/08/2024 - 21/10/2024",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Final RMarkdown report (Statistical analysis of frog data)",
+      "weight": "30%",
+      "due_date": "7/11/2024 2:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Written project proposal",
+      "mode": "Written",
+      "category": "Essay/ Critique",
+      "weight": "30%",
+      "due_date": "12/09/2024 2:00 pm",
+      "task_description": "Write a project proposal in response to a request from an NGO or government agency (you will have multiple scenarios to choose from). In your proposal, (i) clearly articulate your research questions (15%), (ii) demonstrate and justify a clear plan for how you will design your study (15%), (iii) explain what types of data you would collect (20%; hint: search the internet for details about any existing datasets that might be relevant to your study), (iv) explain in broad terms (not statistical detail) how you would analyse your data (20%), and (v) show how you would draw conclusions from your results (30%). A detailed task description will be provided by Rich Fuller. Read full task description Hide full task description",
+      "submission_guidelines": "Students are required to submit an electronic version of their report through Turnitin which can be found on the course Blackboard site in the Assessment folder.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Detailed research proposal (recorded group presentation)",
+      "mode": "Activity/ Performance",
+      "category": "Presentation",
+      "weight": "30%",
+      "due_date": "3/10/2024 2:00 pm",
+      "task_description": "This assignment follows logically from Rich Fuller’s more conceptual proposal task. IN GROUPS OF 3 you will apply your new understanding of the scientific method and key principles of experimental design to a real-world conservation science problem!!! You will be given a realistic scenario. Your job is to present (using MS Powerpoint) a proposed experiment and/or observational survey design to address the questions. Record the presentation IN ONE TAKE using Zoom or similar. A detailed task description and submission details will be provided by John Dwyer. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Statistical analysis using R (10 weekly quizzes worth 1 mark each)",
+      "mode": "Activity/ Performance",
+      "category": "Quiz",
+      "weight": "10%",
+      "due_date": "5/08/2024 - 21/10/2024",
+      "task_description": "Sum total score obtained from 10 online quizzes: one conducted following each prac session. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final RMarkdown report (Statistical analysis of frog data)",
+      "mode": "Activity/ Performance",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "30%",
+      "due_date": "7/11/2024 2:00 pm",
+      "task_description": "Final version of statistical analysis report prepared using RMarkdown. A detailed task description will be provided by John Dwyer. Read full task description Hide full task description",
+      "submission_guidelines": "Electronic submission via Turnitin and email directly to John Dwyer - j.dwyer2@uq.edu.au\nDeferral or extension\nYou may be able to apply for an extension .",
+      "deferral_or_extension": "You may be able to apply for an extension ."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 3 (05 Aug - 11 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Course intro & How to ask a good scientific question with John Dwyer and Richard Fuller"
+    },
+    {
+      "learning_period": "Week 3 (05 Aug - 11 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Introduction to the scientific method John Dwyer"
+    },
+    {
+      "learning_period": "Week 3 (05 Aug - 11 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Tidy Data and reproducible research PRE-RECORDED STATS MODULE (John Dwyer)"
+    },
+    {
+      "learning_period": "Week 3 (05 Aug - 11 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Types of scientific studies John Dwyer (lecture on experimental design due to EKKA Holiday in Week 2)"
+    },
+    {
+      "learning_period": "Week 3 (05 Aug - 11 Aug)",
+      "activity_type": "Information technology session",
+      "topic": "R Prac 1: Getting started with R, installing and running R, RStudio, basic R commands With John Dwyer and Ella Cathcart-van Weeren"
+    },
+    {
+      "learning_period": "Week 4 (12 Aug - 18 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Introductory case study: Migratory shorebirds of the East Asian-Australasian Flyway with Richard Fuller"
+    },
+    {
+      "learning_period": "Week 4 (12 Aug - 18 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Sampling from populations and the normal distribution PRE-RECORDED STATS MODULE (John Dwyer)"
+    },
+    {
+      "learning_period": "Week 4 (12 Aug - 18 Aug)",
+      "activity_type": "Team Based Learning",
+      "topic": "Understanding distributions John Dwyer"
+    },
+    {
+      "learning_period": "Week 4 (12 Aug - 18 Aug)",
+      "activity_type": "Information technology session",
+      "topic": "R Prac 2: Estimation and descriptive statistics With John Dwyer and Ella Cathcart-van Weeren"
+    },
+    {
+      "learning_period": "Week 5 (19 Aug - 25 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Species distributions I Richard Fuller"
+    },
+    {
+      "learning_period": "Week 5 (19 Aug - 25 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Control in all types of studies John Dwyer"
+    },
+    {
+      "learning_period": "Week 5 (19 Aug - 25 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Hypothesis testing PRE-RECORDED STATS MODULE (John Dwyer)"
+    },
+    {
+      "learning_period": "Week 5 (19 Aug - 25 Aug)",
+      "activity_type": "Team Based Learning",
+      "topic": "Understanding power John Dwyer"
+    },
+    {
+      "learning_period": "Week 5 (19 Aug - 25 Aug)",
+      "activity_type": "Information technology session",
+      "topic": "R Prac 3: Introduction to hypothesis testing With John Dwyer and Ella Cathcart-van Weeren"
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Species distributions II Richard Fuller"
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Replication in all types of studies John Dwyer"
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Linear models (regression) PRE-RECORDED STATS MODULE (John Dwyer)"
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "Team Based Learning",
+      "topic": "Revision & Transforming variables John Dwyer"
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "Information technology session",
+      "topic": "R Prac 4: Linear models (regression) With John Dwyer and Ella Cathcart-van Weeren"
+    },
+    {
+      "learning_period": "Week 7 (02 Sep - 08 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Earth observation Richard Fuller"
+    },
+    {
+      "learning_period": "Week 7 (02 Sep - 08 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Randomisation in all types of studies John Dwyer"
+    },
+    {
+      "learning_period": "Week 7 (02 Sep - 08 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Linear models (ANOVA) PRE-RECORDED STATS MODULE (John Dwyer)"
+    },
+    {
+      "learning_period": "Week 7 (02 Sep - 08 Sep)",
+      "activity_type": "Team Based Learning",
+      "topic": "Understanding interactions between categorical variables John Dwyer"
+    },
+    {
+      "learning_period": "Week 7 (02 Sep - 08 Sep)",
+      "activity_type": "Information technology session",
+      "topic": "R Prac 5: Linear models (ANOVA) With John Dwyer and Ella Cathcart-van Weeren"
+    },
+    {
+      "learning_period": "Week 8 (09 Sep - 15 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Socio-economic data I Richard Fuller"
+    },
+    {
+      "learning_period": "Week 8 (09 Sep - 15 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Designs to assess context dependence John Dwyer"
+    },
+    {
+      "learning_period": "Week 8 (09 Sep - 15 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Linear models (multiple regression) PRE-RECORDED STATS MODULE (John Dwyer)"
+    },
+    {
+      "learning_period": "Week 8 (09 Sep - 15 Sep)",
+      "activity_type": "Team Based Learning",
+      "topic": "Understanding interactions between continuous variables John Dwyer"
+    },
+    {
+      "learning_period": "Week 8 (09 Sep - 15 Sep)",
+      "activity_type": "Information technology session",
+      "topic": "R Prac 6: Linear models (Multiple regression) With John Dwyer and Ella Cathcart-van Weeren"
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Socio-economic data II Richard Fuller"
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Designs with structure John Dwyer"
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Linear mixed-effects models (LMMs) PRE-RECORDED STATS MODULE (John Dwyer)"
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Team Based Learning",
+      "topic": "Understanding fixed and random effects John Dwyer"
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Information technology session",
+      "topic": "R Prac 7: Linear mixed-effects models (LMMs) With John Dwyer and Ella Cathcart-van Weeren"
+    },
+    {
+      "learning_period": "Mid Sem break (23 Sep - 29 Sep)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Mid-semester break No classes"
+    },
+    {
+      "learning_period": "Week 10 (30 Sep - 06 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Making do with poor data Richard Fuller"
+    },
+    {
+      "learning_period": "Week 10 (30 Sep - 06 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Before-After-Control-Impact Designs John Dwyer"
+    },
+    {
+      "learning_period": "Week 10 (30 Sep - 06 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Generalised linear models (GLMs) PRE-RECORDED STATS MODULE (John Dwyer)"
+    },
+    {
+      "learning_period": "Week 10 (30 Sep - 06 Oct)",
+      "activity_type": "General contact hours",
+      "topic": "R Markdown Assignment Info John Dwyer"
+    },
+    {
+      "learning_period": "Week 10 (30 Sep - 06 Oct)",
+      "activity_type": "Information technology session",
+      "topic": "R Prac 8: Generalised linear models (GLMs) With John Dwyer and Ella Cathcart-van Weeren"
+    },
+    {
+      "learning_period": "Week 11 (07 Oct - 13 Oct)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "KING'S BIRTHDAY NO CLASSES TODAY"
+    },
+    {
+      "learning_period": "Week 11 (07 Oct - 13 Oct)",
+      "activity_type": "Information technology session",
+      "topic": "R Markdown Basics John Dwyer"
+    },
+    {
+      "learning_period": "Week 11 (07 Oct - 13 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Data visualisation PRE-RECORDED STATS MODULE (John Dwyer)"
+    },
+    {
+      "learning_period": "Week 11 (07 Oct - 13 Oct)",
+      "activity_type": "General contact hours",
+      "topic": "Dwyer's Decision Trees John Dwyer"
+    },
+    {
+      "learning_period": "Week 11 (07 Oct - 13 Oct)",
+      "activity_type": "Information technology session",
+      "topic": "R Prac 9: Graphical exploration of data With John Dwyer and Ella Cathcart-van Weeren"
+    },
+    {
+      "learning_period": "Week 12 (14 Oct - 20 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Other types of conservation analyses Richard Fuller"
+    },
+    {
+      "learning_period": "Week 12 (14 Oct - 20 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Common sources of multi-variate data John Dwyer"
+    },
+    {
+      "learning_period": "Week 12 (14 Oct - 20 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Principal Component Analysis PRE-RECORDED STATS MODULE (John Dwyer)"
+    },
+    {
+      "learning_period": "Week 12 (14 Oct - 20 Oct)",
+      "activity_type": "Team Based Learning",
+      "topic": "Let's generate multi-variate data! John Dwyer"
+    },
+    {
+      "learning_period": "Week 12 (14 Oct - 20 Oct)",
+      "activity_type": "Information technology session",
+      "topic": "R Prac 10: Principal component analysis (PCA) With John Dwyer and Ella Cathcart-van Weeren"
+    },
+    {
+      "learning_period": "Week 13 (21 Oct - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Conservation science and policy Richard Fuller"
+    },
+    {
+      "learning_period": "Week 13 (21 Oct - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "SPARE LECTURE SLOT John Dwyer"
+    },
+    {
+      "learning_period": "Week 13 (21 Oct - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "SPARE LECTURE SLOT John Dwyer"
+    },
+    {
+      "learning_period": "Week 13 (21 Oct - 27 Oct)",
+      "activity_type": "Information technology session",
+      "topic": "R Prac 11: Help session for Rmarkdown assessment John Dwyer"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

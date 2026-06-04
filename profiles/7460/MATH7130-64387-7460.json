@@ -1,0 +1,136 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH7130-64387-7460",
+  "scraped_at": "2026-06-04T01:06:44.420987+00:00",
+  "course_code": "MATH7130",
+  "class_code": "64387",
+  "semester_code": "7460",
+  "full_course_code": "MATH7130-64387-7460",
+  "course_title": "Natural Resource Mathematics",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "The biggest challenge facing our planet is how to maintain and manage our natural systems such as fisheries, forestry and biodiversity in the face of habitat destruction, climate change, pollution and over harvesting. In this course you will learn how to apply deterministic differential and difference equation models to real world examples, and how to solve them using numerical methods. You will also learn how to quantify system uncertainties with the help of statistical and probabilistic methods. Students will be taught a range of methods that are employed in industry, research, consultancies and government to model complex natural resource problems. In the process, students will learn how certain fundamental mathematical concepts such as critical points, orthogonality, eigenvalues and singularity recur in different mathematical frameworks with different but, invariably, vitally important physical interpretations.\n\nMathematics is fundamental to managing the natural resources—such as fisheries, forests, water, and biodiversity—on which we depend. In this course, we will build mathematical models that are used to manage natural systems subjected to threats such as climate change, habitat destruction, pests, pollution and overexploitation. Students enrolling in this course will study systems of deterministic differential and difference equation models applied to real-world problems. Students will also learn some probability theory and statistical methods for model fitting, validation, and uncertainty quantification. Students will develop programming skills and also learn the entire modelling process; how to formulate, parameterise, code, visualise, test, interpret, and communicate mathematical and statistical models relevant to management and policy decisions. Emphasis will be placed on the appropriate choice of mathematical model for a given situation and the correct interpretation of results. These models allow us to investigate and forecast the response of systems to future conditions, of which there may be no prior experience.ﾠThe R programming language will be taught in this course to enhance learning and to enable students to analyse real-life mathematical problems. However, for assessments, students are welcome to program in anyﾠlanguage they choose, such as MATLAB or Python. Skills developed in this course are in high demand in government, industry and research sectors.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "STAT7120",
+      "MATH7052"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH2070",
+      "MATH3070"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Matthew Holden",
+      "email": "m.holden1@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Matthew Holden",
+      "email": "m.holden1@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus. Consult your personal timetable for times and locations.\nStudents are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness).\nImportant: if you are ill, do not attend any classes in person. Videos will be available to aid students in catching up when sick. There will be no recording of practicals to encourage in-person attendance. However, solution sketches will be posted to help students catch up when ill.\nLectures or practicals will be cancelled on public holidays. However, a quick video may be posted for you to watch if we are running behind.",
+  "course_aims": "Mathematics is fundamental to managing the natural resources—such as fisheries, forests, water and biodiversity—on which we depend. In this course we will build mathematical models that are used to manage natural systems subjected to threats such as climate change, habitat destruction, pests, pollution and overexploitation. Students enrolling in this course will use systems of deterministic differential and difference equation models applied to real world problems and solve them using numerical methods. You will also learn some statistical methods for model development and parameter estimation. You will develop programming skills and also learn the entire modelling process; how to formulate, parameterise, code, visualise, test, interpret, and communicate models relevant to management and policy decisions. Emphasis is placed on the appropriate choice of mathematical model for a given situation and the correct interpretation of results. These models allow us to investigate and forecast the response of systems to future conditions, of which there may be no prior experience. The R programming language will be used throughout to enhance learning and to enable students to analyse real-life mathematical problems. Skills developed in this course are in high demand in government, industry and research sectors.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "understand a broad set of mathematical approaches to aid environmental management decisions, from well-established theory to modern advances."
+    },
+    {
+      "number": "LO2.",
+      "description": "choose, construct, modify and analyse suitable mathematical and statistical models to describe the dynamics of biological and environmental systems for applied problems"
+    },
+    {
+      "number": "LO3.",
+      "description": "clearly present complex mathematical ideas and results to diverse audiences"
+    },
+    {
+      "number": "LO4.",
+      "description": "generate new knowledge in natural resource mathematics by building and analysing new models or modifying previously established models to answer novel questions"
+    },
+    {
+      "number": "LO5.",
+      "description": "use objective approaches to address diverse social, economic, and environmental goals of natural resource management"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignments",
+      "weight": "55%",
+      "due_date": "5% of course mark: 8/08/2024 2:00 pm; 25% of course mark: 29/08/2024 2:00 pm; 25% of course mark: 17/10/2024 2:00 pm"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Essay/ Critique, Tutorial/ Problem Set",
+      "title": "Final Assignment",
+      "weight": "45%",
+      "due_date": "11/11/2024 3:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignments",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "55%",
+      "due_date": "5% of course mark: 8/08/2024 2:00 pm 25% of course mark: 29/08/2024 2:00 pm 25% of course mark: 17/10/2024 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "Problem sets on topics introduced in lectures and practicals. The first assignment is a short task asking students to engage with the ED discussion board. They will post a question/answer and be marked based on an objective rubric provided in the course. It is meant as an easy first assignment that teaches students how to ask good mathematical questions. It will be very useful in life, research, and in higher degree coursework. It will allow students to build confidence in the language of natural resource mathematics without worrying about mathematical rigour and correctness. Mathematical rigour and accuracy (as required in any maths course) will be assessed in the other assessment items. Note assignment questions will differ for the co-badged graduate-level natural resource mathematics course, yet the structure of the assessment dates will be the same. Read full task description Hide full task description",
+      "submission_guidelines": "To be submitted electronically with specific details to be announced on blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for assessment item/s will be released 7 days after the assessment is due and as such, an extension after 7 days will not be possible. See ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Final Assignment",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Essay/ Critique, Tutorial/ Problem Set",
+      "weight": "45%",
+      "due_date": "11/11/2024 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "This is a final assessment covering all of the material in this course implemented during the exam period. It is similar to an assignment. You will answer two to four questions on material covered in previous assignments, lectures, practicals, and lecture notes. You may consult all official course materials while working on the assignment. External sources can also be used, but must be cited, and presented in your own words. All technical words or concepts not defined in the lecture must be defined explicitly in your solutions. For example, you may use theorems presented in this course (or a pre-requisite course) without proof, but, if you are using a theorem from outside of the course or prerequisite material, you must prove the theorem in your solution, or you will receive a zero on that problem. The assessment should take approximately 8 hours of work for a student with a strong command of the course material (This does not include the time required to study or review material). However, we are giving a week to complete it to account for the fact that students may have conflicts during any specific 8-hour block of time. The release date is Nov 4th at 9:30am. There will be no deferred assignment. You can only apply for an extension to assessment as a request online. You must BOTH send an email to the coordinator and file an official request through my.uq. It is expected that students may have up to two other final exams that overlap the assessment period. However, for students with more than two other exams during this time, an extension can be applied for and is considered on a case-by-case basis. Read full task description Hide full task description",
+      "submission_guidelines": "To be submitted electronically with specific details to be announced on blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late ."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Lectures on mathematical modelling, optimisation and statistics as used to understand and manage natural resources. Learning outcomes: L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (29 Jul - 27 Oct)",
+      "activity_type": "Practical",
+      "topic": "Case study practicals Problem-solving sessions based on lectures and/or discussion of questions pertaining to assignments. Will include computing lab problems. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

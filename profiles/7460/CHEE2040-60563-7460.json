@@ -1,0 +1,483 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CHEE2040-60563-7460",
+  "scraped_at": "2026-06-04T00:51:13.760341+00:00",
+  "course_code": "CHEE2040",
+  "class_code": "60563",
+  "semester_code": "7460",
+  "full_course_code": "CHEE2040-60563-7460",
+  "course_title": "Heat and Mass Transfer",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Chemical Engineering School",
+  "course_description": "Fundamentals of heat and mass transfer. Concepts of heat exchange and heat exchanger selection. Differential and stage-wise mass transfer processes. Case studies of equipment for heat and mass transfer unit operations.\n\nThis courseﾠ covers the fundamental physical phenomena involved in heat transfer and mass transfer processes. Our approach to learning in this course will be (a) to describeﾠ the fundamental phenomena (or mechanisms), (b) to develop mathematical representations of these phenomena (i.e. mathematical models and equations),ﾠ and (c) to apply these principles and models to solve engineering problems, such as design process equipment, and analyseﾠ environmental systems.ﾠ\n\nWhat is heat transfer? ﾠ The topic of heat transfer covers the generation, use, conversion, and exchanger of thermal energy (i.e. heat) between physical systems. The three core mechanisms involved in heat transfer include conduction, convection, and radiation. Transfer of energy by phase change is also a heat transfer mechanism but that topic is outside the scope of CHEE2040. Heat transfer is driving by thermal gradients from a region of high temperature to another region of lower temperature (i.e. Second Law of Thermodynamics).\n\nHeat transfer is all around you. Some examples of heat transfer processes include your human body constantly ejecting heat to the environment (and you can control this rate of heat transfer by say putting on a jumper/sweater), a solar hot water heater, refrigeration and air conditioning systems, the hot BBQ plate at a CHESS smoko, electronic chips in your computer and smartphone. Industrial process examples include power plants, boilers, heat exchangers in petrochemical plants, food manufacturing, and evaporators. See Chapter 1 of Cengel and Ghajar (2015) for more examples.\n\nWhat is mass transfer?ﾠ Cengal and Ghajar (2015, p.833) define \" Mass transfer requires the presence of two regions of different chemical compositions, and mass transfer refers to the movement of a chemical species from a high concentration region toward a lower concentration one. \"\n\nSome examples of mass transfer applications include: sustained release of pesticide or pharmaceuticals, bubblers to purify water, CO2 capture processes by gas-liquid absorption (some of these also involve reactions), membrane processes for water desalination, design of an artificial kidney (see Middleman 1998, p.5).\n\nLinks to your other Chem Eng courses:",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CHEE2001"
+    ],
+    "companions": [
+      "You'll need to complete the following courses at the same time:",
+      "CHEE2030"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "CHEE3002"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor John Zhu",
+      "email": "z.zhu@uq.edu.au",
+      "phone": "+61 7 3365 3528"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor John Zhu",
+      "email": "z.zhu@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Ming Lim",
+      "email": "ming.lim@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Fatereh Dorostisheikhalikolayeh",
+      "email": "f.dorostisheikhalikolayeh@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Uduak Eyibio",
+      "email": "u.eyibio@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Shuoren Zhang",
+      "email": "shuoren.zhang@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Christian Zuluaga Bedoya",
+      "email": "c.zuluagabedoya@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLectures and Tutorials commence from week 1.\nﾠPrac sign-on will be via Allocate+.\nﾠAll students must complete a chemical engineering safety induction prior to undertaking the prac. Instructions for the chemical engineering safety induction will be provided on Blackboard one week prior to the first laboratory session. Students who are not wearing appropriate personal protective equipment (PPE) will not be permitted to participate in the prac.ﾠ",
+  "course_aims": "Our aim in CHEE2040 is to understand fundamental heat transfer and mass transfer phenomena, and apply this understanding to analyze heat transfer and mass transfer problems including, their application to creative and effective design of industrial processes and equipment, and to problem-solving in environmental systems. We will apply mathematical models (equations) to describe rate processes for the fundamental transfer phenomena, and use these models in illustrative examples of equipment design and problem solving across a range of process industries and environmental systems.ﾠ",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Demonstrate engineering problem solving skills - Describe the fundamental phenomena involved in heat transfer and mass transfer processes, and describe how multiple modes of heat and/or mass transfer can be simultaneously involved in a system."
+    },
+    {
+      "number": "LO2.",
+      "description": "Demonstrate engineering problem solving skills - Analyse and solve problems involving heat transfer processes in a wide range of contexts (domestic, environmental, process industries) and degrees of complexity."
+    },
+    {
+      "number": "LO3.",
+      "description": "Demonstrate engineering problem solving skills - Analyse and solve problems involving mass transfer processes in a wide range of contexts (domestic, environmental, process industries) and degrees of complexity."
+    },
+    {
+      "number": "LO4.",
+      "description": "Demonstrate engineering problem solving skills - Perform a thermal design and/or critical analysis of a design of common types of heat transfer equipment used in process industries. For example, students demonstrate a thermal design of a double-pipe heat exchanger or a shell-and-tube heat exchanger."
+    },
+    {
+      "number": "LO5.",
+      "description": "Demonstrate engineering problem solving skills - Perform a preliminary process design and/or critical analysis of a design of common types of mass transfer equipment used in process industries. For example, students demonstrate a preliminary process design of gas-liquid absorption column."
+    },
+    {
+      "number": "LO6.",
+      "description": "Demonstrate engineering problem solving skills - Discuss the significance and limitations of your solutions to heat and mass transfer problems, including discussion of potential safety and sustainability impacts of your engineering solutions."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Participation/ Student contribution",
+      "title": "Chemical Engineering Lab Safety Induction",
+      "weight": "Compulsory prior to prac attendance, pass or fail.",
+      "due_date": "22/07/2024 - 19/08/2024"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Problem Sets",
+      "weight": "25%",
+      "due_date": "5/08/2024 - 21/10/2024; 14:00",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Exam In-Semester Outside Class time",
+      "weight": "20%",
+      "due_date": "29/08/2024; 18:00-19:30",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Lab - heat & mass transfer",
+      "weight": "10%",
+      "due_date": "9/09/2024 - 14/10/2024; 14:00"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "45% hurdle",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Chemical Engineering Lab Safety Induction",
+      "mode": "Activity/ Performance",
+      "category": "Participation/ Student contribution",
+      "weight": "Compulsory prior to prac attendance, pass or fail.",
+      "due_date": "22/07/2024 - 19/08/2024",
+      "learning_outcomes_assessed": "L06",
+      "task_description": "Students are required to complete a School of Chemical Engineering undergraduate safety induction before you can do any practical work within the school and so before our prac. This induction comprises two parts. Part one is an online module and assessment, and the second is an onsite pre-lab briefing (at the time of your prac). Please do the online lab induction before you come to the lab. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThe induction should be completed prior to the prac. Students who do not complete the online lab induction are not eligible to enter the lab and perform the prac.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Problem Sets",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "25%",
+      "due_date": "5/08/2024 - 21/10/2024 14:00",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "6 problem set submissions are due at 14:00 on the following days: Set 1: 05/08/24; Set 2, 19/08/24; Set 3, 02/09/24; Set 4, 16/09/24; Set 5, 08/10/24; Set 6, 21/10/24 Problem sets are submitted in Blackboard, individually. Your best 5 problem set scores will count toward the final scores of your problem sets. Each worth 5 marks. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submit a scanned copy of your solutions as a single PDF in Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nResults will be returned in the next week after the submission deadline.\nLate submission\nAssessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "Assessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.",
+      "ai_statement": "6 problem set submissions are due at 14:00 on the following days: Set 1: 05/08/24; Set 2, 19/08/24; Set 3, 02/09/24; Set 4, 16/09/24; Set 5, 08/10/24; Set 6, 21/10/24 Problem sets are submitted in Blackboard, individually. Your best 5 problem set scores will count toward the final scores of your problem sets. Each worth 5 marks. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Exam In-Semester Outside Class time",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "20%",
+      "due_date": "29/08/2024 18:00-19:30",
+      "learning_outcomes_assessed": "L01, L02, L04",
+      "task_description": "Mid-semester exam will cover the contents from weeks 1 to 4. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options Any calculator permitted Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, single sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "Mid-semester exam will cover the contents from weeks 1 to 4. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Lab - heat & mass transfer",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "10%",
+      "due_date": "9/09/2024 - 14/10/2024 14:00",
+      "learning_outcomes_assessed": "L01, L02, L06",
+      "task_description": "We will have two pracs, the first prac is on heat transfer, in weeks 5 and 6; the second prac is on mass transfer, in weeks 9 and 10. Each prac lasts 2 hours. Each prac group will contain about 4 students, each group member should submit the individual prac report in Blackboard. Each student must attend both pracs, otherwise a penalty of 30% of this report will apply for the prac he/she misses. The first heat transfer prac report will be due on 09 Sept 24, at 2 pm; the second mass transfer prac report will be due on 14 Oct 24, at 2 pm. Each prac worth 5 marks. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submit in Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nResults will be returned in the third week after the submission deadline.\nLate submission\nAssessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "Assessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.",
+      "ai_statement": "We will have two pracs, the first prac is on heat transfer, in weeks 5 and 6; the second prac is on mass transfer, in weeks 9 and 10. Each prac lasts 2 hours. Each prac group will contain about 4 students, each group member should submit the individual prac report in Blackboard. Each student must attend both pracs, otherwise a penalty of 30% of this report will apply for the prac he/she misses. The first heat transfer prac report will be due on 09 Sept 24, at 2 pm; the second mass transfer prac report will be due on 14 Oct 24, at 2 pm. Each prac worth 5 marks. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-4",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "45% hurdle",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "Content covered: Weeks 1-13 of the course. Closed book exam . It will be invigilated. You will be provided with an equation sheet, and any required thermophysical data or properties. A calculator is required. Calculator must be UQ approved and labelled. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 180 minutes Calculator options (In person) Casio FX82 series or UQ approved , labelled calculator only Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "Content covered: Weeks 1-13 of the course. Closed book exam . It will be invigilated. You will be provided with an equation sheet, and any required thermophysical data or properties. A calculator is required. Calculator must be UQ approved and labelled. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture: Heat transfer, rate of heat transfer, Fourier's law Course introduction. Heat transfer: modes of heat transfer, general energy balance equations and rate of heat transfer equations, Fourier's law, thermal properties, heat resistances in series and parallel. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial: Problem solving approach, rate of heat transfer, heat resistance in series and parallel Practice of questions on rate of heat transfer for 1D conduction, heat resistance in series and parallel. Tutors will demonstrate an example problem, then students will work in small groups or independently solve their own example problems. Learning outcomes: L01, L02, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture: for 1D steady state conduction, temperature distribution in plates, spheres, cylinders, fins Heat transfer: general heat conduction equation, for 1-D steady state conduction, how to calculate temperature distribution in systems like pipes, spheres, plates and fins. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial: 1-D conduction, temperature distribution. Practice of questions on for 1D conduction, how to calculate temperature distributions in plates, sphere, cylinders, fins. Learning outcomes: L01, L02, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture: Transient heat transfer. Heat transfer: transient conduction problems. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial: Transient heat conduction. Practice of questions on how to calculate the temperature distribution and the amount of heat transfer under transient heat conduction for plate, sphere and cylinder. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture: Convective heat transfer Heat transfer: Convection (natural, forced, internal, external); Correlations for HT coefficients. Learning outcomes: L01, L02, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial: Convection Convective heat transfer and using empirical correlations to estimate convective heat transfer coefficients."
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture: Heat exchanger design Thermal design of heat exchangers (LMTD and NTU methods). Learning outcomes: L01, L02, L04, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial: Heat exchanger thermal design Heat exchanger thermal design using log mean temperature difference (LMTD) and Number of Transfer Units (NTU). Learning outcomes: L01, L02, L04, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture: radiation Heat transfer: radiation. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial: Radiation Radiation problems. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture: intro to mass transfer Analogies between mass and heat transfer. Unit conversions and equilibrium relationships. Learning outcomes: L01, L03",
+      "learning_outcomes": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial: Concentration & equilibrium relations Conversion between concentration units, Raoult's law, Henry's law, solubility. Learning outcomes: L01, L03",
+      "learning_outcomes": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture: mass transfer diffusion Mass transfer diffusion and Fick's Law; intro to mass convection. Learning outcomes: L01, L03",
+      "learning_outcomes": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial: Diffusion and diffusivity Practice of questions on unit conversion, Fick's law, mass transfer rate by diffusion, diffusivity. Learning outcomes: L01, L03, L06",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture: Mass transfer coefficients Mass Transfer coefficients & transfer across a phase boundary (2 film theory). Learning outcomes: L03, L05",
+      "learning_outcomes": [
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial: Mass transfer coefficients Esitimating mass transfer coefficients, and converting between film and overall mass transfer coefficients. Learning outcomes: L01, L03",
+      "learning_outcomes": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Lecture: transient mass transfer Mass transfer coefficients by empirical methods. Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial: Transient mass transfer problems Obtain mass transfer coefficients by empirical methods. Learning outcomes: L01, L03, L06",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Mass transfer equipment: staged process This week we learn how to get the number of idea stages of a mass transfer unit using MaCabe Thiele Graphical method. Learning outcomes: L01, L02, L03, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial: Staged process Mass Balance, draw equilibrium lines and operation lines, obtain the number of idea stages. Learning outcomes: L01, L02, L03, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Mass transfer equipment: differential process How to do differential analysis, how to obtain the height of a mass transfer unit by differential method. Learning outcomes: L01, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial: Differential process Understand the fundamental on differential analysis; calculate the height of an adsorption or stripping tower using differential method. Learning outcomes: L03, L05, L06",
+      "learning_outcomes": [
+        "L03",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 13 Revision lecture series Course review and revision problems, a sample question on combined heat and mass transfer. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial: Review and Revision Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: Safety Induction for Practicals Course guidelines Safety Induction for Practicals Anyone undertaking courses with a practical component must complete the UQ Undergraduate Student Laboratory Safety Induction and pass the associated assessment. Specific instructions, usage guidelines and rules for each of the undergraduate laboratories will be delivered as part of each course. In some cases, students may be required to attend a specific face-to-face laboratory induction/training session. Other Course Guidelines In order to attend the site visit, students must wear safety (steel-capped) footwear. Students unable to attend the site visit are required to attend a presentation at UQ instead. Learning activities"
+}

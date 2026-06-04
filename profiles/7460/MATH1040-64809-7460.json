@@ -1,0 +1,310 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH1040-64809-7460",
+  "scraped_at": "2026-06-04T01:05:56.030435+00:00",
+  "course_code": "MATH1040",
+  "class_code": "64809",
+  "semester_code": "7460",
+  "full_course_code": "MATH1040-64809-7460",
+  "course_title": "Mathematical Foundations I",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "Gatton",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "Gatton",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "This course covers fundamental mathematical concepts, useful to students in a wide range of discipline areas, including agriculture, arts, business, education, health sciences, science, social sciences, applied science and engineering. It is the UQ equivalent course to Queensland Secondary School Mathematical Methods (previously Mathematics B). Topics include: statistics (counting & probability, discrete random variables, continuous random variables), sequences and series, functions (quadratic, logarithmic, exponential, non-linear, trigonometric), differentiation and its applications, and integration and its applications.\n\nThis course provides an introduction to the most important parts of the mathematics needed at University. It is designed for students with limited mathematical backgrounds and gives a level of mathematical knowledge roughly equivalent to completing four semesters of Queensland high school Mathematical Methods.\n\nMost students take MATH1040 to satisfy a prerequisite. However, MATH1040 is also interesting in its own right, and can help you in everyday life. Many students from other fields take MATH1040 to strengthen their mathematical skills. Several PhD students have completed MATH1040 so they can better understand the mathematics used in their area. Happily, several students have enjoyed MATH1040 so much that they have studied some of the follow-up courses, and at least two MATH1040 students have continued to a PhD in mathematics; why don't you be the third?",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH7040"
+    ],
+    "restrictions": [
+      "MATH1040"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Vivi Arief",
+      "email": "v.arief1@uq.edu.au",
+      "notes": "Tuesday 10-11 am Thursday 10-11 am"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Vivi Arief",
+      "email": "v.arief1@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Vincent Mellor",
+      "email": "vam103@maths.uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThere are no repeat lectures in this course. You should attend\nboth\nlectures. All lectures will be delivered live on campus.\nAll lectures are recorded.\nYou should attend one workshop per week. Each workshop runs for two hours. You will sign up for a workshop at the start of the semester and should attend the same workshop each week.\nAll classes will be conducted on campus. Consult your personal timetable for times and locations. Students are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness). Important: if you are ill, do not attend in-person classes. Alternative arrangements can be organised – consult Blackboard for details.",
+  "course_aims": "The aim of this course is for students to reach a standard of mathematics roughly equivalent toﾠQueensland high schoolﾠMathematical Methods. This will enable them toﾠtackleﾠfirst level Mathematics courses such as MATH1050 and then MATH1051, as well as MATH1061 and/or STAT1201. It will also enable students to cope with a reasonable level of mathematics in their other (non-maths) courses.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Mathematical confidence - Apply mathematical and quantitative skills to a variety of problems across a range of discipline areas"
+    },
+    {
+      "number": "LO2.",
+      "description": "Mathematical confidence - Confidently work independently and in small groups to use mathematics in solving problems"
+    },
+    {
+      "number": "LO3.",
+      "description": "Mathematical confidence - Appreciate the power and importance of mathematics in solving diverse problems"
+    },
+    {
+      "number": "LO4.",
+      "description": "Functions - Identify simple functions and determine their domain and range"
+    },
+    {
+      "number": "LO5.",
+      "description": "Functions - Graphically represent functions"
+    },
+    {
+      "number": "LO6.",
+      "description": "Functions - Find the solution(s) of a range of functions"
+    },
+    {
+      "number": "LO7.",
+      "description": "Functions - Understand basic exponential, logarithmic and trigonometric functions"
+    },
+    {
+      "number": "LO8.",
+      "description": "Calculus - Understand the concept of rate of change and its connection to differentiation"
+    },
+    {
+      "number": "LO9.",
+      "description": "Calculus - Apply the techniques of calculus to solve physical problems"
+    },
+    {
+      "number": "LO10.",
+      "description": "Calculus - Understand the concept of integration as the reverse of differentiation as well as area under the curve, be able to integrate simple functions, and apply integration to solve practical problems in other fields."
+    },
+    {
+      "number": "LO11.",
+      "description": "Sequences and series - Express a list of objects as arithmetic and geometric sequences and series"
+    },
+    {
+      "number": "LO12.",
+      "description": "Sequences and series - Apply summation notation to solve mathematical problems"
+    },
+    {
+      "number": "LO13.",
+      "description": "Probability - Understand the concept of a discrete random variable and its associated probability function"
+    },
+    {
+      "number": "LO14.",
+      "description": "Probability - Understand the concept of a continuous random variable and its associated probability density function"
+    },
+    {
+      "number": "LO15.",
+      "description": "Probability - Evaluate the expected value and variance of random variables"
+    },
+    {
+      "number": "LO16.",
+      "description": "Probability - Identify contexts that can be modelled using the Binomial or Normal random variables"
+    },
+    {
+      "number": "LO17.",
+      "description": "Probability - Calculate probabilities from random variables to solve practical problems"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Workshop assessment",
+      "weight": "10%",
+      "due_date": "Weeks 3,7,8,9,10,12,13.; Submission required at the Workshops during these weeks.",
+      "conditions": [
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignments",
+      "weight": "20%",
+      "due_date": "Assignment 1: 23/08/2024 4:00 pm; Assignment 2: 11/10/2024 4:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Mid-Semester Exam",
+      "weight": "15%",
+      "due_date": "Exam will take place Friday of Week 6 (30 August 2024) from 3 pm. Please check the Public Timetable for venue.",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final examination",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Workshop assessment",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "10%",
+      "due_date": "Weeks 3,7,8,9,10,12,13. Submission required at the Workshops during these weeks.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17",
+      "task_description": "You will complete a collaborative exercise at the workshop. Read full task description Hide full task description",
+      "submission_guidelines": "In class - Hand in the collaborative exercise to your tutor at the end of the workshop.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nNo extensions on workshop exercises are available. If you are not able to attend your regular workshop, please attend another workshop for that week to submit your exercise.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "special_indicators": [
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignments",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "Assignment 1: 23/08/2024 4:00 pm Assignment 2: 11/10/2024 4:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L11, L12, L13, L14, L15, L16, L17",
+      "task_description": "You must submit detailed written solutions to a collection of mathematical problems. Assignment 1 is distributed Friday Week 3 and due Friday Week 5 (4pm). Assignment 2 is distributed Friday Week 9 and due Friday Week 11 (4pm). Read full task description Hide full task description",
+      "submission_guidelines": "Submit via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Mid-Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "15%",
+      "due_date": "Exam will take place Friday of Week 6 (30 August 2024) from 3 pm. Please check the Public Timetable for venue.",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "The mid-semester examination will be invigilated on-campus. There are two sections in the exam: Section A consists of short answer questions. Section B consists of problem solving questions. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series or UQ approved , labelled calculator only Open/closed book Closed Book examination - no written materials permitted Materials Pens, pencil, eraser Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17",
+      "task_description": "There are two sections in the exam: Section A consists of short answer questions. Section B consists of problem solving questions. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series or UQ approved , labelled calculator only Open/closed book Closed Book examination - no written materials permitted Materials Pens, pencil, eraser Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Lecture Students may choose to attend either face-to-face lectures (on campus) or view the online lectures. The online lectures will cover the same content as the face-to-face lectures. Both face-to-face and online lectures are centred around the lecture notes, so it is vital that students have their notes with them for both face-to-face and online lectures. As well as completing the lecture notes in a comprehensive manner, students will be provided with additional material and examples. Students electing to simply download the completed notes from Blackboard after each chapter is finished will hence be missing material. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13",
+        "L14",
+        "L15",
+        "L16",
+        "L17"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Workshop",
+      "topic": "Workshop Workshops provide students with an opportunity to practise mathematical techniques with assistance available from a tutor and/or from their peers. Students will complete a collaborative exercise at the workshop in Weeks 3,7,8,9,10,12,13,. The tutors will facilitate group activities and discussions. You can also ask questions about other aspects of the course. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13",
+        "L14",
+        "L15",
+        "L16",
+        "L17"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Revision week",
+      "activity_type": "Not Timetabled",
+      "topic": "Independent work During the semester students are expected to work on MATH1040 outside of class time to consolidate the information given during lectures, work on workshop materials and assignments, complete extra practice problems and study for examinations. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13",
+        "L14",
+        "L15",
+        "L16",
+        "L17"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

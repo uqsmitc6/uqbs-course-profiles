@@ -1,0 +1,221 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MRES7400-64453-7460",
+  "scraped_at": "2026-06-04T01:09:29.762047+00:00",
+  "course_code": "MRES7400",
+  "class_code": "64453",
+  "semester_code": "7460",
+  "full_course_code": "MRES7400-64453-7460",
+  "course_title": "MRI Pulse Sequence Construction & Image Contrast",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "This course aims to equip students with a comprehensive understanding of Magnetic Resonance Imaging (MRI) sequences commonly used in clinical and research settings. Students will gain an in-depth understanding of the building blocks of MRI sequences, including radiofrequency (RF) pulses, magnetic field gradients, spatial encoding methods, and signal sampling. They will learn their characteristics and manipulation methods and how to combine them to form different sequences that produce images with various contrast weightings, such as proton density, T1-, T2, T2* and other contrasts.\n\nStarting from the basic gradient-echo and spin-echo sequences, students will explore the composition and parameters of various sequences and how to vary them to achieve different contrasts. More advanced and emerging sequences will also be explored, enabling students to confidently manipulate scanner parameters and generate desired MRI contrast.\n\nMR images are prone to artefacts from various sources, and identifying them is essential for MRI researchers and technicians. This course will introduce the different types of static and dynamic artefacts that commonly occur on MR images, explain their causes and the methods to eliminate or reduce them.\n\nThe skills and knowledge attained in this course will prepare students of the program for later courses in advanced applications of MRI and practical operation of MRI scanners within the clinical environment.\n\nThis foundation course is compulsory within the post-graduate Master of Magnetic ResonanceﾠTechnology.ﾠ It will provide the background knowledge that is essential to understand the material presented in later courses and provides an introduction to practical MRI pulse sequence design and construction.ﾠ Theﾠapplication of these principles is describedﾠto analyse and understand the origin of signal and its contrast weighting in a number of sequences that areﾠimportant in clinical diagnostic imaging and in research.",
+  "requirements": {
+    "prerequisites": [
+      "We recommend completing the following courses before enrolling in this one:",
+      "MRES7100"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MRES7004",
+      "This course is jointly-taught with:",
+      "Another instance of the same course",
+      "MRES7400"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Jiaxin Du",
+      "email": "j.du2@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Jiaxin Du",
+      "email": "j.du2@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nTimetables will be posted on the course Blackboard.ﾠAll tutorials are recorded and posted onto Blackboard.ﾠSome weeks will require a double session for practical demonstrations and quiz review, others will be a single hour session. ﾠPlease see the Learning Activities section for course timetables.ﾠ Tutorials are held atﾠ\nCentre for Advanced Imaging, Building 57, Level 2 Seminar Room.ﾠ\nMonday 4pm to 5pm Tutorial recordings posted on Blackboard.",
+  "course_aims": "Upon finishing this course, students will gain a comprehensive understanding of the implementation and parameters of various clinically important and commonly used sequences. They will also gain an in-depth understanding of how the choice of sequence parameters affects the contrast of images. Students will be capable of identifying common artefacts on MR images and reducing them by changing the parameters.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Create MRI sequences by applying knowledge of magnetic field gradients and RF pulses."
+    },
+    {
+      "number": "LO2.",
+      "description": "Predict the effect of adjusting sequence parameters on image contrast."
+    },
+    {
+      "number": "LO3.",
+      "description": "Explain the performance of advanced sequences in producing the desired contrast."
+    },
+    {
+      "number": "LO4.",
+      "description": "Understand the practical implementation and limitations of imaging sequences."
+    },
+    {
+      "number": "LO5.",
+      "description": "Recognise and explain image artefacts and suggest approaches for their correction."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Online quizzes based on modules",
+      "weight": "30%",
+      "due_date": "9/08/2024 2:00 pm; 23/08/2024 2:00 pm; 6/09/2024 2:00 pm; 20/09/2024 2:00 pm; 18/10/2024 2:00 pm; Each quiz covers the material of two modules. The quiz will be released following the lecture on the first module and must be submitted by 2:00 pm on the Friday after the lecture on the second module.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Assignment based on Practical Demonstrations",
+      "weight": "30%",
+      "due_date": "20/09/2024 2:00 pm; Resubmission are allowed before due date.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Online"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Online quizzes based on modules",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "30%",
+      "due_date": "9/08/2024 2:00 pm 23/08/2024 2:00 pm 6/09/2024 2:00 pm 20/09/2024 2:00 pm 18/10/2024 2:00 pm Each quiz covers the material of two modules. The quiz will be released following the lecture on the first module and must be submitted by 2:00 pm on the Friday after the lecture on the second module.",
+      "task_description": "Students are required to complete five online quizzes, each covering the material from two modules. Read full task description Hide full task description",
+      "submission_guidelines": "Students will submit their answers online.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nStudents are required to submit the answers online before the due date. Otherwise, the penalty will be applied. Submissions received after the quiz tutorial session will be awarded zero marks. The tutorial is usually scheduled for the following Monday after the due date, before the lecture.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment based on Practical Demonstrations",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "30%",
+      "due_date": "20/09/2024 2:00 pm Resubmission are allowed before due date.",
+      "task_description": "Students will review practical demonstrations and implementations of pulse sequences, and answer questions relating to those demonstrations. Read full task description Hide full task description",
+      "submission_guidelines": "The students will submit their answers via TurnItIn on Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "task_description": "Non-invigilated online exam (during Exam Period). These exams are centrally controlled and run using a separate Blackboard site. You will be advised of the date and time in which to complete the examination once the examination timetable has been determined. Note that late penalties will be strictly applied as per university policy. The examination will be centrally timetabled and in the form of a Blackboard Test (Part A) in combination with Blackboard Asssignment (Part B). The exam should be completed within a 120 minutes duration with a 10-minute perusal time - there is also a 15-minute upload allowance. The exam will be available and open during the Examinations Period for 130 minutes (+ 15 minutes submission) starting at the time specified in the student's personal examination timetable (to be announced prior to week 13 of semester). Note that there will be a 15 minutes submission period in total so the students need to complete both parts of the exam within the 130 minutes + 15 minutes submission starting at the time specified in the student's personal examination timetable. The exam will not auto-submit - students need to monitor the time they take on the exam. Students need to complete the exam within the allocated time, any exams submitted late will have a late penalty applied. If the exam is commenced after the specified time, the end for the examination does not change. There will be no requirement for identity certification. Structure of exam The aim of the exam is to examine what you understand about the application of MR theory to the MRI experiment, the origin of contrast generated by clinically relevant sequences and the origin of image artefacts. The exam will be divided into two parts. Part A will mostly consist of True/False and Multiple Choice questions in the form of an online Blackboard quiz and should be answered and submitted online. Part B will be in the form of short answer type questions which may include the requirement for hand-written sketches and calcula Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (online) Casio FX82 series or UQ approved calculator only Open/closed book Open Book examination Materials Any written or printed material is permitted; material may also be annotated. Exam platform Learn.UQ Invigilation Not invigilated",
+      "submission_guidelines": "The exam consists of two parts: Part A-Blackboard test, and Part B- Blackboard assignment.\nDeferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nExams submitted after the end of the submission time will incur a late penalty .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "late_submission": "Exams submitted after the end of the submission time will incur a late penalty .",
+      "special_indicators": [
+        "Online"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (22 Jul - 28 Jul)",
+      "activity_type": "Lecture",
+      "topic": "Module 1 Introduction: Pulse Sequence Revision Module 1 reviews the basics of MRI techniques covered in MRES7100. Students need to study online materials that cover the fundamental concepts of the course."
+    },
+    {
+      "learning_period": "Week 2 (29 Jul - 04 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Module 2 RF Pulses: Function, Design, Calibration Module 2 covers the functions of radiofrequency (RF) pulse in MRI sequence. The practical aspects, such as, Specific Absorption Rate (SAR) and flip angle calibration, of different RF pulses will also be covered."
+    },
+    {
+      "learning_period": "Week 3 (05 Aug - 11 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Module 3 Pulsed Gradients: Balancing the Equation Module 3 explains the magnetic field gradients and theirs role in slice selection, and phase and frequency encoding. It will also explore the spatial encoding of MRI signals."
+    },
+    {
+      "learning_period": "Week 4 (12 Aug - 18 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Module 4 Parallel Imaging Module 4 covers two parallel imaging techniques: SENSE and GRAPPA. It will also explore their impacts on acquisition time and signal-to-noise ratio (SNR)."
+    },
+    {
+      "learning_period": "Week 5 (19 Aug - 25 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Module 5 3D Imaging. Multi-echoes: Dixon, MEDIC This module will cover the difference between 2-D and 3-D imaging sequences, the chemical shift of fat, Dixon's method and multi-echo gradient echo acquisition. A practical demonstration of the sequences will be arranged."
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Module 6 GRE: Steady State - Hahn, DESS, FISP This module will address the establishment of steady state in imaging. It will discuss three gradient echo sequences: Spoiled, Balanced, and Refocused. The module will also explore the formation of both Hahn echo and Stimulated echo."
+    },
+    {
+      "learning_period": "Week 7 (02 Sep - 08 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Module 7 GRE: CIS, Feel the VIBE The module examines two 3D fast steady-state gradient echo sequences: VIBE ad CISS."
+    },
+    {
+      "learning_period": "Week 8 (09 Sep - 15 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Module 8 Turbocharged: MPRAGE or MP2RAGE? This module will discuss three frequently-used imaging sequences: TurboFLASH, MPRAGE and MP2RAGE."
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Module 9 FLAIR, DIR. Making HASTE This module will cover fast spin-echo sequences, including fast spin echo (FSE), HASTE, SPACE and FLAIR. Dual inversion recovery method will also be introduced."
+    },
+    {
+      "learning_period": "Mid Sem break (23 Sep - 29 Sep)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "In-Semester break Mid-semester break"
+    },
+    {
+      "learning_period": "Week 10 (30 Sep - 06 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Module 10 Spotting trouble - static artefacts This module examines some of the most common static artefacts on MRI images, discussing their origin, manifestation, and potential remedy methods."
+    },
+    {
+      "learning_period": "Week 11 (07 Oct - 13 Oct)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "QLD public holiday - King's Birthday"
+    },
+    {
+      "learning_period": "Week 12 (14 Oct - 20 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Module 11 Spotting trouble - motion artefacts This module will explore artifacts associated with motion, respiration, and blood flow, along with strategies to mitigate them."
+    },
+    {
+      "learning_period": "Week 13 (21 Oct - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Course Revision Revision and catch-ups."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

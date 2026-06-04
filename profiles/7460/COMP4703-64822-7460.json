@@ -1,0 +1,216 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMP4703-64822-7460",
+  "scraped_at": "2026-06-04T00:52:38.844423+00:00",
+  "course_code": "COMP4703",
+  "class_code": "64822",
+  "semester_code": "7460",
+  "full_course_code": "COMP4703-64822-7460",
+  "course_title": "Natural Language Processing with Python",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "The Internet has transformed much of the world's knowledge into unstructured text, and the amount of data being made available every day continues to grow exponentially. Developing new techniques to turn this data into knowledge is crucial in the age of information. Processing natural language text is both challenging and rewarding. Learning how to work with web-scale data collections is a critical skill to develop in Computer Science, and understanding the computational methods currently available to achieve scalable data processing will position students to be innovators in AI technologies in their future careers. This course will explore state-of-the-art techniques in natural language understanding and language generation. Students will develop an understanding of the key algorithms used in natural language processing, and be exposed to a diverse range of applications including machine translation, text mining, sentiment analysis, and question answering. Python will be used extensively in this course, and so students are expected to have an intermediate level of knowledge with Python programming.\n\nThis is the first offering of the course.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1061",
+      "STAT1201",
+      "STAT1301",
+      "STAT2203",
+      "STAT2003",
+      "STAT2201",
+      "CSSE1001",
+      "ENGG1001",
+      "We recommend completing the following courses before enrolling in this one:",
+      "COMP3710",
+      "COMP4702",
+      "MATH1051",
+      "MATH1071"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Shane Culpepper",
+      "email": "COMP4703@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Shane Culpepper"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Xin Xia"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course aims to equip students from a wide variety of backgrounds and disciplines with awareness and knowledge in Computer Science and Generative AI.\n\nIn this course students will learn:\n\nOn completing this subject, students should have the following skills:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Describe and discuss key concepts in Natural Language Processing."
+    },
+    {
+      "number": "LO2.",
+      "description": "Create computational models of natural language based on the concepts learned in the course."
+    },
+    {
+      "number": "LO3.",
+      "description": "Evaluate the mathematical and/or algorithmic basis of common NLP techniques."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply relevant techniques and/or interface with existing python APIs."
+    },
+    {
+      "number": "LO5.",
+      "description": "Create end-to-end research experiments, including evaluation of text corpora as well as presentation and interpretation of results."
+    },
+    {
+      "number": "LO6.",
+      "description": "Critically analyze and evaluate state-of-the-art text processing systems and communicate criticisms clearly."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Weekly Quiz",
+      "weight": "10% Best 5 of 7 (2% per quiz)",
+      "due_date": "2/08/2024 3:00 pm; 9/08/2024 3:00 pm; 16/08/2024 3:00 pm; 30/08/2024 3:00 pm; 6/09/2024 3:00 pm; 20/09/2024 3:00 pm; 18/10/2024 3:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code",
+      "title": "Assignment 1",
+      "weight": "15%",
+      "due_date": "23/08/2024 3:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Assignment 2",
+      "weight": "25%",
+      "due_date": "15/10/2024 3:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Weekly Quiz",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "10% Best 5 of 7 (2% per quiz)",
+      "due_date": "2/08/2024 3:00 pm 9/08/2024 3:00 pm 16/08/2024 3:00 pm 30/08/2024 3:00 pm 6/09/2024 3:00 pm 20/09/2024 3:00 pm 18/10/2024 3:00 pm",
+      "other_conditions": "Student specific, Time limited. See the conditions definitions",
+      "submission_guidelines": "Submitted online using GradeScope.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nTo accommodate unforeseen circumstances such as illness, your quiz score will be based on the best 5 of 7 submissions.\nLate submission\n100% Late Penalty after 1 hour grace period The one-hour grace period is recorded from the time the submission is due.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "100% Late Penalty after 1 hour grace period The one-hour grace period is recorded from the time the submission is due.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 1",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Computer Code",
+      "weight": "15%",
+      "due_date": "23/08/2024 3:00 pm",
+      "other_conditions": "Student specific, Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L02, L03, L04",
+      "task_description": "The first assignment will be a task to familiarise yourself with basic text parsing, extraction, and manipulation. The assignment will use Python and will be a well-defined programming task. Read full task description Hide full task description",
+      "submission_guidelines": "To be submitted online in Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 14-21 days, where the earlier time frame applies if there are no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 2",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "25%",
+      "due_date": "15/10/2024 3:00 pm",
+      "other_conditions": "Student specific, Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L02, L03, L04, L05, L06",
+      "task_description": "This will be a more open ended and challenging task that will draw on what you have learned this semester. The student will be expected to conduct a comparative analysis of several state-of-the-art solutions to a \"hot topic\" in NLP using at least two datasets. The analysis will be written up in a 5-page report using a template that will be provided when the assignment is released. The report should include a detailed comparative analysis of the algorithms used, a clear and concise description of each algorithm, and include tables and graphs summarising the experiments ran. The datasets and necessary GPU hardware will be provided by the course coordinator, along with a description of the task, including at least one example baseline algorithm. Read full task description Hide full task description",
+      "submission_guidelines": "The report as well as the code to reproduce all of the results will be submitted as a zip file in Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 14-21 days, where the earlier time frame applies if there are no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Student specific, Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L06",
+      "task_description": "The final exam will be a 2-hour, invigilated exam covering the concepts learned in the course. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed Book examination - no written materials permitted Materials pen, pencil, eraser, ruler Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Lectures Learning outcomes: L01, L03",
+      "learning_outcomes": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13",
+      "activity_type": "Practical",
+      "topic": "Practicals Weekly practicals starting in Week 2. Learning outcomes: L02, L04, L05, L06",
+      "learning_outcomes": [
+        "L02",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

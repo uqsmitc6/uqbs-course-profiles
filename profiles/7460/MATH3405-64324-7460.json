@@ -1,0 +1,180 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH3405-64324-7460",
+  "scraped_at": "2026-06-04T01:06:18.402759+00:00",
+  "course_code": "MATH3405",
+  "class_code": "64324",
+  "semester_code": "7460",
+  "full_course_code": "MATH3405-64324-7460",
+  "course_title": "Differential Geometry",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Curves: Parameterised curves, regular curves, arc length. Local theory, Frenet frame. Global properties of plane curves. Regular surfaces: Change of parameterisation, differential functions on surfaces. The tangent plane, the differential of a map. First fundamental form, area functional. Geometry of the Gauss map: fundamental properties, local coordinates. Vector fields. Minimal surfaces and other applications. Intrinsic and extrinsic geometry of surfaces: isometries, conformal maps. Selected topics from: Theorema egregium. Parallel transport, geodesics. Gauss-Bonnet Theorem and applications. Exponential map. Geodesic polar coordinates.\n\nThe geometry of curves and surfaces in three dimensional space is studied using techniques from linear algebra and calculus. We will determine various geometric quantities associated to a curve or surface. An example of such a quantity is the length of the acceleration vector at a point of a curve in R3 (where the curve is parameterised by unit speed). This length is the curvature of the curve at that point. We will show that a non-constant curve with curvature zero at every point must be a line. This is another key example of how local behavior (the curvature at each point is zero) determines global behavior (the curve is a straight line).\n\nSimilar to the relationship between local and global properties, we will also compare intrinsic and extrinsic properties of curves and surfaces. For example, bending a sheet of paper changes its extrinsic geometry, but not its intrinsic geometry. An example of an intrinsic quantity (that is not changed by bending the sheet of paper) is the Gauss curvature, which is introduced in the last third of this course. The definition of the Gauss curvature makes essential use of the position of a surface in space. However, Gauss showed that it is nevertheless independent of the position in space and only depends on the geometry of the surface. He was so pleased with this result that he called it \"Theorema Egregium,\" a remarkable theorem.\n\nAnother concept introduced in this course is the topology, or shape, of a geometrical object. Two surfaces have the same topology if you can deform one into another by bending, twisting, stretching and deforming, but not tearing it. Two spheres of different radii certainly have the same topology, but we will see that they are distinguished by their curvatures. The same is true for any sphere and a (non-trivial) ellipsoid. Towards the end of the course, we will present the Gauss-Bonnet Theorem, relating the total curvature of a closed surface to its topology.\n\nIn the last two weeks we will briefly study higher-dimensional generalisations of curves and surfaces:ﾠdifferentiable manifolds. These are extremely important objects, present in a great number of areas within modern Mathematics and Physics.ﾠ",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH2000",
+      "MATH2001",
+      "We recommend completing the following courses before enrolling in this one:",
+      "MATH2400",
+      "MATH2401",
+      "MATH2301"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH7435"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Artem Pulemotov",
+      "email": "a.pulemotov@uq.edu.au",
+      "phone": "+61 7 3365 3270"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Max Orchard"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Stepan Hudecek"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Artem Pulemotov",
+      "email": "a.pulemotov@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Ramiro Lafuente",
+      "email": "r.lafuente@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus. Consult your personal timetable for times and locations. Students are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness).\nImportant: if you are ill, then do not attend any classes in person. Alternative arrangements can be organised – consult Blackboard for details.\nTutorial commence week 2.",
+  "course_aims": "This course aims to give a hands-on introduction to differential geometry, in particular to",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "describe and compute fundamental properties of a curve, such as curvature and torsion"
+    },
+    {
+      "number": "LO2.",
+      "description": "understand, calculate and use properties such as first and second fundamental form of surfaces in 3-space"
+    },
+    {
+      "number": "LO3.",
+      "description": "understand various ways in which calculus on flat spaces can be extended to calculus on curved spaces"
+    },
+    {
+      "number": "LO4.",
+      "description": "compute the mean and Gauss curvature of a surface in 3-space"
+    },
+    {
+      "number": "LO5.",
+      "description": "both describe geometrically what it means to differentiate along a surface and be able to compute this; in particular, to find geodesics on a given surface"
+    },
+    {
+      "number": "LO6.",
+      "description": "give examples of special types of surfaces, such as minimal surfaces, and analyse their properties"
+    },
+    {
+      "number": "LO7.",
+      "description": "understand and use major theorems such as the Gauss-Bonnet theorem, that describe the global geometry of a surface in terms of its topology"
+    },
+    {
+      "number": "LO8.",
+      "description": "define and compute integrals over manifolds"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignments",
+      "weight": "50%",
+      "due_date": "Assignment 1: 9/08/2024 5:00 pm; Assignment 2: 23/08/2024 5:00 pm; Assignment 3: 6/09/2024 5:00 pm; Assignment 4: 20/09/2024 5:00 pm; Assignment 5: 11/10/2024 5:00 pm; Assignment 6: 25/10/2024 5:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignments",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "50%",
+      "due_date": "Assignment 1: 9/08/2024 5:00 pm Assignment 2: 23/08/2024 5:00 pm Assignment 3: 6/09/2024 5:00 pm Assignment 4: 20/09/2024 5:00 pm Assignment 5: 11/10/2024 5:00 pm Assignment 6: 25/10/2024 5:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L08",
+      "task_description": "There will be six assignments. Each one will comprise roughly 3 to 4 problems on course material recently covered. The best 5 out of 6 marks from your assignments, equally weighted, will be used in determining your final assignment mark (a number between 0 and 100). Read full task description Hide full task description",
+      "submission_guidelines": "Assignments will be submitted electronically in Blackboard. Submissions in LaTEX are strongly encouraged.\nDeferral or extension\nYou may be able to apply for an extension .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Final exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "The final examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (29 Jul - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

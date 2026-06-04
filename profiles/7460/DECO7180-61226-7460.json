@@ -1,0 +1,245 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/DECO7180-61226-7460",
+  "scraped_at": "2026-06-04T00:54:43.175334+00:00",
+  "course_code": "DECO7180",
+  "class_code": "61226",
+  "semester_code": "7460",
+  "full_course_code": "DECO7180-61226-7460",
+  "course_title": "Design Computing Studio 1 - Interactive Technology",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "This course introduces students to the Design Computing Studio stream. Students work in multidisciplinary teams to design, iterate and implement design computing projects. Students will move from concept and proposal through to the design and technical resolution of proposed designs. The projects will also enable students to develop important skills such as problem solving, reflection in action, communication and presentation.\n\nThis course introduces students to the design process in relation to Interaction Design and Information Technology. Through this course, students will further develop their understanding of the nature of design and the design process. Students will work in teams, followingﾠan iterative and reflexive user-centred process, to design and develop elegant design computing solutions, responding to a given brief. You will be introduced to methods and skills for the generation, refinement, and implementation of your solutions, including reflexive critical reflection and analysis. In the studio, students are expected to apply knowledge and skills from your studiesﾠandﾠexperiences to date, to your work in thisﾠcourse—both individual and team-based. Students will develop skills in the communication of design ideas, approaches, and outcomes through a variety of forms. Students will develop skills in the management of team-based projects, from a project and team perspective. Additionally, students will learn and apply front and back end web development skills to realise and present a technically functioning digital prototype at a final tradeshow .\n\nIn response to previous student feedback, we have improved content alignment with DECO1400/7140 and DECO1800/7180. This will ensure that students doing both courses concurrently have time to learn and apply a very basic level of HTML, CSS, and JavaScript in DECO1400/7140 in the first five weeks, before the requirement to apply this content for the Major Project (Team) in DECO1800/7180.\n\nA deeper focus on team management, design process, design software, dataset mapping, interaction planning and work breakdown schedule, and critical reflective in Journal will occur in the first five weeks of DECO1800/7180. From week six students will begin the Portfolio assessment and are encouraged to update weekly, where students are further applying HTML, CSS, and JavaScript skills. Using interaction plans, students reveal a deeper understanding of the work breakdown schedule. This facilitates greater team collaboration to better assign workload. This expects to realise the need for all students to engage in learning the code, despite no previous experience with code for some students. From week seven onwards students will begin to code the digital component of their major project. This will again apply HTML and CSS skills while learning AJAX. From then students will learn APIs and PHP to begin their MVP by week 9 and fully implement final prototype by week 13.\n\nIn addition to the above, the lecture and studio is now one combined three-hour studio, consistent with other studios in the DECO stream of studios. This will facilitate consistency of messaging from course coordinator to demonstrators, and importantly to students.\n\nPracticals will be improved with increased numbers of skilled demonstrators in HTML, CSS, JavaScript, AJAX, PHP and APIs and querying and visualising datasets.",
+  "requirements": {
+    "companions": [
+      "You'll need to complete the following courses at the same time:",
+      "CSSE7030",
+      "DECO7140"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "DECO1800"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Ms Susan Beetson",
+      "email": "DECO1800@eecs.uq.edu.au",
+      "notes": "Please send all enquiries to the course email above."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Ms Susan Beetson",
+      "email": "DECO1800@eecs.uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThis course has 5 scheduled contact hours per student each week. Studio and Practical attendance are recorded. Students can expect to spend an additional 5 to 7 hours per week on assessment work.\nStudents are expected to participate fully in all class activities:\nStudios (3 hours)—\nintroduces theory and practical design-related content to be explored and applied, initially in the individual tasks, and then in the major project (team),ﾠsupport for project work, assessmentﾠand project-based presentations, and exercises related to project work\nYou are expected to have read the studio material BEFORE attending your studio session for the week\nStudios commence in week 1\nPracticals (2 hours)—\nintended to develop technical skills for use in the major project (team), and for technical project support\nPracticals commence in week 1\nSelf-study (5 - 7 hours)—\nstudentsﾠare expected to continue work outside scheduled studio and Practical times on course activities, major project (team) assessment items, and to pursueﾠself-directed learning related to the project and the individual portfolio and reflection assessment. This includes the required online course, required reading, and suggested further readings listed on your Library Course resources page.\nEnd of Semester Tradeshow\nTeams will demonstrate their final projects at an in-studio Tradeshow. Individual teams will all be required to be present for the entire 3 hours of the in-studio Tradeshow. Final projects will be graded at this event. This is an in-person tradeshow for all students in the DECO1800/7180 course. Please ensure this date is in your diary and you have cleared all other commitments.",
+  "course_aims": "This course aims to:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "1.1 IDEATEDemonstrate understanding of a problem space through the critical analysis of literature, existing works and problem context (stakeholders, technology, function, etc)."
+    },
+    {
+      "number": "LO2.",
+      "description": "1.2 IDEATEGenerate and explore a range of design computing solutions within a problem space."
+    },
+    {
+      "number": "LO3.",
+      "description": "1.3 PROPOSEDevelop and communicate design requirements in a cogent project proposal based on understanding and exploration of the problem space."
+    },
+    {
+      "number": "LO4.",
+      "description": "1.4 PROPOSEProvide support and justification for decisions made, presenting design rationale, and tracing design features and requirements back to their source."
+    },
+    {
+      "number": "LO5.",
+      "description": "1.5 DELIVERImplement and deliver design computing solutions according to proposed requirements and specifications."
+    },
+    {
+      "number": "LO6.",
+      "description": "1.6 DELIVERDemonstrate practical and technical skills through the production of design computing solutions."
+    },
+    {
+      "number": "LO7.",
+      "description": "1.7 REFLECT & REFINEEvolve and refine design computing solutions through an iterative and reflexive process."
+    },
+    {
+      "number": "LO8.",
+      "description": "1.8 REFLECT & REFINEReflect critically and reflexively on the design and processes and methods used in projects and evaluate their effectiveness, on an individual and team level."
+    },
+    {
+      "number": "LO9.",
+      "description": "2.1 Work as an effective member of a multi-disciplinary team, demonstrating respect for others values, work styles, and backgrounds."
+    },
+    {
+      "number": "LO10.",
+      "description": "2.2 Develop & employ appropriate strategies for addressing potential conflicts and problems that can occur when working in teams."
+    },
+    {
+      "number": "LO11.",
+      "description": "2.3 Effectively communicate design ideas and outcomes visually, orally and in written forms."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Notebook/ Logbook, Reflection",
+      "title": "Critical Reflective Journal (Individual)",
+      "weight": "2",
+      "due_date": "29/07/2024 - 14/10/2024",
+      "conditions": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "category": "Portfolio",
+      "title": "Annotated Process Portfolio (Individual)",
+      "weight": "4",
+      "due_date": "14/10/2024 3:00 pm; Submit website link for Annotated Process Portfolio to the Blackboard course site.",
+      "conditions": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "category": "Creative Production/ Exhibition, Presentation, Poster",
+      "title": "Design Ideation Poster (Individual)",
+      "weight": "3",
+      "due_date": "6/08/2024 8:00 am; Submission of Poster via Blackboard course site. In-studio oral presentations will commence after all student posters are submitted.",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Essay/ Critique, Practical/ Demonstration, Presentation, Product/ Design, Project, Reflection",
+      "title": "Major Project (Team)",
+      "weight": "Weighting 1; Team Agreement (Team), Weighting 2; Project Design Proposal (Team), Weighting 2; MVP (Team), Weighting 3; Final Prototype Tradeshow (Team), Weighting 2; Final Report (Team)",
+      "due_date": "Weighting1; Team Agreement (Team) submitted via Blackboard course site. 19/08/2024 4:00 pm; Weighting 1; Project Design Proposal In-Studio presentation in timetabled Studio. 27/8/2024 8am; Project Design Proposal PowerPoint (Team) submitted via Blackboard course site. 26/08/2024 4:00 pm; Weighting 2; MVP In-studio demonstration in timetabled Studio. 17/9/2024 8:00 am; MVP (Team) submit MVP website link submitted via Blackboard course site. 16/09/2024 4:00 pm; Weighting 3; In-studio Final Prototype Tradeshow demonstration in timetabled Studio. 22/10/2024 8:00 am; Final Prototype Website address (link) submitted via Blackboard course site. 21/10/2024 4:00 pm; Weighting 2; Final Report (Team) submitted via Blackboard course site. 25/10/2024 4:00 pm",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "Team or group-based",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Critical Reflective Journal (Individual)",
+      "mode": "Written",
+      "category": "Notebook/ Logbook, Reflection",
+      "weight": "2",
+      "due_date": "29/07/2024 - 14/10/2024",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L04, L06, L07, L08",
+      "task_description": "There is no formal requirement to submit weekly Critical Reflective Journal entries. However, voluntary submissions by Monday of every week, commencing in Week 2, of your critical reflection of the previous week's content will receive formative feedback for weeks 1 to 5. The expectation is that if you choose to submit weekly for the first five weeks and subsequently receive formative feedback, you will be proficient at applying Gibbs Reflective Cycle framework by week 5. Therefore, a critical reflective journal entry submitted sequentially in weeks 2 to 6 (relating to content from weeks 1 to 5) will receive individual formative feedback. Critical reflective journal entries are not graded individually. A single grade is awarded at the end of semester for your entire critical reflective journal. The grade is based on the growth of your ability to critically reflect based on all sequentially submitted journals, and analysis of your iterative learning and activities throughout the semester. Read full task description Hide full task description",
+      "submission_guidelines": "Submission is on Blackboard's Online Journal via the Course menu. The date and time submitted is system recorded. The date submitted must be no later than 4pm the Monday following each week's content delivery.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThis is critical reflection in action and needs to be completed at the time of the experience you are reflecting on and critiquing. Similar to work integrated learning it is imperative you reflect and analyse your actions at the time of occurring to better understand why and how you made the decisions you did, what others thought of those decisions and actions, and how you would do things differently. It is appropriate to go back and reflect further, and evolve your thinking. However, there needs to be the initial reflection and analysis at the time of the experience or event. Therefore, no extensions or deferrals are available for this task.\nLate submission\nLate submissions will not receive formative feedback, may ultimately impact the quality of how you embed your critical reflections in your Annotated Process Portfolio Assessment, and may impact your overall grade for this assessment.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "Late submissions will not receive formative feedback, may ultimately impact the quality of how you embed your critical reflections in your Annotated Process Portfolio Assessment, and may impact your overall grade for this assessment.",
+      "special_indicators": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Annotated Process Portfolio (Individual)",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Portfolio",
+      "weight": "4",
+      "due_date": "14/10/2024 3:00 pm Submit website link for Annotated Process Portfolio to the Blackboard course site.",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L04, L06, L07, L08, L09",
+      "task_description": "In the second half of the semester, you will begin to curate the evidence collected from your weekly entries of your Critical Reflective Journal to produce an annotated process portfolio. This Annotated Process Portfolio draws from your critical reflections and analysis, discusses your learning experiences throughout the entire semester, and presents the specific work YOU completed for the major project. It will concisely and clearly describe both the ‘ideal’ intended concept and the ‘actual’ final product delivered. This articulates both the intention and the execution of the concept, allowing you to create a narrative connecting one to the other through the presentation of your individual work. Your audience is external and you might use this portfolio for future professional job applications and interviews. The annotated process portfolio selects key evidence from your critical reflective journal entries and other submissions to present your work in the broader context of the major project (team), and in turn where the project fits in terms of the problem context, studio themes, technologies used, etc. The portfolio presents a curated account of your individual contributions to the development of the project and key insights/learnings you have acquired during the semester. The audience for your portfolio will be diverse. The portfolio itself is a design artefact. It is important you give appropriate thought to its appearance, functionality, and usability. Read full task description Hide full task description",
+      "submission_guidelines": "Final submissions are to be uploaded as per the instructions in the brief on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Design Ideation Poster (Individual)",
+      "mode": "Oral, Product/ Artefact/ Multimedia",
+      "category": "Creative Production/ Exhibition, Presentation, Poster",
+      "weight": "3",
+      "due_date": "6/08/2024 8:00 am Submission of Poster via Blackboard course site. In-studio oral presentations will commence after all student posters are submitted.",
+      "learning_outcomes_assessed": "L01, L02",
+      "task_description": "Submission of poster via Blackboard site. In-studio presentation of Poster in scheduled studio Tue 6/08/2024 8:00 am. Individual students will complete a rapid design exploration task. Individual students will generate ideas and produce an A3 PDF Poster (template provided on Blackboard) that describes the idea, what dataset/s will be utilised, how the data will be visualised and interacted with, and who the users are. This task will be reflective of your individual style, which will then be reflected in your individual Annotated Process Portfolio. This poster will guide your self-critique in your critical reflective journaling, which will lead your critical discussion in your individual Annotated Process Portfolio. In addition, your inspiration poster will contribute to a whole-of-course ideas pool to draw themes and connections, which will launch the design computing projects. Students will document all ideas through to the final ideation poster from Week 1, 2 studios, and present in Week 3 studio. Read full task description Hide full task description",
+      "submission_guidelines": "Blackboard course site, Assessments menu.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThis course uses team-based assessment. No extensions or deferrals are possible.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nYour individual design inspiration poster will contribute to a whole-of-course ideas pool to draw themes and connections, which will launch the design computing projects. This poster provides ideation for teams to determine and progress a project proposal. Late submissions will negatively impact the progress of the major project. Therefore, late submissions are not accepted, and a 100% late penalty will apply.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Major Project (Team)",
+      "mode": "Activity/ Performance, Oral, Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Essay/ Critique, Practical/ Demonstration, Presentation, Product/ Design, Project, Reflection",
+      "weight": "Weighting 1; Team Agreement (Team), Weighting 2; Project Design Proposal (Team), Weighting 2; MVP (Team), Weighting 3; Final Prototype Tradeshow (Team), Weighting 2; Final Report (Team)",
+      "due_date": "Weighting1; Team Agreement (Team) submitted via Blackboard course site. 19/08/2024 4:00 pm Weighting 1; Project Design Proposal In-Studio presentation in timetabled Studio. 27/8/2024 8am; Project Design Proposal PowerPoint (Team) submitted via Blackboard course site. 26/08/2024 4:00 pm Weighting 2; MVP In-studio demonstration in timetabled Studio. 17/9/2024 8:00 am; MVP (Team) submit MVP website link submitted via Blackboard course site. 16/09/2024 4:00 pm Weighting 3; In-studio Final Prototype Tradeshow demonstration in timetabled Studio. 22/10/2024 8:00 am; Final Prototype Website address (link) submitted via Blackboard course site. 21/10/2024 4:00 pm Weighting 2; Final Report (Team) submitted via Blackboard course site. 25/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09",
+      "task_description": "This is the major project, which consists of five parts. Drawing from the individual ideation posters your team will decide on a project concept. You will submit a team agreement, which facilitates the team collaboration. The team outlines and presents a project proposal, which considers the high level design components. An MVP demonstrates the key functionality. In week 13, you will demonstrate your final digital prototype at an in-studio Tradeshow. This is an identity verified assessment and all students must be present on the day. To conclude, a final report captures the entire design process. Read full task description Hide full task description",
+      "submission_guidelines": "Submission for each component includes:\nTeam Agreement --You will submit a single electronic file via the Turnitin Assignment Handler in Blackboard on or before the due date/time. Please ensure that a completed and signed coversheet is attached to the beginning of the work before it is submitted. The submission will be a single PDF file. Only one member of the team is required to submit on behalf of everyone. Team Design Project Proposal , submit PowerPoint presentation to Blackboard course site (submitted by only one team member), AND an In-Studio Oral presentation in scheduled Studio (all team members must attend in-person and present). Team MVP (Minimal Viable Product), submit uqcloud web address (link) to your MVP (submitted by only one team member), AND an In-Studio step-through demonstration of your MVP progress (all team members must attend in person and present). Team Tradeshow Final Prototype, submit uqcloud web address (link) to your Tradeshow final prototype (submitted by only one team member), AND an In-Studio step-through demonstration of your Tradeshow Final Prototype (all team members must attend in person and present). Only one member of the team is required to submit on behalf of everyone. Team Final Report : Your team will submit a single electronic file via the Turnitin Assignment Handler in Blackboard on or before the due date/time. Please ensure that a completed and signed coversheet is attached to the beginning of the work before it is submitted. The submission will be a single word-processed document that contains your team’s assignment, including coversheet. You will submit a single word processor file [e.g. Microsoft Word (.doc/.docx), Pages (.pages), etc. formats only] PDF is acceptable but is not the preferred format.] Only one member of the team is required to submit on behalf of everyone.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThis course uses team-based assessment where the major project (team) assignment is developed and iterated on with students needing to act on regular formative feedback over the semester. This is to support the development of genuine reflective practice in the assessment and enable students to learn skills required in standard industry design practice. If teams encounter extraordinary difficulties in meeting a deadline, they must contact the course coordinator in advance of the due date and within two days of identifying the difficulty. In all cases, teams must submit a version of the assignment by the deadline. All team submissions received after the deadline will be subject to the late penalty specified.\nLate submission\nLate submission penalty for each component includes:\nTeam Design Project Proposal PowerPoint and presentation, MVP link and demonstration, Team Tradeshow Final Prototype: 100% late penalty (no grace period) Team Agreement, Final Report: A penalty of 1 grade for each 24 hour period, from time submission is due, will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "Late submission penalty for each component includes:",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "Team or group-based",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.",
+    "other_course_materials": "If we've listed something under further requirement, you'll need to provide your own. Required Item Description Further Requirement eduVPN client Free UQ download. Required if off campus to access uqcloud back end environment. UQ's virtual private network (VPN) extends the UQ network to anywhere in the world. The VPN acts as a 'secure tunnel' from your computer to the UQ network. Once connected, your computer will behave as if it is on the UQ network. If you're off campus and have a stable internet connection, you can use the VPN to access certain UQ resources. Recommended Item Description Further Requirement FileZilla Free download. The FileZilla Client supports FTP, FTP over TLS (FTPS) and SFTP. It is open source software distributed free of charge under the terms of the GNU General Public License. FileZilla allows students to access their uqcloud environment. Adobe Creative Suite Free for UQ students and staff. Adobe Creative suite, specifically DX, Photoshop, Illustrator Figma Free download. Figma is a popular design tool to design, prototype, develop, and collect feedback for products in the design cycle. Invision Free download. InVision is one online whiteboard and productivity platform purpose-built for team collaboration in UX environments. GitHub GitHub is a developer platform that allows developers to create, store, manage and share their code.",
+    "required": "Item Description Further Requirement eduVPN client Free UQ download. Required if off campus to access uqcloud back end environment. UQ's virtual private network (VPN) extends the UQ network to anywhere in the world. The VPN acts as a 'secure tunnel' from your computer to the UQ network. Once connected, your computer will behave as if it is on the UQ network. If you're off campus and have a stable internet connection, you can use the VPN to access certain UQ resources.\nRecommended\nItem Description Further Requirement FileZilla Free download. The FileZilla Client supports FTP, FTP over TLS (FTPS) and SFTP. It is open source software distributed free of charge under the terms of the GNU General Public License. FileZilla allows students to access their uqcloud environment. Adobe Creative Suite Free for UQ students and staff. Adobe Creative suite, specifically DX, Photoshop, Illustrator Figma Free download. Figma is a popular design tool to design, prototype, develop, and collect feedback for products in the design cycle. Invision Free download. InVision is one online whiteboard and productivity platform purpose-built for team collaboration in UX environments. GitHub GitHub is a developer platform that allows developers to create, store, manage and share their code.",
+    "recommended": "Item Description Further Requirement FileZilla Free download. The FileZilla Client supports FTP, FTP over TLS (FTPS) and SFTP. It is open source software distributed free of charge under the terms of the GNU General Public License. FileZilla allows students to access their uqcloud environment. Adobe Creative Suite Free for UQ students and staff. Adobe Creative suite, specifically DX, Photoshop, Illustrator Figma Free download. Figma is a popular design tool to design, prototype, develop, and collect feedback for products in the design cycle. Invision Free download. InVision is one online whiteboard and productivity platform purpose-built for team collaboration in UX environments. GitHub GitHub is a developer platform that allows developers to create, store, manage and share their code."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Studio",
+      "topic": "Studios Studios introduce theory and practical design-related content to be explored and applied, initially in the individual tasks, and then in the team-project,ﾠsupport for project work, assessmentﾠand project-based presentations, and exercises related to project work. This includes the final in studio Tradeshow presentations. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Practical",
+      "topic": "Practicals There is an expectation of prior knowledge of HTML, CSS, and JavaScript. Practicals provide formal software and technical skills development and project development support. Practicals are intended to develop technical skills for use in the Major Project (Team), and for technical project support. Practical exercises are designed to inform and refine concepts for use in projects. Major Project (Team) presentations and critiques occur regularly in Practicals. Practicals commence in week 1. Learning outcomes: L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

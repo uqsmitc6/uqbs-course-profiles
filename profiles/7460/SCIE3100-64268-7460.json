@@ -1,0 +1,237 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/SCIE3100-64268-7460",
+  "scraped_at": "2026-06-04T01:17:57.275823+00:00",
+  "course_code": "SCIE3100",
+  "class_code": "64268",
+  "semester_code": "7460",
+  "full_course_code": "SCIE3100-64268-7460",
+  "course_title": "Bioinformatics 2: Development & Research",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Chemistry & Molec Biosciences",
+  "course_description": "Advanced Bioinformatics equips the student with the interdisciplinary knowledge and skills necessary to meet the data-centred challenges and demands of modern-day biology. Methods and algorithms for uncovering patterns in genomic data of different forms are discussed, and in several cases developed, implemented and applied to representative problems. The student develops both theoretical and practical skills, allowing them to solve real bioinformatics problems by computer programming.SCIE3100 replaces BIOL3014 - Advanced Bioinformatics from 2021 onwards.\n\nModern-day biology is increasingly characterised by genome-scale and data-driven approaches. This trend has given rise to the discipline known as bioinformatics: the use of mathematics, statistics and computing to manage, analyse and build models from biological data to solve scientific problems. Present-day bioinformaticians are typically either bio-scientists armed with the methods of computer science, statistics and mathematics, or data analysts intimately acquainted with the nature and challenges of molecular biology. This course aims to cater for the background and needs of both these groups. Moreover, the course is designed to leverage synergies between the two groups. The course aims to instil\n\nFollowing on from an introductory course, ﾠthe course presents key methodological concepts in bioinformatics, in the context of the problems to which they are suited. The course has two major parts, namely\n\nLearning activities allow the student to develop a conceptual understanding of common bioinformatics methods. Hands-on computer programming is used to strengthen a detailed understanding of bioinformatics algorithms, and to explore and evaluate their value on representative types of biological ﾠdata.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "SCIE2100",
+      "We recommend completing the following courses before enrolling in this one:",
+      "BIOL1020",
+      "CSSE2002"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "BINF7000",
+      "BIOL3014",
+      "This course is jointly-taught with:",
+      "SCIE3100"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Mikael Boden",
+      "email": "m.boden@uq.edu.au",
+      "phone": "+61 7 3365 1307"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Quan Nguyen",
+      "email": "quan.nguyen@imb.uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Jessica Mar",
+      "email": "jessica.mar@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Mikael Boden",
+      "email": "m.boden@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Alex de Sa",
+      "email": "a.desa@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The growth and diversity of biological data threatens to outstrip our ability to analyse and understand it. This course aims to equip students with an advanced understanding of current computational methods to expand the knowledge of molecular biology.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Analyse scientific data and apply appropriate abstractions for different scientific problems, i.e. display problem solving skills of a professional bioinformatician, at the interface between biology and computer science."
+    },
+    {
+      "number": "LO2.",
+      "description": "Comprehend different, representative types of bioinformatics applications and technologies. This includes practical and theoretical knowledge of topics such as sequence and phylogenetic analysis, gene expression analysis, genome sequencing and variant calling, genome annotation and analysis, gene ontology, models of gene regulation, and systems biology. This includes genomic and proteomic technologies, and their inherent properties and limitations."
+    },
+    {
+      "number": "LO3.",
+      "description": "Understand the scope and limitations of computational approaches, in both theory and practice, for (a) analysing, integrating and interpreting biological sequence data; (b) the discovery of structural and functional features from a range of data sources; and (c) the design and formulation of models of biological phenomena at a molecular level. This includes familiarity of topics such as machine learning, probability theory, statistical analysis, all of which are widely used in science."
+    },
+    {
+      "number": "LO4.",
+      "description": "Carry out practical computer-based work in bioinformatics, utilising the iterative design process of observed biology and computational approach as an effective model for understanding biology, and accurately document such research-centred work. This includes programming, scripting solutions to problems, data processing pipelines, and other data analyses/evaluation."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Practical/ Demonstration, Tutorial/ Problem Set",
+      "title": "Assignment 1: Probabilistic data analysis",
+      "weight": "20%",
+      "due_date": "30/08/2024 2:00 pm",
+      "conditions": [
+        "Hurdle",
+        "Team or group-based",
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Practical/ Demonstration, Tutorial/ Problem Set",
+      "title": "Assignment 2: Machine learning on DNA elements",
+      "weight": "20%",
+      "due_date": "20/09/2024 2:00 pm",
+      "conditions": [
+        "Hurdle",
+        "Team or group-based",
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Practical/ Demonstration, Presentation, Tutorial/ Problem Set",
+      "title": "Assignment 3: Single-cell transcriptomics",
+      "weight": "20%",
+      "due_date": "25/10/2024 2:00 pm",
+      "conditions": [
+        "Hurdle",
+        "Team or group-based",
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment 1: Probabilistic data analysis",
+      "mode": "Written",
+      "category": "Computer Code, Practical/ Demonstration, Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "30/08/2024 2:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "task_description": "This assessment item aims to provide students with an opportunity to connect practical and conceptual issues relevant to the course. A set of problems acquaint students with publicly available tools, data sets and resources; their completion gives students experience in developing programming code to solve small practical problems faced by bioinformaticians. To complete this assessment, students will be required to review theoretical concepts introduced in the course, and in some cases review and report on material that are found by self-directed study. Use of Artificial Intelligence (AI) This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission as directed on the assignment specification available online from the course site.\nDeferral or extension\nYou may be able to apply for an extension .\nApplications for Extensions\nInformation on applying for an extension can be found here: my.UQ Applying for an extension .\nExtension applications must be received by the assessment due date and time.\nIf you are unable to provide approved documentation to support your application by the due date and time, you must still submit your application by the deadline but with an attached Word document that outlines why you cannot provide the approved documentation by the deadline. You will then need to acquire and upload the approved documentation to your request within 24 hours. Please note: When an extension request has been submitted and is pending, students are expected to continue to work on the assessment item, with the aim of submitting by the requested due date and time.\nProlonged Absence\nIf you have been ill or unable to attend class for more than 14 days, we advise you to carefully consider whether you are capable of successfully completing your courses this semester.\nExtensions with Student Access Plans (SAP)\nFor extensions up to 7 days, your SAP is all that is required as documentation to support your application. However, extension requests longer than 7 days (for any one assessment item) will require the submission of additional supporting documentation e.g. a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period). 10% will be deducted per day for up to 7 calendar days, at which point your submission will receive a mark of zero (0) unless an extension has been approved.\nIn most instances one or more hurdles will apply to your assessment item so you will need to submit it to fulfil the requirements of the course regardless of how late it is and the mark you are likely to be awarded.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assessment item aims to provide students with an opportunity to connect practical and conceptual issues relevant to the course. A set of problems acquaint students with publicly available tools, data sets and resources; their completion gives students experience in developing programming code to solve small practical problems faced by bioinformaticians. To complete this assessment, students will be required to review theoretical concepts introduced in the course, and in some cases review and report on material that are found by self-directed study. Use of Artificial Intelligence (AI) This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nUse of Artificial Intelligence (AI)\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Team or group-based",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 2: Machine learning on DNA elements",
+      "mode": "Written",
+      "category": "Computer Code, Practical/ Demonstration, Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "20/09/2024 2:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "task_description": "This assessment item aims to provide students with an opportunity to connect practical and conceptual issues relevant to the course. A set of problems acquaint students with publicly available tools, data sets and resources; their completion gives students experience in developing programming code to solve small practical problems faced by bioinformaticians. To complete this assessment, students will be required to review theoretical concepts introduced in the course, and in some cases review and report on material that are found by self-directed study. Use of Artificial Intelligence (AI) This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission as directed on the assignment specification\nDeferral or extension\nYou may be able to apply for an extension .\nApplications for Extensions\nInformation on applying for an extension can be found here: my.UQ Applying for an extension .\nExtension applications must be received by the assessment due date and time.\nIf you are unable to provide approved documentation to support your application by the due date and time, you must still submit your application by the deadline but with an attached Word document that outlines why you cannot provide the approved documentation by the deadline. You will then need to acquire and upload the approved documentation to your request within 24 hours. Please note: When an extension request has been submitted and is pending, students are expected to continue to work on the assessment item, with the aim of submitting by the requested due date and time.\nProlonged Absence\nIf you have been ill or unable to attend class for more than 14 days, we advise you to carefully consider whether you are capable of successfully completing your courses this semester.\nExtensions with Student Access Plans (SAP)\nFor extensions up to 7 days, your SAP is all that is required as documentation to support your application. However, extension requests longer than 7 days (for any one assessment item) will require the submission of additional supporting documentation e.g. a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period). 10% will be deducted per day for up to 7 calendar days, at which point your submission will receive a mark of zero (0) unless an extension has been approved.\nIn most instances one or more hurdles will apply to your assessment item so you will need to submit it to fulfil the requirements of the course regardless of how late it is and the mark you are likely to be awarded.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assessment item aims to provide students with an opportunity to connect practical and conceptual issues relevant to the course. A set of problems acquaint students with publicly available tools, data sets and resources; their completion gives students experience in developing programming code to solve small practical problems faced by bioinformaticians. To complete this assessment, students will be required to review theoretical concepts introduced in the course, and in some cases review and report on material that are found by self-directed study. Use of Artificial Intelligence (AI) This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nUse of Artificial Intelligence (AI)\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Team or group-based",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 3: Single-cell transcriptomics",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Practical/ Demonstration, Presentation, Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "25/10/2024 2:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "task_description": "This assessment item aims to provide students with an opportunity to connect practical and conceptual issues relevant to the course. A set of problems acquaint students with publicly available tools, data sets and resources; their completion gives students experience in developing programming code to solve small practical problems faced by bioinformaticians. To complete this assessment, students will be required to review theoretical concepts introduced in the course, and in some cases review and report on material that are found by self-directed study. Use of Artificial Intelligence (AI) This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission as instructed on assignment specification\nDeferral or extension\nYou may be able to apply for an extension .\nApplications for Extensions\nInformation on applying for an extension can be found here: my.UQ Applying for an extension .\nExtension applications must be received by the assessment due date and time.\nIf you are unable to provide approved documentation to support your application by the due date and time, you must still submit your application by the deadline but with an attached Word document that outlines why you cannot provide the approved documentation by the deadline. You will then need to acquire and upload the approved documentation to your request within 24 hours. Please note: When an extension request has been submitted and is pending, students are expected to continue to work on the assessment item, with the aim of submitting by the requested due date and time.\nProlonged Absence\nIf you have been ill or unable to attend class for more than 14 days, we advise you to carefully consider whether you are capable of successfully completing your courses this semester.\nExtensions with Student Access Plans (SAP)\nFor extensions up to 7 days, your SAP is all that is required as documentation to support your application. However, extension requests longer than 7 days (for any one assessment item) will require the submission of additional supporting documentation e.g. a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period). 10% will be deducted per day for up to 7 calendar days, at which point your submission will receive a mark of zero (0) unless an extension has been approved.\nIn most instances one or more hurdles will apply to your assessment item so you will need to submit it to fulfil the requirements of the course regardless of how late it is and the mark you are likely to be awarded.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assessment item aims to provide students with an opportunity to connect practical and conceptual issues relevant to the course. A set of problems acquaint students with publicly available tools, data sets and resources; their completion gives students experience in developing programming code to solve small practical problems faced by bioinformaticians. To complete this assessment, students will be required to review theoretical concepts introduced in the course, and in some cases review and report on material that are found by self-directed study. Use of Artificial Intelligence (AI) This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nUse of Artificial Intelligence (AI)\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Team or group-based",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "task_description": "The final examination is an on-campus, invigilated exam. It aims to test the student’s knowledge and understanding of topics and concepts that have been covered in the course, with emphasis on aspects not assessed in practicals and projects. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series or UQ approved , labelled calculator only Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 6 (22 Jul - 01 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Theme 1: Methods Series of lectures (lectorials)"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Practical",
+      "topic": "Practicals Practicals support assignment and project work, are done in-class under the supervision of tutor"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 7 To Week 9 (02 Sep - 22 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Theme 2: Analysis of DNA elements Series of lectures (lectorials)"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 10 To Week 13 (30 Sep - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Theme 3: Transcriptomics Series of lectures (lectorials)"
+    },
+    {
+      "learning_period": "Week 13 (21 Oct - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Review Lecture (lectorial)"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

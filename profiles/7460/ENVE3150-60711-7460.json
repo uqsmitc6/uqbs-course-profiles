@@ -1,0 +1,164 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ENVE3150-60711-7460",
+  "scraped_at": "2026-06-04T00:59:14.715967+00:00",
+  "course_code": "ENVE3150",
+  "class_code": "60711",
+  "semester_code": "7460",
+  "full_course_code": "ENVE3150-60711-7460",
+  "course_title": "Environmental Systems Dynamics & Modelling",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Civil Engineering School",
+  "course_description": "Introduction to the concepts, theories and techniques required to describe dynamic environmental systems and to develop mathematical models to explore their behaviour. Systems thinking and modelling approaches are applied to several important environmental systems and processes including: - Chemical and biological transformations in water and air pollution applications - Ecological models and population dynamics - Global climate change - Water balances in lakes and reservoirs - Energy and mass transfer Students will gain skills in the use of scientific and engineering techniques of mass and energy balances, microbial and population kinetics, thermodynamics, transport processes, chemical and biochemical reactions.\n\nStudents will develop the skills to formulate and write a model in an organised and systematic way. The course will also cover methods for verifying and validating a model.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CIVL2131",
+      "CHEE2003"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "CIVL3150"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor William Clarke",
+      "email": "william.clarke@uq.edu.au",
+      "phone": "+61 7 3365 6464"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor William Clarke",
+      "email": "william.clarke@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Badin Gibbes",
+      "email": "b.gibbes@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAt the beginning of the course, some tutorial sessions will be used for lectures. A notification will be sent to students prior to this.",
+  "course_aims": "The aim of this course is to introduce students to the principles of dynamic system modelling applied to:\n\n- engineered systems where a model can be validated with monitoringﾠdata; and\n\n- open environmental systems where modelling is used to investigate and understand mechanisms that drive system behaviour.ﾠﾠﾠ",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Apply systems thinking to explore potential changes in environmental systems"
+    },
+    {
+      "number": "LO2.",
+      "description": "Identify the principles, mechanisms and processes underlying the behaviour of environmental systems."
+    },
+    {
+      "number": "LO3.",
+      "description": "Use programming skills to develop dynamic models."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply an organised stepwise approach to develop, verify, calibrate and validate a dynamic model."
+    },
+    {
+      "number": "LO5.",
+      "description": "Apply models intelligently and interpret the physical meaning of simulation results."
+    },
+    {
+      "number": "LO6.",
+      "description": "Formulate solutions to environmental problems based on results from a dynamic environmental model."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Project",
+      "title": "Modelling a laboratory experiment",
+      "weight": "25%",
+      "due_date": "9/09/2024 4:00 pm"
+    },
+    {
+      "category": "Project",
+      "title": "Modelling an environmental system",
+      "weight": "25%",
+      "due_date": "23/10/2024 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Modelling a laboratory experiment",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Project",
+      "weight": "25%",
+      "due_date": "9/09/2024 4:00 pm",
+      "task_description": "To develop, verify, calibrate and validate a model of a laboratory experiment to be performed in class. The project brief will be given in week 2. The model and report are to be prepared individually. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Report to be submitted using Turnitin on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "To develop, verify, calibrate and validate a model of a laboratory experiment to be performed in class. The project brief will be given in week 2. The model and report are to be prepared individually. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Modelling an environmental system",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Project",
+      "weight": "25%",
+      "due_date": "23/10/2024 4:00 pm",
+      "task_description": "To develop, verify, calibrate and validate a model of a monitored environmental system. The project brief will be posted on Tuesday of Week 7. The model and report are to be prepared individually. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Report to be submitted to Blackboard using Turnitin\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "To develop, verify, calibrate and validate a model of a monitored environmental system. The project brief will be posted on Tuesday of Week 7. The model and report are to be prepared individually. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "task_description": "The final exam will cover all topics. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The final exam will cover all topics. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lecture and worked examples Lectures providing concepts, theories and skills to describe and modelling environmental dynamic systems."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial Tutorial sessions will be used for the discussion of the lecture material, to answer questions from the problem sets, projects and general course Q&A."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: School of Civil Engineering School Guidelines Learning activities"
+}

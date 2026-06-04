@@ -1,0 +1,223 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/INFS4203-61142-7460",
+  "scraped_at": "2026-06-04T01:03:58.085853+00:00",
+  "course_code": "INFS4203",
+  "class_code": "61142",
+  "semester_code": "7460",
+  "full_course_code": "INFS4203-61142-7460",
+  "course_title": "Data Mining",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Techniques used for data cleaning, finding patterns in structured, text and web data; with application to areas such as customer relationship management, fraud detection and homeland security.\n\nThis course introduces the concepts and techniques in Data Mining and Knowledge Discovery from Databases. Students taking this course are expected to be already familiar with concepts of databases, algorithms and data structures. This course will provide a good introduction to analysing large volumes of data. The lectures are designed to discuss the problems and solutions in data mining including data classification and clustering, anomaly detection, mining of association rules, and data mining withﾠtext and Web data.\n\nCourse changes in response to previous student feedback: Advanced materials are added to the course to account for the interest among students, allowing for deeper exploration into complex data mining techniques and their applications in real-world scenarios.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE1001",
+      "ENGG1001",
+      "INFS2200"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "INFS7203",
+      "This course is jointly-taught with:",
+      "All learning activities are jointly taught."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Miao Xu",
+      "email": "INFS4203@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Miao Xu"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Zijian Wang"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nTutorials will start from Week 2.\nWednesday 14 August is a public holiday and no tutorial on this day. The tutorial recording will be provided this week (Week 4) to aid students who attend regularly the Wednesday tutorial sessions.",
+  "course_aims": "The focus of this course is to provide a comprehensive introduction to data mining. The areas covered include association analysis,ﾠclassification, clustering, text mining and web mining.ﾠThe goal is to present fundamental concepts and algorithms for each topic, thus providing the students with the necessary background for the application of data mining to real problems. In addition, this course also provides a starting point for those students who are interested in pursuing research in data mining or related fields.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Identify the process of data mining and KDD (Knowledge Discovery from Databases)."
+    },
+    {
+      "number": "LO2.",
+      "description": "Analyze the applicability of different data mining and KDD algorithms."
+    },
+    {
+      "number": "LO3.",
+      "description": "Design algorithms to solve problems related to classifications and clustering, as well as identify association rules from a database."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply the concepts and algorithms of text mining and web mining."
+    },
+    {
+      "number": "LO5.",
+      "description": "Evaluate the performance of data mining and KDD algorithms."
+    },
+    {
+      "number": "LO6.",
+      "description": "Compare and contrast the performances of different data mining algorithms"
+    },
+    {
+      "number": "LO7.",
+      "description": "Evaluate the scalability of data mining algorithms."
+    },
+    {
+      "number": "LO8.",
+      "description": "Analyze the data characteristics that affect the effectiveness of data mining."
+    },
+    {
+      "number": "LO9.",
+      "description": "Examine the limitations of data mining and KDD algorithms"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "In-Class Quiz",
+      "weight": "15%",
+      "due_date": "3/09/2024 3:30 pm; The quiz is scheduled to be from 14:00 to 15:30 during the scheduled lecture time in week 7, with a reading time of 10 minutes and an exam time of 80 minutes.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Project",
+      "title": "Project Proposal",
+      "weight": "15%",
+      "due_date": "13/09/2024 4:00 pm"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "title": "Project Report",
+      "weight": "20%",
+      "due_date": "25/10/2024 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-Class Quiz",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "15%",
+      "due_date": "3/09/2024 3:30 pm The quiz is scheduled to be from 14:00 to 15:30 during the scheduled lecture time in week 7, with a reading time of 10 minutes and an exam time of 80 minutes.",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L05, L06, L08, L09",
+      "task_description": "- This is an online non-invigilated quiz implemented in the form of a Blackboard quiz. Students will complete the quiz online via Blackboard at the same time. - It is an individual assessment, covering lecture contents from Week 2 to Week 6. - The format of the quiz will be in the form of multiple-choice questions. - Course staff will be available via Zoom to answer clarification questions about the quiz. - Pre-approval is required if a special arrangement is needed. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Project Proposal",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Project",
+      "weight": "15%",
+      "due_date": "13/09/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L05, L07, L08, L09",
+      "task_description": "1. The assignment is designed to test the ability to apply data mining techniques to solve real-world problems. 2. This is an individual assignment. You will be required to complete the proposal on your own design. The proposal is required to be submitted via Blackboard in week 8 (4pm Friday). 3. The assignment dataset and specification will be released in week 2 on Blackboard. Read full task description Hide full task description",
+      "submission_guidelines": "Please refer to the project specification for details.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach, where feedback or detailed solutions will be released to students within 14-21 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Project Report",
+      "mode": "Activity/ Performance",
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "weight": "20%",
+      "due_date": "25/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L05, L06, L07, L08, L09",
+      "task_description": "1. The assignment is designed to test the ability to implement data mining techniques to solve real-world problems. 2. This is an individual assignment. You will be required to complete the coding and report based on your design. Report and all code compressed into one file are required to be submitted via Blackboard by 4 pm Friday of week 13. 3. The assignment and detailed criteria and marking sheet will be released in week 9 on Blackboard. Read full task description Hide full task description",
+      "submission_guidelines": "Please refer to the project specification for details.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach, where feedback or detailed solutions will be released to students within 14-21 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L08, L09",
+      "task_description": "This course will have one final exam. The minimum 50% (25 marks) must be obtained in the final exam to pass this course. Delivery Mode: On-campus invigilated exam, closed book. Timing: The final exam will be scheduled at a fixed time for all students – i.e. students will complete the exam simultaneously. Permitted materials: a Casio FX82 series or UQ approved and labeled calculator, unrestricted number of blank A4 sheets of blank paper. More information will be released in the last lecture (i.e., the course revision). Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lectures The course lectures will provide in-depth knowledge of various concepts and techniques in Data Mining Techniques. Lecture notes will be available for all the material covered in this course. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (29 Jul - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Contacts Starting from Week 2, Tutorials will provide an opportunity for further practicing the concepts introduced in the lectures via examples, exercises and problem-solving. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

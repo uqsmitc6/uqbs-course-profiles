@@ -1,0 +1,230 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/DATA7901-63492-7460",
+  "scraped_at": "2026-06-04T00:54:30.883530+00:00",
+  "course_code": "DATA7901",
+  "class_code": "63492",
+  "semester_code": "7460",
+  "full_course_code": "DATA7901-63492-7460",
+  "course_title": "Data Science Capstone Project 1",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Industry capstone projects are available to students who are eligible to complete DATA7901. Industry capstone projects are an opportunity for students to work on a project in collaboration and onsite with industry through their course. Students who intend to complete an industry capstone project are required to advise the EAIT Student Employability Team by completing the Industry capstone project EOI form, which will be provided by the course coordinator, by no later than Week 4 of the semester prior to commencing DATA7901. i.e. if enrolling to take this course in Semester 1, you will need to submit your EOI to complete an industry capstone project by Week 4 of the previous semester. Due to the lead time required to source and fill industry capstone projects via a competitive selection process, late EOI’s will not be accepted. All other students will complete their capstone projects as academic research projects. No Industry capstone project EOI is required if you intend to complete an academic research project. Your course coordinator will discuss academic research options further at the commencement of the semester in which you intend to complete this course.\n\nThe capstone project will enable students to bring together their technical, analytic and interpretive skills to execute an end-to-end data science project in a scientific, government or industry setting. This course represents the first part of the capstone project and is focussed on problem formulation, and articulation of the proposal and pitch for the project.ﾠ",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "Completion of minimum 8 units towards Master of Data Science program."
+    ],
+    "companions": [
+      "You'll need to complete the following courses at the same time:",
+      "DATA7201",
+      "DATA7202"
+    ],
+    "restrictions": [
+      "Restricted to MDataSc students only."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Slava Vaisman",
+      "email": "r.vaisman@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Slava Vaisman"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Lisa Kelly"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Helen Huang"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Julian Andrew Steele"
+    },
+    {
+      "role": "Casual academic",
+      "name": "Dr Patricia Sheehan"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus. Consult your personal timetable for times and locations. Students are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness).\nImportant: if you are ill, then do not attend any classes in person. Alternative arrangements can be organised – consult Blackboard for details.",
+  "course_aims": "The capstone project will focus on tackling a data science problem sourced from science, government or industry. Capstone projects can be research oriented or development oriented. Specifically, the course aims to equip students with the knowledge and skills needed to perform the design section of a data science project. This involves a precise problem formulation and effective communication with the project associates such as clients, managers, and investors.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Formulate a data science problem within a given application context by expressing your ideas clearly and by using words and sentence structures efficiently."
+    },
+    {
+      "number": "LO2.",
+      "description": "Synthesise information from a variety of sources (e.g. academic, business, scientific) and modalities (verbal, visual) to form a communication plan."
+    },
+    {
+      "number": "LO3.",
+      "description": "Make a convincing argument by structuring your ideas coherently and persuasively, and use visual aids and digital technology effectively to engage the audience."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply effective communication skills to explain data science problems to key stakeholders."
+    },
+    {
+      "number": "LO5.",
+      "description": "Design technically feasible data science solutions with consideration of ethical and legal aspects, and identify appropriate data science technique (techniques) to a practical problem."
+    },
+    {
+      "number": "LO6.",
+      "description": "Apply project design and scoping techniques to write a detailed project proposal suitable for professionals and stakeholders."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Participation/ Student contribution",
+      "title": "Project finalization form submission",
+      "weight": "Pass/Fail",
+      "due_date": "29/07/2024 3:00 pm",
+      "conditions": [
+        "Hurdle",
+        "In-person",
+        "Online"
+      ]
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Writing assignment",
+      "weight": "10%",
+      "due_date": "30/08/2024 3:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Proposal",
+      "weight": "60%",
+      "due_date": "20/09/2024 3:00 pm",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Presentation",
+      "title": "The Seminar",
+      "weight": "30%",
+      "due_date": "11/10/2024 3:00 pm",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Project finalization form submission",
+      "mode": "Written",
+      "category": "Participation/ Student contribution",
+      "weight": "Pass/Fail",
+      "due_date": "29/07/2024 3:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "Details will be given in Blackboard. Read full task description Hide full task description",
+      "submission_guidelines": "The project finalization form will be submitted in Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Hurdle",
+        "In-person",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Writing assignment",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "10%",
+      "due_date": "30/08/2024 3:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "Details will be given in Blackboard. Read full task description Hide full task description",
+      "submission_guidelines": "The assignment will be submitted in Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 7-14 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Proposal",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "60%",
+      "due_date": "20/09/2024 3:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "Details will be given in Blackboard. Read full task description Hide full task description",
+      "submission_guidelines": "The proposal will be submitted in Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 7-14 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "The Seminar",
+      "mode": "Activity/ Performance",
+      "category": "Presentation",
+      "weight": "30%",
+      "due_date": "11/10/2024 3:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Details will be given in Blackboard. Read full task description Hide full task description",
+      "submission_guidelines": "The seminar slides will be submitted in Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 7-14 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.",
+    "other_course_materials": "If we've listed something under further requirement, you'll need to provide your own. Required Item Description Further Requirement Course Blackboard Site",
+    "required": "Item Description Further Requirement Course Blackboard Site"
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Seminar",
+      "topic": "Seminar Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Not Timetabled",
+      "topic": "Data Science Capstone Project (Part 1) It is important to remember that you largely drive your project. You are responsible for managing the timely completion of your project, generating ideas, working through difficulties, searching for appropriate resources, and completing your project deliverables on time. Your supervisor's role should be as an advisor and mentor. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

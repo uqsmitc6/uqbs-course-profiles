@@ -1,0 +1,230 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ELEC4302-61200-7460",
+  "scraped_at": "2026-06-04T00:58:22.486039+00:00",
+  "course_code": "ELEC4302",
+  "class_code": "61200",
+  "semester_code": "7460",
+  "full_course_code": "ELEC4302-61200-7460",
+  "course_title": "Power System Protection",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "This course will focus on design of transmission and distribution protection schemes. This will include fundamentals on protection, relay design and protection schemes for transmission lines, transformers and bus. Additionally the course will focus on settings of feeder and transformer protection schemes, and selection of current and voltage instrument transformers for those protection schemes. The issues surrounding power quality and how these affect power systems will be also addressed. This will include measurement and modelling techniques to identify power quality problems and mitigating techniques. Impact of electrical overstress on the design and operation of power systems and electronic equipment will be discussed and protection systems will be built to \"eliminate\" equipment malfunction and damage due to electrical overstress.\n\nA single fault in a power system can cause outages for thousands of civilians. In this course, we will explore how to protect power systems against such events, through the design of power system transmission, as well as distribution level protection schemes. This will include fundamentals on protection, relay design and protection schemes for transmission lines, bus,ﾠtransformers, reactors and generator, as well as the impact of distributed generation, e.g. reverse power flow, on existing protection schemes. Additionally the course will focus on selecting current and voltage instrument transformers for specific settings of feeder and transformer protection schemes. To apply this learning to the real world, students will also have the opportunity to participate in practical simulations and hardware labs, as well as a series of lectures on industry practice conducted by experienced professionals. In previous years students highly appreciated the content covered in this course. To further improve practical knowledge a field visit for interested students may also be available this year.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ELEC3300",
+      "ELEC3310",
+      "We recommend completing the following courses before enrolling in this one:",
+      "ELEC4300",
+      "ELEC4310"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ELEC4301",
+      "ELEC7304",
+      "ELEC7311"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Chandima Ekanayake",
+      "email": "ELEC4302@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Chandima Ekanayake"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nMore information on scheduling lab classes will be available through blackboard.",
+  "course_aims": "- To be able to interpret existing power system protection schemes.\n\n- To acquire the skills to solve power system protection settings and coordination problems for a given power system.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain the requirement of different protection schemes for the proper operation of power system."
+    },
+    {
+      "number": "LO2.",
+      "description": "Recognise factors to be considered when designing a power system protection scheme."
+    },
+    {
+      "number": "LO3.",
+      "description": "Demonstrate the operation of various components used in power system protection."
+    },
+    {
+      "number": "LO4.",
+      "description": "Calculate protection settings when designing a protection scheme for a simple power system network and components."
+    },
+    {
+      "number": "LO5.",
+      "description": "Identify challenges and current developments in power system protection."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Tutorial submission",
+      "weight": "20%",
+      "due_date": "Tutorial submission 1 16/08/2024 3:00 pm; Tutorial submission 2 4/10/2024 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "In Semester Exam - In class invigilated",
+      "weight": "15%",
+      "due_date": "11/09/2024 1:45 pm; This is an invigilated exam conducted during the tutorial time. More information will be provided through Blackboard.",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Practical/ Demonstration",
+      "title": "A report on software and hardware Laboratory exercise",
+      "weight": "25%",
+      "due_date": "18/10/2024 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Tutorial submission",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "Tutorial submission 1 16/08/2024 3:00 pm Tutorial submission 2 4/10/2024 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "Two tutorial assignments need to be completed through Blackboard on Week 4 and Week 10. More information on Tutorial assignment will be available in Blackboard. All submissions are collected through blackboard. Overall worth of these submissions will be 20 marks. The assignments are equally weighted. Read full task description Hide full task description",
+      "submission_guidelines": "Through Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked tutorial submissions with feedback and/or detailed solutions with feedback will be released to students within 14-21 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In Semester Exam - In class invigilated",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "15%",
+      "due_date": "11/09/2024 1:45 pm This is an invigilated exam conducted during the tutorial time. More information will be provided through Blackboard.",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "In semester exam is based on the contents covered up to week 8. The exam will be scheduled during the tutorial time of week 8. This is a 90 minutes invigilated in class exam. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "In class submission at the end of exam time.\nDeferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "A report on software and hardware Laboratory exercise",
+      "mode": "Activity/ Performance",
+      "category": "Practical/ Demonstration",
+      "weight": "25%",
+      "due_date": "18/10/2024 3:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "This is mainly based on PSCAD simulation exercise. PSCAD training will be provided for 5 weeks starting week 3. More information about the simulation exercise will be available through Blackboard. Student will also engage in two laboratory exercises between weeks 8 -11 where they will be able to test a numerical relay with a relay tester. A completed report based on the simulation exercise and laboratory experience has to be submitted. More information related to structure of the report will be provided through Blackboard. Read full task description Hide full task description",
+      "submission_guidelines": "Submission through Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked tutorial submissions with feedback and/or detailed solutions with feedback will be released to students within 14-21 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The final exam will assess all materials presented during the course. This is an invigilated on campus exam. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Not scheduled",
+      "activity_type": "Excursion",
+      "topic": "Field visit In this course it is planned that an excursion to a relevant factory or substation will be organised. More information is available through Blackboard. Exact dates will be informed to the students well in advance once the industry confirms the dates. This may be scheduled outside of class hours. Learning outcomes: L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Lectures on various topics Series of lectures covering fault analysis and various protection schemes used in the power systems. Some of the lectures will be covered by the industry experts. Following topics will be covered in this course : Fault analysis, symmetrical components, Relay operation, Different types of relays, Relay coordination, Unit protection, Instrument Transformers, IEC 61850 requirements, effect of renewables Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "General contact hours",
+      "topic": "Contact sessions Questions on fault calculations and various protection setting calculations will be discussed during these general contact hours. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 3 To Week 7",
+      "activity_type": "Information technology session",
+      "topic": "PSCAD Simulation Students will learn to use PSCAD software based simulations for checking relay settings for distance and over current protection schemes. More information will be available through Blackboard. Learning outcomes: L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 8 To Week 13",
+      "activity_type": "Practical",
+      "topic": "Hands on experience on relay characteristic Students will test relay characteristics on a Siemens distance protection relay Siprotec 7SA87. More information will be available through Blackboard. Learning outcomes: L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . You'll also need to be aware of the following policies and procedures while completing this course: Occupational Health and Safety in the Laboratory Guideline Student Travel Procedure School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

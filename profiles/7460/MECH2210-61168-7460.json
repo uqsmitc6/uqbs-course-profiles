@@ -1,0 +1,201 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MECH2210-61168-7460",
+  "scraped_at": "2026-06-04T01:07:00.442579+00:00",
+  "course_code": "MECH2210",
+  "class_code": "61168",
+  "semester_code": "7460",
+  "full_course_code": "MECH2210-61168-7460",
+  "course_title": "Intermediate Mechanical & Space Dynamics",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "Applications of kinematics and kinetics of particles and rigid bodies; Applications of energy and momentum methods; Vibration of single degree of freedom systems; Balancing of rotating and reciprocating masses; Introduction to orbital mechanics and 3D rigid body dynamics with mechanical and space applications.\n\nThe main focus of this course is towards the application of dynamic principles to engineering mechanisms and machines, including applications in orbital mechanics and 3D dynamics.ﾠIt is intended to develop an understanding of dynamic forces within engineering systems and of their significance with respect to the mechanical system they drive, are driven by, or are mounted on.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ENGG1010",
+      "ENGG1400",
+      "ENGG1700",
+      "MATH1051",
+      "MATH1052"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Martin Veidt",
+      "email": "m.veidt@uq.edu.au",
+      "notes": "Professor Veidt will be available in the tutorial sessions. They are the best opportunity to discuss anything related to the course."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Martin Veidt",
+      "email": "m.veidt@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Paul Meehan",
+      "email": "meehan@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The goals of this course are to: ﾠ(1) learn fundamental concepts of Newtonian mechanics; ﾠ(2) develop skills enabling students to model and solve simple engineering dynamic systems in 2 dimensions including application of 2D rigid body dynamics, work energy principles, single degree of freedom vibration and balancing; (3) gain sufficient understanding to have the ability to use the material on new applications; ﾠ(4) understand the conceptual, analytical and mathematical limits of the theories and techniques introduced, so that they can be appropriately applied, or extended if required; ﾠ(5) develop problem solving skills in situations where dynamically generated forces and motions are significant; and (6) gain basic skills in the analysis of orbital mechanics and 3D dynamics.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Formulate and apply the principles of 2D dynamics and single degree of freedom vibrations - Explain fundamental concepts of particle dynamics using Newtonian mechanics and derive and analyse equations of motion of engineering systems."
+    },
+    {
+      "number": "LO2.",
+      "description": "Formulate and apply the principles of 2D dynamics and single degree of freedom vibrations - Describe the work energy principle including equivalent mass and inertia and apply it to obtain and analyse the motion of rigid body systems."
+    },
+    {
+      "number": "LO3.",
+      "description": "Formulate and apply the principles of 2D dynamics and single degree of freedom vibrations - Understand the balancing of rotating masses and use it to analyse the balancing of reciprocating engines."
+    },
+    {
+      "number": "LO4.",
+      "description": "Formulate and apply the principles of 2D dynamics and single degree of freedom vibrations - Explain and describe free and forced, undamped and damped vibration of one degree of freedom systems and solve engineering vibration problems including vibration transmissibility."
+    },
+    {
+      "number": "LO5.",
+      "description": "Derive solutions for fundamental orbital mechanics problems - Describe Kepler's Laws and use Newton's Laws to derive them."
+    },
+    {
+      "number": "LO6.",
+      "description": "Derive solutions for fundamental orbital mechanics problems - Derive and explain the Orbit Equations and how they relate to Conic sections."
+    },
+    {
+      "number": "LO7.",
+      "description": "Derive solutions for fundamental orbital mechanics problems - Explain principles of Angular Momentum and Energy conservation in orbital mechanics and apply them to solve orbit problems including Hohmann and interplanetary transfers."
+    },
+    {
+      "number": "LO8.",
+      "description": "Formulate and evaluate governing equations of 3D rigid body dynamics systems - Explain principles of Angular Momentum and Kinetic Energy in 3D rigid body dynamics and derive and solve equations of motion of 3D dynamic engineering systems."
+    },
+    {
+      "number": "LO9.",
+      "description": "Formulate and evaluate governing equations of 3D rigid body dynamics systems - Describe the equations of 3D rigid body rotation and solve for gyroscopic forces and motion in 3D."
+    },
+    {
+      "number": "LO10.",
+      "description": "Formulate and evaluate governing equations of 3D rigid body dynamics systems - Explain free and forced precession and stability of 3D motion of engineering and space applications."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Section A and B Assignments (5)",
+      "weight": "25% 5% each",
+      "due_date": "A1 Particle Dynamics 19/08/2024 3:00 pm; A2 Rigid Body Dynamics 2/09/2024 3:00 pm; A3 Single Degree of Freedom Vibrations 16/09/2024 3:00 pm; B1 Orbital Mechanics 8/10/2024 3:00 pm; B2 3D Dynamics 21/10/2024 3:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Practical/ Demonstration",
+      "title": "Laboratory Report",
+      "weight": "15%",
+      "due_date": "Two (2) teaching weeks after experiment performed, 15:00."
+    },
+    {
+      "category": "Quiz",
+      "title": "Online Quiz of Particle Dynamics",
+      "weight": "Pass/Fail",
+      "due_date": "16/08/2024 3:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Section A and B Assignments (5)",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "25% 5% each",
+      "due_date": "A1 Particle Dynamics 19/08/2024 3:00 pm A2 Rigid Body Dynamics 2/09/2024 3:00 pm A3 Single Degree of Freedom Vibrations 16/09/2024 3:00 pm B1 Orbital Mechanics 8/10/2024 3:00 pm B2 3D Dynamics 21/10/2024 3:00 pm",
+      "task_description": "Assignments A1 Particle Dynamics A2 Rigid Body Dynamics A3 Single Degree of Freedom Vibrations B1 Orbital Mechanics B2 3D Dynamics Individual submission or submission from small group of maximum three (3) students. Only submit one report per group. The names and student numbers of all group members have to be included on the first page of the Assignment. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. Read full task description Hide full task description",
+      "submission_guidelines": "Submitted to Turnitin via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nMaximum extension is limited to three (3) days. Marked assessment will be released to permit students to progress with follow up assignments.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Laboratory Report",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Practical/ Demonstration",
+      "weight": "15%",
+      "due_date": "Two (2) teaching weeks after experiment performed, 15:00.",
+      "task_description": "One (1) formal laboratory report of your choice of practical 1 or 2 or 4. Individual submission or submission from small group of maximum four (4) students. The reports are to be submitted to Turnitin via Blackboard, two (2) teaching weeks after the experiment is performed. If it is a group submission, only submit one report per group . The names and student numbers of all group members have to be included on the first page of the report. The due date is extended to the end of week 12 for the 3D dynamics practical 4 for those who perform the practical early, i.e. Friday, 18 October 2024 is the earliest due date for anyone to submit their report for practical 4. The reason for this extension is to account for the time when the necessary content is introduced in the lectures. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. Read full task description Hide full task description",
+      "submission_guidelines": "Reports are to be submitted to Turnitin via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nFeedback made available to students to inform upcoming assessment items.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Online Quiz of Particle Dynamics",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Quiz",
+      "weight": "Pass/Fail",
+      "due_date": "16/08/2024 3:00 pm",
+      "task_description": "An internet-based quiz on particle dynamics will be run in the first few weeks. You may attempt the questions as many times as you like before the due date. You need to obtain a minimum of 75% for each module to pass the quiz. You must pass the quiz to pass the course. If you do not meet the 75% pass requirement by the due date, you will have a chance to get targeted assistance and reattempt the quiz later in semester. Feedback on assessment is online and immediate. The main purpose of the quiz is for you to identify potential weaknesses in your knowledge of the initial course materials which are foundation for all other parts of the course. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThe quiz will remain available to students after the due date.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "task_description": "Exam Period. This is a Closed Book examination - specified materials permitted. One A4 sheet of notes double sided is permitted. Calculator: Students are only permitted to use Casio FX82 series or UQ approved (labelled) calculators in this examination. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series or UQ approved , labelled calculator only Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Introduction of fundamental theories and concepts and demonstration of basic problem solving methods and techniques for the three sections of the course, · Section A: 2D dynamics and single degree of freedom vibrations · Section B1: Orbital mechanics · Seciton B2: 3D dynamics"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorials and Assignments All sections of the course have tutorials and assignments with set problems. The tutorial sessions provide opportunities to apply the techniques demonstrated in the lectures to solve problems under the guidance of teaching staff. At the tutorial sessions students are encouraged to discuss any questions which arise from lectures and practicals and to ask questions regarding the solutions of the tutorial problems. The primary purpose of the tutorial sessions is to give individual attention to specific student queries. In the assignments the students apply their theoretical and practical skills from the lectures and tutorials to independently solve problems."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 3 To Week 11 (05 Aug - 13 Oct)",
+      "activity_type": "Practical",
+      "topic": "Practicals In the practical classes experimental investigations of cousework material is undertaken. The purpose of the practicals is to demonstrate how the course material relates to measurable physical quantities, and to provide experience in experimental techniques. Students must follow the laboratory safety guidelines outlined in the risk assessment relevant to the practicals · 6395: Practical 1 – Acceleration of a geared system experiment · 6363: Practical 2 – Balancing of rotating masses experiment · 6362: Practical 3 – Rectilinear plant experiment · 6135: Practical 4 – Gyroscopic dynamics experiment"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

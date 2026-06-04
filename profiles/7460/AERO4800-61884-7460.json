@@ -1,0 +1,357 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/AERO4800-61884-7460",
+  "scraped_at": "2026-06-04T00:45:49.457640+00:00",
+  "course_code": "AERO4800",
+  "class_code": "61884",
+  "semester_code": "7460",
+  "full_course_code": "AERO4800-61884-7460",
+  "course_title": "Space Engineering",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "This course draws upon and extends many of the methods used by mechanical and space engineers in their professional practice. In this course you will learn how to perform advanced trajectory design and launch vehicle sizing; analyse issues related to thermal loading, power, and control of space systems; analyse how spacecraft safely return to Earth; perform reliability estimates for complex systems; and communicate your ideas and concepts through in-class exercises and written reports.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MECH2210",
+      "MECH3400",
+      "MECH2700"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MECH4800"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Chris James",
+      "email": "c.james4@uq.edu.au",
+      "phone": "+61 7 3365 3783",
+      "notes": "Please email Dr James to request a consultation."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Chris James",
+      "email": "c.james4@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Richard Morgan",
+      "email": "r.morgan@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course aims to give students an introduction to the broad field of space engineering by giving them an understanding of how the space environment affects the design of space systems, how to analyse the flight of space launch and re-entry vehicles, and how to manage heat, power needs, and reliability in space.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain design issues in the space environment - Explain why heat is transferred differently in space compared to on Earth."
+    },
+    {
+      "number": "LO2.",
+      "description": "Explain design issues in the space environment - Explain how the remoteness of space affects design choices."
+    },
+    {
+      "number": "LO3.",
+      "description": "Explain design issues in the space environment - Explain why mass, space, and power are severely limited in space and what this means for design."
+    },
+    {
+      "number": "LO4.",
+      "description": "Explain design issues in the space environment - Explain why storage, launch and space itself are hazardous for spacecraft in different ways."
+    },
+    {
+      "number": "LO5.",
+      "description": "Explain design issues in the space environment - Explain the effect of radiation and debris on spacecraft."
+    },
+    {
+      "number": "LO6.",
+      "description": "Analyse atmospheric flight trajectories - Explain the equations of motion of vehicles flying in the atmosphere such as rockets and scramjets."
+    },
+    {
+      "number": "LO7.",
+      "description": "Analyse atmospheric flight trajectories - Use simplifications to the equations of motion to analytically analyse simple rocket and cruising flight through the atmosphere."
+    },
+    {
+      "number": "LO8.",
+      "description": "Analyse atmospheric flight trajectories - Be able to calculate the mass fraction which launch vehicles of varying size and complexity can deliver into orbit."
+    },
+    {
+      "number": "LO9.",
+      "description": "Analyse atmospheric flight trajectories - Model the motion of launch vehicles with time as they travel through the Earth's atmosphere."
+    },
+    {
+      "number": "LO10.",
+      "description": "Analyse the motion of bodies in space - Explain the equations of motion of bodies orbiting in space."
+    },
+    {
+      "number": "LO11.",
+      "description": "Analyse the motion of bodies in space - Calculate the parameters of different types of orbits in two dimensions."
+    },
+    {
+      "number": "LO12.",
+      "description": "Analyse the motion of bodies in space - Calculate different orbital transfer manoeuvres."
+    },
+    {
+      "number": "LO13.",
+      "description": "Analyse the motion of bodies in space - Calculate and describe orbits in three dimensions."
+    },
+    {
+      "number": "LO14.",
+      "description": "Explain power requirements of space vehicles - Explain the different power sources available for use on space vehicles."
+    },
+    {
+      "number": "LO15.",
+      "description": "Explain power requirements of space vehicles - Decide which power source is most appropriate for a given type of space mission."
+    },
+    {
+      "number": "LO16.",
+      "description": "Explain power requirements of space vehicles - Size a spacecraft power system for a given mission."
+    },
+    {
+      "number": "LO17.",
+      "description": "Explain reliability in a space context - Explain why reliability is extremely important for space missions."
+    },
+    {
+      "number": "LO18.",
+      "description": "Explain reliability in a space context - Calculate the probability of success of a space mission using statistical methods."
+    },
+    {
+      "number": "LO19.",
+      "description": "Explain reliability in a space context - Decide if the launch of a space vehicle should be aborted given certain sampled atmospheric conditions."
+    },
+    {
+      "number": "LO20.",
+      "description": "Analyse the thermal environment of spacecraft - Explain the thermal environment experienced in space."
+    },
+    {
+      "number": "LO21.",
+      "description": "Analyse the thermal environment of spacecraft - Calculate satellite thermal balance by taking into account internally generated heat, heat from the sun, and reflected heat from the Earth's surface."
+    },
+    {
+      "number": "LO22.",
+      "description": "Analyse planetary entry trajectories - Explain the thermal environment experienced by spacecraft entering a planet's atmosphere."
+    },
+    {
+      "number": "LO23.",
+      "description": "Analyse planetary entry trajectories - Explain the materials and techniques which are used by space vehicle's to survive planetary entry."
+    },
+    {
+      "number": "LO24.",
+      "description": "Analyse planetary entry trajectories - Use basic techniques to calculate instantaneous heat flux to the surface of a planetary entry vehicle."
+    },
+    {
+      "number": "LO25.",
+      "description": "Analyse planetary entry trajectories - Calculate transient heating to a vehicle entering the atmosphere of a planet."
+    },
+    {
+      "number": "LO26.",
+      "description": "Analyse planetary entry trajectories - Calculate peak and total acceleration and heating during planetary entry for common planetary entry trajectories."
+    },
+    {
+      "number": "LO27.",
+      "description": "Perform preliminary spacecraft design - Use techniques which have been taught in this course to perform preliminary design of various parts of an interplanetary spacecraft."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "In-class problems",
+      "weight": "10%",
+      "due_date": "26/07/2024 2:00 pm; 2/08/2024 2:00 pm; 9/08/2024 2:00 pm; 16/08/2024 2:00 pm; 23/08/2024 2:00 pm; 30/08/2024 2:00 pm; 6/09/2024 2:00 pm; 13/09/2024 2:00 pm; 20/09/2024 2:00 pm; 11/10/2024 2:00 pm; 18/10/2024 2:00 pm; 25/10/2024 2:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Space Engineering Assignment",
+      "weight": "30%",
+      "due_date": "Launch Vehicles Checkpoint (10%) 29/08/2024 2:00 pm; Astrodynamics Checkpoint (10%) 3/10/2024 2:00 pm; Final submission (10%) 22/10/2024 2:00 pm"
+    },
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Thermal Analysis Experiment",
+      "weight": "10%",
+      "due_date": "8/10/2024 - 17/10/2024"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-class problems",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "10%",
+      "due_date": "26/07/2024 2:00 pm 2/08/2024 2:00 pm 9/08/2024 2:00 pm 16/08/2024 2:00 pm 23/08/2024 2:00 pm 30/08/2024 2:00 pm 6/09/2024 2:00 pm 13/09/2024 2:00 pm 20/09/2024 2:00 pm 11/10/2024 2:00 pm 18/10/2024 2:00 pm 25/10/2024 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19, L20, L21, L22, L23, L24, L25, L26, L27",
+      "task_description": "Tutorial problems will be issued on Blackboard to students just before the scheduled tutorial time. The staff running the tutorial will host the tutorial in person at the scheduled time. The teaching staff will answer questions and explain the task to be completed individually during the tutorial session. Solutions to some or all of the tutorial problems will be presented and discussed during the course of the tutorial. The assessment for each tutorial problem is full marks (worth 1%) or zero marks (worth 0%). The total mark for the tutorial is then 1% pro-rated by the proportion of problems you passed. A pass requires that you make a reasonable attempt at the question: selecting appropriate theory and methodology from the lecture material and applying it to the problem at hand. Zero marks would constitute either not doing a problem at all or very incorrectly attempting the problem, such as applying an inappropriate analysis to the question at hand. Work must be submitted individually, however, students are actively encouraged to collaborate with group members in completing this learning activity. Submission is online via Blackboard at 2:00 PM the next business day after the tutorial. Read full task description Hide full task description",
+      "submission_guidelines": "Submission is online via Blackboard at 2:00 PM the next business day after the tutorial.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThe maximum mark which can be obtained for this item of assessment is 10% (i.e. if you submit 9 tutorials during the course of the semester and receive full marks for each, your final mark for this item of assessment will be 9%; whereas if you submit 12 tutorials during the course of the semester and receive full marks for each, your final mark for this item of assessment will be 10%).\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nSolutions to some or all of the tutorial problems will be presented and discussed during the course of the tutorial.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late ."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Space Engineering Assignment",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "30%",
+      "due_date": "Launch Vehicles Checkpoint (10%) 29/08/2024 2:00 pm Astrodynamics Checkpoint (10%) 3/10/2024 2:00 pm Final submission (10%) 22/10/2024 2:00 pm",
+      "other_conditions": "Longitudinal. See the conditions definitions",
+      "learning_outcomes_assessed": "L06, L07, L08, L09, L10, L11, L12, L13, L20, L21, L22, L23, L24, L25, L26, L27",
+      "task_description": "Multi-part assignment covering the paper-based design of a space vehicle which will launch from Earth, travel to another location in the solar system, and then enter a planetary atmosphere. This assignment will require knowledge gained in the launch vehicles, astrodynamics, and planetary entry parts of the course, which will be applied to a simplified whole mission. Two checkpoint submissions (worth 10% of the course grade each) will be used to demonstrate that the launch vehicles and astrodynamics models developed are appropriate for completing the assignment and to provide feedback to students as they gradually work through the assignment throughout the semester. These submissions will be short preliminary reports which focus on presenting validation cases to demonstrate that the models are functioning as expected. The checkpoints will have their own assignment criteria provided on Blackboard. The final report (worth 10% of the course grade) will formally document the findings of the whole project. Read full task description Hide full task description",
+      "submission_guidelines": "Submission is online via TurnItIn on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFeedback is provided to students following 14 calendar days.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Thermal Analysis Experiment",
+      "mode": "Activity/ Performance",
+      "category": "Practical/ Demonstration",
+      "weight": "10%",
+      "due_date": "8/10/2024 - 17/10/2024",
+      "learning_outcomes_assessed": "L22, L23, L24, L25",
+      "task_description": "This practical involves the testing of a scaled model of a space shuttle style wing section by subjecting it to electrical heating loads equivalent to those encountered in re-entry from space. Theoretical models of the transient heating and thermal control mechanisms involved must be developed and used to evaluate the experimental results. Practical attendance is compulsory and any student who does not attend a practical session will receive a grade of 0 for the practical. The laboratory sessions will be held in weeks 9 and 10 of semester. There is pre-work which students need to complete before the practical and bring to the session so that it can be marked at the start of the session. The pre-work is also designed to increase understanding of the practical content on the day. Data will be generated during the practical, and students are required to bring their own USB stick to take the data away with them. It is each student's individual responsibility to ensure they leave the practical with a copy of the data. Reports are due two teaching weeks after performing the experiments, in teaching Weeks 11 or 12 by 2:00 PM on the day of the week which the experiments were performed. (As an exception, any reports due on the King's Birthday on Monday the 7th of October are due Tuesday the 8th of October.) The experiments are performed in groups; however, the assessment is individual. Read full task description Hide full task description",
+      "submission_guidelines": "Submission is online via TurnItIn on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFeedback is provided to students following 14 calendar days.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19, L20, L21, L22, L23, L24, L25, L26",
+      "task_description": "Closed book with a formula sheet provided. Exam scope: Entire course. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series or UQ approved , labelled calculator only Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Space Engineering Lectures Lectures will be run in person each week. Students are encouraged to participate in the lectures, where they will be able to ask questions and engage with the lecture content. Recordings of the lectures will be made available on Blackboard after the event. Introductory lectures will aim to give students an understanding of how the space environment affects the design of space systems. The first series of lectures cover atmospheric flight. In this part of the course, students will learn how to model the flight of rockets and scramjet systems in the Earth's atmospheric, as well as how to size these systems to get payloads into orbit. The second series of lectures cover advanced orbital mechanics. In this part of the course, students will learn how to calculate basic orbits around Earth, before considering more complicated three-dimensional orbits, transfer orbits, and interplanetary trajectories. The third series of lectures cover planetary entry and thermal management for space systems. In this part of the course students will learn about the techniques and materials which are used to survive planetary entry, as well as how heat is managed in the vacuum of space. They will also learn about the different types of planetary entry trajectories, as well as basic techniques which can be used to analyse accelerations and heat transfer rates during planetary entry to aid in the preliminary design and analysis of space vehicles. The final series of lectures cover space power systems and reliability. In this part of the course, students will learn about which power systems are most appropriate for different space scenarios, and how to size basic systems accordingly. Students will also learn about how to design reliable systems which have a high chance of succeeding in the demanding and remote space environment. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19, L20, L21, L22, L23, L24, L25, L26, L27",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13",
+        "L14",
+        "L15",
+        "L16",
+        "L17",
+        "L18",
+        "L19",
+        "L20",
+        "L21",
+        "L22",
+        "L23",
+        "L24",
+        "L25",
+        "L26",
+        "L27"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial Sessions This time is set aside for solving example problems and includes time to ask questions about the course content and the assignments. The first hour of the tutorial will be used to work through an assessed tutorial problem and the second hour will be available for further discussion about course content. The tutorials will be conducted in person only. Tutorial problems will be issued on Blackboard to students just before the scheduled tutorial time. The teaching staff will answer questions and explain the task to be completed individually during the tutorial session. Solutions to some or all of the tutorial problems will be presented and discussed during the course of the tutorial. Work must be submitted individually, however, students are actively encouraged to collaborate with group members in completing this learning activity. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19, L20, L21, L22, L23, L24, L25, L26, L27",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13",
+        "L14",
+        "L15",
+        "L16",
+        "L17",
+        "L18",
+        "L19",
+        "L20",
+        "L21",
+        "L22",
+        "L23",
+        "L24",
+        "L25",
+        "L26",
+        "L27"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (29 Jul - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Space Engineering Assignment Learning outcomes: L06, L07, L08, L09, L10, L11, L12, L13, L22, L23, L24, L25, L26, L27",
+      "learning_outcomes": [
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13",
+        "L22",
+        "L23",
+        "L24",
+        "L25",
+        "L26",
+        "L27"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 9 To Week 10 (16 Sep - 06 Oct)",
+      "activity_type": "Practical",
+      "topic": "Thermal Analysis Experiment Group experiments are conducted on a simulated thermal protection system segment of a re-entry spacecraft in an evacuated chamber to give students a practical demonstration of transient planetary entry heating. Learning outcomes: L22, L23, L24, L25",
+      "learning_outcomes": [
+        "L22",
+        "L23",
+        "L24",
+        "L25"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

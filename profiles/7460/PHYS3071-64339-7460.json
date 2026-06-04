@@ -1,0 +1,202 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/PHYS3071-64339-7460",
+  "scraped_at": "2026-06-04T01:13:30.692514+00:00",
+  "course_code": "PHYS3071",
+  "class_code": "64339",
+  "semester_code": "7460",
+  "full_course_code": "PHYS3071-64339-7460",
+  "course_title": "Computational Physics I",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Through a series of integrated projects, students will learn the principles of computational physics and will develop skills in the design of computational solutions to problems in classical, quantum, and experimental physics. The course covers methods of solving coupled systems of ODEs, PDEs using linear algebra and basis transformations, and the basics of machine learning/model fitting to experimental or simulated data.\n\nThis course is an introduction to computational physics using a series of projects based in Python. It covers concepts and skills lying at the intersection of physics, applied mathematics and computer science.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "PHYS1001",
+      "PHYS1002",
+      "MATH2001",
+      "MATH2901"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Alexander Stilgoe",
+      "email": "stilgoe@physics.uq.edu.au",
+      "phone": "+61 7 3346 9935",
+      "notes": "I am free on and off throughout the week. Feel free to stop by my office any time. I cannot guarantee my presence. If you would like a formal meeting, this can be arranged by e-mail or phone to be held in person or over zoom."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Alexander Stilgoe",
+      "email": "stilgoe@physics.uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Matthew Edmonds",
+      "email": "m.edmonds@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Holger Baumgardt",
+      "email": "h.baumgardt@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Carter Fairhall"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Ashlee Caddell"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Ryan White"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThere are two 2 hour workshops each week where you will be able to learn about the physics and methods needed to create solutions for your projects.\nAll classes will be conducted on campus. Consult your personal timetable for times and locations. Students are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness).\nImportant: if you are ill, then do not attend any classes in person.",
+  "course_aims": "The course will teach methods of computer-based problem solving for coupled systems of ODEs, PDEs using linear algebra and basis transformations, and the basics of machine learning/model fitting to experimental or simulated data.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Use computer-based techniques to solve a variety of project-based problems in physics."
+    },
+    {
+      "number": "LO2.",
+      "description": "Define a range of physical problems in terms of equations and mathematical models."
+    },
+    {
+      "number": "LO3.",
+      "description": "Apply basic methods in numerical analysis: integration and differentiation schemes, linear algebra, interpolation, root finding and the solution of differential equations."
+    },
+    {
+      "number": "LO4.",
+      "description": "Analyse and identify numerical stability issues and rounding errors."
+    },
+    {
+      "number": "LO5.",
+      "description": "Visualise computer program output and data and present them in a variety of computer media formats."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Assignment 1",
+      "weight": "25%",
+      "due_date": "30/08/2024 4:00 pm"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Assignment 2",
+      "weight": "25%",
+      "due_date": "4/10/2024 4:00 pm"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Assignment 3",
+      "weight": "25%",
+      "due_date": "25/10/2024 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "25%",
+      "due_date": "4/11/2024 - 15/11/2024",
+      "conditions": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment 1",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "25%",
+      "due_date": "30/08/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Python programming, indefinite integration to solve initial value problems of particle dynamics, generate report of process and conclusion. Read full task description Hide full task description",
+      "submission_guidelines": "Electronically and/or hard copy as specified by the assignment\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 2",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "25%",
+      "due_date": "4/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Python programming, solve 2d or 3d wavefield boundary value problems, generate report of process and conclusion. Read full task description Hide full task description",
+      "submission_guidelines": "Electronically and/or hard copy as specified by the assignment\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 3",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "25%",
+      "due_date": "25/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Python programming, investigate machine learning applied to active matter, classify and analyse generated data, generate report of process and conclusion. Read full task description Hide full task description",
+      "submission_guidelines": "Electronically and/or hard copy as specified by the assignment\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Examination",
+      "mode": "Oral",
+      "category": "Examination",
+      "weight": "25%",
+      "due_date": "4/11/2024 - 15/11/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "This will examine material from the whole course. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 60 minutes Calculator options No calculators permitted Open/closed book Closed Book examination - no written materials permitted Exam platform Other Invigilation Invigilated in person",
+      "submission_guidelines": "Student exam attendance availability needs to be sent to Course Coordinator after scheduled central exam timetable has been received. A reminder will be given at the end of semester. Exam times will be assigned randomly (within ordinary business hours) on the days and times with student and examiner availability.\nDeferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Not scheduled",
+      "activity_type": "Workshop",
+      "topic": "Methods Workshop Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Not scheduled",
+      "activity_type": "Not Timetabled",
+      "topic": "Automated Interactive Tutorials Learning outcomes: L02, L03, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

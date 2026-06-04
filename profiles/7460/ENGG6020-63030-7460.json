@@ -1,0 +1,225 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG6020-63030-7460",
+  "scraped_at": "2026-06-04T00:58:37.732972+00:00",
+  "course_code": "ENGG6020",
+  "class_code": "63030",
+  "semester_code": "7460",
+  "full_course_code": "ENGG6020-63030-7460",
+  "course_title": "Systems Safety Engineering",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Chemical Engineering School",
+  "course_description": "Course covering inherently safer design, defence in depth, resilience engineering, human factors, incident investigation and safety management and governance. Techniques covered include: Hazard and Operability Studies (HAZOP), Functional Failure Analysis (FFA), Fault Tree Analysis (FTA), Event Tree Analysis (ETA), Failure Modes and Effects Analysis (FMEA) and Failure Modes Effects and Criticality Analysis (FMECA), Bowtie Analysis, LOPA, Accimap and Safer.\n\nSafety is a whole life cycle issue that relates to all aspects of the system. Hardware, software, operating procedures, planning, development, testing, maintenance, installation, commissioning, decommissioning, and disposal are considered in a systems safety program alongside the users, maintainers, designers and customers who interact with systems at each step of the life cycle.\n\nFor most safety-critical systems, it is not sufficient to simply develop a safe system: the system must also be shown to be safe. Development of a \"safety case\" type analysis is important for such systems. Early identification of safety issues and assessment of the safety-criticality of a system are important in order to prevent costly mitigations and rework being needed later on. A number of disasters have shown that for many organisations, the entire process of analysing, specifying, developing and deploying safety-critical systems needed significant improvement.\n\nThe lecture component of this course explains the principles and practice of safety management and engineering. The content blends discussion of management and development issues with practical experience in safety analysis techniques. Topics covered include: inherently safer design, defence in depth, resilience engineering, human factors, incident investigation and safety management and governance. Techniques covered include: Hazard Studies (HAZID and HAZOP), Fault Tree Analysis (FTA), Event Tree Analysis (ETA), Failure Modes and Effects and Criticality Analysis (FMEA and FMECA), Bowtie Analysis, LOPA, Accimap, STPA and SAfER.\n\nWhile the focus is on safety, most of the material applies very well to other dimensions of risk, such as security, financial and/or environmental risk. The course is thus a good primer for anyone interested in risk assessment and risk management for socio-technical systems.\n\nThe workshop sessions and assignment work will enable students to develop their skills in system safety engineering on a realistic case study throughout the semester.",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ENGG4020",
+      "ENGG7020",
+      "CHEE7112"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Maureen Hassall",
+      "email": "m.hassall1@uq.edu.au",
+      "phone": "+61 7 3346 4081"
+    },
+    {
+      "role": "Course coordinator",
+      "name": "Mrs Nyssa Nair",
+      "email": "n.nair@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Maureen Hassall",
+      "email": "m.hassall1@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Mrs Nyssa Nair",
+      "email": "n.nair@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mrs Loreto Codoceo",
+      "email": "l.codoceo@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course will develop students' knowledge and application skills in System Safety Engineering.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain basic system safety principles and the purpose and structure of risk based safety assessments."
+    },
+    {
+      "number": "LO2.",
+      "description": "Describe the role and responsibilities of Safety Professionals."
+    },
+    {
+      "number": "LO3.",
+      "description": "Perform and critique Risk Analyses for a system using a number of known techniques."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply and critique risk treatment approaches using a number of known techniques."
+    },
+    {
+      "number": "LO5.",
+      "description": "Identify and specify functional safety requirements for a given system or system design."
+    },
+    {
+      "number": "LO6.",
+      "description": "Identify, describe, interpret, evaluate and describe application of systems safety approaches using key industry standards and codes of practice."
+    },
+    {
+      "number": "LO7.",
+      "description": "Improve team work and communication skills through practice on project work and from reflection and feedback."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Assignment 1. Systems Safety Risk Analysis",
+      "weight": "20%",
+      "due_date": "23/08/2024 3:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Assignment 2. Risk control analysis",
+      "weight": "30%",
+      "due_date": "20/09/2024 3:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Assignment 3. Literature and case study review",
+      "weight": "30%",
+      "due_date": "25/10/2024 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Oral exam (interview) (20 Minutes)",
+      "weight": "20%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024; Examination period",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment 1. Systems Safety Risk Analysis",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "23/08/2024 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L06, L07",
+      "task_description": "Group Assignment with Individual Memo. Work in groups to undertake a systems safety risk assessment for a case study that will be provided. Students are then required to write a technical memo describing task and reporting on the system safety risks for a case study. More detailed guidance will be given in class. This task has been designed to be challenging, authentic and complex. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "All written assignments will be submitted electronically via Blackboard and using TurnItIn.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nAssessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "Assessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.",
+      "ai_statement": "Group Assignment with Individual Memo. Work in groups to undertake a systems safety risk assessment for a case study that will be provided. Students are then required to write a technical memo describing task and reporting on the system safety risks for a case study. More detailed guidance will be given in class. This task has been designed to be challenging, authentic and complex. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 2. Risk control analysis",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "30%",
+      "due_date": "20/09/2024 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L04, L05, L06, L07",
+      "task_description": "Group Assignment with Individual Memo. Work in groups to undertake a risk treatment analysis for a case study that will be provided. Students are then required to write a technical memo describing task and reporting on the risk treatment requirements for a case study. More detailed guidance will be given in class. This task has been designed to be challenging, authentic and complex. This task has been designed to be challenging, authentic and complex. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "All written assignments will be submitted electronically via Blackboard using TurnItIn.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nAssessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "Assessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.",
+      "ai_statement": "Group Assignment with Individual Memo. Work in groups to undertake a risk treatment analysis for a case study that will be provided. Students are then required to write a technical memo describing task and reporting on the risk treatment requirements for a case study. More detailed guidance will be given in class. This task has been designed to be challenging, authentic and complex. This task has been designed to be challenging, authentic and complex. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. This task has been designed to be challenging, authentic and complex. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 3. Literature and case study review",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "30%",
+      "due_date": "25/10/2024 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "Assignment type: individual. Conduct human and organisational factors analyses for a case study provided and discuss findings as they relate to (a) defence in depth including inherently safety design (b) system safety management systems and three lines of defence. More detailed guidance will be given in class. This task has been designed to be challenging, authentic and complex. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "All written assignments will be submitted electronically via Blackboard and using TurnItIn.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nAssessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "Assessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.",
+      "ai_statement": "Assignment type: individual. Conduct human and organisational factors analyses for a case study provided and discuss findings as they relate to (a) defence in depth including inherently safety design (b) system safety management systems and three lines of defence. More detailed guidance will be given in class. This task has been designed to be challenging, authentic and complex. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance"
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Oral exam (interview) (20 Minutes)",
+      "mode": "Oral",
+      "category": "Examination",
+      "weight": "20%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024 Examination period",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "This is an oral assessment which consists of an interview session which will be held during the exam period. More information will be provided in class. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. NOTE: Only 20 minutes will be allocated to each student. Read full task description Hide full task description",
+      "exam_details": "Planning time no planning time minutes Duration 20 minutes Calculator options (In person) Casio FX82 series or UQ approved , labelled calculator only Open/closed book Closed Book examination - no written materials permitted Exam platform Other Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nAssessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "Assessments must be submitted on or before the due date. Late submissions of assessment items will only be accepted if approval for late submission has been obtained prior to the due date.",
+      "ai_statement": "This is an oral assessment which consists of an interview session which will be held during the exam period. More information will be provided in class. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. NOTE: Only 20 minutes will be allocated to each student. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Pre-recorded lectures Lectures will cover the basic theory. These will be pre-recorded and available on blackboard Readings/Ref: Blackboard Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Workshop",
+      "topic": "Workshops There is a 2 x two-hour tutorial sessions each week unless there is a public holiday. The tutorial sessions are intended to give students further practice with techniques taught in lectures and help with assignments. Readings/Ref: Blackboard Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: Safety Induction for Practicals Course guidelines Safety Induction for Practicals Anyone undertaking courses with a practical component must complete the UQ Undergraduate Student Laboratory Safety Induction and pass the associated assessment. Specific instructions, usage guidelines and rules for each of the undergraduate laboratories will be delivered as part of each course. In some cases, students may be required to attend a specific face-to-face laboratory induction/training session. Learning activities"
+}

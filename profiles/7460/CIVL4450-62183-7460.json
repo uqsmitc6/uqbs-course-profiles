@@ -1,0 +1,213 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CIVL4450-62183-7460",
+  "scraped_at": "2026-06-04T00:52:06.415901+00:00",
+  "course_code": "CIVL4450",
+  "class_code": "62183",
+  "semester_code": "7460",
+  "full_course_code": "CIVL4450-62183-7460",
+  "course_title": "Traffic Flow Theory and Emerging Technologies",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Civil Engineering School",
+  "course_description": "Traffic flow theory is the foundation of daily traffic operation and controls. Transport Engineering is also rapidly changing as a result of emerging and disruptive technologies, such as connected and automated vehicles, car sharing and electric vehicles, which make transportation systems more dynamic and complex. This course provides future transport planners and traffic engineers with the capacity to develop and implement effective and efficient traffic management strategies. Students will gain essential knowledge of advanced and emerging issues in Transport Engineering so they can contribute to the design and management of future transport systems. The course focuses on advanced traffic flow theories and modelling as well as emerging topics such as automated vehicles, cooperative driving. The opportunities and challenges in the era of connected and automated vehicles are also explored. The course compliments other transport courses offered at the University of Queensland and extends material from courses such as CIVL2410 and CIVL3420. This course also prepares students for more advanced study in CIVL7435.\n\nThis course builds on previous traffic and transport engineering subjects and covers more advanced topics in transport engineering. Modules focus on advanced traffic flow theories and modelling, and emerging topics in Transport Engineering, such as automated vehicles, cooperative driving, opportunities and challenges in the era of connected and automated vehicles, etc.\n\nConcepts and theories will be introduced in the lectures, while examples will be provided in the tutorials. Also, in the tutorials, students will be asked to write codes (e.g., R, Matlab, Python, or using Excel) to simulate how vehicles follow each other, how vehicles change lanes, and how traffic travel like fluid. Assessments are designed in such a way that students can not only test their understanding on advanced traffic flow theories and emerging technologies in Transport Engineering, but also test their skills of implementing them.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CIVL2410",
+      "CIVL2420",
+      "We recommend completing the following courses before enrolling in this one:",
+      "CIVL3420"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Zuduo Zheng",
+      "email": "zuduo.zheng@uq.edu.au",
+      "notes": "By appointment only."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Zuduo Zheng",
+      "email": "zuduo.zheng@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Mehmet Yildirimoglu",
+      "email": "m.yildirimoglu@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course aims to provide students advanced analytical skills (e.g., traffic flow modelling, simulation, etc.) that are necessary for tackling complex issues our society is currently facing, such as traffic congestion, vehicle emissions, etc. Moreover, this course also aims to educate students on emerging issues in Transport Engineering, and provide students essential knowledge about future transport systems.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Apply microscopic models to simulate individual driving behaviours;"
+    },
+    {
+      "number": "LO2.",
+      "description": "Apply macroscopic models to simulate characteristics of traffic flow;"
+    },
+    {
+      "number": "LO3.",
+      "description": "Explain simulation outcomes of traffic models, and present the outcomes to the general public as well as the experts;"
+    },
+    {
+      "number": "LO4.",
+      "description": "Explain impacts of emerging technologies on Transport Engineering;"
+    },
+    {
+      "number": "LO5.",
+      "description": "Develop strategies to cope with impacts of emerging technologies on Transport Engineering."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Macroscopic modelling",
+      "weight": "20%",
+      "due_date": "6/09/2024 4:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code",
+      "title": "Car following modelling",
+      "weight": "20%",
+      "due_date": "30/09/2024 4:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Problem solving",
+      "weight": "20%",
+      "due_date": "11/10/2024 4:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Macroscopic modelling",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "6/09/2024 4:00 pm",
+      "learning_outcomes_assessed": "L02, L03",
+      "task_description": "You are asked to code a simple macroscopic traffic flow model using a language you are comfortable with. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Assignment must be submitted via Turnitin through BlackBoard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "You are asked to code a simple macroscopic traffic flow model using a language you are comfortable with. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Car following modelling",
+      "mode": "Written",
+      "category": "Computer Code",
+      "weight": "20%",
+      "due_date": "30/09/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L03",
+      "task_description": "You are asked to code a simple car following model using a language you are comfortable with. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Assignment must be submitted via Turnitin through BlackBoard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "You are asked to code a simple car following model using a language you are comfortable with. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Problem solving",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "11/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L04, L05",
+      "task_description": "You are asked to solve a set of problems related to all the major topics covered in this course. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Assignment must be submitted via Turnitin through BlackBoard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "You are asked to solve a set of problems related to all the major topics covered in this course. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L04, L05",
+      "task_description": "The final exam will include a combination of multiple choice, short answer and problem solving questions. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The final exam will include a combination of multiple choice, short answer and problem solving questions. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorials Tutorials designed to help students to better understand the topics covered in the lectures. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: School of Civil Engineering School Guidelines Learning activities"
+}

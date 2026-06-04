@@ -1,0 +1,248 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MRES7002-64434-7460",
+  "scraped_at": "2026-06-04T01:09:07.470091+00:00",
+  "course_code": "MRES7002",
+  "class_code": "64434",
+  "semester_code": "7460",
+  "full_course_code": "MRES7002-64434-7460",
+  "course_title": "Magnetic Resonance Instrumentation",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Postgraduate Coursework",
+  "location": "External",
+  "attendance_mode": "Online",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Magnetic Resonance Instruments for clinical applications. Function & performance concepts for superconducting MRI magnets, RF & gradient coils. Spectrometer architectures. Technology implications of modern fast/advanced imaging sequences. Instrumental & patient induced artifacts & their amelioration.\n\nThe course explores nuclear magnetic resonance hardware components and principles necessary to generate a magnetic resonance image. The hardware mechanism to induce a magnetic field (or magnetise) an object of interest is first established to show how signals can be generated under different circumstances. The acquired signal then neccesitates the formation of an image. The course also provides implications arising from various hardware components, how these impact scanning and how they persist in MR images. The primary safety limitations for safe MR imaging are provided with respect to the system hardware components. This foundation course is compulsory within the postgraduate Magnetic Resonance Technology program. It provides the required MR hardware knowledge that is a prerequisite for enrolment in later courses.",
+  "requirements": {
+    "restrictions": [
+      "Enrolment restricted to Master of Magnetic Resonance program suite students.",
+      "This course is jointly-taught with:",
+      "Another instance of the same course",
+      "MERS7002"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Viktor Vegh",
+      "email": "viktor.vegh@cai.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Viktor Vegh",
+      "email": "viktor.vegh@cai.uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nTimetables will be posted on the course Blackboard.ﾠAll tutorials are recorded and posted onto Blackboard.ﾠ\nTutorials are held atﾠ\nCentre for Advanced Imaging, Building 57, Level 2 Seminar Room.ﾠ\nInternal tutorial structure\nExternal tutorial structure\nWednesday 2pm to 3pm\nTutorial recordings posted on Blackboard ﾠ ﾠ ﾠ ﾠ",
+  "course_aims": "1. Describe the different modalities of imaging in the field of medicine.\n2. Define the hardware requirements of obtaining medical images using magnetic resonance imaging approaches.\n3. Identify the problems within magnetic resonance images and their associated hardware cause.\n4. Discuss the effect on patient of theﾠvarious magnetic fields and other possible clinician/patient concerns.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Different imaging modalities - Explain in general the medical imaging modalities used for diagnosis and treatment planning of patients."
+    },
+    {
+      "number": "LO2.",
+      "description": "Different imaging modalities - Outline the different types of medical images obtained using various imaging modalities, such as CT, X-ray, PET, Ultra Sound, SPECT, Optical and MRI."
+    },
+    {
+      "number": "LO3.",
+      "description": "Hardware requirements - Outline the primary components of an MRI static magnet."
+    },
+    {
+      "number": "LO4.",
+      "description": "Hardware requirements - Define the x-, y- and z-gradient coils in an MRI scanner and their functionality."
+    },
+    {
+      "number": "LO5.",
+      "description": "Hardware requirements - Describe the construction of various types of MRI RF coils and the manner in which these operate."
+    },
+    {
+      "number": "LO6.",
+      "description": "Hardware requirements - State the physical limitations of each primary MRI hardware component."
+    },
+    {
+      "number": "LO7.",
+      "description": "Hardware requirements - Understand the need for safety limits posed on MRI hardware."
+    },
+    {
+      "number": "LO8.",
+      "description": "Hardware problems - Link different types of image artefacts to possible hardware causes."
+    },
+    {
+      "number": "LO9.",
+      "description": "Hardware problems - State the image artefacts caused by impurities in the magnet, gradient coils and RF coil magnetic fields."
+    },
+    {
+      "number": "LO10.",
+      "description": "Effect of magnetic fields - Describe the issues with magnetic fields and clinicians and how these affect their day to day work."
+    },
+    {
+      "number": "LO11.",
+      "description": "Effect of magnetic fields - Describe the issues with magnetic fields and how these cause problems for patients."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Essay/ Critique",
+      "title": "Assignment (Part 1): Specify your topic choices",
+      "weight": "2%",
+      "due_date": "Week 4, Mon 2:00 pm; Monday week 4"
+    },
+    {
+      "category": "Presentation",
+      "title": "Assignment (Part 2): Your topic",
+      "weight": "30%",
+      "due_date": "21/10/2024 2:00 pm; Monday week 13"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "3x Tutorial Questions",
+      "weight": "18%",
+      "due_date": "22/08/2024 2:00 pm; 12/09/2024 2:00 pm; 17/10/2024 2:00 pm; 14:00 Thursdays Weeks 5,8,12"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment (Part 1): Specify your topic choices",
+      "mode": "Written",
+      "category": "Essay/ Critique",
+      "weight": "2%",
+      "due_date": "Week 4, Mon 2:00 pm Monday week 4",
+      "learning_outcomes_assessed": "L01",
+      "task_description": "Type: Topic choice ( word document ) Task Description: For the assignment, the student has the opportunity to choose their project from twenty topics, grouped in six broad themes. The first assessment task for MRES7002 is to choose three topics, weight them and justify their selection. Based on the topic list and on their preference, each student will be assigned one topic only for part 2 of the assignment (see below). The assignment (part 1) has the following structure 1. Student Name: 2. Student Number: 3. Selection of three topics from the following list and place 1, 2 and 3 in brackets to indicate your preference for the major assignment. As an example, choose (i) a [1], (iii) b [2] and (iv) c [3], hence the assigned topic will be i (a) resistive magnets. (i) Magnets a. Resistive magnets b. Permanent magnets c. Passively shielded superconducting magnets d. Actively shielded superconducting magnets (ii) Gradient coils a. Cylindrical unshielded gradient coils b. Cylindrical actively shielded gradient coils c. Force balanced gradient coils d. Noise reduction produced by gradient coils e. Open/planar gradient coils. (iii) Shimming a. Passive shimming b. Active shimming. (iv) Radio frequency coils a. Transmit/receive birdcage coils b. Transmit and/or receive multichannel surface coils c. Coils for extremity imaging. (v) Health and Safety a. Gradient coils and peripheral nerve stimulation b. Radio frequency waves and specific absorption rate. (vi) Emerging technologies a. Ultrahigh field systems b. Low field systems c. Ultralow field systems d. Hybrid technologies (e.g. PETMRI) Instructions. Provide a maximum of 100 word statement per chosen topic outlining the reason why you decided on the above the three topics. Read full task description Hide full task description",
+      "submission_guidelines": "Via Turnitin\nDeferral or extension\nYou may be able to apply for an extension .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to apply for an extension ."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment (Part 2): Your topic",
+      "mode": "Activity/ Performance, Oral, Written",
+      "category": "Presentation",
+      "weight": "30%",
+      "due_date": "21/10/2024 2:00 pm Monday week 13",
+      "learning_outcomes_assessed": "L03, L04, L05, L06, L08, L09",
+      "task_description": "Overview: The purpose of the assignment is for students to research and present (MS PowerPoint) a topic in MR instrumentation highlighting current technological state and capability in the area. Library catalogues, scientific journal databases and internet sites are expected to be searched to locate appropriate overviews and cutting edge information. Take care to ascertain that the information obtained has been rigorously reviewed and is not simply of a promotional nature. This is particularly important when using information downloaded from the Internet. Presentation information: Your presentation should have the following structure: Title page ( 1 slide ): Chosen topic, name and student number Outline ( 1 or 2 slides ): Illustrating the structure of the presentation Introduction ( 6 to 8 slides ): Presenting topic key concepts and provide background information leading into the topic. Topic key concepts ( 6 to 8 slides ): Provide detailed topic information, ensuring the main concepts are explained clearly and concisely. Figures, illustrations and diagrams (as appropriate) : Supporting the presentation and should come with figure captions. Text: The topic is a (MS power-point or similar) presentation, therefore text should be concise but sufficiently detailed for reader to understand the key concepts presented. To keep the slides clear use 1 concept per 1 bullet point with 3 concepts maximum per slide. Equations : Used only to support your concepts if necessary and keep the equation numbers to a minimum. Each equations variables and terms used must be explained and their relevance highlighted. Advantages and disadvantages, limitations and drawbacks ( 4 to 7 slides ): Point out how the key technique fits within the broader MRI or medical imaging field. How useful is the topic of choice in practice? What are the applications? Directions ( 1 to 3 slides ): What kind of research and developments were outcomes of the findings within the area of your chosen topic? Summary ( 1 slide ) : List the key topic points of your findings References (as needed) : All material used from the internet, photos, books, and journal papers etc. require proper referencing. Reference style can be chosen freely but must be consistent (see Learning resources chapter 3.5 for more details). These slides are not counted in the total slide count. Note: The number of slides or text length does not lead automatically to a higher/better mark. It also depends on how clearly and concisely key concepts and topics are described. For example, the choice of using text over figures, and vice versa may result in more or less slides to describe the same thing. Example numbers in italic have been added as an illustration of how the marks are allocated. Read full task description Hide full task description",
+      "submission_guidelines": "submit via Turnitin\nDeferral or extension\nYou may be able to apply for an extension .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to apply for an extension ."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11",
+      "task_description": "The examination is a non-invigilated online exam. This is an open book examination​. It will be centrally timetabled and in the form of a pdf file you can download from Blackboard. You can print the exam and write on the exam paper, or write your answers on blank paper, or write electronically on a suitable device. You will then scan or photograph your work if necessary and upload your answers as a single pdf file. You will have 10 minutes planning time followed by 2 hours to complete the exam. A further 15 minutes are allowed during which you must upload your exam to Blackboard. You will be advised of the date and time in which to complete the examination once the examination timetable has been determined. Note that late penalties will be strictly applied as per university policy. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options Any calculator permitted Open/closed book Open Book examination Exam platform Learn.UQ Invigilation Not invigilated",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "3x Tutorial Questions",
+      "mode": "Activity/ Performance, Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "18%",
+      "due_date": "22/08/2024 2:00 pm 12/09/2024 2:00 pm 17/10/2024 2:00 pm 14:00 Thursdays Weeks 5,8,12",
+      "learning_outcomes_assessed": "L03, L04, L05, L06, L07, L08, L09, L10, L11",
+      "task_description": "There are three independent MRES7002 question sets which are assessable. Each set has questions which will cover material from three weeks of tutorials. Therefore, each tutorial will take up three weeks of the semester. In the week following the submission you will be provided with feedback. Your answers will be marked and in total are worth 18% of your course. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to apply for an extension ."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Tutorial",
+      "topic": "System architecture Introduction to MRES7002, Module 1: MRI System Overview and Module 2: Magnets Learning outcomes: L01, L02, L03, L06, L09",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L06",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Tutorial",
+      "topic": "RF coils and shims RF coils and shimming in MR system: hardware and applications. Study of Module 4: Shims and shimming and Module 5: Radiofrequency coils Learning outcomes: L05, L09",
+      "learning_outcomes": [
+        "L05",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Tutorial",
+      "topic": "Course recap Revision Learning outcomes: L03, L04, L05, L06, L07, L08, L09, L10, L11",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Tutorial",
+      "topic": "Gradient coils High field MR - what are the pros and cons? MR gradient coils: action and performance. Study Module 3: Pulsed field gradients Learning outcomes: L04, L06, L09",
+      "learning_outcomes": [
+        "L04",
+        "L06",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Tutorial",
+      "topic": "Catchup Module 1 - 5 Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Tutorial",
+      "topic": "The receiver Study Module 6: Signal reception and digitisation Learning outcomes: L05, L07, L08, L09",
+      "learning_outcomes": [
+        "L05",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Tutorial",
+      "topic": "Magnetic Properties of Tissue Study Module 7: Electrical and Magnetic properties of Tissue Learning outcomes: L10, L11",
+      "learning_outcomes": [
+        "L10",
+        "L11"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

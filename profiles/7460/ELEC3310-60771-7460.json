@@ -1,0 +1,199 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ELEC3310-60771-7460",
+  "scraped_at": "2026-06-04T00:58:21.264191+00:00",
+  "course_code": "ELEC3310",
+  "class_code": "60771",
+  "semester_code": "7460",
+  "full_course_code": "ELEC3310-60771-7460",
+  "course_title": "Electrical Energy Conversion & Utilisation",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Generation of electricity. Three phase balanced circuits; magnetic circuits. Transformers. Harmonics. Steady state analysis of dc. Synchronous and induction machines. Special motors. Modern motor control systems. Demand side management. Renewable energy sources. Distributed generation and uninterruptible power supplies.\n\nThis course is a fundamental course in electrical power engineering. Itﾠwill cover electrical energy conversion components of power systems,ﾠincluding AC machines, DC machines and Transformers. The course will also cover electrical energy transmission via three-phase and High Voltage DC Transmissions. At the end of this course electrical power distribution and loads are covered along withﾠrecent developments in electric power engineering such as renewables and distributed generation.ﾠ Based on the feedback, five quizzes have been introduced in the course for giving regular feedback to students.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ELEC2003",
+      "ELEC2300"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ELEC3300",
+      "ELEC7302"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Mithulan Nadarajah",
+      "email": "ELEC3310@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Mithulan Nadarajah"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "Extensive electricalﾠenergy utilization represents one of the hallmarks of a modern society. Modern societies draw electrical energy from large interconnected power systems, for most of their energy needs.ﾠIn this course, we will examine the behaviour of the critical elements required for these basic processes of electricity generation, transmission and utilisation and come to understand how the requirements of each such device impacts upon the behaviour of the entire power system.ﾠ Hence, the course has the following aims.\n\n1. Acquire knowledge of basic concepts and principle of operation of electrical machines for energy conversion and networks for transmisison, distribution and utilization.\n\n2. Develop the capacity to model and analyze power systems essential components used for electrical energy conversion, transmission, distribution and utilization.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain electric and magnetic circuits related to electrical machines."
+    },
+    {
+      "number": "LO2.",
+      "description": "Apply various tests for parameter calculations of models of electrical machines."
+    },
+    {
+      "number": "LO3.",
+      "description": "Develop equivalent circuits of electric machines for given conditions and analyse them."
+    },
+    {
+      "number": "LO4.",
+      "description": "Distinguish different modes of bulk electrical energy transmission and their inherent limitations."
+    },
+    {
+      "number": "LO5.",
+      "description": "Comprehend the distribution and utilization side of electrical energy and appropriate load management strategies."
+    },
+    {
+      "number": "LO6.",
+      "description": "Develop an overall understanding of how electrical energy conversion, transmission and utilisation work in power systems."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Quiz",
+      "weight": "10%",
+      "due_date": "Quiz 1 5/08/2024 4:00 pm; Quiz 2 26/08/2024 4:00 pm; Quiz 3 9/09/2024 4:00 pm; Quiz 4 30/09/2024 4:00 pm; Quiz 5 23/10/2024 1:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Practical assessment",
+      "weight": "25%",
+      "due_date": "Lab 1 13/09/2024 4:00 pm; Lab 2 20/09/2024 4:00 pm; Lab 3 11/10/2024 4:00 pm; Lab 4 25/10/2024 4:00 pm; Lab 1, both parts will be assessed at the end of each session. Report is required for Labs 2, 3 and 4.",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "In-semester class test",
+      "weight": "25%",
+      "due_date": "16/09/2024 4:00 pm",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Quiz",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "10%",
+      "due_date": "Quiz 1 5/08/2024 4:00 pm Quiz 2 26/08/2024 4:00 pm Quiz 3 9/09/2024 4:00 pm Quiz 4 30/09/2024 4:00 pm Quiz 5 23/10/2024 1:00 pm",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "task_description": "There will be five quizzes to cover the entire course material at the end of the course. This will be used for giving feedback to students on their understanding of various topics covered in the courses. It will be a blackboard quiz (online). The details of deadlines are given below. Only 4 out of 5 quizzes will be considered in the final grading. First Quiz: August 5 at 4 pm Second Quiz: August 26 at 4 pm Third Quiz: September 9 at 4 pm Fourth Quiz: September 30 at 4 pm Fifth Quiz: October 23 at 1 pm. Read full task description Hide full task description",
+      "submission_guidelines": "via Blackboard\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nTo accommodate unforeseen circumstances such as illness, your quiz score will be based on the best 4 out of 5 submissions.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Practical assessment",
+      "mode": "Activity/ Performance",
+      "category": "Practical/ Demonstration",
+      "weight": "25%",
+      "due_date": "Lab 1 13/09/2024 4:00 pm Lab 2 20/09/2024 4:00 pm Lab 3 11/10/2024 4:00 pm Lab 4 25/10/2024 4:00 pm Lab 1, both parts will be assessed at the end of each session. Report is required for Labs 2, 3 and 4.",
+      "task_description": "The practical assessment component of the course will evaluate the students understanding of the operation and measurement of energy conversion devices including transformers, synchronous machines, induction machines and DC machines. This assessment will be comprised of four laboratories: - Laboratory 1 (10%): This lab consists of two parts, namely three-phase load measurement (Part I: 5%) and Transformer testing (Part II: 5%). The laboratory will be conducted face-to-face during scheduled laboratory sessions, week 4-7 (specific session allocations will be provided on the course blackboard). Check the course blackboard page for specific deadlines and other details. There is no need to submit a separate report for laboratory 1, both parts will be assessed and marked in the lab. Due date: Sept. 13. For the rest of the laboratories (Lab 2-4) students will write reports individually based on the experimental data given and submit them via the course blackboard page. - Laboratory 2 (5%): Induction Machines. Due date: Sept. 20 - Laboratory 3 (5%): Synchronous Machines. Due date: Oct. 11 - Laboratory 4 (5%): DC Machines. Due date: Oct. 25 A complete lab schedule, submission and deadline details are available in the course Blackboard site as well. Read full task description Hide full task description",
+      "submission_guidelines": "See course blackboard site for submission instructions.\nDeferral or extension\nYou may be able to apply for an extension .\nLab 1 (both parts)\nMaximum Extension Length: 7 calendar days. Marked submissions with feedback and/or detailed solutions with feedback will be released to students within 7-14 days.\nLate Penalty: 100% penalty as both parts will be assessed and marked in the lab.\nLab 2, 3 and 4\nMaximum Extension Length: 7 calendar days. Marked submissions with feedback and/or detailed solutions with feedback will be released to students within 14-21 days.\nLate Penalty: A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "In-semester class test",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "25%",
+      "due_date": "16/09/2024 4:00 pm",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "task_description": "This will be an onsite exam and will cover the first five topics, including Induction Motors. This will be a closed book, timed exam conducted face-to-face. The exam will be held during Monday's regular lecture period in Week 8. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "task_description": "Overall assessment of the entire course materials. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Tutorial",
+      "topic": "Tutorials of questions on lectures Tutorials will be made available in the course blackboard page."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lectures on Energy conversion and utilization Details of lectures are available in course blackboard page. All the lectures will be on campus."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 4 To Week 13 (12 Aug - 27 Oct)",
+      "activity_type": "Practical",
+      "topic": "Practicals on energy conversion devices There are four laboratory experiments and report writing activities in this course. In the first laboratory based experiments students are expected to come to the lab face-to-face and perform the experiments in groups. In the other three labs, for rotating machines, students will write reports for given real experimental data."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

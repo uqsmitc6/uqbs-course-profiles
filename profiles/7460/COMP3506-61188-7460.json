@@ -1,0 +1,179 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMP3506-61188-7460",
+  "scraped_at": "2026-06-04T00:52:32.033170+00:00",
+  "course_code": "COMP3506",
+  "class_code": "61188",
+  "semester_code": "7460",
+  "full_course_code": "COMP3506-61188-7460",
+  "course_title": "Algorithms & Data Structures",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Data structures and types, mapping of abstract information structures into representations on primary and secondary storage. Analysis of time and space complexity of algorithms. Sequences. Lists. Stacks. Queues. Sets, multisets, tables. Trees. Sorting. Hash tables. Priority queues. Graphs. String algorithms.\n\nThis course will introduce data structures and algorithms that are important for designing computer programs with performance guarantees and constitute the basis of complex software systems. Broadly speaking, this course will teach you to think - and to solve problems - like a computer scientist. The course will also cover a set of analytical techniques that are fundamental for advanced studies in theoretical computer science. Changes to this offering include moving from Gradescope quizzes to RiPPLE tasks to improve student engagement, and minor improvements to course material including lecture slides and tutorial questions.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE2002",
+      "MATH1061",
+      "CSSE2010",
+      "STAT2202"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP2502",
+      "COMP7505",
+      "This course is jointly-taught with:",
+      "All learning activities are jointly taught."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Joel Mackenzie",
+      "email": "COMP3506@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Joel Mackenzie"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course will build an understanding of how the architecture of a computer impacts the construction of programs and how data structures and algorithms can be constructed to efficiently perform desired functionality. The goal of this course is to build enough understanding of data structures and associated algorithms so that an appropriate set can be selected in the design of new software. The students should develop an understanding of:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand the principles of data structures - Understand the internal workings of fundamental data structures and algorithms"
+    },
+    {
+      "number": "LO2.",
+      "description": "Understand the principles of data structures - Determine the running time and memory space usage of common algorithms."
+    },
+    {
+      "number": "LO3.",
+      "description": "Develop algorithmic solutions - Analyse the performance of fundamental data structures and algorithms"
+    },
+    {
+      "number": "LO4.",
+      "description": "Develop algorithmic solutions - Adapt or invent new algorithms and data structures for software engineering problems."
+    },
+    {
+      "number": "LO5.",
+      "description": "Develop algorithmic solutions - Select and justify appropriate combinations of data structures and algorithms to solve software engineering problems."
+    },
+    {
+      "number": "LO6.",
+      "description": "Develop algorithmic solutions - Communicate the efficiency and correctness of identified solutions"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Participation/ Student contribution, Quiz, Tutorial/ Problem Set",
+      "title": "RiPPLE Activities",
+      "weight": "10% (Best 7 of 9)",
+      "due_date": "5/08/2024 4:00 pm; 12/08/2024 4:00 pm; 26/08/2024 4:00 pm; 2/09/2024 4:00 pm; 9/09/2024 4:00 pm; 16/09/2024 4:00 pm; 30/09/2024 4:00 pm; 8/10/2024 4:00 pm; 21/10/2024 4:00 pm; Note that the Week 11 task is due on Tuesday (of Week 11) due to the Monday being a public holiday.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code",
+      "title": "Assignment 1",
+      "weight": "15%",
+      "due_date": "23/08/2024 3:00 pm"
+    },
+    {
+      "category": "Computer Code",
+      "title": "Assignment 2",
+      "weight": "25%",
+      "due_date": "18/10/2024 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "RiPPLE Activities",
+      "mode": "Written",
+      "category": "Participation/ Student contribution, Quiz, Tutorial/ Problem Set",
+      "weight": "10% (Best 7 of 9)",
+      "due_date": "5/08/2024 4:00 pm 12/08/2024 4:00 pm 26/08/2024 4:00 pm 2/09/2024 4:00 pm 9/09/2024 4:00 pm 16/09/2024 4:00 pm 30/09/2024 4:00 pm 8/10/2024 4:00 pm 21/10/2024 4:00 pm Note that the Week 11 task is due on Tuesday (of Week 11) due to the Monday being a public holiday.",
+      "task_description": "RiPPLE activities are designed to demonstrate your ability to understand data structures, solve simple algorithmic problems, compute the time and space complexity of algorithms, and optimize their computational complexity. These activities are designed to keep students engaged with the week-by-week teaching material. The assessable tasks will consist of a combination of learning resource creation, moderation and practice. Submissions will be due at the start of each teaching week beginning in Week 3 and ending in Week 13. The best 7 of 9 submissions will be used to calculate a student's mark, with each submission weighted equally. Detailed task specifications will be announced and placed on Blackboard at the start of the semester. Read full task description Hide full task description",
+      "submission_guidelines": "The assessment will be submitted online via the RiPPLE platform. Detailed instructions will be provided in the task specification.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nNo extensions available and 100% Late penalty applied for the online quizzes . To accommodate unforeseen circumstances such as illness, the best 7 of 9 submissions will contribute to the total RiPPLE mark, allowing for two missed submissions across the semester.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 1",
+      "mode": "Written",
+      "category": "Computer Code",
+      "weight": "15%",
+      "due_date": "23/08/2024 3:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "task_description": "In the first assignment, you will demonstrate your ability to implement and use simple data structures and algorithms to solve a computing problem. Read full task description Hide full task description",
+      "submission_guidelines": "Via submission link on Gradescope.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 7-14 days where the earlier time frame applies if no extensions.\nLate submission\n100% Late Penalty after 1 hour grace period. The one-hour grace period is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "100% Late Penalty after 1 hour grace period. The one-hour grace period is recorded from the time the submission is due."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 2",
+      "mode": "Written",
+      "category": "Computer Code",
+      "weight": "25%",
+      "due_date": "18/10/2024 3:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "task_description": "In the second assignment, you will demonstrate your ability to implement and use complex data structures and algorithms to solve an advanced computing problem. You will also be expected to provide analysis that communicates time and space complexity of a given algorithm. Read full task description Hide full task description",
+      "submission_guidelines": "Via submission link on Blackboard/Gradescope.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 7-14 days where the earlier time frame applies if no extensions.\nLate submission\n100% Late Penalty after 1 hour grace period. The one-hour grace period is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "100% Late Penalty after 1 hour grace period. The one-hour grace period is recorded from the time the submission is due."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "task_description": "A two-hour invigilated final examination will be held during the final examination period. It aims to test the students' understanding of topics covered by the whole course. The exam will be closed-book. The examination is centrally timetabled. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, single sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lectures"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (29 Jul - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Contacts"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

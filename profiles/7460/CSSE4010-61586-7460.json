@@ -1,0 +1,240 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE4010-61586-7460",
+  "scraped_at": "2026-06-04T00:54:13.178111+00:00",
+  "course_code": "CSSE4010",
+  "class_code": "61586",
+  "semester_code": "7460",
+  "full_course_code": "CSSE4010-61586-7460",
+  "course_title": "Digital System Design",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "The objective of this course is to give the students the theoretical basis and practical skills in modern design of medium size digital systems in various technologies, with a focus on Field Programmable Gate Arrays (FPGAs). The design methodology, systematically introduced and used in the course, is based on simulation and synthesis with hardware description language (VHDL) tools. Topics covered in this course include: conceptual design step from requirements and specification to simulation and synthesis model in VHDL, design of complex controllers with Finite State Machines, design of sequential blocks with Controller-Datapath methodology, issues in design for testability, electrical and timing issues in logic and system design, overview of implementation technologies with emphasis on advances in FPGAs.\n\nCSSE4010ﾠintroduces students to the concepts, methods and techniques of digital system design. You are going to learn modern digital design methods based on simulation, synthesis and test with VHDL hardware descriptionﾠlanguage. The emphasis is on your ability to solve medium size design problems, describe the solutions with VHDL, simulate, synthesize to Field Programmable Gate Array (FPGA) devices. Describing a digital system using a hardware description language such as VHDL (other commonly used languages include Verilog, System-Verilog, and different variants of C) can be very different to conventional programming of microcontrollers using C or assembly language. During the course, you will learn theoretical design techniques as well as implementing digital designs on FPGAs using Xilinx Vivado design tools and VHDL. You will also be introduced to some of the latest high-level synthesis and rapid prototyping tools which integrate Xilinx Vivado with other model based system design tools such as Matlab and Simulink allowing rapid prototyping of digital signal processing (DSP) systems on FPGAs.ﾠ",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE1000",
+      "CSSE2010",
+      "We recommend completing the following courses before enrolling in this one:",
+      "CSSE2310",
+      "CSSE3010"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "CSSE2000",
+      "CSSE3000",
+      "CSSE7011",
+      "CSSE7410"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Chamith Wijenayake",
+      "email": "CSSE4010@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Chamith Wijenayake"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course aims at providing a solid theoretical background and practical skills in the designﾠof digital system containing combinational and sequential elements.ﾠ",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Analyse - Analyse a medium size engineering problem to be solved with digital hardware"
+    },
+    {
+      "number": "LO2.",
+      "description": "Analyse - Break down the problem into modules of well defined functionality"
+    },
+    {
+      "number": "LO3.",
+      "description": "solve - Formulate a hardware solution on a block level as a connection of modules of well defined functionality"
+    },
+    {
+      "number": "LO4.",
+      "description": "solve - Develop detailed functionality of modules by either combining standard components or describing required functionality with VHDL"
+    },
+    {
+      "number": "LO5.",
+      "description": "solve - Apply structured design methodology based on Controller(FSM) and Data Path as well as modular/structural design approaches for implementing signal processing algorithms on hardware."
+    },
+    {
+      "number": "LO6.",
+      "description": "design - Describe digital systems in VHDL and model-based approaches and verify the functionality through simulation"
+    },
+    {
+      "number": "LO7.",
+      "description": "design - Synthesize VHDL and model-based designs and verify functionality via simulation"
+    },
+    {
+      "number": "LO8.",
+      "description": "design - Optimize the design for speed, cost, etc."
+    },
+    {
+      "number": "LO9.",
+      "description": "design - Test the design and modify the design for ease of testing (design for testability)"
+    },
+    {
+      "number": "LO10.",
+      "description": "Communicate - Present the principles and explain the details of your design"
+    },
+    {
+      "number": "LO11.",
+      "description": "Communicate - Document the design"
+    },
+    {
+      "number": "LO12.",
+      "description": "Communicate - Relate the technology and methods used in your design to the state of the art in electronics"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Practical/ Demonstration",
+      "title": "Lab Activities",
+      "weight": "30%",
+      "due_date": "Prac 1 5/08/2024 4:00 pm; Prac 2 19/08/2024 4:00 pm; Prac 3 2/09/2024 4:00 pm; Prac 4 16/09/2024 4:00 pm; Prac 5 8/10/2024 4:00 pm",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "title": "Project",
+      "weight": "20%",
+      "due_date": "25/10/2024 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Lab Activities",
+      "mode": "Oral, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Practical/ Demonstration",
+      "weight": "30%",
+      "due_date": "Prac 1 5/08/2024 4:00 pm Prac 2 19/08/2024 4:00 pm Prac 3 2/09/2024 4:00 pm Prac 4 16/09/2024 4:00 pm Prac 5 8/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12",
+      "task_description": "Laboratory work consists of weekly practicals and there are 5 practical assignments. Each of the practicals is worth 6%. For each practical, students are required to submit a report in PDF format which contains answers to selected tutorial questions as assigned by the course coordinator and detailed design steps and simulation results for a design task. For each practical, there will be an identity verified oral assessment as well, where you will need to explain your designs to the teaching staff and answer questions. You will be assessed both on the report and demonstration of your work. Refer to the detailed outline of teaching activities on the course Blackboard site for more details. Read full task description Hide full task description",
+      "submission_guidelines": "Submission via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 14-21 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Project",
+      "mode": "Activity/ Performance, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "weight": "20%",
+      "due_date": "25/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L10, L11, L12",
+      "task_description": "The project will involve design, simulation and evaluation of a digital system for a given problem specification. Students will be required to submit a report and their design files via Blackboard. Read full task description Hide full task description",
+      "submission_guidelines": "Submission via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 14-21 days\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L08, L10, L11, L12",
+      "task_description": "This final examination tests all the material covered in this course during the whole semester. The emphasis is on testing your design problem solving skills. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nAll requests must be submitted through mySI-net . Requests sent to Course Coordinators will not be considered.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Lecture One 2-hour lecture per week. Refer to the detailed teaching outline on Blackboard for more information about public holidays and refer to student timetable for any updates on lecture location. Lectures will be recorded and made available on Blackboard, however there is no guarantee that the recordings will always work. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial One 1-hour tutorial class per week. Learning outcomes: L01, L02, L03, L04, L05, L08, L10, L12",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L08",
+        "L10",
+        "L12"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Practical",
+      "topic": "Practicals One 2-hour lab session per week. Practicals sessions will be conducted in-person at 47-401. You must sign up for one prac session out of the sessions available. It is highly recommended that you do the required background work and complete the tasks as much as you can before attending the practical classes. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

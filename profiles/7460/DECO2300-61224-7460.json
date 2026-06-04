@@ -1,0 +1,206 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/DECO2300-61224-7460",
+  "scraped_at": "2026-06-04T00:54:35.339970+00:00",
+  "course_code": "DECO2300",
+  "class_code": "61224",
+  "semester_code": "7460",
+  "full_course_code": "DECO2300-61224-7460",
+  "course_title": "Digital Prototyping and Extended Reality",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "This course introduces students to theories, emerging key issues, and design and development practice of Extended Reality (XR) applications (Augmented, Virtual and Mixed Reality applications). Students will design and develop a series of interactive XR prototypes, along with an evaluation of their prototypes and reflection on the overall learning journey. The course will also cover specific applications of immersive technology in research and industry.\n\nThis course introduces students to digital prototyping for generating proof-of-concept Extended Reality solutions for design computing projects. It primarily focuses on creating novel embodied, immersive interactions using Unity3D and XR equipment for extended reality applications.\n\nIn this new version of the course, students now focus on prototyping both low-fidelity and hi-fidelity embodied extended reality experiences. Students will be provided with a Meta Quest 2 to design, build and test an immersive, extended reality prototype.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "DECO2500",
+      "CSSE1001",
+      "ENGG1001"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "DECO7230",
+      "This course is jointly-taught with:",
+      "All learning activities are jointly taught."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Maxime Cordeil",
+      "email": "DECO2300@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Maxime Cordeil"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThis course has 6 hours of scheduled activities per week:\n2hr Lecture session per week. These sessions cover prototyping theory & in-class activities.\n2hr Practical + 2hr Studio session per week. These sessions will introduce the skills required for the projects and will be used for testing of prototypes produced.\nStudents are expected to attend all scheduled sessions.",
+  "course_aims": "The courses aims to:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Research and identify appropriate XR prototyping tools and methodologies for the communication of a particular design solution."
+    },
+    {
+      "number": "LO2.",
+      "description": "Produce rapid XR prototypes that demonstrate key elements of an intended design for the purposes of evaluation and iteration."
+    },
+    {
+      "number": "LO3.",
+      "description": "Demonstrate the role of XR prototyping in the design process."
+    },
+    {
+      "number": "LO4.",
+      "description": "Analyse and reflect on critique/evaluation of XR prototypes and iterate designs accordingly."
+    },
+    {
+      "number": "LO5.",
+      "description": "Evaluate the effectiveness of design decisions through the development of appropriate XR prototypes."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Interactive Prototype 1",
+      "weight": "30%",
+      "due_date": "Allocated session 15/08/2024; Report due by 3pm 19/08/2024; Testing material (prototype code, video/photos, low-fidelity prototypes) is due to be submitted by the end of the day of testing session.",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Interactive Prototype 2",
+      "weight": "30%",
+      "due_date": "Testing in allocated Session 12/09/2024; Report due by 3PM 16/09/2024; Testing material (prototype code, video/photos, low-fidelity prototypes) is due to be submitted by the end of the day of testing session.",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    },
+    {
+      "category": "Computer Code, Essay/ Critique",
+      "title": "Interactive Prototype 3",
+      "weight": "30%",
+      "due_date": "Testing in allocated session 10/10/2024; Report due by 3pm 18/10/2024; Testing material (prototype code, video/photos, low-fidelity prototypes) is due to be submitted by the end of the day of testing session.",
+      "conditions": [
+        "Identity Verified"
+      ]
+    },
+    {
+      "category": "Essay/ Critique, Portfolio, Reflection",
+      "title": "XR Prototyping Challenge",
+      "weight": "10%",
+      "due_date": "25/10/2024 4:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Interactive Prototype 1",
+      "mode": "Activity/ Performance, Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "30%",
+      "due_date": "Allocated session 15/08/2024 Report due by 3pm 19/08/2024 Testing material (prototype code, video/photos, low-fidelity prototypes) is due to be submitted by the end of the day of testing session.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "In this course, students will develop a number of prototypes as a means of evaluating conceptual & functional aspects of an idea. Students will submit three prototypes: Interactive prototype 1 (Monday Week 5 15:00, 30%, Individual) - students will craft a low-fidelity prototype of the application interface using pen, papers, playdoh or other relevant non-computing artefacts. The prototype should allow users to experience & evaluate variations on key interactions and flow. Interactive prototype 2 (Monday Week 9 15:00, 30%, Individual) - students will develop an Extended Reality (Unity/XR) interactive prototype of their application using Unity 3D and Meta Quest. The prototype should allow users to experience the key extended reality features of the interaction. Interactive prototype 3 (Monday Week 12 15:00, 30%, Individual) - students will develop an iteration of prototype 2. This iteration can either improve the previous prototype, explore an alternative interaction to the previous prototype or explore another modality of Extended Reality. All prototypes will be accompanied by a Statement of Delivery that includes: the design journal detailing the sketches, notes, and other brainstorming activities that lead up to the development of the respective prototype the purpose of the prototype being tested (what aspect of your idea it has been developed to test) the decisions made when constructing the prototype - what was important to include & exclude in order to meet the requirements of the testing the testing approach for the prototype - what users were asked to do & the methods you used to gather feedback the outcomes of the testing session - what feedback you received and the implications this has for your idea & your future prototype testing Additionally , each prototype must be accompanied by: 1. Source codes/Unity project 2. Video of the working prototype Testing of prototypes will be carried out in practical sessions in Weeks 4, 8, 11 with Statement of Deliveries due the following Monday to allow time for documentation of testing. Testing sessions are identity verified, mandatory for all students, failure to attend mandatory testing sessions will result in a grade of zero for that prototype deliverable unless prior approval is granted. Read full task description Hide full task description",
+      "submission_guidelines": "Testing in practical sessions, files to Blackboard as per individual prototype briefs.\nDeferral or extension\nYou may be able to apply for an extension .\nReports\nMaximum Extension: 7 days (in order to receive feedback on time for the next iteration)\nLate Penalty: A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.\nTesting Sessions\nMaximum Extension: No extensions permitted for this assessment. If there are exceptional circumstances an exemption may be approved and may involve submitting/discussing your work as it stands. Exemptions must be requested as an extension with a note specifying exemption via my.UQ .\nLate Penalty: 100% Late Penalty (no grace period) if students are not present for testing sessions.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Interactive Prototype 2",
+      "mode": "Activity/ Performance, Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "30%",
+      "due_date": "Testing in allocated Session 12/09/2024 Report due by 3PM 16/09/2024 Testing material (prototype code, video/photos, low-fidelity prototypes) is due to be submitted by the end of the day of testing session.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "In this course, students will develop a number of prototypes as a means of evaluating conceptual & functional aspects of an idea. Students will submit three prototypes: Interactive prototype 1 (Monday Week 5 15:00, 30%, Individual) - students will craft a low-fidelity prototype of the application interface using pen, papers, playdoh or other relevant non-computing artefacts. The prototype should allow users to experience & evaluate variations on key interactions and flow. Interactive prototype 2 (Monday Week 9 15:00, 30%, Individual) - students will develop an Extended Reality (Unity/XR) interactive prototype of their application using Unity 3D and Meta Quest. The prototype should allow users to experience the key extended reality features of the interaction. Interactive prototype 3 (Monday Week 12 15:00, 30%, Individual) - students will develop an iteration of prototype 2. This iteration can either improve the previous prototype, explore an alternative interaction to the previous prototype or explore another modality of Extended Reality. All prototypes will be accompanied by a Statement of Delivery that includes: the design journal detailing the sketches, notes, and other brainstorming activities that lead up to the development of the respective prototype the purpose of the prototype being tested (what aspect of your idea it has been developed to test) the decisions made when constructing the prototype - what was important to include & exclude in order to meet the requirements of the testing the testing approach for the prototype - what users were asked to do & the methods you used to gather feedback the outcomes of the testing session - what feedback you received and the implications this has for your idea & your future prototype testing Additionally , each prototype must be accompanied by: 1. Source codes/Unity project 2. Video of the working prototype Testing of prototypes will be carried out in practical sessions in Weeks 4, 8, 11 with Statement of Deliveries due the following Monday to allow time for documentation of testing. Testing sessions are identity verified, mandatory for all students, failure to attend mandatory testing sessions will result in a grade of zero for that prototype deliverable unless prior approval is granted. Read full task description Hide full task description",
+      "submission_guidelines": "Testing in practical sessions, files to Blackboard as per individual prototype briefs.\nDeferral or extension\nYou may be able to apply for an extension .\nReports\nMaximum Extension: 7 days (in order to receive feedback on time for the next iteration)\nLate Penalty: A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.\nTesting Sessions\nMaximum Extension: No extensions permitted for this assessment. If there are exceptional circumstances an exemption may be approved and may involve submitting/discussing your work as it stands. Exemptions must be requested as an extension with a note specifying exemption via my.UQ .\nLate Penalty: 100% Late Penalty (no grace period) if students are not present for testing sessions.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Interactive Prototype 3",
+      "mode": "Activity/ Performance, Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Essay/ Critique",
+      "weight": "30%",
+      "due_date": "Testing in allocated session 10/10/2024 Report due by 3pm 18/10/2024 Testing material (prototype code, video/photos, low-fidelity prototypes) is due to be submitted by the end of the day of testing session.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "In this course, students will develop a number of prototypes as a means of evaluating conceptual & functional aspects of an idea. Students will submit three prototypes: Interactive prototype 1 (Monday Week 5 15:00, 30%, Individual) - students will craft a low-fidelity prototype of the application interface using pen, papers, playdoh or other relevant non-computing artefacts. The prototype should allow users to experience & evaluate variations on key interactions and flow. Interactive prototype 2 (Monday Week 9 15:00, 30%, Individual) - students will develop an Extended Reality (Unity/XR) interactive prototype of their application using Unity 3D and Meta Quest. The prototype should allow users to experience the key extended reality features of the interaction. Interactive prototype 3 (Friday Week 12 15:00, 30%, Individual) - students will develop an iteration of prototype 2. This iteration can either improve the previous prototype, explore an alternative interaction to the previous prototype or explore another modality of Extended Reality. All prototypes will be accompanied by a Statement of Delivery that includes: the design journal detailing the sketches, notes, and other brainstorming activities that lead up to the development of the respective prototype the purpose of the prototype being tested (what aspect of your idea it has been developed to test) the decisions made when constructing the prototype - what was important to include & exclude in order to meet the requirements of the testing the testing approach for the prototype - what users were asked to do & the methods you used to gather feedback the outcomes of the testing session - what feedback you received and the implications this has for your idea & your future prototype testing Additionally , each prototype must be accompanied by: 1. Source codes/Unity project 2. Video of the working prototype Testing of prototypes will be carried out in practical sessions in Weeks 4, 8, 11 with Statement of Deliveries due the following Monday to allow time for documentation of testing. Testing sessions are identity verified, mandatory for all students, failure to attend mandatory testing sessions will result in a grade of zero for that prototype deliverable unless prior approval is granted. Read full task description Hide full task description",
+      "submission_guidelines": "Testing in practical sessions, files to Blackboard as per individual prototype briefs.\nDeferral or extension\nYou may be able to apply for an extension .\nReports\nMaximum Extension: 7 days (in order to receive feedback on time for the next iteration)\nLate Penalty: A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.\nTesting Sessions\nMaximum Extension: No extensions permitted for this assessment. If there are exceptional circumstances an exemption may be approved and may involve submitting/discussing your work as it stands. Exemptions must be requested as an extension with a note specifying exemption via my.UQ .\nLate Penalty: 100% Late Penalty (no grace period) if students are not present for testing sessions.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "special_indicators": [
+        "Identity Verified"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "XR Prototyping Challenge",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Essay/ Critique, Portfolio, Reflection",
+      "weight": "10%",
+      "due_date": "25/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L03, L04, L05",
+      "task_description": "This assessment is aimed at reflecting on the learning in this course, and on the XR prototyping process. Students will revisit their prototypes and reflect on what worked, what did not, what could be improved with a different XR technology/technique. This assessment does not require the development of a hi-fidelity prototype. The document should include: a key summary of what worked, what did not work and why. how a different XR technology or technique(s) could solve the problem proof of concept sketches and/or videos to demonstrate how the new technology/technique would solve the problem This critique exercise is due on the last day of Week 13 by 16:00 hours. Note on the use of AI for this assessment: This assessment task evaluates student’s abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Through Turnitin\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "ai_statement": "This assessment is aimed at reflecting on the learning in this course, and on the XR prototyping process. Students will revisit their prototypes and reflect on what worked, what did not, what could be improved with a different XR technology/technique. This assessment does not require the development of a hi-fidelity prototype. The document should include: a key summary of what worked, what did not work and why. how a different XR technology or technique(s) could solve the problem proof of concept sketches and/or videos to demonstrate how the new technology/technique would solve the problem This critique exercise is due on the last day of Week 13 by 16:00 hours. Note on the use of AI for this assessment: This assessment task evaluates student’s abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nNote on the use of AI for this assessment: This assessment task evaluates student’s abilities, skills and knowledge without the aid of Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Practical",
+      "topic": "Practical Practical sessions are intended for technical support and skills development, and feedback on project ideas. Learning outcomes: L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lecture These sessions will cover prototyping theory. In-session activities will apply & extend the theory discussed. Learning outcomes: L01, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Studio",
+      "topic": "Studio These sessions are used for XR technology exploration, design activities and user-testing of prototypes. Learning outcomes: L01, L02, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

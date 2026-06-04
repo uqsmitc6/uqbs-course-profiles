@@ -1,0 +1,203 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/GEOM7004-64681-7460",
+  "scraped_at": "2026-06-04T01:01:56.091127+00:00",
+  "course_code": "GEOM7004",
+  "class_code": "64681",
+  "semester_code": "7460",
+  "full_course_code": "GEOM7004-64681-7460",
+  "course_title": "Geospatial Processing & Web Mapping",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Postgraduate Coursework",
+  "location": "External",
+  "attendance_mode": "Online",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "The Environment School",
+  "course_description": "This course develops computing skills in Geographical Information Systems for processing tasks and web mapping. It includes: i) basic skills in programming with the Python scripting language to automate GIS processing tasks and to develop analysis tools, and ii) interactive web mapping and apps for publishing on the Internet. The course provides a highly desired industry competency for GIS analysts.\n\nGeographical information is best utilized when it is managed as a shared resource on the web. The course adopts a spatial data science approach to extract useful information from data forﾠurban and environmental applications. Students learn: i) principles for organising data within a processing frame to explore, visualise and analyse geospatial data, and ii) online accessﾠand publishing geospatial dataﾠto create engaging webmaps. You gain skills to combine data science tools, such as Python programming and web notebooks, with popular GIS software packages such as ArcGIS, Google and open source GIS.\n\nAll the teaching resources are online and the course only requires Internet access. Learning resources include multimedia and live Zoom lecture presentations, video demonstration of exercises, quizzes, links to web resources, facilitated discussion boards, etc. Students get the most out of this course when they reinforce lectures and practicals with self-study.",
+  "requirements": {
+    "prerequisites": [
+      "We recommend completing the following courses before enrolling in this one:",
+      "GEOM7200",
+      "GEOM7005",
+      "INFS7900",
+      "GEOM2001",
+      "GEOM2002"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "GEOM3005",
+      "This course is jointly-taught with:",
+      "All activities are same, however assessment there are difference in assessment performance for undergraduates and postgraduates."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr David Pullar",
+      "email": "d.pullar@uq.edu.au",
+      "phone": "+61 7 3365 6522",
+      "notes": "Please contact me by email to arrange a time for consultation by Zoom or in person."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr David Pullar",
+      "email": "d.pullar@uq.edu.au"
+    },
+    {
+      "role": "Demonstrator",
+      "name": "Mr Su Zhou",
+      "email": "s.zhou@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "To provide skills and knowledge on automating geospatial processing tasks and web mapping.",
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Quiz, Tutorial/ Problem Set",
+      "title": "Geospatial data processing",
+      "weight": "30%",
+      "due_date": "Quiz is automatically marked, followed by submitting Python notebook file that is manually marked. 13/08/2024 - 21/08/2024",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Quiz, Tutorial/ Problem Set",
+      "title": "Geospatial data handling",
+      "weight": "30%",
+      "due_date": "Quiz is automatically marked, followed by submitting Python notebook file that is manually marked. 10/09/2024 - 18/09/2024",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Project, Quiz",
+      "title": "Geospatial project and web mapping",
+      "weight": "40%",
+      "due_date": "Quiz and report manually marked, followed by submitting Python notebook file that is manually marked. 19/09/2024 - 18/10/2024",
+      "conditions": [
+        "Online"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Geospatial data processing",
+      "mode": "Written",
+      "category": "Computer Code, Quiz, Tutorial/ Problem Set",
+      "weight": "30%",
+      "due_date": "Quiz is automatically marked, followed by submitting Python notebook file that is manually marked. 13/08/2024 - 21/08/2024",
+      "task_description": "Practical exercises that build skills and confidence in geospatial processing and computation. Covers weeks 1-4. i) Quiz questions related to weekly lectures and readings. Marked on correct answer. ii) Geoprocessing exercises related to practicals completed in a Python notebook file which is uploaded. Marked on criteria for programming practice and worked example. Read full task description Hide full task description",
+      "submission_guidelines": "To be submitted via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Geospatial data handling",
+      "mode": "Written",
+      "category": "Computer Code, Quiz, Tutorial/ Problem Set",
+      "weight": "30%",
+      "due_date": "Quiz is automatically marked, followed by submitting Python notebook file that is manually marked. 10/09/2024 - 18/09/2024",
+      "task_description": "Practical exercises that build skills and confidence in solving geographical problems using geospatial data and analysis. Covers weeks 5-8. i) Quiz questions related to weekly lectures and readings. Marked on correct answer. ii) Geoprocessing exercises related to practicals completed in a Python notebook file which is uploaded. Marked on criteria for programming practice and worked example. Read full task description Hide full task description",
+      "submission_guidelines": "To be submitted via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Geospatial project and web mapping",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Project, Quiz",
+      "weight": "40%",
+      "due_date": "Quiz and report manually marked, followed by submitting Python notebook file that is manually marked. 19/09/2024 - 18/10/2024",
+      "task_description": "Practical exercise on web mapping and small project to solve a geographical inquiry-driven problem using geospatial data and analysis. i) Quiz questions related to weekly lectures and readings on web cartography. Marked on correct answer. ii) Lab report on development of a multiscale web map. Marked on criteria for short answer and worked example. iii) Small project for a geographical problem with options for a human or environmental focus, and expectation that students select a specific issue following an inquiry-driven investigation. The small project is submitted as report following IMRaD structure and is accompanied with Python notebook file with worked analysis. Marked on criteria for structured answer, programming practice, and worked example. Read full task description Hide full task description",
+      "submission_guidelines": "To be submitted via Blackboard Assignment.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Online"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 1: Nature of geospatial data processing What are the benefits of programming to support spatial data handling and analytics. Practical: Overview of ArcGIS Online and Jupyter Notebooks"
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 2: Data and information How is data used in a meaningful way? How is it organised for analysis? Practical: Programming to clean and prepare analysis ready data"
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 3: Concepts for geospatial data analysis Explore basic geospatial concepts and measurements used in geospatial data analysis and mapping. Practical: Python scripting to manipulate, visualise and explore spatial relationships."
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 4: Introduction to web mapping Architecture of the web for data storage and serving web outputs. No Practical: Public Holiday"
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 5: Formats for exchanging geospatial data Formats to share data between devices such as GPS, mobile data collectors, etc. Practical: Python data handling of interchange formats"
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 6: Geospatial data storage and use Spatial databases and the competing aims for efficient storage versus ease of use in applications. Practical: Program interfaces for database query and update"
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 7: Geoprocessing feature workflows Geospatial processing for map exploration and describing spatial patterns. Practical: Simple spatial statistics on geospatial data frames"
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 8: Geoprocessing imagery workflows Online access and processing of raster data and satellite imagery. Practical: Develop workflow for mapping fires from online satellite imagery"
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 9: Web cartography Concepts for map generalisation and multiscale web maps. Practical: Create multiscale map for zoom interactions"
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Workshop",
+      "topic": "Week 10: Geospatial project overview Lecture gives overview of small project expectation. Lectures and practicals (over weeks 10-12) incorporate individual consultation; students expected to show data for study area and discuss their issue and approach for inquiry-driven investigation."
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Workshop",
+      "topic": "Week 11: Web linked geospatial information Lecture presents future technology for geospatial data storage and organisation with knowledge graphs. Lectures and practicals (over weeks 10-12) incorporate individual consultation; students expected to show data for study area and discuss their issue and approach for inquiry-driven investigation."
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 12: Geospatial Project Review Lectures and practicals (over weeks 10-12) incorporate individual consultation; students expected to show data for study area and discuss their issue and approach for inquiry-driven investigation."
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 13: Course wrap-up Summary and feedback on course."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

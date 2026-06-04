@@ -1,0 +1,197 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/PUBH7632-64707-7460",
+  "scraped_at": "2026-06-04T01:16:42.743261+00:00",
+  "course_code": "PUBH7632",
+  "class_code": "64707",
+  "semester_code": "7460",
+  "full_course_code": "PUBH7632-64707-7460",
+  "course_title": "Advanced Biostatistics & Epidemiology",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Postgraduate Coursework",
+  "location": "Herston",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "Herston",
+  "coordinating_unit": "Public Health School",
+  "course_description": "This advanced epidemiology course is designed to provide students with an in-depth understanding of advanced epidemiological concepts and methods, with a particular focus on causal inference. The course is intended for students pursuing a Masters degree in Epidemiology or related fields, who already possess a strong foundational knowledge of epidemiological principles methods. Students will use STATA software for analysis.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "PUBH7631",
+      "PUBH7600",
+      "PUBH7630",
+      "PUBH7611",
+      "PUBH7653",
+      "This course is jointly-taught with:",
+      "Another instance of the same course",
+      "This course is available in both internal and external mode."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Amalie Dyda",
+      "email": "a.dyda@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Amalie Dyda"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Karen Tuesley",
+      "email": "k.tuesley@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Yukiko Ezure",
+      "email": "y.ezure@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Reza Baneshi",
+      "email": "m.baneshi@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The course is divided into modules covering a range of topics in advanced epidemiology and causal inference. Each module consists of lectures, workshops, readings, and hands-on exercises.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explore advanced epidemiological concepts, study designs and statistical methods."
+    },
+    {
+      "number": "LO2.",
+      "description": "Understand the principles and techniques of causal inference in epidemiological research."
+    },
+    {
+      "number": "LO3.",
+      "description": "Critically evaluate epidemiological literature and research studies with a focus on causal inference."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply advanced epidemiological and causal inference methods to real-world research questions and datasets."
+    },
+    {
+      "number": "LO5.",
+      "description": "Demonstrate effective skills in communication for a professional audience."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Online quizzes",
+      "weight": "20%",
+      "due_date": "16/08/2024 2:00 pm; 4/10/2024 2:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Target trial emulation analysis",
+      "weight": "25%",
+      "due_date": "30/08/2024 2:00 pm"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Analysis Comparison",
+      "weight": "30%",
+      "due_date": "20/09/2024 2:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Real World Application",
+      "weight": "25%",
+      "due_date": "25/10/2024 2:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Online quizzes",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "20%",
+      "due_date": "16/08/2024 2:00 pm 4/10/2024 2:00 pm",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02",
+      "task_description": "There will be two online timed quizzes throughout the semester, each worth 10%. These quizzes are designed to evaluate your comprehension of causal inference principles and longitudinal analysis. You will encounter a series of scenarios and questions that will test your ability to identify causal relationships, recognize potential biases, and apply appropriate methods for inferring causality in epidemiological studies. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nPlease see 10. Policies & Guidelines\nLate submission\nLate assessments will not be accepted without prior approval. If an extension is required, you must apply online via my.UQ (see the SPH policy on late submissions and extensions).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "Late assessments will not be accepted without prior approval. If an extension is required, you must apply online via my.UQ (see the SPH policy on late submissions and extensions).",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Target trial emulation analysis",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "25%",
+      "due_date": "30/08/2024 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "Students are required to perform a target trial emulation analysis using a provided dataset to examine a causal research question. Specifically, they will be required to: · Develop a target trial emulation analysis plan for a given research question using provided observational data using the intention-to-treat method. · Assess the association between the treatment and outcome in an unweighted model using Cox regression and produce a cumulative incidence curve using Kaplan Meier estimates. · Analyse the treatment effect using inverse probability of treatment weights. Assess the balance of the treatment groups between and after applying the weights. Using a flexible parametric model, produce a cumulative incidence curve. · Analyse the results, suggesting strengths and limitations of the methods used. Read full task description Hide full task description",
+      "submission_guidelines": "Assessments should be submitted as a Word document via Turnitin on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nPlease see 10. Policies & Guidelines\nLate submission\nLate assessments will not be accepted without prior approval. If an extension is required, you must apply online via my.UQ (see the SPH policy on late submissions and extensions).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "Late assessments will not be accepted without prior approval. If an extension is required, you must apply online via my.UQ (see the SPH policy on late submissions and extensions)."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Analysis Comparison",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "30%",
+      "due_date": "20/09/2024 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "In this assessment students will answer the same research question using G-methods. They are required to compare the results obtained from the ITT analysis and the G-method. Specifically, they will evaluate differences in effect estimates, confidence intervals, and conclusions drawn from each approach. A detailed interpretation of the results obtained from both analyses is required in the form of a report summarising your analysis, comparisons, and interpretations. Read full task description Hide full task description",
+      "submission_guidelines": "Assessments should be submitted as a Word document via Turnitin on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nPlease see 10. Policies & Guidelines\nLate submission\nLate assessments will not be accepted without prior approval. If an extension is required, you must apply online via my.UQ (see the SPH policy on late submissions and extensions).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "Late assessments will not be accepted without prior approval. If an extension is required, you must apply online via my.UQ (see the SPH policy on late submissions and extensions)."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Real World Application",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "25%",
+      "due_date": "25/10/2024 2:00 pm",
+      "task_description": "As a senior epidemiologist consulting on a team you have been asked to provide methodological advice regarding the methods of a project investigating the impact of a public health intervention. Students must apply methods of causal inference, longitudinal analysis, and digital epidemiology to develop part of a project proposal to evaluate the effectiveness of this intervention. Read full task description Hide full task description",
+      "submission_guidelines": "Assessments should be submitted as a Word document via Turnitin on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nPlease see 10. Policies & Guidelines\nLate submission\nLate assessments will not be accepted without prior approval. If an extension is required, you must apply online via my.UQ (see the SPH policy on late submissions and extensions).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "Late assessments will not be accepted without prior approval. If an extension is required, you must apply online via my.UQ (see the SPH policy on late submissions and extensions)."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.",
+    "other_course_materials": "If we've listed something under further requirement, you'll need to provide your own. Required Item Description Further Requirement Personal Laptop and charger Students will be required to bring a personal laptop (and charger) to workshops. Students can borrow a laptop for 28 days during semester periods depending on availability. Borrow a laptop from the AskUs service point at St Lucia, Dorothy Hill Engineering and Sciences Library\nhttp://web.library.uq.edu.au/library-services/it/laptop-loans own item needed STATA This course will use the statistical software package Stata to demonstrate and teach biostatistical and/or epidemiological methods. Students need to have access to Stata version 13 or later. UQ students are able to download Stata to their personal device via the link provided. https://www.surveydesign.com.au/clients/uq/ own item needed Recommended Item Description Further Requirement Lecture and Workshop slides PDFs of powerpoint slides will be provided each week through the course Blackboard site; these will be made available prior to each lecture.",
+    "required": "Item Description Further Requirement Personal Laptop and charger Students will be required to bring a personal laptop (and charger) to workshops. Students can borrow a laptop for 28 days during semester periods depending on availability. Borrow a laptop from the AskUs service point at St Lucia, Dorothy Hill Engineering and Sciences Library\nhttp://web.library.uq.edu.au/library-services/it/laptop-loans own item needed STATA This course will use the statistical software package Stata to demonstrate and teach biostatistical and/or epidemiological methods. Students need to have access to Stata version 13 or later. UQ students are able to download Stata to their personal device via the link provided. https://www.surveydesign.com.au/clients/uq/ own item needed\nRecommended\nItem Description Further Requirement Lecture and Workshop slides PDFs of powerpoint slides will be provided each week through the course Blackboard site; these will be made available prior to each lecture.",
+    "recommended": "Item Description Further Requirement Lecture and Workshop slides PDFs of powerpoint slides will be provided each week through the course Blackboard site; these will be made available prior to each lecture."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 3 (22 Jul - 11 Aug)",
+      "activity_type": "Workshop",
+      "topic": "Foundations of Causal Inference: Target trial emulations"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 4 To Week 6 (12 Aug - 01 Sep)",
+      "activity_type": "Workshop",
+      "topic": "Causal Inference Methods (G methods)"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 7 To Week 9 (02 Sep - 22 Sep)",
+      "activity_type": "Workshop",
+      "topic": "Longitudinal analysis"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 10 To Week 12 (30 Sep - 20 Oct)",
+      "activity_type": "Workshop",
+      "topic": "Digital epidemiology"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Course guidelines School of Public Health (SPH) Guidelines for late submission of progressive assessment - Preamble To apply for an extension to the due date for a piece of progressive assessment (eg assignments, oral presentations and computer-based assignments) students should complete the online request at https://my.uq.edu.au/node/218/1 Information regarding deferral of in-semester exams and end-of-semester exams is available from https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam If requesting an extension on medical grounds, a medical certificate must be provided. The extension will be approved for the number of days included in the medical certificate that the student was not fit to study or work, eg if the medical certificate is for 3 days, an extension will be approved for 3 days maximum regardless of the student's request. If requesting an extension using a Student Access Plan for Disability (SAPD) as evidence, a maximum of 7-day extension will be approved in the first instance. Updated medical documentation, as well as a copy of the SAPD, is required if requesting an extension for more than 7 days. The maximum time for an in-semester extension is four weeks. The following SPH guidelines are consistent with the UQ policy. However, the SPH Guidelines contain specific rules and interpretations for SPH courses, and requests for extension and penalties for late submissions will be judged according to the guidelines outlined in this document. You should read both the information in your my.UQ at the following link: https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension?p=1#1 and the SPH guidelines (below) before submitting a request for an extension. The SPH Guidelines apply to all courses offered by the School of Public Health unless the ECP explicitly states otherwise. SPH Guidelines for late submission of progressive assessment Initial extension for an individual item of assessment – the SPH Teaching & Assessment Support Team and/or the Course Coordinator decides. This could be for medical or compassionate reasons, or if, in the opinion of the Course Coordinator, there are exceptional circumstances. Acceptable and unacceptable reasons for an extension are listed at the following link, along with the required evidence to be provided: https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension?p=1#1 All requests should be lodged at least 24 hours prior to the due date for the assessment. If applying for an extension after the due date and time of the assessment item , your request may not be approved. An explanation as to why your request was not submitted prior must be included. If approved, a new due date will be set. This would generally be no later than 7 days after the original due date, however this can be modified to take account of the circumstances of the request and the time that would have been lost from studies. If the new due date is past the date for submission of end-of-semester results, the student will receive an INC (incomplete) result. Second and all subsequent extensions for an individual item of assessment – the SPH Teaching & Assessment Support Team and/or the Program Director together with the Course Coordinator decides. This would only be approved for exceptional circumstance with supporting documentation. Online requests must be made at least 24 hours prior to the due date from the first extension. The SPH Teaching & Assessment Support Team and/or the Course Coordinator will consult with the Program Director, who will make the final decision. If approved, the new due date would generally be no later than 7 days after the first extension due date. The Program Director should consider if remedial or other support should be offered to the student. The Program Director should provide a report on these matters as needed at SPH Examiners’ Meetings. Please Note : In order to support course progression, extensions that total more than 14 calendar days from the original due date of an assessment item will only be approved in very exceptional circumstances. These requests are assessed and approved or denied on a case-by-case basis. If you have been ill or unable to attend class for more than 14 days, we advise you to carefully consider whether you are capable of successfully completing your courses this semester. You might be eligible to withdraw without academic penalty . Penalty for late submission Submission of assignments, practical reports, workbooks, and other types of written assessments after the due date specified in the Electronic Course Profile (ECP) will receive a penalty. The penalty will be a deduction of 10% RELATIVE PERCENTAGE per day ( 24 hour period or part thereof, including weekends and public holidays) or for work graded on a 1-7 scale, a deduction of one grade per day, e.g If the original mark is 73%, then 10% relative percentage is 10% of this value, ie 7.3%, The final mark for this assessment item after applying the penalty for 1 day late submission would be 73 -7.3 = 65.7% The same outcome is achieved by multiplying the original score by .9; ie 73 x .9 = 65.7% The penalty for multiple days late is the relative percentage multiplied by the number of days late. A submission that is not made within 10 days of the due date will receive a mark of 0% for that assessment item. Where a student has sought more than one extension, the due date for calculating the penalty will be the due date for the most recently approved extension. Submission of Medical Certificates Students are responsible for ensuring that any medical documentation they submit is authentic and signed by a registered medical practitioner. Such practitioners can be identified via the AHPRA website . Also note that: Not all online medical services are staffed by registered practitioners If the registration status of the practitioner cannot be verified, then an alternative practitioner should be sought Students will be held fully responsible for all documentation they submit, even if done so in ignorance of the practitioner's registration status Medical documentation may be subjected to an audit by the University. SPH Assessment Guidelines The School of Public Health assessment tasks have been designed to be challenging, authentic and complex. While students may us AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. Learning activities"
+}

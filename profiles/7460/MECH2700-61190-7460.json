@@ -1,0 +1,249 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MECH2700-61190-7460",
+  "scraped_at": "2026-06-04T01:07:02.844568+00:00",
+  "course_code": "MECH2700",
+  "class_code": "61190",
+  "semester_code": "7460",
+  "full_course_code": "MECH2700-61190-7460",
+  "course_title": "Computational Engineering & Data Analysis",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "This course provides an introduction to the development and application of numerical methods to resolve common challenges faced in mechanical engineering. It builds an important foundation of knowledge in programming, numerical algorithms, and simulation techniques that is essential for modern day engineers. The course starts with numerical approaches for interpolation, differentiation and quadrature before introducing direct and iterative approaches to solve linear systems. Solution techniques for ordinary differential equations (ODEs) and non-linear equations are formulated and techniques for data fitting and optimisation (inc. least-squares approaches) are developed and applied to engineering problems. The final module of the course formulates computational techniques to solve partial differential equations (parabolic, hyperbolic, and elliptic) with numerous applications involving heat transfer, convection-diffusion, and wave propagation. Completion of this course will provide students with the necessary skills to develop computational approaches to address a wide range of engineering problems.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ENGG1001",
+      "CSSE1001",
+      "MATH1051",
+      "MATH1071",
+      "We recommend completing the following courses before enrolling in this one:",
+      "MATH1052",
+      "MATH1072"
+    ]
+  },
+  "course_staff": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Travis Mitchell",
+      "email": "t.mitchell@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Travis Mitchell",
+      "email": "t.mitchell@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Nick Gibbons",
+      "email": "n.gibbons@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Vincent Wheatley",
+      "email": "v.wheatley@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nContent delivery in MECH2700 is via a 2 hour lecture. The 3rd hour of content per week is a contact where we work through the complete engineering problem solving process using numerical methods. You will then put this learning into practice in weekly two hour computer laboratory sessions. You need attend only one computer laboratory (I01..I06) session per week.ﾠ Note these lab sessions will start in Week 2.\nﾠ",
+  "course_aims": "The aim of this course is to continue the development of the student's capability in the mathematical formulation of mechanical engineering problems, the application of computers to the numerical analysis of these mathematical models, and the interpretation and reporting of that analysis.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Formulate mathematical models of systems encountered in mechanical engineering - Understand which types of mathematical model are appropriate for different systems."
+    },
+    {
+      "number": "LO2.",
+      "description": "Formulate mathematical models of systems encountered in mechanical engineering - Model systems using algebraic equations, ordinary differential equations, partial differential equations, systems of linear equations, interpolating functions, approximating functions and integral equations."
+    },
+    {
+      "number": "LO3.",
+      "description": "Formulate mathematical models of systems encountered in mechanical engineering - Construct system models based on rough descriptions of mechanical engineering situations or problems."
+    },
+    {
+      "number": "LO4.",
+      "description": "Select or develop numerical methods to analyse the behaviour of system models - Compute solutions to nonlinear algebraic equations using the bisection method, Newtons method, secant method, shadow position method and fixed point iteration comparing their convergence, efficiency and robustness."
+    },
+    {
+      "number": "LO5.",
+      "description": "Select or develop numerical methods to analyse the behaviour of system models - Compute solutions to ordinary differential equations using the Euler, modified Euler and Runge-Kutta methods, and analyse their order of accuracy using Taylor series."
+    },
+    {
+      "number": "LO6.",
+      "description": "Select or develop numerical methods to analyse the behaviour of system models - Compute solutions to integration problems using Newton-Cotes methods, Gauss quadrature and composite quadrature methods."
+    },
+    {
+      "number": "LO7.",
+      "description": "Select or develop numerical methods to analyse the behaviour of system models - Approximate derivatives of function using finite differences and analyse their order of accuracy."
+    },
+    {
+      "number": "LO8.",
+      "description": "Select or develop numerical methods to analyse the behaviour of system models - Compute solutions to partial differential equations using a spectrum of numerical methods."
+    },
+    {
+      "number": "LO9.",
+      "description": "Select or develop numerical methods to analyse the behaviour of system models - Compute solutions to one-dimensional optimisation problems using the Golden search algorithm."
+    },
+    {
+      "number": "LO10.",
+      "description": "Select or develop numerical methods to analyse engineering data - Generate continuous approximations of engineering data using monomial and Lagrange interpolation and least-squares fitting for general basis functions."
+    },
+    {
+      "number": "LO11.",
+      "description": "Select or develop numerical methods to analyse engineering data - Approximate integrals of engineering data using quadrature methods."
+    },
+    {
+      "number": "LO12.",
+      "description": "Select or develop numerical methods to analyse engineering data - Approximate derivatives from engineering data using finite differences and analyse their order of accuracy."
+    },
+    {
+      "number": "LO13.",
+      "description": "Select or develop numerical methods to analyse engineering data - Visualize engineering data using a variety of approaches."
+    },
+    {
+      "number": "LO14.",
+      "description": "Compose computer programs to implement numerical methods - Construct functional programs in the Python language that systematically initialize required variables, execute a numerical method and output the variables of interest."
+    },
+    {
+      "number": "LO15.",
+      "description": "Compose computer programs to implement numerical methods - Construct functional programs in the Python language that systematically read in, analyse and visualise engineering data."
+    },
+    {
+      "number": "LO16.",
+      "description": "Interpret, evaluate and report on the results of numerical analysis - Interpret the results of numerical analysis in terms of the behaviour of the physical system it models."
+    },
+    {
+      "number": "LO17.",
+      "description": "Interpret, evaluate and report on the results of numerical analysis - Evaluate the performance of numerical analysis in terms of convergence and efficiency."
+    },
+    {
+      "number": "LO18.",
+      "description": "Interpret, evaluate and report on the results of numerical analysis - Report on the results of numerical analysis in written and graphical format."
+    },
+    {
+      "number": "LO19.",
+      "description": "Understand and apply new approaches from the numerical methods literature - Understand the language and structure of the numerical analysis field sufficiently to find and understand new numerical methods from the literature."
+    },
+    {
+      "number": "LO20.",
+      "description": "Understand and apply new approaches from the numerical methods literature - Evaluate the suitability of new numerical analysis techniques for your applications."
+    },
+    {
+      "number": "LO21.",
+      "description": "Understand and apply new approaches from the numerical methods literature - Apply new numerical analysis techniques to engineering applications by implementing them in Python programs."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Weekly tutorial exercise",
+      "weight": "10%",
+      "due_date": "Due weekly at 4 pm Friday from Week 2"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Assignment 1",
+      "weight": "15%",
+      "due_date": "6/09/2024 4:00 pm"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Assignment 2",
+      "weight": "15%",
+      "due_date": "25/10/2024 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Weekly tutorial exercise",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "10%",
+      "due_date": "Due weekly at 4 pm Friday from Week 2",
+      "task_description": "Short weekly theoretical and/or coding tasks to apply the analysis techniques discussed in lectures to engineering problems. Each weekly task is due at 4pm Friday of the given week. Read full task description Hide full task description",
+      "submission_guidelines": "Submission of both theoretical and programming task should be provided in a single pdf to the submission links provided on Blackboard. The theoretical question may be scanned or typeset. The code can be copied into the document along with the output/results.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nTo accommodate unforeseen circustances such as illness, the best 10 of 12 submissions are used for this assessment task and timely feedback needs to be provided to students.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nThe best 10 of 12 submission are used for this assessment task and timely feedback needs to be provided to students, late submissions will not be accepted.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late ."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 1",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "15%",
+      "due_date": "6/09/2024 4:00 pm",
+      "task_description": "An exercise in modelling and programming that will require submission to be described on Blackboard. You are to do this exercise individually and you are welcome to ask questions in the computer lab (ICT) sessions. Read full task description Hide full task description",
+      "submission_guidelines": "Your assignment should be submitted as a single PDF document plus a set of Python source code files that can be run for verification. The source code should include a README file that describes how your code can be executed to produce your submitted results. A link for submission will be provided on BlackBoard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFeedback is provided to students following 14 calendar days.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 2",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "15%",
+      "due_date": "25/10/2024 4:00 pm",
+      "task_description": "A larger exercise in modelling and programming that will require submission as to be detailed on Blackboard. You are to do this exercise in pairs (or individually) and you are welcome to ask questions in the computer lab (ICT) sessions. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. Read full task description Hide full task description",
+      "submission_guidelines": "Your assignment should be submitted as a single PDF document plus a set of Python source code files that can be run for verification. The source code should include a README file that describes how your code can be executed to produce your submitted results. A link for submission will be provided on BlackBoard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFeedback is provided to students following 14 calendar days.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End of Semester Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "task_description": "End of semester closed book examination. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series or UQ approved , labelled calculator only Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lectures - Modelling and Numerical Methods This Learning Activity will cover the following topics: Week 1 - Course introduction. Problem solving; A numerical approach. Floating-point numbers and error. Week 2 - Interpolation (High-order polynomials, Lagrange basis functions, Chebyshev points). Good programming practices. Week 3 - Numerical differentiation (Finite difference formulas and associated errors). Week 4 - Numerical integration (Newton-Cotes formulas-Trapezoidal rule, Simpson's 1/3 rule, etc., Composite quadrature). Week 5 - Direct solutions to linear systems (Gauss-Jordan elimination, LU decomposition). Week 6 - Iterative solutions to linear systems (Jacobi, Gauss-Seidel, Relaxation methods, Least-Squares approach for over-constrained systems). Week 7 - Numerical solutions to ODEs (Euler's, Modified Euler's, Runge-Kutta, Runge-Kutta-Fehlberg, Systems of Equations). Week 8 - Solving non-linear equations (Bisection, Fixed-Point Iteration, Gradient-based methods). Week 9 - Data fitting and optimisation (Least-squares, Chebyshev polynomials, Golden search, Bracketing). Week 10 - Intro to numerical solutions of PDEs and Parabolic PDEs (Classifications, finite difference schemes, diffusion problems). Week 11 - Parabolic PDEs conti. and Hyperbolic PDEs (Boundary conditions, stability of parabolic PDE solutions, Wave equation). Week 12 - Nonlinear Hyperbolic PDEs and Elliptic PDEs (Euler equations, inviscid Burgers equation, shocks, boundary value problems, solution approaches). Week 13 - Semester review and feedback."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 12 (22 Jul - 20 Oct)",
+      "activity_type": "General contact hours",
+      "topic": "Contact - Weekly interactive problem-solving Weekly workshops that begin with a physical engineering problem and work through the entire problem-solving process from defining the problem, to coding up the solution and interpreting the results, getting input from the class at every stage."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (29 Jul - 27 Oct)",
+      "activity_type": "Practical",
+      "topic": "Computer Lab Sessions To achieve the learning objectives of the course, you will need to work through weekly problem sets on solving engineering problems using numerical methods. This involves writing and executing code and interpreting the results. In order to do this at a time when tutorial assistance is available, you will need to attend one of the lab sessions that will be held each week. These are labelled I01 through I06."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 4 To Week 13 (12 Aug - 27 Oct)",
+      "activity_type": "Not Timetabled",
+      "topic": "Assignment You will need to complete assignments based on the analysis of mechanical engineering problems and the interpretation of numerical results relevant to those problems."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

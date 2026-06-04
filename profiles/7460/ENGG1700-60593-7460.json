@@ -1,0 +1,318 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG1700-60593-7460",
+  "scraped_at": "2026-06-04T00:58:29.465418+00:00",
+  "course_code": "ENGG1700",
+  "class_code": "60593",
+  "semester_code": "7460",
+  "full_course_code": "ENGG1700-60593-7460",
+  "course_title": "Statics and Materials",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Civil Engineering School",
+  "course_description": "In this course students will: - Develop conceptual understanding and fundamental engineering skills in statics and materials across a range of contexts. - Combine their knowledge of statics and materials to an authentic design task. - Engage in hands on learning, including design, build, and test activities\n\nHave you ever wondered how to design a high-rise building, a dam or a bridge? Why do we make road bridges out of steel and concrete, and not bamboo? Why is cast iron a poor choice for use in buildings in Antarctica, or for making bridge tie rods?\n\nStatics is a subset of Engineering Mechanics and refers to the branch of science that studies the way forces affect bodies either at rest or in motion. Engineers are concerned with the way that mechanics can be applied so that they can determine how objects will react to forces that are applied to them. Statics underpins Civil, Mechanical, Mechatronic and Mining Engineering.\n\nMaterials make up our world. The technologies we use every day for communication (phones, internet, computers, satellites…), transport (cars, buses, planes…), or shelter & infrastructure (homes, buildings, bridges…) entirely depend on materials and their properties. Engineers must understand how materials behave when designing new products. Engineers can also use science to improve existing materials and even develop entirely new materials with enhanced functional features necessary for the next technological leap forward. In this course we will mostly consider mechanical properties, but many other properties may need to be considered for any design.ﾠ\n\nHow will I use these skills in the future? - This course develops skills that an engineer can directly apply to undertake more sophisticated analysis, materials selection and design of structures and machines. Applied mechanics also forms the basis for more advanced courses taken by students during their studies. These range from structural analysis, dynamics, fluid and particle mechanics through to engineering acoustics.ﾠ",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1040"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ENGG1010",
+      "ENGG1400"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Matthew Mason",
+      "email": "matthew.mason@uq.edu.au"
+    },
+    {
+      "role": "School enquiries",
+      "name": "Mr Brian MacNamara",
+      "email": "engg1700@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Matthew Mason",
+      "email": "matthew.mason@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Joe Gattas",
+      "email": "j.gattas@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Mingyuan Lu",
+      "email": "m.lu1@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Bobbie Sutton",
+      "email": "b.sutton@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Hon Assoc Professor Ron Blackwell",
+      "email": "r.blackwell@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nYou must only attend the workshop session you are allocated to via ALLOCATE+ as there are assessment submissions linked to these sessions.",
+  "course_aims": "Statics & Material s will provide essential knowledge and skills that will prepare you to undertake the design, modelling, and analysis of structural systems. In the course, you will develop analytical and problem-solving skills to model and analyse forces, moments, and their effects on the equilibrium state of particles, rigid bodies and simple structural elements. You will learn how material properties influence structural behaviour and how materials selection is an integral part of the design process.ﾠ\n\nHow will I use these skills in the future? - This course develops skills that an engineer can directly apply to undertake more sophisticated analysis, materials selection and design of structures and machines. Applied mechanics also forms the basis for more advanced courses taken by students during their studies. These range from structural analysis and design, dynamics, fluid and particle mechanics through to engineering acoustics.ﾠ",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Analyse 2D and 3D force systems acting on objects and structures in equilibrium."
+    },
+    {
+      "number": "LO2.",
+      "description": "Construct and solve mathematical models which describe the internal effects of forces on structures."
+    },
+    {
+      "number": "LO3.",
+      "description": "Analyse a truss and calculate axial stresses in a truss."
+    },
+    {
+      "number": "LO4.",
+      "description": "Calculate the centroid and second moment of area of compound cross‐sections."
+    },
+    {
+      "number": "LO5.",
+      "description": "Analyse internal forces in a beam and apply Engineer's Simple Beam Theory to calculate stresses due to bending in a beam."
+    },
+    {
+      "number": "LO6.",
+      "description": "Describe and analyse basic material properties from a stress-strain curve for various engineering materials."
+    },
+    {
+      "number": "LO7.",
+      "description": "Describe how the structure and processing of materials impacts material properties."
+    },
+    {
+      "number": "LO8.",
+      "description": "Analyse and design a (simple) structure, including selecting an appropriate material, based on your knowledge of statics, material behaviour & properties."
+    },
+    {
+      "number": "LO9.",
+      "description": "Identify a range of potential failure modes and mechanisms that need to be considered in design."
+    },
+    {
+      "number": "LO10.",
+      "description": "Develop team-work skills."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Laboratory Safety Induction",
+      "weight": "Laboratory access will be denied if induction is not completed",
+      "due_date": "22/07/2024 - 9/08/2024",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "Weekly online quizzes",
+      "weight": "10%",
+      "due_date": "30/07/2024 4:00 pm; 6/08/2024 4:00 pm; 13/08/2024 4:00 pm; 20/08/2024 4:00 pm; 27/08/2024 4:00 pm; 10/09/2024 4:00 pm; 17/09/2024 4:00 pm; 1/10/2024 4:00 pm; 8/10/2024 4:00 pm; 15/10/2024 4:00 pm; 22/10/2024 4:00 pm; 25/10/2024 4:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Participation/ Student contribution",
+      "title": "Truss Design Challenge (Team)",
+      "weight": "20%",
+      "due_date": "1/10/2024 4:00 pm",
+      "conditions": [
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Performance, Reflection",
+      "title": "Peer Assessment - Truss Project (individual)",
+      "weight": "Affects individual score for Truss Project",
+      "due_date": "1/10/2024 - 8/10/2024"
+    },
+    {
+      "category": "Examination",
+      "title": "In-Semester Exam",
+      "weight": "20%",
+      "due_date": "In-semester Saturday; 31/08/2024 - 14/09/2024",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Laboratory Safety Induction",
+      "mode": "Activity/ Performance",
+      "category": "Practical/ Demonstration",
+      "weight": "Laboratory access will be denied if induction is not completed",
+      "due_date": "22/07/2024 - 9/08/2024",
+      "learning_outcomes_assessed": "L10",
+      "task_description": "As the University has developed an online U/G Student Lab Safety Induction Assessment (UGRD01) within the OH&S training system, a web based verification system has been developed for use as students attend the various practical experiments occurring within the school. It is a requirement for ENGG1700 that students complete this assessment prior to attending a practical experiment session. Students only have to complete the assessment once during their under graduate degree. Students are required to complete this assessment by the due date (database is only updated once a day). The link is: https://learn.uq.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_11416_1&content_id=_1187521_1&mode=reset Please complete the induction by the due date If you have previously completed this online induction there is NO NEED to do it again. Read full task description Hide full task description",
+      "submission_guidelines": "via Blackboard\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nLaboratory access will be denied if induction is not completed before the laboratory sessions in week 4.\nLate submission\nNA",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "NA",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Weekly online quizzes",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "10%",
+      "due_date": "30/07/2024 4:00 pm 6/08/2024 4:00 pm 13/08/2024 4:00 pm 20/08/2024 4:00 pm 27/08/2024 4:00 pm 10/09/2024 4:00 pm 17/09/2024 4:00 pm 1/10/2024 4:00 pm 8/10/2024 4:00 pm 15/10/2024 4:00 pm 22/10/2024 4:00 pm 25/10/2024 4:00 pm",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L09",
+      "task_description": "Each quiz opening and due times are available in Blackboard. Students are encouraged to only attempt the quiz once all lectures for the week have concluded. There will not be a weekly quiz on the week of the in-semester exam. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nTo accommodate these situations, your quiz score is based on best 10 out of 12 submissions. Re-weighting of marks will apply if more than two quizzes are missed for an approved reason.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Each quiz opening and due times are available in Blackboard. Students are encouraged to only attempt the quiz once all lectures for the week have concluded. There will not be a weekly quiz on the week of the in-semester exam. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Truss Design Challenge (Team)",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Participation/ Student contribution",
+      "weight": "20%",
+      "due_date": "1/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L03, L06, L08, L10",
+      "task_description": "Truss Design Activity runs across workshops in weeks 7, 8 and 9. Week 7 Materials Testing Intermediate submission of test results is due 24 hours after your groups testing session Week 8 Truss Design Intermediate submission of truss designs is due 24 hours after your groups truss design session Week 9 Truss Build & Test Final Report is due Tuesday of Week 10. Refer to Blackboard for assessment detail. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nRefer to requirements of group submission for extension in the Assessment PPL.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Truss Design Activity runs across workshops in weeks 7, 8 and 9. Week 7 Materials Testing Intermediate submission of test results is due 24 hours after your groups testing session Week 8 Truss Design Intermediate submission of truss designs is due 24 hours after your groups truss design session Week 9 Truss Build & Test Final Report is due Tuesday of Week 10. Refer to Blackboard for assessment detail. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Peer Assessment - Truss Project (individual)",
+      "mode": "Activity/ Performance",
+      "category": "Performance, Reflection",
+      "weight": "Affects individual score for Truss Project",
+      "due_date": "1/10/2024 - 8/10/2024",
+      "other_conditions": "Peer assessment factor. See the conditions definitions",
+      "learning_outcomes_assessed": "L03, L06, L08, L10",
+      "task_description": "The Truss Design Build Test Project marks will be moderated by a peer assessment factor (PAF) to determine an individual team member's mark. The Course Coordinator will moderate the peer assessment to ensure that the marks are indicative of your performance; over estimation of your own contribution and/ or clique-type assessment (where individuals are unfairly penalised or rewarded) will be removed. The Course Coordinator may seek the input of Workshop Academic Leads and/or tutors to this moderation process as required. Immediately after submission of the Truss Design Build Test Project you will be asked to assess your peers again and this mark will be used to scale each individual's team marks for that specific deliverable. PAFs are capped at 1.1 which means that you can potentially receive an additional 10% of the team marks but that no student will be overly rewarded for effort in place of marks for the other ENGG1700 learning objectives. PAFs of 1.1 or less will be directly applied to the Truss Design Build Test Project mark marks (e.g. if you receive a PAF of 0.8, you will get 80% of the team mark component). There is no MINIMUM PAF . This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Via BlackBoard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nRefer to requirements of group submission for extension in the Assessment PPL.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The Truss Design Build Test Project marks will be moderated by a peer assessment factor (PAF) to determine an individual team member's mark. The Course Coordinator will moderate the peer assessment to ensure that the marks are indicative of your performance; over estimation of your own contribution and/ or clique-type assessment (where individuals are unfairly penalised or rewarded) will be removed. The Course Coordinator may seek the input of Workshop Academic Leads and/or tutors to this moderation process as required. Immediately after submission of the Truss Design Build Test Project you will be asked to assess your peers again and this mark will be used to scale each individual's team marks for that specific deliverable. PAFs are capped at 1.1 which means that you can potentially receive an additional 10% of the team marks but that no student will be overly rewarded for effort in place of marks for the other ENGG1700 learning objectives. PAFs of 1.1 or less will be directly applied to the Truss Design Build Test Project mark marks (e.g. if you receive a PAF of 0.8, you will get 80% of the team mark component). There is no MINIMUM PAF . This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-4",
+      "title": "In-Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "20%",
+      "due_date": "In-semester Saturday 31/08/2024 - 14/09/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L06, L07",
+      "task_description": "Compulsory in-semester examination assessing course content from Weeks 1-5 inclusive and includes a combination of multiple-choice and problem solving questions. The exam will be held on a Saturday in the mid-semester exam block as per https://my.uq.edu.au/information-andservices/manage-my-program/exams-and-assessment/exam-timetables-and-venues/important-exam-dates . This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 60 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "Compulsory in-semester examination assessing course content from Weeks 1-5 inclusive and includes a combination of multiple-choice and problem solving questions. The exam will be held on a Saturday in the mid-semester exam block as per https://my.uq.edu.au/information-andservices/manage-my-program/exams-and-assessment/exam-timetables-and-venues/important-exam-dates . This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-5",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "Covers content from weeks 1-13 with emphasis on weeks 4-13. Format will be written problems. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.",
+    "other_course_materials": "If we've listed something under further requirement, you'll need to provide your own. Required Item Description Further Requirement PPE Closed toe shoes are required to enter the laboratories. own item needed",
+    "required": "Item Description Further Requirement PPE Closed toe shoes are required to enter the laboratories. own item needed"
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Not Timetabled",
+      "topic": "Online Modules Learning outcomes: L02, L04",
+      "learning_outcomes": [
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Lectures - face-to-face and online Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L09",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (29 Jul - 27 Oct)",
+      "activity_type": "Workshop",
+      "topic": "Workshop Workshop sessions are face-to-face where the student can work on problems with assistance from tutors. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . You'll also need to be aware of the following policies and procedures while completing this course: Laboratory Occupational Health and Safety School guidelines Your school has additional guidelines you'll need to follow for this course: School of Civil Engineering School Guidelines Learning activities"
+}

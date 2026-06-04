@@ -1,0 +1,241 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE2010-62173-7460",
+  "scraped_at": "2026-06-04T00:54:09.021463+00:00",
+  "course_code": "CSSE2010",
+  "class_code": "62173",
+  "semester_code": "7460",
+  "full_course_code": "CSSE2010-62173-7460",
+  "course_title": "Introduction to Computer Systems",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Introduction to digital logic and digital systems; machine level representation of data; computer organization; memory system organization and architecture; interfacing and communication; microcontroller architecture and usage; programming of microcontroller based systems.\n\nCSSE2010 is an introduction to how computers work at the lowest levels and will cover topics from binary number representations, logic gates, combinational and sequential logic circuits, low-levelﾠassembly language and basic C programming. After this course you'll have a basic understanding of how computers work and you'll be able to develop programs for a microcontroller based computer system.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE1001",
+      "ENGG1001"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP1300",
+      "COMP2303",
+      "COMP2302",
+      "CSSE1000",
+      "CSSE7035",
+      "CSSE7201",
+      "ELEC2002",
+      "This course is jointly-taught with:",
+      "All learning activities are jointly taught."
+    ]
+  },
+  "course_staff": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Martin Ploschner",
+      "email": "CSSE2010@eecs.uq.edu.au"
+    },
+    {
+      "role": "Course coordinator",
+      "name": "Dr Chamith Wijenayake"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Martin Ploschner"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Chamith Wijenayake"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The general aim of this course is for students to understand how computers and software work at the lowest levels (binary numbers, logic gates, memory, assembly language etc.) and be able to program a microcontroller based system using both assembly language and the C programming language. (Such systems make up the vast majority of computing systems in the world.)\n\nA low level understanding of computer hardware helps students to understand the implications (e.g. performance) of software design and implementation decisions. The course also prepares students for various possible follow-on courses, including CSSE2310 (Computer Systems Principles and Programming), ENGG2800/METR2800 (Engineering Team Project 1), CSSE3010 (Embedded Systems Design & Interfacing) and CSSE4010 (Digital System Design).",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "convert unsigned integers, signed integers and floating point numbers to and from various binary number representations and perform operations on those binary numbers"
+    },
+    {
+      "number": "LO2.",
+      "description": "express logic functions in various representations (gates, expressions, truth-tables, timing diagrams) and be able to convert those functions between representations"
+    },
+    {
+      "number": "LO3.",
+      "description": "design, analyse, simulate and build combinational circuits and simple sequential circuits"
+    },
+    {
+      "number": "LO4.",
+      "description": "explain the operation of a CPU with respect to its major components, and instruction set architecture, with specific emphasis on the AVR microcontroller"
+    },
+    {
+      "number": "LO5.",
+      "description": "demonstrate your knowledge of flow-of-control and the use of a stack in a CPU and be able to write procedures and interrupt service routines in both AVR assembly language and C"
+    },
+    {
+      "number": "LO6.",
+      "description": "describe the major components of a computer system and how they communicate and be able to perform calculations on their characteristics"
+    },
+    {
+      "number": "LO7.",
+      "description": "simulate the processes of assembly and linking on sample code"
+    },
+    {
+      "number": "LO8.",
+      "description": "modify, write, simulate, debug, assemble/compile and download assembly language and C programs targeted to the AVR microcontroller and be able to construct associated AVR hardware and peripherals"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Examination, Practical/ Demonstration",
+      "title": "In-semester lab exam",
+      "weight": "10%",
+      "due_date": "Week 6 Mon - Week 6 Fri",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "In-semester theory exam",
+      "weight": "20%",
+      "due_date": "In-semester Saturday; 31/08/2024 - 14/09/2024",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Practical/ Demonstration, Project",
+      "title": "AVR Programming Project",
+      "weight": "20%",
+      "due_date": "25/10/2024 4:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-semester lab exam",
+      "mode": "Activity/ Performance, Written",
+      "category": "Examination, Practical/ Demonstration",
+      "weight": "10%",
+      "due_date": "Week 6 Mon - Week 6 Fri",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L02, L03",
+      "task_description": "A lab exam covering material and ideas from practical activities in weeks 1 to 5 inclusive will be held during learning lab sessions on Monday-Friday in week 6. You must only attend the lab exam session you are scheduled for (selected from your regular signed-up lab sessions for the week), and you will be allocated to a particular time slot within this session. The exact schedule will be communicated to students via Blackboard. Students will be required to wire up a logic circuit, demonstrate its functionality and record some observations/results. Lab examinations are individual and closed book and relevant hardcopies of datasheets will be provided during the exam. No online access is permitted. Failure to attend a scheduled lab examination will be considered a failure of the exam unless you submit a request for a deferred lab exam via mySI-net. Prac examinations are subject to the rules of the University. In particular, please be sure to bring identification (student card) and obey the instructions of exam supervisors. Read full task description Hide full task description",
+      "exam_details": "Duration 60 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Materials Students must have their lab kits to complete the lab exam. Exam platform Other Invigilation Invigilated in person",
+      "submission_guidelines": "Students will be assessed during the allocated lab exam time slot.\nDeferral or extension\nYou may be able to defer this exam .\nThe deferred lab exam will be held in Week 8.\nAll requests must be formally submitted through mySI-net during the required time frame. Requests sent to Course Coordinators will not be considered.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In-semester theory exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "20%",
+      "due_date": "In-semester Saturday 31/08/2024 - 14/09/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "A centrally scheduled Saturday in-semester theory exam will be held at the end of week 6, 7 or 8 (as determined by the UQ examinations section). The test is individual and will be multiple-choice, closed-book (with one double-sided A4 page of written and/or printed material permitted). The in-semester theory exam will cover material from weeks 1 to 5 inclusive (lectures, learning lab sessions, homework and associated readings etc.). You will require an HB or 2B pencil and an eraser to complete the in-semester theory exam. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 60 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nThe Centrally scheduled deferred in-semester theory exam will be on Saturday of week 10.\nAll requests must be formally submitted through mySI-net during the required time frame. Requests sent to Course Coordinators will not be considered.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "AVR Programming Project",
+      "mode": "Activity/ Performance",
+      "category": "Computer Code, Practical/ Demonstration, Project",
+      "weight": "20%",
+      "due_date": "25/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L08",
+      "task_description": "Students will undertake a programming task for the AVR microcontroller (may contain a number of sub-tasks) which implements a system for a given set of specifications. You may be asked to attend a subsequent oral assessment (interview) if the course coordinator has any doubts about the origin of your submission. Invitations for such oral assessments will be issued by email to your student email account at any time up until the end of week one of the exam period. Failure to respond to an interview invitation by the deadline stated in the invitation (which will be at least one week after the invitation is sent) or failure to attend a scheduled interview will result in zero marks for the assignment unless exceptional circumstances can be demonstrated with supporting evidence. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 14-21 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "An on campus , open-book, invigilated exam will be held during the final examination period. This exam can contain multiple-choice, short-answer, numerical and code-writing type questions. Open-book means that you may bring any written or printed material (including books) into the examination room. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Open Book examination Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nAll requests must be formally submitted through mySI-net during the required time frame. Requests sent to Course Coordinators will not be considered.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.",
+    "other_course_materials": "If we've listed something under further requirement, you'll need to provide your own. Required Item Description Further Requirement Lab kit A lab kit will be loaned to students during weeks 1 to 4. The kit must be returned at the end of the semester.",
+    "required": "Item Description Further Requirement Lab kit A lab kit will be loaned to students during weeks 1 to 4. The kit must be returned at the end of the semester."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Weekly Lecture There are two 1-hour weekly lectures. Refer to detailed teaching outline on Blackboard for more information about public holidays and refer to student timetable for any updates on the venues/times. Lectures are expected to be recorded and made available on the course Blackboard site, although there is no guarantee that recordings will always work. Lectures provide an introduction to the course material and present examples to help students understand the principles and techniques. There may be recommended reading or other activities which should be undertaken before a lecture. Please note that the lecture slides in the course notes may NOT be a complete record of the lecture. Examples will be worked through and exercises undertaken which may not be shown on the slides. Interactive polls may be used to assess understanding and get feedback from students. It is strongly suggested that you attend the lectures or watch the recording each week to maintain progressive learning. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Practical",
+      "topic": "Learning Lab Sessions You must sign-up for a pair of prac sessions out of the 7 pairs available (PRA1-x, PRA2-x), where x=1,2,...,7. All prac sessions will be held in the Axon Building Computer Laboratory (building 47, room 104) in face-to-face mode. These lab classes will start with their PRA2 sessions from Wed-Fri of Week 1. NO PRA1 session lab classes are held during Mon-Tue of week 1. From week 2 to week 13 both PRA1 and PRA2 sessions will be held (refer to the detailed teaching outline on Blackboard for more information about public holidays). Students will be loaned a kit during their lab classes in weeks 1-4, which must be returned by the end of the semester . You must have a lab kit with you in order to complete and pass the course. Lab kits must be collected in-person during lab classes in weeks 1-4. If you borrow a lab kit and drop the course then you must return the kit within 3 business days to EECS school office at building 78 room 425. Learning outcomes: L01, L02, L03, L05, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05",
+        "L08"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

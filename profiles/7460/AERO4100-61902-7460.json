@@ -1,0 +1,369 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/AERO4100-61902-7460",
+  "scraped_at": "2026-06-04T00:45:46.466009+00:00",
+  "course_code": "AERO4100",
+  "class_code": "61902",
+  "semester_code": "7460",
+  "full_course_code": "AERO4100-61902-7460",
+  "course_title": "Aero Design and Manufacturing",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "This course examines aerospace structural design, with an emphasis on metallic structures. The course covers: 1) certification (i.e. what is required to demonstrate that a structural component is safe and compliant with applicable regulations); 2) stress analysis techniques used to design and certify the thin walled structures which comprise most of the aircraft structure; 3) characteristics and manufacturing processes for high strength aerospace metallic materials; 4) structural optimisation in a practical context (i.e. how to design a component, in terms of materials and sizing, to have minimum weight, the required strength, and be suitable for manufacture).",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MECH2300"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "AERO3110"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor David Gildfind",
+      "email": "d.gildfind@uq.edu.au",
+      "phone": "+61 7 3365 3593",
+      "notes": "Please email to make an appointment."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor David Gildfind",
+      "email": "d.gildfind@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Mingxing Zhang",
+      "email": "mingxing.zhang@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "1. For students to develop the ability to correctly apply a range of useful classical thin walled structures analysis techniquesﾠto enable them to design and certify the structural assemblies typical of metallic aircraft.\n\n2. To expose students to the open-ended nature of aircraft structural design, and provide them with practical experience in making design choices in the unconstrained and imperfect decision space of real aircraft design.\n\n3. For students to develop knowledge and understanding of the strengthening mechanisms, performance, microstructural constituents and manufacturing of aerospace metallic materials.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Apply aerospace structural analysis techniques - Appropriately idealise the geometry of a real wing structure so that it can be assessed using standard thin walled structures analytical techniques."
+    },
+    {
+      "number": "LO2.",
+      "description": "Apply aerospace structural analysis techniques - Calculate the shear flow distribution in a multi-cell thin walled tube, and use this information to determine a structurally sound fastener configuration."
+    },
+    {
+      "number": "LO3.",
+      "description": "Apply aerospace structural analysis techniques - Calculate section properties, bending stresses/forces, and panel shear flows/stresses, for a single cell box beam subject to externally applied bending, and/or shear, and/or torsion loads."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply aerospace structural analysis techniques - Predict the compressive failure mode of a column (Euler, intermediate, or short column), and then calculate its compressive failure load using the appropriate technique."
+    },
+    {
+      "number": "LO5.",
+      "description": "Apply aerospace structural analysis techniques - Identify the appropriate boundary conditions for a rectangular panel loaded in compression, and calculate the stress at which it buckles."
+    },
+    {
+      "number": "LO6.",
+      "description": "Apply aerospace structural analysis techniques - Calculate the crippling stress of an angle section using the method of angles technique, and extend this technique to calculating the strength of stiffened panels."
+    },
+    {
+      "number": "LO7.",
+      "description": "Design and certify aerospace structures - Use aerospace structural analysis techniques to calculate margins of safety for each member in an externally loaded aerospace structure."
+    },
+    {
+      "number": "LO8.",
+      "description": "Design and certify aerospace structures - Use aerospace structural analysis techniques to perform preliminary sizing for an aerospace structural assembly where the applied loads are known, but the structural configuration has not yet been established, and to certify the new design in an engineering report."
+    },
+    {
+      "number": "LO9.",
+      "description": "Specify aerospace metallic manufacturing processes - Identify and explain the important characteristics of metallic materials which make them suitable for a range of critical applications in aerospace and near orbit flying vehicles."
+    },
+    {
+      "number": "LO10.",
+      "description": "Specify aerospace metallic manufacturing processes - Identify and describe the performance requirements for aerospace metallic materials, in terms of their operating conditions and loading regimes, and their required mechanical properties."
+    },
+    {
+      "number": "LO11.",
+      "description": "Specify aerospace metallic manufacturing processes - Identify and quantify the factors which determine the microstructure and properties of aerospace metals (aluminium alloys, titanium alloys, ultra-high strength steels, superalloys and other metals for aerospace applications) and use this knowledge to design material manufacturing processes which achieve pre-defined and specific mechanical properties and other performance characteristics."
+    },
+    {
+      "number": "LO12.",
+      "description": "Specify aerospace metallic manufacturing processes - Identify and explain the typical manufacturing processes used for producing aerospace structural engineering components."
+    },
+    {
+      "number": "LO13.",
+      "description": "Specify aerospace metallic manufacturing processes - Identify and explain the mechanical loading and state of stress for the major aerospace components."
+    },
+    {
+      "number": "LO14.",
+      "description": "Specify aerospace metallic manufacturing processes - Integrate the knowledge from learning objectives 9-13 to conduct material selection for advanced aerospace applications."
+    },
+    {
+      "number": "LO15.",
+      "description": "Specify aerospace metallic manufacturing processes - Integrate the knowledge from learning objectives 9-13 and work in a team to design a new manufacturing process for advanced aerospace applications."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "In-class problems",
+      "weight": "10% (max 1% per week, capped at 10% total)",
+      "due_date": "Week 1 - Week 10; Week 12 - Week 13; 60 minutes after conclusion of the tutorial, submitted via Blackboard."
+    },
+    {
+      "category": "Product/ Design",
+      "title": "Assignment 1: Aircraft Structural Design",
+      "weight": "20%",
+      "due_date": "19/09/2024 1:00 pm"
+    },
+    {
+      "category": "Project",
+      "title": "Assignment 2: Manufacturing Process Design",
+      "weight": "20%",
+      "due_date": "24/10/2024 1:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Closed book exam",
+      "weight": "50% Structures(25%)/ Materials (25%)",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-class problems",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "10% (max 1% per week, capped at 10% total)",
+      "due_date": "Week 1 - Week 10 Week 12 - Week 13 60 minutes after conclusion of the tutorial, submitted via Blackboard.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13",
+      "task_description": "The teaching staff will answer questions and explain the task to be completed individually during the tutorial session. Students have until 1:00pm (Brisbane time) on the same day as the tutorial to complete the problems and submit their individual solutions electronically via Blackboard ( \\Assessment\\Tutorials\\Tutorial Week X ). Solutions to some or all of the tutorial problems will be presented and discussed during the course of the tutorial. Submission is online via Blackboard. The maximum mark which can be obtained for this item of assessment is 10% (i.e. if you submit 9 tutorials during the course of the semester and receive full marks for each, your final mark for this item of assessment will be 9%; whereas if you submit 12 tutorials during the course of the semester and receive full marks for each, your final mark for this item of assessment will be 10%). Read full task description Hide full task description",
+      "submission_guidelines": "Submit an electronic copy of your working via Blackboard by 1:00pm (Brisbane time) on the same day as the tutorial (\\Assessment\\Tutorials\\Tutorial Week X). Tutorials may be hand written, in which case the hardcopy should be scanned or imaged using, for example, a mobile phone and appropriate app (such as the Google Drive scan tool ). Alternatively, you may take photos and insert them as images into another document type such as MS Word (see https://uq.pressbooks.pub/digital-essentials-write-cite-submit/chapter/submitting-your-assignment/#handwritten under Submitting handwritten notes).\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions are released after 7 calendar days, and completion is required to progress with follow up assignments.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nSolutions are worked through in the tutorial.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late ."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 1: Aircraft Structural Design",
+      "mode": "Written",
+      "category": "Product/ Design",
+      "weight": "20%",
+      "due_date": "19/09/2024 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L05, L06, L07, L08",
+      "task_description": "In this assignment students will design a minimum weight aircraft structural component/assembly and certify the structural integrity of their design. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via TurnItIn on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFeedback is provided to students following 14 calendar days.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 2: Manufacturing Process Design",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "20%",
+      "due_date": "24/10/2024 1:00 pm",
+      "learning_outcomes_assessed": "L09, L10, L11, L12, L13, L14, L15",
+      "task_description": "This assignment is centred around design and testing of a high strength aerospace aluminium alloy, and there are two associated laboratory sessions. The initial phase of this assignment is to be performed in groups. Students will design a heat treatment process for an aluminium alloy in order to achieve specified mechanical properties. In the first laboratory session, supplied tensile and compressive test specimens will be subjected to the designed heat treatment schedules. In the second laboratory session the heat treated samples will be mechanically tested, providing tensile and compressive stress-strain data. Students will then submit individual reports on this work, on the material design process and experiments, including background discussion. As part of this analysis, students will use stress-strain data from the laboratory experiments to derive mechanical properties for the alloy. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. You must attend the laboratory sessions to receive all available marks for this item of assessment. If you cannot attend the practical then you need to apply for an extension. This may result in you either being allocated to a new practical time, or else being approved to submit the assessment subject to alternative arrangements, to be determined by the Course Coordinator. Where a student fails to attend their group's practical's without an approved reason, “Experimental Procedure”, “Results and Discussion” and “Conclusions” sections of their assignment will be marked as zero (where they were absent from both practical's) or else each mark against these criteria will be reduced by 50% (where they were absent from one practical). Read full task description Hide full task description",
+      "submission_guidelines": "Submit via TurnItIn on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFeedback is provided to students following 14 calendar days.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Closed book exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50% Structures(25%)/ Materials (25%)",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L09, L10, L11, L12, L13",
+      "task_description": "Invigilated final examination. Closed book. Students are only permitted to use Casio FX82 series or UQ approved (labelled) calculators in this examination. Exam scope: Entire course. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series or UQ approved , labelled calculator only Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial (Weeks 1-10, 12-13) This time is set aside for solving example problems, and includes time to ask questions about the course content and the assignments. Tutorial problems will be issued to students before the scheduled tutorial time. The teaching staff will answer questions and explain the task to be completed individually during the tutorial session. Students are actively encouraged to form in groups during the tutorial and collaborate with group members in completing this learning activity. Solutions to some or all of the tutorial problems will be presented and discussed during the course of the tutorial. Note: there will not be a tutorial or lecture in Week 11 due to the King's Birthday public holiday, but Materials tensile/compressive testing laboratory IS running in Week 11. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Lecture",
+      "topic": "Structures (Week 1) Course Introduction. Introduction to thin walled structures. Learning outcomes: L07, L08",
+      "learning_outcomes": [
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Lecture",
+      "topic": "Structures (Week 2) Shear flow in thin walled tubes Learning outcomes: L02, L08",
+      "learning_outcomes": [
+        "L02",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Lecture",
+      "topic": "Structures (Week 3) Fasteners Learning outcomes: L02, L08",
+      "learning_outcomes": [
+        "L02",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Lecture",
+      "topic": "Structures (Week 4) Wing box beams - Part 1 Learning outcomes: L01, L03, L08",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Lecture",
+      "topic": "Structures (Week 5) Wing box beams - Part 2 Learning outcomes: L03, L08",
+      "learning_outcomes": [
+        "L03",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Lecture",
+      "topic": "Structures (Week 6) Compressive failure - Part 1 Learning outcomes: L04, L08",
+      "learning_outcomes": [
+        "L04",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Lecture",
+      "topic": "Structures (Week 7) Compressive failure - Part 2 Learning outcomes: L05, L06, L08",
+      "learning_outcomes": [
+        "L05",
+        "L06",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Lecture",
+      "topic": "Materials (Week 8) Introduction to aerospace materials and aluminium alloys Learning outcomes: L09, L10, L11, L12, L13",
+      "learning_outcomes": [
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Lecture",
+      "topic": "Materials (Week 9) Titanium alloys and ultra-high strength steels Learning outcomes: L09, L10, L11, L12, L13",
+      "learning_outcomes": [
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Lecture",
+      "topic": "Materials (Week 10) Superalloys and other light alloys Learning outcomes: L09, L10, L11, L12, L13",
+      "learning_outcomes": [
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Practical",
+      "topic": "Materials lab part 1 (heat treatment) Learning outcomes: L10, L11, L13, L14, L15",
+      "learning_outcomes": [
+        "L10",
+        "L11",
+        "L13",
+        "L14",
+        "L15"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Practical",
+      "topic": "Materials lab part 2 (tensile/compressive testing) Learning outcomes: L10, L11, L13, L14, L15",
+      "learning_outcomes": [
+        "L10",
+        "L11",
+        "L13",
+        "L14",
+        "L15"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Lecture",
+      "topic": "Materials (Week 12) Sheet forming and forging Learning outcomes: L12, L13",
+      "learning_outcomes": [
+        "L12",
+        "L13"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Lecture",
+      "topic": "Materials (Week 13) Manufacturing case studies Learning outcomes: L12, L13",
+      "learning_outcomes": [
+        "L12",
+        "L13"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

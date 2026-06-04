@@ -1,0 +1,419 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/STAT7120-64495-7460",
+  "scraped_at": "2026-06-04T01:19:31.431847+00:00",
+  "course_code": "STAT7120",
+  "class_code": "64495",
+  "semester_code": "7460",
+  "full_course_code": "STAT7120-64495-7460",
+  "course_title": "Analysis of Scientific Data",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Postgraduate Coursework",
+  "location": "External",
+  "attendance_mode": "Online",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Analysis of scientific data and experiments: Design of experiments and ethical research. Data modelling and management. Exploratory data analysis. Randomness and probability. Statistical analysis including linear regression, analysis of variance, logistic regression, categorical data analysis, and non-parametric methods.\n\nThe aim of STAT7120 is to provide an understanding of the nature of scientific data and the subsequent need for statistical analysis. You will develop your statistical expertise and critical judgement in scientific studies, including an awareness of ethical issues in research and analysis. You will learn about the different types of data and how each can be visualised and summarised, and how you can make conclusions and predictions from the statistical analysis. You will also see that these statistical tools are based on simple mathematical ideas and associated assumptions.",
+  "requirements": {
+    "prerequisites": [
+      "We recommend completing the following courses before enrolling in this one:",
+      "MATH7040"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "STAT1201",
+      "STAT7201"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Michael Bulmer",
+      "email": "m.bulmer@uq.edu.au",
+      "phone": "+61 7 3365 7905",
+      "notes": "See \"Course Staff\" on Blackboard for consultation times."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Michael Bulmer",
+      "email": "m.bulmer@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Julian Lamont",
+      "email": "j.lamont@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Mel Robertson-Dean",
+      "email": "m.robertsondean@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Simone Blomberg",
+      "email": "s.blomberg1@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Melissa Dobbie"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus. Consult your personal timetable for times and locations. Students are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness).\nImportant: if you are ill, then do not attend any classes in person. Alternative arrangements can be organised – consult Blackboard for details.\nContacts start in Week 1.\nWorkshops start in Week 2. There are no workshops in Weeks 1, 4 or 11.",
+  "course_aims": "The aim of STAT7120 is to provide an understanding of the nature of scientific data and the subsequent need for statistical analysis. You will develop your statistical expertise and critical judgement in scientific studies, including an awareness of ethical issues in research and analysis. You will learn about the different types of data and how each can be visualized and summarized, and how you can make conclusions and predictions from the statistical analysis. You will also see that these statistical tools are based on simple mathematical ideas and associated assumptions.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain the nature of scientific data and the need for statistical analysis."
+    },
+    {
+      "number": "LO2.",
+      "description": "Identify factors related to the design of a scientific study, including sample size and power."
+    },
+    {
+      "number": "LO3.",
+      "description": "Identify and critically evaluate the role of data analysis and statistics in scientific research and publications."
+    },
+    {
+      "number": "LO4.",
+      "description": "Identify and critically evaluate ethical issues in scientific research."
+    },
+    {
+      "number": "LO5.",
+      "description": "Demonstrate a foundational knowledge of statistical methods by being able to carry out simple statistical procedures by hand."
+    },
+    {
+      "number": "LO6.",
+      "description": "Use statistical software appropriately and confidently for exploratory data analysis and to make relevant statistical conclusions."
+    },
+    {
+      "number": "LO7.",
+      "description": "Plan and carry out a research project, and analyse and communicate the results."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Participation/ Student contribution, Quiz, Tutorial/ Problem Set",
+      "title": "Online Quizzes",
+      "weight": "16%",
+      "due_date": "Individual questions are due by 4:00pm Fridays. Collaborative questions are due by the end of your allocated workshop."
+    },
+    {
+      "category": "Essay/ Critique",
+      "title": "Paper Review",
+      "weight": "20%",
+      "due_date": "23/08/2024 4:00 pm"
+    },
+    {
+      "category": "Presentation, Project",
+      "title": "Research Project",
+      "weight": "20%",
+      "due_date": "18/10/2024 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "44%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Online Quizzes",
+      "mode": "Activity/ Performance, Written",
+      "category": "Participation/ Student contribution, Quiz, Tutorial/ Problem Set",
+      "weight": "16%",
+      "due_date": "Individual questions are due by 4:00pm Fridays. Collaborative questions are due by the end of your allocated workshop.",
+      "learning_outcomes_assessed": "L02, L05, L06",
+      "task_description": "In each of the ten weeks that there is a workshop there will be a quiz to complete online. Each quiz will involve 10 questions: Five questions are individual questions. These questions will open at 8:00am on Monday and close at 4:00pm on Friday. Most will involve analysing data using RStudio and completing these will be an important opportunity to learn the details of working with RStudio. You are encouraged to discuss these questions using the Ed Discussion Board. Five questions are collaborative questions . These questions will be completed during your allocated workshop. Your best eight quiz marks will each count 2% towards your overall grade (for a maximum of 16%). Read full task description Hide full task description",
+      "submission_guidelines": "Complete via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nAn approved extension will be applied to the individual questions but taken as an exemption from the collaborative questions in the workshop. See ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.\nLate submission\nIf you fail to meet the submission deadline for the individual questions you will not receive any marks unless an extension has been approved. If you are unable to complete the group quiz questions in your workshop then you are welcome to attend a different workshop session during the week instead (space permitting).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "If you fail to meet the submission deadline for the individual questions you will not receive any marks unless an extension has been approved. If you are unable to complete the group quiz questions in your workshop then you are welcome to attend a different workshop session during the week instead (space permitting)."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Paper Review",
+      "mode": "Written",
+      "category": "Essay/ Critique",
+      "weight": "20%",
+      "due_date": "23/08/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "The Paper Review involves finding a scientific paper of interest to you through the library. You can choose any paper you like as long as it has a P-value and a DOI, and was published no earlier than 2021. Each paper can only be reviewed by one student so once you have your paper you must register it through the link on Blackboard. The review consists of two components: A written summary of the use of statistical inference in the paper (10%) A discussion of the ethical issues involved in the study in the form of an essay (10%) Each component should be no more than 500 words. The components will be marked by different tutors so each should be self-contained. Read full task description Hide full task description",
+      "submission_guidelines": "Complete via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nThe late submission penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24 hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Research Project",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Presentation, Project",
+      "weight": "20%",
+      "due_date": "18/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L02, L06, L07",
+      "task_description": "For the Research Project you will design a study, carry it out with a population of virtual subjects to collect your data, and then analyse the results and present them in the form of a presentation, as would be given at a scientific conference. The research project may be completed in groups of up to three students. Your presentation video should be roughly 6 to 8 minutes in length and feature each person in the group talking to camera (separately or together). Further information about creating your video is provided on Blackboard. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nThe late submission penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24 hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "44%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "learning_outcomes_assessed": "L02, L03, L05, L06",
+      "task_description": "The final examination in this course will be held during the end-of-semester examination period. It will be invigilated over Zoom for students in external mode. The final examination will cover the statistical content of the course, as covered in UQ Extend, contacts and workshops. You will be provided with a sheet of useful definitions and formulas. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated by Zoom",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (22 Jul - 28 Jul)",
+      "activity_type": "General contact hours",
+      "topic": "UQ Extend - Module 1 Evidence from data Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (29 Jul - 04 Aug)",
+      "activity_type": "Workshop",
+      "topic": "Workshop 1 Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (29 Jul - 04 Aug)",
+      "activity_type": "General contact hours",
+      "topic": "UQ Extend - Module 2 Ethics in science Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (05 Aug - 11 Aug)",
+      "activity_type": "Workshop",
+      "topic": "Workshop 2 Learning outcomes: L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (05 Aug - 11 Aug)",
+      "activity_type": "General contact hours",
+      "topic": "UQ Extend - Module 3 Exploring data Learning outcomes: L01, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (12 Aug - 18 Aug)",
+      "activity_type": "General contact hours",
+      "topic": "UQ Extend - Module 4 Understanding randomness Learning outcomes: L05, L06",
+      "learning_outcomes": [
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (19 Aug - 25 Aug)",
+      "activity_type": "Workshop",
+      "topic": "Workshop 3 Learning outcomes: L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (19 Aug - 25 Aug)",
+      "activity_type": "General contact hours",
+      "topic": "UQ Extend - Module 5 Sampling distributions Learning outcomes: L05, L06",
+      "learning_outcomes": [
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "Workshop",
+      "topic": "Workshop 4 Learning outcomes: L01, L02, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "General contact hours",
+      "topic": "UQ Extend - Module 6 Statistical inference Learning outcomes: L02, L05, L06",
+      "learning_outcomes": [
+        "L02",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (02 Sep - 08 Sep)",
+      "activity_type": "Workshop",
+      "topic": "Workshop 5 Learning outcomes: L01, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (02 Sep - 08 Sep)",
+      "activity_type": "General contact hours",
+      "topic": "UQ Extend - Module 7 Comparing means Learning outcomes: L02, L05, L06",
+      "learning_outcomes": [
+        "L02",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (09 Sep - 15 Sep)",
+      "activity_type": "Workshop",
+      "topic": "Workshop 6 Learning outcomes: L01, L02, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (09 Sep - 15 Sep)",
+      "activity_type": "General contact hours",
+      "topic": "UQ Extend - Module 8 Regression models Learning outcomes: L02, L05, L06",
+      "learning_outcomes": [
+        "L02",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Workshop",
+      "topic": "Workshop 7 Learning outcomes: L01, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "General contact hours",
+      "topic": "UQ Extend - Module 9 Multiple predictors Learning outcomes: L01, L02, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (30 Sep - 06 Oct)",
+      "activity_type": "General contact hours",
+      "topic": "UQ Extend - Module 10 Experimental design in practice Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (30 Sep - 06 Oct)",
+      "activity_type": "Workshop",
+      "topic": "Workshop 8 Learning outcomes: L01, L02, L03, L05, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (07 Oct - 13 Oct)",
+      "activity_type": "General contact hours",
+      "topic": "UQ Extend - Module 11 Categorical data analysis Learning outcomes: L05, L06",
+      "learning_outcomes": [
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (14 Oct - 20 Oct)",
+      "activity_type": "Workshop",
+      "topic": "Workshop 9 Learning outcomes: L05, L06",
+      "learning_outcomes": [
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (14 Oct - 20 Oct)",
+      "activity_type": "General contact hours",
+      "topic": "UQ Extend - Module 12 Nonparametric methods Learning outcomes: L05, L06",
+      "learning_outcomes": [
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (21 Oct - 27 Oct)",
+      "activity_type": "Workshop",
+      "topic": "Workshop 10 Learning outcomes: L05, L06",
+      "learning_outcomes": [
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (21 Oct - 27 Oct)",
+      "activity_type": "General contact hours",
+      "topic": "Case Studies and Revision Learning outcomes: L01, L02, L03, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

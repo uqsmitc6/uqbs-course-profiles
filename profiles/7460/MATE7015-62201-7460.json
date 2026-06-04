@@ -1,0 +1,243 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATE7015-62201-7460",
+  "scraped_at": "2026-06-04T01:05:53.716359+00:00",
+  "course_code": "MATE7015",
+  "class_code": "62201",
+  "semester_code": "7460",
+  "full_course_code": "MATE7015-62201-7460",
+  "course_title": "Additive Manufacturing",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "Additive Manufacturing (AM), also known as 3D printing, is growing at a rapid rate, with global manufacturers increasingly realising the benefits of producing parts by AM. According to recent studies, the AM market has observed significant growth, with a projected compound annual growth rate (CAGR) of 18.2% and a valuation of USD 13.89 billion in 2021. It is expected to reach $76.2 billion by 2030, representing a 20.9% CAGR (2022-2030). The AM industry's significant growth trajectory indicates a promising future, driven by its increasing adoption as a mainstream manufacturing process, which offers attractive advantages, including reduced production time and costs, and the ability to create complex designs with superior functionality. An example is newly optimised 3D printed metal aircraft brackets that are 50% lighter, use 90% less material and 90% less energy to produce compared to the equivalent bracket currently produced by machining. Given that AM will continue to grow, future engineers must adapt to this revolutionary manufacturing process, so now is a timely opportunity to introduce a dedicated course that prepares our graduates to work with this technology.\n\nIndustry and society are undergoing rapid change as a result of digital transformation. Enhanced digital capability has enabled Additive Manufacturing (AM) to emerge as an important technology that is increasing in prominence as an agile manufacturing pathway promoting customisation and design flexibility. This course will introduce AM technologies and applications. Students will also be introduced to computer-aided design processes associated with AM and will learn to appreciate new design opportunities made possible by additive manufacturing. Through this course, students will gain practical experience in the design and additive manufacturing of an engineering component, developing their hands-on skills and knowledge in this cutting-edge technology.",
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Matthew Dargusch",
+      "email": "m.dargusch@uq.edu.au",
+      "phone": "+61 7 3346 9225",
+      "notes": "Please email to arrange a consultaiton time."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Matthew Dargusch",
+      "email": "m.dargusch@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Chi-Ho Ng",
+      "email": "chiho.ng@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Jeffrey Venezuela",
+      "email": "j.venezuela@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Yuan Wang",
+      "email": "yuan.wang@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course, Additive Manufacturing (AM), seeks to immerse students in the rapidly evolving field of AM, providing a comprehensive introduction to its fundamental concepts, techniques, and applications. Students will gain a thorough understanding of the various AM technology families, including their underlying processes, benefits, limitations, and real-world applications. The course will also explore the distinct areas of metal, polymer, ceramic, and composite additive manufacturing, providing a broad and in-depth knowledge of the subject matter. In this course, students will be introduced to computer-aided design processes essential for AM and emerging design approaches. The primary technical learning outcomes will be addressed through a combination of learning strategies, including online lectures, active learning CAD activities and a series of project-based AM tasks and case studies.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand additive manufacturing processes - Develop a deep understanding of the 7 ASTM families of additive manufacturing technologies including fundamental processes, advantages, limitations and applications."
+    },
+    {
+      "number": "LO2.",
+      "description": "Understand additive manufacturing processes - Learn when and how additive manufacturing processes are most applicable including understanding the cost and design drivers, which determine if additive manufacturing is an appropriate manufacturing route."
+    },
+    {
+      "number": "LO3.",
+      "description": "Understand additive manufacturing processes - Analyse potential additive manufacturing product opportunities and evaluate appropriate processes."
+    },
+    {
+      "number": "LO4.",
+      "description": "Understand additive manufacturing processes - Develop knowledge about the materials suitable for additive manufacturing and the physics behind their processing."
+    },
+    {
+      "number": "LO5.",
+      "description": "Understand additive manufacturing processes - Understand how material properties and defects may be influenced by manufacturing processes."
+    },
+    {
+      "number": "LO6.",
+      "description": "Apply computer-aided design tools for additive - Effectively design and create components using additive manufacturing processes."
+    },
+    {
+      "number": "LO7.",
+      "description": "Apply computer-aided design tools for additive - Prepare a component for 3D printing considering optimal build orientation, support generation and processing parameters."
+    },
+    {
+      "number": "LO8.",
+      "description": "Apply computer-aided design tools for additive - Understand the principles of operation of additive manufacturing machines."
+    },
+    {
+      "number": "LO9.",
+      "description": "Apply computer-aided design tools for additive - Appreciate the role of numerical simulation tools in the optimisation of AM components."
+    },
+    {
+      "number": "LO10.",
+      "description": "Apply computer-aided design tools for additive - Use available design optimisation tools such as topology optimisation and generative design."
+    },
+    {
+      "number": "LO11.",
+      "description": "Solve engineering problems - Demonstrate ability to approach a complex design problem."
+    },
+    {
+      "number": "LO12.",
+      "description": "Solve engineering problems - Use computer-aided design tools and engineering knowledge to design, prototype and optimize a component based on the initial set of requirements."
+    },
+    {
+      "number": "LO13.",
+      "description": "Communicate effectively in an engineering context - Demonstrate engineering-standard written, oral and graphical communication skills."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation, Tutorial/ Problem Set",
+      "title": "CAD Essentials for Additive Manufacturing",
+      "weight": "10%",
+      "due_date": "19/08/2024 1:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Product/ Design, Project, Tutorial/ Problem Set",
+      "title": "Design Project Report",
+      "weight": "30%",
+      "due_date": "14/10/2024 1:00 pm"
+    },
+    {
+      "category": "Presentation",
+      "title": "Video Presentation",
+      "weight": "10%",
+      "due_date": "21/10/2024 1:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "CAD Essentials for Additive Manufacturing",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Tutorial/ Problem Set",
+      "weight": "10%",
+      "due_date": "19/08/2024 1:00 pm",
+      "learning_outcomes_assessed": "L06, L07, L08",
+      "task_description": "Students will be assessed on their ability to operate Autodesk Fusion 360, create a simple component, and prepare it for additive manufacturing. The fundamental skills required for completing this assessment will be introduced in the active learning sessions from Week 2 to Week 4. Students will have opportunities to familiarise themselves with these essential skills and seek the help of peers and course staff. A single individual online submission of the completed exercise will be required for assessment. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via TurnItIn on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nFeedback is provided to students following 7 calendar days to permit students to progress with follow up assessment.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Design Project Report",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Paper/ Report/ Annotation, Product/ Design, Project, Tutorial/ Problem Set",
+      "weight": "30%",
+      "due_date": "14/10/2024 1:00 pm",
+      "learning_outcomes_assessed": "L02, L03, L05, L09, L10, L11, L12, L13",
+      "task_description": "The design project requires students to demonstrate their understanding of additive manufacturing techniques, CAD design skills, component optimisation, and project planning. Students should communicate weekly with course staff and use the allocated time to progress on the project. The project's assessment will be based on a single individual submission of a report and design files. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via TurnItIn on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nFeedback is provided to students following 7 calendar days.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Video Presentation",
+      "mode": "Oral, Product/ Artefact/ Multimedia",
+      "category": "Presentation",
+      "weight": "10%",
+      "due_date": "21/10/2024 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L13",
+      "task_description": "Students will be required to prepare and submit a video, including an oral presentation on a topic of their choice related to additive manufacturing, and deliver it to a non-expert audience. The presentation brief will be made available to students via Blackboard. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nFeedback is provided to students following 7 calendar days.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Centrally managed closed book 120 minutes examination + 10 minutes planning time. Students will sit the examination on Campus. Materials permitted in the exam venue: Calculators - Casio FX82 series or UQ approved (labelled) Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series or UQ approved , labelled calculator only Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Not Timetabled",
+      "topic": "Other Activities (Self Directed Learning) Other activities will consist of a series of online videos and case studies. Learning outcomes: L01, L02, L03, L04, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Online Weekly Lectures (Lecture series) The one-hour weekly pre-recorded lectures are used to introduce you to the fundamentals of additive manufacturing technologies and their applications and limitations. It is expected that you apply the knowledge acquired in the lectures to complete other course activities. Learning outcomes: L01, L02, L03, L04, L05, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Problem-based learning",
+      "topic": "Project-Based Learning Sessions (PBL) The two-hour weekly workshop sessions will consist of a combination of the following activities. Q&A sessions: The weekly PBL sessions will include time for questions and answers with course staff and guest lecturers. Throughout the semester, students will have the opportunity to ask questions related to the lecture recording on a dedicated subject. This will be an opportunity to reinforce the theory of the material studied online. Tutorials: These active learning tutorial sessions will teach you the essential skills of CAD design and preparation for AM and introduce you to some of the key concepts required for the design project, such as topological optimization and more advanced CAD techniques. Design project sessions: From Week 5 to Week 11, some of the time allocated to the weekly two-hour slots will be dedicated to the design project assignment. During this time, you should make progress on your design and seek assistance if required. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

@@ -1,0 +1,279 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CIVL3155-60571-7460",
+  "scraped_at": "2026-06-04T00:51:55.765804+00:00",
+  "course_code": "CIVL3155",
+  "class_code": "60571",
+  "semester_code": "7460",
+  "full_course_code": "CIVL3155-60571-7460",
+  "course_title": "Hydrology and Free Surface Flows",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Civil Engineering School",
+  "course_description": "This is an introductory level course that builds on the topics covered in the introductory environmental fluid mechanics to provide the fundamental principles that underpin the design and analysis of natural and engineered waterways, such as rivers, water supply canals, dam spillways, weirs, and culverts. Topics include water engineering and the hydrological cycle, hydrological measurement and statistics, design rainfall patterns, temporal patterns and rainfall-runoff models, flow routing and channel routing, introduction to free surface flows, energy and momentum in open channel flow, friction and flow resistance laws, uniform flows in channels and physical modelling of free surface flows. The course includes a set of laboratory practicals, a field trip, and a guest lecture on current industry approaches to modelling free surface flows.\n\nHydrology is the study of the distribution and fate of water in time and space as it progresses through the water cycle. This includes analysis of extreme events such as droughts and floods as they relate to the design of water supply systems and civil engineering infrastructure. An understanding of hydrological processes is the foundation of modern water resource management. Hydrological concepts also provide the starting point for the examination of Catchment Hydraulics, free-surface flows and the design of hydraulic structures that convey these flows. A wide variety of free surface flows occur in the natural and built environment, ranging from tranquil river flows to flash floods, and from quiet backwaters upstream of weirs to intense turbulence in energy dissipators downstream of spillways. Topics covered in the course include:\n\n1. Rainfall and runoff generation processes;\n\n2. Hydrological statistics and risk;\n\n3. Characterisation and analysis of free-surface flows;\n\n4. Mass, energy and momentum conservation applied to fluid flow engineering problems;\n\n5. Physical and numerical modelling of free-surface flows; and\n\n6. Analysis and design of water conveyance systems.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ENGG1400",
+      "ENGG1700",
+      "MATH1051",
+      "MATH1071",
+      "MATH1052",
+      "MATH1072",
+      "We recommend completing the following courses before enrolling in this one:",
+      "CIVL2530"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "CIVL3120",
+      "CIVL2140",
+      "CIVL3140",
+      "CIVL3141",
+      "CIVL3110"
+    ]
+  },
+  "course_staff": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Badin Gibbes",
+      "email": "b.gibbes@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Badin Gibbes",
+      "email": "b.gibbes@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Tom Baldock",
+      "email": "t.baldock@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThis course includes an optional excursion to the Wivenhoe Dam on Thursday of week 7 (Thu 5 September 2024). More information will be provided in lecutres.",
+  "course_aims": "The aim of the course is to develop the capacity to explain the components of the hydrologic cycle and interpret, analyse and predict free-surface flows in both natural and engineered channels. Application of fluid mechanics principles in combination with approaches used by engineers to collect, assess and apply hydrological and hydraulic information will be used to solve civil and environmental engineering design problems including design for extreme events such as floods and drought. The course also aims to provide students with the ability to apply this understanding to contribute to hydrological engineering projects in professional practice. The course introduces students to hydrologic and hydraulic engineering applications relevant to their future careers, particularly waterway and water resource engineering, and aims to achieve the learning objectives set out below.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain the key components of the hydrological cycle and the purpose of hydrological analysis at a level of detail consistent with professional engineering practice, including the ability to provide examples to aid in their explanation."
+    },
+    {
+      "number": "LO2.",
+      "description": "Efficiently source, describe and critically assess basic hydrological information."
+    },
+    {
+      "number": "LO3.",
+      "description": "Successfully apply engineering analysis tools to aid in computation and analysis of engineering problems including estimating the flood hydrograph from a set of contributing sub-catchments, calculating water balances for a range of hydrological scenarios, performing dynamic water balances as the basis to predict flood attenuation through simple storages as well the estimation of maximum sustainable yields from different water resource systems."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply catchment scale hydrologic concepts to estimate design flood flows the preliminary design of flood control systems for small catchments including the application of rainfall data to predict flood flows."
+    },
+    {
+      "number": "LO5.",
+      "description": "Correctly apply the continuity, momentum and energy principles to steady open channel flows and common hydraulic structures."
+    },
+    {
+      "number": "LO6.",
+      "description": "Correctly determine appropriate friction coefficients for engineered channels and natural systems, and apply these to complex channel geometry."
+    },
+    {
+      "number": "LO7.",
+      "description": "Assess and calculate uniform flow conditions for open channel flow and design channels to carry a given discharge."
+    },
+    {
+      "number": "LO8.",
+      "description": "Correctly distinguish the differences between uniform, gradually varied and rapidly varied flow in open channels and to correctly apply different techniques to predict flow conditions and solve practical problems."
+    },
+    {
+      "number": "LO9.",
+      "description": "Successfully work within a team to collect, synthesise and analyse laboratory and field data and report that information in a clear, concise, timely and professional manner."
+    },
+    {
+      "number": "LO10.",
+      "description": "Improve your ability to manage your learning, to reflect on your own learning and improve your study approach."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Laboratory reports",
+      "weight": "12%",
+      "due_date": "Laboratory practical 1 5/08/2024 - 2/09/2024; Laboratory practical 2 9/09/2024 - 14/10/2024",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "Quizzes",
+      "weight": "10%",
+      "due_date": "In-class quiz (CAFS) 12/08/2024 9:50 am; In-class quiz (CAFS) 2/09/2024 9:50 am; In-class quiz (CAFS) 30/09/2024 9:50 am; Students must be able to access the Zoom class and TurningPoint polling to receive marks.",
+      "conditions": [
+        "In-person",
+        "Online"
+      ]
+    },
+    {
+      "category": "Project",
+      "title": "Team Project",
+      "weight": "28%",
+      "due_date": "22/07/2024 - 18/10/2024; Assessment due before 1:00 pm on day of submission.",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Laboratory reports",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "12%",
+      "due_date": "Laboratory practical 1 5/08/2024 - 2/09/2024 Laboratory practical 2 9/09/2024 - 14/10/2024",
+      "learning_outcomes_assessed": "L05, L06, L07, L08, L09, L10",
+      "task_description": "Two individual written reports, one for each practical class. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Assessment is due at the end of each practical on the day of the practical. No late submission shall be accepted. In practice, the students are asked to submit before 16:50 and they are assessed on whatever is completed.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nIf a student is not able to attend for any valid reason, they can make up the practical at any time within the 4 weeks window when the practical is run.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Two individual written reports, one for each practical class. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Quizzes",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "10%",
+      "due_date": "In-class quiz (CAFS) 12/08/2024 9:50 am In-class quiz (CAFS) 2/09/2024 9:50 am In-class quiz (CAFS) 30/09/2024 9:50 am Students must be able to access the Zoom class and TurningPoint polling to receive marks.",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L03, L04, L05, L06, L07, L08",
+      "task_description": "CAFS (Concept Assessment and Feedback Sessions) - CAFS are in-class quizzes that will lead students through the parts of previous exam questions or tutorial questions, while assessing progress both individually, followed by feedback on the questions, before moving onto the next step of the problem. The aim is to provide feedback on students' learning of the concepts that underlie the course content and exam questions. Solutions to the CAFS questions are provided after the quizzes and students are welcome to discuss them further in tutorials and contact sessions. Assessment will be by Multiple Choice Questions, using polling via TurningPoint (also called Point Solutions) responseware (virtual \"clickers\" on mobile phone, tablet or browser). The quiz will be run live over Zoom and TurningPoint, during scheduled lecture sessions. Students may work in pairs or small groups. Final marks will be based on the scores for the best 2 out of 3 quizzes to account for one off technology issues or absence. Re-weighting of marks will apply if more than one quiz is missed for approved reasons. Dates for CAFS classes are given in the lecture schedule on Blackboard, but are subject to change (at least one week notice of a change will be given). This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Assessment will be by Multiple Choice Questions, using polling via TurningPoint (also called Point Solutions) responseware (virtual \"clickers\" on mobile phone, tablet or browser). The quiz will be run live over Zoom and TurningPoint, during scheduled lecture sessions.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nThere is no late submission or deferred assessment for the quizzes, which must be completed live in the scheduled lecture session. This cannot be done in a delayed lecture viewing timeslot.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "CAFS (Concept Assessment and Feedback Sessions) - CAFS are in-class quizzes that will lead students through the parts of previous exam questions or tutorial questions, while assessing progress both individually, followed by feedback on the questions, before moving onto the next step of the problem. The aim is to provide feedback on students' learning of the concepts that underlie the course content and exam questions. Solutions to the CAFS questions are provided after the quizzes and students are welcome to discuss them further in tutorials and contact sessions. Assessment will be by Multiple Choice Questions, using polling via TurningPoint (also called Point Solutions) responseware (virtual \"clickers\" on mobile phone, tablet or browser). The quiz will be run live over Zoom and TurningPoint, during scheduled lecture sessions. Students may work in pairs or small groups. Final marks will be based on the scores for the best 2 out of 3 quizzes to account for one off technology issues or absence. Re-weighting of marks will apply if more than one quiz is missed for approved reasons. Dates for CAFS classes are given in the lecture schedule on Blackboard, but are subject to change (at least one week notice of a change will be given). This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "In-person",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Team Project",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "28%",
+      "due_date": "22/07/2024 - 18/10/2024 Assessment due before 1:00 pm on day of submission.",
+      "other_conditions": "Peer assessment factor. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L09, L10",
+      "task_description": "In teams of 4 students perform various hydrological analyses in response to a project briefing document. The briefing document for this assessment item will be available via the course Blackboard site. Peer assessment will be used and students will also need to complete an individual learning reflection report. This task has been designed to be challenging, authentic and complex. Students are encouraged to regularly engage with course staff during tutorial and on-line via the course Blackboard site to discuss the project and receive feedback on their draft solutions. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Assessment must be submitted through the course BlackBoard site\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "In teams of 4 students perform various hydrological analyses in response to a project briefing document. The briefing document for this assessment item will be available via the course Blackboard site. Peer assessment will be used and students will also need to complete an individual learning reflection report. This task has been designed to be challenging, authentic and complex. Students are encouraged to regularly engage with course staff during tutorial and on-line via the course Blackboard site to discuss the project and receive feedback on their draft solutions. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "The final exam will cover the entire semester's work and include a combination of multiple choice and short answer questions. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 180 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Open Book examination Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The final exam will cover the entire semester's work and include a combination of multiple choice and short answer questions. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorials A 13-week set of tutorials focused on problem-based learning activities. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Practical",
+      "topic": "Laboratory practicals Analysis of fluid flow in laboratory settings. Learning outcomes: L05, L06, L07, L08, L09",
+      "learning_outcomes": [
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lecture series A 13 week set of lectures providing theory and problem-based learning activities. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (02 Sep - 08 Sep)",
+      "activity_type": "Fieldwork",
+      "topic": "Field trip A non-compulsory field trip within a local catchment with accompanying design calculations Learning outcomes: L01, L02, L03, L04, L05, L07, L09, L10",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L07",
+        "L09",
+        "L10"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . You'll also need to be aware of the following policies and procedures while completing this course: Laboratory Occupational Health and Safety School guidelines Your school has additional guidelines you'll need to follow for this course: School of Civil Engineering School Guidelines Learning activities"
+}

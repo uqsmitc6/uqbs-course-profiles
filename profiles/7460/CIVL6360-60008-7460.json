@@ -1,0 +1,165 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CIVL6360-60008-7460",
+  "scraped_at": "2026-06-04T00:52:18.704135+00:00",
+  "course_code": "CIVL6360",
+  "class_code": "60008",
+  "semester_code": "7460",
+  "full_course_code": "CIVL6360-60008-7460",
+  "course_title": "Advanced Structural Analysis",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Civil Engineering School",
+  "course_description": "Structural engineers around the world depend on reliable and effective structural analysis to study the behaviour of complex structures and to design them. Numerical methods play a key role in modern day structural analysis, and enable structural engineers to effectively use geometry and material combinations to design efficient structures. This course will provide knowledge on the theory of finite element (FE) methods their applications to structures and other civil engineering problems by the use of open-source finite element software. The key focus of the course will be on the practical aspects of applying the FE method appropriately to structural analysis and design. Students will be equipped with the fundamentals of finite element principles that will enable them to understand the behaviour of various finite elements so as to be able to select appropriate elements to analyse structural problems. Series of examples on the use of FE in design of structures (using an open-source FE software) will be presented to demonstrate the use of FE in structural design. Students will also complete the design of a real-world structure, thereby obtaining hands-on experience on the use of FE method for analysis and design of structures.\n\nThis is an advanced course offering students the finite element method and its application in structural analysis with emphasis on manual calculation",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CIVL3340"
+    ],
+    "companions": [
+      "We recommend completing the following courses at the same time:",
+      "CIVL2360",
+      "CIVL3360",
+      "CIVL3350",
+      "CIVL3390",
+      "CIVL3380",
+      "CIVL4333",
+      "CIVL4334"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Johnny Ho",
+      "email": "johnny.ho@uq.edu.au",
+      "phone": "+61 7 3443 6248"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Johnny Ho",
+      "email": "johnny.ho@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Chien Ming Wang",
+      "email": "cm.wang@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Phu Nguyen",
+      "email": "huuphu.nguyen@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The course aims to enhance student's knowledge in structural engineering. This course will specifically focus on enhancing the students understanding about theory behind finite element analysis for structural engineering problem solving.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "ANALYTICAL: Apply fundamental principles and analysis techniques to identify, idealize and solve advanced problems in structural engineering."
+    },
+    {
+      "number": "LO2.",
+      "description": "CONCEPTUAL: Understand the fundamental concepts in structural mechanics and analysis and transform analysis results to design scenarios."
+    },
+    {
+      "number": "LO3.",
+      "description": "CRITICAL THINKING: Compare, evaluate and query analysis results and develop insight into structural response under various actions."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignments series",
+      "weight": "40%",
+      "due_date": "Assignment 1 - weighted residual integral 12/08/2024 4:00 pm; Assignment 2 - beam deflection 19/08/2024 4:00 pm; Assignment 3 - FEM formulation 26/08/2024 4:00 pm; Assignment 4 - axial bar element 2/09/2024 4:00 pm; Assignment 5 - heat transfer 9/09/2024 4:00 pm; Assignment 6 - Euler-Bernoulli beam element 16/09/2024 4:00 pm; Assignment 7 - Eigenvalue problem (beam vibration) 30/09/2024 4:00 pm; Assignment 8 - Eigenvalue problem (column buckling) 8/10/2024 4:00 pm; Assignment 9 - two-dimensional plate exact analysis 14/10/2024 4:00 pm; Assignment 10 - two dimension plate FEM analysis 21/10/2024 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignments series",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "40%",
+      "due_date": "Assignment 1 - weighted residual integral 12/08/2024 4:00 pm Assignment 2 - beam deflection 19/08/2024 4:00 pm Assignment 3 - FEM formulation 26/08/2024 4:00 pm Assignment 4 - axial bar element 2/09/2024 4:00 pm Assignment 5 - heat transfer 9/09/2024 4:00 pm Assignment 6 - Euler-Bernoulli beam element 16/09/2024 4:00 pm Assignment 7 - Eigenvalue problem (beam vibration) 30/09/2024 4:00 pm Assignment 8 - Eigenvalue problem (column buckling) 8/10/2024 4:00 pm Assignment 9 - two-dimensional plate exact analysis 14/10/2024 4:00 pm Assignment 10 - two dimension plate FEM analysis 21/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Assessment must be submitted through the course BlackBoard site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSubmit your request through My UQ\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nSubmit your request via my UQ",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "The final exam will include conventional problem-solving calculation questions. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 180 minutes Calculator options Any calculator permitted Open/closed book Open Book examination Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The final exam will include conventional problem-solving calculation questions. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 6 (22 Jul - 01 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Theory of Finite Element Method (FEM) (Lecture & Tutorial Series) Theory of FEM on structural beams & frames frames, dynamics and heat transfer problem Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 7 To Week 9 (02 Sep - 22 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Application of Finite Element Method (FEM) (Lecture & Tutorial Series) Application of FEM to structural beams & frames frames, dynamics and heat transfer problem Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 10 To Week 13 (30 Sep - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Exact analysis and Finite Element Method for plates (FEM) (Lecture & Tutorial Series) Theory and Applications of FEM for Plates Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: School of Civil Engineering School Guidelines Learning activities"
+}

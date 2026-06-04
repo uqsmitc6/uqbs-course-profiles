@@ -1,0 +1,318 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MECH6480-62277-7460",
+  "scraped_at": "2026-06-04T01:07:07.910903+00:00",
+  "course_code": "MECH6480",
+  "class_code": "62277",
+  "semester_code": "7460",
+  "full_course_code": "MECH6480-62277-7460",
+  "course_title": "Computational Fluid Dynamics",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "Computational Fluid Dynamics (CFD) for engineering applications. Development of computational techniques for analysis of complex engineering processes by bringing together the knowledge gained in one or more of the following disciplines: fluid mechanics, thermodynamics, heat/mass transfer and numerical methods.\n\nThe student is introduced to the modelling and simulation techniques that are part of modern computational fluid dynamics (CFD) software. A CFDﾠ package is used to analyse ﾠcompressible flow situations.\n\nYou should plan to spend at least 10 hours per week on this course in order to obtain a passing grade.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MECH3400",
+      "MECH2410",
+      "MECH3410",
+      "MECH2700",
+      "MECH3750",
+      "MECH3780"
+    ],
+    "companions": [
+      "You'll need to complete the following courses at the same time:",
+      "MECH3410"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MECH4480",
+      "MECH7480"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Rowan Gollan",
+      "email": "r.gollan@uq.edu.au",
+      "phone": "+61 7 3365 3851",
+      "notes": "Consultation hour: 11am-12pm on Fridays."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Rowan Gollan",
+      "email": "r.gollan@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Travis Mitchell",
+      "email": "t.mitchell@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The purpose of this course is to introduce you to the principles of ComputationalﾠFluid Dynamics and associated tools and to show you how to apply these in an engineering context in order to generate high quality simulations.ﾠ",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Demonstrate competence in numerical methods for fluid dynamic problems - Explain why CFD is used to solve fluid dynamic problems."
+    },
+    {
+      "number": "LO2.",
+      "description": "Demonstrate competence in numerical methods for fluid dynamic problems - Explain the advantages and limitations of CFD."
+    },
+    {
+      "number": "LO3.",
+      "description": "Demonstrate competence in numerical methods for fluid dynamic problems - Explain spatial and temporal discretisation in a finite volume context."
+    },
+    {
+      "number": "LO4.",
+      "description": "Demonstrate competence in numerical methods for fluid dynamic problems - Explain the operation of different boundary conditions."
+    },
+    {
+      "number": "LO5.",
+      "description": "Demonstrate competence in numerical methods for fluid dynamic problems - Explain the principles behind numerical methods for solving incompressible flow problems."
+    },
+    {
+      "number": "LO6.",
+      "description": "Demonstrate competence in numerical methods for fluid dynamic problems - Explain the principles behind numerical methods for solving compressible flow problems."
+    },
+    {
+      "number": "LO7.",
+      "description": "Demonstrate competence in numerical methods for fluid dynamic problems - Explain turbulence modelling used for Reynolds Averaged Navier Stokes (RANS) simulations."
+    },
+    {
+      "number": "LO8.",
+      "description": "Demonstrate competence in numerical methods for fluid dynamic problems - Demonstrate familiarity with advanced CFD methods, such as LES, DNS, multi-phase VoF, dynamic meshes."
+    },
+    {
+      "number": "LO9.",
+      "description": "Create and alter CFD tools - Implement numerical methods for simulating flows in one- and two-dimensions, inviscid and viscous."
+    },
+    {
+      "number": "LO10.",
+      "description": "Create and alter CFD tools - Write and maintain source code for the simulation of flows."
+    },
+    {
+      "number": "LO11.",
+      "description": "Create and alter CFD tools - Create tools to automate pre- and post-processing of CFD results."
+    },
+    {
+      "number": "LO12.",
+      "description": "Create and alter CFD tools - Apply verification and validation techniques to assure the quality of numerical tools and solutions."
+    },
+    {
+      "number": "LO13.",
+      "description": "Apply CFD software - Construct meshes for CFD simulations."
+    },
+    {
+      "number": "LO14.",
+      "description": "Apply CFD software - Evaluate and improve mesh quality."
+    },
+    {
+      "number": "LO15.",
+      "description": "Apply CFD software - Apply generic principles of CFD when using a specific CFD package."
+    },
+    {
+      "number": "LO16.",
+      "description": "Apply CFD software - Demonstrate ability to select appropriate methods for fluid dynamics simulations."
+    },
+    {
+      "number": "LO17.",
+      "description": "Apply CFD software - Formulate solution approaches for compressible flow using a research CFD package, specifically Eilmer."
+    },
+    {
+      "number": "LO18.",
+      "description": "Evaluate numerical predictions - Appraise the quality of CFD meshes."
+    },
+    {
+      "number": "LO19.",
+      "description": "Evaluate numerical predictions - Apply numerical tools to estimate engineering quantities of interest."
+    },
+    {
+      "number": "LO20.",
+      "description": "Evaluate numerical predictions - Appraise the quality of CFD simulation results."
+    },
+    {
+      "number": "LO21.",
+      "description": "Evaluate numerical predictions - Use simulation results to create improved designs."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Homework exercises",
+      "weight": "10%",
+      "due_date": "Homework exercises are due at 10:00am on Mondays in Weeks 2-13, excluding Week 5 because of the interruption to teaching due to the Exhibition holiday in Week 4. These Mondays are chosen to follow the previous week's tutorial on the Friday."
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "ASSIGNMENT 1: 2-D Flow Solver",
+      "weight": "15%",
+      "due_date": "17/09/2024 2:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "ASSIGNMENT 2: Simulation of compressible Flow",
+      "weight": "25%",
+      "due_date": "25/10/2024 2:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Homework exercises",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "10%",
+      "due_date": "Homework exercises are due at 10:00am on Mondays in Weeks 2-13, excluding Week 5 because of the interruption to teaching due to the Exhibition holiday in Week 4. These Mondays are chosen to follow the previous week's tutorial on the Friday.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19, L20",
+      "task_description": "The homework exercises for submission will be noted on the weekly tutorial worksheets. The submissions will take the form of computer source code, text responses and figures/graphs. Each submission is worth 1%, but your total marks are capped at 10%. Your overall mark for homework exercises will be computed as the best 10 out of 11 submissions over the semester. Read full task description Hide full task description",
+      "submission_guidelines": "Submit on Gradescope (with link on Blackboard).\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThe best 10 out of 11 submissions over the semester will be counted.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nResults released promptly to permit students to progress with follow up submissions.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late ."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "ASSIGNMENT 1: 2-D Flow Solver",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "15%",
+      "due_date": "17/09/2024 2:00 pm",
+      "learning_outcomes_assessed": "L03, L04, L05, L09, L10, L11, L12, L19, L20",
+      "task_description": "This assignment will assess content in Modules 1 and 2 through implementation and application of a two-dimensional flow solver. The full assignment specification and criteria will be available on the Blackboard course page. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via Gradescope (with link provided on Blackboard).\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFeedback is provided to students following 14 calendar days.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "ASSIGNMENT 2: Simulation of compressible Flow",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "25%",
+      "due_date": "25/10/2024 2:00 pm",
+      "learning_outcomes_assessed": "L04, L06, L11, L12, L13, L14, L15, L16, L17, L18, L19, L20, L21",
+      "task_description": "This assignment will assess you ability to perform and interpret simulations of compressible flows. You will use the Eilmer compressible flow tool. The submission format is a short report. The full assignment specification will be released on the Blackboard course page. Read full task description Hide full task description",
+      "submission_guidelines": "Submit on Gradescope (with link on Blackboard).\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFeedback is provided to students following 14 calendar days.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L08, L16, L18, L20",
+      "task_description": "The final exam is a paper-based handwritten examination that assesses the concepts presented in all modules (1, 2 & 3) of the course. The final exam is closed book. Students are only permitted to use Casio FX82 series or UQ approved (labelled) calculators in this examination. You will require 40% or higher in the final exam in order to get a grade of 4 or above in the course. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series or UQ approved , labelled calculator only Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 4 (22 Jul - 18 Aug)",
+      "activity_type": "Workshop",
+      "topic": "MODULE 1: CFD in a microcosm Introduction to CFD by building a simple one-d flow solver. This introduces: finite-volume method for Navier-Stokes equations; boundary conditions; discretisation; numerical stability; and measures of convergence. Learning outcomes: L03, L04, L05, L10, L11, L12, L19, L20",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05",
+        "L10",
+        "L11",
+        "L12",
+        "L19",
+        "L20"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (29 Jul - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorials Tutorials: These sessions are structured around a worksheet and are self-paced. Staff may lead demonstrations on certain aspects of the worksheet exercises. Some of the worksheet exercises contribute towards the weekly homework assignments. In the weeks prior to major assignments, staff are available to give assignment advice in these sessions. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19, L20",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13",
+        "L14",
+        "L15",
+        "L16",
+        "L17",
+        "L18",
+        "L19",
+        "L20"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 5 To Week 8 (19 Aug - 15 Sep)",
+      "activity_type": "Workshop",
+      "topic": "MODULE 2: D.I.Y Navier-Stokes solver Learn about numerical algorithms for Euler and Navier-Stokes equations through a Do-It-Yourself approach: by building your own flow solver. Also covered in this module is grid generation, and verification and validation. Learning outcomes: L06, L09, L10, L11, L12, L13, L16, L19, L20",
+      "learning_outcomes": [
+        "L06",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13",
+        "L16",
+        "L19",
+        "L20"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 9 To Week 13 (16 Sep - 27 Oct)",
+      "activity_type": "Workshop",
+      "topic": "MODULE 3: Compressible Flow Learn about solving compressible flows (Eilmer); Learn to write source code for compressible solvers Learning outcomes: L06, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19, L20, L21",
+      "learning_outcomes": [
+        "L06",
+        "L10",
+        "L11",
+        "L12",
+        "L13",
+        "L14",
+        "L15",
+        "L16",
+        "L17",
+        "L18",
+        "L19",
+        "L20",
+        "L21"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

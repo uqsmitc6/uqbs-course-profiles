@@ -1,0 +1,261 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE2310-61594-7460",
+  "scraped_at": "2026-06-04T00:54:09.664344+00:00",
+  "course_code": "CSSE2310",
+  "class_code": "61594",
+  "semester_code": "7460",
+  "full_course_code": "CSSE2310-61594-7460",
+  "course_title": "Computer Systems Principles and Programming",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Systems Programming in C. Operating Systems Principles: memory management, basics of machine organization, file systems, processes and threads, interprocess communication. Computer Networks Principles: topologies and models of computer networks, protocols, network programming, network applications.\n\nCSSE2310 is an introduction to UNIX (Linux), the principles of computer systems (networks and operating systems) and systems programming in C.\n\nYou will learn about the basics of operating systems (processes, threads, virtual memory, file systems etc.) in the context of the Linux operating system; and the basics of networking in the context of important Internet protocols (TCP, IP etc.). You will learn how the operating system provides these services to user programs by way of system calls and you will write C programs that use these services - including programs that create and manage multiple processes/threads that communicate with each other - even across a network.ﾠ\n\nYou will also become familiar with a Linux command line environment (shell) and be able to write common commands and simple shell scripts.ﾠﾠ",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE1001",
+      "ENGG1001",
+      "We recommend completing the following courses before enrolling in this one:",
+      "CSSE2010"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP2303",
+      "COMP7306",
+      "CSSE7231",
+      "This course is jointly-taught with:"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Peter Sutton",
+      "email": "csse2310@uq.edu.au",
+      "notes": "Consultation details will be made available on Blackboard."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Peter Sutton"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nStudents should signup to one (2 hour) PRA session. Note these sessions start in\nWeek 1\n.",
+  "course_aims": "The main goal of this course is to produce students who are competent C systems programmers who have a good understanding of how the underlying operating systems and networks work.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Use a UNIX (Linux) shell and write commands and simple shell scripts to perform common tasks, including modifying file permissions."
+    },
+    {
+      "number": "LO2.",
+      "description": "Write, compile, run and debug C programs in a UNIX (Linux) environment."
+    },
+    {
+      "number": "LO3.",
+      "description": "Use the Subversion version control system, including being able to identify appropriate commands for various operations and write appropriate SVN commit messages."
+    },
+    {
+      "number": "LO4.",
+      "description": "Write C programs that access file systems and perform input/output using Standard C library calls and underlying system calls."
+    },
+    {
+      "number": "LO5.",
+      "description": "Write and analyse C programs that create and control processes and threads."
+    },
+    {
+      "number": "LO6.",
+      "description": "Evaluate and implement different methods of inter-process and inter-thread communication and coordination."
+    },
+    {
+      "number": "LO7.",
+      "description": "Explain, contrast and be able to perform calculations on the properties/relationships/addressing schemes of layers in the IP networking stack and important protocols used on the Internet."
+    },
+    {
+      "number": "LO8.",
+      "description": "Write network client and server programs using the sockets API."
+    },
+    {
+      "number": "LO9.",
+      "description": "Predict the behaviour of, and perform calculations about, virtual memory systems and file systems."
+    },
+    {
+      "number": "LO10.",
+      "description": "Apply principles of secure and defensive programming to C programs"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code",
+      "title": "Assignment One - Introductory C Programming",
+      "weight": "15%",
+      "due_date": "23/08/2024 3:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Computer Code, Quiz",
+      "title": "Assignment Two - Debugging",
+      "weight": "10%",
+      "due_date": "6/09/2024 3:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Computer Code",
+      "title": "Assignment Three - Processes and Pipes",
+      "weight": "15%",
+      "due_date": "4/10/2024 3:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Computer Code",
+      "title": "Assignment Four - Threads and Network Programming",
+      "weight": "15%",
+      "due_date": "25/10/2024 3:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "45%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment One - Introductory C Programming",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code",
+      "weight": "15%",
+      "due_date": "23/08/2024 3:00 pm",
+      "learning_outcomes_assessed": "L02, L03, L04",
+      "task_description": "You will write a C program for Linux that implements a given specification and that follows a given style guide. You will use a version control system to progressively build your application. The task description will be released in week 2. Read full task description Hide full task description",
+      "submission_guidelines": "Programs must be submitted electronically as detailed in the assignment specification.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nAssignment submissions received after the due time (or any approved extended deadline) will be subject to a 100% late penalty. A one-hour grace period applies to the due time after which time (4:00:00pm) the 100% late penalty will be imposed. This grace period is designed to deal with issues that might arise during submission (e.g. delays with Blackboard or Gradescope) and should not be considered a shift of the due time.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "Assignment submissions received after the due time (or any approved extended deadline) will be subject to a 100% late penalty. A one-hour grace period applies to the due time after which time (4:00:00pm) the 100% late penalty will be imposed. This grace period is designed to deal with issues that might arise during submission (e.g. delays with Blackboard or Gradescope) and should not be considered a shift of the due time.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment Two - Debugging",
+      "mode": "Activity/ Performance",
+      "category": "Computer Code, Quiz",
+      "weight": "10%",
+      "due_date": "6/09/2024 3:00 pm",
+      "learning_outcomes_assessed": "L02",
+      "task_description": "The assignment will require students to understand the C programming language and apply debugging skills to understand the behaviour of a program. Read full task description Hide full task description",
+      "submission_guidelines": "Student attempts are recorded automatically by the assignment software.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment Three - Processes and Pipes",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code",
+      "weight": "15%",
+      "due_date": "4/10/2024 3:00 pm",
+      "learning_outcomes_assessed": "L02, L03, L04, L05, L06",
+      "task_description": "The third assignment will require development of an application that interacts with a UNIX file system and uses multiple processes that communicate with each other. Read full task description Hide full task description",
+      "submission_guidelines": "Programs must be submitted electronically as detailed in the assignment specification.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nAssignment submissions received after the due time (or any approved extended deadline) will be subject to a 100% late penalty. A one-hour grace period applies to the due time after which time (4:00:00pm) the 100% late penalty will be imposed. This grace period is designed to deal with issues that might arise during submission (e.g. delays with Blackboard or Gradescope) and should not be considered a shift of the due time.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "Assignment submissions received after the due time (or any approved extended deadline) will be subject to a 100% late penalty. A one-hour grace period applies to the due time after which time (4:00:00pm) the 100% late penalty will be imposed. This grace period is designed to deal with issues that might arise during submission (e.g. delays with Blackboard or Gradescope) and should not be considered a shift of the due time.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Assignment Four - Threads and Network Programming",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code",
+      "weight": "15%",
+      "due_date": "25/10/2024 3:00 pm",
+      "learning_outcomes_assessed": "L02, L03, L04, L05, L06, L08, L10",
+      "task_description": "This assignment will involve writing a network client/server application that uses multiple threads. Read full task description Hide full task description",
+      "submission_guidelines": "Programs must be submitted electronically as detailed in the assignment specification.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nAssignment submissions received after the due time (or any approved extended deadline) will be subject to a 100% late penalty. A one-hour grace period applies to the due time after which time (4:00:00pm) the 100% late penalty will be imposed. This grace period is designed to deal with issues that might arise during submission (e.g. delays with Blackboard or Gradescope) and should not be considered a shift of the due time.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "Assignment submissions received after the due time (or any approved extended deadline) will be subject to a 100% late penalty. A one-hour grace period applies to the due time after which time (4:00:00pm) the 100% late penalty will be imposed. This grace period is designed to deal with issues that might arise during submission (e.g. delays with Blackboard or Gradescope) and should not be considered a shift of the due time.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-4",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "45%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10",
+      "task_description": "The final exam will be an on-campus, invigilated paper-based exam. The exam is closed-book. The exam covers all course materials from the whole semester. Question formats may include short answer, calculations, and programming tasks. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Practical",
+      "topic": "Pracs Pracs will commence in week one. Early pracs will have defined material you can work through. Later prac sessions will be an opportunity to get help on course material and assignments. Learning outcomes: L01, L02, L03, L04, L05, L06, L08, L10",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L08",
+        "L10"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Lectures & Contacts Weekly lectures (2 hours) and contacts (1 hour) will introduce the course content and cover examples. In general (but not always) the contact sessions will be more practical in nature, e.g. covering practical issues, programming demonstrations, or working through exercises. In some weeks, the contact sessions will be used for the presentation of lecture materials. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

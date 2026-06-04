@@ -1,0 +1,192 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE3200-60369-7460",
+  "scraped_at": "2026-06-04T00:54:12.057727+00:00",
+  "course_code": "CSSE3200",
+  "class_code": "60369",
+  "semester_code": "7460",
+  "full_course_code": "CSSE3200-60369-7460",
+  "course_title": "Software Engineering Studio: Design, Implement & Test",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Students work in teams on a studio-based software development project to gain an understanding of the processes, techniques and tools used to manage and deliver large, complex software systems. The course covers software engineering, design, project management and team work processes. Students will learn techniques and tools used to manage complex software projects. These techniques and tools will be applied to software design, verification and validation, configuration management and documentation.\n\nReal software is complex; too complex to be kept in the mind of a single developer. Almost all software used in the real world is constructed by teams of developers, often large teams. In order to manage this team-based development process, it is important to ensure not only that the software behaves as it should when it is originally built, but that it continues to do so as it evolves over time to incorporate new features, respond to new requirements and cater to new users.\n\nDuring the course, you will be working in groups to improve a common code base. This gives you practical exposure to many of the problems and difficulties of developing software on realistic projects -- people in other teams breaking your code or changing your design, working with difficult existing code, managing change in the code base, and other issues. Alongside this, the lectures teach the techniques and tools we use (and that we will be using throughout the course) to make complex software development manageable: version control, build systems, continuous integration, test-driven development, mocks, refactoring, API design, testing and code coverage, program analysis, debugging and more.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE2002"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "DECO2800"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Guowei Yang",
+      "email": "CSSE3200@eecs.uq.edu.au",
+      "notes": "Please contact me to schedule an appointment for in-person or on-line consultation."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Guowei Yang"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll course activities, lectures, studios and tutorials, start in week one.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Apply collaboration skills to work effectively as a part of small and large teams on large software projects, including management of versions and merging with the work done by others."
+    },
+    {
+      "number": "LO2.",
+      "description": "Employ inspection techniques to explore, understand and then contribute to complex software systems."
+    },
+    {
+      "number": "LO3.",
+      "description": "Identify the roles of different tools and techniques in large systems, and use them to improve project outcomes."
+    },
+    {
+      "number": "LO4.",
+      "description": "Conduct design in the context of a large project, taking into account other, potentially conflicting, features."
+    },
+    {
+      "number": "LO5.",
+      "description": "Apply refactoring techniques where appropriate, e.g. to reconcile decisions with other developers working on the same software."
+    },
+    {
+      "number": "LO6.",
+      "description": "Analyse complex problems and apply design patterns to design contextually appropriate solutions."
+    },
+    {
+      "number": "LO7.",
+      "description": "Apply techniques for validating and ensuring the quality of the software, both during development and in the prevention of regression."
+    },
+    {
+      "number": "LO8.",
+      "description": "Select and employ appropriate software tools for managing the development and maintenance of complex software."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code",
+      "title": "GIT Exercise",
+      "weight": "Pass/Fail",
+      "due_date": "2/08/2024 3:00 pm",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Project",
+      "title": "Sprint Submissions",
+      "weight": "60%",
+      "due_date": "Week 6; Week 8; Week 10; Week 12; Submission is due at 3:00 pm the day before your studio session in the indicated weeks."
+    },
+    {
+      "category": "Quiz",
+      "title": "Course Content Quiz",
+      "weight": "20%",
+      "due_date": "8/10/2024 2:00 pm; During the week 11 Lecture",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Portfolio",
+      "title": "Individual Portfolio",
+      "weight": "20%",
+      "due_date": "25/10/2024 3:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "GIT Exercise",
+      "mode": "Activity/ Performance",
+      "category": "Computer Code",
+      "weight": "Pass/Fail",
+      "due_date": "2/08/2024 3:00 pm",
+      "task_description": "Complete the three git modules on edX, and push a non-breaking commit to the HelloSE project on GitHub during your tutorial session in week 2. Read full task description Hide full task description",
+      "submission_guidelines": "Submission is in your tutorial session, by showing a demonstrator your contribution to the HelloSE project on GitHub.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThis course uses project related assessment (i.e. git exercise or sprint submissions). No extensions or deferrals are possible. Failure to deliver by a deadline will disadvantage everyone else in your studio.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Sprint Submissions",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Project",
+      "weight": "60%",
+      "due_date": "Week 6 Week 8 Week 10 Week 12 Submission is due at 3:00 pm the day before your studio session in the indicated weeks.",
+      "task_description": "Feature teams must deliver one or more improvements to the software in each development sprint. The project will be submitted via four sprints over the course of the semester. These sprint submissions are: Week 6: Minimum Viable Product (MVP) — The studio must deliver a game that demonstrates the feasibility of your overall design and core game play mechanics. Week 8: Core Game Features — The studio must deliver a playable game with an end condition that demonstrates the core features of your game design. Week 10: Full Game Delivery — The studio must deliver a complete game that includes all aspects of game play. Week 12: Polished Game — The studio must deliver a refined game that delivers the entire game play experience from your design. Your feature team must have contributed an important component of the game in each sprint. Your submission is due at 15:00 the day before your studio session in each of the weeks indicated above. All project artefacts (code, tests, documentation, audio and image resources) are to be pushed to the source code repository. Project documentation must be in the ticket management system or project wiki. You will also submit a summary of your team's achievements for each sprint via a link that will available on BlackBoard. Your work will be assessed for its quantity (in terms of how much it contributes to the system as a whole), quality (including data and functional design, code style, etc), how well the work is integrated into the system, appropriate use of software design, implementation and validation techniques and tools (based on evidence of design activities, use of patterns, etc), testing, documentation, and whether your work, and manner of working, facilitated the progress of the overall project. You will also be assessed based on how effectively you have contributed as a member of your feature team, and the studio as a whole. Your contribution to your feature team's submission will also be evaluated by a peer assessment. Details about marking criteria for each sprint will be made available on Blackboard. Read full task description Hide full task description",
+      "submission_guidelines": "Code, artefacts and other materials, such as evidence of design activities are to be submitted via the course source code repository and associated facilities (wiki, issue tracker) on GitHub. A summary of your team's achievements for each sprint will be submitted via a link that will available on BlackBoard.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThis course uses project related assessment (i.e. git exercise or sprint submissions). No extensions or deferrals are possible. Failure to deliver by a deadline will disadvantage everyone else in your studio.\nSprint submissions should be reflections of continuous group effort over the sprint. A single student being unavailable for a few days should not have a serious consequence on a team's ability to deliver their feature; even if they are unavailable in the days leading up to a submission. If teams encounter extraordinary difficulties in meeting a deadline, they should contact the course coordinator in advance of the due date. If there are exceptional circumstances and a student is unable to contribute for most of a sprint, an exemption may be approved and may involve submitting/discussing your work as it stands. Exemptions must be requested as an extension request with a note specifying exemption via my.UQ .\nLate submission\nAll team submissions received after the one-hour grace period will either; (1) receive a zero mark (or failing grade), or (2) if an earlier snapshot of the team’s work was submitted then this will instead be graded.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "All team submissions received after the one-hour grace period will either; (1) receive a zero mark (or failing grade), or (2) if an earlier snapshot of the team’s work was submitted then this will instead be graded."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Course Content Quiz",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "20%",
+      "due_date": "8/10/2024 2:00 pm During the week 11 Lecture",
+      "task_description": "During the week 11 lecture you will be given a quiz to assess your understanding of the content delivered over the semester. Read full task description Hide full task description",
+      "submission_guidelines": "Quiz will be completed online in the lecture time slot. The quiz will be submitted by submission through a link on BlackBoard at the end of the allocated time for the quiz.\nDeferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Individual Portfolio",
+      "mode": "Written",
+      "category": "Portfolio",
+      "weight": "20%",
+      "due_date": "25/10/2024 3:00 pm",
+      "task_description": "You will prepare an individual portfolio describing the contributions you have made to the project over the entire semester. You should not list everything you have done, you need to select work items that demonstrate your contributions over the entire semester. Your portfolio should highlight the quality of your work and the consistency of your contributions to the project. The portfolio can include sketches, notes and other materials used during design or implementation. Your portfolio should reflect on the work you have done, including challenges faced, solutions considered and employed, and on what has or has not worked, both from the perspective of addressing technical requirements, and from the point of view of working within your team. You will submit the portfolio via a link on Blackboard. More details will be provided during semester. You should be developing and documenting this portfolio throughout the semester. Do not wait until the last week of semester to try and create your entire portfolio. Read full task description Hide full task description",
+      "submission_guidelines": "Submission via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nFeedback is given to students in a timeframe <28 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 10 (22 Jul - 06 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial Sessions These are opportunities to explore how the lecture content can be applied in practice so that you can use the material effectively in your project work."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 12 (22 Jul - 20 Oct)",
+      "activity_type": "Studio",
+      "topic": "Studio Sessions These are an active learning environment requiring your participation throughout the semester."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 12 (22 Jul - 20 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lectures"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . You'll also need to be aware of the following policies and procedures while completing this course: Placement Working with Children Laboratory Occupational Health and Safety Fitness to Practise Immunisation Work Integrated Learning and Work Experience Incidental Student Fees and Charges Student Travel School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

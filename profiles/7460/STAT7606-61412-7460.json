@@ -1,0 +1,147 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/STAT7606-61412-7460",
+  "scraped_at": "2026-06-04T01:19:38.318938+00:00",
+  "course_code": "STAT7606",
+  "class_code": "61412",
+  "semester_code": "7460",
+  "full_course_code": "STAT7606-61412-7460",
+  "course_title": "Design of Randomised Controlled Trials",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Postgraduate Coursework",
+  "location": "External",
+  "attendance_mode": "Online",
+  "units": "2",
+  "administrative_campus": "Herston",
+  "coordinating_unit": "Public Health School",
+  "course_description": "This course covers methods for controlled clinical trials; parallel, factorial and crossover designs; treatment allocation; blinding, stratification, and allocation concealment; sample size; intention to treat principle; phase I and II clinical studies; multiple endpoints; multiple tests and subgroup analyses; surrogate outcomes.\n\nThis course is part of the Biostatistics Collaboration of Australia. If you are not enrolled in a Biostatistics program at UQ, please contact the Program Director, Dr Michael Waller, to seek permission before enrolling.\n\nThe course covers methods for controlled clinical trials; parallel, factorial and crossover designs; treatment allocation; blinding, stratification, and allocation concealment; sample size; intention to treat principle; phase I and II clinical studies; multiple endpoints; multiple tests and subgroup analyses; surrogate outcomes.\n\nFurther information regarding this course is available from the following link https://www.bca.edu.au/curriculum/",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "PUBH7600",
+      "STAT7601",
+      "STAT7617"
+    ],
+    "companions": [
+      "We recommend completing the following courses at the same time:",
+      "STAT7604"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Michael Waller",
+      "email": "m.waller@uq.edu.au",
+      "phone": "+61 7 3346 4611"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Michael Waller",
+      "email": "m.waller@uq.edu.au"
+    }
+  ],
+  "course_aims": "To enable students to understand and apply the principles of design and analysis of experiments, with a particular focus on randomised controlled trials (RCTs), to a level where they are able to contribute effectively as a statistician to the planning, conduct and reporting of a standard RCT.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Identify the benefits of randomisation as a mechanism for reducing bias, and implement a variety of randomisation schemes"
+    },
+    {
+      "number": "LO2.",
+      "description": "Demonstrate knowledge of the principles behind the common experimental designs"
+    },
+    {
+      "number": "LO3.",
+      "description": "Describe the efficiency advantages of crossover designs, and be able to design and interpret the two-period crossover study"
+    },
+    {
+      "number": "LO4.",
+      "description": "Demonstrate an understanding of the principles underlying Phase I, II, III and IV studies, as well as an appreciation of the scientific basis underlying issues in clinical studies including intention-to-treat, blinding, interim analyses and subgroup analyses"
+    },
+    {
+      "number": "LO5.",
+      "description": "Appreciate the importance of sample size in clinical studies, and perform sample size calculations for a variety of trial designs with different outcomes"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Essay/ Critique",
+      "title": "Assignment 1",
+      "weight": "30%",
+      "due_date": "2/09/2024; Due date to be confirmed by the BCA Course Coordinator",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Essay/ Critique",
+      "title": "Assignment 2",
+      "weight": "30%",
+      "due_date": "30/09/2024; Due date to be confirmed by the BCA Course Coordinator",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Essay/ Critique",
+      "title": "Assignment 3",
+      "weight": "40%",
+      "due_date": "4/11/2024; Due date to be confirmed by the BCA Course Coordinator",
+      "conditions": [
+        "Online"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment 1",
+      "mode": "Written",
+      "category": "Essay/ Critique",
+      "weight": "30%",
+      "due_date": "2/09/2024 Due date to be confirmed by the BCA Course Coordinator",
+      "learning_outcomes_assessed": "L01, L02",
+      "task_description": "refer to Study Guide Read full task description Hide full task description",
+      "submission_guidelines": "Please refer to BCA Study Guide for full submission details\nDeferral or extension\nYou may be able to apply for an extension .\nPlease see 10. Policies & Guidelines",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 2",
+      "mode": "Written",
+      "category": "Essay/ Critique",
+      "weight": "30%",
+      "due_date": "30/09/2024 Due date to be confirmed by the BCA Course Coordinator",
+      "learning_outcomes_assessed": "L03, L04, L05",
+      "task_description": "refer to Study Guide Read full task description Hide full task description",
+      "submission_guidelines": "Please refer to BCA Study Guide for full submission details\nDeferral or extension\nYou may be able to apply for an extension .\nPlease see 10. Policies & Guidelines",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 3",
+      "mode": "Written",
+      "category": "Essay/ Critique",
+      "weight": "40%",
+      "due_date": "4/11/2024 Due date to be confirmed by the BCA Course Coordinator",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "refer to Study Guide Read full task description Hide full task description",
+      "submission_guidelines": "Please refer to BCA Study Guide for full submission details\nDeferral or extension\nYou may be able to apply for an extension .\nPlease see 10. Policies & Guidelines",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "special_indicators": [
+        "Online"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Course guidelines School of Public Health (SPH) Guidelines for late submission of progressive assessment - Preamble To apply for an extension to the due date for a piece of progressive assessment (eg assignments, oral presentations and computer-based assignments) students should complete the online request at https://my.uq.edu.au/node/218/1 Information regarding deferral of in-semester exams and end-of-semester exams is available from https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam If requesting an extension on medical grounds, a medical certificate must be provided. The extension will be approved for the number of days included in the medical certificate that the student was not fit to study or work, eg if the medical certificate is for 3 days, an extension will be approved for 3 days maximum regardless of the student's request. If requesting an extension using a Student Access Plan for Disability (SAPD) as evidence, a maximum of 7-day extension will be approved in the first instance. Updated medical documentation, as well as a copy of the SAPD, is required if requesting an extension for more than 7 days. The maximum time for an in-semester extension is four weeks. The following SPH guidelines are consistent with the UQ policy. However, the SPH Guidelines contain specific rules and interpretations for SPH courses, and requests for extension and penalties for late submissions will be judged according to the guidelines outlined in this document. You should read both the information in your my.UQ at the following link: https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension?p=1#1 and the SPH guidelines (below) before submitting a request for an extension. The SPH Guidelines apply to all courses offered by the School of Public Health unless the ECP explicitly states otherwise. SPH Guidelines for late submission of progressive assessment Initial extension for an individual item of assessment – the SPH Teaching & Assessment Support Team and/or the Course Coordinator decides. This could be for medical or compassionate reasons, or if, in the opinion of the Course Coordinator, there are exceptional circumstances. Acceptable and unacceptable reasons for an extension are listed at the following link, along with the required evidence to be provided: https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension?p=1#1 All requests should be lodged at least 24 hours prior to the due date for the assessment. If applying for an extension after the due date and time of the assessment item , your request may not be approved. An explanation as to why your request was not submitted prior must be included. If approved, a new due date will be set. This would generally be no later than 7 days after the original due date, however this can be modified to take account of the circumstances of the request and the time that would have been lost from studies. If the new due date is past the date for submission of end-of-semester results, the student will receive an INC (incomplete) result. Second and all subsequent extensions for an individual item of assessment – the SPH Teaching & Assessment Support Team and/or the Program Director together with the Course Coordinator decides. This would only be approved for exceptional circumstance with supporting documentation. Online requests must be made at least 24 hours prior to the due date from the first extension. The SPH Teaching & Assessment Support Team and/or the Course Coordinator will consult with the Program Director, who will make the final decision. If approved, the new due date would generally be no later than 7 days after the first extension due date. The Program Director should consider if remedial or other support should be offered to the student. The Program Director should provide a report on these matters as needed at SPH Examiners’ Meetings. Please Note : In order to support course progression, extensions that total more than 14 calendar days from the original due date of an assessment item will only be approved in very exceptional circumstances. These requests are assessed and approved or denied on a case-by-case basis. If you have been ill or unable to attend class for more than 14 days, we advise you to carefully consider whether you are capable of successfully completing your courses this semester. You might be eligible to withdraw without academic penalty . Penalty for late submission Submission of assignments, practical reports, workbooks, and other types of written assessments after the due date specified in the Electronic Course Profile (ECP) will receive a penalty. The penalty will be a deduction of 10% RELATIVE PERCENTAGE per day ( 24 hour period or part thereof, including weekends and public holidays) or for work graded on a 1-7 scale, a deduction of one grade per day, e.g If the original mark is 73%, then 10% relative percentage is 10% of this value, ie 7.3%, The final mark for this assessment item after applying the penalty for 1 day late submission would be 73 -7.3 = 65.7% The same outcome is achieved by multiplying the original score by .9; ie 73 x .9 = 65.7% The penalty for multiple days late is the relative percentage multiplied by the number of days late. A submission that is not made within 10 days of the due date will receive a mark of 0% for that assessment item. Where a student has sought more than one extension, the due date for calculating the penalty will be the due date for the most recently approved extension. Submission of Medical Certificates Students are responsible for ensuring that any medical documentation they submit is authentic and signed by a registered medical practitioner. Such practitioners can be identified via the AHPRA website . Also note that: Not all online medical services are staffed by registered practitioners If the registration status of the practitioner cannot be verified, then an alternative practitioner should be sought Students will be held fully responsible for all documentation they submit, even if done so in ignorance of the practitioner's registration status Medical documentation may be subjected to an audit by the University. SPH Assessment Guidelines The School of Public Health assessment tasks have been designed to be challenging, authentic and complex. While students may us AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. Learning activities"
+}

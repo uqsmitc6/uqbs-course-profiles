@@ -1,0 +1,261 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MECH3100-60647-7460",
+  "scraped_at": "2026-06-04T01:07:03.535545+00:00",
+  "course_code": "MECH3100",
+  "class_code": "60647",
+  "semester_code": "7460",
+  "full_course_code": "MECH3100-60647-7460",
+  "course_title": "Mechanical Systems Design",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "Design of a powered machine using principles of systems engineering. Synthesis of machine frame, power transmission and controls. Risk and safety assessment. Model-based design using CAD. Basic design for manufacture and cost estimation.\n\nThe conceptualisation, design, validation, and operation of complex systems that efficiently and reliably perform their intended function are core to the engineering profession. This course is a capstone course in the ‘Design Stream’ of your curriculum and marks an important milestone in your journey of becoming a professional engineer.\n\nENGG1100 introduced you to the discipline of professional engineering and its principal fields. MECH2305 followed with an introduction to Engineering Design and Manufacturing. In MECH2100, you learned how to design key machine elements such as bolted connections, gears, and bearings. MECH3610 introduced you to the key concepts of systems engineering and principles of project management. In addition to the ‘Design Stream’ courses, you have also acquired a wealth of foundational knowledge through the other courses in the curriculum. This course will be your first opportunity to put all these learnings to practical use, cement previous learnings, and expand your discipline-specific understanding of systems engineering.\n\nIn this course, you are expected to work in teams using systems engineering principles to design, evaluate, build, assemble and test a substantive mechanical system. You will demonstrate the practice of mechanical system design as part of a project team. The course environment simulates the challenges facing a small manufacturing company designing a product for a competitive marketplace.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ENGG1400",
+      "MECH2100",
+      "MECH2300"
+    ]
+  },
+  "course_staff": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Aditya Khanna",
+      "email": "aditya.khanna@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Aditya Khanna",
+      "email": "aditya.khanna@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Michael Heitzmann",
+      "email": "m.heitzmann@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The aim of the course is to provide you a practical opportunity to conceptualise, design, build, and test a mechanical system as part of a team and using systems engineering principles.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Identify and describe the key lifecycle steps in system engineering methodology"
+    },
+    {
+      "number": "LO2.",
+      "description": "Use the correct system engineering terminology to describe system engineering activities"
+    },
+    {
+      "number": "LO3.",
+      "description": "Employ system engineering principles to plan and execute an engineering project"
+    },
+    {
+      "number": "LO4.",
+      "description": "Employ system engineering tools and best practice in the appropriate sequence and lifecycle step"
+    },
+    {
+      "number": "LO5.",
+      "description": "Put in place appropriate review and reporting milestones for your engineering project and understand milestone requirements"
+    },
+    {
+      "number": "LO6.",
+      "description": "Use system engineering and concurrent engineering principles to coordinate multi-team members working one project"
+    },
+    {
+      "number": "LO7.",
+      "description": "Optimise the resources in an engineering team to design an innovative mechanical engineering product to a strict timeline and budget conditions"
+    },
+    {
+      "number": "LO8.",
+      "description": "Plan, monitor and control a mechanical system engineering project"
+    },
+    {
+      "number": "LO9.",
+      "description": "Work in teams to design, build and test a mechanical engineering system"
+    },
+    {
+      "number": "LO10.",
+      "description": "Employ engineering principles and science to evaluate design options and perform detailed design"
+    },
+    {
+      "number": "LO11.",
+      "description": "Proficiently employ state-of-the-art computer aided engineering tools (CAX) to design, build and validate complex engineering systems"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Presentation, Portfolio",
+      "title": "Presentation Series",
+      "weight": "25%",
+      "due_date": "Conceptual Design Review (10%) 16/08/2024 1:00 pm; Detailed Design Review (15%) 13/09/2024 1:00 pm",
+      "conditions": [
+        "Team or group-based",
+        "Online"
+      ]
+    },
+    {
+      "category": "Product/ Design",
+      "title": "System Performance and Build Quality",
+      "weight": "50%",
+      "due_date": "Week 10 Mon - Week 12 Fri",
+      "conditions": [
+        "Hurdle",
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Portfolio",
+      "title": "Technical Documentation Review",
+      "weight": "15%",
+      "due_date": "21/10/2024 1:00 pm",
+      "conditions": [
+        "Team or group-based",
+        "Online"
+      ]
+    },
+    {
+      "category": "Practical/ Demonstration, Product/ Design",
+      "title": "System Disassembly",
+      "weight": "10%",
+      "due_date": "Exam week 1 Mon - Exam week 2 Fri; Disassembly workshop date TBA",
+      "conditions": [
+        "Team or group-based",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Presentation Series",
+      "mode": "Oral, Product/ Artefact/ Multimedia, Written",
+      "category": "Presentation, Portfolio",
+      "weight": "25%",
+      "due_date": "Conceptual Design Review (10%) 16/08/2024 1:00 pm Detailed Design Review (15%) 13/09/2024 1:00 pm",
+      "other_conditions": "Peer assessment factor. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11",
+      "task_description": "Conceptual Design Review - 10% The submission will be a slide deck in PowerPoint. The presentation will outline the functional baseline of the system and present a project management plan. Detailed requirements will be provided in the project brief document. Detailed Design Review - 15% The submission will be a slide deck in PowerPoint accompanied by supporting technical documents (calculations, engineering drawings, etc) in Teamcenter PLM. During class time in Week 8, each team will present their slides to the rest of the class via a live presentation or a prerecorded video. The presentation will be held online using Zoom since parallel streams of sessions are required to accommodate the large number of teams. Detailed requirements will be provided in the project brief document. NOTE: You shouldn't need to make substantial design changes after submitting your detailed design review. However, in case you make design changes, these need to be reflected in the Teamcenter environment, i.e., you must maintain an accurate digital twin of your physical model. Read full task description Hide full task description",
+      "submission_guidelines": "PowerPoint slide decks to be submitted via Blackboard. Technical documents to be submitted via Teamcenter PLM.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis is a team exercise and extension requests will only be granted in exceptional circumstances as extensions impact other students in the team.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nOral presentations scheduled with multiple markers and are time limited.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Team or group-based",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "System Performance and Build Quality",
+      "mode": "Activity/ Performance, Product/ Artefact/ Multimedia",
+      "category": "Product/ Design",
+      "weight": "50%",
+      "due_date": "Week 10 Mon - Week 12 Fri",
+      "other_conditions": "Peer assessment factor. See the conditions definitions",
+      "learning_outcomes_assessed": "L06, L07, L08, L09, L10, L11",
+      "task_description": "System Performance - 25% The performance criteria are specified in the project brief document. Several testing days are scheduled in Week 10-12 for teams to demonstrate system performance against the scoring method outlined in the project brief document. A detailed testing schedule will be communicated to students via Blackboard. NOTE: Teams can compare the performance of their prototype system against other teams in a tournament format during Week 13. Participation in the tournament is optional and a maximum of 3% bonus marks will be available to the winning team. Build Quality - 25% Teams must hand over their prototype system to the teaching staff upon achieving their final performance score unless participating in the optional tournament. Those participating in the optional tournament must deposit their prototype system to the teaching staff at the conclusion of the tournament. Teams must hand over the system as-is after testing, i.e. without modifications. Teams are not permitted to take away any part of the system. The build quality will be assessed by a panel of experts at a later date. Further details are provided in the project brief document. Read full task description Hide full task description",
+      "submission_guidelines": "Physical products are submitted to the teaching team after performance testing.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nTeams will be given multiple opportunities to complete performance testing between Weeks 10 and 12. No further testing opportunities will be provided after Week 12. Extensions impact on other students in the team.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nDemonstration sessions are scheduled with multiple markers and is time limited.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Hurdle",
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Technical Documentation Review",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Paper/ Report/ Annotation, Portfolio",
+      "weight": "15%",
+      "due_date": "21/10/2024 1:00 pm",
+      "other_conditions": "Peer assessment factor. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11",
+      "task_description": "The teaching team will assess the completeness of technical documents in the Teamcenter PLM environment. This assessment will evaluate your team's compliance with the model-based design approach, outcomes of system verification and validation undertaken in Weeks 9-12, and reflections on your engineering design decisions and project management. Detailed requirements will be provided in the project brief document. Read full task description Hide full task description",
+      "submission_guidelines": "Technical documents to be submitted via Teamcenter PLM.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis is a team exercise and extension requests will only be granted in exceptional circumstances as extensions impact other students in the team.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Team or group-based",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "System Disassembly",
+      "mode": "Activity/ Performance",
+      "category": "Practical/ Demonstration, Product/ Design",
+      "weight": "10%",
+      "due_date": "Exam week 1 Mon - Exam week 2 Fri Disassembly workshop date TBA",
+      "other_conditions": "Peer assessment factor. See the conditions definitions",
+      "learning_outcomes_assessed": "L04, L06, L09",
+      "task_description": "During the examination period, a disassembly workshop will be organised in which teams will use basic hand tools to disassemble their prototype system. A panel of experts will evaluate the ease of system disassembly and the reusability of sub-systems, components, and parts. Further details will be provided in the project brief document. Read full task description Hide full task description",
+      "submission_guidelines": "Teams to return in examination period to disassemble their prototype system under supervision and leave behind all disassembled materials.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nIndividuals who are unable to attend the disassembly workshop with an acceptable reason as defined on my.UQ will receive the average team mark.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nThe system disassembly workshop are scheduled with a panel of experts and are time limited.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Team or group-based",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Studio",
+      "topic": "Design Workshop Workshops on key system engineering principles and their use in your project. During the workshop you also have time to meet with your mentors and team members. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Team Based Learning",
+      "topic": "System prototyping As a team, you will fabricate and assemble a physical prototype of your designed system using the resources in UQ Innovate. Learning outcomes: L03, L04, L07, L08, L09, L11",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L07",
+        "L08",
+        "L09",
+        "L11"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 10 To Week 13 (30 Sep - 27 Oct)",
+      "activity_type": "Team Based Learning",
+      "topic": "Performance testing You will perform testing to validate your physical system against the requirements provided in the project brief. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

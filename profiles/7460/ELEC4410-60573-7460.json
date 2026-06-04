@@ -1,0 +1,199 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ELEC4410-60573-7460",
+  "scraped_at": "2026-06-04T00:58:24.344955+00:00",
+  "course_code": "ELEC4410",
+  "class_code": "60573",
+  "semester_code": "7460",
+  "full_course_code": "ELEC4410-60573-7460",
+  "course_title": "Advanced Electronic & Power Electronics Design",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "This course is about power processing using control, signal processing and electronic systems. The application can be from many megawatts in an electric train or a wind farm to less than a few watts in a digital camera or a mobile phone. For modern power electronics system, computer simulation tools are used to analyse and optimise a design before any prototyping. Topics covered in this course are a) power electronic systems and applications such as motor drive, renewable energy and power supply systems; b) energy conversion topologies; c) modelling and control; d) design factors and computer simulations.\n\nELEC4410 covers the application of electronics to process or control power. The power electronic applications cover wide range that spans from megawatts in an electric train to less than one watt in a digital camera or mobile phone. The integration of power electronics has become unavoidable in electrical or electronic equipment. For modern designs, computer simulation tools are used to fully test and optimise a design prior to manufacture. The principles learnt in this course can be applied to many other areas of electronics too. Topics covered include:\n\n• Overview of power electronic systems andﾠapplications: motor drive, renewable energy, power quality\n\n• Semiconductor switches\n\n• Diode rectifiers\n\n• Controlled (SCR) rectifiers\n\n• DC-DC converters: non-isolated\n\n• DC-DC converters: isolated\n\n• Single and three-phase inverters: topology and modulations\n\n• Multi-level inverters: topology and modulations\n\n• Averaging methods to model power converters\n\nBased on the previous year's student feedback, the hardware experiment has been added as a new part of this course to enhance the understanding of the theories in power electronics. This will also provide students with more hands-on experience in power electronics design.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ELEC2400",
+      "ELEC3400"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ELEC4400",
+      "ELEC7402"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Feifei Bai",
+      "email": "ELEC4410@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Feifei Bai"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course is about the use of electronics to process power, ranging from milliwatts to megawatts. The course aims are as follows:\n\n(1) Students should have the ability to creatively design, simulate and model power electronic converters.\n\n(2) Students should acquire skills to interface power electronic devices for renewable generation applications.\n\n(3) Students should have the ability to develop the basic power electronics-based motor drive systems through simulation software and hardware experiment system.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Apply the design and operation theories of power electronic converters to the real converter systems."
+    },
+    {
+      "number": "LO2.",
+      "description": "Solve power electronics application issues: power quality, motor drive, renewable energy."
+    },
+    {
+      "number": "LO3.",
+      "description": "Analyse single and three phase inverters: topology, modulations and design."
+    },
+    {
+      "number": "LO4.",
+      "description": "Evaluate the efficiency and harmonics of power electronic devices from available voltage and current measurements."
+    },
+    {
+      "number": "LO5.",
+      "description": "Create small signal models of power converters based on averaging methods."
+    },
+    {
+      "number": "LO6.",
+      "description": "Design, model and simulate power electronic converters under the specified technical considerations."
+    },
+    {
+      "number": "LO7.",
+      "description": "Develop power electronics-based motor drive systems through software and hardware experiment systems."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Tutorial Question Submission",
+      "weight": "5%",
+      "due_date": "8/08/2024 4:00 pm; Thursday Week 3"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Computer Labs using Matlab/Simulink",
+      "weight": "15%",
+      "due_date": "2/10/2024 4:00 pm; Wednesday Week 10",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Practical/ Demonstration",
+      "title": "Experiment Labs based on Hardware",
+      "weight": "30%",
+      "due_date": "submission during the scheduled lab session 12/09/2024; submission during the scheduled lab session 3/10/2024; submission during the scheduled lab session 10/10/2024",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Tutorial Question Submission",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "5%",
+      "due_date": "8/08/2024 4:00 pm Thursday Week 3",
+      "task_description": "The tutorial assignment needs to be completed through Blackboard on week 2. More information on tutorial assignment will be available in Blackboard. All submissions are collected through Blackboard. Read full task description Hide full task description",
+      "submission_guidelines": "Through Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 14-21 days, where the earlier time frame applies if there are no extensions\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Computer Labs using Matlab/Simulink",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "15%",
+      "due_date": "2/10/2024 4:00 pm Wednesday Week 10",
+      "task_description": "There are three computer labs in weeks: 6, 7 and 9. During the lab session, students can access to UQ labs or their PC to use Matlab/Simulink or ask questions. Each student should complete the simulation individually and prepare his/her report. Computer prac sheets and simulation files will be given to students prior to each session. The computer labs will cover the following contents: Week 6: Rectifiers Week 7: Bulk and Boost converters Week 9: DC-AC Inverters At the end, the students are required to bundle the three computer labs together and submit as a single report. The weight of the report is 15%. Read full task description Hide full task description",
+      "submission_guidelines": "Electronic submission of the report is via Blackboard. Please do not send the report to tutors or the course coordinator.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 14-21 days, where the earlier time frame applies if there are no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Experiment Labs based on Hardware",
+      "mode": "Activity/ Performance, Written",
+      "category": "Paper/ Report/ Annotation, Practical/ Demonstration",
+      "weight": "30%",
+      "due_date": "submission during the scheduled lab session 12/09/2024 submission during the scheduled lab session 3/10/2024 submission during the scheduled lab session 10/10/2024",
+      "task_description": "There are three hardware labs in weeks: 8, 10 and 11. Hardware Labs will be run in-person. The Matlab/Simulink and the hardware system will be used. The lab instructions will be released before the lab session. Please read the instructions before attending the lab session to have a good preparation. When attending the labs each student has to bring a hard copy of the lab worksheet. Each lab session will run 2 hours. Each student needs to complete the hardware testing and worksheet individually within the lab session. All lab work is assessed individually. Each lab will be assessed using a combination of experiment demonstration, and lab worksheet. Each hardware lab carries equal weight (10% each and in total 30%). For each hardware lab, 5% for the hardware lab demonstration and 5% for the results analysis with the worksheet. The performance will be marked by tutors based on the performance of the hardware demonstration. At the end of each session tutors will collect the worksheet and mark all the worksheets after the lab session. The hardware labs will cover the following contents: Week 8: Motor drive through buck converter with open-loop control Week 10: Motor drive through buck converter with closed-loop control Week 11: DC-AC Inverter design Read full task description Hide full task description",
+      "submission_guidelines": "The demonstration marking are completed as part of a scheduled prac class. At the end of each session, tutors will collect the worksheet for marking. The worksheet comments are returned to students within 14 days.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nPrac reports are completed as part of a scheduled prac class.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "task_description": "The final exam will assess all materials presented during the course. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorials Power Converter Topologies AC/DC conversion uncontrolled AC/DC conversion controlled DC/DC conversion Single and three phase inverters design Multi-level converters and control Small signal model of power converters"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Practical",
+      "topic": "Lab practical based on simulation Students are required to submit a final report and three simulation-based designs on the assigned tasks for three computer labs."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lectures AC to DC conversion (uncontrolled and controlled), DC to DC conversion and switch-mode power supplies. Single and three phase inverters design and different PWM modulation strategies. Analysis of multi-level converters and control. Developing small signal model of power converters and how to design a proper controller. Applications of Power Electronics in different applications."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Practical",
+      "topic": "Experiment Labs based on Hardware The Matlab/Simulink and the hardware system will be used to study the inverter control, and motor drive with open-loop control and closed-loop control. Each student needs to complete the hardware testing and worksheet individually within the lab session. All lab work is assessed individually."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

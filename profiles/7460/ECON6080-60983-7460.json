@@ -1,0 +1,282 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ECON6080-60983-7460",
+  "scraped_at": "2026-06-04T00:56:03.649518+00:00",
+  "course_code": "ECON6080",
+  "class_code": "60983",
+  "semester_code": "7460",
+  "full_course_code": "ECON6080-60983-7460",
+  "course_title": "Computational Methods in Economics",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Economics School",
+  "course_description": "This course covers numerical methods and computational tools that are relevant in solving and quantifying implications of economic models and estimating econometric models. The course also covers how to write computer codes to implement these methods and tools.\n\nThis course covers numerical methods and computational tools that are relevant in solving and quantifying implications of economic models and estimating econometric models. The course also covers how to write computer codes to implement these methods and tools.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ECON6020",
+      "We recommend completing the following courses before enrolling in this one:",
+      "ECON6300"
+    ],
+    "restrictions": [
+      "BA(Hons)(Economics); BEcon(Hons)"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Satoshi Tanaka",
+      "email": "s.tanaka@uq.edu.au",
+      "notes": "Monday, 2PM- 4PM"
+    },
+    {
+      "role": "School enquiries",
+      "name": "Student Enquiries, School of Economics",
+      "email": "enquiries@economics.uq.edu.au",
+      "notes": "All enquiries regarding student and academic administration (i.e. non-course content information, e.g., class allocation, timetables, extension to assessment due date, etc.) should be directed to enquiries@economics.uq.edu.au . Enquiries relating specifically to course content should be directed to the Course Coordinator/Lecturer."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Satoshi Tanaka",
+      "email": "s.tanaka@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nStudents should refer to the timetable prior to the commencement of classes to ensure that they have the most up-to-date information, as from time to time late room changes may occur.ﾠ\nPublic Holidays:\nWed 14 August (Royal Queensland Show), Mon 7 October (King's Birthday).\nIn-Semester Break:\n23 - 29 September. Semester 2 classes recommence Mon 30 September. ﾠ",
+  "course_aims": "The primary aim of this course is to provide students with a clear understanding and knowledge of the main computational tools and methods used in economics.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Apply computational tools and models to economic models."
+    },
+    {
+      "number": "LO2.",
+      "description": "Solve economic models to compute equilibria in static and dynamic economic models."
+    },
+    {
+      "number": "LO3.",
+      "description": "Demonstrate proficiency in the use of programming software such as Matlab and Python."
+    },
+    {
+      "number": "LO4.",
+      "description": "Illustrate the link between theory and computation."
+    },
+    {
+      "number": "LO5.",
+      "description": "Critically select and apply computational algorithms for economic models."
+    },
+    {
+      "number": "LO6.",
+      "description": "Construct a plan of analysis to communicate research questions."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Presentation",
+      "title": "In-Class Presentation",
+      "weight": "10%",
+      "due_date": "22/07/2024 - 21/10/2024"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Six Problem Sets (Fortnightly, Programming Intensive)",
+      "weight": "60% (Each assignment is worth 10%)",
+      "due_date": "22/07/2024 - 21/10/2024"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Take Home Assignment (Programming Intensive)",
+      "weight": "30%",
+      "due_date": "22/10/2024 - 25/10/2024; Due at 4pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-Class Presentation",
+      "mode": "Activity/ Performance",
+      "category": "Computer Code, Presentation",
+      "weight": "10%",
+      "due_date": "22/07/2024 - 21/10/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "Student will be asked to present the codes and algorithms of their answers in the regular assignments. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "ai_statement": "Student will be asked to present the codes and algorithms of their answers in the regular assignments. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Six Problem Sets (Fortnightly, Programming Intensive)",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "60% (Each assignment is worth 10%)",
+      "due_date": "22/07/2024 - 21/10/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "There are 6 fortnightly assignments (problem sets), one for every 2 weeks, from Week 2 to Week 13. The due date for each assignment is Monday in the following week. Assignments must be submitted individually and electronically. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submit answers and computer codes to the Course Coordinator by email.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "There are 6 fortnightly assignments (problem sets), one for every 2 weeks, from Week 2 to Week 13. The due date for each assignment is Monday in the following week. Assignments must be submitted individually and electronically. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Take Home Assignment (Programming Intensive)",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "30%",
+      "due_date": "22/10/2024 - 25/10/2024 Due at 4pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "Due to the hands-on nature of the course, the final assessment takes the form of a take-home assignment. The scope of the assignment. includes all the topics that are covered throughout the course. Group work is strictly prohibited. Your work must be submitted individually and electronically Further details about the take home assignment. will be posted to our course BB site. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submit answers and computer codes to the Course Coordinator by email.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Due to the hands-on nature of the course, the final assessment takes the form of a take-home assignment. The scope of the assignment. includes all the topics that are covered throughout the course. Group work is strictly prohibited. Your work must be submitted individually and electronically Further details about the take home assignment. will be posted to our course BB site. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI). Students are advised that the use of AI technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (22 Jul - 28 Jul)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 1: Intro and Python Basics Python programming basics; Basics of computing and numerical methods Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (29 Jul - 04 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 2: Root Finding Python programming basics; Basics of computing and numerical methods Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (05 Aug - 11 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 3: Optimization Nonlinear Equations, Optimization, Computing fixed points Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (12 Aug - 18 Aug)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Royal Queensland Show holiday No lecture held on this day due to public holiday."
+    },
+    {
+      "learning_period": "Week 5 (19 Aug - 25 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 4: Interpolation Function Approximation, Local approximation methods, Global approximation methods, Multidimensional methods. Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 5: Integration and Simulation Function Approximation, Local approximation methods, Global approximation methods, Multidimensional methods. Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (02 Sep - 08 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 6: Dynamic Programming I Numerical Integration and Differentiation, Monte Carlo and Quasi-Monte Carlo Methods. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (09 Sep - 15 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 7: Dynamic Programming II Numerical Integration and Differentiation, Monte Carlo and Quasi-Monte Carlo Methods. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 8: Projection Methods Methods for Functional Equations, Finite-Difference Methods, Projection Methods, Applications. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (30 Sep - 06 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 9: Perturbation Methods Methods for Functional Equations, Finite-Difference Methods, Projection Methods, Applications. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (07 Oct - 13 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 10: Heterogenous Agent Model (Aiyagari) Numerical Dynamic Programming, Perfect Foresight Models, Rational Expectations Models. (**This lecture will be on Wednesday, not on Thursday) Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (14 Oct - 20 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 11: Heterogenous Agent Model (Krusell-Smith) Numerical Dynamic Programming, Perfect Foresight Models, Rational Expectations Models. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (21 Oct - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 12: Heterogenous Agent New Keynsian Model (HANK) Heterogeneous Agent New Keynesian (HANK) models Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

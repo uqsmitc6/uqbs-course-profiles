@@ -1,0 +1,204 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BIOE6601-60749-7460",
+  "scraped_at": "2026-06-04T00:48:49.262170+00:00",
+  "course_code": "BIOE6601",
+  "class_code": "60749",
+  "semester_code": "7460",
+  "full_course_code": "BIOE6601-60749-7460",
+  "course_title": "Medical Imaging",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Modern medical imaging technologies and applications. Lectures cover signal principles, image formation, and instrumentation for X-rays, Computerised Tomography (CT), Single Photon Emission Tomography (SPECT), Positron Emission Tomography (PET) and Magnetic Resonance Imaging (MRI).\n\nThis course aims to expose engineers and scientists to a wide range of currently employed technologies for medical imaging. The class emphasizes that the ongoing advancements in medical imaging rely heavily on the innovation and expertise of engineers and scientists. The lectures will delve into the origins of signals, techniques, and instrumentation necessary for generating medical images. The imaging modalities covered will include X-Ray, Computerized Tomography (CT), Ultrasound, Magnetic Resonance Imaging (MRI), Single Photon Emission Computed Tomography (SPECT), and Positron Emission Tomography (PET).\n\nBy the end of the course, students are expected to:\n\nCourse Changes in Response to Previous Student Feedback\n\nWe will extend invitations to experts in the field of medical imaging and clinical applications to present guest lectures on the latest advancements and technologies.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ELEC3004",
+      "BIOE6901",
+      "BIOE3001"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ELEC6601",
+      "ELEC4601",
+      "ELEC7606"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Markus Barth",
+      "email": "BIOE6601@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Markus Barth"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course is intended to expose engineers and scientists to the broad range of currently employed technologies for medical imaging. It is emphasized in the class that the rapid advances made in medical imaging continue to depend on the innovation and expertise of engineers and scientists. The lectures will explore the origins of the signals, techniques and instrumentation necessary to form medical images. The imaging modalities will cover X-Ray, Computerized Tomography (CT), Ultrasound, Magnetic Resonance Imaging (MRI), Single Photon Emission Computed Tomography (SPECT) and Positron Emission Tomography (PET).",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Evaluate the underlying principles of medical imaging systems"
+    },
+    {
+      "number": "LO2.",
+      "description": "Formulate numerical algorithms to generate medical images based on these principles."
+    },
+    {
+      "number": "LO3.",
+      "description": "Design and implement algorithms using programming tools like MATLAB"
+    },
+    {
+      "number": "LO4.",
+      "description": "Critique the utility of standard imaging techniques"
+    },
+    {
+      "number": "LO5.",
+      "description": "Assess the risks and side effects of techniques and materials used."
+    },
+    {
+      "number": "LO6.",
+      "description": "Determine appropriate imaging techniques for various simple clinical scenarios."
+    },
+    {
+      "number": "LO7.",
+      "description": "Analyse the opportunities and technical challenges of the covered imaging systems."
+    },
+    {
+      "number": "LO8.",
+      "description": "Synthesize information independently from diverse resources."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Nuclear Medicine Imaging",
+      "weight": "10%",
+      "due_date": "30/08/2024 3:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Computerised Tomography Reconstruction",
+      "weight": "20%",
+      "due_date": "13/09/2024 3:00 pm"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Magnetic Resonance Imaging Reconstruction",
+      "weight": "20%",
+      "due_date": "18/10/2024 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Nuclear Medicine Imaging",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "10%",
+      "due_date": "30/08/2024 3:00 pm",
+      "learning_outcomes_assessed": "L01, L04, L05, L07",
+      "task_description": "This is an individual assessment and students are expected to work independently. There will be 10 short multiple choice questions online related to nuclear medicine imaging. These questions weigh 10% of the final grade. Students can attempt as many times as they like to learn the content. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nAn alternative quiz will be available for students who cannot submit by the due date.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nAn alternative quiz will be available for students who cannot submit by the due date.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Computerised Tomography Reconstruction",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "13/09/2024 3:00 pm",
+      "learning_outcomes_assessed": "L02, L03, L08",
+      "task_description": "Students will submit a project report (as an MS Word file) and functional Matlab code for assessment. The Matlab code should be written in a way that the lecturer should be able to run it without modifications or entering any parameters. If the Matlab code does not produce the results shown in the report, students will not receive any credit for the corresponding section(s) of the report. This is an individual assessment and students are expected to work independently. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students between 7-21 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Magnetic Resonance Imaging Reconstruction",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "18/10/2024 3:00 pm",
+      "learning_outcomes_assessed": "L02, L03, L08",
+      "task_description": "Students will submit a project report (as an MS Word file) and functional Matlab code for assessment. The Matlab code should be written in a way that the lecturer should be able to run it without modifications or entering any parameters. If the Matlab code does not produce the results shown in the report, students will not receive any credit for the corresponding section(s) of the report. This is an individual assessment and students are expected to work independently. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students between 7-21 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "learning_outcomes_assessed": "L01, L04, L05, L06, L07",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Lectures Medical Imaging Radiographic Imaging (Week 1 - Week 3) Nuclear Medicine Imaging (Week 4 - Week 5) Ultrasound Imaging (Week 6 - Week 7) Magnetic Resonance Imaging (Week 8 - Week 13) Learning outcomes: L01, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Tutorial",
+      "topic": "Tutorials Medical Imaging Radiographic Imaging (Week 1 - Week 3) Nuclear Medicine Imaging (Week 4 - Week 5) Ultrasound Imaging (Week 6 - Week 7) Magnetic Resonance Imaging (Week 8 - Week 13) Learning outcomes: L02, L03, L04, L05, L06, L08",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L08"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

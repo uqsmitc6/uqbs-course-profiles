@@ -1,0 +1,203 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMP3301-61194-7460",
+  "scraped_at": "2026-06-04T00:52:31.383617+00:00",
+  "course_code": "COMP3301",
+  "class_code": "61194",
+  "semester_code": "7460",
+  "full_course_code": "COMP3301-61194-7460",
+  "course_title": "Operating Systems Architecture",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Implementation and design techniques for operating systems. Core material includes advanced kernel-level and device driver programming techniques, how operating systems principles are realised in practice, principles and practice of operating system support for distributed and real-time computing, case studies and different approaches to operating system design and implementation, including different models of software ownership.\n\nThis course aims to develop a theoretical grounding in operating system design, backed up by practical experience from making design and implementation changes to a real operating system.\n\nOver the course of the semester, students will gain practical experience by writing systems programs (e.g., a shell) and implementing changes across core aspects of the operating system such as the scheduler,ﾠfilesystems, or device drivers. This will also involve using a virtual machine-based platform for development and testing.\n\nChanges based on student feedback\n\nWe have changed the tutorial session to a contact session for presenting key concepts/advice only related to the assignments and labs. We have also changed the assessment to include more analysis based reflections.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "COMP2303",
+      "CSSE2310"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP3300",
+      "COMP7303",
+      "COMP7308"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Matthew D'Souza",
+      "email": "COMP3301@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Matthew D'Souza"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThe lecture session will be a two-hour weekly session, and the contact session will be a one-hour weekly session.\nThe 2-hour lecture session will be divided into theory lectures and solutions to typical exam-type tutorial problems. We will also have a guest lecturer from industry on OS-related topics.\nThe order in which this material is presented and the length of each section will vary from week to week, so you should plan to attend the whole two-hour session.\nThere will also be a two-hour practical session each week to assist with the programming assignments. You should sign up for one of the sessions.\nStarting in Week 1, the practical session will be used for consultation or to work through some programmed exercises in preparation for the assignments.",
+  "course_aims": "This course will allow you to demonstrate masteryﾠof implementation issues for operating systems, including:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Identify and define key components of operating systems such as the kernel, process management, memory management, and file systems."
+    },
+    {
+      "number": "LO2.",
+      "description": "Explain the role and functionality of operating systems in managing hardware and software resources and how software interacts with hardware."
+    },
+    {
+      "number": "LO3.",
+      "description": "Create and apply design decisions for low-level operating systems components at the kernel and device driver level."
+    },
+    {
+      "number": "LO4.",
+      "description": "Analyse the performance and trade-offs of operating system components like schedulers or file systems."
+    },
+    {
+      "number": "LO5.",
+      "description": "Evaluate security features and vulnerabilities of operating systems and propose improvements or alternatives."
+    },
+    {
+      "number": "LO6.",
+      "description": "Design a simple operating system module or enhance an existing module, such as a scheduler or a file system, using appropriate programming tools and environments."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Practical/ Demonstration, Quiz, Reflection",
+      "title": "Programming Assignment One",
+      "weight": "15%",
+      "due_date": "19/08/2024 3:00 pm; You will demonstrate your assignment using the code submitted for that stage during the lab session in the week it is due.",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Practical/ Demonstration, Quiz, Reflection",
+      "title": "Programming Assignment Two",
+      "weight": "25%",
+      "due_date": "30/09/2024 3:00 pm; You will demonstrate your assignment using the code submitted for that stage during the lab session in the week it is due.",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Quiz, Reflection",
+      "title": "Programming Assignment Three",
+      "weight": "25%",
+      "due_date": "21/10/2024 3:00 pm; You will demonstrate your assignment using the code submitted for that stage during the lab session in the week it is due.",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "35%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Programming Assignment One",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Computer Code, Practical/ Demonstration, Quiz, Reflection",
+      "weight": "15%",
+      "due_date": "19/08/2024 3:00 pm You will demonstrate your assignment using the code submitted for that stage during the lab session in the week it is due.",
+      "task_description": "Each programming assignment will require students to implement a systems programming exercise in C. Students will work individually on assignments. Read full task description Hide full task description",
+      "submission_guidelines": "All assignment-related code must be submitted to the student's code repository by the due date. The code must be submitted using git push. A Git commit is not a submission as it does not send the code to the student’s online repository. Any other assignment-related assessment items must be submitted to Black Board.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nYou must post a private note on the ED Discussion Board, using the EXTENSION tag, when your code has been uploaded to your repository. A staff member will respond to your note to state when your demo will be assessed.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou must post a private note on the ED Discussion Board, using the LATE tag, when your code has been uploaded to your repository. A staff member will respond to your note to state when your demo will be assessed.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Programming Assignment Two",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Computer Code, Practical/ Demonstration, Quiz, Reflection",
+      "weight": "25%",
+      "due_date": "30/09/2024 3:00 pm You will demonstrate your assignment using the code submitted for that stage during the lab session in the week it is due.",
+      "task_description": "Each programming assignment will require students to implement a systems programming exercise in C. Students will work individually on assignments. Read full task description Hide full task description",
+      "submission_guidelines": "All assignment-related code must be submitted to the student's code repository by the due date. The code must be submitted using git push. A Git commit is not a submission as it does not send the code to the student’s online repository. Any other assignment-related assessment items must be submitted to Black Board.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nYou must post a private note on the ED Discussion Board, using the EXTENSION tag, when your code has been uploaded to your repository. A staff member will respond to your note to state when your demo will be assessed.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou must post a private note on the ED Discussion Board, using the LATE tag, when your code has been uploaded to your repository. A staff member will respond to your note to state when your demo will be assessed.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Programming Assignment Three",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Computer Code, Quiz, Reflection",
+      "weight": "25%",
+      "due_date": "21/10/2024 3:00 pm You will demonstrate your assignment using the code submitted for that stage during the lab session in the week it is due.",
+      "task_description": "Each programming assignment will require students to implement a systems programming exercise in C. Students will work individually on assignments. Read full task description Hide full task description",
+      "submission_guidelines": "All assignment-related code must be submitted to the student's code repository by the due date. The code must be submitted using git push. A Git commit is not a submission as it does not send the code to the student’s online repository. Any other assignment-related assessment items must be submitted to Black Board.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nYou must post a private note on the ED Discussion Board, using the EXTENSION tag, when your code has been uploaded to your repository. A staff member will respond to your note to state when your demo will be assessed.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou must post a private note on the ED Discussion Board, using the LATE tag, when your code has been uploaded to your repository. A staff member will respond to your note to state when your demo will be assessed.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "35%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "task_description": "The final exam will test students' understanding of the theoretical content of the course. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Weekly Lectures Weekly lectures will provide the theoretical foundation for the course material. Lecture slides are provided on the course BlackBoard site."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 12 (22 Jul - 20 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Weekly Contact Session The weekly contact session will present content related to the practicals and assignments, and revise lecture material through revision questions."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 8 (22 Jul - 15 Sep)",
+      "activity_type": "Practical",
+      "topic": "Weekly Practicals Students should sign-on to one scheduled weekly practical session. The weekly practical sessions will be on-campus and will provide an opportunity to work through a set of staged exercises which provide students with the necessary skills to undertake the programming assignments."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

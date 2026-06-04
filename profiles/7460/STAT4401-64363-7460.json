@@ -1,0 +1,172 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/STAT4401-64363-7460",
+  "scraped_at": "2026-06-04T01:19:24.742664+00:00",
+  "course_code": "STAT4401",
+  "class_code": "64363",
+  "semester_code": "7460",
+  "full_course_code": "STAT4401-64363-7460",
+  "course_title": "Advanced Statistics",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "The course focuses on the mathematical understanding of machine learning and data science. Topics to be covered in the first half include theoretical frameworks for supervised learning, unsupervised learning, and Bayesian analysis, Akaike and Bayesian Information criteria, tradeoffs in statistical learning, Monte Carlo methods, and principal component analysis. The second half will include the theory of regularization and kernel methods, Gaussian process regression and support vector machines.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "STAT3001"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "STAT3003",
+      "STAT7303",
+      "STAT7502"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Emeritus Professor Dirk Kroese",
+      "email": "kroese@maths.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Emeritus Professor Dirk Kroese",
+      "email": "kroese@maths.uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Nhat Pham"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "On completing this course, students will have obtained knowledge on advanced topics in mathematical statistics. They will have demonstrated their ability to find appropriate statistical and apply these to a given problem, critically evaluate the results and the methods and communicate the results in both written and oral forms.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Have an advanced understanding of the foundations of statistical learning, as well as providing concrete algorithms to solve statistical problems."
+    },
+    {
+      "number": "LO2.",
+      "description": "Provide proofs of fundamental theorems in statistics."
+    },
+    {
+      "number": "LO3.",
+      "description": "Implement python applications for statistical learning."
+    },
+    {
+      "number": "LO4.",
+      "description": "Confidently carry out Monte Carlo experiments."
+    },
+    {
+      "number": "LO5.",
+      "description": "Apply a range of statistical learning algorithms."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Assignments",
+      "weight": "80% , 20% each",
+      "due_date": "Assignment 1: 12/08/2024 1:00 pm; Assignment 2: 2/09/2024 1:00 pm; Assignment 3: 30/09/2024 1:00 pm; Assignment 4: 25/10/2024 1:00 pm"
+    },
+    {
+      "category": "Presentation",
+      "title": "Student Presentation",
+      "weight": "10%",
+      "due_date": "Week 1 Tue - Week 13 Wed; Time to be arranged with coordinator throughout semester.",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Participation/ Student contribution",
+      "title": "Participation During Class",
+      "weight": "10% fail/pass",
+      "due_date": "",
+      "conditions": [
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignments",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "80% , 20% each",
+      "due_date": "Assignment 1: 12/08/2024 1:00 pm Assignment 2: 2/09/2024 1:00 pm Assignment 3: 30/09/2024 1:00 pm Assignment 4: 25/10/2024 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The assignments will be on work covered in the lectures. Read full task description Hide full task description",
+      "submission_guidelines": "To be submitted via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Student Presentation",
+      "mode": "Oral",
+      "category": "Presentation",
+      "weight": "10%",
+      "due_date": "Week 1 Tue - Week 13 Wed Time to be arranged with coordinator throughout semester.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Student gives a 20-minute presentation on an advanced topic in statistics. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Participation During Class",
+      "mode": "Oral",
+      "category": "Participation/ Student contribution",
+      "weight": "10% fail/pass",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Lectures on multivariate statistics and related topics; lectures of the design and analysis of experiments Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (29 Jul - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorials Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

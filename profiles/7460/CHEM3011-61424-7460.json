@@ -1,0 +1,223 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CHEM3011-61424-7460",
+  "scraped_at": "2026-06-04T00:51:33.357916+00:00",
+  "course_code": "CHEM3011",
+  "class_code": "61424",
+  "semester_code": "7460",
+  "full_course_code": "CHEM3011-61424-7460",
+  "course_title": "Physical Chemistry: Modelling Molecular Behaviour",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Chemistry & Molec Biosciences",
+  "course_description": "This course is an introduction to concepts, theories & methods in modern physical chemistry & elements of computational molecular science. It includes molecular quantum mechanics, electronic structure, molecular dynamics, biomolecular & materials simulations, spectroscopy & statistical thermodynamics.\n\nCHEM3011 provides an introduction to the theory and practice of molecular modelling . The purpose of the course is to show how you can use computer modelling technologies ﾠto understand chemistry. For example, why does a reaction occur at a particular speed, why does a material have a particular phase behaviour, or why does a protein fold into a particular conformation? The course covers the major modern computational modelling technologies, including ﾠquantum mechanics, statistical mechanics, classical mechanics, and molecular dynamics. These approaches can be used not only to understand but also to ﾠpredict the properties of chemical systems, underpinning advances in chemistry.\n\nTopics ﾠinclude:\n\nStatistical mechanics: ﾠStatistical mechanical distribution functions; Boltzmann’s distribution; ensembles; partition functions; statistical thermodynamics approach to understanding chemical energetics, entropy ﾠand equilibria.\n\nQuantum mechanics: the Schrö￶dinger equation; Hamiltonian operator; Born–Oppenheimer approximation; Hückel theory; Hartree–Fock theory; multiconfiguration self-consistent field theory; density functional theory (DFT); semiempirical methods; and applications of these methods to studying ﾠthe structures and behaviour of molecules and materials.\n\nMolecular dynamics and (bio)molecular simulations: classical molecular mechanics; ﾠbonded and non-bonded potentials; solvation models; solving Newton's equations of motion; boundary conditions; calculation of thermodynamic properties; ﾠcomparing simulations to experimental data.ﾠ\n\nPractical applications: extensive illustrations of how computational techniques can be used in practice to study chemical behaviour ﾠwill be given in both the lectures and the practical activities. Examples drawn from recent research will highlight the applications of computational approaches to ﾠstudy nanomaterials, reaction mechanisms and biomolecular systems.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CHEM2060",
+      "CHEM2902",
+      "CHEM2056",
+      "CHEM2002",
+      "PHYS2020",
+      "PHYS2041",
+      "We recommend completing the following courses before enrolling in this one:",
+      "CHEM2050",
+      "PHYS1001",
+      "MATH1051",
+      "MATH1071",
+      "MATH1052",
+      "MATH1072"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Elizabeth Krenske",
+      "email": "e.krenske@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Elizabeth Krenske",
+      "email": "e.krenske@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Alan Mark",
+      "email": "a.e.mark@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Debra Bernhardt",
+      "email": "d.bernhardt@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Martin Stroet",
+      "email": "m.stroet@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease check your timetable regularly at the start of each semester.\nﾠ",
+  "course_aims": "The goals of this course are:\n\na) to enable students to develop an understanding of fundamental physical chemistry concepts related to the electronic structures of molecules, intermolecular interactions and (statistical) thermodynamics, which when modelled with computational techniques can be used to explain and understand a wide range of phenomena in chemistry, biology and materials science; and\n\nb) to provide practical training in the various computational and theoretical approaches that can be used to model and predict the properties of molecular systems more generally.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "have developed an understanding of the major modern techniques for molecular computation: statistical mechanics, classical mechanics, molecular dynamics and quantum mechanics."
+    },
+    {
+      "number": "LO2.",
+      "description": "have developed an understanding of the interplay between thermal motion, thermodynamics, kinetics, classical mechanics, and quantum mechanics, and how these can be used to predict structure and reactivity in molecular systems."
+    },
+    {
+      "number": "LO3.",
+      "description": "have developed a knowledge and appreciation of the concepts of physical chemistry, by understanding the way that energy is distributed in chemical systems."
+    },
+    {
+      "number": "LO4.",
+      "description": "have developed practical skills in the area of computational chemistry and molecular simulations."
+    },
+    {
+      "number": "LO5.",
+      "description": "solve problems in physical chemistry through application of principles taught in lectures and practiced in problem solving sessions and computer workshops."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Laboratory Reports",
+      "weight": "30%",
+      "due_date": "16/08/2024 2:00 pm; 13/09/2024 2:00 pm; 25/10/2024 2:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester Exam",
+      "weight": "70%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Laboratory Reports",
+      "mode": "Activity/ Performance",
+      "category": "Practical/ Demonstration",
+      "weight": "30%",
+      "due_date": "16/08/2024 2:00 pm 13/09/2024 2:00 pm 25/10/2024 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Each module includes a series of computer laboratory practical sessions. The sessions may include standalone (single-week) and/or extended (mullti-week) investigations, depending on the module (details will be provided by the lecturer). For each module, a report on the laboratory activities is to be completed. Use of Artificial Intelligence (AI) This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. Read full task description Hide full task description",
+      "submission_guidelines": "At the discretion of the individual lecturer, each laboratory report will either be completed during a designated practical session and submitted before the student leaves, or submitted through Blackboard (either through a direct Blackboard submission link or through a Turnitin link on Blackboard; lecturers will advise). Details of the submission process for each report will be advised by the lecturer.\nDeferral or extension\nYou may be able to apply for an extension .\nApplications for Extensions\nInformation on applying for an extension can be found here: my.UQ Applying for an extension .\nExtension applications must be received by the assessment due date and time.\nIf you are unable to provide approved documentation to support your application by the due date and time, you must still submit your application by the deadline but with an attached Word document that outlines why you cannot provide the approved documentation by the deadline. You will then need to acquire and upload the approved documentation to your request within 24 hours. Please note: When an extension request has been submitted and is pending, students are expected to continue to work on the assessment item, with the aim of submitting by the requested due date and time.\nProlonged Absence\nIf you have been ill or unable to attend class for more than 14 days, we advise you to carefully consider whether you are capable of successfully completing your courses this semester.\nExtensions with Student Access Plans (SAP)\nFor extensions up to 7 days, your SAP is all that is required as documentation to support your application. However, extension requests longer than 7 days (for any one assessment item) will require the submission of additional supporting documentation e.g. a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period). 10% will be deducted per day for up to 7 calendar days, at which point your submission will receive a mark of zero (0) unless an extension has been approved.\nIn most instances one or more hurdles will apply to your assessment item so you will need to submit it to fulfil the requirements of the course regardless of how late it is and the mark you are likely to be awarded.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Each module includes a series of computer laboratory practical sessions. The sessions may include standalone (single-week) and/or extended (mullti-week) investigations, depending on the module (details will be provided by the lecturer). For each module, a report on the laboratory activities is to be completed. Use of Artificial Intelligence (AI) This task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. Read full task description Hide full task description\nUse of Artificial Intelligence (AI)\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct.\nTo pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "End of Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "70%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L05",
+      "task_description": "The exam will cover all modules of the course. More information about the exam will be provided during teaching activities and/or on Blackboard. Please note: In certain previous years, the CHEM3011 exam paper included a data sheet containing equations and physical constants. This year, a data sheet will NOT be provided. Instead, students will be allowed to bring to the exam one A4 sheet of handwritten or typed notes (double sided). The sheet of notes can contain any relevant information the student wishes to have access to during the exam (equations, physical constants, and/or other information), provided that it is handwritten or typed. Students are encouraged to keep this in mind when reviewing past exam papers from previous years, and when preparing for the exam. Use of Artificial Intelligence (AI) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 180 minutes Calculator options (In person) Casio FX82 series or UQ approved , labelled calculator only Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The exam will cover all modules of the course. More information about the exam will be provided during teaching activities and/or on Blackboard. Please note: In certain previous years, the CHEM3011 exam paper included a data sheet containing equations and physical constants. This year, a data sheet will NOT be provided. Instead, students will be allowed to bring to the exam one A4 sheet of handwritten or typed notes (double sided). The sheet of notes can contain any relevant information the student wishes to have access to during the exam (equations, physical constants, and/or other information), provided that it is handwritten or typed. Students are encouraged to keep this in mind when reviewing past exam papers from previous years, and when preparing for the exam. Use of Artificial Intelligence (AI) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nUse of Artificial Intelligence (AI)\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 4 (22 Jul - 18 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lectures - Module 1 Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 4 (22 Jul - 18 Aug)",
+      "activity_type": "Practical",
+      "topic": "Computer Practicals - Module 1 Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 5 To Week 9 (19 Aug - 22 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lectures - Module 2 Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 5 To Week 9 (19 Aug - 22 Sep)",
+      "activity_type": "Practical",
+      "topic": "Computer Practicals - Module 2 Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 10 To Week 13 (30 Sep - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lectures - Module 3 Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 10 To Week 13 (30 Sep - 27 Oct)",
+      "activity_type": "Practical",
+      "topic": "Computer Practicals - Module 3 Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

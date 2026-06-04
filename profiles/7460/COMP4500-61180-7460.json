@@ -1,0 +1,213 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMP4500-61180-7460",
+  "scraped_at": "2026-06-04T00:52:37.705010+00:00",
+  "course_code": "COMP4500",
+  "class_code": "61180",
+  "semester_code": "7460",
+  "full_course_code": "COMP4500-61180-7460",
+  "course_title": "Advanced Algorithms & Data Structures",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Analysis of algorithms. Solution of summation and recurrence equations. Algorithm paradigms: divide-and-conquer, greedy algorithms, dynamic programming, backtracking, branch-and-bound. Advanced graph algorithms. Amortised analysis. Self-adjusting data structures. Complexity classes, NP-completeness. Approximation algorithms. Randomized algorithms.\n\nOn entry to this subject, you have studied basic data structures and programming techniques. The objective of this subject is to build on these basic programming skills to develop an understanding of algorithm design and analysis techniques.\n\nA number of general design paradigms, such as divide-and-conquer, play an important role in the development of algorithms. Familiarity with these paradigms can aid the programmer in the development of algorithms to solve new problems. The study of these design paradigms is an important component of this subject.\n\nIt is not enough just to derive an algorithm that solves a problem. If the algorithm is inefficient, it may be useless in practice. One can better appreciate an algorithm if one can analyse its use of resources, such as memory and computing time. Such analyses provide the basis for comparison of different algorithms to solve the same problem.\n\nOverall, this subject can be viewed as an advanced course on programming, with an emphasis on developing both your ability to solve programming problems and to analyse your algorithms to ascertain their efficiency.\n\nCourse Changes in Response to Previous Student Feedback\n\nThe duration of the final examination was increased to 180 minutes.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "COMP3506"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP7500",
+      "This course is jointly-taught with:",
+      "All learning activities are jointly taught."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Larissa Meinicke",
+      "email": "COMP4500@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Larissa Meinicke"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course aims to expand your abilities to analyse, critique, design, and implement advanced data structures and algorithms.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Analyse, compare, and contrast algorithms and data structures by evaluating their time and space complexity."
+    },
+    {
+      "number": "LO2.",
+      "description": "Apply algorithm design paradigms to generate novel solutions."
+    },
+    {
+      "number": "LO3.",
+      "description": "Design abstract solutions based on graph algorithms, dynamic programming, and greedy methods."
+    },
+    {
+      "number": "LO4.",
+      "description": "Develop efficient implementations to abstract solutions."
+    },
+    {
+      "number": "LO5.",
+      "description": "Perform amortised analysis of data structures and algorithms."
+    },
+    {
+      "number": "LO6.",
+      "description": "Explain the theory and relevance of theoretical complexity classes."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Online quizzes",
+      "weight": "10%",
+      "due_date": "9/08/2024 3:00 pm; 16/08/2024 3:00 pm; 23/08/2024 3:00 pm; 6/09/2024 3:00 pm; 11/10/2024 3:00 pm; 25/10/2024 3:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code",
+      "title": "Assignment 1",
+      "weight": "20%",
+      "due_date": "13/09/2024 3:00 pm"
+    },
+    {
+      "category": "Computer Code",
+      "title": "Assignment 2",
+      "weight": "20%",
+      "due_date": "18/10/2024 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Online quizzes",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "10%",
+      "due_date": "9/08/2024 3:00 pm 16/08/2024 3:00 pm 23/08/2024 3:00 pm 6/09/2024 3:00 pm 11/10/2024 3:00 pm 25/10/2024 3:00 pm",
+      "task_description": "There will be 6 computer-based quizzes worth 2% each. Only the marks for your best 5 quizzes will contribute towards your final grade. They will be due at 3pm on Friday in weeks 3, 4, 5, 7, 11 and 13. Read full task description Hide full task description",
+      "submission_guidelines": "The quizzes are accessed via the course Blackboard site.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nTo accommodate unforeseen circumstances such as illness, your quiz score will be based on the best 5 out of 6 submissions.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 1",
+      "mode": "Written",
+      "category": "Computer Code",
+      "weight": "20%",
+      "due_date": "13/09/2024 3:00 pm",
+      "task_description": "The assignment covers algorithm analysis, graphs and graph algorithms. All details of the assignment will be provided via the course blackboard site. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted online via Blackboard unless otherwise specified for a particular assessment item.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 7-14 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 2",
+      "mode": "Written",
+      "category": "Computer Code",
+      "weight": "20%",
+      "due_date": "18/10/2024 3:00 pm",
+      "task_description": "The assignment covers algorithm analysis, and algorithm design paradigms. All details of the assignment will be provided via the course blackboard site. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted online via Blackboard unless otherwise specified for a particular assessment item.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 7-14 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "task_description": "The final examination is compulsory and covers the entire course. The final examination is not open book, but you may bring in one A4-size page crib sheet: it may be written on both sides it may be handwritten if machine produced it must be a minimum of 10-point font size it is to be handed in with your examination script No calculators permitted. Further details on the examination content and past examination papers will be provided at the end of semester and will be available from Blackboard. Method of delivery: This exam will be held conducted as an invigilated on-campus exam. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 180 minutes Calculator options No calculators permitted Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorials Weekly tutorials."
+    },
+    {
+      "learning_period": "Week 1 (22 Jul - 28 Jul)",
+      "activity_type": "Lecture",
+      "topic": "Introduction and mathematical background Time and space complexity: the desire for an implementation independent measure; worst-case and average-case complexity. Evaluating efficiency: rate of growth, asymptotic time complexity; notation. Iterative algorithms: analysis of \"while\" and \"for\" loops; summations."
+    },
+    {
+      "learning_period": "Week 2 (29 Jul - 04 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Divide and conquer algorithms and recurrences Divide-and conquer, recursion; divide, conquer and combine. Solving recurrences: substitution; iterating the recurrence to get a summation; recursion trees; master method."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 3 To Week 5 (05 Aug - 25 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Graph algorithms Directed and undirected graphs: vertex, edge, predecessor, successor, in-degree, out-degree, path, reachable, simple, cycle; weighted graphs. Graph representations: adjacency list and matrix representations. Graph algorithms: breadth-first search; depth-first search; topological sort. Minimal spanning tree: generic form, greedy choice strategy."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 6 To Week 7 (26 Aug - 08 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Dynamic programming Optimal substructure; overlapping sub-problems; table of sub-problem solutions; memoization; order of evaluation; dynamic programming."
+    },
+    {
+      "learning_period": "Week 8 (09 Sep - 15 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Greedy algorithms Greedy method: optimal substructure; greedy choice property; comparison of dynamic programming and greedy paradigms."
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Amortised analysis Efficiency analysis in terms of sequences of operations; crude analysis; global analysis; the accounting method; the potential method."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 10 To Week 11 (30 Sep - 13 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Complexity classes Decision problems; tractable and intractable problems; Polynomial time; the class P; Polynomial time verification; the class NP; reducibility; NP-completeness. Traveling-salesman problem."
+    },
+    {
+      "learning_period": "Week 12 (14 Oct - 20 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Randomised algorithms Probabilistic analysis, randomised quicksort."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

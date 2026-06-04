@@ -1,0 +1,222 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/DECO7250-60441-7460",
+  "scraped_at": "2026-06-04T00:54:45.364778+00:00",
+  "course_code": "DECO7250",
+  "class_code": "60441",
+  "semester_code": "7460",
+  "full_course_code": "DECO7250-60441-7460",
+  "course_title": "Human-Computer Interaction",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Models of action, perception, cognition and interaction in human-machine systems. Methods of interaction analysis and interaction representation. Human-machine system evaluation. Practical implementation. Introduction to user and use-centred design principles. Broader topics may include: societal considerations, groupware, multimedia, media perspectives.\n\nDECO2500 gives students an introduction to human-computer interaction and interaction design including user experience, human-centred design, and identifying system requirements to support. Classes will be a mixture of lectures presenting the core concepts, and three-hour Studiosﾠduring which students work on a project that requires the application of those core concepts to the design of an interactive system.\n\nThe content of this course has been modified several times based on student feedback. The duration of the lecture has been extended and group work has been reduced. We recently removed online quizzes as well based on the feedback.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "DECO7140",
+      "CSSE7030"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP2506",
+      "COMP3501",
+      "COMP7904",
+      "DECO2500",
+      "This course is jointly-taught with:"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Nell Baghaei",
+      "email": "DECO2500@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Nell Baghaei"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Jarrod Knibbe"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThe timetable for DECO2500 is split into a two-hour Lecture session combined with DECO7250 students, and a two-hour Studio session. Lectures will occur on campus and will be recorded. The studio sessions will occur on campus and will not be recorded.\nﾠ",
+  "course_aims": "This course provides students with an introduction to the theory and methods underlying Human-Computer Interaction. Students will gain experience in researching user needs and goals, then developing appropriately targeted design solutions to the needs and goals they have identified.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand Human-Computer Interaction from a historical/theoretical perspective to identify some of the major themes and influences that have shaped the field."
+    },
+    {
+      "number": "LO2.",
+      "description": "Relate cognitive, social, behavioural, and emotional theories to the design of effective human-system interaction."
+    },
+    {
+      "number": "LO3.",
+      "description": "Analyse human-centred design issues by applying a range of design research methods, which involve the people from target user groups, in the process of interactive system design."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply HCI techniques and principles of user-interface design in the design of an interactive system."
+    },
+    {
+      "number": "LO5.",
+      "description": "Select and apply appropriate HCI evaluation (user and expert) techniques to evaluate interactive systems and analyse the results of those evaluation methods."
+    },
+    {
+      "number": "LO6.",
+      "description": "Apply HCI knowledge, in terms of system accessibility, within appropriate user-interface design for a broad range of user groups."
+    },
+    {
+      "number": "LO7.",
+      "description": "Demonstrate an ability to work collaboratively and effectively with others in a team towards shared goals, while managing individual work"
+    },
+    {
+      "number": "LO8.",
+      "description": "Demonstrate an understanding of relevant HCI research by identifying, inspecting, and critiquing appropriate literature and with appropriate referencing."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Design Proposal",
+      "weight": "20% (Group)",
+      "due_date": "4/10/2024 4:00 pm",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Interface Inquiry",
+      "weight": "25% (Individual)",
+      "due_date": "18/10/2024 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "35% (Individual)",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Individual UX Guide",
+      "weight": "20%",
+      "due_date": "20/09/2024 4:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Design Proposal",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "20% (Group)",
+      "due_date": "4/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L02, L03, L04, L05, L06, L07",
+      "task_description": "In teams, you will work through a human-centred design process to propose a design for an interactive system (e.g., an app, web app, web site, AR/VR app or other system). Your team should produce a report that evidences this process. A specific task sheet will be provided in class. Most importantly, the focus of the work your team will be completing is the process that your team follows to design the interactive system. Read full task description Hide full task description",
+      "submission_guidelines": "Your team should submit a single electronic file in Blackboard on or before the due date/time. Please ensure that a completed and signed coversheet is attached to the beginning of your teams work before it is submitted. Your team submission must be a single word-processed document that contains your teams report, including coversheet, reference list and appendix. Microsoft Word (.doc/.docx) or Pages (.pages) formats only. Note PDF is acceptable but is not the preferred format.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nIn team-based assessment, the assignment is developed and iterated on over the semester and this is used to support the development of genuine reflective practice in the assessment and enable students to learn skills required in standard industry design practice. If teams encounter extraordinary difficulties in meeting a deadline, they should contact the Course Coordinator in advance of the due date and in all cases, teams should submit a version of the assignment by the deadline.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Interface Inquiry",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "25% (Individual)",
+      "due_date": "18/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L02, L05",
+      "task_description": "Each student will appraise and assess an existing interface using a range of HCI theories and techniques. You should produce a report that includes evidence of your inquiry, including a justification of the methods chosen and recommendations for what you would change and why. Read full task description Hide full task description",
+      "submission_guidelines": "You should submit a single electronic file on Blackboard on or before the due date/time. Please ensure that you include a completed and signed coversheet to the beginning of your work before it is submitted. Your submission must be a single word-processed document that contains your assignment, including coversheet (Microsoft Word (.doc/.docx) or Pages (.pages) formats only. Note PDF is acceptable but is not the preferred format.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 7-14 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "35% (Individual)",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "learning_outcomes_assessed": "L01, L02",
+      "task_description": "The final end of semester exam will test understanding of the concepts covered over the entire course. The exam will be an invigilated on-campus exam that meets the identity verified assessment requirement. The format will be Multiple-choice and Short answer. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options Casio FX82 series calculator only Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Individual UX Guide",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "20/09/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L08",
+      "task_description": "In order to demonstrate Masters level understanding, DECO7250 students will produce a guide aimed at UX practitioners working in industry that is grounded in HCI literature. Please see section 5.4 for guidance on the use of generative AI tools in assessment for this course. Read full task description Hide full task description",
+      "submission_guidelines": "You should submit a single electronic file via the Turnitin Assignment Handler in Blackboard on or before the due date/time. Please ensure that you include a completed and signed coversheet to the beginning of your work before it is submitted. Your submission must be a single word-processed document that contains your assignment, including coversheet (Microsoft Word (.doc/.docx) or Pages (.pages) formats only. Note PDF is acceptable but is not the preferred format.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "ai_statement": "In order to demonstrate Masters level understanding, DECO7250 students will produce a guide aimed at UX practitioners working in industry that is grounded in HCI literature. Please see section 5.4 for guidance on the use of generative AI tools in assessment for this course. Read full task description Hide full task description\nIn order to demonstrate Masters level understanding, DECO7250 students will produce a guide aimed at UX practitioners working in industry that is grounded in HCI literature. Please see section 5.4 for guidance on the use of generative AI tools in assessment for this course.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Studio",
+      "topic": "Weekly Studio Sessions Studios will be delivered in-person (face-to-face), as long as it is safe to do so. Students will work with demonstrators and staff on their team projects and related activities that support the assessment deliverables. Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Lecture Lectures will be delivered in-person (face-to-face) and will cover relevant topics in Human-Computer Interaction. Topics may include, but are not limited to, the interaction design process, interaction fundamentals, ethics, mental models, conceptual design, cognition, interaction paradigms, evaluating usability, etc. Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

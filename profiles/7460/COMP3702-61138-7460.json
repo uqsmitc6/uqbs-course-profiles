@@ -1,0 +1,232 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMP3702-61138-7460",
+  "scraped_at": "2026-06-04T00:52:33.103949+00:00",
+  "course_code": "COMP3702",
+  "class_code": "61138",
+  "semester_code": "7460",
+  "full_course_code": "COMP3702-61138-7460",
+  "course_title": "Artificial Intelligence",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Methods and techniques within the field of artificial intelligence, including topics on search, reasoning and planning with certainty, decision-making under uncertainty, learning to act and reasoning about other agents. Specific emphasis on the practical utility of algorithms and their implementation in software.\n\nThis course provides foundational concepts, methods and techniques usedﾠin artificial intelligence - both theoretical and practical. The course aims to provide the student with aﾠbroad understanding of the field of artificial intelligence and introduces several of the most important algorithms and techniques that have found theoretical and practical applicability when constructing intelligent agents. The course includes topics on search, reasoning and planning with certainty,ﾠreasoning and planning under uncertainty, learning to act and reasoning about other agents.ﾠThe course enables the student to:\n\nThis year's changes include the addition of more code demonstrations in lectures, a greater focus on reinforcement learning (and deep reinforcement learning), and the introduction of interviews to test assignment code understanding for a subset of students.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE1001",
+      "CSSE7030",
+      "ENGG1001",
+      "We recommend completing the following courses before enrolling in this one:",
+      "MATH1061"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP3701",
+      "COMP7701",
+      "COMP7702"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Alina Bialkowski",
+      "email": "COMP3702@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Alina Bialkowski"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The courseﾠaims to introduce the foundational concepts and methods used in the field of artificial intelligence and provide students with skills to apply these techniques. Specifically the course aims to give students an overview of the following topics in artificial intelligence:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Describe the core theoretical and conceptual frameworks, methods and practices which form the basis of artificial intelligence."
+    },
+    {
+      "number": "LO2.",
+      "description": "Explain the properties and functions of a range of different artificial intelligence methods and to be able to connect a method to appropriate theoretical foundations."
+    },
+    {
+      "number": "LO3.",
+      "description": "Effectively solve problems relating to artificial intelligence topics and applications discussed in class and in the literature."
+    },
+    {
+      "number": "LO4.",
+      "description": "Implement techniques and methods from artificial intelligence using a high-level programming language."
+    },
+    {
+      "number": "LO5.",
+      "description": "Effectively formulate real-world problems as problem representations solvable by existing techniques in artificial intelligence."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "title": "Assignment 1",
+      "weight": "20%",
+      "due_date": "23/08/2024 1:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "title": "Assignment 2",
+      "weight": "20%",
+      "due_date": "20/09/2024 1:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "title": "Assignment 3",
+      "weight": "20%",
+      "due_date": "25/10/2024 1:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment 1",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "weight": "20%",
+      "due_date": "23/08/2024 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The assignments will comprise three components to complete during the semester, with assessable items due in weeks 5, 9 and 13. Assignment submission will consist of code and an associated report; detailed specifications will be provided on Blackboard at the required time. The assignments are designed to test a student's: understanding of artificial intelligence techniques. practical application of skills acquired in contact sessions using high-level programming language. ability in choosing an appropriate artificial intelligence technique to solve a problem; and ability to convey their solution in a manner accessible by their peers. Please ensure that you download and begin your assignments as soon as possible on or after the date of issue. Students are advised to create back-up copies of their assignments, as software can fail (or be lost) for many reasons and it happens quite frequently; it is recommended that you make use of a software version control system (e.g. git), with appropriate privacy settings in place to prevent inadvertently violating academic integrity standards. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments will be submitted via Gradescope (details will be provided on Blackboard).\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback will be released to students within approximately 14 days of submission.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The assignments will comprise three components to complete during the semester, with assessable items due in weeks 5, 9 and 13. Assignment submission will consist of code and an associated report; detailed specifications will be provided on Blackboard at the required time. The assignments are designed to test a student's: understanding of artificial intelligence techniques. practical application of skills acquired in contact sessions using high-level programming language. ability in choosing an appropriate artificial intelligence technique to solve a problem; and ability to convey their solution in a manner accessible by their peers. Please ensure that you download and begin your assignments as soon as possible on or after the date of issue. Students are advised to create back-up copies of their assignments, as software can fail (or be lost) for many reasons and it happens quite frequently; it is recommended that you make use of a software version control system (e.g. git), with appropriate privacy settings in place to prevent inadvertently violating academic integrity standards. Read full task description Hide full task description\nunderstanding of artificial intelligence techniques.\nability in choosing an appropriate artificial intelligence technique to solve a problem; and",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 2",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "weight": "20%",
+      "due_date": "20/09/2024 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The assignments will comprise three components to complete during the semester, with assessable items due in weeks 5, 9 and 13. Assignment submission will consist of code and an associated report; detailed specifications will be provided on Blackboard at the required time. The assignments are designed to test a student's: understanding of artificial intelligence techniques. practical application of skills acquired in contact sessions using high-level programming language. ability in choosing an appropriate artificial intelligence technique to solve a problem; and ability to convey their solution in a manner accessible by their peers. Please ensure that you download and begin your assignments as soon as possible on or after the date of issue. Students are advised to create back-up copies of their assignments, as software can fail (or be lost) for many reasons and it happens quite frequently; it is recommended that you make use of a software version control system (e.g. git), with appropriate privacy settings in place to prevent inadvertently violating academic integrity standards. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments will be submitted via Gradescope (details will be provided on Blackboard).\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback will be released to students within approximately 14 days of submission.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The assignments will comprise three components to complete during the semester, with assessable items due in weeks 5, 9 and 13. Assignment submission will consist of code and an associated report; detailed specifications will be provided on Blackboard at the required time. The assignments are designed to test a student's: understanding of artificial intelligence techniques. practical application of skills acquired in contact sessions using high-level programming language. ability in choosing an appropriate artificial intelligence technique to solve a problem; and ability to convey their solution in a manner accessible by their peers. Please ensure that you download and begin your assignments as soon as possible on or after the date of issue. Students are advised to create back-up copies of their assignments, as software can fail (or be lost) for many reasons and it happens quite frequently; it is recommended that you make use of a software version control system (e.g. git), with appropriate privacy settings in place to prevent inadvertently violating academic integrity standards. Read full task description Hide full task description\nunderstanding of artificial intelligence techniques.\nability in choosing an appropriate artificial intelligence technique to solve a problem; and",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 3",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "weight": "20%",
+      "due_date": "25/10/2024 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The assignments will comprise three components to complete during the semester, with assessable items due in weeks 5, 9 and 13. Assignment submission will consist of code and an associated report; detailed specifications will be provided on Blackboard at the required time. The assignments are designed to test a student's: understanding of artificial intelligence techniques. practical application of skills acquired in contact sessions using high-level programming language. ability in choosing an appropriate artificial intelligence technique to solve a problem; and ability to convey their solution in a manner accessible by their peers. Please ensure that you download and begin your assignments as soon as possible on or after the date of issue. Students are advised to create back-up copies of their assignments, as software can fail (or be lost) for many reasons and it happens quite frequently; it is recommended that you make use of a software version control system (e.g. git), with appropriate privacy settings in place to prevent inadvertently violating academic integrity standards. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments will be submitted via Gradescope (details will be provided on Blackboard).\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback will be released to students within approximately 14 days of submission.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The assignments will comprise three components to complete during the semester, with assessable items due in weeks 5, 9 and 13. Assignment submission will consist of code and an associated report; detailed specifications will be provided on Blackboard at the required time. The assignments are designed to test a student's: understanding of artificial intelligence techniques. practical application of skills acquired in contact sessions using high-level programming language. ability in choosing an appropriate artificial intelligence technique to solve a problem; and ability to convey their solution in a manner accessible by their peers. Please ensure that you download and begin your assignments as soon as possible on or after the date of issue. Students are advised to create back-up copies of their assignments, as software can fail (or be lost) for many reasons and it happens quite frequently; it is recommended that you make use of a software version control system (e.g. git), with appropriate privacy settings in place to prevent inadvertently violating academic integrity standards. Read full task description Hide full task description\nunderstanding of artificial intelligence techniques.\nability in choosing an appropriate artificial intelligence technique to solve a problem; and",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L05",
+      "task_description": "The end of semester exam will examine all of the material covered during the semester. This exam will be closed-book and may contain multiple choice, short-answer, essay and problem-solving questions. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Problem-based learning",
+      "topic": "In-class exercises A series of exercises will be conducted in lecture to provide opportunity for better student engagement with content and in-depth discussions. Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Lectures Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Practical",
+      "topic": "Practicals/Theory Class Tutorials will provide opportunity to practice the techniques introduced in lectures Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Information technology session",
+      "topic": "RiPPLE personalised learning activities Students will be required to complete four RiPPLE rounds, which includes answering, generating and reviewing instructor and peer-generated questions. Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

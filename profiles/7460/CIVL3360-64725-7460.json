@@ -1,0 +1,296 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CIVL3360-64725-7460",
+  "scraped_at": "2026-06-04T00:51:58.215373+00:00",
+  "course_code": "CIVL3360",
+  "class_code": "64725",
+  "semester_code": "7460",
+  "full_course_code": "CIVL3360-64725-7460",
+  "course_title": "Reinforced Concrete Design",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Civil Engineering School",
+  "course_description": "Reinforced concrete theory for flexure, shear, compression; strength and serviceability limit states; slabs - lower bound analysis. Strength and deformation properties; material selection; mix design and specification; durability; code requirements; case studies; low cementitious binders; laboratory.\n\nConcrete is the most widely used construction material in the world. Buildings, bridges, dams and roads – the infrastructure our cities and communities rely on– use reinforced concrete as the design material of choice.\n\nIn this course, you will learn how to design key elements in reinforced concrete structures – beams, slabs and columns – and how to combine these elements to design simple structures.\n\nYou will also learn about concrete as a material, and how as an engineer the choices you make can lead to more durable and sustainable concrete structures.\n\nThe course content provides the foundation on which advanced reinforced and prestressed concrete design skills are developed in later semesters.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ENGG1700",
+      "ENGG1400"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "CIVL2360"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Liza O'Moore",
+      "email": "l.omoore@uq.edu.au",
+      "notes": "For general course queries please use civl3360@uq.edu.au. This email is monitored by A/Prof O'Moore, Dr Chen and the Civil Admin team. For personal/sensitive emails please email me at l.omoore@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Liza O'Moore",
+      "email": "l.omoore@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Shujian Chen",
+      "email": "shujian.chen@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nStudents must sign on to a practical class\nAND\na workshop class using ALLOCATE+\nA copy of the lab timetable will also be available on Blackboard.",
+  "course_aims": "The aim of the Reinforced Concrete Structures part of this course is:\n\nThe purpose of the Concrete Technology component of this course is:\n\nThe skills learnt in both the Concrete Technology and Reinforced Concrete Design sections of this course are used in numerous design and analysis courses in later semesters.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "In-Depth Knowledge - Beams: The student will be able to analyse and design a reinforced concrete beam for flexure/bending and shear. The student will be able to analyse a reinforced concrete beam for serviceability response and calculate and evaluate deflections and crack control in accordance with the relevant code, AS3600. The student will be able to detail the reinforcement of a beam to comply with the regulations set out in AS3600."
+    },
+    {
+      "number": "LO2.",
+      "description": "In-Depth Knowledge - Columns: The student will be able to analyse and design both slender and stocky reinforced concrete columns. The student will be able to analyse the biaxial bending behaviour of a column in accordance with the relevant code, AS3600. The student will be able to detail the reinforcement of a column to comply with the regulations set out in AS3600."
+    },
+    {
+      "number": "LO3.",
+      "description": "In-Depth Knowledge - Slabs: The student will be able to analyse and design a reinforced concrete slab. The students will be able to calculate design bending moments and shears using codified analysis techniques and the Hillerborg Strip method. The student will be able to analyse a reinforced concrete slab for serviceability response and calculate and evaluate deflections and crack control in accordance with the relevant code, AS3600. The student will be able to detail the reinforcement of a slab to comply with the regulations set out in AS3600."
+    },
+    {
+      "number": "LO4.",
+      "description": "Technical Knowledge (Concrete Technology): The student will be able to identify and describe the fundamental properties of concrete. The students will be able to specify the appropriate types of concrete for a range of environments. They will understand and be able to describe how the technology of the concrete and short and long term performance is related."
+    },
+    {
+      "number": "LO5.",
+      "description": "Hands-on skills - The laboratory classes will provide students with the opportunity to develop practical hands-on knowledge of working with concrete and reinforcing steel."
+    },
+    {
+      "number": "LO6.",
+      "description": "Critical Thinking: The student will be able to apply analysis and design skills to unfamiliar structural elements and applications."
+    },
+    {
+      "number": "LO7.",
+      "description": "Communication: The student will demonstrate an ability to effectively communicate the results of engineering analysis and design to other engineers or professionals."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Quiz - Concrete Technology",
+      "weight": "5% Summative",
+      "due_date": "Week 1 - Week 6",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Concrete Technology In-Semester Examination",
+      "weight": "20% Summative",
+      "due_date": "In-semester Saturday; 31/08/2024 - 14/09/2024; Exam is being run on Saturday 14/09/2024 at 9:00 AM",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Product/ Design",
+      "title": "Reinforced Concrete Design Portfolio",
+      "weight": "15% Summative",
+      "due_date": "Part A - Refer to Blackboard for details of submission requirement 19/08/2024 3:00 pm; Part B - Refer to Blackboard for details of submission requirement 30/09/2024 3:00 pm; Part C - Refer to Blackboard for details of submission requirement 21/10/2024 3:00 pm"
+    },
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Concrete Practical",
+      "weight": "Pass/Fail Hurdle",
+      "due_date": "19/08/2024 - 21/10/2024; Group will complete all calculations during the prac classes.",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Reinforced Concrete Design End of Semester Examination",
+      "weight": "60% Summative",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Quiz - Concrete Technology",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "5% Summative",
+      "due_date": "Week 1 - Week 6",
+      "learning_outcomes_assessed": "L04",
+      "task_description": "Summative and formative quiz questions included with the Weekly Concrete Technology Modules. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online quiz questions embedded in Concrete Technology Modules\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nQuiz questions remain open and students can attempt as many times as they like.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nQuizzes will be open from week 1 week 6 and students will have unlimited attempts during this time",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Summative and formative quiz questions included with the Weekly Concrete Technology Modules. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Concrete Technology In-Semester Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "20% Summative",
+      "due_date": "In-semester Saturday 31/08/2024 - 14/09/2024 Exam is being run on Saturday 14/09/2024 at 9:00 AM",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L04, L07",
+      "task_description": "COMPULSORY 60-minute multiple-choice and short answer closed-book examination covering Concrete Technology. This is the only assessment covering Concrete Technology component of the course. The exam will be held on a Saturday in the mid-semester exam block as per https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/exam-timetables-and-venues/important-exam-dates . This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 60 minutes Calculator options No calculators permitted Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "COMPULSORY 60-minute multiple-choice and short answer closed-book examination covering Concrete Technology. This is the only assessment covering Concrete Technology component of the course. The exam will be held on a Saturday in the mid-semester exam block as per https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/exam-timetables-and-venues/important-exam-dates . This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Reinforced Concrete Design Portfolio",
+      "mode": "Written",
+      "category": "Product/ Design",
+      "weight": "15% Summative",
+      "due_date": "Part A - Refer to Blackboard for details of submission requirement 19/08/2024 3:00 pm Part B - Refer to Blackboard for details of submission requirement 30/09/2024 3:00 pm Part C - Refer to Blackboard for details of submission requirement 21/10/2024 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L06, L07",
+      "task_description": "A series of staged tasks covering the design and detailing of reinforced concrete elements. To aid students' time management, students will be required to submit in stages. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Via Blackboard - Refer to instructions on Blackboard for submission via Gradescope.\nNon-compliant submissions will not be marked.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions will be released 7 days after submission to aid in exam preparation.\nStudents with a valid reason for a longer extension will have the weighting of the remaining submissions increased on a prorated basis.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "A series of staged tasks covering the design and detailing of reinforced concrete elements. To aid students' time management, students will be required to submit in stages. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Concrete Practical",
+      "mode": "Activity/ Performance",
+      "category": "Practical/ Demonstration",
+      "weight": "Pass/Fail Hurdle",
+      "due_date": "19/08/2024 - 21/10/2024 Group will complete all calculations during the prac classes.",
+      "learning_outcomes_assessed": "L01, L04, L05",
+      "task_description": "Students must attend 2 practical classes. Students will undertake calculations as a group during the prac class. To access the concrete prac classes it is a mandatory requirement that you have Completed the U/G Student Lab Safety Induction Assessment (UGRD01) prior to attending a practical experiment session. Students only have to complete the assessment once during their undergraduate degree. (by Friday of week 3) Steel capped safety boots & Safety glasses If you do not have all of these items at the time of your first prac, you will NOT be permitted to access the laboratory. Suitable clothing is as follows: lab coats are NOT required students must wear shirts with sleeves (no singlet tops) and suitable shorts/pants. Very short shorts are not permitted - shorts should come to the knee. Read full task description Hide full task description",
+      "submission_guidelines": "Group will complete all calculations during the prac classes.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nIf a student us unable to attend their designated practical class they should apply for an extension and will be allocated to another practical class where possible.\nIf there is no alternative practical class available, a student with an approved extension will be provided with alternative assessment via a virtual practical class.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nAs time is provided within the practical class to complete all work, no late submissions will be accepted.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-4",
+      "title": "Reinforced Concrete Design End of Semester Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60% Summative",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L06, L07",
+      "task_description": "The format of the exam will be written and/or problem-solving calculation-based questions covering the Reinforced Concrete Design content only. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 180 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted UNANNOTATED copy of AS3600-2018 printed no smaller than 2 pages per A4 page, single or double sided. Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The format of the exam will be written and/or problem-solving calculation-based questions covering the Reinforced Concrete Design content only. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.\nOwn copy required\nYou'll need to have your own copy of the following reading resources. We've indicated below if you need a personal copy of the reading materials or your own item.\nItem Description Document AS 3600:2018: Concrete structures Publisher: Standards Australia Limited ISBN: 9771760721466",
+    "own_copy_required": "You'll need to have your own copy of the following reading resources. We've indicated below if you need a personal copy of the reading materials or your own item.\nItem Description Document AS 3600:2018: Concrete structures Publisher: Standards Australia Limited ISBN: 9771760721466",
+    "other_course_materials": "If we've listed something under further requirement, you'll need to provide your own. Required Item Description Further Requirement Safety Boots Access to laboratories not permitted without PPE own item needed Safety Glasses Access to laboratories not permitted without PPE own item needed Approved calculator The use of unlabelled calculators is not permitted except for the Casio fx-82 series own item needed",
+    "required": "Item Description Further Requirement Safety Boots Access to laboratories not permitted without PPE own item needed Safety Glasses Access to laboratories not permitted without PPE own item needed Approved calculator The use of unlabelled calculators is not permitted except for the Casio fx-82 series own item needed"
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lecture (Reinforced Concrete) During lectures key concepts in reinforced concrete design are introduced. Examples of the design principles being developed are given. The lectures signpost the way for students to learn in the workshops, practical sessions and their own study. Discussion and questions are encouraged. A detailed outline of lecture topics is available on the BlackBoard site. Reinforced Concrete Lectures will be in person Learning outcomes: L01, L02, L03, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Workshop",
+      "topic": "Workshop In the workshop sessions the students can apply the techniques presented in lectures to solve problems. The workshops provide the students with the opportunity to discuss any questions which arise from the lectures and the practical sessions with the tutor, teaching staff and amongst themselves. The independent completion of workshop is the single most significant learning activity students will undertake for the reinforced concrete design component. Learning outcomes: L01, L02, L03, L04, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Not Timetabled",
+      "topic": "Reading - Reinforced Concrete Design Students will spend time outside the designated contact hours reviewing lecture material, working on workshop problems and reading reference texts relevant to the Reinforced Concrete Design section of the course. Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 5 (22 Jul - 25 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Pre-recorded Lecture (Concrete Technology) During the pre-recorded lectures key concepts in concrete technology are introduced. The lectures signpost the way for students to learn in the workshops, practical sessions and their own study. Discussion and questions are encouraged. A detailed outline of lecture topics is available on the BlackBoard site. Concrete Technology Lectures will be pre-recorded and there will be an in-person Lecture used for review and discussion. See the Schedule on BlackBoard. Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 5 (22 Jul - 25 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture Review (Concrete Technology) During the CT Review lecture the lecturer will lead a discussion and Q&A session on the relevant CT lectures.. Discussion and questions are encouraged. A detailed outline of lecture topics is available on the BlackBoard site. Concrete Technology Lectures will be pre-recorded and there will be an in-person Lecture used for review and discussion. See the Schedule on BlackBoard. Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 5 (22 Jul - 25 Aug)",
+      "activity_type": "Not Timetabled",
+      "topic": "Reading - Concrete Technology Students will spend time outside the designated contact hours reviewing lecture material, working on workshop problems and reading reference texts relevant to the Concrete Technology section of the course. Additional reading is essential if students want to pass the concrete technology component. Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 5 To Week 13",
+      "activity_type": "Practical",
+      "topic": "Prac Classes Students will attend two practical sessions as per their personal timetable. In these sessions the students will work in a group of approximately 12 -14 students to design, construct and test 2 reinforced concrete beams. The group will be responsible for analysing the aggregates; designing the concrete mix; designing and constructing the reinforcing cage; mixing and placing the concrete; and testing the beams to failure. Learning outcomes: L01, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . You'll also need to be aware of the following policies and procedures while completing this course: Laboratory Occupational Health and Safety School guidelines Your school has additional guidelines you'll need to follow for this course: School of Civil Engineering School Guidelines Learning activities"
+}

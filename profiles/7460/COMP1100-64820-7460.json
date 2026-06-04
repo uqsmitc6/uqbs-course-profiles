@@ -1,0 +1,200 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMP1100-64820-7460",
+  "scraped_at": "2026-06-04T00:52:29.107890+00:00",
+  "course_code": "COMP1100",
+  "class_code": "64820",
+  "semester_code": "7460",
+  "full_course_code": "COMP1100-64820-7460",
+  "course_title": "Introduction to Software Innovation",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Introduction to innovation using computer science and information technology through a discipline-specific team project. Students will learn what innovation is, processes that innovators follow, how innovation teams work together, how to make decisions in technology projects, how to use prototyping in the innovation process and the tools required to successfully deliver and communicate an innovation project.\n\nThis is the first offering of the course.",
+  "requirements": {
+    "prerequisites": [
+      "We recommend completing the following courses before enrolling in this one:",
+      "CSSE1001"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP7110",
+      "This course is jointly-taught with:",
+      "All learning activities are jointly taught."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Tim Miller",
+      "email": "COMP1100@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Tim Miller"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course aims to introduce the fundamentals of innovation in computer science and information technology through a discipline-specific team project. Students will learn what innovation is, processes that innovators follow, how innovation teams work together, how to make decisions in technology projects, how to use prototyping in the innovation process and the tools required to successfully deliver and communicate an innovation project. This course provides the foundations to further courses in computer science and information technology programs.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Work independently as part of a team with diverse backgrounds towards authentic IT innovation solutions"
+    },
+    {
+      "number": "LO2.",
+      "description": "Apply innovation processes to open ended problems"
+    },
+    {
+      "number": "LO3.",
+      "description": "Collect and analyse data about people and problems"
+    },
+    {
+      "number": "LO4.",
+      "description": "Design and prototype innovation solutions to identified open ended problems"
+    },
+    {
+      "number": "LO5.",
+      "description": "Communicate problems and solutions to technical and non-technical stakeholders"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Participation/ Student contribution, Presentation, Role play/ Simulation",
+      "title": "Seminar and studio participation",
+      "weight": "Pass/fail",
+      "due_date": "Week 1, Wed; Week 2, Wed; Week 3, Wed; Week 5, Wed; Week 6, Wed; Week 7, Wed; Week 8, Wed; Week 9, Wed; Week 10, Wed; Week 11, Wed; Week 12, Wed; Week 13, Wed",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Product/ Design, Reflection",
+      "title": "Business model canvas iteration 1",
+      "weight": "Pass/fail",
+      "due_date": "3/09/2024 4:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Product/ Design, Reflection",
+      "title": "Business model canvas iteration 2",
+      "weight": "Pass/fail",
+      "due_date": "1/10/2024 4:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Product/ Design, Reflection",
+      "title": "Prototype and business model canvas iteration 3",
+      "weight": "Pass/fail",
+      "due_date": "7/11/2024 4:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Seminar and studio participation",
+      "mode": "Activity/ Performance",
+      "category": "Participation/ Student contribution, Presentation, Role play/ Simulation",
+      "weight": "Pass/fail",
+      "due_date": "Week 1, Wed Week 2, Wed Week 3, Wed Week 5, Wed Week 6, Wed Week 7, Wed Week 8, Wed Week 9, Wed Week 10, Wed Week 11, Wed Week 12, Wed Week 13, Wed",
+      "learning_outcomes_assessed": "L01, L02, L05",
+      "task_description": "Participation in the weekly seminar and studios, including presentation and practice sessions. Read full task description Hide full task description",
+      "submission_guidelines": "N/A\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nNo extension.\nUnder special circumstances, students must inform their team and supervisor that they will be unable to attend.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Business model canvas iteration 1",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Product/ Design, Reflection",
+      "weight": "Pass/fail",
+      "due_date": "3/09/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "A team report outlining the customer discovery findings from the first iteration of the process. A short individual reflection from each student. Read full task description Hide full task description",
+      "submission_guidelines": "Pushed to a branch on team Github repository.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nNo extension -- teams submit on this date what they have done so far.\nIn cases where one or more members have exceptional consideration, this will be considered when deciding pass/fail.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Business model canvas iteration 2",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Product/ Design, Reflection",
+      "weight": "Pass/fail",
+      "due_date": "1/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "A team report outlining the customer discovery findings from the second iteration of the process. A short individual reflection from each student. Read full task description Hide full task description",
+      "submission_guidelines": "Pushed to a branch on team Github repository.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nNo extension -- teams submit on this date what they have done so far.\nIn cases where one or more members have exceptional consideration, this will be considered when deciding pass/fail.\nIndividual reflections can be submitted late if exceptional consideration has been granted.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Prototype and business model canvas iteration 3",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Product/ Design, Reflection",
+      "weight": "Pass/fail",
+      "due_date": "7/11/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "A team report outlining the customer discovery findings from the third iteration of the process. An implemented conceptual prototype. A short individual reflection from each student. Read full task description Hide full task description",
+      "submission_guidelines": "Pushed to a branch on team Github repository.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nNo extension -- teams submit on this date what they have done so far.\nIn cases where one or more members have exceptional consideration, this will be considered when deciding pass/fail.\nIndividual reflections can be submitted late if exceptional consideration has been granted.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Seminar",
+      "topic": "Seminar Weekly seminar discussing innovation processes and practices. Learning outcomes: L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Studio",
+      "topic": "Studio Weekly 2-3-hour studio. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

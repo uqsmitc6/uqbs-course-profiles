@@ -1,0 +1,186 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CIVL2420-60569-7460",
+  "scraped_at": "2026-06-04T00:51:54.563700+00:00",
+  "course_code": "CIVL2420",
+  "class_code": "60569",
+  "semester_code": "7460",
+  "full_course_code": "CIVL2420-60569-7460",
+  "course_title": "Fundamentals of Transportation Engineering",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Civil Engineering School",
+  "course_description": "This course introduces students to the field of transportation engineering and provides the fundamental knowledge required for the planning, design, and operation of transport systems to improve the mobility, safety, and reliability of road networks. Students will learn key principles and methodologies essential for understanding traffic flow theory, traffic modelling, traffic signal control, and travel demand forecasting. Through a combination of theoretical instruction and practical computer exercises, students will develop the skills necessary to analyse, visualise, and interpret traffic data, design and manage intersections, and predict travel demand.\n\nThis course provides a comprehensive introduction to the principles and methods essential to transportation engineering. It is structured into four key modules, each focusing on distinct aspects of traffic and transportation systems. In Module 1, students will learn traffic flow theory and data analysis. This module covers fundamental traffic flow parameters and their relationships, the concept of fundamental diagrams, and various traffic data collection and analysis methods. Module 2 focuses on statistical and probabilistic models of traffic flow. Topics include the Poisson and exponential distributions and queueing theory and their applications in traffic flow modelling and analysis. Module 3 covers the design and operations of various intersections, including unsignalised intersections, roundabouts, and signalised intersections, as well as traffic signal operations. In Module 4, students will explore travel demand modelling and forecasting. This module introduces the Four-step travel demand model, which includes trip generation, trip distribution, mode split, and traffic assignment. Each module includes practical computer exercises utilising industry-standard software tools such as Python for programming, QGIS for geographic information systems (GIS), and SIDRA for intersection analysis. These hands-on exercises ensure that students not only understand theoretical concepts but also gain practical skills applicable to their future careers.",
+  "requirements": {
+    "companions": [
+      "We recommend completing the following courses at the same time:",
+      "CIVL2530"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "CIVL2410"
+    ]
+  },
+  "course_staff": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Jiwon Kim",
+      "email": "jiwon.kim@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Jiwon Kim",
+      "email": "jiwon.kim@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The course aims to enable students to:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Describe the interactions between infrastructure and human behaviour in transport systems, identify challenges the urban transport systems are facing, and explain the role of transport and traffic engineering"
+    },
+    {
+      "number": "LO2.",
+      "description": "Explain the key parameters of vehicular traffic flow and their relationships using the fundamental diagram."
+    },
+    {
+      "number": "LO3.",
+      "description": "Apply queueing theory and shock wave analysis to model traffic flow and delays."
+    },
+    {
+      "number": "LO4.",
+      "description": "Describe the methods to collect, analyse, and visualise traffic data for the purpose of transport planning and traffic management."
+    },
+    {
+      "number": "LO5.",
+      "description": "Explain the basic principles of the design and operation of signalised and unsignalised intersections and roundabouts."
+    },
+    {
+      "number": "LO6.",
+      "description": "Apply the four-step process of trip generation, trip distribution, modal split and traffic assignment to forecast travel demand."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Computer Exercise Submission",
+      "weight": "10%",
+      "due_date": "Week 2 Computer Exercise 2/08/2024 4:00 pm; Week 3 Computer Exercise 9/08/2024 4:00 pm; Week 4 Computer Exercise 16/08/2024 4:00 pm; Week 5 Computer Exercise 23/08/2024 4:00 pm; Week 6 Computer Exercise 30/08/2024 4:00 pm; Week 7 Computer Exercise 6/09/2024 4:00 pm; Week 8 Computer Exercise 13/09/2024 4:00 pm; Week 9 Computer Exercise 20/09/2024 4:00 pm; Week 10 Computer Exercise 4/10/2024 4:00 pm; Week 11 Computer Exercise 11/10/2024 4:00 pm; Week 12 Computer Exercise 18/10/2024 4:00 pm; Week 13 Computer Exercise 25/10/2024 4:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "On-line Quizzes",
+      "weight": "40%",
+      "due_date": "Quiz 1 9/08/2024 4:00 pm; Quiz 2 23/08/2024 4:00 pm; Quiz 3 6/09/2024 4:00 pm; Quiz 4 20/09/2024 4:00 pm; Quiz 5 11/10/2024 4:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Computer Exercise Submission",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "10%",
+      "due_date": "Week 2 Computer Exercise 2/08/2024 4:00 pm Week 3 Computer Exercise 9/08/2024 4:00 pm Week 4 Computer Exercise 16/08/2024 4:00 pm Week 5 Computer Exercise 23/08/2024 4:00 pm Week 6 Computer Exercise 30/08/2024 4:00 pm Week 7 Computer Exercise 6/09/2024 4:00 pm Week 8 Computer Exercise 13/09/2024 4:00 pm Week 9 Computer Exercise 20/09/2024 4:00 pm Week 10 Computer Exercise 4/10/2024 4:00 pm Week 11 Computer Exercise 11/10/2024 4:00 pm Week 12 Computer Exercise 18/10/2024 4:00 pm Week 13 Computer Exercise 25/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L02, L03, L04, L05, L06",
+      "task_description": "Each week, students will be given a computer exercise task and asked to upload their completed files to Blackboard. The detailed instructions and due dates will be given in the task description. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Assessment must be submitted through the course BlackBoard site\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThe solution to each computer exercise is released within one week after the submission deadline.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nStudents need to complete the best 10 of 12 computer exercises.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Each week, students will be given a computer exercise task and asked to upload their completed files to Blackboard. The detailed instructions and due dates will be given in the task description. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "On-line Quizzes",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "40%",
+      "due_date": "Quiz 1 9/08/2024 4:00 pm Quiz 2 23/08/2024 4:00 pm Quiz 3 6/09/2024 4:00 pm Quiz 4 20/09/2024 4:00 pm Quiz 5 11/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "Five on-line quizzes (True/False and Multiple Choice Questions) will be conducted throughout the semester. These are individual quizzes, not group work. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Assessment must be submitted through the course BlackBoard site\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThe solution to each quiz is released within one week after the submission deadline.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nStudents need to complete the best 4 of 5 quizzes",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Five on-line quizzes (True/False and Multiple Choice Questions) will be conducted throughout the semester. These are individual quizzes, not group work. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "The final exam will include a combination of short answer and problem solving questions. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The final exam will include a combination of short answer and problem solving questions. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (29 Jul - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial Sessions Tutorial sessions to be held throughout the semester. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: School of Civil Engineering School Guidelines Learning activities"
+}

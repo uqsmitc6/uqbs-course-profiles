@@ -1,0 +1,173 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/STAT2201-64357-7460",
+  "scraped_at": "2026-06-04T01:19:17.870614+00:00",
+  "course_code": "STAT2201",
+  "class_code": "64357",
+  "semester_code": "7460",
+  "full_course_code": "STAT2201-64357-7460",
+  "course_title": "Analysis of Engineering & Scientific Data",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "1",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Statistical models & analyses required for analysing engineering & scientific data, including sampling methods, exploratory data analysis, standard probability models, estimation, hypothesis tests, regression, experimental design.\n\nThe course introduces statistical analyses of engineering data and covers exploratory data analyses, probability modelling with emphasis on the normal distribution,ﾠinterval estimation, tests of hypotheses, basic principles of experimental design, and linear regression modelling. All data analysis and visualisation is carried out in the Python programming language.ﾠ\n\nThe models and methods introduced in STAT2201 are used in many areas of engineering. Wherever uncertainty in data arises, there is a need to develop models thatﾠincorporate that uncertainty, methods to fit and assess these models, and means of communicating the results.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1050"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ECON1310",
+      "ENVM2000",
+      "STAT1201",
+      "STAT1301",
+      "STAT2203"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Ross McVinish",
+      "email": "r.mcvinish@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Ross McVinish",
+      "email": "r.mcvinish@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Nhat Pham"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Isaac Beh"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Michaela Cheong"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Stephan Jacobs"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Jay Parfitt"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus. Consult your personal timetable for times and locations.ﾠ\nThisﾠcourse comprises three one-hour weekly lectures for 7ﾠweeks (Weeks 7ﾠ- 13) and a weekly one-hour tutorialﾠfor 6 weeks (Weeks 8 - 13). See Learning Activities for the schedule.",
+  "course_aims": "The aim of STAT2201 is to provide an understanding of the nature of engineering data and the subsequent need for statistical analysis. You will learn about the different types of data and how each can be visualized and summarized, and how you can make conclusions and predictions from the statistical analysis. You will also see that these statistical tools are based on simple mathematical ideas and associated assumptions. The importance of verifying where possible the assumptions that accompany data analysis will be demonstrated.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Identify appropriate methods for statistical analyses from a descriptive scenario."
+    },
+    {
+      "number": "LO2.",
+      "description": "Demonstrate a foundational knowledge of statistical methods by carrying out simple statistical procedures by hand."
+    },
+    {
+      "number": "LO3.",
+      "description": "Use statistical software appropriately and confidently for exploratory data analysis and to make relevant statistical conclusions."
+    },
+    {
+      "number": "LO4.",
+      "description": "Effectively and appropriately communicate insights from data as evidence within an engineering context."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Online Quizzes",
+      "weight": "18%",
+      "due_date": "13/09/2024 5:00 pm; 20/09/2024 5:00 pm; 4/10/2024 5:00 pm; 11/10/2024 5:00 pm; 18/10/2024 5:00 pm; 25/10/2024 5:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Problem Set",
+      "weight": "22%",
+      "due_date": "21/10/2024 5:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Online Quizzes",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "18%",
+      "due_date": "13/09/2024 5:00 pm 20/09/2024 5:00 pm 4/10/2024 5:00 pm 11/10/2024 5:00 pm 18/10/2024 5:00 pm 25/10/2024 5:00 pm",
+      "task_description": "In each week (Weeks 8 - 13) there will be a quiz to complete online. Each quiz will open at 9:00am on Monday and must be completed by the due date. There is no set duration for the quizzes. Most quizzes will involve analysing data using Python. This will be an important opportunity to learn how to perform data analysis with Python. You are encouraged to discuss issues using the Ed Discussion Board. Read full task description Hide full task description",
+      "submission_guidelines": "The quizzes are accessed via Blackboard. An unlimited number of attempts is allowed for each quiz question. Questions are marked automatically. There is no separate submission procedure.\nDeferral or extension\nYou may be able to apply for an extension .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nIf you fail to meet the submission deadline for the Quizzes, you will not receive any marks unless an extension has been approved.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Problem Set",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "22%",
+      "due_date": "21/10/2024 5:00 pm",
+      "task_description": "Problem Set involving problem solving, analysis, visualisation and interpretation. Read full task description Hide full task description",
+      "submission_guidelines": "Submit this assessment item through the link in Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for the Assignment will be released 8 days after the Assignment is due and as such, submission after this date will not be possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for the Assignment a penalty of 10% of the maximum possible mark allocated will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24 hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "task_description": "The final examination in this course will be held during the end-of-semester examination period. The final examination will cover all the material in the course. The exam paper will come with a formula sheet and statistical tables. You will need an approved calculator for use in the exam. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 60 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - specified written materials permitted Materials One A4 sheet of handwritten notes , single sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "NA\nDeferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 7 To Week 13 (02 Sep - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Each week we aim to cover one unit from the course notes. The units are (1) Visualise, summarise, and clean data, (2) Random variables and expectations, (3) Distribution of the sample mean, (4) Inference for a single mean, (5) Comparing two means, (6) Linear regression models."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 8 To Week 13 (09 Sep - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorials The tutorials are an opportunity to practice the ideas covered in the lectures by working through exercises with other students and the tutor. Each tutorial will cover one unit from the course notes."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

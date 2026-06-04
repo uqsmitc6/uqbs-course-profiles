@@ -1,0 +1,231 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BIOE7902-60831-7460",
+  "scraped_at": "2026-06-04T00:48:50.523545+00:00",
+  "course_code": "BIOE7902",
+  "class_code": "60831",
+  "semester_code": "7460",
+  "full_course_code": "BIOE7902-60831-7460",
+  "course_title": "Biomedical Signal Processing",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Medical Signals: origins and characteristics; modelling medical signals and systems; interference, artefact and noise removal; waveform complexity and event detection; nonlinear methods in medical system identification; introduction to pattern classification and diagnostic decisions; emerging techniques in medical signal processing. Case studies on the use of signal processing methodologies in clinical instrumentation, imaging and medical decision making.\n\nThe purpose of this course is to introduce students to the fundamentals of biomedical signal processing, with particular emphasis on solving real-world problems in medical instrumentation design for clinical diagnosis. Through a series of focused active learning project activities using real-world signals, the course will provide opportunities to acquire in-depth knowledgeﾠof processing physiological data. Critical reflection on this active learning approach will allow students to creatively develop ways to enhance the signal processing techniques they learn about in this course. In addition, based on student feedback from previous offerings of the course, the assessments are now based on practical examples that require the application of learned concepts from the course. Finally, opportunities will be provided to acquire both independent and collaborative learning skills. Open-ended or partially solved problems will foster creativity.",
+  "requirements": {
+    "prerequisites": [
+      "We recommend completing the following courses before enrolling in this one:",
+      "ELEC4403",
+      "BIOE6403",
+      "ELEC4601",
+      "BIOE6601",
+      "ELEC4630",
+      "ELEC7403",
+      "ELEC7606"
+    ],
+    "companions": [
+      "We recommend completing the following courses at the same time:",
+      "ENGG7302",
+      "ENGG1001",
+      "CSSE1001",
+      "BIOE6901"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ELEC7902"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Md Abdul Awal",
+      "email": "BIOE7902@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Md Abdul Awal"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Saskia Bollmann"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Steffen Bollmann"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "It is expected that upon successful completion of the courseﾠstudents will have an in-depth understanding of common biomedical signals, as well as the correspondingﾠdigital signal processing techniques that may be appliedﾠin biomedical engineering. In addition, students mayﾠbe able to select adequate methods for common problems in biomedical signal processing and implement the corresponding algorithms.ﾠFinally, for a selected set of state-of-the-art technologies, students should be able to understand the technical solution employedﾠand to discuss the approach based on an understanding of commonly applied methods.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand and describe properties of selected biomedical signals, including how these may affect related clinical applications."
+    },
+    {
+      "number": "LO2.",
+      "description": "Identify appropriate solutions for specific problems in biomedical engineering by considering the benefits and limitations of various digital signal processing approaches."
+    },
+    {
+      "number": "LO3.",
+      "description": "Implement signal processing algorithms for practical problems involving biomedical signals."
+    },
+    {
+      "number": "LO4.",
+      "description": "Analyse selected physiological data with a particular focus on detecting events in biomedical signals."
+    },
+    {
+      "number": "LO5.",
+      "description": "Demonstrate the need for digital signal processing in certain medical devices and clinical procedures."
+    },
+    {
+      "number": "LO6.",
+      "description": "Propose, carry out, orally present, and report in conference-proceedings format, a research project on biomedical signal processing."
+    },
+    {
+      "number": "LO7.",
+      "description": "Critically analyse information independently acquired from diverse sources (e.g., the Internet, books, electronic application notes, company product data sheets, databases such as the ISI Web of Science and IEEExplore) in providing solutions to real-world clinical biomedical signal analysis problems."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Project 1",
+      "weight": "25%",
+      "due_date": "23/08/2024 4:00 pm",
+      "conditions": [
+        "Identity Verified"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Tutorial/ Problem Set",
+      "title": "Project 2",
+      "weight": "25%",
+      "due_date": "20/09/2024 4:00 pm",
+      "conditions": [
+        "Identity Verified"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Project 3",
+      "weight": "25%",
+      "due_date": "18/10/2024 4:00 pm",
+      "conditions": [
+        "Identity Verified"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Presentation, Reflection",
+      "title": "Conference paper about one of the 3 projects.",
+      "weight": "25%",
+      "due_date": "4/11/2024 4:00 pm",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Project 1",
+      "mode": "Oral, Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "25%",
+      "due_date": "23/08/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "The project regards the first module in the course (spectral analysis). The project involves developing computer code to analyse the given data and reproduce the results of the selected paper. Students formulate code, code is being run and checked, submit a short report, and then undergo a brief (e.g., 5–10 min) oral exam to demonstrate their code and verify that it is theirs and that they understand it. Students will sign up for a time from available sessions in the week immediately following the submission deadline to demonstrate their code. This will likely be outside of the normal scheduled class time. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted online via Blackboard unless otherwise specified for a particular assessment item. The data, codes, and report will be in a single zip file with the student's name and student ID.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 14-21 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Identity Verified"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Project 2",
+      "mode": "Oral, Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Tutorial/ Problem Set",
+      "weight": "25%",
+      "due_date": "20/09/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "The project regards the second module in the course (event detection). The project involves developing computer code to analyse the given data and to reproduce the results of the selected paper. Students formulate code, code is being run and checked, submit a short report, and then undergo a brief (e.g., 5–10 min) oral exam to demonstrate their code and verify that it is theirs and that they understand it. Students will sign up for a time from available sessions in the week immediately following the submission deadline to demonstrate their code. This will likely be outside of the normal scheduled class time. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted online via Blackboard unless otherwise specified for a particular assessment item. The data, codes, and report will be in a single zip file with the student's name and student ID.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 14-21 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Identity Verified"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Project 3",
+      "mode": "Oral, Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "25%",
+      "due_date": "18/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L05, L06, L07",
+      "task_description": "The project regards the third module in the course (fMRI). The project involves developing computer code to analyse the given data and to reproduce the results of the selected paper. Students formulate code, code is being run and checked, submit a short report, and then undergo a brief (e.g., 5–10 min) oral exam to demonstrate their code and verify that it is theirs and that they understand it. Students will sign up for a time from available sessions in the week immediately following the submission deadline to demonstrate their code. This will likely be outside of the normal scheduled class time. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted online via Blackboard unless otherwise specified for a particular assessment item. The data, codes, and report will be in a single zip file with the student's name and student ID.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 14-21 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Identity Verified"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Conference paper about one of the 3 projects.",
+      "mode": "Activity/ Performance, Oral, Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Presentation, Reflection",
+      "weight": "25%",
+      "due_date": "4/11/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "Students will be required to write a 2-page conference paper about one of the three projects and seat for an oral exam (e.g., 5- 10 min). Students will sign up for a time from available sessions in the week immediately following the submission deadline to demonstrate their code. This will likely be outside of the normal scheduled class time. Students can choose which project they would like to use. The format of the project guidelines ( template ). Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted online via Blackboard unless otherwise specified for a particular assessment item.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 14-21 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Problem-based learning",
+      "topic": "Projects Each main module of the course will feature an individual project where biomedical signal processing methods and real-world data are used. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Lectures Lecture on all topics addressed in the course. Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

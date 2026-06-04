@@ -1,0 +1,579 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/AGRC7034-63439-7460",
+  "scraped_at": "2026-06-04T00:46:20.975063+00:00",
+  "course_code": "AGRC7034",
+  "class_code": "63439",
+  "semester_code": "7460",
+  "full_course_code": "AGRC7034-63439-7460",
+  "course_title": "Crop Physiology",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Postgraduate Coursework",
+  "location": "Gatton",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "Gatton",
+  "coordinating_unit": "Agriculture and Food Sustainability School",
+  "course_description": "Crop physiology provides a framework to allow you to analyse when, where and which crops to grow and how to maximise the productivity for the environmental constraints that exist. We need to understand how crops are limited by any type of stress, and what types of plant traits (characteristics) allow adaptation to that stress through agronomy and breeding. The basis of new scientific tools like crop simulation models and automated phenotyping (using robots and drones) are taught in this course, showing how crop physiology underlies research areas ranging from managing production risk through to modelling the effect of climate change on future production.\n\nCrop Physiology is the study of how crops respond to environment and management, and how they utilise the resources of radiation, water and nutrients to develop, grow and produce marketable products. A good understanding of crop physiology is essential to agronomists, breeders and other crop specialists so that they can assess whether crops are being affected by limitations in their environment, and to undertake research on how to improve adaptation and quality of crop products through both agronomy and breeding.\n\nThis course provides skills in the understanding of crop physiology and the principles, methods and instrumentation are used to understand ‘how crops grow’. Crop physiology provides the link between the basics of plant science (photosynthesis, respiration, water and nutrient uptake and transport) and its application to communities of field plants growing in agronomy and breeding. It extends the concepts of ‘growth analysis’ (crop growth rate etc) to consider how crop growth (phenology, resource capture by leaves and roots, allocation of carbon to grain) can be understood in terms of the dynamic response to environmental drivers. Crops are populations of plants that are managed together in the field, typically as monocultures (although the same principles of crop physiology also help in the study of intercropping). In the first instance, crops are limited by the environmental conditions of radiation, temperature and water supply (influenced by rainfall, soil type). These conditions constrain when and where different crops can be profitably grown. Where available, irrigation and fertiliser can augment production, but how do we best use these amendments?\n\nThis course provides students with the ability to design experiments to monitor and interpret crop growth as influenced by environment, and how to use instrumentation and models to extend that understanding in applications in agronomy careers.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "AGRC7048",
+      "We recommend completing the following courses before enrolling in this one:",
+      "AGRC7005"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Nicole Robinson",
+      "email": "nicole.robinson@uq.edu.au",
+      "phone": "+61 7 3365 2739",
+      "notes": "Please email me to arrange a consultation if required."
+    },
+    {
+      "role": "Course coordinator",
+      "name": "Professor Scott Chapman",
+      "email": "scott.chapman@uq.edu.au",
+      "phone": "+61 7 5460 1152",
+      "notes": "Please email me to arrange a consultation if required."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Javier Fernandez",
+      "email": "j.fernandez@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Nicole Robinson",
+      "email": "nicole.robinson@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Scott Chapman",
+      "email": "scott.chapman@uq.edu.au"
+    },
+    {
+      "role": "Guest lecturer",
+      "name": "Dr Erik Van Oosterom",
+      "email": "erik.van.oosterom@uq.edu.au"
+    },
+    {
+      "role": "Guest lecturer",
+      "name": "Professor Karine Chenu",
+      "email": "karine.chenu@uq.edu.au"
+    },
+    {
+      "role": "Guest lecturer",
+      "name": "Dr Vijaya Singh",
+      "email": "v.singh@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLectures will be recorded using Echo360, and will be available through the course Blackboard site.\nThe course is co-taught with AGRC3040.",
+  "course_aims": "The aim of this course is to provide a framework of crop physiological understanding which students can apply to research and production applications in agronomy and breeding.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Apply crop physiology frameworks in the design and interpretation of field crop trials."
+    },
+    {
+      "number": "LO2.",
+      "description": "Predict how crop species physiology impacts on their adaptation and yield as limited by the physical environments of soil, climate (including frost, heat and drought) and nitrogen management."
+    },
+    {
+      "number": "LO3.",
+      "description": "Use a farming systems model (APSIM) to run simulations that vary for agronomic or genetic factors and interpret the results of these simulations."
+    },
+    {
+      "number": "LO4.",
+      "description": "Optimise management for crop yeald and quality using crop phenology incorporating species, genotype, location and time of sowing."
+    },
+    {
+      "number": "LO5.",
+      "description": "Analyse how resource capture (canopy leaf area and root systems) varies with species, genotype and management factors and how these dynamics affect crop growth and yield."
+    },
+    {
+      "number": "LO6.",
+      "description": "Explain how carbon and nitrogen partitioning processes determine crop growth and yield."
+    },
+    {
+      "number": "LO7.",
+      "description": "Select and operate physiological instruments and interpret results affecting crop attributes (leaf area, light interception, canopy temperature, nitrogen status)."
+    },
+    {
+      "number": "LO8.",
+      "description": "Apply a working knowledge of how new instrumentation and analytical methods (satellite imagery, UAVs, static sensors, machine learning, artificial intelligence) can be utilised in crop research and production."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Practical/ Demonstration, Quiz",
+      "title": "Sequential Wk 2 APSIM Introduction",
+      "weight": "5% This is part of a practical sequential activity, worth 50%",
+      "due_date": "30/07/2024 - 5/08/2024",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Practical/ Demonstration, Quiz",
+      "title": "Sequential Wk 3 APSIM2 Flowering",
+      "weight": "5% This is part of a practical sequential activity, worth 50%",
+      "due_date": "6/08/2024 - 12/08/2024",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Sequential Wk 5 Photosyn calc",
+      "weight": "5% This is part of a practical sequential activity, worth 50%",
+      "due_date": "20/08/2024 - 26/08/2024",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Practical/ Demonstration, Quiz",
+      "title": "Sequential Wk 11 APSIM3 Farm",
+      "weight": "5% This is part of a practical sequential activity, worth 50%",
+      "due_date": "8/10/2024 - 14/10/2024",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Sequential Leaf area, light interception and RUE",
+      "weight": "15% This is part of a practical sequential activity, worth 50%",
+      "due_date": "9/09/2024 2:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "Course concepts",
+      "weight": "10%",
+      "due_date": "1/10/2024 - 8/10/2024"
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Sequential Yield, grain number and grain size.",
+      "weight": "15% This is part of a practical sequential activity, worth 50%",
+      "due_date": "21/10/2024 2:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Sequential Wk 2 APSIM Introduction",
+      "mode": "Activity/ Performance",
+      "category": "Practical/ Demonstration, Quiz",
+      "weight": "5% This is part of a practical sequential activity, worth 50%",
+      "due_date": "30/07/2024 - 5/08/2024",
+      "learning_outcomes_assessed": "L03, L04, L05",
+      "task_description": "The exercise tests knowledge gained while learning to use APSIM and photosyn calc to understand how models work and how to interpret their outputs (weeks 2, 3, 5 and 11). The exercise opens in blackboard on the day of the Practical and students have until the due date to finish the exercise. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Computer-based assessments must be accessed and completed via Blackboard. Assessments must be completed within the specified time frame.\nDeferral or extension\nYou may be able to apply for an extension .\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessment deadlines are firm and must be met. Late submission without permission or non-submission of assessable work will result in penalties being applied . Late submission of assessment will only be granted for documented medical reasons, accident, bereavement, jury service and other circumstances allowed in the UQ Policies and Procedures Library (PPL). See 6.1 Assessment Related Policies & Guidelines for links to the University Guidelines and Applications for Extensions.\nA penalty of 10% of the maximum possible mark allocated for the assessment item, or one grade per day if graded on the basis of 1-7, or equivalent penalty if an alternative grading approach is used, will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.\nSubmission of an Extension of Assessment Due Date (EADD) should be completed online through your My Requests tab via my.UQ Dashboard before the due date of the assessment item.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The exercise tests knowledge gained while learning to use APSIM and photosyn calc to understand how models work and how to interpret their outputs (weeks 2, 3, 5 and 11). The exercise opens in blackboard on the day of the Practical and students have until the due date to finish the exercise. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Sequential Wk 3 APSIM2 Flowering",
+      "mode": "Activity/ Performance",
+      "category": "Practical/ Demonstration, Quiz",
+      "weight": "5% This is part of a practical sequential activity, worth 50%",
+      "due_date": "6/08/2024 - 12/08/2024",
+      "learning_outcomes_assessed": "L03, L04, L05",
+      "task_description": "The exercise tests knowledge gained while learning to use APSIM and photosyn calc to understand how models work and how to interpret their outputs (weeks 2, 3, 5 and 11). The exercise opens in blackboard on the day of the Practical and students have until the due date to finish the exercise. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submission: Computer-based assessments must be accessed and completed via Blackboard. Assessments must be completed within the specified time frame. The APSIM and photosyn exercises can be potentially completed during the practical and students will have until the following Thursday (until 14:00) to finish each exercise.\nDeferral or extension\nYou may be able to apply for an extension .\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessment deadlines are firm and must be met. Late submission without permission or non-submission of assessable work will result in penalties being applied . Late submission of assessment will only be granted for documented medical reasons, accident, bereavement, jury service and other circumstances allowed in the UQ Policies and Procedures Library (PPL). See 6.1 Assessment Related Policies & Guidelines for links to the University Guidelines and Applications for Extensions.\nA penalty of 10% of the maximum possible mark allocated for the assessment item, or one grade per day if graded on the basis of 1-7, or equivalent penalty if an alternative grading approach is used, will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.\nSubmission of an Extension of Assessment Due Date (EADD) should be completed online through your My Requests tab via my.UQ Dashboard before the due date of the assessment item.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The exercise tests knowledge gained while learning to use APSIM and photosyn calc to understand how models work and how to interpret their outputs (weeks 2, 3, 5 and 11). The exercise opens in blackboard on the day of the Practical and students have until the due date to finish the exercise. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Sequential Wk 5 Photosyn calc",
+      "mode": "Activity/ Performance, Written",
+      "category": "Practical/ Demonstration",
+      "weight": "5% This is part of a practical sequential activity, worth 50%",
+      "due_date": "20/08/2024 - 26/08/2024",
+      "learning_outcomes_assessed": "L01, L05, L06, L07",
+      "task_description": "The exercise tests knowledge gained while learning to use APSIM and photosyn calc to understand how models work and how to interpret their outputs (weeks 2, 3, 5 and 11). The exercise opens in blackboard on the day of the Practical and students have until the due date to finish the exercise. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submission: Computer-based assessments must be accessed and completed via Blackboard. Assessments must be completed within the specified time frame.\nDeferral or extension\nYou may be able to apply for an extension .\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessment deadlines are firm and must be met. Late submission without permission or non-submission of assessable work will result in penalties being applied . Late submission of assessment will only be granted for documented medical reasons, accident, bereavement, jury service and other circumstances allowed in the UQ Policies and Procedures Library (PPL). See 6.1 Assessment Related Policies & Guidelines for links to the University Guidelines and Applications for Extensions.\nA penalty of 10% of the maximum possible mark allocated for the assessment item, or one grade per day if graded on the basis of 1-7, or equivalent penalty if an alternative grading approach is used, will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.\nSubmission of an Extension of Assessment Due Date (EADD) should be completed online through your My Requests tab via my.UQ Dashboard before the due date of the assessment item.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The exercise tests knowledge gained while learning to use APSIM and photosyn calc to understand how models work and how to interpret their outputs (weeks 2, 3, 5 and 11). The exercise opens in blackboard on the day of the Practical and students have until the due date to finish the exercise. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Sequential Wk 11 APSIM3 Farm",
+      "mode": "Activity/ Performance",
+      "category": "Practical/ Demonstration, Quiz",
+      "weight": "5% This is part of a practical sequential activity, worth 50%",
+      "due_date": "8/10/2024 - 14/10/2024",
+      "learning_outcomes_assessed": "L03, L04, L05, L06",
+      "task_description": "The exercise tests knowledge gained while learning to use APSIM and photosyn calc to understand how models work and how to interpret their outputs (weeks 2, 3, 5 and 11) The exercise opens in blackboard on the day of the Practical and students have until the due date to finish the exercise. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submission: Computer-based assessments must be accessed and completed via Blackboard. Assessments must be completed within specified time frame.\nDeferral or extension\nYou may be able to apply for an extension .\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessment deadlines are firm and must be met. Late submission without permission or non-submission of assessable work will result in penalties being applied . Late submission of assessment will only be granted for documented medical reasons, accident, bereavement, jury service and other circumstances allowed in the UQ Policies and Procedures Library (PPL). See 6.1 Assessment Related Policies & Guidelines for links to the University Guidelines and Applications for Extensions.\nA penalty of 10% of the maximum possible mark allocated for the assessment item, or one grade per day if graded on the basis of 1-7, or equivalent penalty if an alternative grading approach is used, will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.\nSubmission of an Extension of Assessment Due Date (EADD) should be completed online through your My Requests tab via my.UQ Dashboard before the due date of the assessment item.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The exercise tests knowledge gained while learning to use APSIM and photosyn calc to understand how models work and how to interpret their outputs (weeks 2, 3, 5 and 11) The exercise opens in blackboard on the day of the Practical and students have until the due date to finish the exercise. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-4",
+      "title": "Sequential Leaf area, light interception and RUE",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "15% This is part of a practical sequential activity, worth 50%",
+      "due_date": "9/09/2024 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L04, L07",
+      "task_description": "This is a scientific report on the measurement and calculation of leaf area and extinction coefficient and crop growth rate from field trials. It will use existing data from previous experiments. Students will work through online modules to process data from the field measurements from different experiments and will need to be able to calculate leaf area and leaf and stem biomass from field samples. After processing, students will need to summarise data and independently write reports on the results, including tables and graphs of results and a discussion of how the treatments responses. A detailed task description will be provided on the blackboard site and discussed in the tutorials (in practical session, recorded, zoom). This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Students must submit their assessment task individually, in Blackboard, via the Turnitin link by the submission deadline. You should also retain an electronic copy of every piece of assessment you submit. When marks and feedback are available for this assessment item you will be notified via a blackboard announcement. Legal Declaration By submitting your work via this website, you formally declare that (1) it is your own original work, and no part of the work has been copied from any other source or person except where due acknowledgement is made; (2) no part of the work has been previously submitted for assessment in this or any other institution; and (3) you have read the UQ Academic Integrity and Plagiarism Policy (http://ppl.app.uq.edu.au/content/3.60.04-student-integrity-and-misconduct) and understand its implications.\nDeferral or extension\nYou may be able to apply for an extension .\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessment deadlines are firm and must be met. Late submission without permission or non-submission of assessable work will result in penalties being applied . Late submission of assessment will only be granted for documented medical reasons, accident, bereavement, jury service and other circumstances allowed in the UQ Policies and Procedures Library (PPL). See 6.1 Assessment Related Policies & Guidelines for links to the University Guidelines and Applications for Extensions.\nA penalty of 10% of the maximum possible mark allocated for the assessment item, or one grade per day if graded on the basis of 1-7, or equivalent penalty if an alternative grading approach is used, will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.\nSubmission of an Extension of Assessment Due Date (EADD) should be completed online through your My Requests tab via my.UQ Dashboard before the due date of the assessment item.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This is a scientific report on the measurement and calculation of leaf area and extinction coefficient and crop growth rate from field trials. It will use existing data from previous experiments. Students will work through online modules to process data from the field measurements from different experiments and will need to be able to calculate leaf area and leaf and stem biomass from field samples. After processing, students will need to summarise data and independently write reports on the results, including tables and graphs of results and a discussion of how the treatments responses. A detailed task description will be provided on the blackboard site and discussed in the tutorials (in practical session, recorded, zoom). This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-5",
+      "title": "Course concepts",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "10%",
+      "due_date": "1/10/2024 - 8/10/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "This online quiz will be comprised of mulitple choice questions to evalute understanding of course concepts presented in weekly lectures and tutorial discussions. The Quiz opens and closes on the dates and times listed. Once you commence the Quiz you must complete it within the duration. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "The quiz will be completed via the course blackboard site\nDeferral or extension\nYou may be able to apply for an extension .\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessment deadlines are firm and must be met. Late submission without permission or non-submission of assessable work will result in penalties being applied . Late submission of assessment will only be granted for documented medical reasons, accident, bereavement, jury service and other circumstances allowed in the UQ Policies and Procedures Library (PPL). See 6.1 Assessment Related Policies & Guidelines for links to the University Guidelines and Applications for Extensions.\nA penalty of 10% of the maximum possible mark allocated for the assessment item, or one grade per day if graded on the basis of 1-7, or equivalent penalty if an alternative grading approach is used, will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.\nSubmission of an Extension of Assessment Due Date (EADD) should be completed online through your My Requests tab via my.UQ Dashboard before the due date of the assessment item.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This online quiz will be comprised of mulitple choice questions to evalute understanding of course concepts presented in weekly lectures and tutorial discussions. The Quiz opens and closes on the dates and times listed. Once you commence the Quiz you must complete it within the duration. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-6",
+      "title": "Sequential Yield, grain number and grain size.",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "15% This is part of a practical sequential activity, worth 50%",
+      "due_date": "21/10/2024 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L04, L05, L06, L07",
+      "task_description": "This report is based on field collected data with a focus on yield, grain number and grain size. This scientific report will include topic background, data analysis, results presentation including tables and graphs and a throrough intepretation using the scientific literature. A detailed task description will be provided on the blackboard site and discussed in the tutorials (in practical session, recorded, zoom). This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Students must submit their assessment task individually, in Blackboard, via the Turnitin link by the submission deadline. You should also retain an electronic copy of every piece of assessment you submit. When marks and feedback are available for this assessment item you will be notified via a blackboard announcement. Legal Declaration By submitting your work via this website, you formally declare that (1) it is your own original work, and no part of the work has been copied from any other source or person except where due acknowledgement is made; (2) no part of the work has been previously submitted for assessment in this or any other institution; and (3) you have read the UQ Academic Integrity and Plagiarism Policy (http://ppl.app.uq.edu.au/content/3.60.04-student-integrity-and-misconduct) and understand its implications.\nDeferral or extension\nYou may be able to apply for an extension .\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessment deadlines are firm and must be met. Late submission without permission or non-submission of assessable work will result in penalties being applied . Late submission of assessment will only be granted for documented medical reasons, accident, bereavement, jury service and other circumstances allowed in the UQ Policies and Procedures Library (PPL). See 6.1 Assessment Related Policies & Guidelines for links to the University Guidelines and Applications for Extensions.\nA penalty of 10% of the maximum possible mark allocated for the assessment item, or one grade per day if graded on the basis of 1-7, or equivalent penalty if an alternative grading approach is used, will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.\nSubmission of an Extension of Assessment Due Date (EADD) should be completed online through your My Requests tab via my.UQ Dashboard before the due date of the assessment item.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This report is based on field collected data with a focus on yield, grain number and grain size. This scientific report will include topic background, data analysis, results presentation including tables and graphs and a throrough intepretation using the scientific literature. A detailed task description will be provided on the blackboard site and discussed in the tutorials (in practical session, recorded, zoom). This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis scientific report will include topic background, data analysis, results presentation including tables and graphs and a throrough intepretation using the scientific literature. A detailed task description will be provided on the blackboard site and discussed in the tutorials (in practical session, recorded, zoom). This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-7",
+      "title": "Final exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "Closed book, two-hour exam covering all aspects of the course. The final exam for AGRC7034 differs from AGRC3040 and will comprise short and extended answer questions as well as solving problems (calculations around estimation of crop growth). The answers to the exam questions are based on the content in this course, including all lectures, readings, practicals and tutorials. The exam will be an on-campus exam. Have your UQ student ID card available for all your exams. Students enrolled in Internal delivery must attend the exam in-person. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series or UQ approved , labelled calculator only Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "Closed book, two-hour exam covering all aspects of the course. The final exam for AGRC7034 differs from AGRC3040 and will comprise short and extended answer questions as well as solving problems (calculations around estimation of crop growth). The answers to the exam questions are based on the content in this course, including all lectures, readings, practicals and tutorials. The exam will be an on-campus exam. Have your UQ student ID card available for all your exams. Students enrolled in Internal delivery must attend the exam in-person. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.",
+    "other_course_materials": "If we've listed something under further requirement, you'll need to provide your own. Required Item Description Further Requirement AGRC7043 Blackboard site Blackboard is the main method of communication. Information on the writing of scientific papers and the development and delivery of seminars will be made available on Blackboard throughout the semester.\n\nhttp://learn.uq.edu.au Course Profile Provides details of specifications, rationale, aims and structure of the course. It also informs you of the assessment for this course, including details of assignments, weightings and due dates.",
+    "required": "Item Description Further Requirement AGRC7043 Blackboard site Blackboard is the main method of communication. Information on the writing of scientific papers and the development and delivery of seminars will be made available on Blackboard throughout the semester.\n\nhttp://learn.uq.edu.au Course Profile Provides details of specifications, rationale, aims and structure of the course. It also informs you of the assessment for this course, including details of assignments, weightings and due dates."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (22 Jul - 28 Jul)",
+      "activity_type": "Practical",
+      "topic": "Field trial visit & tutorial Visit to field,PPE (sunscreen, hat, closed shoes). Principles of field trials & biomass harvest. Introductory tutorial outlining discussion formats, online agricultural data modules linked to reports, report assessments achievement criteria Learning outcomes: L01, L02, L04, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 1 (22 Jul - 28 Jul)",
+      "activity_type": "Lecture",
+      "topic": "W1 Introduction Overview - Grain yield - working forwards and backwards Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (29 Jul - 04 Aug)",
+      "activity_type": "Practical",
+      "topic": "Introduction to APSIM Introduction to APSIM. Running a model, weather and soil data inputs. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (29 Jul - 04 Aug)",
+      "activity_type": "Lecture",
+      "topic": "W2 Crop models - the library of crop physiology Applications in farming systems, climate change, breeding Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (05 Aug - 11 Aug)",
+      "activity_type": "Practical",
+      "topic": "APSIM2 - response to temperature, photoperiod Phenology examples Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (05 Aug - 11 Aug)",
+      "activity_type": "Lecture",
+      "topic": "W3 Phenology - response to temperature,photoperiod Lecture 1: Phenology - response to temperature, photoperiod. Lecture 2: Importance to adaptation - matching water supply, minimising risk of frost,heat GUEST: Dr Bangyou Zheng, CSIRO Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (12 Aug - 18 Aug)",
+      "activity_type": "Practical",
+      "topic": "Field sampling Leaf area/interception practical. Measurement of light interception in field and photosynthesis Learning outcomes: L01, L07",
+      "learning_outcomes": [
+        "L01",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (12 Aug - 18 Aug)",
+      "activity_type": "Lecture",
+      "topic": "W4 Leaf area and light interception Lecture 1: Leaf development, basics of light interception Lecture 2: Different leaf development models, tillering, crop type contrasts. GUEST: Dr Karine Chenu, UQ QAAFI Learning outcomes: L01, L02, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (19 Aug - 25 Aug)",
+      "activity_type": "Practical",
+      "topic": "Photosyn calc model Photosynthesis - simulation prac with Dr Alex Wu and computations based on data collected in field Learning outcomes: L01, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (19 Aug - 25 Aug)",
+      "activity_type": "Lecture",
+      "topic": "W5 Biomass accumulation -Radiation and Temperature Lecture 1: Radiation and temperature limited, canopy structure Lecture 2: Scaling photosynthesis and RUE GUEST: Dr Alex Wu, UQ QAAFI Learning outcomes: L01, L02, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "Practical",
+      "topic": "Report 1 data analysis workshop Online module 1- agricultural data and spreadsheet manipulation. Approaches to data analysis and visualisation Learning outcomes: L01, L02, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Group discussion assigned readings Groups discussion on assigned readings wk 1-5 Fischer, Sadras 2015 Ch 12, Ch 16 Section 4.2 Learning outcomes: L01, L02, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "Lecture",
+      "topic": "W6 The root system Lecture 1: The root system - structure and function in water and nutrient utilisation Lecture 2: Investigating variation in root systems GUEST: Dr Vijaya Singh, UQ Learning outcomes: L01, L02, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (02 Sep - 08 Sep)",
+      "activity_type": "Practical",
+      "topic": "Field sampling Collecting quadrat samples & phenology staging Instrument readings; SPAD, Greenseeker, UAV Learning outcomes: L01, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (02 Sep - 08 Sep)",
+      "activity_type": "Lecture",
+      "topic": "W7 Biomass accumulation Lecture 1: Transpiration limitations on biomass growth, Lecture 2: Transpiration efficiency and influences of VPD and soil water. GUEST: Dr Erik van Oosterom, UQ QAAFI Learning outcomes: L01, L02, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (09 Sep - 15 Sep)",
+      "activity_type": "Lecture",
+      "topic": "W8 Assimilate partitioning to yield Lecture 1: Assimilate partitioning Lecture 2: Grain set and grain filling - dynamics and influences GUEST: Dr Fernanda Dreccer, CSIRO Learning outcomes: L01, L02, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Lecture",
+      "topic": "W9 Nitrogen uptake and dynamics Lecture 1: NUE, N dilution and nitrogen nutrition index Dr Javier Fernandez Lecture 2: N dynamics - influencing adaptation to water-limited environments; GUEST: Dr Erik van Oosterum, UQ QAAFI Learning outcomes: L01, L02, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Practical",
+      "topic": "Report 2 data analysis workshop Online module 2 data analysis Learning outcomes: L01, L02, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Group discussion assigned readings Group discussion assigned reading weeks 6-9 Sadras Ch 12, 8, 7 Learning outcomes: L01, L02, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (30 Sep - 06 Oct)",
+      "activity_type": "Lecture",
+      "topic": "W10 Crop stresses and effects Frost, heat, drought effects on vegetative and reproductive growth Learning outcomes: L01, L02, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (07 Oct - 13 Oct)",
+      "activity_type": "Practical",
+      "topic": "APSIM3 practical APSIM3 - farm practical Learning outcomes: L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (07 Oct - 13 Oct)",
+      "activity_type": "Lecture",
+      "topic": "W11 Crop design and modelling GxExM Crop Design - Modelling GxExM and understanding historical changes in yield and anticipating climate change GUEST: Prof Graeme Hammer, UQ QAAFI Learning outcomes: L01, L03, L06",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (14 Oct - 20 Oct)",
+      "activity_type": "Lecture",
+      "topic": "W12 New horizons in crop physiology Lecture 1: New horizons in crop physiology - Lecture 2: Phenotyping and instruments to measure crop growth; UAVs, machine learning and AI GUEST: Assoc Prof Andries Potgieter, UQ QAAFI Learning outcomes: L01, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (21 Oct - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "W13 Revision and discussion Revision"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

@@ -1,0 +1,305 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/METR6203-60665-7460",
+  "scraped_at": "2026-06-04T01:07:36.849133+00:00",
+  "course_code": "METR6203",
+  "class_code": "60665",
+  "semester_code": "7460",
+  "full_course_code": "METR6203-60665-7460",
+  "course_title": "Control Engineering 2",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "Coverage of various advanced topics in control systems engineering: (i) observers and state estimation, (ii) multivariable systems in the frequency domain, (iii) robust control, and (iv) model predictive control.\n\nThis course focuses on the principles and tools used for designing and analyzing feedback systems. It is specifically designed for students who are interested in utilizing feedback for control in mechanical, electrical, and electro-mechanical systems, although broader application domains are touched on to give a sense of the breadth of the discipline.\n\nThe primary emphasis of the course is on state-space control. It begins by introducing the process of modelling various systems, including mechanical, electrical, electromechanical, biological, social, and informational systems, using ordinary differential and difference equations. Several detailed examples are covered throughout the course to reinforce the concepts. The course then explores the dynamic behavior of models, covering stability and more complex nonlinear behavior. Linear systems are examined as a special case of nonlinear systems, and state-space control laws are discussed, including state feedback, output feedback, and estimators.\n\nThe concepts of reachability and observability are introduced, providing insights into the selection of actuators and sensors for both engineered and natural systems. Additionally, topics such as Kalman filtering and optimal control are covered. While these topics could be individual courses themselves, this course aims to present them in a concise manner that allows for practical application in engineering.\n\nThroughout the course, students are encouraged to apply these concepts to control physical systems, fostering a hands-on approach to learning and applying the material.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "METR4201",
+      "METR7200"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "METR7203"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr T. Thang Vo-Doan",
+      "email": "t.vodoan@uq.edu.au",
+      "notes": "Please email Dr Vo-Doan to arrange a consultation."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr T. Thang Vo-Doan",
+      "email": "t.vodoan@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Jasmin Martin",
+      "email": "jasmin.martin@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The primary objective of this course is to enhance your understanding of the methods and principles employed in modern control engineering. By exploring the various concepts within control theory, the course aims to broaden your appreciation for the wide-ranging applications of these ideas and provide you with a comprehensive perspective on the field. Additionally, you will acquire the necessary knowledge to effectively utilize different design methods and gain practical experience in implementing control systems. By the end of the course, you will be equipped with the skills to confidently apply control engineering techniques and make informed decisions regarding their implementation.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Develop and analyse system models - Construct and analyse state space models for non-linear and linear, continuous and discrete dynamic systems from broadly-based domains such as motion control, information systems and biological systems."
+    },
+    {
+      "number": "LO2.",
+      "description": "Develop and analyse system models - Employ simulation tools (i.e. Matlab and Simulink) to predict and analyse the dynamic behaviour of systems."
+    },
+    {
+      "number": "LO3.",
+      "description": "Develop and analyse system models - Qualitatively analyse linear and non-linear dynamic systems through phase portraits, equilibrium points, limit cycles, stability, and Lyapunov methods."
+    },
+    {
+      "number": "LO4.",
+      "description": "Develop and analyse system models - Predict the transient and steady state response of linear systems described by state space models when subjected to various inputs using analytical and numerical techniques."
+    },
+    {
+      "number": "LO5.",
+      "description": "Develop and analyse system models - Construct discrete time system models from continuous system models by sampling and vice versa."
+    },
+    {
+      "number": "LO6.",
+      "description": "Develop and analyse system models - Compose and study linearisations of non-linear systems by Jacobian linearisation and small value approximations for simple and complex systems."
+    },
+    {
+      "number": "LO7.",
+      "description": "Design and implement state-feedback controllers - Construct different state space realisations of MIMO systems and understand their applications."
+    },
+    {
+      "number": "LO8.",
+      "description": "Design and implement state-feedback controllers - Stabilise linear systems using state feedback."
+    },
+    {
+      "number": "LO9.",
+      "description": "Design and implement state-feedback controllers - Analyse the properties of linear systems such as reachability and observability and understand how these properties impact on the ability to control a system."
+    },
+    {
+      "number": "LO10.",
+      "description": "Design and implement state-feedback controllers - Employ state feedback design methods being cognizant of the tradeoffs that exist among the magnitude of the control inputs, the robustness of the systems to perturbations, and the closed loop performance of the system."
+    },
+    {
+      "number": "LO11.",
+      "description": "Design and implement state-feedback controllers - Employ integral control action and know how it is realised through state feedback controllers."
+    },
+    {
+      "number": "LO12.",
+      "description": "Design and implement output-feedback controllers - Analyse the observability of linear systems and recognize that if a system is observable it is possible to recover the state from measurements of the inputs and outputs of the system."
+    },
+    {
+      "number": "LO13.",
+      "description": "Design and implement output-feedback controllers - Know how to design a controller with feedback from the observer state making use of the separation principle."
+    },
+    {
+      "number": "LO14.",
+      "description": "Design and implement output-feedback controllers - Appreciate the role of feedforward in control system design."
+    },
+    {
+      "number": "LO15.",
+      "description": "Design and implement output-feedback controllers - Understand how output feedback control laws are implemented in digital computers and through higher order software packages such as Matlab."
+    },
+    {
+      "number": "LO16.",
+      "description": "Design and implement output-feedback controllers."
+    },
+    {
+      "number": "LO17.",
+      "description": "Design and implement optimal control systems - Design and implement optimal controllers by minimisation of a quadratic cost in continuous and discrete time."
+    },
+    {
+      "number": "LO18.",
+      "description": "Design and implement optimal control systems - Design and implement optimal estimators (aka Kalman filters) for linear systems and linearised systems in continuous and discrete time."
+    },
+    {
+      "number": "LO19.",
+      "description": "Design and implement optimal control systems - Design steady state Linear Quadratic Gaussian regulators."
+    },
+    {
+      "number": "LO20.",
+      "description": "Work as a team member in a group - Break down a control systems problem into manageable tasks and identify for each task who in the team is responsible, accountable, consulted and informed."
+    },
+    {
+      "number": "LO21.",
+      "description": "Work as a team member in a group - Work with team members to deliver an outcome resolving technical and interpersonal issues and concerns as they raise effectively."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Problem Based Assignment",
+      "weight": "20% (5% for each Assignment 1-4)",
+      "due_date": "Assignment 1 12/08/2024 4:00 pm; Assignment 2 26/08/2024 4:00 pm; Assignment 3 9/09/2024 4:00 pm; Assignment 4 14/10/2024 4:00 pm"
+    },
+    {
+      "category": "Presentation",
+      "title": "Control System Implementation 1",
+      "weight": "30%",
+      "due_date": "16/09/2024 - 20/09/2024; Demo times will be made available for sign up."
+    },
+    {
+      "category": "Presentation",
+      "title": "Control System Implementation 2",
+      "weight": "15%",
+      "due_date": "14/10/2024 - 18/10/2024; Demo times will be made available for sign up."
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "35%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Problem Based Assignment",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20% (5% for each Assignment 1-4)",
+      "due_date": "Assignment 1 12/08/2024 4:00 pm Assignment 2 26/08/2024 4:00 pm Assignment 3 9/09/2024 4:00 pm Assignment 4 14/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L06, L08, L12, L13, L14",
+      "task_description": "The problem-based assignment series consists of a collection of concise assignments designed to help you grasp fundamental concepts. These concepts are subsequently put into practice through the Control Systems Implementation Projects. Problem Based Assignment 1 (LO 1, 2) will require you to develop a Matlab/Simulink model of a system and conducting simulations to analyze the system's response to various inputs. Problem Based Assignment 2 (LO 2, 3) will require you to utilize Matlab for generating and analyzing a phase portrait of a given system. Additionally, you will be tasked with determining a Lyapunov function for the system and using it to perform a qualitative analysis of system stability. Problem Based Assignment 3 (LO 3, 4, 6, 8) involves the following tasks: (i) Creating a Simulink model of a balance system. (ii) Computing a linearization of the system and comparing it with numerical functions available in MATLAB. (iii) Designing a stabilizing control law for the linearized systems using state feedback. (iv) Developing a simulation that applies the designed stabilizing control law to demonstrate its local asymptotic stabilization of the system. Problem Based Assignment 4 (LO 4, 6, 8, 12, 13, 14) aims to enhance your proficiency in utilizing the MATLAB Control Systems Toolbox, specifically in constructing state observers and state feedback controllers using the toolbox's available methods. The assignment emphasizes the application of state feedback for system stabilization and provides an opportunity to explore the balance between observer poles and feedback poles. To access the detailed instructions and assessment criteria for each assignment, please refer to the assignment description provided on Blackboard. Read full task description Hide full task description",
+      "submission_guidelines": "Through turn-it-in via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nFeedback is provided to students following 7 calendar days.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Control System Implementation 1",
+      "mode": "Activity/ Performance",
+      "category": "Presentation",
+      "weight": "30%",
+      "due_date": "16/09/2024 - 20/09/2024 Demo times will be made available for sign up.",
+      "learning_outcomes_assessed": "L01, L02, L03, L05, L06, L08, L09, L10, L11, L20, L21",
+      "task_description": "For this assignment, you will collaborate in groups to implement a control system using state feedback on physical hardware. Your performance will be evaluated through a demonstration of your control system and a presentation on its overall performance. Each group will have the opportunity to sign up for a designated demo slot. To access the specific details and requirements of the assignment, please refer to the assignment description available on Blackboard. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nStudents unable to attend their team's demo with an acceptable reason as described on https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension should apply for an extension.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nDemo sessions are time limited.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late ."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Control System Implementation 2",
+      "mode": "Activity/ Performance",
+      "category": "Presentation",
+      "weight": "15%",
+      "due_date": "14/10/2024 - 18/10/2024 Demo times will be made available for sign up.",
+      "learning_outcomes_assessed": "L01, L02, L07, L08, L09, L11, L12, L13, L14, L15, L16, L17, L18, L19, L20, L21",
+      "task_description": "For this assignment, you will collaborate in groups to implement an optimal control system using output feedback on physical hardware. Your performance will be assessed through a demonstration of your control system and a presentation on its overall performance. Demo slots for the demonstrations will be made available for sign-up on Blackboard. To access the specific details and requirements of the assignment, please refer to the assignment description available on Blackboard. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nStudents unable to attend their team's demo with an acceptable reason as described on https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension should apply for an extension.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nDemo sessions are time limited.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late ."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "35%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "learning_outcomes_assessed": "L01, L04, L05, L06, L07, L09, L12, L13, L16, L17, L18",
+      "task_description": "The final exam will test your understanding of the course material through problem solving. The final exam will be closed book. Only Casio FX82 series or UQ approved (and labelled) calculator is allowed. You will be able to bring a companion mathomat with you, however NOT the WB3 edition. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series or UQ approved , labelled calculator only Open/closed book Closed Book examination - no written materials permitted Materials A companion Mathomat, except the WB3 (Whiteboard Edition) Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Problem-based learning",
+      "topic": "Problem based learning workshops Weekly problem based workshops that develops understanding of the learning outcomes. Learning outcomes: L01, L02, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13",
+        "L14",
+        "L15",
+        "L16",
+        "L17",
+        "L18",
+        "L19"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "General contact hours",
+      "topic": "Contact Learning outcomes: L01, L02, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L18, L19",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13",
+        "L14",
+        "L15",
+        "L16",
+        "L17",
+        "L18",
+        "L19"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 12 (29 Jul - 20 Oct)",
+      "activity_type": "Practical",
+      "topic": "Laboratory Implementation of control systems on laboratory equipment as a team Learning outcomes: L01, L02, L03, L04, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16, L17, L20, L21",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13",
+        "L14",
+        "L15",
+        "L16",
+        "L17",
+        "L20",
+        "L21"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

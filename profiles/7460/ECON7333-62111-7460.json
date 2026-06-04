@@ -1,0 +1,286 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ECON7333-62111-7460",
+  "scraped_at": "2026-06-04T00:56:22.543283+00:00",
+  "course_code": "ECON7333",
+  "class_code": "62111",
+  "semester_code": "7460",
+  "full_course_code": "ECON7333-62111-7460",
+  "course_title": "Big Data and Machine Learning for Economics and Finance",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Economics School",
+  "course_description": "As bigger datasets become available and more and more companies and institutions, require analysis of such a huge amount of information, the fields of Big Data and Machine Learning become more and more essential for economics and business students to learn about. This course builds on the basic knowledge built in elementary econometrics courses and strives to provide basic tools for analysing Big Data. The major topics discussed will be supervised learning (linear regression in high dimensions, classification by logistic regression and support vector machines, splines, nearest neighbours), unsupervised learning and Neural Networks. The course will be practical and will provide students with an R library of computer code to explore the topics in a practical fashion.\n\nThe course will introduce several machine learning techniques and models at an introductory level. The course is practically oriented as everything will be illustrated on datasets using the R computing framework.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ECON7300",
+      "We recommend completing the following courses before enrolling in this one:",
+      "ECON7310"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ECON2333"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Mohamad Khaled",
+      "email": "m.khaled@uq.edu.au",
+      "notes": "TBA"
+    },
+    {
+      "role": "School enquiries",
+      "name": "Student Enquiries, School of Economics",
+      "email": "enquiries@economics.uq.edu.au",
+      "notes": "All enquiries regarding student and academic administration (i.e. non-course content information, e.g., class allocation, timetables, extension to assessment due date, etc.) should be directed to enquiries@economics.uq.edu.au . Enquiries relating specifically to course content should be directed to the Course Coordinator/Lecturer."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Mohamad Khaled",
+      "email": "m.khaled@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Ryan Leung"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nTutorial Preferencing\n: Please refer to My Timetable (available via your my.UQ dashboard) for more information on the tutorial preferencing and allocation process.\nTutorials Commence in Teaching Week 2\n.\nThe timetable is published through the UQ Public Timetable found in the APPs section of myUQ.ﾠ\nPublic Holidays:\nWed 14 August (Royal Queensland Show), Mon 7 October (King's Birthday).\nIn-Semester Break:\n23 - 29 September. Semester 2 classes recommence Mon 30 September.\nStudents should refer to the timetable prior to the commencement of classes to ensure that they have the most up to date information, as from time-to-time late room changes may occur. The timetable can be downloaded hereﾠ\nPublic Timetable\n.",
+  "course_aims": "The aim of the course is to get an introduction to some major machine learning techniques and models (both supervised/unsupervised, parametric/non-parametric, regression/Classification) and how to apply to real data sets using the R computing environment.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand the concept of statistical learning."
+    },
+    {
+      "number": "LO2.",
+      "description": "Learn how to use the R computing framework."
+    },
+    {
+      "number": "LO3.",
+      "description": "Understand the difference between parametric and non-parametric estimation."
+    },
+    {
+      "number": "LO4.",
+      "description": "Learn about some major classification techniques in machine learning."
+    },
+    {
+      "number": "LO5.",
+      "description": "Learn about some major regression techniques in machine learning."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Practical Assignment 1",
+      "weight": "34%",
+      "due_date": "23/08/2024 1:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Practical Assignment 2",
+      "weight": "33%",
+      "due_date": "20/09/2024 1:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Practical Assignment 3",
+      "weight": "33%",
+      "due_date": "25/10/2024 1:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Practical Assignment 1",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "34%",
+      "due_date": "23/08/2024 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The assignment will contain a set of practical and theoretical questions and cover topics from previous lectures and tutorials. Answers including each question solution and computer output need to be provided. Artificial Intelligence (AI) and Machine Translation (MT) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission via BB.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The assignment will contain a set of practical and theoretical questions and cover topics from previous lectures and tutorials. Answers including each question solution and computer output need to be provided. Artificial Intelligence (AI) and Machine Translation (MT) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Practical Assignment 2",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "33%",
+      "due_date": "20/09/2024 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The assignment will contain a set of practical and theoretical questions and cover topics from previous lectures and tutorials. Answers including each question solution and computer output need to be provided. Artificial Intelligence (AI) and Machine Translation (MT) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission via BB.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The assignment will contain a set of practical and theoretical questions and cover topics from previous lectures and tutorials. Answers including each question solution and computer output need to be provided. Artificial Intelligence (AI) and Machine Translation (MT) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Practical Assignment 3",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "33%",
+      "due_date": "25/10/2024 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The assignment will contain a set of practical and theoretical questions and cover topics from previous lectures and tutorials. Answers including each question solution and computer output need to be provided. Artificial Intelligence (AI) and Machine Translation (MT) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission via BB.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The assignment will contain a set of practical and theoretical questions and cover topics from previous lectures and tutorials. Answers including each question solution and computer output need to be provided. Artificial Intelligence (AI) and Machine Translation (MT) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (22 Jul - 28 Jul)",
+      "activity_type": "Lecture",
+      "topic": "Basics of machine learning Introduction to the framework of statistical learning Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (29 Jul - 04 Aug)",
+      "activity_type": "Lecture",
+      "topic": "S.L. 1 Introduction to fundamental aspects of Supervised Learning. Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (05 Aug - 11 Aug)",
+      "activity_type": "Lecture",
+      "topic": "S.L. 2 Supervised Learning: Classification and Regression models 1. Learning outcomes: L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (12 Aug - 18 Aug)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Public Holiday: EKKA - no lecture on Wednesday"
+    },
+    {
+      "learning_period": "Week 5 (19 Aug - 25 Aug)",
+      "activity_type": "Lecture",
+      "topic": "S.L. 3 Supervised Learning: Classification and Regression models 2 Learning outcomes: L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "Lecture",
+      "topic": "S.L. and R.S. 1 Supervised Learning: Further inferential aspects 1 Learning outcomes: L02, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (02 Sep - 08 Sep)",
+      "activity_type": "Lecture",
+      "topic": "S.L and R.S. 2 Supervised Learning: Further inferential aspects 2 Learning outcomes: L02, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (09 Sep - 15 Sep)",
+      "activity_type": "Lecture",
+      "topic": "S.L. and H.D. 1 Supervised Learning: Extensions 1 Unsupervised Learning. Learning outcomes: L02, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Lecture",
+      "topic": "S.L and H.D. 2 Supervised Learning: Extensions 2. Unsupervised Learning. Learning outcomes: L02, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Mid Sem break (23 Sep - 29 Sep)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Mid Sem Break No Classes during the break."
+    },
+    {
+      "learning_period": "Week 10 (30 Sep - 06 Oct)",
+      "activity_type": "Lecture",
+      "topic": "S.L. 5 Supervised Learning: Further topics Learning outcomes: L02, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (07 Oct - 13 Oct)",
+      "activity_type": "Lecture",
+      "topic": "S.L. 6 Supervised Learning: Further topics Learning outcomes: L02, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (07 Oct - 13 Oct)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Public Holiday: King's Birthday - no tutorial on Monday Students who usually attend a Monday tutorial session are advised to attend another tutorial session for this week only."
+    },
+    {
+      "learning_period": "Week 12 (14 Oct - 20 Oct)",
+      "activity_type": "Lecture",
+      "topic": "S.L. 7 Supervised Learning: Further topics Learning outcomes: L02, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (21 Oct - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Review Review topics Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

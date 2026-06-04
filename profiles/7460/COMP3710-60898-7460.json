@@ -1,0 +1,238 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMP3710-60898-7460",
+  "scraped_at": "2026-06-04T00:52:34.232083+00:00",
+  "course_code": "COMP3710",
+  "class_code": "60898",
+  "semester_code": "7460",
+  "full_course_code": "COMP3710-60898-7460",
+  "course_title": "Pattern Recognition and Analysis",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Understanding patterns in our environment is an important cognitive ability. The development of recognition and automated algorithms that are able to process copious amounts data without (or with limited) human intervention is critical in replicating this ability in machines. This course will cover the fundamentals of creating computational algorithms and models that are able to recognise and/or analyse patterns within data of various forms. Topics and algorithms will include fractal geometry, classification methods such as random forests, recognition approaches using deep learning and models of the human vision system. Python, the open-source paradigm and state-of-the-art packages like Tensorflow, JAX and PyTorch will be used as a mechanism for students to study patterns in nature and solve problems from various real-worlds data sources, such images, social media and biomedical signals.\n\nThe course will be taught via three main modules:\n\nIn general, students will have opportunities to implement and create pattern recognition and analysis solutions using the algorithms discussed on actual research data from various fields. This will allow them to specialise into areas of image/signal analysisﾠand data science. Guest lecturers and leaders in some of these areas will present some of their work to highlight the societal impact of these algorithms.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1051",
+      "MATH1071",
+      "CSSE1001",
+      "ENGG1001",
+      "We recommend completing the following courses before enrolling in this one:",
+      "MATH1052",
+      "MATH1072",
+      "MATH2302",
+      "COMP3506"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Shakes Chandra",
+      "email": "COMP3710@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Shakes Chandra"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLectures will also be streamed via ZOOM, recorded and held live on campus simultaneously. Course notes for some modules of the course will also be provided.",
+  "course_aims": "The course will provide students with practical experiences in:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Demonstrate their mathematical theory of patterns such as symmetry groups and fractal geometry"
+    },
+    {
+      "number": "LO2.",
+      "description": "Extract and interpret patterns that exist in data and for solving recognition problems"
+    },
+    {
+      "number": "LO3.",
+      "description": "Make use of different transform domains and dimensionality reduction in identifying patterns"
+    },
+    {
+      "number": "LO4.",
+      "description": "Distinguishing when to apply and make use of decision trees to various large datasets"
+    },
+    {
+      "number": "LO5.",
+      "description": "Distinguishing when to apply and make use of convolutional neural networks and/or transformers"
+    },
+    {
+      "number": "LO6.",
+      "description": "Demonstrate the ability to develop algorithms, while applying appropriate software engineering principles"
+    },
+    {
+      "number": "LO7.",
+      "description": "Develop heterogeneous computing solutions using industry grade software packages such as Tensorflow, JAX or PyTorch"
+    },
+    {
+      "number": "LO8.",
+      "description": "Effectively communicate (using oral and written communication and appropriate figures and visualisations) the purpose, operation, technical functionality and research directions related to a pattern recognition algorithm"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Practical/ Demonstration",
+      "title": "Fractals",
+      "weight": "15%",
+      "due_date": "5/08/2024 - 19/08/2024; Assessment during scheduled lab session",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Practical/ Demonstration",
+      "title": "Pattern Recognition",
+      "weight": "25%",
+      "due_date": "2/09/2024 - 16/09/2024; Assessment during scheduled lab session",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "title": "Pattern Analysis Project",
+      "weight": "30%",
+      "due_date": "25/10/2024 4:00 pm; Assessment during scheduled lab session + Submission items",
+      "conditions": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "30%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Fractals",
+      "mode": "Activity/ Performance, Oral",
+      "category": "Computer Code, Practical/ Demonstration",
+      "weight": "15%",
+      "due_date": "5/08/2024 - 19/08/2024 Assessment during scheduled lab session",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02",
+      "task_description": "Implement a fractal using a deep learning framework such as Tensorflow, JAX or PyTorch. Practical sessions in the course are dedicated to run within this period in order for you to complete the tasks for the Demonstration and they are designed to be completed within these allocated sessions. Students will be asked to complete a Git Introduction Short course and show the relevant course as completed as part of this demo. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThis course uses Demos that are allocated 3–5-week blocks of schedule practical sessions in order to complete them. Marking is to be done before the end of each block in the scheduled practical times where possible. You cannot defer these, and no extensions will be available because these involve an oral explanation/demo in the scheduled lab session. If there are exceptional circumstances an exemption may be approved and may involve submitting/discussing your work as it stands. Exemptions must be requested as an extension with a note specifying exemption via my.UQ .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nAssessment items received after the deadline will be subject to a late penalty of 100% after grace period of 1-hour.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Pattern Recognition",
+      "mode": "Activity/ Performance, Oral",
+      "category": "Computer Code, Practical/ Demonstration",
+      "weight": "25%",
+      "due_date": "2/09/2024 - 16/09/2024 Assessment during scheduled lab session",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L02, L03, L04, L05",
+      "task_description": "Solve a recognition problem for a dataset of your choice. Construct the algorithm, curate the code and document your findings. Practical sessions in the course are dedicated to run within this period in order for you to complete the tasks for the Demonstration and they are designed to be completed within these allocated sessions. Students will be asked to complete a Git Advanced Short course and show the relevant course as completed as part of this demo. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThis course uses Demos that are allocated 3–5-week blocks of schedule practical sessions in order to complete them. Marking is to be done before the end of each block in the scheduled practical times where possible. You cannot defer these, and no extensions will be available because these involve an oral explanation/demo in the scheduled lab session. If there are exceptional circumstances an exemption may be approved and may involve submitting/discussing your work as it stands. Exemptions must be requested as an extension with a note specifying exemption via my.UQ .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nAssessment items received after the deadline will be subject to a late penalty of 100% after grace period of 1-hour.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Pattern Analysis Project",
+      "mode": "Activity/ Performance, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "weight": "30%",
+      "due_date": "25/10/2024 4:00 pm Assessment during scheduled lab session + Submission items",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L02, L03, L06, L07, L08",
+      "task_description": "Implement an image processing, computer vision or pattern recognition solution in Tensorflow, JAX or PyTorch. Practical sessions in the course are dedicated to run from weeks 9-12 (inclusive) in order for you to complete the tasks for the Demonstration, but may require additional time outside class time for you to complete your report. You are required to submit Git pull request to the relevant open-source project by the due date. Read full task description Hide full task description",
+      "submission_guidelines": "This will be a Turn-it-in submission and a pull request to the relevant open source project.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis course uses allocated 3–5-week blocks of schedule practical sessions in order to complete the project. Only one extension will be available because these involve a turn-it-in and pull request submissions if there are exceptional circumstances and must be requested as an extension via my.UQ .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nAssessment items received after the deadline will be subject to a late penalty of 100% after grace period of 1-hour.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "30%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "A 120-minute examination will be held during the examination period. The exam will cover content from the whole semester. Note that exam hurdles will apply for higher grades. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Patterns and Symmetry Lecture series on how symmetry and self-similarity leads to the patterns we observe in nature, such as fractals and the known particles of the universe. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Tutorial",
+      "topic": "Theoretical Problems Understanding the theoretical aspects of pattern recognition."
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Practical",
+      "topic": "Practicals Implement algorithms in Tensorflow/JAX/PyTorch."
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Traditional Pattern Recognition Lecture series on how patterns are quantified, measured and identified using features, similarity, information theory, principles of transform domains and decision trees. Learning outcomes: L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Deep Learning Lecture series on how the idea of receptive fields, convolutions and attention are used to learn appropriate multi-scale, self-adaptive features via neural networks. Learning outcomes: L05, L06, L07",
+      "learning_outcomes": [
+        "L05",
+        "L06",
+        "L07"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

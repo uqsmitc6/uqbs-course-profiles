@@ -1,0 +1,143 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH4407-64328-7460",
+  "scraped_at": "2026-06-04T01:06:22.953175+00:00",
+  "course_code": "MATH4407",
+  "class_code": "64328",
+  "semester_code": "7460",
+  "full_course_code": "MATH4407-64328-7460",
+  "course_title": "Advanced Ordinary and Partial Differential Equations",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Analysis of partial differential equations (Sobolev spaces, existence and regularity of solutions), selected topics in ordinary differential equations (periodic solutions, Poincare-Bendixson theorem, Floquet's theorem).\n\nThis course develops some of the central ideas of ordinary differential equations, including the Poincare-Bendixson theorem and Floquet's theorem, and of partial differential equations, including Sobolev spaces and techniques for proving existence and regularity of solutions.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH2400",
+      "MATH2401",
+      "MATH2001",
+      "MATH2100",
+      "We recommend completing the following courses before enrolling in this one:",
+      "MATH3402",
+      "MATH3101",
+      "MATH3403"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH4402",
+      "MATH4403"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Min-Chun Hong",
+      "email": "hong@maths.uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Kai Chan"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Min-Chun Hong",
+      "email": "hong@maths.uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus. Consult your personal timetable for times and locations. Relevant recordings will be provided on Blackboard. Students are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness).ﾠ If you are ill, do not attend any classes or tutorials in person. Alternative arrangements can be organised - consult Blackboard for details.\nNo tutorials in Week 1.",
+  "course_aims": "The course aims to introduce students to a mathematically rigorous examination of some basic concepts of ordinary differential equations, including the Poincare-Bendixson theorem and Floquet's theorem.\n\nThe course also aims to provide an introduction to aspects of the modern theory of second order partial differential equations. Sobolev spaces will be introduced and their basic properties will be explored to prove existence and regularity of weak solutions of partial differential equations.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Describe the proof of the Poincare-Bendixson theorem"
+    },
+    {
+      "number": "LO2.",
+      "description": "Characterise the basic concepts underlying Floquet's theorem"
+    },
+    {
+      "number": "LO3.",
+      "description": "Work with the advanced properties of the Sobolev space W^{1,p}"
+    },
+    {
+      "number": "LO4.",
+      "description": "Prove existence and regularity of weak solutions of second order elliptic equations"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignments",
+      "weight": "40% each for 10%",
+      "due_date": "Assignment 1: 19/08/2024 5:00 pm; Assignment 2: 9/09/2024 5:00 pm; Assignment 3: 4/10/2024 5:00 pm; Assignment 4: 25/10/2024 5:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignments",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "40% each for 10%",
+      "due_date": "Assignment 1: 19/08/2024 5:00 pm Assignment 2: 9/09/2024 5:00 pm Assignment 3: 4/10/2024 5:00 pm Assignment 4: 25/10/2024 5:00 pm",
+      "learning_outcomes_assessed": "L01",
+      "task_description": "The assignment requires you to answer a set of questions and submit your written solutions. Read full task description Hide full task description",
+      "submission_guidelines": "Submit this assessment item through the link in Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "The final examination in this course will be held during the end-of-semester examination period. It will be an in-person invigilated exam held on campus. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Weeks 1-13 Lectures will be given by Min-Chun Hong Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Tutorial",
+      "topic": "Weeks 2-13 A tutorial for each week"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

@@ -1,0 +1,266 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CIVL3220-60045-7460",
+  "scraped_at": "2026-06-04T00:51:57.019360+00:00",
+  "course_code": "CIVL3220",
+  "class_code": "60045",
+  "semester_code": "7460",
+  "full_course_code": "CIVL3220-60045-7460",
+  "course_title": "Rock Mechanics",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Civil Engineering School",
+  "course_description": "This course aims to provide students with the basic knowledge required to undertake geomechanical investigations and design tasks. The course consists of several modules to cover the basics of rock-like materials behaviour; stress-strain, failure criteria, stress and strain tensors in rocks, rock mass behaviours, rock mass strength and deformability, strength of discontinuities, basic rock testing, rock mass classification systems, the response of rock mass to underground excavation, stress measurement, time dependant and dynamic behaviour of rocks, and rock slope stability.\n\nThe course also includes hands-on laboratory practicals and integration with industry practitioners to explore current industry approaches to rock engineering design. The course comprises two modules:",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CIVL2210"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MINE3121"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Mehdi Serati",
+      "email": "m.serati@uq.edu.au",
+      "phone": "+61 7 3365 3911"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Mehdi Serati",
+      "email": "m.serati@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Adjunct Professor Harry Asche",
+      "email": "h.asche@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Xiaohan Yang",
+      "email": "xiaohan.yang@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLectures, tutorials, and practicals will be conducted during the scheduled contact times. PowerPoint slides of the course material will be provided to enrolled students via Blackboard. Please refer to the course Blackboard for more details.",
+  "course_aims": "The course aims to provide students with a basic knowledge in geomechanics, which include mathematical and physical concepts associated with behaviour of intact rock & rock mass, in-situ stress & its measurement, collection & analysis of data, rock mass classification methods, time dependent & dynamic behaviour of rock, probabilistic & numerical methods, applications of geomechanics, andﾠreview of deformable materials.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Apply the basic principles of rock mechanics to real-world scenarios in mining and geotechnical disciplines."
+    },
+    {
+      "number": "LO2.",
+      "description": "Evaluate the engineering properties and mechanical behaviour of rock under various geo-stresses and loading conditions."
+    },
+    {
+      "number": "LO3.",
+      "description": "Relate stress and strain transformation concepts to solve problems in rock mechanics."
+    },
+    {
+      "number": "LO4.",
+      "description": "Analyse 3D geotechnical structures as lines and planes using stress and strain transformation principles."
+    },
+    {
+      "number": "LO5.",
+      "description": "Demonstrate differences between the classification and characterization of rocks and apply these concepts in practical contexts."
+    },
+    {
+      "number": "LO6.",
+      "description": "Use the basics of stereographic projection techniques for mathematically modelling geological structures."
+    },
+    {
+      "number": "LO7.",
+      "description": "Identify the origins of in situ stresses and argue the parameters influencing in practice."
+    },
+    {
+      "number": "LO8.",
+      "description": "Develop the skills to access, evaluate, and integrate new theoretical knowledge and processes in the evolving field of rock mechanics."
+    },
+    {
+      "number": "LO9.",
+      "description": "Demonstrate the different responses of intact rocks, rock masses, and rock discontinuities under externally applied stresses."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "In-class Quizzes",
+      "weight": "10%",
+      "due_date": "Week 2,; Week 3,; Week 4,; Week 5,; Week 6,; Week 7,; Week 8,; Week 9,; Week 10,; Week 12,; There is no late submission or deferred assessment for in-class quizzes, which must be completed live in the scheduled lecture sessions. This cannot be done in a delayed lecture viewing timeslot.",
+      "conditions": [
+        "In-person",
+        "Online"
+      ]
+    },
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Rock Testing Practicals Lab Book",
+      "weight": "25%",
+      "due_date": "19/09/2024 4:00 pm",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "IT Computing - Numerical Modelling",
+      "weight": "25%",
+      "due_date": "17/10/2024 4:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-class Quizzes",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "10%",
+      "due_date": "Week 2, Week 3, Week 4, Week 5, Week 6, Week 7, Week 8, Week 9, Week 10, Week 12, There is no late submission or deferred assessment for in-class quizzes, which must be completed live in the scheduled lecture sessions. This cannot be done in a delayed lecture viewing timeslot.",
+      "learning_outcomes_assessed": "L01, L03, L05, L06, L07",
+      "task_description": "In-class quizzes will assess students' learning progress on a weekly basis throughout the semester. Each quiz will contain questions related to the material covered in tutorials, lectures, and course content. The aim is to provide feedback on students' understanding of the key concepts that underpin the course and exam questions. Solutions and explanations for the quiz questions will be provided immediately after each quiz, with opportunities for further discussion during tutorials and contact sessions. Quizzes will be conducted during lectures each week from Week 2 to Week 11, and students need to complete the best 6 of 10 quizzes. Any changes to the quiz schedule will be announced at least one week in advance. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "The format of in-class quizzes is multiple-choice and short answer questions, using online polling tools/virtual \"clickers\" on mobile phone, tablet or browser.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nThere is no late submission or deferred assessment for in-class quizzes, and students need to complete the best 6 of 10 quizzes.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "In-class quizzes will assess students' learning progress on a weekly basis throughout the semester. Each quiz will contain questions related to the material covered in tutorials, lectures, and course content. The aim is to provide feedback on students' understanding of the key concepts that underpin the course and exam questions. Solutions and explanations for the quiz questions will be provided immediately after each quiz, with opportunities for further discussion during tutorials and contact sessions. Quizzes will be conducted during lectures each week from Week 2 to Week 11, and students need to complete the best 6 of 10 quizzes. Any changes to the quiz schedule will be announced at least one week in advance. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "In-person",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Rock Testing Practicals Lab Book",
+      "mode": "Activity/ Performance, Written",
+      "category": "Practical/ Demonstration",
+      "weight": "25%",
+      "due_date": "19/09/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L09",
+      "task_description": "You need to sign-up for Practical 1 and 2 to be held in AEB #49, Rooms 412 and 106. Some important information includes: It will be assumed that you have studied the practical handout prior to your arrival in the laboratory, so you will be given minimal instruction. Many of the practical classes in this course involve the use of machines and equipment in a laboratory environment. For safety reasons suitable clothing and covered footwear must be worn during the practical class. Thongs and open type sandals are not regarded as safe footwear. Safety glasses must be worn at all times. Students must wear safety shoes, long sleeves and long pants to all practical sessions. Shorts and T-shirts are not acceptable and you won't be admitted to the practical class without the correct PPE (Personal Protective Equipment) - SAFETY FIRST is the rule at all times. It is a condition of entry to practical classes that you have completed the Student Safety Declaration Form provided by your tutors before the class. When you arrive at the practical venue, it is also compulsory to sign in, and sign out as you leave the laboratory. If you do not sign in and sign out, we will assume you have not attended the session. You must bring drawing instruments including: a protractor, ruler, and compass to the practical class. These drawing instruments will also be required for the rock mechanics exam. You will not have time to read through the laboratory handout during the laboratory session, so it is important you study the provided handouts prior to your session. Obey the instruction of your tutor and standard procedures relating to the mine (e.g. use of safety tag). Report all accidents or high potential incidents immediately. NO SMOKING, DRINKING OR EATING during practical sessions. During practical classes, students are to remain in the areas designated by the tutor all the times. Leave the laboratory or work area in a clean state. Always be sure of what you are doing. If not sure, ask your tutor. Report any malfunction or damage so that it may be rectified before the next laboratory period. The tutor is given the responsibility to ensure compliance with these rules. As such, he or she may require a student to leave a practical for non-compliance. A student asked to leave would then need to seek permission to attend the practical at a later time if approved by the Course Coordinator. All practical last a full 3 hours. Each series of practical sessions is designed to supplement the formal lectures in the subjects. Generally, experiments have been selected to illustrate material presented in the lecture course. However, some experiments involve topics, which cannot be presented effectively in the lectures. Students arriving more than 10 minutes late will not be permitted to start a practical. Students unable to attend a practical because of extenuating circumstances must contact the Course Coordinator to obtain written authorisation to attend another practical. A report cannot be submitted on the results of a practical which has not been attended by the student, unless approved by the Course Coordinator in written before the relevant practical session(s). The prac exercises have been designed to provide an introduction to, and an awareness of, basic measurements and test procedures in rock mechanics. You will be provided electronic access to Rock Testing Lab Book. This Rock Testing Lab Book must be printed out and brought to both rock testing practical classes. You will need to access the appendices during prac so you need to print the whole book. Five rock tests will be carried out over two laboratory sessions. Students will carry out laboratory testing of supplied rock samples, record the results and report them in the provided Lab Book. Some analysis outside of laboratory time will be required. Submissions received after the due date (or extended due date) without prior agreement will not be marked. You should use the electronic form of the Lab Book as a template for your report. Find the course profile 'Learning activities' for details and prac dates for each group. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Assessment must be submitted through the course BlackBoard site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "You need to sign-up for Practical 1 and 2 to be held in AEB #49, Rooms 412 and 106. Some important information includes: It will be assumed that you have studied the practical handout prior to your arrival in the laboratory, so you will be given minimal instruction. Many of the practical classes in this course involve the use of machines and equipment in a laboratory environment. For safety reasons suitable clothing and covered footwear must be worn during the practical class. Thongs and open type sandals are not regarded as safe footwear. Safety glasses must be worn at all times. Students must wear safety shoes, long sleeves and long pants to all practical sessions. Shorts and T-shirts are not acceptable and you won't be admitted to the practical class without the correct PPE (Personal Protective Equipment) - SAFETY FIRST is the rule at all times. It is a condition of entry to practical classes that you have completed the Student Safety Declaration Form provided by your tutors before the class. When you arrive at the practical venue, it is also compulsory to sign in, and sign out as you leave the laboratory. If you do not sign in and sign out, we will assume you have not attended the session. You must bring drawing instruments including: a protractor, ruler, and compass to the practical class. These drawing instruments will also be required for the rock mechanics exam. You will not have time to read through the laboratory handout during the laboratory session, so it is important you study the provided handouts prior to your session. Obey the instruction of your tutor and standard procedures relating to the mine (e.g. use of safety tag). Report all accidents or high potential incidents immediately. NO SMOKING, DRINKING OR EATING during practical sessions. During practical classes, students are to remain in the areas designated by the tutor all the times. Leave the laboratory or work area in a clean state. Always be sure of what you are doing. If not sure, ask your tutor. Report any malfunction or damage so that it may be rectified before the next laboratory period. The tutor is given the responsibility to ensure compliance with these rules. As such, he or she may require a student to leave a practical for non-compliance. A student asked to leave would then need to seek permission to attend the practical at a later time if approved by the Course Coordinator. All practical last a full 3 hours. Each series of practical sessions is designed to supplement the formal lectures in the subjects. Generally, experiments have been selected to illustrate material presented in the lecture course. However, some experiments involve topics, which cannot be presented effectively in the lectures. Students arriving more than 10 minutes late will not be permitted to start a practical. Students unable to attend a practical because of extenuating circumstances must contact the Course Coordinator to obtain written authorisation to attend another practical. A report cannot be submitted on the results of a practical which has not been attended by the student, unless approved by the Course Coordinator in written before the relevant practical session(s). The prac exercises have been designed to provide an introduction to, and an awareness of, basic measurements and test procedures in rock mechanics. You will be provided electronic access to Rock Testing Lab Book. This Rock Testing Lab Book must be printed out and brought to both rock testing practical classes. You will need to access the appendices during prac so you need to print the whole book. Five rock tests will be carried out over two laboratory sessions. Students will carry out laboratory testing of supplied rock samples, record the results and report them in the provided Lab Book. Some analysis outside of laboratory time will be required. Submissions received after the due date (or extended due date) without prior agreement will not be marked. You should use the electronic form of the Lab Book as a template for your report. Find the course profile 'Learning activities' for details and prac dates for each group. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "IT Computing - Numerical Modelling",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "25%",
+      "due_date": "17/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L02, L03, L04, L05, L08, L09",
+      "task_description": "Students will conduct a numerical exercise reflecting the types of problems encountered in Underground Excavation. The details of the assignment and the tasks associated with it will be discussed in the class and they will be provided to the students. The marks will be allocated according to the tasks as outlined in the assignments/projects. Students will be evaluated based on their ability to solve the given numerical problem and demonstrate comprehension of the underlying mechanics. In general, mark distribution is of the form assignment criteria and may vary depending upon the tasks in the assignments. The Rock Mechanics Numerical Modelling assignment is an individual work. Notice: Tutor will provide instructions on the IT assignment on 27 August 2024 in-person - See Lecture #1 for details. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Assessment must be submitted through the course BlackBoard site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Students will conduct a numerical exercise reflecting the types of problems encountered in Underground Excavation. The details of the assignment and the tasks associated with it will be discussed in the class and they will be provided to the students. The marks will be allocated according to the tasks as outlined in the assignments/projects. Students will be evaluated based on their ability to solve the given numerical problem and demonstrate comprehension of the underlying mechanics. In general, mark distribution is of the form assignment criteria and may vary depending upon the tasks in the assignments. The Rock Mechanics Numerical Modelling assignment is an individual work. Notice: Tutor will provide instructions on the IT assignment on 27 August 2024 in-person - See Lecture #1 for details. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L06, L07, L08, L09",
+      "task_description": "The final exam will include a combination of short answer and problem solving questions. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed Book examination - specified written materials permitted Materials A formula sheet (typed or handwritten), compiled by the student, is allowed subject to the following requirements: Students are allowed a maximum of three (3) A4 size sheets, double-sided, to bring to the exam. No equation description, equation name, or parameter definitions permitted. NO tables, graphs or other diagrams permitted. Each sheet MUST be the students own and include the student's NAME and ID NUMBER. FORMULA SHEET MUST BE HANDED IN WITH ANSWER BOOK AT END OF EXAM FOR CHECKING. Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Each question's mark will be indicated on the question sheet.\nDeferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The final exam will include a combination of short answer and problem solving questions. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.",
+    "other_course_materials": "Recommended Item Description Further Requirement PPE Students must wear safety shoes (steel-capped footwear), long sleeves and long pants during all practical sessions. Shorts and T-shirts are not acceptable, and you won't be admitted to the practical class without the correct PPE (Personal Protective Equipment). ALWAYS wear the appropriate PPE when working in the laboratory.",
+    "recommended": "Item Description Further Requirement PPE Students must wear safety shoes (steel-capped footwear), long sleeves and long pants during all practical sessions. Shorts and T-shirts are not acceptable, and you won't be admitted to the practical class without the correct PPE (Personal Protective Equipment). ALWAYS wear the appropriate PPE when working in the laboratory."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (22 Jul - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lectures All lectures will be given in the timetabled lecture times. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 3 To Week 13 (05 Aug - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorials Tutorials will be given in the timetabled tutorial times, to support the lecture material and the practicals, as advised during the preceding lectures. Learning outcomes: L02, L03, L04, L05, L09",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 4 To Week 5 (12 Aug - 25 Aug)",
+      "activity_type": "Practical",
+      "topic": "Rock Testing Practicals You need to sign-up for a practical session to be held at AEB 49, Rooms 412 & 106. Learning outcomes: L01, L06, L08, L09",
+      "learning_outcomes": [
+        "L01",
+        "L06",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "Information technology session",
+      "topic": "IT Computing Rocscience software applications Learning outcomes: L01, L04, L05, L08, L09",
+      "learning_outcomes": [
+        "L01",
+        "L04",
+        "L05",
+        "L08",
+        "L09"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . You'll also need to be aware of the following policies and procedures while completing this course: Laboratory Occupational Health and Safety School guidelines Your school has additional guidelines you'll need to follow for this course: School of Civil Engineering School Guidelines Learning activities"
+}

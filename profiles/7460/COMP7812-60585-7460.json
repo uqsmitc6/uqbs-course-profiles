@@ -1,0 +1,311 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMP7812-60585-7460",
+  "scraped_at": "2026-06-04T00:52:44.563188+00:00",
+  "course_code": "COMP7812",
+  "class_code": "60585",
+  "semester_code": "7460",
+  "full_course_code": "COMP7812-60585-7460",
+  "course_title": "Computer Science Research Project",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 21/06/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "4",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "This course will be discontinued from Semester 2, 2025.\n\nSubstantial research project focusing on a particular area of computer science. Year-long project culminates with a written thesis and presentation of poster. Students commencing in Semester 1 enrol in COMP7811 for Semester 1 and 2; students commencing in Semester 2 enrol in COMP7812 for Semester 2 and the following Semester 1.\n\nThe purpose of ﾠthe courseﾠis to develop the student's research and problem-solving skills. The course involves the specification, development and evaluation of an individual research project on a specific topic or problem within the broad field of computer science. The student is expected to systematically plan and manage the project, and to clearly present the work and its contribution in context of the current literature and prior art. Detailed information about the course is available from the course website http://www.eecs.uq.edu.au/thesis . Students must secure a research project and advisor to be able to do this course. The project database which includes a list of topics and advisors is available on the course website.",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP6801",
+      "COMP6802",
+      "COMP7801",
+      "COMP7802",
+      "COMP7805",
+      "COMP7806",
+      "COMP7807"
+    ],
+    "restrictions": [
+      "MCompSc, MCompSc(Mgmt).",
+      "This course is jointly-taught with:",
+      "DECO7862",
+      "REIT4882",
+      "COMP7882",
+      "COMP7862",
+      "All learning activities are jointly taught."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Konstanty Bialkowski",
+      "email": "thesis_enquiries@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Janet Wiles"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course aims at developing problem-solving and project management skills including: research problem formulation, independent research and learning, problem specification and solution and reporting the results of the project.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Formulate a relevant thesis, problem or research question."
+    },
+    {
+      "number": "LO2.",
+      "description": "Devise a set of goals and scope of the research problem and systematically develop a plan for solving the problem."
+    },
+    {
+      "number": "LO3.",
+      "description": "Identify and review appropriate resources associated with a particular problem."
+    },
+    {
+      "number": "LO4.",
+      "description": "Demonstrate an in-depth understanding of the relevant research or engineering/computing problem employing literature and other resources."
+    },
+    {
+      "number": "LO5.",
+      "description": "Formulate, design, and develop a solution to the selected problem including all aspects of the project like risk and time management, and purchasing."
+    },
+    {
+      "number": "LO6.",
+      "description": "Evaluate the outcomes of the project by means of verbal and written presentation in a scholarly style with appropriate referencing."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "UQ Academic Integrity Tutorial",
+      "weight": "Pass/Fail",
+      "due_date": "15/08/2024 3:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Proposal Draft",
+      "weight": "Pass/Fail",
+      "due_date": "22/08/2024 3:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Project Proposal",
+      "weight": "10%",
+      "due_date": "12/09/2024 3:00 pm"
+    },
+    {
+      "category": "Presentation",
+      "title": "Progress Seminar",
+      "weight": "10%",
+      "due_date": "8/10/2024 - 11/10/2024",
+      "conditions": [
+        "Identity Verified"
+      ]
+    },
+    {
+      "category": "Participation/ Student contribution",
+      "title": "Seminar Participation",
+      "weight": "Pass/Fail",
+      "due_date": "8/10/2024 - 11/10/2024",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Conference Paper",
+      "weight": "10%",
+      "due_date": "15/05/2025 3:00 pm"
+    },
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Poster and Demonstration",
+      "weight": "20%",
+      "due_date": "19/05/2025 - 23/05/2025; No later than 4pm Friday (23/05/2025)",
+      "conditions": [
+        "Identity Verified"
+      ]
+    },
+    {
+      "category": "Thesis",
+      "title": "Thesis Report Submission",
+      "weight": "50%",
+      "due_date": "9/06/2025 3:00 pm",
+      "conditions": [
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "UQ Academic Integrity Tutorial",
+      "mode": "Activity/ Performance",
+      "category": "Quiz",
+      "weight": "Pass/Fail",
+      "due_date": "15/08/2024 3:00 pm",
+      "learning_outcomes_assessed": "L06",
+      "task_description": "See http://www.eecs.uq.edu.au/thesis/assessment/online-academic-integrity-tutorial . Read full task description Hide full task description",
+      "submission_guidelines": "The tutorial can be accessed on the UQ Library website . It is a University requirement that students complete the Academic Integrity Tutorial before graduation. However, academic integrity is particularly relevant to a thesis project so it's appropriate that student completion of the tutorial is verified early in the project.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Proposal Draft",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "Pass/Fail",
+      "due_date": "22/08/2024 3:00 pm",
+      "learning_outcomes_assessed": "L03, L06",
+      "task_description": "See http://www.eecs.uq.edu.au/thesis/assessment/proposal-draft . Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted online via Blackboard.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThis formative assessment item is a pass/fail draft, and supervisors give feedback within 1-week of draft submission to allow students to submit another revised draft for feedback to develop their proposal submission. The grade is overridden by the second draft and the proposal.\nIf there are exceptional circumstances , students can apply for an exemption but may be required to explain their contribution to the thesis draft to their supervisor. Exemptions must be requested as an extension with a note specifying exemption via my.UQ .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Project Proposal",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "10%",
+      "due_date": "12/09/2024 3:00 pm",
+      "learning_outcomes_assessed": "L03, L06",
+      "task_description": "See http://www.eecs.uq.edu.au/thesis/assessment/project-proposal . Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted online via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Progress Seminar",
+      "mode": "Activity/ Performance",
+      "category": "Presentation",
+      "weight": "10%",
+      "due_date": "8/10/2024 - 11/10/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "See http://www.eecs.uq.edu.au/thesis/assessment/seminar . Read full task description Hide full task description",
+      "submission_guidelines": "Students present the key content of their research and the progress of their work at a scheduled time. The presented slides must be submitted online to Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSeminars replicate a research presentation seminar with an audience of peers and academics that provide feedback on the student research project in the context of a week-long seminar series. It is not possible to replicate this research experience outside of the semester.\nIf there are exceptional circumstances , students can apply for an exemption but may be required to explain their current draft to their supervisor. Exemptions must be requested as an extension with a note specifying exemption via my.UQ .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nSeminar needs to be presented at the scheduled time with the supervisor.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Identity Verified"
+      ]
+    },
+    {
+      "id": "assessment-detail-4",
+      "title": "Seminar Participation",
+      "mode": "Activity/ Performance",
+      "category": "Participation/ Student contribution",
+      "weight": "Pass/Fail",
+      "due_date": "8/10/2024 - 11/10/2024",
+      "learning_outcomes_assessed": "L04",
+      "task_description": "Students must participate in at least five other progress seminars during the week in which their own progress seminar is presented. Read full task description Hide full task description",
+      "submission_guidelines": "Record each of the seminars you participated in, as shown in Blackboard\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nIf you fail to participate in at least five other seminars and can demonstrate acceptable grounds for your request, you may apply for an exemption. Exemptions must be requested as an extension with a note specifying exemption via my.UQ .\nIf approved, you will be required to complete a reflective writing assignment on a research seminar to be agreed with the course coordinator. The seminar must be one which you attend and can be a school or other seminar. Your supervisor and/or course coordinator will provide you with the details for this reflective writing assignment item to best fit the type of project you are working on.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-5",
+      "title": "Conference Paper",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "10%",
+      "due_date": "15/05/2025 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "See http://www.eecs.uq.edu.au/thesis/assessment/conference-paper . Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted online via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-6",
+      "title": "Poster and Demonstration",
+      "mode": "Activity/ Performance, Oral",
+      "category": "Practical/ Demonstration",
+      "weight": "20%",
+      "due_date": "19/05/2025 - 23/05/2025 No later than 4pm Friday (23/05/2025)",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "See http://www.eecs.uq.edu.au/thesis/assessment/poster-demonstration . Read full task description Hide full task description",
+      "submission_guidelines": "Present your poster and demonstration to your examiner in a scheduled time during the required week. Poster must be submitted online to Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThe poster and interactive demonstration replicate a research poster presentation with an audience of the examiner and supervisor, peers and academics that provide feedback on the student research project. This feedback is given immediately to allow students to take account of it in their final thesis submission. It is not possible to replicate this interactive demonstration experience outside of the semester.\nIf there are exceptional circumstances , students can apply for an exemption but may be required to explain their current draft to their supervisor. Exemptions must be requested as an extension with a note specifying exemption via my.UQ .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Identity Verified"
+      ]
+    },
+    {
+      "id": "assessment-detail-7",
+      "title": "Thesis Report Submission",
+      "mode": "Written",
+      "category": "Thesis",
+      "weight": "50%",
+      "due_date": "9/06/2025 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "See http://www.eecs.uq.edu.au/thesis/assessment/thesis-final-report . Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted online via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nIf there are exceptional circumstances , you may apply for an extension. Extensions must be requested via my.UQ .\nStudents with extenuating circumstances requiring a long extension may be considered and must consult with their supervisor and Course Coordinator prior to submitting an application for extension through my.UQ. Supporting documentation must be attached and should include written support from your supervisor and Course Coordinator.\nIt is likely students with an approved extension on the Thesis Report submission may not have their grade finalised in time to meet graduation requirements.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Not scheduled",
+      "activity_type": "Not Timetabled",
+      "topic": "Independent work It is important to remember that you largely drive your thesis. You are responsible for managing your thesis project: generating ideas, working through difficulties, searching for appropriate resources, and completing your project on time. Your supervisor's role should be as an advisor and mentor. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Not scheduled",
+      "activity_type": "General contact hours",
+      "topic": "Meetings with thesis supervisor Your thesis supervisor will provide you with guidance to help you complete your thesis. You should meet with your thesis supervisor regularly throughout the project to advise them of your progress and seek guidance on difficulties you are facing. Learning outcomes: L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From O-Week (first semester) To Week 21 (15 Jul - 20 Apr)",
+      "activity_type": "Workshop",
+      "topic": "Research Methods Students need to engage in in-class activities based on the learning materials for the week. Activities will support students in preparing for the submission of their assignments. In-class activities can consist of question and answers with responses to other students' ideas, discussions, surveys, and other relevant materials. Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

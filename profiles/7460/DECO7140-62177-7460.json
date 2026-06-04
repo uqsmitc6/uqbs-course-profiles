@@ -1,0 +1,205 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/DECO7140-62177-7460",
+  "scraped_at": "2026-06-04T00:54:42.451312+00:00",
+  "course_code": "DECO7140",
+  "class_code": "62177",
+  "semester_code": "7460",
+  "full_course_code": "DECO7140-62177-7460",
+  "course_title": "Introduction to Web Design",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "This course introduces the student to User Experience Design (UX), User Interface Design (UI) and Frontend Development (FED) focusing on websites. Modern design and development practices for the web are taught framed by an introduction to human-centred designapproaches, Usability Principles for User Interface Design, and web accessibility based on the current W3C Web Content Accessibility Guidelines (WCAG). Today's websites need to be both well designed and dynamic, so the course also introduces some basic JavaScript for going beyond static content. The course also introduces students to the process of deploying a website to a web server. As the using the web is becoming essential for people to meet their fundamental needs, social, cultural, colonial, ethical and cybersecurity issues must also be considered when designing websites. The focus of learning is activity-based and incorporates both individual exercises and collaborative activities.\n\nThere are currently around 400 million active websites on the internet (source: Web Tribunal, 6 March 2023).ﾠOn average in the US, internet users visit over 100 web pages each day (source: Web Tribunal, 6 March 2023). Many services that meet people’s essential needs are now mostly accessed through websites such as accessing social security, banking, and health information.ﾠOutside of these services, websites are also used in commerce, providing essential information (as we saw often during the pandemic), providing opportunities for people to connect, and so much more.\n\nUsing the web has very much become embedded in people’s everyday lives.ﾠThis means that websites must:\n\nAs can be seen from the above, a wide range of skills are needed to design, develop and deploy dynamic websites.ﾠ In many situations, this complexity requires people to work in collaborative teams where having an understanding of all of the specific roles and functions across the team ensures that people can work together effectively.\n\nIn this course we will focus on the components of ‘client-side’ of a web design and development – that part of the website that the person interacts with.ﾠTo do this the course covers:\n\nThis course has a focus on activity-based learning. The lectures provide details of relevant theory and concepts with some stimulus about the application of those theories and concepts. The tutorials and practicals provide guided activities that involve discussion and collaboration with peers to enhance understanding as well as to support development of collaboration and communication skills.ﾠThere is a range of individual assessment that will develop skills across UX, UI and FED as well as an understanding of social, cultural, colonial, ethical and cybersecurity issues of website design and development.ﾠSome assessment is also focused on developing collaboration skills with online systems that are designed to be similar to the online forums and systems that are often used in UX, UI and FED.\n\nHow will I use these skills in the future? ﾠBy acquiring these skills, students will have a foundation for future careers in web design, user experience (UX) design, user interface (UI) design, front-end development, and related fields. They will have the tools and knowledge to create human-centred, visually appealing, acceptable, and accessible digital experiences while adhering to best practices and industry standards.",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "DECO1400",
+      "IENV7961",
+      "MMDS1400",
+      "MMDS7961"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Peter Worthy",
+      "email": "DECO7140@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Peter Worthy"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Mr Ben Rose"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course will:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Analyse user data, metrics, and feedback to identify design considerations and make design decisions to support user needs, values and outcomes in and iteratively enhance the user experience of a website. (UX, UI)"
+    },
+    {
+      "number": "LO2.",
+      "description": "Demonstrate an understanding of user interface design theories, principles (including visual and interaction design principles, usability and accessibility), and best practice. (UI)"
+    },
+    {
+      "number": "LO3.",
+      "description": "Demonstrate an understanding of the fundamental concepts and technologies that underpin the functioning of the web including key principles related to client-server architecture, web browsers, file transfer protocol (FTP) and other essential components for web development and deployment practices. (FED)"
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply knowledge and skills to identify and address accessibility, usability, social, cultural, colonial, ethical and cybersecurity issues in web design. (UX, UI)"
+    },
+    {
+      "number": "LO5.",
+      "description": "Construct well-structured, interactive, dynamic and responsive websites using HTML, CSS, and JavaScript evaluating and selecting appropriate approaches for web design challenges including technical implementation as well as accessibility, usability, social, cultural, ethical and cybersecurity issues. (UI, UX, FED)"
+    },
+    {
+      "number": "LO6.",
+      "description": "Demonstrate proficiency in utilizing industry-standard web development tools, including GitHub for version control, VS Code for code editing, Figma or Adobe XD for design mock-ups, and FTP for web deployment. (UI, FED)"
+    },
+    {
+      "number": "LO7.",
+      "description": "Apply effective collaboration and communication skills in an online platform to actively engage with peers, exchange ideas, and contribute to a collective learning and support environment. (Collaboration, Communication)"
+    },
+    {
+      "number": "LO8.",
+      "description": "Demonstrate effective communication of UX, UI and FED concepts, design rationales and outcomes visually, orally and in written forms. (Communication)"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Ethical Reasoning in Web Design",
+      "weight": "1",
+      "due_date": "19/08/2024 2:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Accessibility Audit",
+      "weight": "1",
+      "due_date": "2/09/2024 2:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Website - Design Proposal",
+      "weight": "2",
+      "due_date": "16/09/2024 2:00 pm"
+    },
+    {
+      "category": "Project",
+      "title": "Website - Implementation",
+      "weight": "6",
+      "due_date": "Code Review 1 30/09/2024 2:00 pm; Code Review 2 21/10/2024 2:00 pm; Website Code 4/11/2024 2:00 pm; Design Rationale 4/11/2024 2:00 pm; Code Review 1 and 2; Code Reviews will take place during your allocated Studio.",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Ethical Reasoning in Web Design",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "1",
+      "due_date": "19/08/2024 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L04, L07, L08",
+      "task_description": "Aim: The aim of this assessment is to enable students to critically apply ethical frameworks to real-world web design scenarios, fostering a deeper understanding of the ethical considerations and responsibilities involved in the field of web design. This task encourages the development of critical thinking skills, ethical reasoning, and the ability to propose solutions that prioritize ethical integrity in web development projects. Description: In this assessment, you will select an ethical framework from a pre-defined list and apply it to analyse a provided case study involving web design challenges. You will identify key ethical issues, consider the impact on various stakeholders, and propose ethical solutions based on your chosen framework. This exercise aims to enhance your ability to navigate ethical dilemmas in web design and develop responsible design practices. The deliverable is a comprehensive written report, demonstrating your analysis and reflections. Brief : A more detailed brief for this assessment item will be provided in Blackboard in Assessment. Read full task description Hide full task description",
+      "submission_guidelines": "Submission will be through a Turnitin link available in Blackboard Ultra in the Assessment information. More information about how to submit will be available in the brief for this assessment item (via the course Blackboard site).\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach, where assessments involve planned release of feedback. Marked submissions with feedback and/or detailed solutions with feedback will be released to students within 14-21 days, where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Accessibility Audit",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "1",
+      "due_date": "2/09/2024 2:00 pm",
+      "learning_outcomes_assessed": "L02, L03, L04, L05, L06, L08",
+      "task_description": "Aim: The aim of this assessment is to develop students' understanding of web accessibility standards by evaluating existing websites against the W3C Web Content Accessibility Guidelines (WCAG) 2.2. This task will enhance students' practical skills in identifying accessibility issues and recommending improvements, promoting inclusive web design practices. Description: In this assessment, students will evaluate a chosen website against the W3C Web Content Accessibility Guidelines (WCAG) 2.2, focusing on Principles 1, 2, and 3. Each student will select at least eight success criteria from the WCAG 2.2 to assess the website's compliance with accessibility principles. The evaluation involves identifying accessibility issues, providing clear explanations, and offering actionable recommendations, including suggested code where relevant. The deliverable is a comprehensive report detailing the evaluation findings and improvement recommendations. This exercise aims to enhance students' practical experience in assessing and improving web accessibility. Brief : A more detailed brief for this assessment item will be provided in Blackboard in Assessment. Read full task description Hide full task description",
+      "submission_guidelines": "Submission will be through a Turnitin link available in Blackboard Ultra in the Assessment information. More information about how to submit will be available in the brief for this assessment item (via the course Blackboard site).\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach, where assessments involve planned release of feedback. Marked submissions with feedback and/or detailed solutions with feedback will be released to students within 14-21 days, where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Website - Design Proposal",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "2",
+      "due_date": "16/09/2024 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L04, L08",
+      "task_description": "Aim : The aim of this assessment is to develop students' skills in creating comprehensive design proposals for client website projects. Students will learn to interpret client briefs, understand user needs, and apply design principles to create proposals that meet client objectives and user expectations. Description : In this assessment, students will create a design report for a client's website project based on a provided client brief and user stories. The report will include a site map, and mock-ups of three website pages created using design software such as Figma or Adobe XD. Students will provide detailed explanations and rationales for their design decisions, demonstrating how their proposals align with the client's requirements and user needs. The deliverable is a comprehensive design report that showcases the proposed website design and the reasoning behind key design elements. Brief : A more detailed brief for this assessment item will be provided in Blackboard in Assessment. Read full task description Hide full task description",
+      "submission_guidelines": "Submission will be through a Turnitin link available in Blackboard Ultra in the Assessment information. More information about how to submit will be available in the brief for this assessment item (via the course Blackboard site).\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThis course uses a progressive assessment approach, where assessments involve planned release of feedback. Marked submissions with feedback and/or detailed solutions with feedback will be released to students within 14-21 days, where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Website - Implementation",
+      "mode": "Activity/ Performance, Product/ Artefact/ Multimedia, Written",
+      "category": "Project",
+      "weight": "6",
+      "due_date": "Code Review 1 30/09/2024 2:00 pm Code Review 2 21/10/2024 2:00 pm Website Code 4/11/2024 2:00 pm Design Rationale 4/11/2024 2:00 pm Code Review 1 and 2 Code Reviews will take place during your allocated Studio.",
+      "learning_outcomes_assessed": "L02, L03, L04, L05, L06, L08",
+      "task_description": "Aim : The aim of this assessment sequence is to enable students to practically apply their web design skills by implementing a fully functional website based on their design proposal. This sequence assesses students' technical proficiency in HTML, CSS, and JavaScript, their ability to adhere to accessibility standards, and their capability to creatively solve design challenges. Additionally, it evaluates students' ability to document and present their implementation process effectively. Description : In this final assessment, students will implement a website based on their design proposal, using HTML, CSS, and JavaScript. The website must comply with accessibility standards, be interactive and dynamic, and align with the design proposal. The assessment includes multiple components: code reviews in weeks 10 and 13, a deployed website, a maintained GitHub repository, code submission to Blackboard, and a design rationale document. This sequence aims to assess students' technical and creative skills in web development, their ability to document their process, and their proficiency in presenting their work. Brief : A more detailed brief for this assessment item will be provided in Blackboard in Assessment. Read full task description Hide full task description",
+      "submission_guidelines": "Code Review 1 and 2\nCode reviews are Identity Verified Assessment and therefore require in-person attendance during your allocated studio.\nWebsite Code\nWebsite code must be submitted by both of the following methods:\nUploading your code to your allocated UQCloud zone, and Submitting your zipped code to Blackboard.\nDesign Rationale\nSubmission will be through a Turnitin link available in Blackboard Ultra in the Assessment information.\nMore information about submitting these assessment items\nMore detailed information about how to submit these three assessment items (including in-person attendance for Code Review 1 and 2) will be available in the brief for this assessment item (via the course Blackboard site).\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked submissions with feedback and/or detailed solutions with feedback will be released to students within 14-21 days, where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Studio",
+      "topic": "Studios | Weeks 1 to 13 Each week studios create a collaborative environment that will develop and demonstrate an understanding of User Experience Design principles and methods, and User Interface Design principles, methods, and tools that are essential for effective web design. Many of the studio sessions will focus on supporting your completion of the assessment items. Refer to the course Blackboard site for details of studio topics and activities. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Lectures | Weeks 1 to 13 During lectures, key concepts in User Experience Design, User Interface Design, and Frontend Development are introduced. Examples of are also given by way of explanation. The lectures sign post the way for students to learn in the tutorials, practicals and their own study. Refer to the course Blackboard site for details of lecture topics. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

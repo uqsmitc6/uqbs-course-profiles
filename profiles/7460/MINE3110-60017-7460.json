@@ -1,0 +1,516 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MINE3110-60017-7460",
+  "scraped_at": "2026-06-04T01:08:38.646973+00:00",
+  "course_code": "MINE3110",
+  "class_code": "60017",
+  "semester_code": "7460",
+  "full_course_code": "MINE3110-60017-7460",
+  "course_title": "Integrated Orebody Knowledge",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 16/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "This course will introduce the concepts of resource and reserve estimation in both coal and metalliferous deposits. This represents a critical component in the life cycle of a mine and provides the link between the processes of exploration geology and mine planning.\n\nIntegrated Orebody Knowledge lays the foundations for the mine planning process. It emphasises the importance of geological inputs in defining reliable resource and reserve estimates, which are used to develop mine plans, final mine designs and feasibility studies. The course applies various techniques to resource estimation including traditional and modern geostatistical methods. The topics covered in this course include rock types, mineral-rock relationships, geochemistry, earth processes, deposit types, rock fabrics and orientations, structural geology, exploration, carbonaceous systems, interpretation of drillhole data, sampling techniques and data collection, data compositing, principles of resource and reserve estimation, traditional estimation techniques, geostatistical estimation methods, block modelling andﾠthe Joint Ore Reserves Committee (JORC) Code.",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MINE3120"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Micah Nehring",
+      "email": "m.nehring@uq.edu.au",
+      "phone": "+61 7 3365 3664",
+      "notes": "Consultations Wednesdays 10:00am-12:00pm weekly or by appointment."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Micah Nehring",
+      "email": "m.nehring@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Italo Onederra",
+      "email": "i.onederra@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The aim of this course is to introduce students to the principles of geology, deposit types and resource and reserve estimation for metalliferous and coal deposits as the basis from which to commence the mine planning process.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Recognise the main types and structures of mineral deposits - Appreciate how the main types of mineral deposits were formed."
+    },
+    {
+      "number": "LO2.",
+      "description": "Recognise the main types and structures of mineral deposits - Form exploration plans targeted at various mineral deposits."
+    },
+    {
+      "number": "LO3.",
+      "description": "Recognise the main types and structures of mineral deposits - Understand the mining/processing system/s that are appropriate to the main types of mineral deposits."
+    },
+    {
+      "number": "LO4.",
+      "description": "Create coal and metalliferous resource models - Understand the basic principles of collection and compositing of data from coal and metalliferous samples."
+    },
+    {
+      "number": "LO5.",
+      "description": "Create coal and metalliferous resource models - Calculate estimated values for quality and grade metrics for both coal and metalliferous deposits, respectively, using traditional estimation techniques (e.g. inverse distance, polygon, and triangulation)."
+    },
+    {
+      "number": "LO6.",
+      "description": "Create coal and metalliferous resource models - Apply the ordinary kriging equations to calculate estimates and their associated variance from very small data sets."
+    },
+    {
+      "number": "LO7.",
+      "description": "Create coal and metalliferous resource models - Generate block models, grade-tonnage curves and resource estimates from an orebody model using standard software packages."
+    },
+    {
+      "number": "LO8.",
+      "description": "Report resources/reserves using the JORC code - Appreciate the standardisation of resource and reserve reporting in Australian and international mining projects."
+    },
+    {
+      "number": "LO9.",
+      "description": "Report resources/reserves using the JORC code - Understand the difference between a resource and reserve statement in terms of their relative accuracy, uncertainty, and application in the reporting of mining projects."
+    },
+    {
+      "number": "LO10.",
+      "description": "Report resources/reserves using the JORC code - Interpret coal and metalliferous deposits as resources, reserves, or neither, as defined by the Joint Ore Reserve Committee (JORC) code."
+    },
+    {
+      "number": "LO11.",
+      "description": "Report resources/reserves using the JORC code - Explain the major requirements for upgrading resources to reserves."
+    },
+    {
+      "number": "LO12.",
+      "description": "Appreciate the role of geology in mine planning - Understand the role and hierarchy of feasibility studies in the development of a mining project."
+    },
+    {
+      "number": "LO13.",
+      "description": "Appreciate the role of geology in mine planning - Recall the broad requirements and accuracy of each class of feasibility study used in mine planning."
+    },
+    {
+      "number": "LO14.",
+      "description": "Appreciate the role of geology in mine planning - Recognise the influence that external factors such as the global economic environment can have on the development of a mining project."
+    },
+    {
+      "number": "LO15.",
+      "description": "Communicate effectively with and as a team - Develop teamwork skills"
+    },
+    {
+      "number": "LO16.",
+      "description": "Communicate effectively with and as a team - Develop advanced written communication skills"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Quiz 1 (Individual)",
+      "weight": "10%",
+      "due_date": "27/08/2024 12:00 pm"
+    },
+    {
+      "category": "Quiz",
+      "title": "Quiz 2 (Individual)",
+      "weight": "10%",
+      "due_date": "1/10/2024 12:00 pm"
+    },
+    {
+      "category": "Project",
+      "title": "Group Assignment",
+      "weight": "30%",
+      "due_date": "25/10/2024 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam (Individual)",
+      "weight": "50% Hurdle Rate: 40%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Quiz 1 (Individual)",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "10%",
+      "due_date": "27/08/2024 12:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L08, L09, L10, L11, L12, L13, L14",
+      "task_description": "Quiz containing a combination of multiple choice, short answer, and simple calculation questions covering content of the first few weeks. Normal university regulations for examinations will apply to the quiz. Read full task description Hide full task description",
+      "submission_guidelines": "Quiz will be conducted during normal class time - tutorial in week 6. Question and answer sheets will be collected at the end of the allocated time.\nDeferral or extension\nYou may be able to defer this exam .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nQuiz is time limited and within the tutorial. It cannot be submitted late.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late ."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Quiz 2 (Individual)",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "10%",
+      "due_date": "1/10/2024 12:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14",
+      "task_description": "Quiz containing a combination of multiple choice, short answer, and simple calculation questions covering content of weeks 7 - 10. Normal university regulations for examinations will apply to the quiz. Read full task description Hide full task description",
+      "submission_guidelines": "Quiz will be conducted during normal class time - tutorial in week 10. Question and answer sheets will be collected at the end of the allocated time.\nDeferral or extension\nYou may be able to defer this exam .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nQuiz is time limited and within the tutorial. It cannot be submitted late.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late ."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Group Assignment",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "30%",
+      "due_date": "25/10/2024 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16",
+      "task_description": "Estimation of a mineral resource in keeping with JORC parameters. A detailed task sheet for this assignment will be issued in class. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via TurnItIn on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtension impacts on other students in team. Feedback is provided to students following 7 calendar days.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Electronic Course Profile (ECP), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam (Individual)",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50% Hurdle Rate: 40%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14",
+      "task_description": "This will be a comprehensive two hour closed book examination on all topics addressed in this course throughout the semester. Questions will assess your theoretical knowledge and the application of this on practical problem based questions that will require you to draw meaningful conclusions from calculations. Exam questions will be in both short answer and problem solving format. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series or UQ approved , labelled calculator only Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (22 Jul - 28 Jul)",
+      "activity_type": "Lecture",
+      "topic": "Week 1 Course introduction. Key aspects of mineral-rock relationships. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 1 (22 Jul - 28 Jul)",
+      "activity_type": "Tutorial",
+      "topic": "Week 1 The description of minerals and rocks, geochemistry and the concept of 'grade'. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (29 Jul - 04 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Week 2 Earth processes: understanding the planet. The concept of an ore deposit. Learning outcomes: L01, L02, L03, L04, L12, L13, L14",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L12",
+        "L13",
+        "L14"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (29 Jul - 04 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Week 2 The vast array of ore deposits - unifying concepts. Australian and some global examples. Learning outcomes: L01, L02, L03, L04, L12, L13, L14",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L12",
+        "L13",
+        "L14"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (05 Aug - 11 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Week 3 Rock fabrics and orientations: geometric relations play a crucial role in the mining process. Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (05 Aug - 11 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Week 3 Structural geology and an introduction to the drilling rig. Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (12 Aug - 18 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Week 4 Exploration geology regional and 'near-mine' exploration; geophysics and remote sensing. Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (12 Aug - 18 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Week 4 Exploration geology. Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (19 Aug - 25 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Week 5 Carbonaceous systems: coal, oil and gas. Learning outcomes: L01, L02, L03, L11, L12",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L11",
+        "L12"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (19 Aug - 25 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Week 5 Interpreting and displaying drill hole data. Learning outcomes: L01, L02, L03, L11, L12",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L11",
+        "L12"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Week 6 The mine planning process. Mineral resources - their distribution and strategic importance. Learning outcomes: L04, L05, L08, L09, L10",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L08",
+        "L09",
+        "L10"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (02 Sep - 08 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Week 7 Data Compositing. Learning outcomes: L04, L05, L06",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (02 Sep - 08 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Week 7 Data Compositing. Learning outcomes: L04, L05, L06",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (09 Sep - 15 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Week 8 Traditional Estimation Methods. Learning outcomes: L04, L05, L06, L07, L08, L09",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (09 Sep - 15 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Week 8 Traditional Estimation Methods. Learning outcomes: L04, L05, L06, L07, L08, L09",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Week 9 JORC Learning outcomes: L08, L09, L10, L11",
+      "learning_outcomes": [
+        "L08",
+        "L09",
+        "L10",
+        "L11"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Week 9 JORC Learning outcomes: L08, L09, L10, L11",
+      "learning_outcomes": [
+        "L08",
+        "L09",
+        "L10",
+        "L11"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (30 Sep - 06 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Week 10 Introduction to Geostatistics. Learning outcomes: L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (07 Oct - 13 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Week 11 Ordinary Kriging Equations Learning outcomes: L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (07 Oct - 13 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Week 11 Ordinary Kriging Equations. Learning outcomes: L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (14 Oct - 20 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Week 12 Orebody Modelling Part 1. Learning outcomes: L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13",
+        "L14",
+        "L15",
+        "L16"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (14 Oct - 20 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Week 12 Orebody Modelling. Learning outcomes: L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13",
+        "L14",
+        "L15",
+        "L16"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (21 Oct - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Week 13 Orebody modelling - part 2. Learning outcomes: L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13",
+        "L14",
+        "L15",
+        "L16"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (21 Oct - 27 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Week 13 Orebody modelling. Learning outcomes: L04, L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "L10",
+        "L11",
+        "L12",
+        "L13",
+        "L14",
+        "L15",
+        "L16"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

@@ -1,0 +1,237 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ECON2320-60835-7460",
+  "scraped_at": "2026-06-04T00:55:48.636868+00:00",
+  "course_code": "ECON2320",
+  "class_code": "60835",
+  "semester_code": "7460",
+  "full_course_code": "ECON2320-60835-7460",
+  "course_title": "Business & Economic Decision Techniques",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Economics School",
+  "course_description": "Provides a working understanding of some of the principal techniques used in business decision making. Topics include linear programming, transportation and assignment models, project scheduling and control, inventory models, decision theory and games. These techniques can be used to solve problems in areas as diverse as product mixing and blending, firm efficiency and benchmarking, project management, and multi-period financial planning. Problems and exercises are solved using Microsoft Excel or a simple menu-drive software package.\n\nThe quantitative techniques discussed in this course are collectively known asﾠ operations research ﾠ(OR) orﾠ management science ﾠ(MS) techniques. The OR/MS approach to business and economic decision making is scientific, relies on formal mathematical models, and involves the extensive use of computers. Students will learn how to use different types of software to implement the techniques taught in this course.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ECON1050",
+      "ECON1010",
+      "STAT2004",
+      "MATH1050"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ECON7322"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Valentin Zelenyuk",
+      "email": "v.zelenyuk@uq.edu.au",
+      "phone": "+61 7 3365 6782",
+      "notes": "Consultation Time and Location: TBA (see Blackboard for the course for this and other updates)"
+    },
+    {
+      "role": "School enquiries",
+      "name": "Student Enquiries, School of Economics",
+      "email": "enquiries@economics.uq.edu.au",
+      "notes": "All enquiries regarding student and academic administration (i.e. non-course content information, e.g., class allocation, timetables, extension to assessment due date, etc.) should be directed to enquiries@economics.uq.edu.au . Enquiries relating specifically to course content should be directed to the Course Coordinator/Lecturer."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Valentin Zelenyuk",
+      "email": "v.zelenyuk@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Ruoxuan Shi"
+    },
+    {
+      "role": "Tutor",
+      "name": "Ms April Deng"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThis course will be delivered using Lectures and Tutorials.ﾠ\nLectures will be delivered in the allocated lecture room and everyone is strongly encouraged to attend in-person. Although the Lectures will be recorded and uploaded on Blackboard (with a delay of about 24hrs), try to attend them live. In any case, it's important to go through the lectures (live or recordings) before you attend the corresponding tutorials!ﾠ\nTutorials\nwill be held live at the tutorial times and locationsﾠlisted in the Public Timetable. You should refer to the timetable prior to the commencement of classes to ensure that you have the most up to date information.\nYou must select your preferred tutorial class time through My Timetable\n(available via your my.UQ dashboard). Tutorials will be held in computer labs where numbers are strictlyﾠlimited, so you must attend tutorials in your allocated timeslots.\nTutorials will commence in Week 1.\nPublic Holidays:\nWed 14 August (Royal Queensland Show), Mon 7 October (King's Birthday).\nIn-Semester Break:\n23 - 29 September. Semester 2 classes recommence Mon 30 September.",
+  "course_aims": "The aims of the course are to\n\nThe course does not aim to develop skills in the development, testing and application of MS&OR models for highly complex decision situations. However, the course does aim to give students an appreciation of where decision situations are of sufficient complexity to require the services of specialists in mathematical programming, systems simulation or other techniques. It is foundational for other courses on the topics covered in this course. It is also very valuable for the general understanding byﾠpractitioners in businesses and governments, i.e.,ﾠfor future leaders.ﾠ",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Use mathematical methods of Operations Research and Management Science to model (i.e., mathematically formulate) various economic and business problems."
+    },
+    {
+      "number": "LO2.",
+      "description": "Solve the mathematical models of Operations Research and Management Science analytically, to find optimal solutions and perform sensitivity analysis."
+    },
+    {
+      "number": "LO3.",
+      "description": "Formulate the mathematical models of Operations Research and Management Science analytically, to find optimal solutions and perform sensitivity analysis, using computer software."
+    },
+    {
+      "number": "LO4.",
+      "description": "Communicate the results of model solving and explain their intuition using various digital means of communication and presentation."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignment 1",
+      "weight": "25%",
+      "due_date": "16/08/2024 1:00 pm"
+    },
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignment 2",
+      "weight": "25%",
+      "due_date": "13/09/2024 1:00 pm"
+    },
+    {
+      "category": "Quiz, Tutorial/ Problem Set",
+      "title": "On Tutorial Quiz",
+      "weight": "25%",
+      "due_date": "8/10/2024 1:00 pm",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignment 3",
+      "weight": "25%",
+      "due_date": "25/10/2024 1:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment 1",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "25%",
+      "due_date": "16/08/2024 1:00 pm",
+      "task_description": "Problems (or case studies) that will generally need to be solved via analytic (mathematical) formulations, derivations and computations. Some problems may require using Excel QM or other software presented during Lectures or Tutorials. Note : This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. Read full task description Hide full task description",
+      "submission_guidelines": "Electronically via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nValid and relevant medical certificate is required to grant an extension.\nExtensions are limited to 7 calendar days to ensure timely feedback to other students.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Problems (or case studies) that will generally need to be solved via analytic (mathematical) formulations, derivations and computations. Some problems may require using Excel QM or other software presented during Lectures or Tutorials. Note : This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. Read full task description Hide full task description\nNote : This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 2",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "25%",
+      "due_date": "13/09/2024 1:00 pm",
+      "task_description": "Problems (or case studies) that will generally need to be solved via analytic (mathematical) formulations, derivations and computations. Some problems may require using Excel QM or other software presented during Lectures or Tutorials. Note : This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. Read full task description Hide full task description",
+      "submission_guidelines": "Electronically via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nValid and relevant medical certificate is required to grant an extension.\nExtensions are limited to 7 calendar days to ensure timely feedback to other students.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Problems (or case studies) that will generally need to be solved via analytic (mathematical) formulations, derivations and computations. Some problems may require using Excel QM or other software presented during Lectures or Tutorials. Note : This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. Read full task description Hide full task description\nNote : This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "On Tutorial Quiz",
+      "mode": "Written",
+      "category": "Quiz, Tutorial/ Problem Set",
+      "weight": "25%",
+      "due_date": "8/10/2024 1:00 pm",
+      "task_description": "This Quiz is to be done in person , individually, during the Tutorial of Week 11 . It will be made available via Blackboard. (You must work in isolation while completing the Quiz. Any direct or indirect collusion with others during this time may lead to charges of academic misconduct and a mark of zero for this assessment task.) The quiz involves multiple choice questions that generally need to be answered based on the material from lectures and tutorials of Week 1-9, and may require solving problems via analytic (mathematical) formulations, derivations and computations and involving a use of the software or/and an interpretation of its output. More information concerning the structure of the quiz and how to prepare for it will be provided in lectures and/or Blackboard announcements in the weeks leading up to the quiz. Note: This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Electronically via Blackboard, using UQ computer in the tutorial room.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nValid and relevant medical certificate is required to grant an extension.\nExtensions are limited to 7 calendar days to ensure timely feedback to other students.\nLate submission\nNo late submission possible.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "No late submission possible.",
+      "ai_statement": "This Quiz is to be done in person , individually, during the Tutorial of Week 11 . It will be made available via Blackboard. (You must work in isolation while completing the Quiz. Any direct or indirect collusion with others during this time may lead to charges of academic misconduct and a mark of zero for this assessment task.) The quiz involves multiple choice questions that generally need to be answered based on the material from lectures and tutorials of Week 1-9, and may require solving problems via analytic (mathematical) formulations, derivations and computations and involving a use of the software or/and an interpretation of its output. More information concerning the structure of the quiz and how to prepare for it will be provided in lectures and/or Blackboard announcements in the weeks leading up to the quiz. Note: This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nNote: This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Assignment 3",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "25%",
+      "due_date": "25/10/2024 1:00 pm",
+      "task_description": "Problems (or case studies) that will generally need to be solved via analytic (mathematical) formulations, derivations and computations. Some problems may require using Excel QM or other software presented during Lectures or Tutorials. Note : This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. Read full task description Hide full task description",
+      "submission_guidelines": "Electronically via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nValid and relevant medical certificate is required to grant an extension.\nExtensions are limited to 7 calendar days to ensure timely feedback to other students.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Problems (or case studies) that will generally need to be solved via analytic (mathematical) formulations, derivations and computations. Some problems may require using Excel QM or other software presented during Lectures or Tutorials. Note : This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. Read full task description Hide full task description\nNote : This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (22 Jul - 28 Jul)",
+      "activity_type": "Lecture",
+      "topic": "Introduction to OR & MS; Optimization and Math Programming Operations Research (OR) & Management Science(MS) approach; constructing & solving OR&MS problems; OR&MS techniques; Break-even Analysis; Intro to Math Programming; Linear Programming;"
+    },
+    {
+      "learning_period": "Week 2 (29 Jul - 04 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Linear and Integer Programing A the graphical solution method for linear program (LP); characteristics of an LP problem; irregular problems; sensitivity analysis; examples"
+    },
+    {
+      "learning_period": "Week 3 (05 Aug - 11 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Linear and Integer Programming B Sensitivity analysis; LP in matrix form; the primal and dual LP; duality theorem; integer and 0-1 programs; mixed programs;"
+    },
+    {
+      "learning_period": "Week 4 (12 Aug - 18 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Transportation Problems; Intro to Projects Transportation and assignment problems. Key elements of project management; Gantt charts; CPM & PERT;"
+    },
+    {
+      "learning_period": "Week 5 (19 Aug - 25 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Project Scheduling and Control Project Scheduling and Control (Lecture): the project network; solution algorithms; Probability analysis of a project network; project crashing using CPM; estimating probabilities using PERT."
+    },
+    {
+      "learning_period": "Week 6 (26 Aug - 01 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Decision Theory A terminology and notation of decision theory; the decision-making process and its components; criteria for decision making; decision-making with and without probabilities;"
+    },
+    {
+      "learning_period": "Week 7 (02 Sep - 08 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Decision Analysis B Bayesian analysis for accounting additional information; utility, different types of risk; basics of game theory"
+    },
+    {
+      "learning_period": "Week 8 (09 Sep - 15 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Inventory Models inventory terminology; notation; the basic EOQM; extensions to the basic EOQM."
+    },
+    {
+      "learning_period": "Week 9 (16 Sep - 22 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Queueing Theory modelling of the arrival process; the waiting line; modelling of the service process; transient and steady states; M/M/1 systems; M/M/k systems; other systems;"
+    },
+    {
+      "learning_period": "Week 10 (30 Sep - 06 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Production Analysis & Decisions A Production Theory: profit, revenue, cost; profit efficiency, revenue efficiency, cost efficiency; various technical and allocative efficiency measures; Linear and integer programming problems of production: Data Envelopment Analysis and Free Disposal Hull Analysis;"
+    },
+    {
+      "learning_period": "Week 11 (07 Oct - 13 Oct)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "No Lecture due to Public Holiday"
+    },
+    {
+      "learning_period": "Week 12 (14 Oct - 20 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Production Analysis & Decisions B Productivity Indexes: Theory and Practice; Estimating productivity indexes with DEA & FDH and via the index numbers approach."
+    },
+    {
+      "learning_period": "Week 13 (21 Oct - 27 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Review"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Course guidelines All guidelines are subject to change. Blackboard will be used for further details and clarifications about the course or the changes relevant to it. Learning activities"
+}

@@ -1,0 +1,230 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH1072-64457-7460",
+  "scraped_at": "2026-06-04T01:05:59.878659+00:00",
+  "course_code": "MATH1072",
+  "class_code": "64457",
+  "semester_code": "7460",
+  "full_course_code": "MATH1072-64457-7460",
+  "course_title": "Advanced Multivariate Calculus & Ordinary Differential Equations",
+  "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Vector calculus, arc-length, line integrals, applications. Calculus of 2 and; 3 variables: partial derivatives, conservative fields, maxima ; minima. 1st order ; linear 2nd order differential equations (constant coefficients). Applications (dynamical systems etc), numerical methods for non-linear equations and differential equations. Introduction to mathematical modelling and programming.\n\n(MATH1072 can be studied concurrently with MATH1051)\n\nMATH1072 covers similar content to MATH1052, but is delivered at an advanced level. Students enrolled in MATH1072 will be expected to undertake more independent learning activities compared to students enrolled in MATH1052.\n\nThe first part of MATH1072 extends knowledge of single-variable calculus to functions of more than one variable. This enables differentiation of multivariate functions to locate maxima and minima. This formulation is essential in solving many optimisation problems in science and engineering, and is also applicable to several other areas such as artificial intelligence and economics.\n\nThe second part of MATH1072 introduces ordinary differential equations (ODEs), one of the basic tools in mathematical modelling. In science and engineering ODEs can be used to describe, for instance, the motion of particles and satellites, the rate of chemical reactions, the behaviour of electrical circuits, and population dynamics in biological systems (e.g. the spread of epidemics).\n\nThe web page for MATH1072 is on Blackboard . Current course information will be available at this site, including problem sheets, assignment sheets, and solutions. Ed will also be used, as a discussion board.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1050"
+    ],
+    "companions": [
+      "You'll need to complete the following courses at the same time:",
+      "MATH1051",
+      "MATH1071"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH1052",
+      "MATH7052",
+      "MATH7502"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Phillip Isaac",
+      "email": "psi@maths.uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Ms Finn Thompson"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Kyle Clunies-Ross"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Andrew Mengede"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Abbe Whitford"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Calder Barksdale"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Zachary Stevens-Hough"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Connor Tweedie"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Narise Williams"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mrs Aleesha Isaacs"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Jack Morrow"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Phillip Isaac",
+      "email": "psi@maths.uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Meagan Carney",
+      "email": "m.carney@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus.ﾠConsult your personal timetable for times and/or locations. Students are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness). Alternative arrangements will be advised on Blackboard should the campus be closed for any reason. Important: if you are ill, then do not attend any classes in person. Alternative arrangements can be organised – consult Blackboard for details.\nMATH1072 has a variety of classes: lectures, tutorials and computer practical classes.\nThere are three\nlectures\nper week. Lectures will be\nrecorded.\nThe content of these will follow the MATH1072 workbook\nor reading notes or will draw on external content as required\n.\nThere is one\ntutorial\nper week,\nrunning from Week 2.\nThe tutorial classes will be held\non campus\n. This gives students an opportunity to ask for help on the content covered in lectures. It is strongly recommended that you attempt problem sheets or assignment questions before the tutorial, so that you can seek help if necessary, or take part in discussions.\nThere are public holidays on August 14ﾠ and October 7. There will be no lecture on Wednesday, August 14. There will be no tutorial on Wednesday, August 14. If you are allocated to a tutorial on this day, please see blackboard for information on the ﾠmakeup tutorial.\nThere will be\ncomputer classes running from Week 2\n. These will only run on certain weeks. See timetable for details. Students will have the opportunity to write and test code associated with assessment items. These skills will be needed to complete some assignment tasks related to the lecture content. The computer classes will be held\non campus\n.",
+  "course_aims": "This course aims to provide students with fundamental knowledge of ordinary differential equations, multivariate calculus, and vector calculus. Students will learn analytical and numerical skills useful in developing and studying mathematical models of real-world phenomena, and will cultivate programming skills.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "sketch, interpret and manipulate functions of two or more variables."
+    },
+    {
+      "number": "LO2.",
+      "description": "understand and evaluate multivariate limits from first principles."
+    },
+    {
+      "number": "LO3.",
+      "description": "calculate and use partial derivatives of functions of several variables."
+    },
+    {
+      "number": "LO4.",
+      "description": "calculate tangent planes and quadratic approximations for functions."
+    },
+    {
+      "number": "LO5.",
+      "description": "find the maxima and minima of functions of two variables."
+    },
+    {
+      "number": "LO6.",
+      "description": "apply the method of Lagrange multipliers to optimisation problems."
+    },
+    {
+      "number": "LO7.",
+      "description": "work fluently with parametric forms of curves, and derive parametric forms."
+    },
+    {
+      "number": "LO8.",
+      "description": "understand vector fields and work with conservative fields and line integrals."
+    },
+    {
+      "number": "LO9.",
+      "description": "solve and analyse certain families of first and second order ODEs."
+    },
+    {
+      "number": "LO10.",
+      "description": "develop a mathematical model with ODEs and, either analytically or numerically, solve the ODE and interpret the output."
+    },
+    {
+      "number": "LO11.",
+      "description": "understand the goals and limitations of a mathematical model, and the significance of associated notions such as dimensional analysis, scaling and interpretation."
+    },
+    {
+      "number": "LO12.",
+      "description": "model and solve problems, some with real-world complexity, using analytical methods and/or numerical methods via mathematical software."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment Series",
+      "weight": "40% Four assignments, each 10%.",
+      "due_date": "A1: 12/08/2024 1:00 pm; A2: 2/09/2024 1:00 pm; A3: 30/09/2024 1:00 pm; A4: 21/10/2024 1:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 2/11/2024 - 16/11/2024",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment Series",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "40% Four assignments, each 10%.",
+      "due_date": "A1: 12/08/2024 1:00 pm A2: 2/09/2024 1:00 pm A3: 30/09/2024 1:00 pm A4: 21/10/2024 1:00 pm",
+      "task_description": "You must submit detailed solutions to a collection of mathematical problems. The solutions may involve a combination of written work, computer code and graphics. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via Blackboard as a single PDF.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.\nAll marks for the assignments must be finalised by Friday, 1/11/2024 . Discussions about missing/incorrect marks will not take place after that date.ﾠ Solutions for assessment item/s will be released 7 days after the assessment is due and as such, an extension after 7 days will not be possible.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 2/11/2024 - 16/11/2024",
+      "other_conditions": "Student specific, Time limited. See the conditions definitions",
+      "task_description": "The final examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus. Alternative arrangements will be advised on Blackboard should the campus be closed for any reason. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.",
+    "other_course_materials": "If we've listed something under further requirement, you'll need to provide your own. Required Item Description Further Requirement Course Workbook This relates to the content covered in lectures during the semester, and is available for download on Blackboard or may be purchased from UQ Print. Look for the MATH1072 Lecture Workbook. own item needed Recommended Item Description Further Requirement Pre-reader This document summarises some of the assumed knowledge for the course. It will be available for download via Blackboard.",
+    "required": "Item Description Further Requirement Course Workbook This relates to the content covered in lectures during the semester, and is available for download on Blackboard or may be purchased from UQ Print. Look for the MATH1072 Lecture Workbook. own item needed\nRecommended\nItem Description Further Requirement Pre-reader This document summarises some of the assumed knowledge for the course. It will be available for download via Blackboard.",
+    "recommended": "Item Description Further Requirement Pre-reader This document summarises some of the assumed knowledge for the course. It will be available for download via Blackboard."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Weeks 1-7 Lectures on multivariate calculus by Dr Phil Isaac."
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Not Timetabled",
+      "topic": "Independent work It is expected that students keep up with the material covered in the lectures on a week by week basis and practise the problems in the tutorial problem sheets."
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Tutorial",
+      "topic": "Tutorials Tutorials provide students with the opportunity to discuss tutorial and assignment problems with their peers and their tutor. Tutorials will begin in week 2. Tutors are only available during tutorials. If you have questions about the course content outside tutorial times, you should see your lecturer during consultation time, or visit the First Year Learning Centre."
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Practical",
+      "topic": "Computer classes Each student should be enrolled in one computer class. Classes will begin in week 2. Computer classes will only be held on certain weeks. Se timetable for details."
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Weeks 7-13 Lectures on ODEs by Dr Meagan Carney"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}
