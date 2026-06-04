@@ -587,29 +587,28 @@ table.assessment .lo-list { white-space: normal; }
   font-family: "SF Mono", Menlo, Consolas, monospace;
 }
 
-/* Manually-corrected LO chips (LO-override overlay) ----------------- */
-/* Amber accent reads against both the light and dark chip palettes. */
+/* Jac-sourced LO mappings (restored from the authored curriculum record) */
+/* Neutral provenance styling — this is authoritative data, not a warning. */
 .lo-chip.override {
-  background: rgba(214, 158, 46, 0.16);
-  color: #8a5a00;
-  box-shadow: inset 0 0 0 1px rgba(214, 158, 46, 0.55);
+  box-shadow: inset 0 0 0 1px var(--chip-ink);
 }
 .lo-override-mark {
-  font-size: 11px;
-  color: #b06f00;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 1px 6px;
+  border-radius: 999px;
+  background: var(--chip-ink);
+  color: var(--chip-bg);
+  letter-spacing: 0.3px;
   cursor: help;
+  vertical-align: middle;
 }
 .lo-override-legend {
   margin: 8px 0 0;
   font-size: 12px;
   color: var(--ink-muted);
 }
-@media (prefers-color-scheme: dark) {
-  :root:not([data-color-mode="light"]) .lo-chip.override { color: #f0c674; }
-  :root:not([data-color-mode="light"]) .lo-override-mark { color: #f0c674; }
-}
-:root[data-color-mode="dark"] .lo-chip.override { color: #f0c674; }
-:root[data-color-mode="dark"] .lo-override-mark { color: #f0c674; }
 
 .aol-col { white-space: nowrap; }
 

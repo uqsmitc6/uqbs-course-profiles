@@ -305,10 +305,12 @@ def build_json(entries, source_name):
                                   r["assessment_title"]))
     return {
         "_metadata": {
-            "description": "UQBS manual LO-to-assessment override overlay. "
-                           "Patches the Drupal ECP bug that drops LO mappings "
-                           "(fully or partially). Replace semantics: an override "
-                           "is the authoritative full LO list for its assessment.",
+            "description": "LO-to-assessment mappings restored from Jac "
+                           "(curriculum.uq.edu.au), the authored curriculum record. "
+                           "UQ's published course profiles omit these mappings "
+                           "(fully or partially) due to a publishing fault; this "
+                           "overlay completes the record. Replace semantics: an "
+                           "entry is the authoritative full LO list for its assessment.",
             "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M"),
             "generated_from": source_name,
             "semantics": "replace_per_assessment; exact semester_code wins over blank",

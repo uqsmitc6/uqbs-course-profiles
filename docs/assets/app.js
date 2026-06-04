@@ -229,6 +229,32 @@ function getLoOverrideMap(courseCode, semesterCode) {
   return Object.assign({}, blank, exact); // exact-semester wins over blank
 }
 
+// Produce the COMPLETE record for a course: the scraped profile with any
+// missing/incomplete LO mappings restored from Jac (the authored curriculum
+// record). Used by the JSON downloads so every user-facing surface serves
+// complete data. Restored fields carry a provenance marker; the stored
+// profiles/ JSONs remain raw ingestion (what UQ's published page contains).
+function completeCourseJson(c) {
+  const ovMap = getLoOverrideMap(c.course_code, c.semester_code);
+  if (!Object.keys(ovMap).length) return c;
+  const copy = JSON.parse(JSON.stringify(c));
+  const restored = [];
+  for (const d of (copy.assessment_details || [])) {
+    const ov = ovMap[normTitle(d.title)];
+    if (!ov) continue;
+    d.learning_outcomes_assessed = ov.los.join(", ");
+    d.learning_outcomes_assessed_source = "jac";
+    restored.push((d.title || "").trim());
+  }
+  if (restored.length) {
+    copy._lo_mapping_provenance = {
+      note: "LO-to-assessment mappings for the assessments listed were restored from Jac (curriculum.uq.edu.au), the authored curriculum record. UQ's published course profile omits them due to a publishing fault.",
+      restored_from_jac: restored,
+    };
+  }
+  return copy;
+}
+
 function fmtDate(iso) {
   if (!iso) return "—";
   try {
@@ -393,7 +419,7 @@ function buildCourseMarkdown(c, taxonomy) {
       const lo = ov ? ov.los : (a.learning_outcomes_assessed != null ? a.learning_outcomes_assessed : a.learning_outcomes);
       if (lo) {
         const loStr = Array.isArray(lo) ? lo.join(", ") : String(lo);
-        if (loStr) { lines.push(`**Linked LOs:** ${loStr}${ov ? " _(manually corrected — omitted from UQ's published ECP)_" : ""}`); lines.push(""); }
+        if (loStr) { lines.push(`**Linked LOs:** ${loStr}${ov ? " _(from Jac, the authored curriculum record — omitted from the published profile)_" : ""}`); lines.push(""); }
       }
       if (Array.isArray(a.special_indicators) && a.special_indicators.length) {
         lines.push(`**Indicators:** ${a.special_indicators.join(", ")}`); lines.push("");
@@ -581,7 +607,7 @@ function buildPrintableHtml(c, taxonomy) {
       const lo = ov ? ov.los : (a.learning_outcomes_assessed != null ? a.learning_outcomes_assessed : a.learning_outcomes);
       if (lo) {
         const loStr = Array.isArray(lo) ? lo.join(", ") : String(lo);
-        if (loStr) parts.push(`<p><b>Linked LOs:</b> ${esc(loStr)}${ov ? " (manually corrected — omitted from UQ's published ECP)" : ""}</p>`);
+        if (loStr) parts.push(`<p><b>Linked LOs:</b> ${esc(loStr)}${ov ? " (from Jac, the authored curriculum record — omitted from the published profile)" : ""}</p>`);
       }
       for (const [key, label] of [
         ["task_description", "Task description"],
@@ -659,7 +685,7 @@ function downloadCourseMarkdown(c, taxonomy) {
 }
 
 function downloadCourseJson(c) {
-  const json = JSON.stringify(c, null, 2);
+  const json = JSON.stringify(completeCourseJson(c), null, 2);
   downloadBlob(json, safeFilename(c, "json"), "application/json;charset=utf-8");
 }
 
@@ -785,7 +811,7 @@ async function exportFilteredAsZip(format) {
           const md = buildCourseMarkdown(full, taxonomy);
           zip.file(`${safeFilename(full, "md")}`, md);
         } else {
-          zip.file(`${safeFilename(full, "json")}`, JSON.stringify(full, null, 2));
+          zip.file(`${safeFilename(full, "json")}`, JSON.stringify(completeCourseJson(full), null, 2));
         }
       } catch (err) {
         failed++;
@@ -1155,9 +1181,9 @@ function renderCourseDetail($root, c, taxonomy, otherOfferings, currentFile) {
     const rows = c.assessment_summary.map((a, i) => {
       const { los, override, notes } = resolved[i];
       const chips = los.length
-        ? los.map(x => `<span class="lo-chip${override ? " override" : ""}"${override ? ` title="Manually corrected — UQ's published ECP omitted this mapping${notes ? ": " + escapeHtml(notes) : ""}"` : ""}>${escapeHtml(x)}</span>`).join(" ")
+        ? los.map(x => `<span class="lo-chip${override ? " override" : ""}"${override ? ` title="From Jac, the authored curriculum record — omitted from the published profile${notes ? ": " + escapeHtml(notes) : ""}"` : ""}>${escapeHtml(x)}</span>`).join(" ")
         : "—";
-      const mark = override ? ` <span class="lo-override-mark" title="Manually corrected mapping">✎</span>` : "";
+      const mark = override ? ` <span class="lo-override-mark" title="From Jac, the authored curriculum record — omitted from the published profile by a publishing fault">Jac</span>` : "";
       const loCell = hasAnyLos ? `<td class="lo-list">${chips}${mark}</td>` : "";
       return `
         <tr>
@@ -1172,7 +1198,7 @@ function renderCourseDetail($root, c, taxonomy, otherOfferings, currentFile) {
       `;
     }).join("");
     const legend = anyOverride
-      ? `<p class="lo-override-legend">✎ Learning-outcome mapping manually corrected — UQ's published course profile omitted it.</p>`
+      ? `<p class="lo-override-legend">Mappings marked <span class="lo-override-mark">Jac</span> are from the authored curriculum record in Jac. UQ's published profile omits them due to a publishing fault.</p>`
       : "";
     parts.push(`
       <div class="card">
@@ -1382,7 +1408,7 @@ function renderAssessmentDetail(a, ovMap) {
       <h4>${escapeHtml(a.title || a.name || "Assessment")}</h4>
       ${meta.length ? `<div class="a-meta">${meta.join(" · ")}</div>` : ""}
       ${indicators ? `<div style="margin-bottom:8px">${indicators}</div>` : ""}
-      ${loStr ? `<div class="small muted">Linked LOs: ${escapeHtml(loStr)}${loOverride ? ` <span class="lo-override-mark" title="Manually corrected — UQ's published ECP omitted this mapping">✎ corrected</span>` : ""}</div>` : ""}
+      ${loStr ? `<div class="small muted">Linked LOs: ${escapeHtml(loStr)}${loOverride ? ` <span class="lo-override-mark" title="From Jac, the authored curriculum record — omitted from the published profile by a publishing fault">Jac</span>` : ""}</div>` : ""}
       ${sections.join("")}
     </div>
   `;
