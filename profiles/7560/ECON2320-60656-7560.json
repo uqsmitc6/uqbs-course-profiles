@@ -1,0 +1,228 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ECON2320-60656-7560",
+  "scraped_at": "2026-06-04T02:19:07.611006+00:00",
+  "course_code": "ECON2320",
+  "class_code": "60656",
+  "semester_code": "7560",
+  "full_course_code": "ECON2320-60656-7560",
+  "course_title": "Business & Economic Decision Techniques",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Economics School",
+  "course_description": "Provides a working understanding of some of the principal techniques used in business decision making. Topics include linear programming, transportation and assignment models, project scheduling and control, inventory models, decision theory and games. These techniques can be used to solve problems in areas as diverse as product mixing and blending, firm efficiency and benchmarking, project management, and multi-period financial planning. Problems and exercises are solved using Microsoft Excel or a simple menu-drive software package.\n\nThe quantitative techniques discussed in this course are collectively known asﾠ operations research ﾠ(OR) orﾠ management science ﾠ(MS) techniques. The OR/MS approach to business and economic decision making is scientific, relies on formal mathematical models, and involves the extensive use of computers. Students will learn how to use different types of software to implement the techniques taught in this course.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ECON1050",
+      "ECON1010",
+      "STAT2004",
+      "MATH1050"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ECON7322"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Valentin Zelenyuk",
+      "email": "v.zelenyuk@uq.edu.au",
+      "phone": "+61 7 3365 6782",
+      "notes": "Consultation Time and Location: TBA (see Blackboard for the course for this and other updates)"
+    },
+    {
+      "role": "School enquiries",
+      "name": "Student Enquiries, School of Economics",
+      "email": "enquiries@economics.uq.edu.au",
+      "notes": "All enquiries regarding student and academic administration (i.e. non-course content information, e.g., class allocation, timetables, extension to assessment due date, etc.) should be directed to enquiries@economics.uq.edu.au . Enquiries relating specifically to course content should be directed to the Course Coordinator/Lecturer."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Valentin Zelenyuk",
+      "email": "v.zelenyuk@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Ruoxuan Shi"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThis course will be delivered using Lectures and Tutorials.ﾠ\nLectures will be delivered in the allocated lecture room and everyone is strongly encouraged to attend in-person. Although the Lectures will be recorded and uploaded on Blackboard (with a delay of about 24hrs), try to attend them live. In any case, it's important to go through the lectures (live or recordings) before you attend the corresponding tutorials!ﾠ\nTutorials\nwill be held live at the tutorial times and locationsﾠlisted in the Public Timetable. You should refer to the timetable prior to the commencement of classes to ensure that you have the most up to date information.\nYou must select your preferred tutorial class time through My Timetable\n(available via your my.UQ dashboard). Tutorials will be held in computer labs where numbers are strictlyﾠlimited, so you must attend tutorials in your allocated timeslots.\nTutorials will commence in Week 1.\nImportant Dates:\nPublic Holidays\n: Wed 13 August (Royal Queensland Show Holiday), Mon 6 October (King’s Birthday public holiday).\nMid-Semester Break\n: 29 September – 3 October. Semester 2 classes recommence on Tue 7 October.",
+  "course_aims": "The aims of the course are to\n\nThe course does not aim to develop skills in the development, testing and application of MS&OR models for highly complex decision situations. However, the course does aim to give students an appreciation of where decision situations are of sufficient complexity to require the services of specialists in mathematical programming, systems simulation or other techniques. It is foundational for other courses on the topics covered in this course. It is also very valuable for the general understanding byﾠpractitioners in businesses and governments, i.e.,ﾠfor future leaders.ﾠ",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Use mathematical methods of Operations Research and Management Science to model (i.e., mathematically formulate) various economic and business problems."
+    },
+    {
+      "number": "LO2.",
+      "description": "Solve the mathematical models of Operations Research and Management Science analytically, to find optimal solutions and perform sensitivity analysis."
+    },
+    {
+      "number": "LO3.",
+      "description": "Formulate the mathematical models of Operations Research and Management Science analytically, to find optimal solutions and perform sensitivity analysis, using computer software."
+    },
+    {
+      "number": "LO4.",
+      "description": "Communicate the results of model solving and explain their intuition using various digital means of communication and presentation."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Practical/ Demonstration, Quiz, Tutorial/ Problem Set",
+      "title": "Weekly Quizzes",
+      "weight": "40% best 7 of 9",
+      "due_date": "These quizzes will be held during and at the tutorials (in person mode) of Weeks 3, 4, 5, 6, 7, 8, 9, 11, 12.",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "Comprehensive Test",
+      "weight": "20%",
+      "due_date": "Due during and at the Tutorial of Week 13.",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Creative Production/ Exhibition, Paper/ Report/ Annotation, Practical/ Demonstration, Presentation, Tutorial/ Problem Set",
+      "title": "Homework Assignment",
+      "weight": "40%",
+      "due_date": "10/11/2025 2:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Weekly Quizzes",
+      "mode": "Activity/ Performance, Written",
+      "category": "Computer Code, Practical/ Demonstration, Quiz, Tutorial/ Problem Set",
+      "weight": "40% best 7 of 9",
+      "due_date": "These quizzes will be held during and at the tutorials (in person mode) of Weeks 3, 4, 5, 6, 7, 8, 9, 11, 12.",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "task_description": "These Weekly Quizzes are to be done by each student individually, in person only, during and at the Tutorials to which the student is officially signed up. These quizzes will be held during and at the tutorials (in person mode) of Weeks 3, 4, 5, 6, 7, 8, 9, 11, 12 (unless explicitly announced otherwise by the course coordinator via the blackboard). Only best 7 out of nine will count towards the final grade. Each quiz will be made available via Blackboard. (You must work in isolation while completing the quiz. Any direct or indirect collusion with others during this time may lead to charges of academic misconduct and a mark of zero for this assessment task.) Each quiz involves multiple choice questions that generally need to be answered based on the material from prior lectures and tutorials. It will require analytic (mathematical) formulations of a business problem and computations and involving a use of the software or/and an interpretation of its output. It may also request submission of workings (e.g., as screenshots from the spreadsheet or a photo of derivations on the paper, etc.) The typical timing is about 20 minutes, typically at the beginning of the designated tutorial. The tutorial of Week 2 will have a trial quiz. Note: This assessment task is to be completed in-person. The use of any generative Artificial Intelligence (AI) tools is not permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Electronically via Blackboard, in person, in the tutorial room.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nNo deferral or extensions, but the students can drop or miss any two of the quizzes out of nine quizzes.\nIf all nine quizzes are taken, then the best seven will be counted.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nNo late submission possible.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "These Weekly Quizzes are to be done by each student individually, in person only, during and at the Tutorials to which the student is officially signed up. These quizzes will be held during and at the tutorials (in person mode) of Weeks 3, 4, 5, 6, 7, 8, 9, 11, 12 (unless explicitly announced otherwise by the course coordinator via the blackboard). Only best 7 out of nine will count towards the final grade. Each quiz will be made available via Blackboard. (You must work in isolation while completing the quiz. Any direct or indirect collusion with others during this time may lead to charges of academic misconduct and a mark of zero for this assessment task.) Each quiz involves multiple choice questions that generally need to be answered based on the material from prior lectures and tutorials. It will require analytic (mathematical) formulations of a business problem and computations and involving a use of the software or/and an interpretation of its output. It may also request submission of workings (e.g., as screenshots from the spreadsheet or a photo of derivations on the paper, etc.) The typical timing is about 20 minutes, typically at the beginning of the designated tutorial. The tutorial of Week 2 will have a trial quiz. Note: This assessment task is to be completed in-person. The use of any generative Artificial Intelligence (AI) tools is not permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nNote: This assessment task is to be completed in-person. The use of any generative Artificial Intelligence (AI) tools is not permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Comprehensive Test",
+      "mode": "Activity/ Performance",
+      "category": "Quiz",
+      "weight": "20%",
+      "due_date": "Due during and at the Tutorial of Week 13.",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "task_description": "This Test is to be done in person , individually, during and at the Tutorial of Week 13 . It will be made available via Blackboard. (You must work in isolation while completing the Test. Any direct or indirect collusion with others during this time may lead to charges of academic misconduct and a mark of zero for this assessment task.) The test involves multiple choice questions that generally need to be answered based on the material from lectures and tutorials of Weeks 1-12, and may require solving problems via analytic (mathematical) formulations, derivations and computations and involving a use of the software or/and an interpretation of its output. More information regarding the structure of the test and how to prepare for it will be provided in lectures and/or Blackboard announcements in the weeks leading up to the test. The students can prepare better for this test by answering the quiz questions during the lectures ( in-person only ) when these questions are prompted randomly by the lecturer. About 2-3 minutes will be given for answering each question. Note that these questions are similar to those that will be during the comprehensive test. Note: This assessment task is to be completed in-person . The use of any generative Artificial Intelligence (AI) tools is not permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Electronically via Blackboard, in person, in the tutorial room.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 calendar days to ensure timely feedback to other students.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nNo late submission possible.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "This Test is to be done in person , individually, during and at the Tutorial of Week 13 . It will be made available via Blackboard. (You must work in isolation while completing the Test. Any direct or indirect collusion with others during this time may lead to charges of academic misconduct and a mark of zero for this assessment task.) The test involves multiple choice questions that generally need to be answered based on the material from lectures and tutorials of Weeks 1-12, and may require solving problems via analytic (mathematical) formulations, derivations and computations and involving a use of the software or/and an interpretation of its output. More information regarding the structure of the test and how to prepare for it will be provided in lectures and/or Blackboard announcements in the weeks leading up to the test. The students can prepare better for this test by answering the quiz questions during the lectures ( in-person only ) when these questions are prompted randomly by the lecturer. About 2-3 minutes will be given for answering each question. Note that these questions are similar to those that will be during the comprehensive test. Note: This assessment task is to be completed in-person . The use of any generative Artificial Intelligence (AI) tools is not permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nNote: This assessment task is to be completed in-person . The use of any generative Artificial Intelligence (AI) tools is not permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Homework Assignment",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Creative Production/ Exhibition, Paper/ Report/ Annotation, Practical/ Demonstration, Presentation, Tutorial/ Problem Set",
+      "weight": "40%",
+      "due_date": "10/11/2025 2:00 pm",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "task_description": "Problems (or case studies) that will generally need to be solved via analytic (mathematical) formulations, derivations and computations. Some problems may require using Excel QM or other software presented during Lectures or Tutorials. Solutions to the problems in this assignment must be presented in a tidy business-style report complemented with two videos (10-minute video and 1-minute video) explaining the work and results obtained by the student. Note : This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. The videos should not be AI-generated but created by the student. Read full task description Hide full task description",
+      "submission_guidelines": "Electronically via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 calendar days to ensure timely feedback to other students.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Problems (or case studies) that will generally need to be solved via analytic (mathematical) formulations, derivations and computations. Some problems may require using Excel QM or other software presented during Lectures or Tutorials. Solutions to the problems in this assignment must be presented in a tidy business-style report complemented with two videos (10-minute video and 1-minute video) explaining the work and results obtained by the student. Note : This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. The videos should not be AI-generated but created by the student. Read full task description Hide full task description\nNote : This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools. The videos should not be AI-generated but created by the student."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (28 Jul - 03 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Introduction to OR & MS; Optimization and Math Programming Operations Research (OR) & Management Science(MS) approach; constructing & solving OR&MS problems; OR&MS techniques; Break-even Analysis; Intro to Math Programming; Linear Programming;"
+    },
+    {
+      "learning_period": "Week 2 (04 Aug - 10 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Linear and Integer Programing A the graphical solution method for linear program (LP); characteristics of an LP problem; irregular problems; sensitivity analysis; examples"
+    },
+    {
+      "learning_period": "Week 3 (11 Aug - 17 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Linear and Integer Programming B Sensitivity analysis; LP in matrix form; the primal and dual LP; duality theorem; integer and 0-1 programs; mixed programs;"
+    },
+    {
+      "learning_period": "Week 4 (18 Aug - 24 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Transportation Problems; Intro to Projects Transportation and assignment problems. Key elements of project management; Gantt charts; CPM & PERT;"
+    },
+    {
+      "learning_period": "Week 5 (25 Aug - 31 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Project Scheduling and Control Project Scheduling and Control (Lecture): the project network; solution algorithms; Probability analysis of a project network; project crashing using CPM; estimating probabilities using PERT."
+    },
+    {
+      "learning_period": "Week 6 (01 Sep - 07 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Decision Theory A terminology and notation of decision theory; the decision-making process and its components; criteria for decision making; decision-making with and without probabilities;"
+    },
+    {
+      "learning_period": "Week 7 (08 Sep - 14 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Decision Analysis B Bayesian analysis for accounting additional information; utility, different types of risk; basics of game theory"
+    },
+    {
+      "learning_period": "Week 8 (15 Sep - 21 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Inventory Models inventory terminology; notation; the basic EOQM; extensions to the basic EOQM."
+    },
+    {
+      "learning_period": "Week 9 (22 Sep - 28 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Queueing Theory modelling of the arrival process; the waiting line; modelling of the service process; transient and steady states; M/M/1 systems; M/M/k systems; other systems;"
+    },
+    {
+      "learning_period": "Mid Sem break (29 Sep - 05 Oct)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Mid-semester Break No classes this week."
+    },
+    {
+      "learning_period": "Week 10 (06 Oct - 12 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Production Analysis & Decisions A Production Theory: profit, revenue, cost; profit efficiency, revenue efficiency, cost efficiency; various technical and allocative efficiency measures;"
+    },
+    {
+      "learning_period": "Week 11 (13 Oct - 19 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Production Analysis & Decisions B Linear and integer programming problems of production: Data Envelopment Analysis and Free Disposal Hull Analysis;"
+    },
+    {
+      "learning_period": "Week 12 (20 Oct - 26 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Production Analysis & Decisions C Productivity Indexes: Theory and Practice; Estimating productivity indexes (DEA, FDH, etc.)."
+    },
+    {
+      "learning_period": "Week 13 (27 Oct - 02 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Review Review of Lecture 1-12 and tips about the Comprehensive Quiz"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Course guidelines All guidelines are subject to change. Blackboard will be used for further details and clarifications about the course or the changes relevant to it. Learning activities"
+}

@@ -1,0 +1,241 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BINF7001-62075-7560",
+  "scraped_at": "2026-06-04T02:12:11.100693+00:00",
+  "course_code": "BINF7001",
+  "class_code": "62075",
+  "semester_code": "7560",
+  "full_course_code": "BINF7001-62075-7560",
+  "course_title": "Advanced Genome Informatics",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Chemistry & Molec Biosciences",
+  "course_description": "Advanced Genome Informatics will equip students with the knowledge and practical computing skills necessary to undertake a wide range of genome scale analyses using data produced by high-throughput sequencing technologies. The background lectures will introduce current approaches for analysing data including read mapping, de novo assembly, visualization, and phylogenomics. There will be an emphasis in developing good practice in experimental design and understanding the principles that underpin the commonly used bioinformatics analysis tools. Throughout the course students will learn practical genomics in a series of computer-based practicals using real sequence data, unix command-line tools and high performance computing resources.\n\nEach week, you'll participate in combined lecture/practical sessions built around sequence-data exercises using dedicated high-performance computing resources, ensuring you gain hands-on experience with established genomic analysis methods. No prior knowledge of the Unix command-line environment is needed as we start from the basics and build your skills throughout the course. Through a series of four interactive modules, led by expert genomics researchers, you'll assemble a toolkit of skills and experience that you can directly apply to any future genomics project.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "BINF6000"
+    ],
+    "companions": [
+      "You'll need to complete the following courses at the same time:",
+      "BINF7000"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Scott Beatson",
+      "email": "scott.beatson@uq.edu.au",
+      "phone": "+61 7 3365 4863"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Scott Beatson",
+      "email": "scott.beatson@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Hon Assoc Professor Adam Ewing",
+      "email": "adam.ewing@mater.uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Cheong Xin Chan",
+      "email": "c.chan1@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Phil Hugenholtz",
+      "email": "p.hugenholtz@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Chester Chao"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Gemma Laird"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Ziming Chen"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nCheck your online timetable regularly.",
+  "course_aims": "Advanced Genome Informatics will equip students with the knowledge and practical computing skills necessary to undertake a wide range of genome scale analyses using data produced by next generation sequencing (NGS) technologies. The background lectures will introduce current approaches for analyzing genome and transcriptome data including read mapping, de novo assembly, visualization, and phylogenomics. There will be an emphasis in developing good practice in experimental design and understanding the principles that underpin the commonly used analysis tools.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Appraise the theory and practice of genome informatics and be prepared to apply these methods to address current problems in the field."
+    },
+    {
+      "number": "LO2.",
+      "description": "Compare the different types of available genomic and transcriptomic data and critique the general approaches used to analyse these."
+    },
+    {
+      "number": "LO3.",
+      "description": "Examine the principles of sequence alignment to the practical problem of mapping reads to a reference sequence."
+    },
+    {
+      "number": "LO4.",
+      "description": "Judge the approaches required for the analysis of metagenomic data."
+    },
+    {
+      "number": "LO5.",
+      "description": "Appraise the principles underpinning common de novo assembly approaches."
+    },
+    {
+      "number": "LO6.",
+      "description": "Explain the approaches required for phylogenomic analysis of sequence data."
+    },
+    {
+      "number": "LO7.",
+      "description": "Describe the approaches required for genomic analysis and functional annotation of human genomic sequence data."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Project",
+      "title": "ASSESSMENT 1: Read mapping and the command-line",
+      "weight": "25%",
+      "due_date": "2/09/2025 2:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "ASSESSMENT 2: Human genomics and mutation",
+      "weight": "25%",
+      "due_date": "23/09/2025 2:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Presentation",
+      "title": "ASSESSMENT 3: De novo assembly and phylogenomics",
+      "weight": "30%",
+      "due_date": "21/10/2025 2:00 pm",
+      "conditions": [
+        "Identity Verified"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "ASSESSMENT 4: Metagenome analysis",
+      "weight": "20%",
+      "due_date": "31/10/2025 2:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "ASSESSMENT 1: Read mapping and the command-line",
+      "mode": "Written",
+      "category": "Computer Code, Project",
+      "weight": "25%",
+      "due_date": "2/09/2025 2:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "Students will submit a short project report about read-mapping analyses with real high-throughput sequencing data. The report includes A) a working script that includes unix commands used to undertake the read-mapping analysis; B) short-answers to assessment questions based on Module 1 practical exercises using student-specific datasets; and C) a critical analysis of common read-mapping methodologies and benchmarking studies. Feedback on the script and other command-line specific tasks within the assessment is designed to help students assess their competency in practical aspects of using the command-line environment to manipulate high-throughput sequence data and perform read-mapping experiments. The practical skills developed in Module 1 and Assessment 1 are important for successfully completing the remainder of the coursework and assessment items. Working on the command-line has a steep learning curve, similar to learning a new language, and the relative weighting of tasks within this assessment ensures that students are not penalised if they are relatively new to the command-line environment. Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submit your report through the course Turnitin submission point in Blackboard. Before submitting your assessment item to Turnitin please name your file in the following way. FAMILY NAME_GivenName_StudentID_CourseCode_AssignmentName For example: Bob Smith (ID: 54329876) would name his ABCD1234 essay 1 in the following way. SMITH_Bob_54329876_ABCD1234_Essay1\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nApplications for extension\nExtension applications must be received no later than 24 hours after the published assessment due date and time.\nRead the information contained in the following links carefully before submitting an application for extension to assessment due date.\nFor guidance on applying for an extension, information is available here .\nFor the policy relating to extensions, information is available here (Part D).\nInformation on medical certificates\nPlease note the University's requirements for medical certificates here .\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period). 10% will be deducted per day for up to 7 calendar days, at which point your submission will receive a mark of zero (0) unless an extension has been approved.\nIn most instances one or more hurdles will apply to your assessment item so you will need to submit it to fulfil the requirements of the course regardless of how late it is and the mark you are likely to be awarded.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Students will submit a short project report about read-mapping analyses with real high-throughput sequencing data. The report includes A) a working script that includes unix commands used to undertake the read-mapping analysis; B) short-answers to assessment questions based on Module 1 practical exercises using student-specific datasets; and C) a critical analysis of common read-mapping methodologies and benchmarking studies. Feedback on the script and other command-line specific tasks within the assessment is designed to help students assess their competency in practical aspects of using the command-line environment to manipulate high-throughput sequence data and perform read-mapping experiments. The practical skills developed in Module 1 and Assessment 1 are important for successfully completing the remainder of the coursework and assessment items. Working on the command-line has a steep learning curve, similar to learning a new language, and the relative weighting of tasks within this assessment ensures that students are not penalised if they are relatively new to the command-line environment. Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "ASSESSMENT 2: Human genomics and mutation",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "25%",
+      "due_date": "23/09/2025 2:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L03, L07",
+      "task_description": "Laboratory report assessing your ability to detect and analyse germline and somatic mutations from human cancer genome datasets and synthesise information around their potential impact and implications for disease. Students will prepare a laboratory report using simulated genome data and bioinformatics tools provided on the binf-training high performance computer, including: A) a summary description of the data using bioinformatics methods; B) an analysis of the germline variants within the genome data and interpretation of these findings; and C) an analysis of the somatic point mutations and rearrangements present in the tumour sample and interpretation of these findings. Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submit your report through the course Turnitin submission point in Blackboard. Before submitting your assessment item to Turnitin please name your file in the following way. FAMILY NAME_GivenName_StudentID_CourseCode_AssignmentName For example: Bob Smith (ID: 54329876) would name his ABCD1234 essay 1 in the following way. SMITH_Bob_54329876_ABCD1234_Essay1\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nApplications for extension\nExtension applications must be received no later than 24 hours after the published assessment due date and time.\nRead the information contained in the following links carefully before submitting an application for extension to assessment due date.\nFor guidance on applying for an extension, information is available here .\nFor the policy relating to extensions, information is available here (Part D).\nInformation on medical certificates\nPlease note the University's requirements for medical certificates here .\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period). 10% will be deducted per day for up to 7 calendar days, at which point your submission will receive a mark of zero (0) unless an extension has been approved.\nIn most instances one or more hurdles will apply to your assessment item so you will need to submit it to fulfil the requirements of the course regardless of how late it is and the mark you are likely to be awarded.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Laboratory report assessing your ability to detect and analyse germline and somatic mutations from human cancer genome datasets and synthesise information around their potential impact and implications for disease. Students will prepare a laboratory report using simulated genome data and bioinformatics tools provided on the binf-training high performance computer, including: A) a summary description of the data using bioinformatics methods; B) an analysis of the germline variants within the genome data and interpretation of these findings; and C) an analysis of the somatic point mutations and rearrangements present in the tumour sample and interpretation of these findings. Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "ASSESSMENT 3: De novo assembly and phylogenomics",
+      "mode": "Oral, Written",
+      "category": "Paper/ Report/ Annotation, Presentation",
+      "weight": "30%",
+      "due_date": "21/10/2025 2:00 pm",
+      "learning_outcomes_assessed": "L01, L05, L06",
+      "task_description": "Task Description: Students will be given a real set of high-throughput sequencing data and will be required to undertake 1) de novo assembly, 2) assessment of assembly quality, 3) ab initio gene prediction, and 4) phylogenomic analyses. The assessment will consist of two components: (A) a short video (oral) presentation (5 minutes with identifiable speaker video embedded) (B) a brief technical report with recommendation(s) Complete guidelines for preparing and submitting the video presentation and the technical report will be given on Learn.UQ. Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submit your video and report through the course Turnitin submission point in Blackboard. Before submitting your assessment item to Turnitin please name your file in the following way. FAMILY NAME_GivenName_StudentID_CourseCode_AssignmentName For example: Bob Smith (ID: 54329876) would name his ABCD1234 essay 1 in the following way. SMITH_Bob_54329876_ABCD1234_Essay1\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nApplications for extension\nExtension applications must be received no later than 24 hours after the published assessment due date and time.\nRead the information contained in the following links carefully before submitting an application for extension to assessment due date.\nFor guidance on applying for an extension, information is available here .\nFor the policy relating to extensions, information is available here (Part D).\nInformation on medical certificates\nPlease note the University's requirements for medical certificates here .\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period). 10% will be deducted per day for up to 7 calendar days, at which point your submission will receive a mark of zero (0) unless an extension has been approved.\nIn most instances one or more hurdles will apply to your assessment item so you will need to submit it to fulfil the requirements of the course regardless of how late it is and the mark you are likely to be awarded.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Task Description: Students will be given a real set of high-throughput sequencing data and will be required to undertake 1) de novo assembly, 2) assessment of assembly quality, 3) ab initio gene prediction, and 4) phylogenomic analyses. The assessment will consist of two components: (A) a short video (oral) presentation (5 minutes with identifiable speaker video embedded) (B) a brief technical report with recommendation(s) Complete guidelines for preparing and submitting the video presentation and the technical report will be given on Learn.UQ. Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "ASSESSMENT 4: Metagenome analysis",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "31/10/2025 2:00 pm",
+      "learning_outcomes_assessed": "L01, L04",
+      "task_description": "Students will analyse and interpret metagenomic sequence data in the context of real-world scenarios. Analysis will include sequence simulation, sequence quality control, taxonomic assignment, and annotation using both web-based and command-line tools. Students will prepare answers to a problem as well as a report detailing the bioinformatic analyses of a viral metagenome and a description of the viral community. Full guidelines for the project report requirements will be given on Learn.UQ. Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submit your report through the course Turnitin submission point in Blackboard. Before submitting your assessment item to Turnitin please name your file in the following way. FAMILY NAME_GivenName_StudentID_CourseCode_AssignmentName For example: Bob Smith (ID: 54329876) would name his ABCD1234 essay 1 in the following way. SMITH_Bob_54329876_ABCD1234_Essay1Submission via Turnitin portal on Blackboard @ Learn.UQ\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nApplications for extension\nExtension applications must be received no later than 24 hours after the published assessment due date and time.\nRead the information contained in the following links carefully before submitting an application for extension to assessment due date.\nFor guidance on applying for an extension, information is available here .\nFor the policy relating to extensions, information is available here (Part D).\nInformation on medical certificates\nPlease note the University's requirements for medical certificates here .\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period). 10% will be deducted per day for up to 7 calendar days, at which point your submission will receive a mark of zero (0) unless an extension has been approved.\nIn most instances one or more hurdles will apply to your assessment item so you will need to submit it to fulfil the requirements of the course regardless of how late it is and the mark you are likely to be awarded.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Students will analyse and interpret metagenomic sequence data in the context of real-world scenarios. Analysis will include sequence simulation, sequence quality control, taxonomic assignment, and annotation using both web-based and command-line tools. Students will prepare answers to a problem as well as a report detailing the bioinformatic analyses of a viral metagenome and a description of the viral community. Full guidelines for the project report requirements will be given on Learn.UQ. Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 4 (28 Jul - 24 Aug)",
+      "activity_type": "General contact hours",
+      "topic": "Module 1: Read mapping and the command-line [SB] Lectorial sessions each week include lectures, practical exercise walk-throughs and independent work on the topic of read-mapping. Includes in-depth introduction to unix command-line. Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 5 To Week 7 (25 Aug - 14 Sep)",
+      "activity_type": "General contact hours",
+      "topic": "Module 2: Human genomics and mutation [AE] Lectorial sessions each week include lectures, practical exercise walk-throughs and independent work on the topic of human genomics and mutation. Learning outcomes: L01, L02, L03, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 8 To Week 10 (15 Sep - 12 Oct)",
+      "activity_type": "General contact hours",
+      "topic": "Module 3: De novo genome assembly and phylogenomics [CC] Lectorial sessions each week include lectures, practical exercise walk-throughs and independent work on the topic of de novo assembly and phylogenomics. Learning outcomes: L01, L02, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 11 To Week 13 (13 Oct - 02 Nov)",
+      "activity_type": "General contact hours",
+      "topic": "Module 4: Metagenome analysis [PH] Lectorial sessions each week include lectures, practical exercise walk-throughs and independent work on the topic of metagenomics. Learning outcomes: L01, L02, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

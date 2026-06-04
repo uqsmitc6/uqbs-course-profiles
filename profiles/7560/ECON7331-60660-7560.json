@@ -1,0 +1,301 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ECON7331-60660-7560",
+  "scraped_at": "2026-06-04T02:19:41.863942+00:00",
+  "course_code": "ECON7331",
+  "class_code": "60660",
+  "semester_code": "7560",
+  "full_course_code": "ECON7331-60660-7560",
+  "course_title": "Econometric Theory",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Economics School",
+  "course_description": "Theory of general linear model-topics include: least squares, generalised method of moments & maximum likelihood estimators under iid, auto-correlated & heteroskedastic error specifications.\n\nThe purpose of this course is to provide the theoretical background to many econometric techniques covered in ECON7310.ﾠIt deals with the theory behind the techniques rather than the implementation of the techniques.ﾠIt also covers material on testing, generalised method of moments, and maximum likelihood estimation not encountered in ECON7310.ﾠMatrix algebra is an important mathematical tool that is used throughout this course.ﾠThe course has been structured so that you can learn the necessary matrix algebra as an integral part of the material. Lectures will present theoretical concepts in detail.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ECON3320"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ECON3310"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Lizi Yu",
+      "email": "lizi.yu@uq.edu.au"
+    },
+    {
+      "role": "School enquiries",
+      "name": "Student Enquiries, School of Economics",
+      "email": "enquiries@economics.uq.edu.au",
+      "notes": "All enquiries regarding student and academic administration (i.e. non-course content information, e.g., class allocation, timetables, extension to assessment due date, etc.) should be directed to enquiries@economics.uq.edu.au . Enquiries relating specifically to course content should be directed to the Course Coordinator/Lecturer."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Lizi Yu"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Chunsheng Zhang"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLectures commence in Week 1.\nTutorials commence in Week 2\nPlease see the Learning Activities section of this Course Profile for the timetabling implications of public holidays.\nImportant Dates:\n·\nPublic Holidays\n: Wed 13 August (Royal Queensland Show Holiday), Mon 6 October (King’s Birthday public holiday).\n·\nMid-Semester Break\n: 29 September – 3 October. Semester 2 classes recommence on Tue 7 October.\nStudents should refer to the timetable prior to the commencement of classes to ensure that they have the most up to date information, as from time to time late room changes may occur.",
+  "course_aims": "The purpose of this course is to provide the theoretical background to many econometric techniques covered in ECON2300.ﾠIt deals with the theory behind the techniques rather than the implementation of the techniques.ﾠIt also covers material on testing, generalised method of moments, and maximum likelihood estimation not encountered in ECON2300.ﾠMatrix algebra is an important mathematical tool that is used throughout this course.ﾠThe course has been structured so that you can learn the necessary matrix algebra as an integral part of the material.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain matrix algebra proficiently to derive properties of (and compute) various econometric estimators."
+    },
+    {
+      "number": "LO2.",
+      "description": "Evaluate the theory behind the General Linear Regression Model."
+    },
+    {
+      "number": "LO3.",
+      "description": "Explain the numerical and statistical properties of the OLS, GLS and IV estimators."
+    },
+    {
+      "number": "LO4.",
+      "description": "Demonstrate the finite sample and asymptotic properties of the OLS, GLS and IV estimators."
+    },
+    {
+      "number": "LO5.",
+      "description": "Use statistical packages such as R-Studio to compute the various estimators on real world datasets."
+    },
+    {
+      "number": "LO6.",
+      "description": "Examine the learned theory and methods to the real world."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "In-Person Quizzes",
+      "weight": "60% Each quiz is out of 20.",
+      "due_date": "In lecture 21/08/2025 12:50 pm; In lecture 11/09/2025 12:50 pm; In lecture 16/10/2025 12:50 pm",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Project",
+      "title": "Research Project 1",
+      "weight": "20% The project is 20 out of 20.",
+      "due_date": "24/09/2025 4:00 pm; Details of the Research Project 1 will be posted on the Blackboard site by Week 7 Friday (12/09) 9am.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Project",
+      "title": "Research Project 2",
+      "weight": "20% The project is 20 out of 20.",
+      "due_date": "10/11/2025 4:00 pm; Details of the Research Project 2 will be posted on the Blackboard site by Week 12 Friday (24/09) 9am.",
+      "conditions": [
+        "Online"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-Person Quizzes",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "60% Each quiz is out of 20.",
+      "due_date": "In lecture 21/08/2025 12:50 pm In lecture 11/09/2025 12:50 pm In lecture 16/10/2025 12:50 pm",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "This assessment task is to be completed in-person. Student IDs are mandatory. Students must present a valid photo ID card to be admitted into the room for the quiz, i.e. a university-issued ID card, a current passport, or current Australian driver’s licence or government ID card. Students should be at the venue for your quiz on time in the weeks of assessment. If you arrive late, you will not receive additional time to complete the quiz. The 50-minute quizzes will contain MCQs, scenarios (sequential series of MCQs), and short answers. Incorrect answers will not be subject to penalties. The first quiz will focus on all the material taught up to Lecture 3; the second will focus on all the material taught up to Lecture 6; the third will focus on all the materials taught up to Lecture 10. This assessment is closed-book and the use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "50-minute in-person quizzes during the lecture time.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 3 days. Extensions are given in multiples of 24 hours.\nExtensions are a one-time opportunity only for this assessment.\nThe date and time for the replacement quiz are set by the course coordinator. Students must make themselves available to sit the quiz at the scheduled extension time. There are no extensions on extensions for this assessment.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "This assessment task is to be completed in-person. Student IDs are mandatory. Students must present a valid photo ID card to be admitted into the room for the quiz, i.e. a university-issued ID card, a current passport, or current Australian driver’s licence or government ID card. Students should be at the venue for your quiz on time in the weeks of assessment. If you arrive late, you will not receive additional time to complete the quiz. The 50-minute quizzes will contain MCQs, scenarios (sequential series of MCQs), and short answers. Incorrect answers will not be subject to penalties. The first quiz will focus on all the material taught up to Lecture 3; the second will focus on all the material taught up to Lecture 6; the third will focus on all the materials taught up to Lecture 10. This assessment is closed-book and the use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment is closed-book and the use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Research Project 1",
+      "mode": "Written",
+      "category": "Computer Code, Project",
+      "weight": "20% The project is 20 out of 20.",
+      "due_date": "24/09/2025 4:00 pm Details of the Research Project 1 will be posted on the Blackboard site by Week 7 Friday (12/09) 9am.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "Artificial Intelligence (AI) and Machine Translation (MT) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task.. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via Blackboard by the due date and time.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Artificial Intelligence (AI) and Machine Translation (MT) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task.. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task.. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Research Project 2",
+      "mode": "Written",
+      "category": "Computer Code, Project",
+      "weight": "20% The project is 20 out of 20.",
+      "due_date": "10/11/2025 4:00 pm Details of the Research Project 2 will be posted on the Blackboard site by Week 12 Friday (24/09) 9am.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "Artificial Intelligence (AI) and Machine Translation (MT) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task.. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via Blackboard by the due date and time.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Artificial Intelligence (AI) and Machine Translation (MT) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task.. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task.. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (28 Jul - 03 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Introduction + Review on Linear Algebra and Regression Models Review of statistical concepts and matrix algebra. Introduction to the linear regression model. Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (04 Aug - 10 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Geometry of Linear Regression 1 Geometry of vector spaces; geometry of OLS Learning outcomes: L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (11 Aug - 17 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Geometry of Linear Regression 2 More on linear regression Learning outcomes: L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (18 Aug - 24 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Quiz 1 + Statistical Properties of OLS 1 No lecture or tutorial this week Learning outcomes: L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (25 Aug - 31 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Statistical Properties of OLS 2 More on the statistical properties of OLS. Learning outcomes: L04, L05, L06",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (01 Sep - 07 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Hypothesis Testing Some common distribution. Exact and large sample tests. Learning outcomes: L04, L05, L06",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (08 Sep - 14 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Quiz 2 + Confidence Interval More on hypothesis testing and confidence intervals. Learning outcomes: L04, L05, L06",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (15 Sep - 21 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Generalized Least Squares 1 GLS estimator; FGLS. Learning outcomes: L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (22 Sep - 28 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Generalized Least Squares 2 Learning outcomes: L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (06 Oct - 12 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Instrumental Variable Regression Method of Moments Learning outcomes: L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (13 Oct - 19 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Quiz 3 + Maximum Likelihood Estimation 1 Learning outcomes: L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (20 Oct - 26 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Maximum Likelihood Estimation 2 Learning outcomes: L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (27 Oct - 02 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Revision Exam revision. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

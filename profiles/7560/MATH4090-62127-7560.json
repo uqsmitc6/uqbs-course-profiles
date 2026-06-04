@@ -1,0 +1,188 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH4090-62127-7560",
+  "scraped_at": "2026-06-04T02:28:57.951346+00:00",
+  "course_code": "MATH4090",
+  "class_code": "62127",
+  "semester_code": "7560",
+  "full_course_code": "MATH4090-62127-7560",
+  "course_title": "Computation in Financial Mathematics",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Introduction to computational methods in finance & applications. Topics from binomial trees, numerical solution of stochastic differential equations, and numerical solution of Black-Scholes like partial differential equations.\n\nThe past few decades have witnessed an explosion in the trading of sophisticated financial instruments, known as derivatives. Financial derivative securities, such as options, can be viewed as a form of insurance or used for speculation purposes. These instruments are routinely used by large corporations to hedge currency fluctuations, uncertain energy costs and commodity price volatility.\n\nModern finance now requires use of sophisticated computational tools for pricing and hedging derivative contracts. In this course, we will study a variety of numerical approaches for carrying out these tasks and explore the links among them, namely\n\nIn particular, we will focus on applications of these computational methods in pricing and hedging popular types of derivatives, such as European, American, and Asian options, in the context of Black Scholes model, and its extensions, including local/stochastic volatility and/or stochastic interest rates. MATLAB will be the official programming language for this course.\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against UQ Policy, and will not be tolerated. We have developed a suite of resources to assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH3090",
+      "We recommend completing the following courses before enrolling in this one:",
+      "MATH4091"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH7049"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Duy-Minh Dang",
+      "email": "duyminh.dang@uq.edu.au",
+      "phone": "+61 7 3365 2686"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Duy-Minh Dang",
+      "email": "duyminh.dang@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus at the times and location advertised in your personal timetable. Students are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness).\nApplied classes start the first week of the semester.\nMake-up lessons for public holidays will be scheduled. Please check Blackboard for details.\nImportant: If you are ill, then do not attend any classes in person. Alternative arrangements can be organised – consult Blackboard for details.",
+  "course_aims": "To understand a range of numerical methods commonly used to solve problems arising in financial mathematics.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Use binomial trees (lattice methods) to price financial derivatives with focus on European and American-style, and barrier (path-dependent) options."
+    },
+    {
+      "number": "LO2.",
+      "description": "Develop efficient Monte Carlo simulation and effective variance reduction techniques for pricing options, with focus on European, American style (early exercise), and Asian (path-dependent) options."
+    },
+    {
+      "number": "LO3.",
+      "description": "Derive partial differential equations arising in option pricing, and solve them efficiently numerically, with focus on European, American-style (early exercise) and Asian (path-dependent) options."
+    },
+    {
+      "number": "LO4.",
+      "description": "Understand the concepts of convergence and stability of numerical partial differential equation methods, and be able to carry out relevant analysis."
+    },
+    {
+      "number": "LO5.",
+      "description": "Understand and be able to develop numerical methods for pricing derivatives under more realistic models, such as local or stochastic volatility, or stochastic interest rates."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Essay/ Critique, Tutorial/ Problem Set",
+      "title": "Assignment 1",
+      "weight": "20%",
+      "due_date": "25/08/2025 9:00 am"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Essay/ Critique, Tutorial/ Problem Set",
+      "title": "Assignment 2",
+      "weight": "20%",
+      "due_date": "22/09/2025 9:00 am"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Essay/ Critique, Tutorial/ Problem Set",
+      "title": "Assignment 3",
+      "weight": "20%",
+      "due_date": "27/10/2025 9:00 am"
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment 1",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Essay/ Critique, Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "25/08/2025 9:00 am",
+      "learning_outcomes_assessed": "L01, L05",
+      "task_description": "This assignment will involve the applications, development and assessment of the numerical methods developed in lectures. The assignment will require programming. In particular, the assignment will involve certain aspects of numerical computation and programming in Matlab, including, but are not limited to, (i) developing numerical algorithms, (ii) understanding and being able to use start code, and (iii) writing, testing/debugging code in Matlab. Read full task description Hide full task description",
+      "submission_guidelines": "Upload via Blackboard: Please submit your written answers to all the assignment questions as one PDF document. If you need to add code please do so as separate clearly labelled files.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for assessment item/s will be released 7 days after the assessment is due and as such, an extension after 7 days will not be possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 2",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Essay/ Critique, Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "22/09/2025 9:00 am",
+      "learning_outcomes_assessed": "L03, L04, L05",
+      "task_description": "This assignment will involve the applications, development and assessment of the numerical methods developed in lectures. The assignment will require programming. In particular, the assignment will involve certain aspects of numerical computation and programming in Matlab, including, but are not limited to, (i) developing numerical algorithms, (ii) understanding and being able to use start code, and (iii) writing, testing/debugging code in Matlab. Read full task description Hide full task description",
+      "submission_guidelines": "Upload via Blackboard: Please submit your written answers to all the assignment questions as one PDF document. If you need to add code please do so as separate clearly labelled files.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for assessment item/s will be released 7 days after the assessment is due and as such, an extension after 7 days will not be possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 3",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Essay/ Critique, Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "27/10/2025 9:00 am",
+      "learning_outcomes_assessed": "L02, L05",
+      "task_description": "This assignment will involve the applications, development and assessment of the numerical methods developed in lectures. The assignment will require programming. In particular, the assignment will involve certain aspects of numerical computation and programming in Matlab, including, but are not limited to, (i) developing numerical algorithms, (ii) understanding and being able to use start code, and (iii) writing, testing/debugging code in Matlab. Read full task description Hide full task description",
+      "submission_guidelines": "Upload via Blackboard: Please submit your written answers to all the assignment questions as one PDF document. If you need to add code please do so as separate clearly labelled files.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for assessment item/s will be released 7 days after the assessment is due and as such, an extension after 7 days will not be possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End of Semester Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The examination will test all topics investigated in the course. The end of semester examination will involve certain aspects of numerical computation, including, but are not limited to, understanding and developing numerical algorithms. No Matlab programming will be tested on the end of semester exam. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "N/A\nDeferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Applied Class",
+      "topic": "Enhancing computer-based problem solving skills The applied classes will discuss lecture material, mathematical exercises and computing assignments. The primary focus will be on enhancing students' computer-based problem-solving skills. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Notes on Computational Finance The lectures will be based on lecture notes developed by the lecturers. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

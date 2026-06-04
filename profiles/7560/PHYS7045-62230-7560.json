@@ -1,0 +1,176 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/PHYS7045-62230-7560",
+  "scraped_at": "2026-06-04T02:36:30.392742+00:00",
+  "course_code": "PHYS7045",
+  "class_code": "62230",
+  "semester_code": "7560",
+  "full_course_code": "PHYS7045-62230-7560",
+  "course_title": "Quantum Technologies",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "This course will cover the principles of quantum technologies, how to apply them to understand the results of experiments, and how to use them to design robust quantum devices. It will cover the topics of high precision sensing, quantum information, quantum communication and computation, noise and error suppression, and quantum error correction.\n\nThis course covers quantum information and algorithms, quantum noise and errors, and physical architectures for quantum technology.ﾠ\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against ﾠ UQ Policy, ﾠ and will not be tolerated. We have developed a ﾠ suite of resources ﾠto assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "PHYS7141",
+      "PHYS7042",
+      "We recommend completing the following courses before enrolling in this one:",
+      "PHYS7033"
+    ],
+    "companions": [
+      "We recommend completing the following courses at the same time:",
+      "PHYS7055"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "PHYS4045"
+    ],
+    "restrictions": [
+      "Entry restricted to MQTech, GDip Science and MScience students"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Tyler Neely",
+      "email": "t.neely@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Jacqui Romero",
+      "email": "m.romero@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Tyler Neely",
+      "email": "t.neely@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Tom Stace",
+      "email": "stace@physics.uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Prasanna Pakkiam",
+      "email": "p.pakkiam@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus. Consult your personal timetable for times and locations. Students are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness). Alternative arrangements will be advised on Blackboard should the campus be closed for any reason. Important: if you are ill, then do not attend any classes in person. Alternative arrangements can be organised – consult Blackboard for details.",
+  "course_aims": "This course will cover the principles of quantum information technologies, and how to use them to build robust quantum devices.ﾠﾠIt will coverﾠquantum information, quantum communication and computation, noise and error suppression, physical architectures and other applications.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Use the formalism of quantum information to describe quantum circuits and algorithms"
+    },
+    {
+      "number": "LO2.",
+      "description": "Describe the methods of quantum error correction theory and apply them to correct quantum errors."
+    },
+    {
+      "number": "LO3.",
+      "description": "Apply methods from quantum noise to describe simple noise processes."
+    },
+    {
+      "number": "LO4.",
+      "description": "Determine the requirements of physical systems to be good for implementations of quantum information and give quantitative calculations analysing various physical platforms."
+    },
+    {
+      "number": "LO5.",
+      "description": "Describe and understand the quantum information \"stack\" from physical hardware to algorithms."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Presentation, Quiz",
+      "title": "Viva style assessment",
+      "weight": "20%",
+      "due_date": "Occurs during applied class time Week 4, Wed; Occurs during applied class time Week 7, Wed; Occurs during applied class time Week 8, Wed; Occurs during applied class time Week 10, Wed; Occurs during applied class time Week 12, Wed; Students will be randomly assigned to viva groups, and present once during the semester."
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignments",
+      "weight": "30%",
+      "due_date": "15/08/2025 5:00 pm; 5/09/2025 5:00 pm; 26/09/2025 5:00 pm; 17/10/2025 5:00 pm; 31/10/2025 5:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Exam - during Exam Period (Central)",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Viva style assessment",
+      "mode": "Activity/ Performance",
+      "category": "Presentation, Quiz",
+      "weight": "20%",
+      "due_date": "Occurs during applied class time Week 4, Wed Occurs during applied class time Week 7, Wed Occurs during applied class time Week 8, Wed Occurs during applied class time Week 10, Wed Occurs during applied class time Week 12, Wed Students will be randomly assigned to viva groups, and present once during the semester.",
+      "task_description": "For a subset of the applied class sections throughout the semester a subset of students will be selected to complete a “viva” style question, to be worked through individually and presented individually (no external resources allowed beyond the course notes and textbook).The class will be divided into groups of typically 3 depending on numbers. Each group will present once during the semester during the applied class time. The assessment will proceed as follows: - The selected group of students will attend the applied class and be presented the question, and will be given 20 min. to individually prepare notes on the response. - The students will then take turns presenting their solution over the next 30 minutes (~10 minutes each) with interactive questions from the lecturer. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nIf needed, students may move to later viva sessions with an approved deferral. See ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam ."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignments",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "30%",
+      "due_date": "15/08/2025 5:00 pm 5/09/2025 5:00 pm 26/09/2025 5:00 pm 17/10/2025 5:00 pm 31/10/2025 5:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "task_description": "Five assignments will be given out during the semester. Students will have ~ 2 weeks or longer to submit assignment solutions. Read full task description Hide full task description",
+      "submission_guidelines": "Submit the assignment via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for assessment item/s will be released 7 days after the assessment is due and as such, an extension after 7 days will not be possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Exam - during Exam Period (Central)",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "task_description": "The written examination will be invigilated on-campus. During the written exam: answer all questions. Keep in mind that the marks associated with each part of a question are not necessarily an indication of how much time they will take to answer. Try to attempt all parts of each question in order to maximise your marks. If you find yourself spending too long on one particular question, explain how you think your answer should proceed, and move on. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Open book examination - any written or printed material is permitted; material may be annotated Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Problem-based learning",
+      "topic": "Five assignments Set assignments will be available on Blackboard."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Team Based Learning",
+      "topic": "Group problem solving activity / viva presentation For a subset of the tutorial sections throughout the semester a subset of students will be selected to complete a viva style question, to be worked through and presented as a group (no external resources allowed beyond the course notes and textbook). The assessment will proceed as follows: - The selected group of students will attend the applied class and be presented the question, and will be given 20 min. to prepare notes on the response. - The students will then present their solution over the next 20 minutes with interactive questions from the lecturer. - The students should ensure that all members of the group participate in the presentation and all the students in the group are expected to respond to questions."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Lectures, practicals, and problem solving 2 lectures per week, 1 applied class. Note: Lectures will be presented live and available for delayed viewing via Blackboard. Applied classes will be presented live and not recorded."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

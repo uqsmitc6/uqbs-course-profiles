@@ -1,0 +1,248 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/INFS7203-60788-7560",
+  "scraped_at": "2026-06-04T02:26:40.547995+00:00",
+  "course_code": "INFS7203",
+  "class_code": "60788",
+  "semester_code": "7560",
+  "full_course_code": "INFS7203-60788-7560",
+  "course_title": "Data Mining",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Techniques used for data cleaning, finding patterns in structured, text and web data; with application to areas such as customer relationship management, fraud detection and homeland security.\n\nThis course introduces the concepts and techniques in Data Mining and Knowledge Discovery from Databases. Students taking this course are expected to be already familiar with concepts of databases, algorithms and data structures. This course will provide a good introduction to analysing large volumes of data. The lectures are designed to discuss the problems and solutions in data mining, including data classification and clustering, anomaly detection, mining association rules, and data mining with text and web data.\n\nCourse changes in response to previous student feedback: The assessment scheme has been revised to enhance fairness and better reflect students’ practical understanding. Instead of a written proposal, students will now complete a presentation and a code interview , providing more interactive and skills-based evaluation aligned with real-world practices.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "INFS7901",
+      "INFS7903",
+      "CSSE7030"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "INFS4203"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Miao Xu",
+      "email": "INFS4203@eecs.uq.edu.au",
+      "notes": "During the semester, students should post all course-related questions — including those about assignments, exams, or lecture content — on Ed Discussion in the first instance, so that the teaching team can respond efficiently and responses can benefit all students. For personal matters (e.g., private concerns), please contact the teaching team via email . In-person consultations are by appointment only and must be arranged in advance via email."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Miao Xu",
+      "email": "INFS4203@eecs.uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Zijian Wang",
+      "email": "INFS4203@eecs.uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nApplied Class will commence in Week 2.\nPlease note that Wednesday, 13 August, is a public holiday and no applied class will be held on that day. To support students who regularly attend the Wednesday sessions, a recording will be provided during Week 3.",
+  "course_aims": "The focus of this course is to provide a comprehensive introduction to data mining. The areas covered include association analysis,ﾠclassification, clustering, text mining and web mining.ﾠThe goal is to present fundamental concepts and algorithms for each topic, thus providing the students with the necessary background for the application of data mining to real problems. In addition, this course also provides a starting point for those students who are interested in pursuing research in data mining or related fields.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Identify the process of data mining and KDD (Knowledge Discovery from Databases)."
+    },
+    {
+      "number": "LO2.",
+      "description": "Analyze the applicability of different data mining and KDD algorithms."
+    },
+    {
+      "number": "LO3.",
+      "description": "Design algorithms to solve problems related to classifications and clustering, as well as identify association rules from a database."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply the concepts and algorithms of text mining and web mining."
+    },
+    {
+      "number": "LO5.",
+      "description": "Evaluate the performance of data mining and KDD algorithms."
+    },
+    {
+      "number": "LO6.",
+      "description": "Compare and contrast the performances of different data mining algorithms"
+    },
+    {
+      "number": "LO7.",
+      "description": "Evaluate the scalability of data mining algorithms."
+    },
+    {
+      "number": "LO8.",
+      "description": "Analyze the data characteristics that affect the effectiveness of data mining."
+    },
+    {
+      "number": "LO9.",
+      "description": "Examine the limitations of data mining and KDD algorithms"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "In-Class Quiz",
+      "weight": "15%",
+      "due_date": "8/09/2025 9:30 am; The quiz is scheduled to be from 8:00 to 9:30 during the scheduled lecture time in week 7, with a reading time of 10 minutes and an exam time of 80 minutes.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "title": "Project Report",
+      "weight": "20%",
+      "due_date": "20/10/2025 1:00 pm",
+      "conditions": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "category": "Presentation, Project",
+      "title": "Project Presentation and Code Interview",
+      "weight": "15%",
+      "due_date": "27/10/2025 - 31/10/2025; Each student will be allocated an 8-minute slot during their enrolled Applied Class Session (APP) in Week 13, including a 5-minute presentation and a 3-minute code interview. The schedule will be published on Blackboard in Week 11.",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-Class Quiz",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "15%",
+      "due_date": "8/09/2025 9:30 am The quiz is scheduled to be from 8:00 to 9:30 during the scheduled lecture time in week 7, with a reading time of 10 minutes and an exam time of 80 minutes.",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L05, L06, L08, L09",
+      "task_description": "This is an online, non-invigilated quiz delivered via Blackboard. Students may complete the quiz from any location; however, they are responsible for ensuring reliable internet access and a stable technical environment. It is an individual assessment, covering lecture content from Week 2 to Week 6. The quiz consists of multiple-choice questions. Course staff will be available on Zoom during the quiz to answer clarification questions. Pre-approval is required for any special arrangements. This is an open-book, non-invigilated multiple-choice quiz. Students may use generative AI or Machine Translation (MT) tools to support their understanding of course content. However, students are expected to complete the quiz independently and based on their own understanding. The teaching team reserves the right to interview students to confirm their comprehension. Failure to demonstrate sufficient understanding may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "The quiz will be administered via Blackboard.\nDeferral or extension\nYou may be able to defer this exam .\nA deferred quiz will be made available.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nThis assessment takes place in a scheduled class, so no late submissions will be accepted.\nThis has been approved by the Associate Dean (Academic).",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "This is an online, non-invigilated quiz delivered via Blackboard. Students may complete the quiz from any location; however, they are responsible for ensuring reliable internet access and a stable technical environment. It is an individual assessment, covering lecture content from Week 2 to Week 6. The quiz consists of multiple-choice questions. Course staff will be available on Zoom during the quiz to answer clarification questions. Pre-approval is required for any special arrangements. This is an open-book, non-invigilated multiple-choice quiz. Students may use generative AI or Machine Translation (MT) tools to support their understanding of course content. However, students are expected to complete the quiz independently and based on their own understanding. The teaching team reserves the right to interview students to confirm their comprehension. Failure to demonstrate sufficient understanding may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis is an open-book, non-invigilated multiple-choice quiz. Students may use generative AI or Machine Translation (MT) tools to support their understanding of course content. However, students are expected to complete the quiz independently and based on their own understanding. The teaching team reserves the right to interview students to confirm their comprehension. Failure to demonstrate sufficient understanding may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Project Report",
+      "mode": "Activity/ Performance",
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "weight": "20%",
+      "due_date": "20/10/2025 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L05, L06, L07, L08, L09",
+      "task_description": "This assignment is designed to assess your ability to implement data mining techniques to solve real-world problems. The report and the code must be submitted as two separate files via Blackboard by 1 pm, Monday of Week 12 . Detailed submission requirements will be provided in the project specification, to be released later. The assignment brief, including detailed criteria and the marking rubric, will be released in Week 4 on Blackboard. This task has been designed to be challenging, authentic, and complex. While students may use generative AI and/or machine translation (MT) technologies, successful completion of this assessment will require critical engagement with the specific context and task, for which such tools will offer only limited support. Failure to appropriately reference the use of generative AI or MT tools may constitute student misconduct under the Student Code of Conduct . To pass this assessment, students must be able to demonstrate clear and independent understanding of their submission, beyond the use of AI or MT tools. Important: A code interview will be conducted in Week 13 . Students will participate in the code interview based on their submitted implementation. The main purpose of this interview is to verify that students understand the code they have submitted, and that it reflects their own work, rather than content generated or copied without comprehension (e.g., from generative AI tools). If your code is genuinely your own and you understand what you have written, there is no need to worry about this component. If a student receives less than 35% in the code interview, the mark for this assignment will be capped at 10 out of 20 , regardless of the quality of the submitted report and code. Please note that only the final submitted version will be marked, and the late penalty will apply based on the timestamp of that version . Read full task description Hide full task description",
+      "submission_guidelines": "Please refer to the project specification for details. Please ensure that your code and report are submitted in accordance with the detailed requirements outlined in the project specification. Failure to submit the required files in the correct format may result in a mark of zero.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarks and/or feedback will be provided to students within 21 days after the submission of this assessment.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nEven if a proper extension is granted for the “Project Report” assessment, a version of the code must be submitted no later than 27 October 2025 in order to participate in the code interview.\nStudents may still submit their final version during the late submission window (with applicable penalties). However, only the final submitted version will be marked , and the late penalty will be applied based on its submission time .\nThe final submission must not differ substantially from the version used during the interview. As a guideline, if the final code differs by more than 40% from the interview version, the teaching team reserves the right to either conduct a follow-up interview based on the final submission or assign a mark of zero for the code interview component , regardless of performance in the original interview.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assignment is designed to assess your ability to implement data mining techniques to solve real-world problems. The report and the code must be submitted as two separate files via Blackboard by 1 pm, Monday of Week 12 . Detailed submission requirements will be provided in the project specification, to be released later. The assignment brief, including detailed criteria and the marking rubric, will be released in Week 4 on Blackboard. This task has been designed to be challenging, authentic, and complex. While students may use generative AI and/or machine translation (MT) technologies, successful completion of this assessment will require critical engagement with the specific context and task, for which such tools will offer only limited support. Failure to appropriately reference the use of generative AI or MT tools may constitute student misconduct under the Student Code of Conduct . To pass this assessment, students must be able to demonstrate clear and independent understanding of their submission, beyond the use of AI or MT tools. Important: A code interview will be conducted in Week 13 . Students will participate in the code interview based on their submitted implementation. The main purpose of this interview is to verify that students understand the code they have submitted, and that it reflects their own work, rather than content generated or copied without comprehension (e.g., from generative AI tools). If your code is genuinely your own and you understand what you have written, there is no need to worry about this component. If a student receives less than 35% in the code interview, the mark for this assignment will be capped at 10 out of 20 , regardless of the quality of the submitted report and code. Please note that only the final submitted version will be marked, and the late penalty will apply based on the timestamp of that version . Read full task description Hide full task description\nThis task has been designed to be challenging, authentic, and complex. While students may use generative AI and/or machine translation (MT) technologies, successful completion of this assessment will require critical engagement with the specific context and task, for which such tools will offer only limited support. Failure to appropriately reference the use of generative AI or MT tools may constitute student misconduct under the Student Code of Conduct . To pass this assessment, students must be able to demonstrate clear and independent understanding of their submission, beyond the use of AI or MT tools.\nA code interview will be conducted in Week 13 . Students will participate in the code interview based on their submitted implementation. The main purpose of this interview is to verify that students understand the code they have submitted, and that it reflects their own work, rather than content generated or copied without comprehension (e.g., from generative AI tools). If your code is genuinely your own and you understand what you have written, there is no need to worry about this component. If a student receives less than 35% in the code interview, the mark for this assignment will be capped at 10 out of 20 , regardless of the quality of the submitted report and code.",
+      "special_indicators": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Project Presentation and Code Interview",
+      "mode": "Oral",
+      "category": "Presentation, Project",
+      "weight": "15%",
+      "due_date": "27/10/2025 - 31/10/2025 Each student will be allocated an 8-minute slot during their enrolled Applied Class Session (APP) in Week 13, including a 5-minute presentation and a 3-minute code interview. The schedule will be published on Blackboard in Week 11.",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L05, L07, L08, L09",
+      "task_description": "This 15-mark assessment is based on the coding project submitted in the previous week (\"Project Report\"). It consists of two parts delivered in a single 8-minute session: Presentation (5 minutes, 9 marks): Students will give a short in-class presentation explaining their approach, design decisions, and key outcomes. Code Interview (3 minutes, 6 marks): Following the presentation, each student will participate in a brief individual interview focused on their submitted code. The goal is to verify that the code reflects the student's own work and that they understand what they have written. The code interview serves as the secure assessment component of the course, in line with Faculty policy on academic integrity. ⚠️ Important: If a student receives fewer than 2.1 out of 6 for the code interview, the total mark for \"Project Report\" will be capped at 10 out of 20 , regardless of the quality of the code, the report or the presentation. This ensures that all submitted work demonstrates genuine understanding and authorship. Students must submit at least one working version of their code by 27 October 2025 , even if an approved extension has been granted for the Project Report. This early version is required to be eligible for the code interview. A later submission may be accepted under an approved extension, but should not significantly differ from the version submitted by the deadline. (Please refer to the “Project Report” assessment Late Submission notes for further details) Students who fail to submit any code by 27 October 2025 will receive 0 for the Code Interview , although the Presentation may still proceed as scheduled. Assessment sessions will be held during each student’s allocated Applied Class Session (APP) in Week 13 . Guidelines will be released on Blackboard in Week 7, and schedules will be released on Blackboard in Week 11 . Make-up interviews may be arranged in approved deferred cases (e.g., illness), typically in the Review Week or early Exam Week. Unapproved absence will result in a mark of zero. see LATE SUBMISSION NOTES for details. This assessment task is to be completed in person , and the use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted during the presentation or interview session . Students may use AI or MT tools during the preparation phase (e.g., to assist with slide development), but any such use must be clearly and appropriately referenced . Failure to reference the use of generative AI or MT tools, or the attempted use of such tools during the live assessment, may constitute student misconduct under the Student Code of Conduct. If your implementation is your own and you understand what you wrote, the interview will be straightforward. This is not intended to penalise honest work, but to ensure fairness and academic integrity. Read full task description Hide full task description",
+      "submission_guidelines": "Students will present and be interviewed during their allocated Applied Class Session (APP) in Week 13. No online submission is required for this assessment.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nIf you are unable to attend your allocated session, one reschedule is permitted. To apply for a reschedule, you need to apply for an extension via my.UQ.\nIf your extension request is approved, your make-up session may take place during revision week or the examination period.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nThis is a scheduled assessment. Students who miss their allocated session without an approved extension will receive a mark of zero.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "This 15-mark assessment is based on the coding project submitted in the previous week (\"Project Report\"). It consists of two parts delivered in a single 8-minute session: Presentation (5 minutes, 9 marks): Students will give a short in-class presentation explaining their approach, design decisions, and key outcomes. Code Interview (3 minutes, 6 marks): Following the presentation, each student will participate in a brief individual interview focused on their submitted code. The goal is to verify that the code reflects the student's own work and that they understand what they have written. The code interview serves as the secure assessment component of the course, in line with Faculty policy on academic integrity. ⚠️ Important: If a student receives fewer than 2.1 out of 6 for the code interview, the total mark for \"Project Report\" will be capped at 10 out of 20 , regardless of the quality of the code, the report or the presentation. This ensures that all submitted work demonstrates genuine understanding and authorship. Students must submit at least one working version of their code by 27 October 2025 , even if an approved extension has been granted for the Project Report. This early version is required to be eligible for the code interview. A later submission may be accepted under an approved extension, but should not significantly differ from the version submitted by the deadline. (Please refer to the “Project Report” assessment Late Submission notes for further details) Students who fail to submit any code by 27 October 2025 will receive 0 for the Code Interview , although the Presentation may still proceed as scheduled. Assessment sessions will be held during each student’s allocated Applied Class Session (APP) in Week 13 . Guidelines will be released on Blackboard in Week 7, and schedules will be released on Blackboard in Week 11 . Make-up interviews may be arranged in approved deferred cases (e.g., illness), typically in the Review Week or early Exam Week. Unapproved absence will result in a mark of zero. see LATE SUBMISSION NOTES for details. This assessment task is to be completed in person , and the use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted during the presentation or interview session . Students may use AI or MT tools during the preparation phase (e.g., to assist with slide development), but any such use must be clearly and appropriately referenced . Failure to reference the use of generative AI or MT tools, or the attempted use of such tools during the live assessment, may constitute student misconduct under the Student Code of Conduct. If your implementation is your own and you understand what you wrote, the interview will be straightforward. This is not intended to penalise honest work, but to ensure fairness and academic integrity. Read full task description Hide full task description\nThis assessment task is to be completed in person , and the use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted during the presentation or interview session . Students may use AI or MT tools during the preparation phase (e.g., to assist with slide development), but any such use must be clearly and appropriately referenced . Failure to reference the use of generative AI or MT tools, or the attempted use of such tools during the live assessment, may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L08, L09",
+      "task_description": "More information will be released in the last lecture (i.e., the course revision). This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. In line with postgraduate-level expectations, this task places particular emphasis on critical thinking and the ability to independently analyse and evaluate complex issues related to the course content. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "More information will be released in the last lecture (i.e., the course revision). This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. In line with postgraduate-level expectations, this task places particular emphasis on critical thinking and the ability to independently analyse and evaluate complex issues related to the course content. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (28 Jul - 02 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Lectures The course lectures will provide in-depth knowledge of various concepts and techniques in data mining. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (04 Aug - 02 Nov)",
+      "activity_type": "Applied Class",
+      "topic": "Applied Class Starting from Week 2, applied classes will allow students to further practice the concepts and algorithms introduced in the lectures through examples, exercises, and problem-solving activities. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

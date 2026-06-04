@@ -1,0 +1,182 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMP7505-60790-7560",
+  "scraped_at": "2026-06-04T02:16:07.540268+00:00",
+  "course_code": "COMP7505",
+  "class_code": "60790",
+  "semester_code": "7560",
+  "full_course_code": "COMP7505-60790-7560",
+  "course_title": "Algorithms & Data Structures",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Data structures and types, mapping of abstract information structures into representations on primary and secondary storage. Analysis of time and space complexity of algorithms. Sequences. Lists. Stacks. Queues. Sets, multisets, tables. Trees. Sorting. Hash tables. Priority queues. Graphs. String algorithms.\n\nThis course will introduce data structures and algorithms that are important for designing computer programs with performance guarantees and constitute the basis of complex software systems. Broadly speaking, this course will teach you to think - and to solve problems - like a computer scientist. The course will also cover a set of analytical techniques that are fundamental for advanced studies in theoretical computer science.\n\nChanges to this offering include:",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE7023",
+      "MATH7861",
+      "MATH7501"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP2502",
+      "COMP3506",
+      "This course is jointly-taught with:",
+      "All learning activities are jointly taught."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Joel Mackenzie",
+      "email": "COMP3506@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Joel Mackenzie"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Josh Arnold"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course will build an understanding of how the architecture of a computer impacts the construction of programs and how data structures and algorithms can be constructed to efficiently perform desired functionality. The goal of this course is to build enough understanding of data structures and associated algorithms so that an appropriate set can be selected in the design of new software. The students should develop an understanding of:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "UNDERSTAND THE PRINCIPLES OF DATA STRUCTURES - Understand the internal workings of fundamental data structures and algorithms"
+    },
+    {
+      "number": "LO2.",
+      "description": "UNDERSTAND THE PRINCIPLES OF DATA STRUCTURES - Determine the running time and memory space usage of common algorithms."
+    },
+    {
+      "number": "LO3.",
+      "description": "DEVELOP ALGORITHMIC SOLUTIONS - Analyse the performance of fundamental data structures and algorithms."
+    },
+    {
+      "number": "LO4.",
+      "description": "DEVELOP ALGORITHMIC SOLUTIONS - Adapt or invent new algorithms and data structures for software engineering problems."
+    },
+    {
+      "number": "LO5.",
+      "description": "DEVELOP ALGORITHMIC SOLUTIONS - Select and justify appropriate combinations of data structures and algorithms to solve software engineering problems."
+    },
+    {
+      "number": "LO6.",
+      "description": "DEVELOP ALGORITHMIC SOLUTIONS - Communicate the efficiency and correctness of identified solutions"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Problem Sets",
+      "weight": "10% (Best 4 of 5)",
+      "due_date": "15/08/2025 4:00 pm; 29/08/2025 4:00 pm; 19/09/2025 4:00 pm; 10/10/2025 4:00 pm; 31/10/2025 4:00 pm"
+    },
+    {
+      "category": "Computer Code",
+      "title": "Assignment 1",
+      "weight": "20%",
+      "due_date": "5/09/2025 4:00 pm"
+    },
+    {
+      "category": "Computer Code",
+      "title": "Assignment 2",
+      "weight": "20%",
+      "due_date": "29/10/2025 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Problem Sets",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "10% (Best 4 of 5)",
+      "due_date": "15/08/2025 4:00 pm 29/08/2025 4:00 pm 19/09/2025 4:00 pm 10/10/2025 4:00 pm 31/10/2025 4:00 pm",
+      "task_description": "Problem sets are designed to consolidate the knowledge of the course material, demonstrate your ability to understand data structures, solve simple algorithmic problems, compute the time and space complexity of algorithms, and optimize their computational complexity. These activities are designed to keep students engaged with the week-by-week teaching material. The best 4 of 5 submissions will be used to calculate a student's mark, with each submission weighted equally. Each problem set will be accompanied by a detailed specification sheet uploaded to Blackboard. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment. See additional assessment information below for more information. Read full task description Hide full task description",
+      "submission_guidelines": "The assessment will be submitted online via the Gradescope platform. Detailed instructions will be provided in the task specification.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nBecause only the best 4 of 5 problem sets will contribute to the mark for this assessment item and results/answers are released soon after the due date, no extensions are permitted.\nIf a student - who has had valid reasons for an extension - has not submitted at least 4 problem sets by the end of semester, they will have their quiz score weighted at n * 2.5% (where n is the number of problem sets submitted), and their final exam weight will be increased by (4- n ) * 2.5%.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nBecause the results/answers are released soon after the due date, and only the best 4 of 5 will contribute to the mark for this assessment item, a 100% penalty will be applied to late submissions. This has been approved by the Associate Dean (Academic).",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Problem sets are designed to consolidate the knowledge of the course material, demonstrate your ability to understand data structures, solve simple algorithmic problems, compute the time and space complexity of algorithms, and optimize their computational complexity. These activities are designed to keep students engaged with the week-by-week teaching material. The best 4 of 5 submissions will be used to calculate a student's mark, with each submission weighted equally. Each problem set will be accompanied by a detailed specification sheet uploaded to Blackboard. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment. See additional assessment information below for more information. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment. See additional assessment information below for more information."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 1",
+      "mode": "Written",
+      "category": "Computer Code",
+      "weight": "20%",
+      "due_date": "5/09/2025 4:00 pm",
+      "task_description": "In the first assignment, you will demonstrate your ability to translate theory to practice by implementing fundamental data structures to solve a range of algorithmic problems. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment. See additional assessment information below for more information. Please note that COMP7505 students will be required to implement additional functionality with respect to COMP3506 students. Read full task description Hide full task description",
+      "submission_guidelines": "The assessment will be submitted online via the Gradescope platform. Detailed instructions will be provided in the task specification.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThe maximum extension allowed is 7 days as feedback will be provided within 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "In the first assignment, you will demonstrate your ability to translate theory to practice by implementing fundamental data structures to solve a range of algorithmic problems. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment. See additional assessment information below for more information. Please note that COMP7505 students will be required to implement additional functionality with respect to COMP3506 students. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment. See additional assessment information below for more information. Please note that COMP7505 students will be required to implement additional functionality with respect to COMP3506 students."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 2",
+      "mode": "Written",
+      "category": "Computer Code",
+      "weight": "20%",
+      "due_date": "29/10/2025 4:00 pm",
+      "task_description": "In the second assignment, you will demonstrate your ability to design, implement and apply complex data structures and algorithms to solve advanced computing problems. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment. See additional assessment information below for more information. Please note that COMP7505 students will be required to implement additional functionality with respect to COMP3506 students. Read full task description Hide full task description",
+      "submission_guidelines": "The assessment will be submitted online via the Gradescope platform. Detailed instructions will be provided in the task specification.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThe maximum extension allowed is 7 days as feedback will be provided within 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "In the second assignment, you will demonstrate your ability to design, implement and apply complex data structures and algorithms to solve advanced computing problems. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment. See additional assessment information below for more information. Please note that COMP7505 students will be required to implement additional functionality with respect to COMP3506 students. Read full task description Hide full task description\nIn the second assignment, you will demonstrate your ability to design, implement and apply complex data structures and algorithms to solve advanced computing problems. Artificial Intelligence (AI) and Machine Translation (MT) tools may be used for this assignment. See additional assessment information below for more information. Please note that COMP7505 students will be required to implement additional functionality with respect to COMP3506 students."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "other_conditions": "Secure. See the conditions definitions",
+      "task_description": "A three-hour invigilated final examination will be held during the final examination period. It aims to test the students' understanding of topics covered by the whole course. The examination is centrally timetabled. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 180 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "A three-hour invigilated final examination will be held during the final examination period. It aims to test the students' understanding of topics covered by the whole course. The examination is centrally timetabled. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (28 Jul - 02 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Lectures will be used to introduce the course material, focusing primarily on theoretical concepts with some practical examples."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (04 Aug - 02 Nov)",
+      "activity_type": "Applied Class",
+      "topic": "Applied Classes Applied classes will be used to consolidate understanding of the course material in a more practical nature such as (group) problem solving and discussions."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

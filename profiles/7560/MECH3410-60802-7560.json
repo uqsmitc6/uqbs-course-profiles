@@ -1,0 +1,225 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MECH3410-60802-7560",
+  "scraped_at": "2026-06-04T02:29:49.100458+00:00",
+  "course_code": "MECH3410",
+  "class_code": "60802",
+  "semester_code": "7560",
+  "full_course_code": "MECH3410-60802-7560",
+  "course_title": "Fluid Mechanics",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "Fundamental descriptions of flow; viscous internal and external flows; turbomachinery; fundamentals of compressible flow; compressible pipe flows; flow measurement.\n\nAn understanding of the underlying physics and mathematical description of fluid mechanics is necessary to analyse systems that have a fluid as the working medium.ﾠ Mechanical engineers have to deal with fluid mechanics in applications ranging from heating and ventilation systems, transport of fluids in piping systems, fluids in physiological systems,ﾠ through to transport applications such as cars, ships, aircraft and spacecraft. ﾠThe design of fluid machinery such as pumps, compressors and turbines requires the ability to analyse fluid flows.ﾠ This course builds on material in MECH2410: Fundamentals of Fluid Mechanics and applies it to viscous internal and external flows, both laminar and turbulent, compressible flows and turbomachinery. Whilst fluid flows must satisfy the well-established basic laws of mechanics, the analysis can become very complex and experimental results must often be used to model practical flows. Therefore, the importance of making measurements in fluid flows is also stressed in this course. Some methods and techniques used to make measurements in fluid flows are addressed together with an assessment of their uncertainty.\n\nYou should plan to spend at least 10 hours per week on this course in order to obtain a passing grade.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1052",
+      "MATH1072",
+      "MECH2410",
+      "We recommend completing the following courses before enrolling in this one:",
+      "MECH2700"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Vincent Wheatley",
+      "email": "v.wheatley@uq.edu.au",
+      "phone": "+61 7 3365 2969",
+      "notes": "The workshops and applied classes for this course are great venues for consultation as this will allow the entire class to benefit from the responses, as do consultations through the discussion board. In addition, the active lecturer will hold an office hour every week when we will be available to answer questions."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Vincent Wheatley",
+      "email": "v.wheatley@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Azadeh Jafari",
+      "email": "a.jafari@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Ramprakash Ananthapadmanaban",
+      "email": "r.ananthapadmanaban@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This courseﾠextends your knowledge of fluid mechanics to include the description and analysis of multi-dimensional, viscous and compressible flows. At the completion of the course you should be able to apply your understanding of fluid mechanics to a wide range of important engineering systems ranging from pipe flow in the process industries to flow of air around aircraft. The applied class exercises are used to develop problem solving skills while the laboratory work aims to develop practical skills in flow measurement, analysis and interpretation of results.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand and apply advanced fluid mechanics concepts"
+    },
+    {
+      "number": "LO2.",
+      "description": "Analyse systems involving laminar, transitional and turbulent internal flow"
+    },
+    {
+      "number": "LO3.",
+      "description": "Analyse external flow problems involving boundary layers, transition to turbulence, flow separation, pressure, skin friction and induced drag, and finite span aerofoils"
+    },
+    {
+      "number": "LO4.",
+      "description": "Analyse compressible flow problems involving isentropic flow, nozzle flows, normal and oblique shock waves, compressible frictional flows and compressible flow with heat transfer"
+    },
+    {
+      "number": "LO5.",
+      "description": "Analyse systems containing turbomachinery"
+    },
+    {
+      "number": "LO6.",
+      "description": "Understand fluid mechanics experiments and work as a team to analyse, interpret and report on experimental data"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Weekly Applied Class Questions",
+      "weight": "10% Computed from the best 8 out of 11 possible submissions",
+      "due_date": "8/08/2025 2:00 pm; 22/08/2025 2:00 pm; 29/08/2025 2:00 pm; 5/09/2025 2:00 pm; 12/09/2025 2:00 pm; 19/09/2025 2:00 pm; 26/09/2025 2:00 pm; 10/10/2025 2:00 pm; 17/10/2025 2:00 pm; 24/10/2025 2:00 pm; 31/10/2025 2:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Exp 1 (Aerofoil)",
+      "weight": "16%",
+      "due_date": "Submit within 1 week of completing your practical at 2:00pm."
+    },
+    {
+      "category": "Notebook/ Logbook, Practical/ Demonstration",
+      "title": "Experiment 2 and 3 logbook entries",
+      "weight": "14%",
+      "due_date": "30/10/2025 2:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Weekly Applied Class Questions",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "10% Computed from the best 8 out of 11 possible submissions",
+      "due_date": "8/08/2025 2:00 pm 22/08/2025 2:00 pm 29/08/2025 2:00 pm 5/09/2025 2:00 pm 12/09/2025 2:00 pm 19/09/2025 2:00 pm 26/09/2025 2:00 pm 10/10/2025 2:00 pm 17/10/2025 2:00 pm 24/10/2025 2:00 pm 31/10/2025 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Students are provided with weekly applied class and practice questions . Of these, the applied class questions are to be submitted weekly and the practice questions are for you to complete in your own time. During the applied classes you will have time to solve at least one of the applied class questions and the demonstrator will show an outline of the solution process for all questions . The weekly applied classes are designed to provide you with assistance in solving these questions. Staff will be there to give you individual advice with these questions and also any course content specific questions. Submit your completed questions every week. The questions should be completed in a logbook or alternate well organised system. For any disputes you will be required to produce this logbook/system as evidence to support your case. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria. Read full task description Hide full task description",
+      "submission_guidelines": "Submit individually via Blackboard. See Blackboard for additional instructions.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nBecause only the best 8 of 11 will contribute to the mark for this assessment item and results/answers are released soon after the due date, no extensions are permitted.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nThe results/answers are released soon after the due date, and only the best 8 of 11 will contribute to the mark for this assessment.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Students are provided with weekly applied class and practice questions . Of these, the applied class questions are to be submitted weekly and the practice questions are for you to complete in your own time. During the applied classes you will have time to solve at least one of the applied class questions and the demonstrator will show an outline of the solution process for all questions . The weekly applied classes are designed to provide you with assistance in solving these questions. Staff will be there to give you individual advice with these questions and also any course content specific questions. Submit your completed questions every week. The questions should be completed in a logbook or alternate well organised system. For any disputes you will be required to produce this logbook/system as evidence to support your case. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Exp 1 (Aerofoil)",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "16%",
+      "due_date": "Submit within 1 week of completing your practical at 2:00pm.",
+      "learning_outcomes_assessed": "L01, L03, L06",
+      "task_description": "All students to attend on-campus in assigned groups. Participation in the on-campus laboratory is required to receive a grade for the report. Complete all preparation work in your individual Laboratory Logbook and familiarize yourself with the experimental procedure. Record all measurements and observations in your individual Laboratory Logbook. Remember everything goes into your Logbook. As teams of typically 4-5 students (the group you did the lab with) prepare a brief (not formal) laboratory report. Use the practical instructions as a guide. The report should focus on the analysis and discussion of the results. As a guideline the submitted reports should contain the following parts and information A brief introduction on the goals of the experiment A clear description of methods and techniques used to process and analyse the experimental data (including quantification of experimental uncertainty); All processed data from experiment; all raw data from the experiment (in an appendix) Discussion of results, including: discussion of the main results of the experiment Discuss any discrepancies between experiment and theory Answers to questions (where appropriate) The Laboratory Instructions available from Blackboard include additional instructions. The tasks should be completed in a logbook or alternate well organised system. For any disputes you will be required to produce this logbook/system as evidence to support your case. Please refer to Blackboard for a detailed marking criteria. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "See Blackboard for details.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFeedback is provided to students following 14 calendar days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "All students to attend on-campus in assigned groups. Participation in the on-campus laboratory is required to receive a grade for the report. Complete all preparation work in your individual Laboratory Logbook and familiarize yourself with the experimental procedure. Record all measurements and observations in your individual Laboratory Logbook. Remember everything goes into your Logbook. As teams of typically 4-5 students (the group you did the lab with) prepare a brief (not formal) laboratory report. Use the practical instructions as a guide. The report should focus on the analysis and discussion of the results. As a guideline the submitted reports should contain the following parts and information A brief introduction on the goals of the experiment A clear description of methods and techniques used to process and analyse the experimental data (including quantification of experimental uncertainty); All processed data from experiment; all raw data from the experiment (in an appendix) Discussion of results, including: discussion of the main results of the experiment Discuss any discrepancies between experiment and theory Answers to questions (where appropriate) The Laboratory Instructions available from Blackboard include additional instructions. The tasks should be completed in a logbook or alternate well organised system. For any disputes you will be required to produce this logbook/system as evidence to support your case. Please refer to Blackboard for a detailed marking criteria. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Experiment 2 and 3 logbook entries",
+      "mode": "Activity/ Performance, Written",
+      "category": "Notebook/ Logbook, Practical/ Demonstration",
+      "weight": "14%",
+      "due_date": "30/10/2025 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L04, L06",
+      "task_description": "All students attend Laboratories 2 and 3 on-campus in your timetabled group. Participation in the on-campus laboratory is required to receive a grade for the corresponding logbook. For each laboratory: Complete all preparation work in your individual Laboratory Logbook (or log-file) and bring this to your lab sessions. This will be checked at the start of the laboratory ( Pre-work ). Study course material relevant to practical (e.g. by reading relevant chapters in course textbook and reviewing lecture material). Read and understand the experimental instructions. It is your responsibility to be familiar with the appropriate analysis methods. In teams of typically 4-5 students, record all measurements and observations in one Laboratory Logbook (or log-file). As a team continue to complete the required analysis and jointly write a short conclusion (1/4 page) about the experiment. The team analysis and conclusion will be marked after the laboratory. ( Execution ) The Laboratory Instructions available from Blackboard include additional instructions. The tasks should be completed in a logbook or alternate well organised system. For any disputes you will be required to produce this logbook/system as evidence to support your case. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria. Read full task description Hide full task description",
+      "submission_guidelines": "See Blackboard for details.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFeedback is provided to students following 14 calendar days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "All students attend Laboratories 2 and 3 on-campus in your timetabled group. Participation in the on-campus laboratory is required to receive a grade for the corresponding logbook. For each laboratory: Complete all preparation work in your individual Laboratory Logbook (or log-file) and bring this to your lab sessions. This will be checked at the start of the laboratory ( Pre-work ). Study course material relevant to practical (e.g. by reading relevant chapters in course textbook and reviewing lecture material). Read and understand the experimental instructions. It is your responsibility to be familiar with the appropriate analysis methods. In teams of typically 4-5 students, record all measurements and observations in one Laboratory Logbook (or log-file). As a team continue to complete the required analysis and jointly write a short conclusion (1/4 page) about the experiment. The team analysis and conclusion will be marked after the laboratory. ( Execution ) The Laboratory Instructions available from Blackboard include additional instructions. The tasks should be completed in a logbook or alternate well organised system. For any disputes you will be required to produce this logbook/system as evidence to support your case. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for a detailed marking criteria. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 180 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (28 Jul - 02 Nov)",
+      "activity_type": "Workshop",
+      "topic": "Fluid Mechanics Workshops In-person workshops applying course theory to problems from research, industry and extracurricular activities with Professor Wheatley or Dr Jafari. Learning outcomes: L01, L06",
+      "learning_outcomes": [
+        "L01",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (28 Jul - 02 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Fluid Mechanics Lectures Lecture series on fluid mechanics spanning: review of fundamentals, experimental uncertainty, external flows, internal flows, compressible flows and turbomachinery. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (04 Aug - 02 Nov)",
+      "activity_type": "Problem-based learning",
+      "topic": "Weekly Assignments and Problem-based learning Week 2-13; Work on problem-sets in a small group in applied sessions, give and receive peer feedback, opportunity for individual assistance from lecturers and casual academic staff. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 5 To Week 12 (25 Aug - 26 Oct)",
+      "activity_type": "Practical",
+      "topic": "Laboratory Experiments Perform experiments on fluid mechanics and analyse and document the results. Learning outcomes: L01, L02, L03, L04, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

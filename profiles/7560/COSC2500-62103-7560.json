@@ -1,0 +1,190 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COSC2500-62103-7560",
+  "scraped_at": "2026-06-04T02:17:00.359389+00:00",
+  "course_code": "COSC2500",
+  "class_code": "62103",
+  "semester_code": "7560",
+  "full_course_code": "COSC2500-62103-7560",
+  "course_title": "Numerical Methods in Computational Science",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "This course provides an introduction to basic numerical methods and computer programming for the solution of a number of classes of scientific problems. The course is interdisciplinary in nature, incorporating a number of case studies in biology, physics, chemistry, and engineering.\n\nThe course provides an introduction to numerical methods and their use in computational science. The variety of methods used for numerical analysis, numerical linear algebra, and the solution of equations and differential equations provides a broad foundation for computational science.\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against ﾠ UQ Policy, ﾠ and will not be tolerated. We have developed a ﾠ suite of resources ﾠto assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "SCIE1000",
+      "CSSE1001",
+      "MATH1051",
+      "MATH1071",
+      "MATH1052",
+      "MATH1072"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH2200",
+      "COSC7500"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Timo Nieminen",
+      "email": "timo@physics.uq.edu.au",
+      "phone": "+61 7 3365 2422"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Timo Nieminen",
+      "email": "timo@physics.uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Amy Geddes",
+      "email": "amy.geddes@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThere are multiple computer lab sessions (applied classes). You are only expected to attend one.\nThere is no Allocation.\nYou may attend any of them. Computer lab sessions will begin in Week 1 (Week 1 applied classes are an introduction to programming).\nIf you are ill, then do not attend any classes in person.ﾠ\nThere will be no lecture or computer lab session on Wednesday 13th August due to the Ekka Public Holiday, or on Monday 6th October due to the King's Birthday Public Holiday. Any variations in the lecture sequence will be announced on Blackboard. Students who usually attend affected computer lab sessions are welcome to attend any of the other lab sessions that week.",
+  "course_aims": "The course aims to introduce students to the toolbox of widely-used numerical methods in computational science. Students will be able to apply these methods to problems in a variety of sciences.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "understand the numerical methods used in computational science"
+    },
+    {
+      "number": "LO2.",
+      "description": "be able to apply numerical methods to problems in practice."
+    },
+    {
+      "number": "LO3.",
+      "description": "develop, use, and understand software which uses numerical methods"
+    },
+    {
+      "number": "LO4.",
+      "description": "understand the role of numerical methods in science"
+    },
+    {
+      "number": "LO5.",
+      "description": "engage in scientific and technical communication"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Module 1-4 assignments",
+      "weight": "70% 24 marks",
+      "due_date": "Module 1: 5/09/2025 3:00 pm; Module 2: 26/09/2025 3:00 pm; Module 3: 17/10/2025 3:00 pm; Module 4: 10/11/2025 3:00 pm"
+    },
+    {
+      "category": "Project",
+      "title": "Project",
+      "weight": "Not required to pass, 20 marks",
+      "due_date": "14/11/2025 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester Examination",
+      "weight": "30% 12 marks",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person",
+        "Online"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Module 1-4 assignments",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "70% 24 marks",
+      "due_date": "Module 1: 5/09/2025 3:00 pm Module 2: 26/09/2025 3:00 pm Module 3: 17/10/2025 3:00 pm Module 4: 10/11/2025 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Students will work on sets of exercises, one for each of modules 1-4. The exercises will primarily consist of practical computer exercises, but can include mathematical and research tasks as well. Read full task description Hide full task description",
+      "submission_guidelines": "Exercises must be submitted via the course Blackboard site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Project",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "Not required to pass, 20 marks",
+      "due_date": "14/11/2025 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Project on topic of student's choice. Students will submit a written report. The project is not required to obtain a pass in the course. Marks awarded for the project will contribute towards obtaining grades of 6 and 7. Read full task description Hide full task description",
+      "submission_guidelines": "The project must be submitted via the course Blackboard site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "End of Semester Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "30% 12 marks",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The exam will be a centrally-timetabled school-administered exam. You will be expected to use a computer - either your own laptop or a computer lab computer. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options Any calculator permitted Open/closed book Open book examination - any written or printed material is permitted; material may be annotated Materials You may use a computer for the exam; this can be either your own laptop or a computer lab computer. You may use any of the learning resources provided via the COSC2500 Blackboard site; you may access these via Blackboard during the exam. You may use your own notes and project reports, software you have used in the course, the textbook, any calculator, and a bilingual dictionary. Exam platform Other Invigilation Invigilated in person",
+      "submission_guidelines": "If you complete the exam electronically, you will submit your completed exam will be submitted via Blackboard as a pdf file.\nDeferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person",
+        "Online"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "IT Computing",
+      "topic": "Computer exercises Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "IT Computing",
+      "topic": "Computer labs Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Lectures Lectures will include a brief coverage of the core content, further material on programming, and case studies of the use of numerical methods in computational science. Learning outcomes: L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

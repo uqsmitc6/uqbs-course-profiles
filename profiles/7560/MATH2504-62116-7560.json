@@ -1,0 +1,198 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH2504-62116-7560",
+  "scraped_at": "2026-06-04T02:28:44.447538+00:00",
+  "course_code": "MATH2504",
+  "class_code": "62116",
+  "semester_code": "7560",
+  "full_course_code": "MATH2504-62116-7560",
+  "course_title": "Programming of Simulation, Analysis, & Learning Systems",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "This course is designed to build understanding of programming, software architecture, and general software development in the context of mathematical, numerical, symbolic, simulation and data science applications. Students will learn the basic elements of software development in the context of mathematics using a scientific programming language like the Julia language, and also using tools such as git, Unix, and Integrated Development Environments (IDEs). The course teaches students to implement algorithms from numerical mathematics, symbolic mathematics, simulation, and data analysis, all using solid software development practices that allow for organised maintainable and extendable software.\n\nThe bulk of the course is taught by industry professionals and there are also guest lectures of other industry professionals.\n\nThe focus of the course is programming of systems that involve mathematics and mathematical modelling. This includes the interface of mathematical principles and a programming language as well as tooling and the experience of using solid basic practices that lead to organized and efficient code. The language for this course is the Julia language. Julia is a modern compiled programming language that in many ways is easy to work with like other scripting languages, however it also allows to create very efficient code. In general, the Julia language and the surrounding eco-system focuses on scientific computing and mathematics.ﾠ\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against UQ Policy, and will not be tolerated. We have developed a suite of resources to assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1052",
+      "MATH1072",
+      "STAT1201",
+      "STAT1301",
+      "STAT2003",
+      "STAT2201",
+      "STAT2203"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH7504"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Dietmar Oelz",
+      "email": "d.oelz@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Dietmar Oelz",
+      "email": "d.oelz@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Andrew Ferris"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Ms Claire Foster"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Paul Vrbik",
+      "email": "p.vrbik@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nRefer to your personal timetable for dates, times and locations. In addition to lectures, there are standard practicals (PRA1), where students choose one group from the available groups. There are also optional support practicals (PRA2) where students that need ﾠextra support can join.\nThis information is also available on the ﾠ\ncourse website\n.",
+  "course_aims": "There are 4 main study aims:\n\nIdeally, after completion of this course a student will have the ability to continue self-study of software and programming concepts after getting a 'jump-start' via this course. The student would ideally be able to work independently on projects for more advanced third and fourth year courses, and/or produce efficient code as part of Honours or higher degree research. Importantly, the student would have tools for contributing to open source projects, start-up teams, and be hirable in analytic software focused jobs in industry.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Use software development tools including Git, Unix command line, Markdown, Julia IDEs and Debugging."
+    },
+    {
+      "number": "LO2.",
+      "description": "Develop (design, program, and test) multi-module software programs in a programming language such as Julia or similar."
+    },
+    {
+      "number": "LO3.",
+      "description": "Use language extensions for scientific programming."
+    },
+    {
+      "number": "LO4.",
+      "description": "Work with data files and formats including CSV, JSON, XML, and data frames. For this, understand the structure of such data objects."
+    },
+    {
+      "number": "LO5.",
+      "description": "Implement and interpret basic numerical methods including the solution of ordinary differential equations, root finding, and problems from linear algebra. In addition, be able to apply these to concrete real world applications"
+    },
+    {
+      "number": "LO6.",
+      "description": "Implement and interpret basic Monte Carlo simulation techniques in the context of more complex simulation systems such as discrete event simulation systems."
+    },
+    {
+      "number": "LO7.",
+      "description": "Implement and interpret discrete and graph based algorithms for sorting, searching, and path finding. In addition, analyse (mathematically) the performance of simple data structures such as linked-lists, heaps, and hash-tables. Further, gain an understanding on how some of these structures are implemented."
+    },
+    {
+      "number": "LO8.",
+      "description": "Implement, train, use, and interpret basic machine learning techniques from supervised and unsupervised learning."
+    },
+    {
+      "number": "LO9.",
+      "description": "Describe the software organization, design-rationale, and implementation for all of the above use cases, all in the context of projects spanning multiple modules and following organized software development practices."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Creative Production/ Exhibition, Tutorial/ Problem Set",
+      "title": "BigHW (pairs)",
+      "weight": "16%",
+      "due_date": "5/09/2025 4:00 pm"
+    },
+    {
+      "category": "Computer Code, Quiz",
+      "title": "Quiz",
+      "weight": "30%",
+      "due_date": "9/09/2025 7:00 pm; Submit in class at the end of the quiz.",
+      "conditions": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Creative Production/ Exhibition, Project",
+      "title": "Projects",
+      "weight": "54%",
+      "due_date": "7/10/2025 4:00 pm; 24/10/2025 4:00 pm; 20/11/2025 4:00 pm; The due date for Project 3 is a hard deadline also for medical and other extensions. This is because the due date is at the end of the exam period",
+      "conditions": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "BigHW (pairs)",
+      "mode": "Written",
+      "category": "Computer Code, Creative Production/ Exhibition, Tutorial/ Problem Set",
+      "weight": "16%",
+      "due_date": "5/09/2025 4:00 pm",
+      "task_description": "This BigHW is a \"big home-work\". It includes multiple programming and algorithmic exercises covering the first few units of the course. The submission is in pairs. This is a single assignment. See BIGHW for the assignment, submission details, and grading criteria. Read full task description Hide full task description",
+      "submission_guidelines": "See https://courses.smp.uq.edu.au/MATH2504/2025/assessment_html/bighw.html .\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nAs each assessment item needs to be completed in sequence to allow feedback prior to the submission of the next one a maximum of 7 days extension is permitted on each assessment item.\nThe BigHW needs to be completed prior to the Quiz and Project 1 so that students focus on these assessments.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Quiz",
+      "mode": "Written",
+      "category": "Computer Code, Quiz",
+      "weight": "30%",
+      "due_date": "9/09/2025 7:00 pm Submit in class at the end of the quiz.",
+      "task_description": "The quiz tests basic understanding and competency of the content from the first few units of the course. The quiz takes place during the Tuesday evening lecture. See https://courses.smp.uq.edu.au/MATH2504/2025/quiz/ . Read full task description Hide full task description",
+      "submission_guidelines": "See https://courses.smp.uq.edu.au/MATH2504/2025/quiz/ .\nDeferral or extension\nYou may be able to defer this exam .\nA deferred quiz will be held approximately 1 week after the scheduled quiz. Further details will be communicated closer to the assessment date.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nThis is a in-class quiz.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Hurdle",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Projects",
+      "mode": "Written",
+      "category": "Computer Code, Creative Production/ Exhibition, Project",
+      "weight": "54%",
+      "due_date": "7/10/2025 4:00 pm 24/10/2025 4:00 pm 20/11/2025 4:00 pm The due date for Project 3 is a hard deadline also for medical and other extensions. This is because the due date is at the end of the exam period",
+      "task_description": "Project #1 deals with symbolic computation. It involves taking an existing (supplied) code-base and improving it. Project #2 deals with discrete event simulation and is a project to be worked on in pairs. Unlike project #1 that is based on supplied code, the structure of the code base for this project is to be designed in pairs. Project #3 deals with data science. It is due towards the end of the exam block. Read full task description Hide full task description",
+      "submission_guidelines": "See course website .\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nAs each assessment item needs to be completed in sequence to allow feedback prior to the submission of the next one a maximum of 7 days extension is permitted on each assessment item.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up\nto 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the\nsubmission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Practical",
+      "topic": "Standard practical (PRA1) Weekly standard practical sessions as a guide towards assignments, projects, and quiz prep."
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Practical",
+      "topic": "Support practical (PRA2) Weekly support practical sessions are optional for students needing extra help."
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Weekly Lectures (3 hrs per week) Lecture"
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Perspective Seminar Periodic seminars by industry professionals."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

@@ -1,0 +1,370 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMS4105-60976-7560",
+  "scraped_at": "2026-06-04T02:16:09.591414+00:00",
+  "course_code": "COMS4105",
+  "class_code": "60976",
+  "semester_code": "7560",
+  "full_course_code": "COMS4105-60976-7560",
+  "course_title": "Communication Systems",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Communications receivers and transmitters, modulation and demodulation, baseband and narrowband signal characteristics, analogue and digital communication systems, information theory, source and channel coding.\n\nCommunication systems are the backbone of our interconnected world, sending information across vast distances, quickly and/or reliably. It is at the cutting edge of high technology in modern society. Australia has extensive and sophisticated communication infrastructure. Its maintenance and expansion requires well trained communication engineers. The goal of this course is to give students a thorough grounding in the theory and practice of modern communication systems that enables expert understanding of the most advanced standards and the likely future of digital communication systems and networks. Aspects include analysis of signals and noise in the time and frequency domain, base-band and band-pass modulation, performance of digital communication systems, software defined radio, channel coding and multiple-access schemes.\n\nCourse Changes in Response to Previous Student Feedback\n\nThis year's changes include the addition of more hands-on demonstrations in lectures, and updates to the course material to include modern communication standards and development.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE3010",
+      "ELEC3004"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMS3100",
+      "COMS4100",
+      "COMS7100",
+      "COMS7105",
+      "COMS7410"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Konstanty Bialkowski",
+      "email": "coms4105@eecs.uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Konstanty Bialkowski",
+      "email": "coms4105@eecs.uq.edu.au"
+    },
+    {
+      "role": "Guest lecturer",
+      "name": "Dr Lu Zhang",
+      "email": "lu.zhang@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course studies: time and frequency signal analyses; random processes and noise; base-band & pass-band signals; modulation/demodulation and optimal reception techniques; coding and information theory.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "relate the role of mathematical signals & systems theory to advanced communication systems"
+    },
+    {
+      "number": "LO2.",
+      "description": "evaluate and critique common communication systems in terms of their properties, advantages and disadvantages"
+    },
+    {
+      "number": "LO3.",
+      "description": "simulate the operation of communication systems to predict their performance"
+    },
+    {
+      "number": "LO4.",
+      "description": "design a communication system according to a given specification by using design calculations"
+    },
+    {
+      "number": "LO5.",
+      "description": "develop synchronisation algorithms which work on over the air (OTA) transmitted signals"
+    },
+    {
+      "number": "LO6.",
+      "description": "measure and collect OTA signals for the purposes of successful decoding of transmitted data"
+    },
+    {
+      "number": "LO7.",
+      "description": "develop an appreciation of the benefits and problems associated with team-based engineering work"
+    },
+    {
+      "number": "LO8.",
+      "description": "develop and appreciate a communication system according to an existing standard which is made to operate in the presence of other systems"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Practical Milestones",
+      "weight": "24%",
+      "due_date": "Prac 0 11/08/2025 - 25/08/2025; Prac 1 1/09/2025 - 8/09/2025; Prac 2 15/09/2025 - 22/09/2025; Prac 3 7/10/2025 - 13/10/2025; Wildcard Prac 20/10/2025 - 31/10/2025; In allocated practical session",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "In-Semester Exam",
+      "weight": "15%",
+      "due_date": "22/09/2025 2:00 pm; During Lecture Time slot",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Project Report",
+      "weight": "16%",
+      "due_date": "10/11/2025 3:00 pm; The course coordinator reserves the right to vary group marks for each group member in the event of varied contributions to the team effort.",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "45%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Practical Milestones",
+      "mode": "Activity/ Performance",
+      "category": "Practical/ Demonstration",
+      "weight": "24%",
+      "due_date": "Prac 0 11/08/2025 - 25/08/2025 Prac 1 1/09/2025 - 8/09/2025 Prac 2 15/09/2025 - 22/09/2025 Prac 3 7/10/2025 - 13/10/2025 Wildcard Prac 20/10/2025 - 31/10/2025 In allocated practical session",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L08",
+      "task_description": "Practical work for this course will take place in the GP South laboratories (78-212). You should note that this laboratory is classified as an Engineering laboratory and workplace health and safety regulations require that covered footwear be worn in the laboratory. You should read the sections entitled \"EAIT Computer Laboratories\" and \"Usage Conditions for Computing Laboratories and Facilities\" in the EECS Student Help Pages . You will also be required to read and understand the \"Occupational Health and Safety in the Laboratory\" guidelines and fill out the declaration. Failure to sign the declaration and/or abide by the guidelines will result in your exclusion from the laboratories. In particular, if you fail to wear covered footwear, you will be excluded from your prac session. Access to the laboratories will not be available outside scheduled practical sessions. Students will have access to general computing resources, e.g., PCs, in the School of EECS. These resources may be used to access course electronic resources, e.g., the course website, and to undertake research and writing for assignments. Generative AI and Machine Translation in Assessment This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Four (4) scheduled practicals will run over the semester, with two weeks being reserved for each practical. Students will be evaluated DURING the practical by the teaching staff on both their preparation and method. Marks will be awarded for answers to the preparation questions (which MUST be attempted BEFORE the laboratory session) and the student's level of understanding and completeness of the scheduled laboratory tasks.\nA total of 24 marks are available for the laboratory component of the course. Each of the four (4) practicals will have a total of six (6) marks available. Marks will be awarded individually to each student.\nThe marks will be awarded as follows:\nPreparation - Completeness and understanding (2 marks):\nA mark of zero (0) will be awarded when little or no attempt at (and/or understanding of) the preparation questions has been made; A mark of one (1) will be awarded when a fair attempt at the preparation questions has been made. That is, the student can explain correct answers to approximately half of the preparation questions; A mark of two (2) will be awarded when a good/excellent attempt at the preparation questions has been made. That is, the student can explain correct answers to all, or nearly all, of the preparation questions.\nPractical Method - Completeness and understanding (4 marks):\nA mark of zero (0) will be awarded when little or no attempt (and/or understanding) of the tasks outlined in the practical has been made; A mark of one (1) will be awarded when a fair attempt at the practical has been made. That is, at least the first part of the practical has been reasonably attempted and understood; A mark of two (2) will be awarded when a good attempt at the practical has been made. That is, the first and second parts of the practical have been reasonably attempted and understood; A mark of three (3) will be awarded when an excellent attempt at the practical has been made. That is, all parts of the practical have been attempted and understood. A mark of four (4) will be awarded when an outstanding attempt at the practical has been made. That is, all parts of the practical have been completed and understood.\nNote: Preparation tasks MUST be completed at home or before the laboratory session begins. Marks for laboratory sessions will be made available on the course web-site (NOT directly from the teaching staff during the laboratory session). Students are encouraged to attend their regular practical sessions, they can swap the sessions and if there are spaces can attend multiple sessions (in the same week). There may be an optional catch up session in weeks 12 and 13 if needs arise. However, should you choose not to attend or delay the assessment until the final practical week (without a genuine reason), it is your responsibility to fully understand and complete the practical sessions to the examiners satisfaction. Teaching staff may not be able to provide 'extra' attention to the practical whose assessment would be overdue by that date.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nPracticals are to be completed as part of a scheduled practical class. There may be an optional catch up session in weeks 12 and 13 if needs arise. However, should you choose not to attend or delay the assessment until the final practical week (without a genuine reason). It is your responsibility to fully understand and complete the practical sessions to the examiners satisfaction. For students who are behind the practical schedule, the teaching staff may not be able to as much assistance for past practicals.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nAs time is provided within the practical class to complete all work, no late submissions will be accepted and a 100% late penalty applies.\nThis has been approved by the Associate Dean (Academic)",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Practical work for this course will take place in the GP South laboratories (78-212). You should note that this laboratory is classified as an Engineering laboratory and workplace health and safety regulations require that covered footwear be worn in the laboratory. You should read the sections entitled \"EAIT Computer Laboratories\" and \"Usage Conditions for Computing Laboratories and Facilities\" in the EECS Student Help Pages . You will also be required to read and understand the \"Occupational Health and Safety in the Laboratory\" guidelines and fill out the declaration. Failure to sign the declaration and/or abide by the guidelines will result in your exclusion from the laboratories. In particular, if you fail to wear covered footwear, you will be excluded from your prac session. Access to the laboratories will not be available outside scheduled practical sessions. Students will have access to general computing resources, e.g., PCs, in the School of EECS. These resources may be used to access course electronic resources, e.g., the course website, and to undertake research and writing for assignments. Generative AI and Machine Translation in Assessment This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nGenerative AI and Machine Translation in Assessment\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In-Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "15%",
+      "due_date": "22/09/2025 2:00 pm During Lecture Time slot",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "The in-semester exam will be based on material presented/covered in weeks 1 to 7. The questions will be short answer and problem solving. Generative AI and Machine Translation in Assessment This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The in-semester exam will be based on material presented/covered in weeks 1 to 7. The questions will be short answer and problem solving. Generative AI and Machine Translation in Assessment This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nGenerative AI and Machine Translation in Assessment\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Project Report",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "16%",
+      "due_date": "10/11/2025 3:00 pm The course coordinator reserves the right to vary group marks for each group member in the event of varied contributions to the team effort.",
+      "learning_outcomes_assessed": "L02, L03, L04, L07, L08",
+      "task_description": "This semester, students will complete a project based on the work contained in the laboratory work of the course. The final work on the project will be performed in pairs, with a single project report. More details on the project/assignment will be made available before the end of Week 4. Students need to nominate their partner before the end of Week 4 by notifying the teaching staff. Generative AI and Machine Translation in Assessment This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submit one report per team to Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within (14) days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This semester, students will complete a project based on the work contained in the laboratory work of the course. The final work on the project will be performed in pairs, with a single project report. More details on the project/assignment will be made available before the end of Week 4. Students need to nominate their partner before the end of Week 4 by notifying the teaching staff. Generative AI and Machine Translation in Assessment This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nGenerative AI and Machine Translation in Assessment\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "45%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L02, L03, L04, L05",
+      "task_description": "The end of semester exam will examine the material presented/covered during the semester. The questions will involve problem solving and may contain short-answer, essay and problem solving questions. Broadly speaking, the criteria used for marking the final exam are, according to the type of question asked, as follows: knowledge of basic definitions of terms used in digital communication engineering, conceptual understanding of properties and phenomena observed in digital communication systems, clear explanation of the operation of digital communication systems, correct calculation and correct procedure for calculation of design parameters. Generative AI and Machine Translation in Assessment This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 180 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The end of semester exam will examine the material presented/covered during the semester. The questions will involve problem solving and may contain short-answer, essay and problem solving questions. Broadly speaking, the criteria used for marking the final exam are, according to the type of question asked, as follows: knowledge of basic definitions of terms used in digital communication engineering, conceptual understanding of properties and phenomena observed in digital communication systems, clear explanation of the operation of digital communication systems, correct calculation and correct procedure for calculation of design parameters. Generative AI and Machine Translation in Assessment This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nGenerative AI and Machine Translation in Assessment\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 2 (28 Jul - 10 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Signals, spectra and Random Processes Learning outcomes: L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 1 (28 Jul - 03 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Course introduction Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 12 (04 Aug - 26 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Class Exercises Class exercises on communication system theory and practice. Learning outcomes: L01, L02, L03, L04, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (11 Aug - 17 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Baseband Modulation and demodulation Learning outcomes: L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (11 Aug - 17 Aug)",
+      "activity_type": "Practical",
+      "topic": "Practical 0 Preparation for Future Lab Based Practicals Learning outcomes: L01, L03, L04, L06",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 4 To Week 6 (18 Aug - 07 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Bandpass modulation and demodulation Learning outcomes: L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 6 To Week 8 (01 Sep - 21 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Link Budgets, Channel coding Learning outcomes: L02, L03, L04, L07",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (01 Sep - 07 Sep)",
+      "activity_type": "Practical",
+      "topic": "Prac 1 Signal Detection, Modulation and Demodulation Learning outcomes: L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 9 To Week 10 (22 Sep - 12 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Advanced Channel Coding, Multiple Access Systems Learning outcomes: L02, L03, L04, L07",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (22 Sep - 28 Sep)",
+      "activity_type": "Practical",
+      "topic": "Prac 2 Channel Coding, Bit Error Rates Learning outcomes: L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (13 Oct - 19 Oct)",
+      "activity_type": "Lecture",
+      "topic": "OFDM, Framing, Synchronization Learning outcomes: L01, L02, L03, L04, L05, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (13 Oct - 19 Oct)",
+      "activity_type": "Practical",
+      "topic": "Prac 3 OFDM, DAB Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 12 To Week 13 (20 Oct - 02 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Communication System Case Studies Learning outcomes: L02, L03, L04, L08",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (20 Oct - 26 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Channel Models, Spread Spectrum Technologies Learning outcomes: L02, L03, L04, L06, L08",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L06",
+        "L08"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . You'll also need to be aware of the following policies and procedures while completing this course: Occupational Health and Safety in the Laboratory Guideline School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

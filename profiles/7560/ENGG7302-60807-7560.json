@@ -1,0 +1,225 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG7302-60807-7560",
+  "scraped_at": "2026-06-04T02:22:08.363722+00:00",
+  "course_code": "ENGG7302",
+  "class_code": "60807",
+  "semester_code": "7560",
+  "full_course_code": "ENGG7302-60807-7560",
+  "course_title": "Advanced Computational Techniques in Engineering",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "An advanced course designed to deepen student knowledge and capability in computational techniques in areas of particular importance to engineering. Topics are drawn from linear algebra, stochastic systems and optimisation theory with emphasis on applications and examples in various fields of engineering including but not limited to biomedical engineering, electricity market, embedded systems and microwave and telecommunications. Practical skills in MATLAB programming are developed.\n\nThe course aims to give students the computational tools and theory needed for postgraduate-level study of engineering. Topics to be covered in the course will be drawn from the following:\n\nI. Matrix Algebra\n\nComputation of matrix and vector norms, inverses, Gaussian elimination, pivoting, sensitivity, condition number, generalised inverses (Moore-Penrose), idempotent matrices, solution of matrix equations, projection matrices, determinants, cofactors, banded, circulant, Vandermonde & Toeplitz matrices, definiteness, Givens rotations, computation of decompositions (Cholesky, LQ/QR, singular value, eigenvalues/eigenvectors), matrix differentiation.\n\nII. Stochastic Processes\n\nDifferent types of stochastic processes: Bernoulli processes, Poisson processes, and Markov chains. Bayesian inference: Maximum A Posteriori estimation, Least Mean Square estimation, and Kalman filter. Decision making under uncertainty: Markov Decision Processes and Partially Observable Markov Decision Processes.\n\nIII. Optimisation\n\nLinear programming (simplex algorithm, Karmakar's method), unconstrained optimisation (gradient descent, Newton and quasi-Newton's method, conjugate gradient, Levene-Marguardt), convex optimisation (Lagrange multipliers, KKT conditions), stochastic and heuristic optimisation (random search, simulated annealing, evolutionary algorithms, metaheuristics).\n\nIV. Applications in Engineering\n\nMATLAB as an engineering tool, applications to telecommunications, biomedical engineering, embedded systems, electricity market, robotics, and other fields of engineering as appropriate.\n\nAssessment dates and materials are tentative, depending on how fast the materials can be covered in class. Please follow the class and announcements on Blackboard for the most updated dates.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH2001",
+      "MATH2010",
+      "STAT2201",
+      "STAT2202"
+    ],
+    "restrictions": [
+      "Engineering Postgraduate suite."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Feng Liu",
+      "email": "ENGG7302@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Feng Liu"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The course aims to give students the computational tools and theory needed for postgraduate-level study of engineering. Specifically, the aim is to ensure that the student has excellent skills in MATLAB for numerical implementation of advanced methods in optimisation, stochastic processes and linear algebra.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Analyse electrical engineering problems to determine where computational techniques in matrix algebra, stochastic systems and optimisation theory can be applied."
+    },
+    {
+      "number": "LO2.",
+      "description": "Interpret the theoretical foundations of matrix algebra, stochastic systems and optimisation theory"
+    },
+    {
+      "number": "LO3.",
+      "description": "Design solutions for electrical engineering problems by applying key algorithms in matrix algebra, stochastic systems and optimisation theory"
+    },
+    {
+      "number": "LO4.",
+      "description": "Implement computational techniques in MATLAB with a high level of proficiency"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Assignment 1",
+      "weight": "8%",
+      "due_date": "29/08/2025 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "In semester exam",
+      "weight": "31%",
+      "due_date": "23/09/2025 6:00 pm; The exam will take place outside of scheduled class time from 6:00 pm to 8:00 pm on 23/09/25.",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Tutorial/ Problem Set",
+      "title": "Assignment 2",
+      "weight": "30%",
+      "due_date": "29/10/2025 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "31%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment 1",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "8%",
+      "due_date": "29/08/2025 3:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "The assignments will be designed to develop skills in problem solving based on the theory presented in lectures on the first part (optimisation), often using MATLAB. The tasks in Assignments 1 and 2 have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of the assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission, independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submit the assignment (report and code) via the Blackboard turnitin assignment submission system.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 7-14 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The assignments will be designed to develop skills in problem solving based on the theory presented in lectures on the first part (optimisation), often using MATLAB. The tasks in Assignments 1 and 2 have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of the assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission, independent of AI and MT tools. Read full task description Hide full task description\nThe tasks in Assignments 1 and 2 have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of the assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In semester exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "31%",
+      "due_date": "23/09/2025 6:00 pm The exam will take place outside of scheduled class time from 6:00 pm to 8:00 pm on 23/09/25.",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "This exam will take place outside of scheduled class time (6:00-8:00 pm, 23/09/25) and will cover the Optimisation part. The test will be 90 minutes in duration. This test will be closed-book and may contain multiple-choice, short-answer, and problem-solving questions. Multiple choice assessment is used for less than 50% of the exam. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This exam will take place outside of scheduled class time (6:00-8:00 pm, 23/09/25) and will cover the Optimisation part. The test will be 90 minutes in duration. This test will be closed-book and may contain multiple-choice, short-answer, and problem-solving questions. Multiple choice assessment is used for less than 50% of the exam. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 2",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Tutorial/ Problem Set",
+      "weight": "30%",
+      "due_date": "29/10/2025 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "There are three parts in this assignment. In the first part, the assignment questions will be designed to develop skills in problem-solving based on the theory presented in lectures on Optimisation, often using MATLAB. In the second part, the assignment questions will be designed to develop skills in problem-solving based on the theory presented in lectures on Linear Algebra, often using MATLAB. In the third part, students must prepare a report and presentation. Presentation details will be provided in the specification of Assignment 2. The tasks in Assignments 1 and 2 have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of the assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission, independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submit the assignment (report and code) via the Blackboard turnitin assignment submission system.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 14 days where the earlier time frame applies if no extensions.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nMarked submission with feedback and/or detailed solutions will be released to students within 14-21 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "There are three parts in this assignment. In the first part, the assignment questions will be designed to develop skills in problem-solving based on the theory presented in lectures on Optimisation, often using MATLAB. In the second part, the assignment questions will be designed to develop skills in problem-solving based on the theory presented in lectures on Linear Algebra, often using MATLAB. In the third part, students must prepare a report and presentation. Presentation details will be provided in the specification of Assignment 2. The tasks in Assignments 1 and 2 have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of the assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission, independent of AI and MT tools. Read full task description Hide full task description\nThe tasks in Assignments 1 and 2 have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of the assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "31%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "The final exam covers linear algebra and stochastic processes parts. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The final exam covers linear algebra and stochastic processes parts. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 6 (28 Jul - 07 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Optimisation Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 1 (28 Jul - 03 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Introduction + Introduction to Matlab Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (04 Aug - 02 Nov)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial This course will offer a weekly 2-hour tutorial session from week 2 to week 13. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 7 To Week 11 (08 Sep - 19 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Linear Algebra Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 12 To Week 13 (20 Oct - 02 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Stochastic Processes Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

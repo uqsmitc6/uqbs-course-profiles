@@ -1,0 +1,452 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CONS7008-62385-7560",
+  "scraped_at": "2026-06-04T02:16:57.674775+00:00",
+  "course_code": "CONS7008",
+  "class_code": "62385",
+  "semester_code": "7560",
+  "full_course_code": "CONS7008-62385-7560",
+  "course_title": "Sampling Design & Analysis in Conservation Science",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "The Environment School",
+  "course_description": "The modern conservation professional possesses the ability to collect/interpret data, and to understand statistical analysis as presented in research reports. As part of this course you will develop highly important skills in statistical analysis using the R program. The underlying theory and philosophy is explained without recourse to mathematical symbolism. Illustrations draw from a wide variety of studies in conservation biology. These skills will be reinforced and utilized throughout many of the remaining courses in the Masters of Conservation Biology program\n\nHow many koalas are there in bushland around Brisbane? What are the best ways to plant trees for habitat restoration? How are the distributions of species responding to habitat change? These are real questions of the type that scientists and other professionals often want to answer.\n\nDuring the course we develop the experimental design and statistical skills needed to understand how scientists answer such questions.\n\nThe emphasis is threefold:\n\n(i) understanding how to formulate a \"good\" question: one that is both important and amenable to statistical methods;\n\n(ii) designing studies that will produce data and strong statistical inferences that address questions unambiguously, and;\n\n(iii) analysing data using the R statistical package.\n\nNo prior knowledge of statistical methods is assumed. The emphasis is on hypothesis testing using linear regression techniques. From the basics, it takes the students up into mixed effects modelling and generalized linear modelling. It also covers principal component analysis (PCA), a common multivariate method used in a range of disciplines.",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "CONS6008",
+      "This course is jointly-taught with:",
+      "Another instance of the same course",
+      "The course is taught in person and externally."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr John Dwyer",
+      "email": "j.dwyer2@uq.edu.au",
+      "phone": "+61 7 3365 2863"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr John Dwyer",
+      "email": "j.dwyer2@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Richard Fuller",
+      "email": "r.fuller@uq.edu.au"
+    },
+    {
+      "role": "Demonstrator",
+      "name": "Ms Ella Cathcart-Van Weeren",
+      "email": "e.cathcartvanweeren@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "Our aim is to teach students how to apply quantitative methods when formulating and addressing important questions in conservation science.\n\nWe teach students how to:\n\n1) choose well the question that is the focus of the research effort;\n\n2) plan the data gathering process, with the data analysis in mind, in order that the analysis address that question, and;\n\n3) perform that analysis using the R statistical package.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand the fundamentals of experimental design and statistics"
+    },
+    {
+      "number": "LO2.",
+      "description": "Become proficient at coding in the R programming language"
+    },
+    {
+      "number": "LO3.",
+      "description": "Pose scientific questions that are clear, feasible and lead to important new knowledge or solutions to conservation problems"
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply experimental design and data analysis principles to real-world conservation problems"
+    },
+    {
+      "number": "LO5.",
+      "description": "Work effectively in teams to make informed team decisions and demonstrate interpersonal, leadership and communication skills"
+    },
+    {
+      "number": "LO6.",
+      "description": "Statistically analyse real-world data to directly address questions or hypotheses"
+    },
+    {
+      "number": "LO7.",
+      "description": "Clearly and effectively communicate results of statistical analyses to a range of audiences"
+    },
+    {
+      "number": "LO8.",
+      "description": "Interpret results obtained by other scientists, published in reports or publications, recognising the limitations of the methods they have applied"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Essay/ Critique",
+      "title": "Written project proposal",
+      "weight": "25%",
+      "due_date": "18/09/2025 2:00 pm"
+    },
+    {
+      "category": "Presentation",
+      "title": "Detailed research proposal (recorded group presentation)",
+      "weight": "30%",
+      "due_date": "9/10/2025 2:00 pm",
+      "conditions": [
+        "Hurdle",
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "Statistical analysis using R (10 weekly quizzes worth 1 mark each)",
+      "weight": "10%",
+      "due_date": "1) Getting started with R - 18/08/2025 2:00 pm; 2) Estimation and descriptive statistics - 25/08/2025 2:00 pm; 3) Hypothesis testing - 1/09/2025 2:00 pm; 4) Linear models (regression) - 8/09/2025 2:00 pm; 5) Linear models (ANOVA) - 15/09/2025 2:00 pm; 6) Linear models (Multiple regression) - 22/09/2025 2:00 pm; 7) Mixed-effects models - 29/09/2025 2:00 pm; 8) Generalised linear models - 13/10/2025 2:00 pm; 9) Graphical exploration of data - 20/10/2025 2:00 pm; 10) Principal Component Analysis - 27/10/2025 2:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Final RMarkdown report (Statistical analysis of frog data)",
+      "weight": "35%",
+      "due_date": "13/11/2025 2:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Written project proposal",
+      "mode": "Written",
+      "category": "Essay/ Critique",
+      "weight": "25%",
+      "due_date": "18/09/2025 2:00 pm",
+      "task_description": "Write a project proposal in response to a request from an NGO or government agency (you will have multiple scenarios to choose from). In your proposal, (i) clearly articulate your research questions (15%), (ii) demonstrate and justify a clear plan for how you will design your study (15%), (iii) explain what types of data you would collect (20%; hint: search the internet for details about any existing datasets that might be relevant to your study), (iv) explain in broad terms (not statistical detail) how you would analyse your data (20%), and (v) show how you would draw conclusions from your results (30%). A detailed task description will be provided by Rich Fuller. Use of Artificial Intelligence (AI) and Machine Translation (MT) Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission by Turnitin only by the due date and time. No hard copy or assignment cover sheets are required. Submission via email is not accepted.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional assessment information section below for information relating to extension applications.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (the assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date.\nFor example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Write a project proposal in response to a request from an NGO or government agency (you will have multiple scenarios to choose from). In your proposal, (i) clearly articulate your research questions (15%), (ii) demonstrate and justify a clear plan for how you will design your study (15%), (iii) explain what types of data you would collect (20%; hint: search the internet for details about any existing datasets that might be relevant to your study), (iv) explain in broad terms (not statistical detail) how you would analyse your data (20%), and (v) show how you would draw conclusions from your results (30%). A detailed task description will be provided by Rich Fuller. Use of Artificial Intelligence (AI) and Machine Translation (MT) Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Detailed research proposal (recorded group presentation)",
+      "mode": "Activity/ Performance",
+      "category": "Presentation",
+      "weight": "30%",
+      "due_date": "9/10/2025 2:00 pm",
+      "task_description": "This assignment follows logically from Rich Fuller’s more conceptual proposal task. IN GROUPS OF 3 you will apply your new understanding of the scientific method and key principles of experimental design to a real-world conservation science problem!!! You will be given a realistic scenario. Your job is to present (using MS PowerPoint) a proposed experiment and/or observational survey design to address the questions. Record the presentation IN ONE TAKE using Zoom or similar. A detailed task description and submission details will be provided by John Dwyer. Use of Artificial Intelligence (AI) and Machine Translation (MT) Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional assessment information section below for information relating to extension applications.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (the assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date.\nFor example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assignment follows logically from Rich Fuller’s more conceptual proposal task. IN GROUPS OF 3 you will apply your new understanding of the scientific method and key principles of experimental design to a real-world conservation science problem!!! You will be given a realistic scenario. Your job is to present (using MS PowerPoint) a proposed experiment and/or observational survey design to address the questions. Record the presentation IN ONE TAKE using Zoom or similar. A detailed task description and submission details will be provided by John Dwyer. Use of Artificial Intelligence (AI) and Machine Translation (MT) Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Statistical analysis using R (10 weekly quizzes worth 1 mark each)",
+      "mode": "Activity/ Performance",
+      "category": "Quiz",
+      "weight": "10%",
+      "due_date": "1) Getting started with R - 18/08/2025 2:00 pm 2) Estimation and descriptive statistics - 25/08/2025 2:00 pm 3) Hypothesis testing - 1/09/2025 2:00 pm 4) Linear models (regression) - 8/09/2025 2:00 pm 5) Linear models (ANOVA) - 15/09/2025 2:00 pm 6) Linear models (Multiple regression) - 22/09/2025 2:00 pm 7) Mixed-effects models - 29/09/2025 2:00 pm 8) Generalised linear models - 13/10/2025 2:00 pm 9) Graphical exploration of data - 20/10/2025 2:00 pm 10) Principal Component Analysis - 27/10/2025 2:00 pm",
+      "task_description": "Sum total score obtained from 10 online quizzes: one conducted following each prac session. Use of Artificial Intelligence (AI) and Machine Translation (MT) Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "The Blackboard quiz will open at 8am on the morning of the Friday R prac. It will remain open until 2pm the following Monday. Each quiz will have to be completed by the specified due date and time.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional assessment information section below for information relating to extension applications.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (the assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date.\nFor example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Sum total score obtained from 10 online quizzes: one conducted following each prac session. Use of Artificial Intelligence (AI) and Machine Translation (MT) Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final RMarkdown report (Statistical analysis of frog data)",
+      "mode": "Activity/ Performance",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "35%",
+      "due_date": "13/11/2025 2:00 pm",
+      "task_description": "Final version of statistical analysis report prepared using RMarkdown. A detailed task description will be provided by John Dwyer. Use of Artificial Intelligence (AI) and Machine Translation (MT) Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Electronic submission via Turnitin and email directly to John Dwyer - j.dwyer2@uq.edu.au. No hard copy or assignment cover sheets are required.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional assessment information section below for information relating to extension applications.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (the assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date.\nFor example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Final version of statistical analysis report prepared using RMarkdown. A detailed task description will be provided by John Dwyer. Use of Artificial Intelligence (AI) and Machine Translation (MT) Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 3 (11 Aug - 17 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Course intro & How to ask a good scientific question with John Dwyer and Richard Fuller"
+    },
+    {
+      "learning_period": "Week 3 (11 Aug - 17 Aug)",
+      "activity_type": "Lecture",
+      "topic": "How to install or update R and RStudio (in that order) PRE-RECORDED STATS MODULE (John Dwyer)"
+    },
+    {
+      "learning_period": "Week 3 (11 Aug - 17 Aug)",
+      "activity_type": "IT Computing",
+      "topic": "R Prac 1: Getting started with R, installing and running R, RStudio, basic R commands With John Dwyer and Ella Cathcart-van Weeren"
+    },
+    {
+      "learning_period": "Week 4 (18 Aug - 24 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Introductory case study: Migratory shorebirds of the East Asian-Australasian Flyway with Richard Fuller"
+    },
+    {
+      "learning_period": "Week 4 (18 Aug - 24 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Sampling from populations and the normal distribution PRE-RECORDED STATS MODULE (John Dwyer)"
+    },
+    {
+      "learning_period": "Week 4 (18 Aug - 24 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Introduction to the scientific method John Dwyer"
+    },
+    {
+      "learning_period": "Week 4 (18 Aug - 24 Aug)",
+      "activity_type": "Team Based Learning",
+      "topic": "Understanding distributions John Dwyer"
+    },
+    {
+      "learning_period": "Week 4 (18 Aug - 24 Aug)",
+      "activity_type": "IT Computing",
+      "topic": "R Prac 2: Estimation and descriptive statistics With John Dwyer and Ella Cathcart-van Weeren"
+    },
+    {
+      "learning_period": "Week 5 (25 Aug - 31 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Species distributions I Richard Fuller"
+    },
+    {
+      "learning_period": "Week 5 (25 Aug - 31 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Hypothesis testing PRE-RECORDED STATS MODULE (John Dwyer)"
+    },
+    {
+      "learning_period": "Week 5 (25 Aug - 31 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Control in all types of studies John Dwyer"
+    },
+    {
+      "learning_period": "Week 5 (25 Aug - 31 Aug)",
+      "activity_type": "Team Based Learning",
+      "topic": "Understanding power John Dwyer"
+    },
+    {
+      "learning_period": "Week 5 (25 Aug - 31 Aug)",
+      "activity_type": "IT Computing",
+      "topic": "R Prac 3: Introduction to hypothesis testing With John Dwyer and Ella Cathcart-van Weeren"
+    },
+    {
+      "learning_period": "Week 6 (01 Sep - 07 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Species distributions II Richard Fuller"
+    },
+    {
+      "learning_period": "Week 6 (01 Sep - 07 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Linear models (regression) PRE-RECORDED STATS MODULE (John Dwyer)"
+    },
+    {
+      "learning_period": "Week 6 (01 Sep - 07 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Replication in all types of studies John Dwyer"
+    },
+    {
+      "learning_period": "Week 6 (01 Sep - 07 Sep)",
+      "activity_type": "Team Based Learning",
+      "topic": "Revision & Transforming variables John Dwyer"
+    },
+    {
+      "learning_period": "Week 6 (01 Sep - 07 Sep)",
+      "activity_type": "IT Computing",
+      "topic": "R Prac 4: Linear models (regression) With John Dwyer and Ella Cathcart-van Weeren"
+    },
+    {
+      "learning_period": "Week 7 (08 Sep - 14 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Earth observation Richard Fuller"
+    },
+    {
+      "learning_period": "Week 7 (08 Sep - 14 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Linear models (ANOVA) PRE-RECORDED STATS MODULE (John Dwyer)"
+    },
+    {
+      "learning_period": "Week 7 (08 Sep - 14 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Randomisation in all types of studies John Dwyer"
+    },
+    {
+      "learning_period": "Week 7 (08 Sep - 14 Sep)",
+      "activity_type": "Team Based Learning",
+      "topic": "Understanding interactions between categorical variables John Dwyer"
+    },
+    {
+      "learning_period": "Week 7 (08 Sep - 14 Sep)",
+      "activity_type": "IT Computing",
+      "topic": "R Prac 5: Linear models (ANOVA) With John Dwyer and Ella Cathcart-van Weeren"
+    },
+    {
+      "learning_period": "Week 8 (15 Sep - 21 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Socio-economic data I Richard Fuller"
+    },
+    {
+      "learning_period": "Week 8 (15 Sep - 21 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Linear models (multiple regression) PRE-RECORDED STATS MODULE (John Dwyer)"
+    },
+    {
+      "learning_period": "Week 8 (15 Sep - 21 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Designs to assess context dependence John Dwyer"
+    },
+    {
+      "learning_period": "Week 8 (15 Sep - 21 Sep)",
+      "activity_type": "Team Based Learning",
+      "topic": "Understanding interactions between continuous variables John Dwyer"
+    },
+    {
+      "learning_period": "Week 8 (15 Sep - 21 Sep)",
+      "activity_type": "IT Computing",
+      "topic": "R Prac 6: Linear models (Multiple regression) With John Dwyer and Ella Cathcart-van Weeren"
+    },
+    {
+      "learning_period": "Week 9 (22 Sep - 28 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Socio-economic data II Richard Fuller"
+    },
+    {
+      "learning_period": "Week 9 (22 Sep - 28 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Linear mixed-effects models (LMMs) PRE-RECORDED STATS MODULE (John Dwyer)"
+    },
+    {
+      "learning_period": "Week 9 (22 Sep - 28 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Designs with structure John Dwyer"
+    },
+    {
+      "learning_period": "Week 9 (22 Sep - 28 Sep)",
+      "activity_type": "Team Based Learning",
+      "topic": "Understanding fixed and random effects John Dwyer"
+    },
+    {
+      "learning_period": "Week 9 (22 Sep - 28 Sep)",
+      "activity_type": "IT Computing",
+      "topic": "R Prac 7: Linear mixed-effects models (LMMs) With John Dwyer and Ella Cathcart-van Weeren"
+    },
+    {
+      "learning_period": "Mid Sem break (29 Sep - 05 Oct)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Mid-semester break No classes"
+    },
+    {
+      "learning_period": "Week 10 (06 Oct - 12 Oct)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "KING'S BIRTHDAY NO CLASSES TODAY"
+    },
+    {
+      "learning_period": "Week 10 (06 Oct - 12 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Generalised linear models (GLMs) PRE-RECORDED STATS MODULE (John Dwyer)"
+    },
+    {
+      "learning_period": "Week 10 (06 Oct - 12 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Before-After-Control-Impact Designs John Dwyer"
+    },
+    {
+      "learning_period": "Week 10 (06 Oct - 12 Oct)",
+      "activity_type": "Team Based Learning",
+      "topic": "Understanding link functions"
+    },
+    {
+      "learning_period": "Week 10 (06 Oct - 12 Oct)",
+      "activity_type": "IT Computing",
+      "topic": "R Prac 8: Generalised linear models (GLMs) With John Dwyer and Ella Cathcart-van Weeren"
+    },
+    {
+      "learning_period": "Week 11 (13 Oct - 19 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Making do with poor data Richard Fuller"
+    },
+    {
+      "learning_period": "Week 11 (13 Oct - 19 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Data visualisation PRE-RECORDED STATS MODULE (John Dwyer)"
+    },
+    {
+      "learning_period": "Week 11 (13 Oct - 19 Oct)",
+      "activity_type": "Lecture",
+      "topic": "R Markdown Assignment Info + R Markdown Basics John Dwyer"
+    },
+    {
+      "learning_period": "Week 11 (13 Oct - 19 Oct)",
+      "activity_type": "General contact hours",
+      "topic": "Dwyer's Decision Trees John Dwyer"
+    },
+    {
+      "learning_period": "Week 11 (13 Oct - 19 Oct)",
+      "activity_type": "IT Computing",
+      "topic": "R Prac 9: Graphical exploration of data With John Dwyer and Ella Cathcart-van Weeren"
+    },
+    {
+      "learning_period": "Week 12 (20 Oct - 26 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Other types of conservation analyses Richard Fuller"
+    },
+    {
+      "learning_period": "Week 12 (20 Oct - 26 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Principal Component Analysis PRE-RECORDED STATS MODULE (John Dwyer)"
+    },
+    {
+      "learning_period": "Week 12 (20 Oct - 26 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Common sources of multi-variate data John Dwyer"
+    },
+    {
+      "learning_period": "Week 12 (20 Oct - 26 Oct)",
+      "activity_type": "Team Based Learning",
+      "topic": "Let's generate multi-variate data! John Dwyer"
+    },
+    {
+      "learning_period": "Week 12 (20 Oct - 26 Oct)",
+      "activity_type": "IT Computing",
+      "topic": "R Prac 10: Principal component analysis (PCA) With John Dwyer and Ella Cathcart-van Weeren"
+    },
+    {
+      "learning_period": "Week 13 (27 Oct - 02 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Conservation science and policy Richard Fuller"
+    },
+    {
+      "learning_period": "Week 13 (27 Oct - 02 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Tidy Data John Dwyer"
+    },
+    {
+      "learning_period": "Week 13 (27 Oct - 02 Nov)",
+      "activity_type": "IT Computing",
+      "topic": "Help session on plotting relationships from LMMs and GLMs John Dwyer"
+    },
+    {
+      "learning_period": "Week 13 (27 Oct - 02 Nov)",
+      "activity_type": "IT Computing",
+      "topic": "R Prac 11: Help session for Rmarkdown assessment John Dwyer"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

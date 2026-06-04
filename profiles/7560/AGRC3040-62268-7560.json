@@ -1,0 +1,456 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/AGRC3040-62268-7560",
+  "scraped_at": "2026-06-04T02:10:07.976712+00:00",
+  "course_code": "AGRC3040",
+  "class_code": "62268",
+  "semester_code": "7560",
+  "full_course_code": "AGRC3040-62268-7560",
+  "course_title": "Crop Physiology",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "Gatton",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "Gatton",
+  "coordinating_unit": "Agriculture and Food Sustainability School",
+  "course_description": "Crop physiology provides a framework to allow you to analyse when, where and which crops to grow and how to maximise the productivity for the environmental constraints that exist. We need to understand how crops are limited by any type of stress, and what types of plant traits (characteristics) allow adaptation to that stress through agronomy and breeding. The basis of new scientific tools like crop simulation models and automated phenotyping (using robots and drones) are taught in this course, showing how crop physiology underlies research areas ranging from managing production risk through to modelling the effect of climate change on future production.\n\nThis course will last be offered in external mode in 2025. Please contact the School if you have any questions regarding the external mode.\n\nCrop Physiology is the study of how crops respond to environment and management, and how they utilise the resources of radiation, water and nutrients to develop, grow and produce marketable products. A good understanding of crop physiology is essential to agronomists, breeders and other crop specialists so that they can assess whether crops are being affected by limitations in their environment, and to undertake research on how to improve adaptation and quality of crop products through both agronomy and breeding.\n\nThis course provides skills in the understanding of crop physiology and the principles, methods and instrumentation which are used to understand ‘how crops grow’. Crop physiology provides the link between the basics of plant science (photosynthesis, respiration, water and nutrient uptake and transport) and its application to communities of field plants growing in agronomy and breeding. It extends the concepts of ‘growth analysis’ (crop growth rate etc) to consider how crop growth (phenology, resource capture by leaves and roots, allocation of carbon to grain) can be understood in terms of the dynamic response to environmental drivers. Crops are populations of plants that are managed together in the field, typically as monocultures (although the same principles of crop physiology also help in the study of intercropping). In the first instance, crops are limited by the environmental conditions of radiation, temperature and water supply (influenced by rainfall, soil type). These conditions constrain when and where different crops can be profitably grown. Where available, irrigation and fertiliser can augment production, but how do we best use these amendments?\n\nThis course provides students with the ability to design experiments to monitor and interpret crop growth as influenced by environment, and how to use instrumentation and models to extend that understanding in applications in agronomy careers.\n\nAt the School of Agriculture and Food Sustainability, we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge-sharing and meaningful exploration. We hold students and staff accountable for actively contributing to establishing a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and againstﾠ UQ Policy, ﾠand will not be tolerated. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "companions": [
+      "We recommend completing the following courses at the same time:",
+      "AGRC3002"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Scott Chapman",
+      "email": "scott.chapman@uq.edu.au",
+      "phone": "+61 7 5460 1152",
+      "notes": "Please email me to arrange a consultation."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Scott Chapman",
+      "email": "scott.chapman@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Nicole Robinson",
+      "email": "nicole.robinson@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Javier Fernandez",
+      "email": "j.fernandez@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nCourse timetable details as per MyTimetable. Lectures will be recorded using Echo360, and will be available through the course Blackboard site.\nThis course is co-taught with AGRC7034.\nIf you have any concerns regarding your official timetable or course allocations, or there are no suitable class times available, contact Faculty of Science Timetable\nscience.mytimetable@uq.edu.au\nfor advice.\nIf you have any questions about missing class activities, please contact your course coordinator.",
+  "course_aims": "The aim of this course is to provide a framework of crop physiological understanding which students can apply to research and production applications in agronomy and breeding.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Apply crop physiology frameworks in the design and interpretation of field crop trials"
+    },
+    {
+      "number": "LO2.",
+      "description": "Describe how crop species vary in their physiology and how this impacts on their adaptation and yield as limited by the physical environments of soil, climate (including frost, heat and drought) and nitrogen management"
+    },
+    {
+      "number": "LO3.",
+      "description": "Use a farming systems model (APSIM) to run simulations that vary for agronomic or genetic factors and interpret the results of these simulations"
+    },
+    {
+      "number": "LO4.",
+      "description": "Demonstrate how crop phenology is affected by species, genotype, location and time of sowing and how this information can be used to optimise management for yield and quality"
+    },
+    {
+      "number": "LO5.",
+      "description": "Explain how resource capture (canopy leaf area and root systems) varies with species, genotype and management factors and how these dynamics affect crop growth and yield"
+    },
+    {
+      "number": "LO6.",
+      "description": "Explain how carbon and nitrogen partitioning processes determine crop growth and yield"
+    },
+    {
+      "number": "LO7.",
+      "description": "Select and operate physiological instruments and interpret results affecting crop attributes (leaf area, light interception, canopy temperature, nitrogen status)"
+    },
+    {
+      "number": "LO8.",
+      "description": "Apply a working knowledge of how new instrumentation and analytical methods (satellite imagery, UAVs, static sensors, machine learning, artificial intelligence) can be utilised in crop research and production"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation, Practical/ Demonstration, Quiz",
+      "title": "Sequential Practical Assessment Tasks",
+      "weight": "50% Each tasks contributes its identified % towards the sequential practical assessment task total of 50%.",
+      "due_date": "Assessment 1:; APSIM 1 (5%) 5/08/2025 - 11/08/2025; Assessment 2:; APSIM 2 (5%) 12/08/2025 - 18/08/2025; Assessment 3:; RUE Quiz (5%) 26/08/2025 - 1/09/2025; Assessment 4:; Report 1 (15%) 15/09/2025; Assessment 5: APSIM 3 (5%) 14/10/2025 - 20/10/2025; Assessment 6: Report 2 (15%) 27/10/2025",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Quiz",
+      "title": "Course concepts",
+      "weight": "10%",
+      "due_date": "7/10/2025 - 13/10/2025",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Sequential Practical Assessment Tasks",
+      "mode": "Activity/ Performance, Written",
+      "category": "Paper/ Report/ Annotation, Practical/ Demonstration, Quiz",
+      "weight": "50% Each tasks contributes its identified % towards the sequential practical assessment task total of 50%.",
+      "due_date": "Assessment 1: APSIM 1 (5%) 5/08/2025 - 11/08/2025 Assessment 2: APSIM 2 (5%) 12/08/2025 - 18/08/2025 Assessment 3: RUE Quiz (5%) 26/08/2025 - 1/09/2025 Assessment 4: Report 1 (15%) 15/09/2025 Assessment 5: APSIM 3 (5%) 14/10/2025 - 20/10/2025 Assessment 6: Report 2 (15%) 27/10/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "Practical Assessment tasks will cover multiple formats and assess Learning Objectives 1-7 . Assessment 1 : APSIM 1 Introduction (5%): The exercise tests knowledge gained while learning to use APSIM to understand how models work and how to interpret their outputs (week 2). The exercise opens in blackboard on the day of the Practical and students have until the due date to finish the exercise. This assessment task will assess Learning Objectives 3, 4 & 5. Assessment 2 : APSIM 2 Flowering (5%): The exercise tests knowledge gained while learning to use APSIM to understand how models work and how to interpret their outputs (week 2, 3). The exercise opens in blackboard on the day of the Practical and students have until the due date to finish the exercise. This assessment task will assess Learning Objectives 3, 4 & 5. Assessment 3 : RUE (5%): The exercise tests knowledge gained while learning to measure Radiation Use Efficiency (weeks 4, 5). The exercise opens in blackboard on the day of the Practical and students have until the due date to finish the exercise. This assessment task will assess Learning Objectives 1, 5, 6 & 7. Assessment 4 : Report 1 (15%): This is a report on the measurement and calculation of leaf area, light extinction coefficient and crop growth rate from field trials. It will use existing data from previous experiments. Students will work through online modules to process data from the field measurements from different experiments and will need to be able to calculate leaf area and leaf and stem biomass from field samples. After processing, students will need to summarise data and independently write reports on the results, including tables and graphs of results and a discussion of treatments responses. A detailed task description will be provided on the blackboard site and discussed in the tutorials (in practical session, recorded, zoom). This assessment task will assess Learning Objectives 1, 2, 4 & 7. Assessment 5: APSIM 3 GxExM (5%): The exercise tests knowledge gained while learning to use APSIM to understand how models work and how to interpret their outputs (weeks 2, 3 and 11). The exercise opens in blackboard on the day of the Practical and students have until the due date to finish the exercise. This assessment task will assess Learning Objectives 3, 4, 5 & 6. Assessment 6: Report 2 (15%) : This report is based on field collected data with a focus on yield, grain number and grain size. This scientific report will include topic background, data analysis, results presentation including tables and graphs and a thorough interpretation using the scientific literature. A detailed task description will be provided on the blackboard site and discussed in the tutorials (in practical session, recorded, zoom). This assessment task will assess Learning Objectives 1, 2, 4, 5, 6 & 7. These tasks have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. The use of AI or MT must be referenced appropriately. Please see assessment guidelines in blackboard course site for specific instructions. Read full task description Hide full task description",
+      "submission_guidelines": "Assessment 1, 2, 3 & 5 : Computer-based assessments must be accessed and completed via Blackboard. Assessments must be completed within specified time frame. Assessment 4 & 6: Submission due 2:00pm - Students must submit their assessment task individually, in Blackboard, via the Turnitin link by the submission deadline.\nYou should also retain an electronic copy of every piece of assessment you submit. When marks and feedback are available for this assessment item you will be notified via a blackboard announcement.\nLegal Declaration\nBy submitting your work via this website, you formally declare that (1) it is your own original work, and no part of the work has been copied from any other source or person except where due acknowledgement is made; (2) no part of the work has been previously submitted for assessment in this or any other institution; and (3) you have read the Student Integrity and Misconduct Policy / Document / Policy and Procedure Library and understand its implications.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSubmission of an Extension of Assessment Due Date (EADD) should be completed online through your My Requests tab via my.UQ Dashboard , in accordance with the University's Assessment Procedure (located in the Policies and Procedures section of this course profile) which outlines the requirements for requesting extensions to assessment due dates. Extensions require the correct evidence/documentation to support the requested length of time of the extension.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nFor example, a report worth a maximum of 40 marks, submitted 28 hours late will attract a penalty of 8 marks, calculated as 2 periods of 24 hours x 10% x 40 marks.\nAssessment deadlines are firm and must be met. Late submission without permission or non-submission of assessable work will result in penalties being applied . Late submission of assessment will only be granted for documented medical reasons, accident, bereavement, jury service and other circumstances allowed in the UQ Policies and Procedures Library (PPL).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Practical Assessment tasks will cover multiple formats and assess Learning Objectives 1-7 . Assessment 1 : APSIM 1 Introduction (5%): The exercise tests knowledge gained while learning to use APSIM to understand how models work and how to interpret their outputs (week 2). The exercise opens in blackboard on the day of the Practical and students have until the due date to finish the exercise. This assessment task will assess Learning Objectives 3, 4 & 5. Assessment 2 : APSIM 2 Flowering (5%): The exercise tests knowledge gained while learning to use APSIM to understand how models work and how to interpret their outputs (week 2, 3). The exercise opens in blackboard on the day of the Practical and students have until the due date to finish the exercise. This assessment task will assess Learning Objectives 3, 4 & 5. Assessment 3 : RUE (5%): The exercise tests knowledge gained while learning to measure Radiation Use Efficiency (weeks 4, 5). The exercise opens in blackboard on the day of the Practical and students have until the due date to finish the exercise. This assessment task will assess Learning Objectives 1, 5, 6 & 7. Assessment 4 : Report 1 (15%): This is a report on the measurement and calculation of leaf area, light extinction coefficient and crop growth rate from field trials. It will use existing data from previous experiments. Students will work through online modules to process data from the field measurements from different experiments and will need to be able to calculate leaf area and leaf and stem biomass from field samples. After processing, students will need to summarise data and independently write reports on the results, including tables and graphs of results and a discussion of treatments responses. A detailed task description will be provided on the blackboard site and discussed in the tutorials (in practical session, recorded, zoom). This assessment task will assess Learning Objectives 1, 2, 4 & 7. Assessment 5: APSIM 3 GxExM (5%): The exercise tests knowledge gained while learning to use APSIM to understand how models work and how to interpret their outputs (weeks 2, 3 and 11). The exercise opens in blackboard on the day of the Practical and students have until the due date to finish the exercise. This assessment task will assess Learning Objectives 3, 4, 5 & 6. Assessment 6: Report 2 (15%) : This report is based on field collected data with a focus on yield, grain number and grain size. This scientific report will include topic background, data analysis, results presentation including tables and graphs and a thorough interpretation using the scientific literature. A detailed task description will be provided on the blackboard site and discussed in the tutorials (in practical session, recorded, zoom). This assessment task will assess Learning Objectives 1, 2, 4, 5, 6 & 7. These tasks have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. The use of AI or MT must be referenced appropriately. Please see assessment guidelines in blackboard course site for specific instructions. Read full task description Hide full task description\nThese tasks have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.\nThe use of AI or MT must be referenced appropriately. Please see assessment guidelines in blackboard course site for specific instructions.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Course concepts",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "10%",
+      "due_date": "7/10/2025 - 13/10/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "This online quiz will be comprised of multiple choice questions to evaluate understanding of course concepts presented in weekly lectures. The Quiz opens and closes on the dates and times listed. Once you commence the Quiz you must complete it within the duration as stated in the quiz instructions on the course blackboard site. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. The use of AI or MT must be acknowledged appropriately. Please see assessment guidelines in blackboard course site for specific instructions. Students are responsible for ensuring a stable internet connection while undertaking an online test/quiz. Troubleshooting – if students experience any technical difficulties during the online test/quiz: · Do not close the browser window. · Contact AskUs immediately : support.my.uq.edu.au/app/chat/chat_launch_lib – if the technical issue cannot be resolved, ask for a copy of the chat. · Document the problem – if you receive an error message or similar, take a copy of the message, note the time/date of the problem, which web browser you used, exactly what you were doing at the time and any other relevant information. · Email your course coordinator (copy in AGFS Admin – agriculture@enquire.uq.edu.au ) with your documented evidence and a copy of the AskUs chat. Any delays in this communication being received may impact the advice that could be provided to you. Read full task description Hide full task description",
+      "submission_guidelines": "The online assessment is completed within Blackboard under the appropriate assessment title on your course Blackboard site. You should also retain an electronic copy of every piece of assessment you submit.\nLegal Declaration\nBy submitting your work via this website, you formally declare that (1) it is your own original work, and no part of the work has been copied from any other source or person except where due acknowledgement is made; (2) no part of the work has been previously submitted for assessment in this or any other institution; and (3) you have read the Student Integrity and Misconduct Policy / Document / Policy and Procedure Library and understand its implications.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSubmission of an Extension of Assessment Due Date (EADD) should be completed online through your My Requests tab via my.UQ Dashboard , in accordance with the University's Assessment Procedure (located in the Policies and Procedures section of this course profile) which outlines the requirements for requesting extensions to assessment due dates. Extensions require the correct evidence/documentation to support the requested length of time of the extension.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nFor example, a report worth a maximum of 40 marks, submitted 28 hours late will attract a penalty of 8 marks, calculated as 2 periods of 24 hours x 10% x 40 marks.\nAssessment deadlines are firm and must be met. Late submission without permission or non-submission of assessable work will result in penalties being applied . Late submission of assessment will only be granted for documented medical reasons, accident, bereavement, jury service and other circumstances allowed in the UQ Policies and Procedures Library (PPL).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This online quiz will be comprised of multiple choice questions to evaluate understanding of course concepts presented in weekly lectures. The Quiz opens and closes on the dates and times listed. Once you commence the Quiz you must complete it within the duration as stated in the quiz instructions on the course blackboard site. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. The use of AI or MT must be acknowledged appropriately. Please see assessment guidelines in blackboard course site for specific instructions. Students are responsible for ensuring a stable internet connection while undertaking an online test/quiz. Troubleshooting – if students experience any technical difficulties during the online test/quiz: · Do not close the browser window. · Contact AskUs immediately : support.my.uq.edu.au/app/chat/chat_launch_lib – if the technical issue cannot be resolved, ask for a copy of the chat. · Document the problem – if you receive an error message or similar, take a copy of the message, note the time/date of the problem, which web browser you used, exactly what you were doing at the time and any other relevant information. · Email your course coordinator (copy in AGFS Admin – agriculture@enquire.uq.edu.au ) with your documented evidence and a copy of the AskUs chat. Any delays in this communication being received may impact the advice that could be provided to you. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.\nThe use of AI or MT must be acknowledged appropriately. Please see assessment guidelines in blackboard course site for specific instructions.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L08",
+      "task_description": "Closed book, two-hour exam covering all aspects of the course. The final exam will comprise short and extended answer questions as well as solving problems (calculations around estimation of crop growth). The answers to the exam questions are based on the content in this course, including lectures, readings and practicals. The exam will be an on-campus exam. Have your UQ student ID card available for all your exams. Students enrolled in In Person delivery must attend the exam in-person. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "Closed book, two-hour exam covering all aspects of the course. The final exam will comprise short and extended answer questions as well as solving problems (calculations around estimation of crop growth). The answers to the exam questions are based on the content in this course, including lectures, readings and practicals. The exam will be an on-campus exam. Have your UQ student ID card available for all your exams. Students enrolled in In Person delivery must attend the exam in-person. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website .",
+    "other_course_materials": "If we've listed something under further requirement, you'll need to provide your own. Required Item Description Further Requirement AGRC3040/AGRC7034 Blackboard Site Blackboard is the main method of communication for this course. AGRC3040 Course Profile Provides details of specifications, rationale, aims and structure of the course. It also informs you of the assessment for this course, including weighting and due dates. Personal Protective Equipment (PPE) Collared shirt, long trousers/jeans, enclosed non-permeable footwear, hat and sunscreen. own item needed",
+    "required": "Item Description Further Requirement AGRC3040/AGRC7034 Blackboard Site Blackboard is the main method of communication for this course. AGRC3040 Course Profile Provides details of specifications, rationale, aims and structure of the course. It also informs you of the assessment for this course, including weighting and due dates. Personal Protective Equipment (PPE) Collared shirt, long trousers/jeans, enclosed non-permeable footwear, hat and sunscreen. own item needed"
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (28 Jul - 03 Aug)",
+      "activity_type": "Lecture",
+      "topic": "W1 Introduction Overview - Grain yield - working forwards and backwards Lecturer: Prof Scott Chapman Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 1 (28 Jul - 03 Aug)",
+      "activity_type": "Practical",
+      "topic": "Tutorial and field visit Visit to field, PPE required (sunscreen, hat, closed shoes). Principles of field trials & biomass harvest. Introductory tutorial outlining discussion formats, online agricultural data modules linked to reports and report assessments achievement criteria Lecturer: Dr Nicole Robinson Learning outcomes: L01, L02, L04, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (04 Aug - 10 Aug)",
+      "activity_type": "Lecture",
+      "topic": "W2 Crop models - the library of crop physiology Applications in farming systems, climate change, breeding Lecturer: Prof Scott Chapman Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (04 Aug - 10 Aug)",
+      "activity_type": "Practical",
+      "topic": "Introduction to APSIM Introduction to APSIM. Running a model, weather and soil data inputs. Lecturer: Prof Scott Chapman, Dr Javier Fernandez , Dr Nicole Robinson Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (11 Aug - 17 Aug)",
+      "activity_type": "Lecture",
+      "topic": "W3 Phenology - response to temperature and photoperiod Lecture 1 Phenology - response to temperature, photoperiod. Lecture 2 Importance to adaptation - matching water supply, minimising risk of frost, heat Lecturer: Prof Scott Chapman Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (11 Aug - 17 Aug)",
+      "activity_type": "Practical",
+      "topic": "APSIM2 - response to temperature, photoperiod Phenology examples Lecturers: Prof Scott Chapman, Dr Javier Fernandez, Dr Nicole Robinson Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (18 Aug - 24 Aug)",
+      "activity_type": "Lecture",
+      "topic": "W4 Leaf area and light interception Lecture 1 Leaf area development, basics of light interception Lecture 2 Leaf development models, tillering etc, crop type contrasts. Lecturer: Prof Scott Chapman Learning outcomes: L01, L02, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (18 Aug - 24 Aug)",
+      "activity_type": "Practical",
+      "topic": "Field visit Leaf area/interception practical. Measurement of light interception in field and photosynthesis. Lecturer: Dr Nicole Robinson Learning outcomes: L01, L07",
+      "learning_outcomes": [
+        "L01",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (25 Aug - 31 Aug)",
+      "activity_type": "Lecture",
+      "topic": "W5 Biomass accumulation -Radiation and Temperature Lecture 1 Radiation and temperature limited biomass accumulation, canopy structure and RUE Lecture 2 Scaling photosynthesis and RUE Lecturer: Prof Scott Chapman Learning outcomes: L01, L02, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (25 Aug - 31 Aug)",
+      "activity_type": "Practical",
+      "topic": "Radiation use efficiency Tutorial on measurement of RUE Prof Scott Chapman, Dr Javier Fernandez, Dr Nicole Robinson Learning outcomes: L01, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (01 Sep - 07 Sep)",
+      "activity_type": "Lecture",
+      "topic": "W6 The root system Lecture 1: The root system - structure and function in water and nutrient utilisation Lecture 2: Investigating variation in root systems Lecturer: Prof Scott Chapman Learning outcomes: L01, L02, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (01 Sep - 07 Sep)",
+      "activity_type": "Practical",
+      "topic": "Report 1 data analysis workshop Online module 1- agricultural data and spreadsheet manipulation Approaches to data analysis and visualisation Lecturers: Dr Javier Fernandez, Dr Nicole Robinson Learning outcomes: L01, L02, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (08 Sep - 14 Sep)",
+      "activity_type": "Lecture",
+      "topic": "W7 Biomass accumulation Lecture 1: Transpiration limitations on biomass accumulation Lecture 2: Influences of VPD and soil water. Lecturer: Prof Scott Chapman Learning outcomes: L01, L02, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (08 Sep - 14 Sep)",
+      "activity_type": "Practical",
+      "topic": "Field visit Collecting quadrat samples & phenology staging Instrument readings; SPAD, Greenseeker, UAV Lecturers: Prof Scott Chapman, Dr Javier Fernandez, Dr Nicole Robinson Learning outcomes: L01, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (15 Sep - 21 Sep)",
+      "activity_type": "Lecture",
+      "topic": "W8 Assimilate partitioning to yield Lecture 1: Assimilate partitioning Lecture 2: Grain set and grain filling - dynamics and influences Lecturer: Prof Scott Chapman Learning outcomes: L01, L02, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (15 Sep - 21 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Course checkin - review session Lecturer: Dr Nicole Robinson Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (22 Sep - 28 Sep)",
+      "activity_type": "Lecture",
+      "topic": "W9 Nitrogen uptake and dynamics Lecture 1: N Dr Javier Fernandez, NUE, N dilution and nitrogen nutrition index Lecture 2: N dynamics - Specific leaf nitrogen Lecturer: Dr Javier Fernandez Learning outcomes: L01, L02, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (22 Sep - 28 Sep)",
+      "activity_type": "Practical",
+      "topic": "Report 2 data analysis workshop Module 2 Data analysis Lecturers: Dr Javier Fernandez, Dr Nicole Robinson Learning outcomes: L01, L02, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (06 Oct - 12 Oct)",
+      "activity_type": "Lecture",
+      "topic": "W10 Phenotyping Lecturers: Prof Scott Chapman, Dr Dan Smith Learning outcomes: L01, L02, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (06 Oct - 12 Oct)",
+      "activity_type": "Practical",
+      "topic": "Field visit Lecturers: Prof Scott Chapman, Dr Javier Fernandez, Dr Nicole Robinson, Dr Dan Smith Learning outcomes: L07, L08",
+      "learning_outcomes": [
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (13 Oct - 19 Oct)",
+      "activity_type": "Lecture",
+      "topic": "W11 Crop design and modelling GxExM Crop Design - Modelling GxExM and understanding historical changes in yield and anticipating climate change Lecturer: Prof Scott Chapman Learning outcomes: L01, L03, L06",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (13 Oct - 19 Oct)",
+      "activity_type": "Practical",
+      "topic": "APSIM3 practical APSIM 3 practical- GxExM Lecturers: Prof Scott Chapman, Dr Javier Fernandez, Dr Nicole Robinson Learning outcomes: L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (20 Oct - 26 Oct)",
+      "activity_type": "Lecture",
+      "topic": "W12 New horizons in crop physiology Lecture 1: New horizons in crop physiology - Lecture 2: Phenotyping and instruments to measure crop growth; UAVs, machine learning and AI Lecturer: Prof Scott Chapman Learning outcomes: L01, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (27 Oct - 02 Nov)",
+      "activity_type": "Lecture",
+      "topic": "W13 Revision and discussion Revision Lecturers: Prof Scott Chapman, Dr Javier Fernandez, Dr Nicole Robinson Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (27 Oct - 02 Nov)",
+      "activity_type": "Tutorial",
+      "topic": "Exam revision Lecturers: Prof Scott Chapman, Dr Javier Fernandez, Dr Nicole Robinson Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

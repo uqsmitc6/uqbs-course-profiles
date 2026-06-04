@@ -1,0 +1,158 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/STAT2201-62157-7560",
+  "scraped_at": "2026-06-04T02:42:26.356847+00:00",
+  "course_code": "STAT2201",
+  "class_code": "62157",
+  "semester_code": "7560",
+  "full_course_code": "STAT2201-62157-7560",
+  "course_title": "Analysis of Engineering & Scientific Data",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "1",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Statistical models & analyses required for analysing engineering & scientific data, including sampling methods, exploratory data analysis, standard probability models, estimation, hypothesis tests, regression, experimental design.\n\nThe course introduces statistical analyses of engineering data and covers exploratory data analyses, probability modelling with emphasis on the normal distribution,ﾠinterval estimation, tests of hypotheses, basic principles of experimental design, and linear regression modelling. All data analysis and visualisation is carried out in the Python programming language.ﾠ\n\nThe models and methods introduced in STAT2201 are used in many areas of engineering. Wherever uncertainty in data arises, there is a need to develop models that incorporate that uncertainty, methods to fit and assess these models, and means of communicating the results.\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against UQ Policy, and will not be tolerated. We have developed a suite of resources to assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1050"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ECON1310",
+      "ENVM2000",
+      "STAT1201",
+      "STAT1301",
+      "STAT2203"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Ross McVinish",
+      "email": "r.mcvinish@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Ross McVinish",
+      "email": "r.mcvinish@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThis course comprises three one-hour weekly lectures for 7 weeks (Weeks 7 - 13) and a weekly one-hour applied class for 6 weeks (Weeks 8 - 13). All classes will be conducted on campus. Consult your personal timetable for times and locations. Students are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness). Important: if you are ill, then do not attend any classes in person. Alternative arrangements can be organised – consult Blackboard for details.",
+  "course_aims": "The aim of STAT2201 is to provide an understanding of the nature of engineering data and the subsequent need for statistical analysis. You will learn about the different types of data and how each can be visualized and summarized, and how you can make conclusions and predictions from the statistical analysis. You will also see that these statistical tools are based on simple mathematical ideas and associated assumptions. The importance of verifying where possible the assumptions that accompany data analysis will be demonstrated.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Identify appropriate methods for statistical analyses from a descriptive scenario."
+    },
+    {
+      "number": "LO2.",
+      "description": "Demonstrate a foundational knowledge of statistical methods by carrying out simple statistical procedures by hand."
+    },
+    {
+      "number": "LO3.",
+      "description": "Use statistical software appropriately and confidently for exploratory data analysis and to make relevant statistical conclusions."
+    },
+    {
+      "number": "LO4.",
+      "description": "Effectively and appropriately communicate insights from data as evidence within an engineering context."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Online Quizzes",
+      "weight": "15%",
+      "due_date": "15/09/2025 - 19/09/2025; 22/09/2025 - 26/09/2025; 7/10/2025 - 10/10/2025; 13/10/2025 - 17/10/2025; 20/10/2025 - 24/10/2025; 27/10/2025 - 31/10/2025; Individual questions are due by 4:00pm Fridays. Collaborative questions are due by the end of your allocated applied class.",
+      "conditions": [
+        "In-person",
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Problem Set",
+      "weight": "25%",
+      "due_date": "27/10/2025 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester Exam",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Online Quizzes",
+      "mode": "Activity/ Performance, Written",
+      "category": "Quiz",
+      "weight": "15%",
+      "due_date": "15/09/2025 - 19/09/2025 22/09/2025 - 26/09/2025 7/10/2025 - 10/10/2025 13/10/2025 - 17/10/2025 20/10/2025 - 24/10/2025 27/10/2025 - 31/10/2025 Individual questions are due by 4:00pm Fridays. Collaborative questions are due by the end of your allocated applied class.",
+      "task_description": "In each week (Weeks 8 - 13) there will be a quiz to complete online. Each quiz will involve 10 questions: Five questions are individual questions. These questions will open at 8:00am on Monday and close at 4:00pm on Friday. Most will involve analysing data using Python and completing these will be an important opportunity to learn the details of using Python for data analysis. You are encouraged to discuss these questions using the Ed Discussion Board. Five questions are collaborative questions. These questions will be completed during your allocated applied classes. Your best five quiz marks will each count 3% each towards your overall grade (for a maximum of 15%). Read full task description Hide full task description",
+      "submission_guidelines": "Complete this assessment item through the link in Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nIf there are extenuating circumstances for why you have missed your Applied Class and cannot attend another one in the same week then please email stat2201@uq.edu.au. You will need to do this within 5 calendar days of your Applied Class and include evidence (e.g., medical certificate).\nAn approved extension will be applied to the individual questions but taken as an exemption from the collaborative questions in the Applied Class. The mark will be determined by the percentage of correctly answered individual questions for that quiz.\nSee ADDITIONAL ASSESSMENT INFORMATION for further extension/deferral information relating to this assessment item.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nYou will only receive marks for Online Quiz questions completed by the submission deadline, unless an extension has been approved. If you are unable to complete the collaborative quiz questions in your Applied Class, then you are welcome to attend a different Applied Class session during the week instead (space permitting).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "In-person",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Problem Set",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "25%",
+      "due_date": "27/10/2025 4:00 pm",
+      "task_description": "Problem Set involving problem solving, analysis, visualisation and interpretation. Read full task description Hide full task description",
+      "submission_guidelines": "Submit this assessment item through the link in Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for the Assignment will be released 8 days after the Problem Set is due and as such, submission after this date will not be possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for the Assignment a penalty of 10% of the maximum possible mark allocated will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24 hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "End of Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "other_conditions": "Secure. See the conditions definitions",
+      "task_description": "The final examination in this course will be held during the end-of-semester examination period. The examination will cover all the material in the course. The exam paper will come with a formula sheet and statistical tables. You will need an approved calculator for use in the exam. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 60 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten notes , single sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "NA\nDeferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 7 To Week 13 (08 Sep - 02 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Each week we aim to cover one unit from the course notes. The units are (1) Visualise, summarise, and organise data, (2) Random variables and expectations, (3) Distribution of the sample mean, (4) Inference for a single mean, (5) Comparing two means, (6) Linear regression models."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 8 To Week 13 (15 Sep - 02 Nov)",
+      "activity_type": "Applied Class",
+      "topic": "Applied Classes There is one Applied Class per week for Weeks 8 - 13. During the Applied Class students will complete the collaborative component of that week's Online Quiz. The activities in the Applied Class may include collecting data, visualising and analysing data using Python, and communicating results."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

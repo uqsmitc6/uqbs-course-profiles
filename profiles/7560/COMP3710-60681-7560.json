@@ -1,0 +1,245 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMP3710-60681-7560",
+  "scraped_at": "2026-06-04T02:15:56.759915+00:00",
+  "course_code": "COMP3710",
+  "class_code": "60681",
+  "semester_code": "7560",
+  "full_course_code": "COMP3710-60681-7560",
+  "course_title": "Pattern Recognition and Analysis",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Understanding patterns in our environment is an important cognitive ability. The development of recognition and automated algorithms that are able to process copious amounts data without (or with limited) human intervention is critical in replicating this ability in machines. This course will cover the fundamentals of creating computational algorithms and models that are able to recognise and/or analyse patterns within data of various forms. Topics and algorithms will include fractal geometry, classification methods such as random forests, recognition approaches using deep learning and models of the human vision system. Python, the open-source paradigm and state-of-the-art packages like Tensorflow, JAX and PyTorch will be used as a mechanism for students to study patterns in nature and solve problems from various real-worlds data sources, such images, social media and biomedical signals.\n\nThe course will be taught via three main modules:\n\nIn general, students will have opportunities to implement and create pattern recognition and analysis solutions using the algorithms discussed on actual research data from various fields. This will allow them to specialise into areas of image/signal analysis and data science. Guest lecturers and leaders in some of these areas will present some of their work to highlight the societal impact of these algorithms.\n\nChanges since last offering: Minor improvements to teaching materials have been made since the last offering.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1051",
+      "MATH1071",
+      "CSSE1001",
+      "ENGG1001",
+      "We recommend completing the following courses before enrolling in this one:",
+      "MATH1052",
+      "MATH1072",
+      "MATH1061",
+      "MATH1081",
+      "COMP3506"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Shakes Chandra",
+      "email": "COMP3710@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Shakes Chandra"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Wei Dai"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLectures will also be streamed via ZOOM, recorded and held live on campus simultaneously. Course notes for some modules of the course will also be provided.",
+  "course_aims": "The course will provide students with practical experiences in:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Demonstrate their mathematical theory of patterns such as symmetry groups and fractal geometry"
+    },
+    {
+      "number": "LO2.",
+      "description": "Extract and interpret patterns that exist in data and for solving recognition problems"
+    },
+    {
+      "number": "LO3.",
+      "description": "Make use of different transform domains and dimensionality reduction in identifying patterns"
+    },
+    {
+      "number": "LO4.",
+      "description": "Distinguishing when to apply and make use of decision trees to various large datasets"
+    },
+    {
+      "number": "LO5.",
+      "description": "Distinguishing when to apply and make use of convolutional neural networks and/or transformers"
+    },
+    {
+      "number": "LO6.",
+      "description": "Demonstrate the ability to develop algorithms, while applying appropriate software engineering principles"
+    },
+    {
+      "number": "LO7.",
+      "description": "Develop heterogeneous computing solutions using industry grade software packages such as Tensorflow, JAX or PyTorch"
+    },
+    {
+      "number": "LO8.",
+      "description": "Effectively communicate (using oral and written communication and appropriate figures and visualisations) the purpose, operation, technical functionality and research directions related to a pattern recognition algorithm"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Practical/ Demonstration",
+      "title": "Fractals",
+      "weight": "10%",
+      "due_date": "11/08/2025 - 22/08/2025; This course uses Demos that are allocated 3–5-week blocks of scheduled practical sessions in order to complete them with 2 of those weeks allocated to getting marked. Marking is to be done before the end of the final block in the scheduled practical times where possible.",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Practical/ Demonstration",
+      "title": "Pattern Recognition",
+      "weight": "20%",
+      "due_date": "8/09/2025 - 19/09/2025; This course uses Demos that are allocated 3–5-week blocks of scheduled practical sessions in order to complete them with 2 of those weeks allocated to getting marked. Marking is to be done before the end of the final block in the scheduled practical times where possible.",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "title": "Pattern Analysis Project",
+      "weight": "40%",
+      "due_date": "31/10/2025 4:00 pm; Assessment during scheduled lab session + Submission items; This course uses allocated 5-week block of scheduled practical sessions in order to complete the project.",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "30%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Fractals",
+      "mode": "Activity/ Performance, Oral",
+      "category": "Computer Code, Practical/ Demonstration",
+      "weight": "10%",
+      "due_date": "11/08/2025 - 22/08/2025 This course uses Demos that are allocated 3–5-week blocks of scheduled practical sessions in order to complete them with 2 of those weeks allocated to getting marked. Marking is to be done before the end of the final block in the scheduled practical times where possible.",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02",
+      "task_description": "Implement a fractal using a deep learning framework such as Tensorflow, JAX or PyTorch. Practical sessions in the course are dedicated to run within this period in order for you to complete the tasks for the Demonstration and they are designed to be completed within these allocated sessions. Students will be asked to complete a Git Introduction Short course and show the relevant course as completed as part of this demo. Use of AI Tools (Permitted use) Tasks have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Lab sheet requirements are demonstrated to the teaching team during your allocated practical session.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nAs time is provided within the practical class to complete all work, no extensions is permitted. If there are exceptional circumstances an exemption may be approved and may involve submitting/discussing your work as it stands or involve attending a rescheduled class one week after your original allocated class. Exemptions must be requested as an extension with a note specifying exemption via my.UQ .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nAs time is provided within the practical class to complete all work, no late submissions will be accepted and a 100% late penalty applies.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Implement a fractal using a deep learning framework such as Tensorflow, JAX or PyTorch. Practical sessions in the course are dedicated to run within this period in order for you to complete the tasks for the Demonstration and they are designed to be completed within these allocated sessions. Students will be asked to complete a Git Introduction Short course and show the relevant course as completed as part of this demo. Use of AI Tools (Permitted use) Tasks have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nUse of AI Tools (Permitted use)\nTasks have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Pattern Recognition",
+      "mode": "Activity/ Performance, Oral",
+      "category": "Computer Code, Practical/ Demonstration",
+      "weight": "20%",
+      "due_date": "8/09/2025 - 19/09/2025 This course uses Demos that are allocated 3–5-week blocks of scheduled practical sessions in order to complete them with 2 of those weeks allocated to getting marked. Marking is to be done before the end of the final block in the scheduled practical times where possible.",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L02, L03, L04, L05",
+      "task_description": "Solve a recognition problem for a dataset of your choice. Construct the algorithm, curate the code and document your findings. Practical sessions in the course are dedicated to run within this period in order for you to complete the tasks for the Demonstration and they are designed to be completed within these allocated sessions. Students will be asked to complete a Git Advanced Short course and show the relevant course as completed as part of this demo. Use of AI Tools (Permitted use) Tasks have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Lab sheet requirements are demonstrated to the teaching team during your allocated practical session.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nAs time is provided within the practical class to complete all work, no extension is permitted. If there are exceptional circumstances an exemption may be approved and may involve submitting/discussing your work as it stands or involve attending a rescheduled class one week after your original allocated class. Exemptions must be requested as an extension with a note specifying exemption via my.UQ .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nAs time is provided within the practical class to complete all work, no late submissions will be accepted and a 100% late penalty applies.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Solve a recognition problem for a dataset of your choice. Construct the algorithm, curate the code and document your findings. Practical sessions in the course are dedicated to run within this period in order for you to complete the tasks for the Demonstration and they are designed to be completed within these allocated sessions. Students will be asked to complete a Git Advanced Short course and show the relevant course as completed as part of this demo. Use of AI Tools (Permitted use) Tasks have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nUse of AI Tools (Permitted use)\nTasks have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Pattern Analysis Project",
+      "mode": "Activity/ Performance, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "weight": "40%",
+      "due_date": "31/10/2025 4:00 pm Assessment during scheduled lab session + Submission items This course uses allocated 5-week block of scheduled practical sessions in order to complete the project.",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L02, L03, L06, L07, L08",
+      "task_description": "Implement an image processing, computer vision or pattern recognition solution in Tensorflow, JAX or PyTorch. Practical sessions in the course are dedicated to run from weeks 9-12 (inclusive) in order for you to complete the tasks for the Demonstration, but may require additional time outside class time for you to complete your report. You are required to submit Git pull request to the relevant open-source project by the due date. Use of AI Tools (Permitted use) Tasks have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "This will be a Turn-it-in submission and a pull request to the relevant open source project.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nAs time is provided within the practical class to complete all work, no extensions are permitted. If there are exceptional circumstances an exemption may be approved and may involve submitting/discussing your work as it stands or at a later time approved and agreed upon with the course coordinator. Exemptions must be requested as an extension with a note specifying exemption via my.UQ .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nAs time is provided within the practical class to complete all work, no late submissions will be accepted and a 100% late penalty applies.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Implement an image processing, computer vision or pattern recognition solution in Tensorflow, JAX or PyTorch. Practical sessions in the course are dedicated to run from weeks 9-12 (inclusive) in order for you to complete the tasks for the Demonstration, but may require additional time outside class time for you to complete your report. You are required to submit Git pull request to the relevant open-source project by the due date. Use of AI Tools (Permitted use) Tasks have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nUse of AI Tools (Permitted use)\nTasks have been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "30%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "A 120-minute examination will be held during the examination period. The exam will cover content from the whole semester. Note that exam hurdles will apply for higher grades. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Patterns and Symmetry Lecture series on how symmetry and self-similarity leads to the patterns we observe in nature, such as fractals and the known particles of the universe. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Applied Class",
+      "topic": "Theoretical Problems Understanding the theoretical aspects of pattern recognition."
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Practical",
+      "topic": "Practicals Implement algorithms in Tensorflow/JAX/PyTorch."
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Traditional Pattern Recognition Lecture series on how patterns are quantified, measured and identified using features, similarity, information theory, principles of transform domains and decision trees. Learning outcomes: L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Deep Learning Lecture series on how the idea of receptive fields, convolutions and attention are used to learn appropriate multi-scale, self-adaptive features via neural networks. Learning outcomes: L05, L06, L07",
+      "learning_outcomes": [
+        "L05",
+        "L06",
+        "L07"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

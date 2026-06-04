@@ -1,0 +1,212 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BIOE6403-60637-7560",
+  "scraped_at": "2026-06-04T02:12:26.144981+00:00",
+  "course_code": "BIOE6403",
+  "class_code": "60637",
+  "semester_code": "7560",
+  "full_course_code": "BIOE6403-60637-7560",
+  "course_title": "Biomedical Instrumentation",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Measurement of biological signals from transducers, signal conditioning, display and analysis. Practical work based on design, construction and validation of simple clinical measurement devices.\n\nBiomedical Instrumentation introduces the theory and practice of common electronic circuits employed in medical devices. Origins of signals and fundamentals of selected sensing and actuation technologies are presented. In addition, the design of transducer circuits and signal conditioning that allow safe, accurate recording and analysis of these signals is elaborated. Practicals will augment the theory presented in lectures with working monitoring devices to be constructed. This course is taught by a new teaching team this semester.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ELEC2400",
+      "ELEC3400",
+      "We recommend completing the following courses before enrolling in this one:",
+      "BIOE1001"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ELEC3401",
+      "ELEC4401",
+      "ELEC4403",
+      "ELEC7403",
+      "ELEC6403"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Jari Torniainen",
+      "email": "BIOE6403@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Jari Torniainen"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The course aims to deliver an understanding of the basics of biomedical instrumentation and the origins and significance of biosignals. It will present principles of recording various biosignals (such asﾠelectroencephalographyﾠandﾠblood pressure)ﾠas well as common transducer designs, signal conditioning, interfacing, and actuation techniques that are commonly applied in medical devices. Students will also acquire basic skills in the design of appropriate circuits and systems for both diagnostic and therapeutical applications.ﾠAn understanding of macro and microshock risks and the means by which these risks are minimised will also be presented.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Describe the origins of biopotentials and physiological parameters for the purposes of diagnostic and therapeutic device design."
+    },
+    {
+      "number": "LO2.",
+      "description": "Design and construct conditioning circuits for medical devices, particularly concerning human cardiopulmonary measurements."
+    },
+    {
+      "number": "LO3.",
+      "description": "Apply appropriate means of mathematical analysis to biosignals for research and diagnostic purposes."
+    },
+    {
+      "number": "LO4.",
+      "description": "Identify sources of noise and signals artifacts in instrumentation systems and execute corrective techniques in both hardware and software."
+    },
+    {
+      "number": "LO5.",
+      "description": "Appraise micro and macro shock risks in electromedical equipment and be able to design equipment compliant with relevant international electromedical safety standards."
+    },
+    {
+      "number": "LO6.",
+      "description": "Identify appropriate sensor and actuation solutions for a given measurement task, design an electronic front-end and signal processing chain."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Initial Quiz",
+      "weight": "5%",
+      "due_date": "29/08/2025 4:00 pm; The online quiz will open at 4pm on 27/08/2025 and close at 4pm on 29/08/2025. Further details provided in the course Blackboard site."
+    },
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Instrumentation amplifier & filter",
+      "weight": "15%",
+      "due_date": "Week 8 Mon - Week 8 Fri; Assessment during scheduled lab session or during extra assessment sessions on Week 8. Students will sign up for a demonstration slot during week 8. This may be outside of scheduled class time.",
+      "conditions": [
+        "Identity Verified"
+      ]
+    },
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Digitisation and feature detection",
+      "weight": "25%",
+      "due_date": "Week 13 Mon - Week 13 Fri; Assessment during scheduled lab session or during extra assessment sessions on Week 13. Students will sign up for a demonstration slot during Week 13. This may be outside of scheduled class time.",
+      "conditions": [
+        "Identity Verified"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Initial Quiz",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "5%",
+      "due_date": "29/08/2025 4:00 pm The online quiz will open at 4pm on 27/08/2025 and close at 4pm on 29/08/2025. Further details provided in the course Blackboard site.",
+      "learning_outcomes_assessed": "L01, L03, L04, L05",
+      "task_description": "An online quiz will be conducted as a piece of assessment on Blackboard. It will consist of 20 multiple choice questions. Once started, you will have 60 minutes to complete the quiz. After this time, the test will be automatically submitted. This is an open book quiz. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nBecause this assessment takes place in a scheduled class, and the results/answers are released soon after the due date, a 100% penalty will be applied to late submission.\nThis has been approved by the Associate Dean (Academic).",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "An online quiz will be conducted as a piece of assessment on Blackboard. It will consist of 20 multiple choice questions. Once started, you will have 60 minutes to complete the quiz. After this time, the test will be automatically submitted. This is an open book quiz. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Instrumentation amplifier & filter",
+      "mode": "Activity/ Performance, Oral, Product/ Artefact/ Multimedia, Written",
+      "category": "Practical/ Demonstration",
+      "weight": "15%",
+      "due_date": "Week 8 Mon - Week 8 Fri Assessment during scheduled lab session or during extra assessment sessions on Week 8. Students will sign up for a demonstration slot during week 8. This may be outside of scheduled class time.",
+      "learning_outcomes_assessed": "L01, L02, L03, L05",
+      "task_description": "A demonstration of a constructed bridge circuit, instrumentation amplifier and analog filter will be assessed in week 8. Students are required to document their practical work in a lab book, and this will be submitted at the end of the scheduled demonstration. Code or other electronic media not practical to be included in a lab book will be submitted electronically via the course blackboard site prior to the commencement of the scheduled demonstration. The assessment task sheet will provide further details about the nature of documentation required. Lab work will be conducted by individual students. Submitted lab reports are an individual piece of work unless circumstances require shared or provided measures and data. Any analysis, discussion and conclusion are to be individual work. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within 14 days.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "ai_statement": "A demonstration of a constructed bridge circuit, instrumentation amplifier and analog filter will be assessed in week 8. Students are required to document their practical work in a lab book, and this will be submitted at the end of the scheduled demonstration. Code or other electronic media not practical to be included in a lab book will be submitted electronically via the course blackboard site prior to the commencement of the scheduled demonstration. The assessment task sheet will provide further details about the nature of documentation required. Lab work will be conducted by individual students. Submitted lab reports are an individual piece of work unless circumstances require shared or provided measures and data. Any analysis, discussion and conclusion are to be individual work. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.",
+      "special_indicators": [
+        "Identity Verified"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Digitisation and feature detection",
+      "mode": "Activity/ Performance, Oral, Product/ Artefact/ Multimedia, Written",
+      "category": "Practical/ Demonstration",
+      "weight": "25%",
+      "due_date": "Week 13 Mon - Week 13 Fri Assessment during scheduled lab session or during extra assessment sessions on Week 13. Students will sign up for a demonstration slot during Week 13. This may be outside of scheduled class time.",
+      "learning_outcomes_assessed": "L02, L03, L04, L06",
+      "task_description": "Implementation of an R wave detector is to be performed on a microcontroller-based development platform. Self-generated ECG is to be used to demonstrate the performance of the detection scheme which will be modelled on the algorithms presented in lectures. This lab project builds on the foundations learned in the earlier lab project. Details will be described in the relevant lab documentation. Students are required to document their practical work in a lab book, and this will be submitted at the end of the scheduled demonstration. Code or other electronic media not practical to be included in a lab book will be submitted electronically via the course blackboard site prior to the commencement of the scheduled demonstration. The assessment task sheet will provide further details about the nature of documentation required. Lab work will be conducted by individual students. Submitted lab reports are an individual piece of work unless circumstances require shared or provided measures and data. Any analysis, discussion and conclusion are to be individual work. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within 14 days.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "ai_statement": "Implementation of an R wave detector is to be performed on a microcontroller-based development platform. Self-generated ECG is to be used to demonstrate the performance of the detection scheme which will be modelled on the algorithms presented in lectures. This lab project builds on the foundations learned in the earlier lab project. Details will be described in the relevant lab documentation. Students are required to document their practical work in a lab book, and this will be submitted at the end of the scheduled demonstration. Code or other electronic media not practical to be included in a lab book will be submitted electronically via the course blackboard site prior to the commencement of the scheduled demonstration. The assessment task sheet will provide further details about the nature of documentation required. Lab work will be conducted by individual students. Submitted lab reports are an individual piece of work unless circumstances require shared or provided measures and data. Any analysis, discussion and conclusion are to be individual work. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.",
+      "special_indicators": [
+        "Identity Verified"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "55%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "The examination will consist of twenty (20) multiple choice questions and four (4) short answer/calculation type questions. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The examination will consist of twenty (20) multiple choice questions and four (4) short answer/calculation type questions. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (28 Jul - 02 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Presentation of background theory and discussion of applied problems in biomedical instrumentation. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 3 To Week 13 (11 Aug - 02 Nov)",
+      "activity_type": "Practical",
+      "topic": "Practical Classes Lab classes for construction and testing of instrumentation devices. Learning outcomes: L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

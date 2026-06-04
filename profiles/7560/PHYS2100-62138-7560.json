@@ -1,0 +1,193 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/PHYS2100-62138-7560",
+  "scraped_at": "2026-06-04T02:36:13.173146+00:00",
+  "course_code": "PHYS2100",
+  "class_code": "62138",
+  "semester_code": "7560",
+  "full_course_code": "PHYS2100-62138-7560",
+  "course_title": "Dynamics & Relativity",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Introduction to Lagrangian & Hamiltonian mechanics including elementary treatment of chaos in Hamiltonian systems. Calculus of variations, constraints, generalised coordinates, geometrical methods. Introduction to Special Relativity including relativistic particle mechanics.\n\nWhat is exciting about classical mechanics?ﾠ Wasn't it all done years ago by Newton, and encapsulated in three laws?ﾠ No!ﾠ Classical mechanics is surprisingly rich, encompassing such behaviour as chaos, nonlinear resonances and transitions to chaos.ﾠ The principle of stationary action leads to the powerful formulation of Lagrangian and Hamiltonian mechanics, which highlights the role of symmetry and conservation laws.ﾠ Much of this formulation survives into quantum mechanics.\n\nChaotic dynamics had been known to exist for a long time, but it was not until the 1970's and 1980's that its importance in a wide variety of applications began to be appreciated.ﾠ In reality, chaos is ubiquitous.ﾠ This course introduces deterministic chaos in nonlinear classical systems, where the dynamics is deterministic yet inherently unpredictable.\n\nFinally, this course provides further development of the subject of special relativity that was introduced at first year, providing an introduction to four vector notation, relativistic particle mechanics and elementary space-time physics.\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against UQ Policy, and will not be tolerated. We have developed a suite of resources to assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1052",
+      "MATH1072",
+      "PHYS1001",
+      "PHYS1002"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "PHYS2101"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Timothy Ralph",
+      "email": "ralph@physics.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Timothy Ralph",
+      "email": "ralph@physics.uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Mr Michele Galli",
+      "email": "m.galli@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Timo Nieminen",
+      "email": "timo@physics.uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLectures will be delivered in person only.\nAll classes will be conducted on campus. Consult your personal timetable for times and locations. Students are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness).\nImportant: if you are ill, then do not attend any classes in person. Alternative arrangements can be organised – consult Blackboard for details.",
+  "course_aims": "This course aims to introduce the student to the calculus of variations and the Lagrangian and Hamiltonian formulations of classical mechanics, and to be able to solve problems using these techniques.ﾠ This knowledge is then used to introduce methods for the analysis of dynamical systems, and give an introduction to the concept of deterministic chaos.ﾠ The course also aims to provide students with a more advanced knowledge of special relativity than covered in first year physics.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Solve elementary mechanical problems using the Lagrangian and Hamiltonian formalisms."
+    },
+    {
+      "number": "LO2.",
+      "description": "Solve basic problems in the calculus of variations."
+    },
+    {
+      "number": "LO3.",
+      "description": "Draw phase-space portraits of elementary dynamical systems and identify the various features."
+    },
+    {
+      "number": "LO4.",
+      "description": "Understand what is meant by \"chaotic dynamics\" in terms of sensitive dependence on initial conditions."
+    },
+    {
+      "number": "LO5.",
+      "description": "Understand how chaos arises in non-linear Hamiltonian systems, and be able to determine which initial conditions lead to chaos for driven systems with one degree of freedom."
+    },
+    {
+      "number": "LO6.",
+      "description": "Understand the principles of special relativity."
+    },
+    {
+      "number": "LO7.",
+      "description": "Understand 4-vectors and use them to solve simple relativistic mechanical problems."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Special Relativity problem sheets",
+      "weight": "14% 2 x 7% each",
+      "due_date": "Problem Sheet 1: 15/08/2025 4:00 pm; Problem Sheet 2: 29/08/2025 4:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Lagrangian and Hamiltonian dynamics problem sheets",
+      "weight": "20% 2 x 10% each",
+      "due_date": "Problem Sheet 1: 12/09/2025 4:00 pm; Problem Sheet 2: 26/09/2025 4:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Dynamical systems and chaos problem sheets",
+      "weight": "16% 2 x 8% each",
+      "due_date": "Problem Sheet 1: 17/10/2025 4:00 pm; Problem Sheet 2: 31/10/2025 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester exam",
+      "weight": "50% 20% dynamics, 15% chaos, 15% special relativity",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Special Relativity problem sheets",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "14% 2 x 7% each",
+      "due_date": "Problem Sheet 1: 15/08/2025 4:00 pm Problem Sheet 2: 29/08/2025 4:00 pm",
+      "task_description": "Work on and solve problems in special relativity. Problems will be made available at least a week before they are due, and can be worked on in the applied class time slot. Each problem sheet will be worth 7% of the final course mark. Read full task description Hide full task description",
+      "submission_guidelines": "They must be submitted (electronically) via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item. Solutions to applied class problems and assignment problems will be distributed after the due date and so an extension past 7 days is not possible.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Lagrangian and Hamiltonian dynamics problem sheets",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20% 2 x 10% each",
+      "due_date": "Problem Sheet 1: 12/09/2025 4:00 pm Problem Sheet 2: 26/09/2025 4:00 pm",
+      "task_description": "Solve problems in calculus of variations and Lagrangian dynamics. Problems will be made available at least a week before they are due. Each problem sheet will be worth 10% of the final course mark. Read full task description Hide full task description",
+      "submission_guidelines": "They must be submitted (electronically) via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions to applied class problems and assignment problems will be distributed after the due date and so an extension past 7 days is not possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Dynamical systems and chaos problem sheets",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "16% 2 x 8% each",
+      "due_date": "Problem Sheet 1: 17/10/2025 4:00 pm Problem Sheet 2: 31/10/2025 4:00 pm",
+      "task_description": "Solve problems in Hamiltonian dynamics and chaos. Problems will be made available at least a week before they are due. Each problem sheet will be worth 8% of the final course mark. Read full task description Hide full task description",
+      "submission_guidelines": "They must be submitted (electronically) via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions to applied class problems and assignment problems will be distributed after the due date and so an extension past 7 days is not possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End of Semester exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50% 20% dynamics, 15% chaos, 15% special relativity",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "task_description": "Answer conceptual and quantitative questions relating to the course material on Lagrangian mechanics, calculus of variations, Hamiltonian dynamics, dynamical systems, chaos and special relativity. The examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options Any calculator permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Lectures for the course Core course material and examples will be presented"
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Applied Class",
+      "topic": "Applied Classes for the course Example problems discussed"
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Problem-based learning",
+      "topic": "Problem sheets Problems aimed at providing understanding of the various concepts in the course"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

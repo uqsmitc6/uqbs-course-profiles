@@ -1,0 +1,202 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/INFS3208-61178-7560",
+  "scraped_at": "2026-06-04T02:26:39.198410+00:00",
+  "course_code": "INFS3208",
+  "class_code": "61178",
+  "semester_code": "7560",
+  "full_course_code": "INFS3208-61178-7560",
+  "course_title": "Cloud Computing",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "As a major computing infrastructure, Cloud Computing provides the modern on-demand services for management and usage of large and shared computing resources including storage, computations and communications. This course will cover in-depth knowledge for Cloud Computing and the practical experience in designing and implementing large-scale and composite business web applications on Cloud Computing platform. This course covers a wide range of cloud computing-related X-as-a-Service technologies, including Software-as-a-Service (SaaS), Platform-as-a-Service (PaaS), Infrastructure-as-a-Service (IaaS), Data-as-a-Service (DaaS), and related technologies such as Cloud Computing Ecosystem. For delivering scalable computing services in a pay-as-you-go model via the Internet, Cloud Computing approaches are used to deal with effective and efficient development and deployment problems of web services and information systems with particular focus on \"big data\" challenges that arise across a variety of domains.\n\nCloud computing provides modern on-demand services for managing and using extensive and shared computing resources, including storage, computations and communications. This course will cover in-depth knowledge of Cloud Computing and practical experience in designing and implementing large-scale and composite business web applications on Cloud Computing platforms through lectures, tutorials, and laboratory exercises. You will learn the concepts of modern cloud computingﾠusing various tools and techniques, such as Docker, Kubernetes, NoSQL, Vector databases, and cloud storage. Advanced distributed computing systems such as MapReduce and Apache Spark are also included in the course. The lab sessions cover cloud application development and deployment and data processing on the cloud using open-source tools in the real-world cloud platform. Based on student feedback, the course now includes a new topic: vector database, addressing the needs of the next generation of AI applications. The tutorial and practical sessions have been newly designed to reflect this addition. Changes to this offering include a new progress check quiz for students to obtain feedback on their progress prior to census date, and minor improvements to course material including lecture slides and tutorial questions.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE1001",
+      "INFS1200"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "INFS3204",
+      "INFS7204",
+      "INFS7208"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Sen Wang",
+      "email": "INFS3208@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Sen Wang"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Heming Du"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course teaches the concepts and technologies for the Cloud Computing. It provides a comprehensive and systematic understanding to theﾠCloudﾠComputing technologies and practical experience in designing large-scale composite web applications over a cloud computing platform.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Describe the benefit of using X-as-a-Service (XaaS) in Cloud Computing, such as SaaS (Software as a Service), IaaS (Infrastructure as a Service), and PaaS (Platform as a Service) in developing modern information systems."
+    },
+    {
+      "number": "LO2.",
+      "description": "Interpret the key features and building blocks of Cloud-Computing based information systems."
+    },
+    {
+      "number": "LO3.",
+      "description": "Build applications based on Cloud Computing architecture and tools."
+    },
+    {
+      "number": "LO4.",
+      "description": "Implement Software-as-a-Service (SaaS) with a recommended Cloud Computing platform."
+    },
+    {
+      "number": "LO5.",
+      "description": "Demonstrate and solve the performance and technical issues in Cloud Computing such as cloud storage, cloud data management, scalability, privacy preservation and security."
+    },
+    {
+      "number": "LO6.",
+      "description": "Explain the ecosystem of Cloud Computing."
+    },
+    {
+      "number": "LO7.",
+      "description": "Explain implementation techniques of Cloud Computing such as clusters and in-memory computing."
+    },
+    {
+      "number": "LO8.",
+      "description": "Discuss the roles played by Cloud Computing in Big Data Analytics and identify the trends in Cloud Computing."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code",
+      "title": "Individual Programming Tasks",
+      "weight": "30%",
+      "due_date": "Programming Task 1 29/08/2025 3:00 pm; Programming Task 2 19/09/2025 3:00 pm; Programming Task 3 17/10/2025 3:00 pm"
+    },
+    {
+      "category": "Project",
+      "title": "Individual Project Implementation",
+      "weight": "20%",
+      "due_date": "24/10/2025 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Individual Programming Tasks",
+      "mode": "Written",
+      "category": "Computer Code",
+      "weight": "30%",
+      "due_date": "Programming Task 1 29/08/2025 3:00 pm Programming Task 2 19/09/2025 3:00 pm Programming Task 3 17/10/2025 3:00 pm",
+      "learning_outcomes_assessed": "L03, L05, L06, L07, L08",
+      "task_description": "Programming assignments are used to assess the practical skills of students on non-trivial but reasonably well-defined problems. You are required to complete three programming tasks, and more details will be available on the course website. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online Submission.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 14-21 days, where the earlier time frame applies if there are no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Programming assignments are used to assess the practical skills of students on non-trivial but reasonably well-defined problems. You are required to complete three programming tasks, and more details will be available on the course website. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Individual Project Implementation",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "20%",
+      "due_date": "24/10/2025 3:00 pm",
+      "learning_outcomes_assessed": "L02, L03, L04, L05, L07, L08",
+      "task_description": "The goal of this assignment is for you to implement a Cloud Computing System to demonstrate your ability to set up scalable platforms, use scalable databases, and create cloud computing applications. A project report (5%) and the implementation code (15%) should be submitted. The details of the assignment requirement will be given in the individual project specification file on Blackboard. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online Submission.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 14-21 days, where the earlier time frame applies if there are no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The goal of this assignment is for you to implement a Cloud Computing System to demonstrate your ability to set up scalable platforms, use scalable databases, and create cloud computing applications. A project report (5%) and the implementation code (15%) should be submitted. The details of the assignment requirement will be given in the individual project specification file on Blackboard. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L05, L06, L07, L08",
+      "task_description": "The final exam assesses theoretical concepts and basic programming skills introduced in this course. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Lecture Lectures will cover 1). Cloud Computing concepts, technologies, and applications; 2). Virtualisation technologies and Docker; 3). Apache Spark framework, programming, and applications; 4). Distributed file systems; 5). Google file system and BigTable; 6). Databases in Cloud Computing; 7). Hadoop and MapReduce; 8). Cloud Computing advanced topics: networking, load balancing, security, and privacy. The lectures will be delivered on campus. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13",
+      "activity_type": "Applied Class",
+      "topic": "Applied Class Weekly applied classes aim to enhance the understanding of lectures and provide an opportunity for students to receive feedback. Learning outcomes: L01, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13",
+      "activity_type": "Practical",
+      "topic": "Practical Weekly practicals aim to enhance the learned technologies including Docker, NoSQL, Hadoop, and Spark programming on Google Cloud Platform (GCP) and develop the individual project. Weekly applied classes aim to enhance the understanding of lectures. Should the on-campus practical not be possible, the backup plan consists of an online session. Learning outcomes: L03, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L03",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

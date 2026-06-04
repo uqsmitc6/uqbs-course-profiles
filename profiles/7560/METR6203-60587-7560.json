@@ -1,0 +1,189 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/METR6203-60587-7560",
+  "scraped_at": "2026-06-04T02:30:17.742290+00:00",
+  "course_code": "METR6203",
+  "class_code": "60587",
+  "semester_code": "7560",
+  "full_course_code": "METR6203-60587-7560",
+  "course_title": "Control Engineering 2",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "Coverage of various advanced topics in control systems engineering: (i) observers and state estimation, (ii) multivariable systems in the frequency domain, (iii) robust control, and (iv) model predictive control.\n\nThis course focuses on the principles and tools used for designing and analysing feedback systems. It is specifically designed for students who are interested in utilising feedback for control in mechanical, electrical, and electro-mechanical systems, although broader application domains are touched on to give a sense of the breadth of the discipline.\n\nThe primary emphasis of the course is on state-space control. It begins by introducing the process of modelling various systems, including mechanical, electrical, electromechanical, biological, social, and informational systems, using ordinary differential and difference equations. Several detailed examples are covered throughout the course to reinforce the concepts. The course then explores the dynamic behaviour of models, covering stability and more complex nonlinear behaviour. Linear systems are examined as a special case of nonlinear systems, and state-space control laws are discussed, including state feedback, output feedback, and estimators.\n\nThe concepts of reachability and observability are introduced, providing insights into the selection of actuators and sensors for both engineered and natural systems. Additionally, topics such as Kalman filtering and optimal control are covered. While these topics could be individual courses themselves, this course aims to present them in a concise manner that allows for practical application in engineering.\n\nThroughout the course, students are encouraged to apply these concepts to control physical systems, fostering a hands-on approach to learning and applying the material.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "METR4201",
+      "METR7200"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "METR7203"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr T. Thang Vo-Doan",
+      "email": "t.vodoan@uq.edu.au",
+      "notes": "Please email Dr Vo-Doan to arrange a consultation."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr T. Thang Vo-Doan",
+      "email": "t.vodoan@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The primary objective of this course is to enhance your understanding of the methods and principles employed in modern control engineering. By exploring the various concepts within control theory, the course aims to broaden your appreciation for the wide-ranging applications of these ideas and provide you with a comprehensive perspective on the field. Additionally, you will acquire the necessary knowledge to effectively utilize different design methods and gain practical experience in implementing control systems. By the end of the course, you will be equipped with the skills to confidently apply control engineering techniques and make informed decisions regarding their implementation.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Develop and Analyse Dynamic System Models - Construct and analyse state space models for linear and nonlinear, continuous and discrete systems across a range of domains. Use analytical and numerical methods, simulation tools (e.g., MATLAB/Simulink), and techniques such as linearisation and sampling to assess system behaviour and stability."
+    },
+    {
+      "number": "LO2.",
+      "description": "Design and Implement State-Feedback Controllers - Design and implement state-feedback controllers for linear systems, including MIMO configurations, considering reachability, observability, integral action, and performance trade-offs."
+    },
+    {
+      "number": "LO3.",
+      "description": "Design and Implement Output-Feedback Controllers - Design and implement output-feedback controllers using observers and the separation principle, incorporating feedforward strategies and digital implementation tools."
+    },
+    {
+      "number": "LO4.",
+      "description": "Design and Implement Optimal Control and Estimation Techniques - Design and implement optimal controllers and estimators, including Kalman filters and LQG regulators, for linear and linearised systems in continuous and discrete time."
+    },
+    {
+      "number": "LO5.",
+      "description": "Collaborate in Engineering Teams - Work effectively in teams to solve control problems by defining roles, managing tasks, and addressing technical and interpersonal challenges collaboratively."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Problem Based Assignment",
+      "weight": "20% (5% for each Problem Based Assignment 1-4)",
+      "due_date": "Problem Based Assignment 1 18/08/2025 4:00 pm; Problem Based Assignment 2 1/09/2025 4:00 pm; Problem Based Assignment 3 15/09/2025 4:00 pm; Problem Based Assignment 4 13/10/2025 4:00 pm"
+    },
+    {
+      "category": "Presentation",
+      "title": "Control System Implementation 1",
+      "weight": "30%",
+      "due_date": "22/09/2025 - 26/09/2025; Demo times will be made available for sign up."
+    },
+    {
+      "category": "Presentation",
+      "title": "Control System Implementation 2",
+      "weight": "15%",
+      "due_date": "27/10/2025 - 31/10/2025; Demo times will be made available for sign up."
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "35%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Problem Based Assignment",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20% (5% for each Problem Based Assignment 1-4)",
+      "due_date": "Problem Based Assignment 1 18/08/2025 4:00 pm Problem Based Assignment 2 1/09/2025 4:00 pm Problem Based Assignment 3 15/09/2025 4:00 pm Problem Based Assignment 4 13/10/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "The problem-based assignment series consists of a collection of concise assignments designed to help you grasp fundamental concepts. These concepts are subsequently put into practice through the Control Systems Implementation Projects. Problem Based Assignment 1 (LO 1) will require you to develop a Matlab/Simulink model of a system and conducting simulations to analyse the system's response to various inputs. Problem Based Assignment 2 (LO 1) will require you to utilise Matlab for generating and analysing a phase portrait of a given system. Additionally, you will be tasked with determining a Lyapunov function for the system and using it to perform a qualitative analysis of system stability. Problem Based Assignment 3 (LO 2) involves the following tasks: (i) Creating a Simulink model of a balance system. (ii) Computing a linearization of the system and comparing it with numerical functions available in MATLAB. (iii) Designing a stabilizing control law for the linearized systems using state feedback. (iv) Developing a simulation that applies the designed stabilizing control law to demonstrate its local asymptotic stabilization of the system. Problem Based Assignment 4 (LO 2, 3) aims to enhance your proficiency in utilizing the MATLAB Control Systems Toolbox, specifically in constructing state observers and state feedback controllers using the toolbox's available methods. The assignment emphasizes the application of state feedback for system stabilization and provides an opportunity to explore the balance between observer poles and feedback poles. To access the detailed instructions and assessment criteria for each assignment, please refer to the assignment description provided on Blackboard. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submit through turn-it-in via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nFeedback is provided to students following 7 calendar days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The problem-based assignment series consists of a collection of concise assignments designed to help you grasp fundamental concepts. These concepts are subsequently put into practice through the Control Systems Implementation Projects. Problem Based Assignment 1 (LO 1) will require you to develop a Matlab/Simulink model of a system and conducting simulations to analyse the system's response to various inputs. Problem Based Assignment 2 (LO 1) will require you to utilise Matlab for generating and analysing a phase portrait of a given system. Additionally, you will be tasked with determining a Lyapunov function for the system and using it to perform a qualitative analysis of system stability. Problem Based Assignment 3 (LO 2) involves the following tasks: (i) Creating a Simulink model of a balance system. (ii) Computing a linearization of the system and comparing it with numerical functions available in MATLAB. (iii) Designing a stabilizing control law for the linearized systems using state feedback. (iv) Developing a simulation that applies the designed stabilizing control law to demonstrate its local asymptotic stabilization of the system. Problem Based Assignment 4 (LO 2, 3) aims to enhance your proficiency in utilizing the MATLAB Control Systems Toolbox, specifically in constructing state observers and state feedback controllers using the toolbox's available methods. The assignment emphasizes the application of state feedback for system stabilization and provides an opportunity to explore the balance between observer poles and feedback poles. To access the detailed instructions and assessment criteria for each assignment, please refer to the assignment description provided on Blackboard. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Control System Implementation 1",
+      "mode": "Activity/ Performance",
+      "category": "Presentation",
+      "weight": "30%",
+      "due_date": "22/09/2025 - 26/09/2025 Demo times will be made available for sign up.",
+      "learning_outcomes_assessed": "L01, L02, L05",
+      "task_description": "For this assignment, you will collaborate in groups to implement a control system using state feedback on physical hardware. Your performance will be evaluated through a demonstration of your control system and a presentation on its overall performance. Each group will have the opportunity to sign up for a designated demo slot. To access the specific details and requirements of the assignment, please refer to the assignment description available on Blackboard. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nDiscretionary extensions are not available for this task.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nStudents who are unable to attend the demo at the scheduled date and time should apply for an extension, with evidence that supports this. As this is a timed-assessment, Student Access Plans (SAPs) are not suitable supporting documentation.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nDemo sessions are time limited.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "For this assignment, you will collaborate in groups to implement a control system using state feedback on physical hardware. Your performance will be evaluated through a demonstration of your control system and a presentation on its overall performance. Each group will have the opportunity to sign up for a designated demo slot. To access the specific details and requirements of the assignment, please refer to the assignment description available on Blackboard. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Control System Implementation 2",
+      "mode": "Activity/ Performance",
+      "category": "Presentation",
+      "weight": "15%",
+      "due_date": "27/10/2025 - 31/10/2025 Demo times will be made available for sign up.",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "For this assignment, you will collaborate in groups to implement an optimal control system using output feedback on physical hardware. Your performance will be assessed through a demonstration of your control system and a presentation on its overall performance. Demo slots for the demonstrations will be made available for sign-up on Blackboard. To access the specific details and requirements of the assignment, please refer to the assignment description available on Blackboard. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nDiscretionary extensions are not available for this task.\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nStudents who are unable to attend the demo at the scheduled date and time should apply for an extension, with evidence that supports this. As this is a timed-assessment, Student Access Plans (SAPs) are not suitable supporting documentation.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nDemo sessions are time limited.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "For this assignment, you will collaborate in groups to implement an optimal control system using output feedback on physical hardware. Your performance will be assessed through a demonstration of your control system and a presentation on its overall performance. Demo slots for the demonstrations will be made available for sign-up on Blackboard. To access the specific details and requirements of the assignment, please refer to the assignment description available on Blackboard. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "35%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "The final exam will test your understanding of the course material through problem solving. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten notes , single sided, is permitted A companion Mathomat, except the WB3 (Whiteboard Edition) Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The final exam will test your understanding of the course material through problem solving. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (28 Jul - 02 Nov)",
+      "activity_type": "Workshop",
+      "topic": "Problem based learning workshops Weekly problem based workshops that develops understanding of the learning outcomes. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 12 (04 Aug - 26 Oct)",
+      "activity_type": "Practical",
+      "topic": "Laboratory Implementation of control systems on laboratory equipment as a team Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

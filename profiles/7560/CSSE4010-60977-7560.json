@@ -1,0 +1,207 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE4010-60977-7560",
+  "scraped_at": "2026-06-04T02:17:28.920793+00:00",
+  "course_code": "CSSE4010",
+  "class_code": "60977",
+  "semester_code": "7560",
+  "full_course_code": "CSSE4010-60977-7560",
+  "course_title": "Digital System Design",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "CSSE4010 introduces students to the concepts, design methods and state of the art tools for digital system design. The course covers basic digital logic design concepts including logic simplification, combinational and sequential building blocks, arithmetic circuits, finite state machines, and datapath/controller design for custom digital architectures. The course will provide implementation details from a reconfigurable logic perspective and discuss topics related to timing aspects. Students are introduced to hardware description language (HDL) based system design for field programmable gate array (FPGA) based platforms using VHDL as the standard language (other commonly used languages include Verilog, System-Verilog, and different variants of C). Following the conventional HDL based design flow using Xilinx/AMD EDA tools, students will be subsequently introduced to topics such as high-level synthesis, model-based system design and rapid prototyping for FPGAs with alternative tool flows such as Matlab HDL coder. As a compelling application for exploiting hardware parallelism offered by FPGAs, specific design techniques for real-time implementation of digital signal processing (DSP) algorithms with hardwear acceleration on FPGAs will be introduced.\n\nCSSE4010ﾠintroduces students to the concepts, methods and techniques of digital system design. You are going to learn modern digital design methods based on simulation, synthesis and test with VHDL hardware descriptionﾠlanguage. The emphasis is on your ability to solve medium size design problems, describe the solutions with VHDL, simulate, synthesize to Field Programmable Gate Array (FPGA) devices. Describing a digital system using a hardware description language such as VHDL (other commonly used languages include Verilog, System-Verilog, and different variants of C) can be very different to conventional programming of microcontrollers using C or assembly language. During the course, you will learn theoretical design techniques as well as implementing digital designs on FPGAs using Xilinx/AMD Vivado design tools and VHDL. You will also be introduced to some of the latest high-level synthesis and rapid prototyping tools which integrate Xilinx/AMD Vivado with other model based system design tools such as Matlab and Simulink allowing rapid prototyping of digital signal processing (DSP) systems on FPGAs.ﾠ",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE1000",
+      "CSSE2010",
+      "We recommend completing the following courses before enrolling in this one:",
+      "CSSE2310",
+      "CSSE3010"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "CSSE2000",
+      "CSSE3000",
+      "CSSE7011",
+      "CSSE7410"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Chamith Wijenayake",
+      "email": "CSSE4010@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Chamith Wijenayake"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course aims at providing a solid theoretical background and practical skills in the designﾠof digital system containing combinational and sequential elements.ﾠ",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Identify basic combinational and sequential circuit blocks used in digital system design along with their VHDL descriptions"
+    },
+    {
+      "number": "LO2.",
+      "description": "Analyse a problem description to be solved with digital hardware and breakdown the problem into sub-systems with well-defined functionality"
+    },
+    {
+      "number": "LO3.",
+      "description": "Formulate an end-to-end digital hardware design in VHDL with individual sub-systems defined at suitable abstraction, and integrating the sub-systems to meet the required specifications"
+    },
+    {
+      "number": "LO4.",
+      "description": "Design digital systems via synthesizable VHDL descriptions, Datapath and Controller approach, and model-based design approaches and verify the functionality through simulation, synthesis, and implementation steps on FPGA hardware"
+    },
+    {
+      "number": "LO5.",
+      "description": "Develop testbenches in VHDL to test digital systems for required functionality"
+    },
+    {
+      "number": "LO6.",
+      "description": "Design digital systems optimised for speed/area/power in field programmable gate array (FPGA) based platforms"
+    },
+    {
+      "number": "LO7.",
+      "description": "Design and develop speed/area optimised digital hardware architectures for real-time implementation of digital signal processing algorithms"
+    },
+    {
+      "number": "LO8.",
+      "description": "Present technical details of a design via technical reports and oral presentations"
+    },
+    {
+      "number": "LO9.",
+      "description": "Relate the technology and methods used in your designs to recent findings in literature and suggest improvements"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Practical/ Demonstration",
+      "title": "Laboratory design tasks",
+      "weight": "50%",
+      "due_date": "Familiarisation task 11/08/2025 4:00 pm; Design task 1 25/08/2025 4:00 pm; Design task 2 8/09/2025 4:00 pm; Design task 3 22/09/2025 4:00 pm; Design task 4 13/10/2025 4:00 pm; Design task 5 31/10/2025 4:00 pm; For design tasks 1-4, there will be practical demonstrations during the scheduled lab sessions in weeks 5,7,9 and 11, respectively. For Design Task 5 there will be no demonstration. Instead, students will be required to submit their source design files.",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Laboratory design tasks",
+      "mode": "Oral, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Practical/ Demonstration",
+      "weight": "50%",
+      "due_date": "Familiarisation task 11/08/2025 4:00 pm Design task 1 25/08/2025 4:00 pm Design task 2 8/09/2025 4:00 pm Design task 3 22/09/2025 4:00 pm Design task 4 13/10/2025 4:00 pm Design task 5 31/10/2025 4:00 pm For design tasks 1-4, there will be practical demonstrations during the scheduled lab sessions in weeks 5,7,9 and 11, respectively. For Design Task 5 there will be no demonstration. Instead, students will be required to submit their source design files.",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08, L09",
+      "task_description": "Laboratory work consists of weekly practicals leading to a sequence of 6 assessment tasks with their contribution towards final course mark as indicated below: Familiarisation task: 6% (report) Design task 1: 8% (report+demonstration) Design task 2: 8% (report+demonstration) Design task 3: 8% (report+demonstration) Design task 4: 8% (report+demonstration) Design task 5: 12% (report) For each task, students are required to submit a report in PDF format via Blackboard. For design tasks 1-4, there will be an identity verified oral assessment as well, where you will need to demonstrate your designs to the teaching staff and answer questions. For design tasks 1-4 students will be assessed both on the report and demonstration of work. For Design Task 5 there will be no demonstration. Instead, students will be required to submit their source design files which will be considered/checked during marking. Refer to the detailed outline of teaching activities on the course Blackboard site for more details. The Use of AI tools These lab-based assessment items haveﾠbeen designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.ﾠ Read full task description Hide full task description",
+      "submission_guidelines": "Report submission via Blackboard. There will also be practical demonstrations during the scheduled lab sessions in weeks 5,7,9, and 11 respectively. For Design Task 5 there will be no demonstration. Instead, students will be required to submit their source design files which will be considered/checked during marking.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or will be released to students within 14-21 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Laboratory work consists of weekly practicals leading to a sequence of 6 assessment tasks with their contribution towards final course mark as indicated below: Familiarisation task: 6% (report) Design task 1: 8% (report+demonstration) Design task 2: 8% (report+demonstration) Design task 3: 8% (report+demonstration) Design task 4: 8% (report+demonstration) Design task 5: 12% (report) For each task, students are required to submit a report in PDF format via Blackboard. For design tasks 1-4, there will be an identity verified oral assessment as well, where you will need to demonstrate your designs to the teaching staff and answer questions. For design tasks 1-4 students will be assessed both on the report and demonstration of work. For Design Task 5 there will be no demonstration. Instead, students will be required to submit their source design files which will be considered/checked during marking. Refer to the detailed outline of teaching activities on the course Blackboard site for more details. The Use of AI tools These lab-based assessment items haveﾠbeen designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.ﾠ Read full task description Hide full task description\nThese lab-based assessment items haveﾠbeen designed to be challenging, authentic and complex. Whilst students may use AI technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI tools.ﾠ",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Final exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L05, L06, L07, L09",
+      "task_description": "This final examination tests all the material covered in this course during the whole semester. The emphasis is on testing your design problem solving skills. The Use of AI tools The final exam is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nAll requests must be submitted through mySI-net . Requests sent to Course Coordinators will not be considered.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This final examination tests all the material covered in this course during the whole semester. The emphasis is on testing your design problem solving skills. The Use of AI tools The final exam is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThe final exam is to be completed in-person. The use of Artificial Intelligence (AI) tools will not be permitted. Any attempted use of AI may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "Lecture One 2-hour lecture per week. Refer to the detailed teaching outline on Blackboard for more information about public holidays and refer to student timetable for any updates on lecture location. Lectures will be recorded and made available on Blackboard, however there is no guarantee that the recordings will always work. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Applied Class",
+      "topic": "Applied Class One 1-hour applied class per week, problem solving and applied examples are discussed. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Practical",
+      "topic": "Practicals One 2-hour lab session per week. Practicals sessions will be conducted in-person at 47-401. You must sign up for one prac session out of the sessions available. It is highly recommended that you do the required background work and complete the tasks as much as you can before attending the practical classes. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08, L09",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

@@ -1,0 +1,225 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/DATA7703-61268-7560",
+  "scraped_at": "2026-06-04T02:17:44.576642+00:00",
+  "course_code": "DATA7703",
+  "class_code": "61268",
+  "semester_code": "7560",
+  "full_course_code": "DATA7703-61268-7560",
+  "course_title": "Machine Learning for Data Scientists",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Machine learning is a branch of artificial intelligence concerned with the development and application of adaptive algorithms that use example data or previous experience to solve a given problem. Topics include: learning problems (e.g regression, classification, unsupervised) and theory, neural networks, statistical and probabilistic models, clustering, ensembles, implementation issues, applications (e.g. bioinformatics, cognitive science, forecasting, robotics, signal and image processing).\n\nMachine learning is a rapidly growing field at the intersection of computer science and statistics that is concerned with finding patterns in data. It is responsible for tremendous advances in technology, from personalized product recommendations to speech recognition in cell phones.\n\nThe goal of this course is to provide a solid intuitive understanding of the main tools and concepts of Machine Learning coupled with significant hands-on experience. The emphasis will be on intuition and practical examples rather than theoretical results, although a good understanding of probability, statistics, calculus and linear algebra will be important. The development of group skills on machine learning projects will be a learning objective of this course.\n\nEach lecture will be grounded in one specific and practical case-study, for example predicting stock values using regression. At the end of this course, you will master core skills and knowledge on how to analyse sentiment from user reviews, retrieve documents of interest, predict house prices based on house-level features, recommend products, and search for images. You will understand how the most common Machine Learning methods work, how to apply them to new problems, run evaluations and interpret results, and think about scaling up from thousands to billions of data points. Together, this will form an understanding of the Machine Learning pipeline needed to develop and deploy practical intelligent applications.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE7030",
+      "MATH7501",
+      "STAT7203"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP4702",
+      "COMP7703"
+    ],
+    "restrictions": [
+      "Restricted to MDataSc students only."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Xin Yu"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Xin Yu",
+      "email": "DATA7703@eecs.uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Nan Ye",
+      "email": "DATA7703@eecs.uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nNote: Practical and Tutorial sessions will commence in week 2 of the course.\nFeedback will be provided during practical sessions to help students decide whether to continue in the course.",
+  "course_aims": "Students will gain a fundamental understanding of a wide range of Machine Learning techniques and algorithms, including supervised and unsupervised learning. Students will also gain an appreciation for the practical applications of machine learning techniques, and will gain experience in implementation and using machine learning methods.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Describe the core theoretical and conceptual frameworks that are used in Machine Learning."
+    },
+    {
+      "number": "LO2.",
+      "description": "Explain the properties and functions of a range of different Machine Learning models and to be able to connect a model to appropriate theoretical foundations."
+    },
+    {
+      "number": "LO3.",
+      "description": "Formulate an algorithm that instantiates a given Machine Learning model using appropriate data."
+    },
+    {
+      "number": "LO4.",
+      "description": "Implement Machine Learning algorithms in a high-level programming language."
+    },
+    {
+      "number": "LO5.",
+      "description": "Formulate and execute experiments with implemented Machine Learning techniques on data sets, and to evaluate and reflect on the results."
+    },
+    {
+      "number": "LO6.",
+      "description": "Explain the relationships between the different types of techniques used in Machine Learning and the relationships between Machine Learning and other disciplines."
+    },
+    {
+      "number": "LO7.",
+      "description": "Recognize potential real-world applications of Machine Learning and evaluate the suitability of different Machine Learning technique implementations, algorithms, models and theory for a given application."
+    },
+    {
+      "number": "LO8.",
+      "description": "Carry out complex, collaborative machine learning projects as part of a team."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment 1",
+      "weight": "15%",
+      "due_date": "22/08/2025 3:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment 2",
+      "weight": "15%",
+      "due_date": "10/10/2025 3:00 pm"
+    },
+    {
+      "category": "Project",
+      "title": "Group Project",
+      "weight": "40%",
+      "due_date": "Proposal Deadline 19/09/2025 3:00 pm; Presentation Seminar 31/10/2025 3:00 pm; Final Report Deadline 21/11/2025 3:00 pm",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "30%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment 1",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "15%",
+      "due_date": "22/08/2025 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "Each assignment will consist of a number of hand written tasks as well as implementation exercises based on topics covered in preceding lectures, tutorials and pracs. Assignments to be completed individually. Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online Submission\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 14 - 21 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Each assignment will consist of a number of hand written tasks as well as implementation exercises based on topics covered in preceding lectures, tutorials and pracs. Assignments to be completed individually. Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nAssignments to be completed individually. Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 2",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "15%",
+      "due_date": "10/10/2025 3:00 pm",
+      "learning_outcomes_assessed": "L05, L06, L07, L08",
+      "task_description": "Each assignment will consist of a number of hand written tasks as well as implementation exercises based on topics covered in preceding lectures, tutorials and pracs. Assignments to be completed individually. Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online Submission\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 14 - 21 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Each assignment will consist of a number of hand written tasks as well as implementation exercises based on topics covered in preceding lectures, tutorials and pracs. Assignments to be completed individually. Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nAssignments to be completed individually. Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Group Project",
+      "mode": "Oral, Written",
+      "category": "Project",
+      "weight": "40%",
+      "due_date": "Proposal Deadline 19/09/2025 3:00 pm Presentation Seminar 31/10/2025 3:00 pm Final Report Deadline 21/11/2025 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "Course group project. To be done in groups of 4-5 students. Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nProposal\nMaximum Extension Length: 7 calendar days. This course uses a progressive assessment approach, where feedback and/or detailed solutions will be released to students within 14-21 days\nLate Penalty: Assessment items received after the deadline will be subject to a late penalty of 10% per 24 hours of the maximum possible mark for the assessment item. More than 7 periods of 24 hours, 100% penalty.\nPresentation Seminar\nMaximum Extension Length: 0 Days. Oral sessions or Demo sessions scheduled with multiple markers and is time limited. Extension impacts on other students in team.\nLate Penalty: 100% Late Penalty\nFinal Report\nMaximum Extension Length: 7 calendar days. This course uses a progressive assessment approach, where feedback and/or detailed solutions will be released to students within 14-21 days\nLate Penalty: Assessment items received after the deadline will be subject to a late penalty of 10% per 24 hours of the maximum possible mark for the assessment item. More than 7 periods of 24 hours, 100% penalty.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "ai_statement": "Course group project. To be done in groups of 4-5 students. Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nCourse group project. To be done in groups of 4-5 students. Artificial Intelligence (AI) provides emerging tools that may support students in completing this assessment task. Students may appropriately use AI in completing this assessment task. Students must clearly reference any use of AI in each instance. A failure to reference AI use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "30%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "This will be a closed-book invigilated final exam covering all material from the course. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Lectures 1. Introduction; 2. Linear Regression; 3. PCA & LDA; 4. Classification; 5. Clustering and Similarity; 6. Support Vector Machines & Kernel Methods. 7. Ensemble Methods: Random Forest and Boosting; 8. The Perceptron; 9. Convolutional Neural Networks; 10. Adversarial Examples; 11. Interpreting Machine Learning Algorithms; 12. Bayesian; 13. Course Summary/Overview Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 12 (04 Aug - 26 Oct)",
+      "activity_type": "Applied Class",
+      "topic": "Applied Classes 2. Linear Regression; 3. PCA & LDA; 4. Classification; 5. Clustering and Similarity; 6. Support Vector Machines & Kernel Methods. 7. Ensemble Methods: Random Forest and Boosting; 8. The Perceptron; 9. Convolutional Neural Networks; 10. Adversarial Examples; 11. Interpreting Machine Learning Algorithms; 12. Bayesian; Learning outcomes: L01, L02, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 12 (04 Aug - 26 Oct)",
+      "activity_type": "Practical",
+      "topic": "Practicals 2. Linear Regression; 3. PCA & LDA; 4. Classification; 5. Clustering and Similarity; 6. Support Vector Machines & Kernel Methods. 7. Ensemble Methods: Random Forest and Boosting; 8. The Perceptron; 9. Convolutional Neural Networks; 10. Adversarial Examples; 11. Interpreting Machine Learning Algorithms; 12. Bayesian Learning outcomes: L03, L04, L05, L08",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05",
+        "L08"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

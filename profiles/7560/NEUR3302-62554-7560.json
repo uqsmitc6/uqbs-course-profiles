@@ -1,0 +1,428 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/NEUR3302-62554-7560",
+  "scraped_at": "2026-06-04T02:33:07.598385+00:00",
+  "course_code": "NEUR3302",
+  "class_code": "62554",
+  "semester_code": "7560",
+  "full_course_code": "NEUR3302-62554-7560",
+  "course_title": "Cognitive Neuroscience",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Psychology School",
+  "course_description": "Cognitive neuroscience is an emerging field of inquiry concerned with how the brain accomplishes tasks such as remembering, sensory perception and language. This course will provide a survey of topics in cognitive neuroscience with a focus on how neuroscience has advanced our understanding of the brain, as well as the methodologies used to gain these insights.\n\nCognitive neuroscience is an exciting and influential field of inquiry concerned with how the brain accomplishes conscious and unconsciousﾠtasks such asﾠsensory perception, learning, representing the body and the environment,ﾠand interacting with other people.\n\nFollowing from NEUR2020, you will learn to programme sections of a cognitive taskﾠin Matlab, collect data from participants with thatﾠprogramme, process and analyse the dataﾠwhichﾠwill form the basis for a short report.ﾠThis will encourage you to think logically and analytically, and prepare you for the research demands of fourth (honours) year.ﾠYour assessment tasks will be the sections of Matlabﾠprogramme you have coded and collection of data from some participants on a (fun!) task which will investigate gaze cueing and shifts of attention when we look at people versus dogs. You will report on that analysed data, and will complete twoﾠmultiple-choice quizzes on the lecture material.ﾠﾠ\n\nTutorials will be conducted in computer labs. Some tutorial material will be pre-recorded and made available on Blackboard in the first week. It is essential that these materials are studied prior to commencing the tutorial course.ﾠ",
+  "requirements": {
+    "companions": [
+      "We recommend completing the following courses at the same time:",
+      "PSYC2020",
+      "NEUR2020"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "PSYC3302"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Ada Kritikos",
+      "email": "a.kritikos@psy.uq.edu.au",
+      "phone": "+61 7 3365 6408"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Ada Kritikos",
+      "email": "a.kritikos@psy.uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Natasha Matthews",
+      "email": "n.matthews1@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Paul Dux",
+      "email": "p.dux@psy.uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Jess Taubert",
+      "email": "j.taubert@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Rodrigo Suarez",
+      "email": "r.suarez@uq.edu.au"
+    },
+    {
+      "role": "Guest lecturer",
+      "name": "Professor Jason Mattingley",
+      "email": "j.mattingley@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nOn-campus tutorials will be conducted in computer labs. Students need to install Matlab (instructions will be provided on Blackboard) prior to the commencement of the tutorial course. Some tutorial material will be pre-recorded and made available on Blackboard in the first week. It is essential that these materials are studied prior to commencing the tutorial course.ﾠ\nﾠ\nﾠ",
+  "course_aims": "This course aims to establish a knowledge of cognitive principles, and their evaluation through neuroscientific methodologies. Importantly, acknowledging that cognition evolves through the lifespan, this course integrates child, adolescent and adult cognitive development, and its neuroanatomical underpinnings. We include cutting-edge issues such as epigenetics, neuroprosthetics, and brain-to-brain interaction. The tutorial activities aim to complement and extend the lecture course.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand the principles of the neuroanatomical basis of cognitive functions"
+    },
+    {
+      "number": "LO2.",
+      "description": "apply the principles of cognitive neuroscience to child, adolescent and adult populations"
+    },
+    {
+      "number": "LO3.",
+      "description": "understand how to operationalise cognitive mechanisms to enable their measurement and study"
+    },
+    {
+      "number": "LO4.",
+      "description": "Communicate research findings from an independently-conducted project"
+    },
+    {
+      "number": "LO5.",
+      "description": "demonstration of basic Matlab programming"
+    },
+    {
+      "number": "LO6.",
+      "description": "code basic experiments in Matlab"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Data collection",
+      "weight": "5%",
+      "due_date": "5/09/2025 3:00 pm; students are responsible for recruiting and collecting data from 3 participants other than themselves"
+    },
+    {
+      "category": "Computer Code, Notebook/ Logbook",
+      "title": "Matlab programme and experiment's hypotheses",
+      "weight": "25%",
+      "due_date": "29/08/2025 3:00 pm"
+    },
+    {
+      "category": "Quiz",
+      "title": "Quizzes",
+      "weight": "40%",
+      "due_date": "Quiz 1 18/08/2025 - 22/08/2025; Quiz 2 8/09/2025 - 12/09/2025; Quiz 3 27/10/2025 - 31/10/2025; In your assigned tutorial",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Lab report - Gaze cueing",
+      "weight": "30%",
+      "due_date": "24/10/2025 3:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Data collection",
+      "mode": "Activity/ Performance",
+      "category": "Practical/ Demonstration",
+      "weight": "5%",
+      "due_date": "5/09/2025 3:00 pm students are responsible for recruiting and collecting data from 3 participants other than themselves",
+      "learning_outcomes_assessed": "L06",
+      "task_description": "Students will be allocated this tutorial time to collect data from three participants. It is expected that students should recruit friends/colleagues to come in to the lab and participate in the experiment, under the supervision of the tutor. Data collected will be collated and analysed for the report. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\ncontact tutor directly\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Matlab programme and experiment's hypotheses",
+      "mode": "Written",
+      "category": "Computer Code, Notebook/ Logbook",
+      "weight": "25%",
+      "due_date": "29/08/2025 3:00 pm",
+      "learning_outcomes_assessed": "L05, L06",
+      "task_description": "Students will formulate hypotheses and construct a programme to test face processing abilities. In the course of four tutorials, students will learn to use Matlab to display stimuli and collect response time data. The hypotheses and programme will be marked and corrected prior to data collection for the lab report. NOTE: students will use the programme to test 3 participants, and describe the results, as part of their Report. Read full task description Hide full task description",
+      "submission_guidelines": "Submission via drop box directly to tutor.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFor full details please review the School of Psychology Student Guidelines - Extensions and Deferred quiz/exam.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Quizzes",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "40%",
+      "due_date": "Quiz 1 18/08/2025 - 22/08/2025 Quiz 2 8/09/2025 - 12/09/2025 Quiz 3 27/10/2025 - 31/10/2025 In your assigned tutorial",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "On-line, in tutorial class time Quiz 1 (10%): in-class open book, 20 multiple choice questions, lectures 1-3 Quiz 2 (10%): in-class open book, 20 multiple choice questions, lecture 4-6 Quiz 3 (20%): in-class open book 40 questions multiple choice Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nFor full details please review the School of Psychology Student Guidelines - Extensions and Deferred quiz/exam.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Lab report - Gaze cueing",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "30%",
+      "due_date": "24/10/2025 3:00 pm",
+      "learning_outcomes_assessed": "L03, L04",
+      "task_description": "Using the Matlab programme constructed in the first half of the course, the hypotheses generated, and the background literature provided, students will collect, process and analyse behavioural data (reaction times) from 3 participants. They will describe the background literature, method and results, and focus on the Discussion section. 3,000 words total Read full task description Hide full task description",
+      "submission_guidelines": "via Turnitin\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFor full details please review the School of Psychology Student Guidelines - Extensions and Deferred quiz/exam.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Not scheduled",
+      "activity_type": "Not Timetabled",
+      "topic": "Mechanisms of Attention; Matlab resources No class Mechanisms of Attention; basic Matlab resources: Pre-recorded material to be made available and should be worked through prior to commencement of tutorials from next week. Learning outcomes: L01, L02, L03, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 1 (28 Jul - 03 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Developmental Neuroanatomy I Developmental Neurobiology I: Embryonic development of the nervous system Dr Rodrigo Suarez Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (04 Aug - 10 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Matlab programming self-guided Matlab programming, under tutor supervision Learning outcomes: L05, L06",
+      "learning_outcomes": [
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (04 Aug - 10 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Developmental Neuroanatomy II Developmental Neurobiology II: Postnatal brain development and environmental cues Dr Rodrigo Suarez Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (11 Aug - 17 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Matlab programming self-guided Matlab programming, under tutor supervision Learning outcomes: L05, L06",
+      "learning_outcomes": [
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (11 Aug - 17 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Genetics of Behaviour Genetic basis of cognitive processes Dr Natasha Matthews The lecture on Ekka will be delivered as a pre-recording Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (18 Aug - 24 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Quiz 1 and Matlab programming 1) Quiz 1 (in-class open book, 20 multiple choice questions, lectures 1-3) 2) self-guided Matlab programming, under tutor supervision Learning outcomes: L05, L06",
+      "learning_outcomes": [
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (18 Aug - 24 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Space and Action I Interacting with the physical environment; Body representation, action reference frames. Assoc Prof Ada Kritikos Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (25 Aug - 31 Aug)",
+      "activity_type": "Tutorial",
+      "topic": "Matlab programming self-guided Matlab programming, under tutor supervision Learning outcomes: L05, L06",
+      "learning_outcomes": [
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (25 Aug - 31 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Space and Action II Action observation, action interpretation, joint action and the mirror neurone system Assoc Prof Ada Kritikos Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (01 Sep - 07 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Data collection with Matlab programme Arrangements (pre-bookings) will be made to test 3 participants on the Matlab task in class Learning outcomes: L04, L05, L06",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (01 Sep - 07 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Neuroscience of the self and others The mechanisms of building a representation of the self; how the self interacts with the environment Assoc Prof Ada Kritikos Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (08 Sep - 14 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Face processing Are faces special? How we process faces and emotions Assoc Prof Alan Pegna Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (08 Sep - 14 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Quiz 2 and Data collation, processing and analysis for report 1) Quiz 2: (in-class open book, 20 multiple choice questions, lecture 4-6) 2) Data collation, processing and analysis for report How to train your dragon I: transforming your data from logfiles to bar graphs Learning outcomes: L05, L06",
+      "learning_outcomes": [
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (15 Sep - 21 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Continue data collation, processing and analysis for report How to train your dragon I: transforming your data from logfiles to bar graphs Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (15 Sep - 21 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Attention non-visual attention; cross-modal attention; hemi-neglect Reward and value learning Prof Jason Mattingley Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (22 Sep - 28 Sep)",
+      "activity_type": "Tutorial",
+      "topic": "Continue data collation, processing and analysis for report How to train your dragon II: analysing your data Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (22 Sep - 28 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Reward and value learning Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Mid Sem break (29 Sep - 05 Oct)",
+      "activity_type": "Not Timetabled",
+      "topic": "MID-SEMESTER BREAK"
+    },
+    {
+      "learning_period": "Week 10 (06 Oct - 12 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Data Analysis 1 Data Analysis - Discussion of findings for report 2. Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (06 Oct - 12 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Neuroprosthetics The union of biology and technology Prof Jason Mattingley Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (13 Oct - 19 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Data Analysis 2 - Discussion Data Analysis - Discussion of findings for report 2. Pre-recorded writing skills workshop will be made available on Blackboard Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (13 Oct - 19 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Consciousness & Attention Can we process our environment without really trying? Prof Paul Dux Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (20 Oct - 26 Oct)",
+      "activity_type": "Tutorial",
+      "topic": "Brain-driven machines and EEG practicum / report consult Fun time / report Consult: Brain-driven machines and EEG practicum - Neuroprosthetics; using your brain waves to drive machines Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (20 Oct - 26 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Brain training Can we 're-wire' our brain to improve our performance? Prof Paul Dux Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (27 Oct - 02 Nov)",
+      "activity_type": "Tutorial",
+      "topic": "Quiz 3 Quiz 3: in class open book 40 multiple choice questions Learning outcomes: L05, L06",
+      "learning_outcomes": [
+        "L05",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: School of Psychology Student Guidelines Learning activities"
+}

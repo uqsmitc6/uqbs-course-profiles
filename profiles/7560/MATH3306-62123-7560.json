@@ -1,0 +1,169 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH3306-62123-7560",
+  "scraped_at": "2026-06-04T02:28:53.151668+00:00",
+  "course_code": "MATH3306",
+  "class_code": "62123",
+  "semester_code": "7560",
+  "full_course_code": "MATH3306-62123-7560",
+  "course_title": "Set Theory & Mathematical Logic",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "The course will introduce students to aspects of set theory, model theory, formal logic and computability. Topics will include propositional and predicate calculus, the Zermelo-Fraenkel Axioms, ordinals and cardinals, recursive functions, Turing machines, and Godel's incompleteness theorems.\n\nThis course covers foundational topics from mathematical logic and set theory.\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against UQ Policy, and will not be tolerated. We have developed a suite of resources to assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "We recommend completing the following courses before enrolling in this one:",
+      "MATH1061"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH3304",
+      "MATH3305"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Daniele Celoria",
+      "email": "d.celoria@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Daniele Celoria",
+      "email": "d.celoria@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Guillermo Badia",
+      "email": "g.badia@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus. Consult your personal timetable for times and locations. Students are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness). Monday 6 October is a public holiday, so there will be no lecture that day.",
+  "course_aims": "Theﾠaim of the course areﾠto introduce students to formal logic and formal set theory, and understand the major results.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Logic Objectives - Explain the nature of formal logical systems, and the distinction between their syntax and semantics."
+    },
+    {
+      "number": "LO2.",
+      "description": "Logic Objectives - Work comfortably with the concepts of proof and validity and related syntactic and semantic notions."
+    },
+    {
+      "number": "LO3.",
+      "description": "Logic Objectives - Explain the relationship of formal mathematical theories (such as arithmetic) to general logical systems."
+    },
+    {
+      "number": "LO4.",
+      "description": "Logic Objectives - Describe the possibility of extensions of these systems into non-standard mathematical theories."
+    },
+    {
+      "number": "LO5.",
+      "description": "Logic Objectives - Describe the various limit results on mathematical and other logical systems such as the undecidability and incompleteness theorems."
+    },
+    {
+      "number": "LO6.",
+      "description": "Logic Objectives - Describe the relationships between different models of algorithms and computability, and how they relate to the incompleteness theorems."
+    },
+    {
+      "number": "LO7.",
+      "description": "Set Theory Objectives - Explain the paradoxes of naive set theory, and how they are resolved by axiomatizing set theory."
+    },
+    {
+      "number": "LO8.",
+      "description": "Set Theory Objectives - Learn the ZFC axioms of set theory."
+    },
+    {
+      "number": "LO9.",
+      "description": "Set Theory Objectives - Describe the definition/construction of all common mathematical objects (functions, relations, the real numbers etc) in terms of sets."
+    },
+    {
+      "number": "LO10.",
+      "description": "Set Theory Objectives - Explain the Axiom of Choice, and be able to construct proofs based on its formulation as Zorns Lemma."
+    },
+    {
+      "number": "LO11.",
+      "description": "Set Theory Objectives - Explain ordinal and cardinal numbers and their arithmetic."
+    },
+    {
+      "number": "LO12.",
+      "description": "Set Theory Objectives - Explain the Continuum Hypothesis and similar results."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignments",
+      "weight": "40% 10% each",
+      "due_date": "Assignment 1: 22/08/2025 3:00 pm; Assignment 2: 12/09/2025 3:00 pm; Assignment 3: 10/10/2025 3:00 pm; Assignment 4: 31/10/2025 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester exam",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignments",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "40% 10% each",
+      "due_date": "Assignment 1: 22/08/2025 3:00 pm Assignment 2: 12/09/2025 3:00 pm Assignment 3: 10/10/2025 3:00 pm Assignment 4: 31/10/2025 3:00 pm",
+      "task_description": "This assignment requires you to answer the questions and submit your written solutions through Blackboard. Read full task description Hide full task description",
+      "submission_guidelines": "The assignment should be submitted through Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item. Solutions for assessment item/s will be released 7 days after the assessment is due and as such, an extension after 7 days will not be possible.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "End of Semester exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "other_conditions": "Secure. See the conditions definitions",
+      "task_description": "The end of semester examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus. The end of semester exam will cover material from the entire course. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Revision week (28 Jul - 09 Nov)",
+      "activity_type": "Not Timetabled",
+      "topic": "Reading and homework problems Before and after each lecture and applied classes, you are expected to be reading text and other suggested sources for deeper understanding of the material, and trying all homework problems set. This is essential to understand and pass this course -- lectures and applied classes alone will not teach you everything you need to know, you are expected to be self-learners in this course."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (28 Jul - 02 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Lectures"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (04 Aug - 02 Nov)",
+      "activity_type": "Applied Class",
+      "topic": "Applied Classes"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

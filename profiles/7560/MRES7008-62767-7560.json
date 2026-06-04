@@ -1,0 +1,280 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MRES7008-62767-7560",
+  "scraped_at": "2026-06-04T02:31:51.495844+00:00",
+  "course_code": "MRES7008",
+  "class_code": "62767",
+  "semester_code": "7560",
+  "full_course_code": "MRES7008-62767-7560",
+  "course_title": "Functional Magnetic Resonance Imaging",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Interrogating sensory, motor & cognitive processes with functional magnetic resonance imaging (fMRI). Neural & vascular mechanisms contributing to the fMRI signal. Procedures involved in conducting fMRI investigations. Issues in experimental design & analysis. Relevance to clinical diagnosis. Current research status.\n\nThis course introduces functional magnetic resonance imaging (fMRI) methods used to study human brain function. Students will acquire a broad understanding of how MRI imaging is typically used in neuroscientific research and will conduct imaging experiments.\n\nThe topics to be covered include:",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MRES7001",
+      "MRES7100",
+      "MRES7004",
+      "This course is jointly-taught with:",
+      "Another instance of the same course",
+      "This course is offered internally and externally."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Javier Urriola Yaksic",
+      "email": "j.urriolayaksic@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Javier Urriola Yaksic",
+      "email": "j.urriolayaksic@uq.edu.au"
+    },
+    {
+      "role": "Invited lecturer",
+      "name": "Dr Ashley York",
+      "email": "a.york@uq.edu.au"
+    },
+    {
+      "role": "Invited lecturer",
+      "name": "Dr John Phamnguyen",
+      "email": "j.phamnguyen@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "MRES7008 aims to introduce students to the functional MRI of the brain and provide a broad and detailed understanding of this branch of neuroscience. This course includes the opportunity to design functional brain imaging experiments, analyse task-based and resting-state fMRI data using the most popular research software (e.g., SPM, CONN), and draw conclusions based on the findings. Functional connectivity and clinical applications will also be discussed. This course will equip students with the ability to undertake fMRI research, identify common pitfalls, and critically interpret the findings of fMRI experiments.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain the physiological cascade from neural activity to the BOLD signal."
+    },
+    {
+      "number": "LO2.",
+      "description": "Describe the MRI physics behind BOLD contrast, Echo Planar Imaging (EPI) and advanced fast imaging techniques used in fMRI studies."
+    },
+    {
+      "number": "LO3.",
+      "description": "Design appropriate experimental paradigms for fMRI studies."
+    },
+    {
+      "number": "LO4.",
+      "description": "Outline the practical and ethical steps for conducting an fMRI experiment."
+    },
+    {
+      "number": "LO5.",
+      "description": "Apply a standard preprocessing pipeline to raw fMRI data."
+    },
+    {
+      "number": "LO6.",
+      "description": "Implement the General Linear Model for first and second-level fMRI analysis."
+    },
+    {
+      "number": "LO7.",
+      "description": "Analyse and interpret task-based and resting-state functional connectivity in the human brain."
+    },
+    {
+      "number": "LO8.",
+      "description": "Critically evaluate fMRI research and its clinical applications."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Online Quizes",
+      "weight": "20% equally weighted",
+      "due_date": "Quiz 1 should be submitted prior to: 8/08/2025 5:00 pm; Quiz 2 should be submitted prior to: 15/08/2025 5:00 pm; Quiz 3 should be submitted prior to: 5/09/2025 5:00 pm; Quiz 4 should be submitted prior to: 19/09/2025 5:00 pm; Quiz 5 should be submitted prior to: 17/10/2025 5:00 pm"
+    },
+    {
+      "category": "Essay/ Critique",
+      "title": "Essay - Written Assignment",
+      "weight": "20%",
+      "due_date": "26/09/2025 5:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Presentation",
+      "title": "Report and Presentation",
+      "weight": "20% specific weighting",
+      "due_date": "Presentation slides are due: 17/10/2025 5:00 pm; Oral Presentation will be given in class 29/10/2025; Practical report is due: 31/10/2025 5:00 pm",
+      "conditions": [
+        "Identity Verified"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Online Quizes",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "20% equally weighted",
+      "due_date": "Quiz 1 should be submitted prior to: 8/08/2025 5:00 pm Quiz 2 should be submitted prior to: 15/08/2025 5:00 pm Quiz 3 should be submitted prior to: 5/09/2025 5:00 pm Quiz 4 should be submitted prior to: 19/09/2025 5:00 pm Quiz 5 should be submitted prior to: 17/10/2025 5:00 pm",
+      "task_description": "5x Online quizzes which are due throughout the Semester which assess knowledge on each of the delivered modules. Each quiz will be open from Monday until Friday in the week that it is due. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nAn extension/deferral is not available for this quiz due to the answers being discussed in the next available tutorial. However, successful applications for an extension in extenuating circumstances may be offered an alternative assessment. If there are extenuating circumstances why you were unable to complete your quiz then please email smp.student@uq.edu.au . You will need to do this within 5 calendar days of your quiz and include evidence (e.g., medical certificate).\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nThe quizzes are open for 5 days (Monday to Friday) and cannot be accessed once closed. A 100% penalty will be applied if the quiz is not attempted within that period.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late ."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Essay - Written Assignment",
+      "mode": "Written",
+      "category": "Essay/ Critique",
+      "weight": "20%",
+      "due_date": "26/09/2025 5:00 pm",
+      "task_description": "2000-word assignment (1000 words per scenario) on two scenario-based questions: Scenario 1: Clinical Application - Design presurgical fMRI mapping protocol for a patient with temporal lobe epilepsy Scenario 2: Research Application - Design an fMRI study investigating cognitive deficits in Mild Cognitive Impairment and Alzheimer’s Disease patients. Read full task description Hide full task description",
+      "submission_guidelines": "Your essay should be submited via Turnitin. Students are permitted to submit a draft prior to final submission.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Report and Presentation",
+      "mode": "Oral, Written",
+      "category": "Paper/ Report/ Annotation, Presentation",
+      "weight": "20% specific weighting",
+      "due_date": "Presentation slides are due: 17/10/2025 5:00 pm Oral Presentation will be given in class 29/10/2025 Practical report is due: 31/10/2025 5:00 pm",
+      "task_description": "Part A: Written Practical Report (10%) Task: You will use SPM (Statistical Parametric Mapping) software to analyse a publicly available fMRI dataset directed by the lecturer. You will choose one of the experimental tasks from this dataset (e.g., motor or language mapping) to perform a first-level (single-subject) and second-level (group) analysis. Report Structure: Your report should be structured like a short scientific paper (Introduction, Methods, Results, Discussion, References, Appendix) and must be no more than 6 pages, including references. It should detail your analysis pipeline, justify your methodological choices, and present the results clearly, accompanied by figures and tables. Due Date: 5pm on Friday, Week 13 (31/10/2025) Submission: Submit via Turnitin ⠀Part B: PowerPoint Summary (5%) Task: Create a concise PowerPoint presentation (maximum 8 slides, including title and references) that synthesises your written report. It should clearly outline the research question, methods, key results (including one primary figure), and conclusion. Due Date: 5pm on Friday, Week 11 (17/10/2025) Submission: Submit as a .pptx file via Blackboard. ⠀Part C: Oral Presentation (5%) Task: You will give a 5-minute oral presentation to the class, based on your submitted PowerPoint slides. This will be followed by a brief 2-3 minute Q&A session. You should aim to clearly and concisely communicate your project's aims, methods, and findings. Date: During the scheduled tutorial in Week 13 (Monday, 27 Oct 2025). Read full task description Hide full task description",
+      "submission_guidelines": "Presentation slides should be submitted via blackboard. The oral presentation will be given in class week 13. The practical report should be submitted via turnitin. Draft versions of the presentation and practical report can be submtted prior to the final submission.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Identity Verified"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "task_description": "The final exam will be an in-person, paper-based exam. Students enrolled externally, please refer to the course profile for External students for in-person examination arrangements. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (28 Jul - 03 Aug)",
+      "activity_type": "Lecture",
+      "topic": "M1 - Introduction to fMRI & the BOLD Signal Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (04 Aug - 10 Aug)",
+      "activity_type": "Lecture",
+      "topic": "M2 - MRI Physics for fMRI & Echo Planar Imaging (EPI) Principles Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (11 Aug - 17 Aug)",
+      "activity_type": "Lecture",
+      "topic": "EPI Artefacts, Optimization & Intro to Advanced Acquisition Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (18 Aug - 24 Aug)",
+      "activity_type": "Lecture",
+      "topic": "M4 - Experimental Design in fMRI Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (25 Aug - 31 Aug)",
+      "activity_type": "Lecture",
+      "topic": "M5 - Running the experiment Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (01 Sep - 07 Sep)",
+      "activity_type": "Lecture",
+      "topic": "M6 - fMRI Data Preprocessing Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (08 Sep - 14 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Statistical Analysis I: GLM & First-Level Analysis"
+    },
+    {
+      "learning_period": "Week 8 (15 Sep - 21 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Statistical Analysis II: Group Analysis & Multiple Comparisons"
+    },
+    {
+      "learning_period": "Week 9 (22 Sep - 28 Sep)",
+      "activity_type": "Applied Class",
+      "topic": "M9 - SPECIAL WEEK 1: Practical Task-based fMRI Analysis"
+    },
+    {
+      "learning_period": "Week 10 (06 Oct - 12 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Functional Connectivity: Theory & Resting-State Networks"
+    },
+    {
+      "learning_period": "Week 11 (13 Oct - 19 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Clinical Applications & Limitations of fMRI"
+    },
+    {
+      "learning_period": "Week 12 (20 Oct - 26 Oct)",
+      "activity_type": "Applied Class",
+      "topic": "SPECIAL WEEK 2: Practical Resting-State fMRI Connectivity"
+    },
+    {
+      "learning_period": "Week 13 (27 Oct - 02 Nov)",
+      "activity_type": "Applied Class",
+      "topic": "Presentation and Review"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

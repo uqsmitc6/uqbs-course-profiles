@@ -1,0 +1,181 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CSSE7610-61001-7560",
+  "scraped_at": "2026-06-04T02:17:35.676585+00:00",
+  "course_code": "CSSE7610",
+  "class_code": "61001",
+  "semester_code": "7560",
+  "full_course_code": "CSSE7610-61001-7560",
+  "course_title": "Concurrency: Theory and Practice",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Provides a solid understanding of the issues of concurrent programming - processes and threads, scheduling, synchronisation, communications, and data sharing - including their application in distributed systems. The course covers methods for both the specification and verification of such systems at a high level of abstraction, and their implementation in a modern programming language.\n\nThis course introduces students to concurrent programming focussing on (i) algorithmic principles (rather than language syntax), (ii) verifying program correctness, and (iii) implementation of concurrency in Java. It covers the fundamentals of programming multiple threads and accessing shared memory, and standard synchronization techniques. Selected techniques used in multicore programming, distributed and real-time systems are also covered.\n\nCourse Changes in Response to Previous Student Feedback\n\nMinor improvements have been made to improve both lecture and applied class content.\n\nAssignments have been re-worked to use modern verification tooling.\n\nA checkpoint quiz has been introduced to provide early progress feedback to students.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE2002",
+      "CSSE7023"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Joel Mackenzie",
+      "email": "CSSE7610@eecs.uq.edu.au",
+      "notes": "Weekly office hours will be available. Please see details on the course Blackboard site and/or email the course coordinators."
+    },
+    {
+      "role": "Course coordinator",
+      "name": "Dr Brae Webb",
+      "email": "CSSE7610@eecs.uq.edu.au",
+      "notes": "Weekly office hours will be available. Please see details on the course Blackboard site and/or email the course coordinators."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Joel Mackenzie"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Brae Webb"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nStudents should attend both lecture and applied sessions every week.ﾠ This course consists of a 2-hour lecture session and a 1-hour applied class each week. The lectures will be mainly used to introduce new material, and the applied sessions will be used to work on exercises related to the lecture material.ﾠ",
+  "course_aims": "To give students an appreciation of the difference between sequential and concurrent programs, and to give them practical skills for specifying, designing, implementing, and verifying concurrent programs.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain the issues that are specific to concurrent programming, and solve issues in practice."
+    },
+    {
+      "number": "LO2.",
+      "description": "Specify concurrent algorithms independent of programming language."
+    },
+    {
+      "number": "LO3.",
+      "description": "Verify the correctness of concurrent algorithms using both deductive techniques and software-based tools."
+    },
+    {
+      "number": "LO4.",
+      "description": "Develop concurrent algorithms in a modern programming language."
+    },
+    {
+      "number": "LO5.",
+      "description": "Design concurrent algorithms using both traditional and modern approaches to synchronisation."
+    },
+    {
+      "number": "LO6.",
+      "description": "Explain how distributed programs are special types of concurrent programs, and identify the important issues for these types of programs."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignment 1",
+      "weight": "25%",
+      "due_date": "12/09/2025 4:00 pm"
+    },
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignment 2",
+      "weight": "25%",
+      "due_date": "24/10/2025 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment 1",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "25%",
+      "due_date": "12/09/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "Application of the principles of mutual exclusion to the development and verification of concurrent algorithms. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Note that all assignments are to be worked on individually and must be your own work except where the use of code written or provided by other entities (teaching staff, AI tools, etc.) is explicitly permitted by the assignment specification. Artificial Intelligence (AI) and Machine Translation (MT) tools are permitted to be used in the programming assignments in this course, but they are not required to be used and not recommended to be used as they may inhibit learning and introduce bugs into your code. You must always follow the referencing requirements set out in the assignment specification and documents referenced from the assignment specification. Failure to appropriately reference the resources (tools and information sources) used in your work may result in misconduct allegations against you. You are encouraged to discuss the concepts behind the assignments but under no circumstances should you show your code to, or allow your code to be seen by, another student. You should not look at the code of any other student. You must sufficiently protect all electronic and paper copies of your code. All submitted code will be subject to electronic plagiarism and collusion detection. Assignments with no academic merit will be awarded a mark of zero. You may have to verbally answer questions about your submission as part of the assignment marking process.ﾠ Assignment Interviews For the two assignments, the teaching staff will conduct interviews with a subset of students about their submissions for the purpose of establishing genuine authorship. If you write your own code, you have nothing to fear from this process. If you legitimately use permitted code from other sources (following the usage/referencing requirements in the assignment specification), then you are expected to understand that code. If you are not able to adequately explain the design of your solution and/or adequately explain your submitted code (and/or earlier versions of your submission) and/or be able to make simple modifications to your solution as requested at the interview, then your assignment mark will be scaled down based on the level of understanding you are able to demonstrate and/or your submission may be subject to a misconduct investigation where your interview responses form part of the evidence. Interview invitations will be issued by email to your student email account at any time up until the end of week one of the exam period. Failure to respond to an interview invitation by the deadline stated in the invitation (which will be at least one week after the invitation is sent) or failure to attend a scheduled interview will result in zero marks for the assignment unless exceptional circumstances can be demonstrated with supporting evidence. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted via the course Blackboard or Gradescope site. Detailed instructions will be provided in the task specification.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 7-14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Application of the principles of mutual exclusion to the development and verification of concurrent algorithms. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Note that all assignments are to be worked on individually and must be your own work except where the use of code written or provided by other entities (teaching staff, AI tools, etc.) is explicitly permitted by the assignment specification. Artificial Intelligence (AI) and Machine Translation (MT) tools are permitted to be used in the programming assignments in this course, but they are not required to be used and not recommended to be used as they may inhibit learning and introduce bugs into your code. You must always follow the referencing requirements set out in the assignment specification and documents referenced from the assignment specification. Failure to appropriately reference the resources (tools and information sources) used in your work may result in misconduct allegations against you. You are encouraged to discuss the concepts behind the assignments but under no circumstances should you show your code to, or allow your code to be seen by, another student. You should not look at the code of any other student. You must sufficiently protect all electronic and paper copies of your code. All submitted code will be subject to electronic plagiarism and collusion detection. Assignments with no academic merit will be awarded a mark of zero. You may have to verbally answer questions about your submission as part of the assignment marking process.ﾠ Assignment Interviews For the two assignments, the teaching staff will conduct interviews with a subset of students about their submissions for the purpose of establishing genuine authorship. If you write your own code, you have nothing to fear from this process. If you legitimately use permitted code from other sources (following the usage/referencing requirements in the assignment specification), then you are expected to understand that code. If you are not able to adequately explain the design of your solution and/or adequately explain your submitted code (and/or earlier versions of your submission) and/or be able to make simple modifications to your solution as requested at the interview, then your assignment mark will be scaled down based on the level of understanding you are able to demonstrate and/or your submission may be subject to a misconduct investigation where your interview responses form part of the evidence. Interview invitations will be issued by email to your student email account at any time up until the end of week one of the exam period. Failure to respond to an interview invitation by the deadline stated in the invitation (which will be at least one week after the invitation is sent) or failure to attend a scheduled interview will result in zero marks for the assignment unless exceptional circumstances can be demonstrated with supporting evidence. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.\nNote that all assignments are to be worked on individually and must be your own work except where the use of code written or provided by other entities (teaching staff, AI tools, etc.) is explicitly permitted by the assignment specification. Artificial Intelligence (AI) and Machine Translation (MT) tools are permitted to be used in the programming assignments in this course, but they are not required to be used and not recommended to be used as they may inhibit learning and introduce bugs into your code. You must always follow the referencing requirements set out in the assignment specification and documents referenced from the assignment specification. Failure to appropriately reference the resources (tools and information sources) used in your work may result in misconduct allegations against you. You are encouraged to discuss the concepts behind the assignments but under no circumstances should you show your code to, or allow your code to be seen by, another student. You should not look at the code of any other student. You must sufficiently protect all electronic and paper copies of your code. All submitted code will be subject to electronic plagiarism and collusion detection. Assignments with no academic merit will be awarded a mark of zero. You may have to verbally answer questions about your submission as part of the assignment marking process.ﾠ"
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 2",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "25%",
+      "due_date": "24/10/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Application of the principles of synchronisation to the development and verification of concurrent algorithms. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Note that all assignments are to be worked on individually and must be your own work except where the use of code written or provided by other entities (teaching staff, AI tools, etc.) is explicitly permitted by the assignment specification. Artificial Intelligence (AI) and Machine Translation (MT) tools are permitted to be used in the programming assignments in this course, but they are not required to be used and not recommended to be used as they may inhibit learning and introduce bugs into your code. You must always follow the referencing requirements set out in the assignment specification and documents referenced from the assignment specification. Failure to appropriately reference the resources (tools and information sources) used in your work may result in misconduct allegations against you. You are encouraged to discuss the concepts behind the assignments but under no circumstances should you show your code to, or allow your code to be seen by, another student. You should not look at the code of any other student. You must sufficiently protect all electronic and paper copies of your code. All submitted code will be subject to electronic plagiarism and collusion detection. Assignments with no academic merit will be awarded a mark of zero. You may have to verbally answer questions about your submission as part of the assignment marking process.ﾠ Assignment Interviews For the two assignments, the teaching staff will conduct interviews with a subset of students about their submissions for the purpose of establishing genuine authorship. If you write your own code, you have nothing to fear from this process. If you legitimately use permitted code from other sources (following the usage/referencing requirements in the assignment specification), then you are expected to understand that code. If you are not able to adequately explain the design of your solution and/or adequately explain your submitted code (and/or earlier versions of your submission) and/or be able to make simple modifications to your solution as requested at the interview, then your assignment mark will be scaled down based on the level of understanding you are able to demonstrate and/or your submission may be subject to a misconduct investigation where your interview responses form part of the evidence. Interview invitations will be issued by email to your student email account at any time up until the end of week one of the exam period. Failure to respond to an interview invitation by the deadline stated in the invitation (which will be at least one week after the invitation is sent) or failure to attend a scheduled interview will result in zero marks for the assignment unless exceptional circumstances can be demonstrated with supporting evidence. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments are to be submitted via the course Blackboard or Gradescope site. Detailed instructions will be provided in the task specification.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 7-14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Application of the principles of synchronisation to the development and verification of concurrent algorithms. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Note that all assignments are to be worked on individually and must be your own work except where the use of code written or provided by other entities (teaching staff, AI tools, etc.) is explicitly permitted by the assignment specification. Artificial Intelligence (AI) and Machine Translation (MT) tools are permitted to be used in the programming assignments in this course, but they are not required to be used and not recommended to be used as they may inhibit learning and introduce bugs into your code. You must always follow the referencing requirements set out in the assignment specification and documents referenced from the assignment specification. Failure to appropriately reference the resources (tools and information sources) used in your work may result in misconduct allegations against you. You are encouraged to discuss the concepts behind the assignments but under no circumstances should you show your code to, or allow your code to be seen by, another student. You should not look at the code of any other student. You must sufficiently protect all electronic and paper copies of your code. All submitted code will be subject to electronic plagiarism and collusion detection. Assignments with no academic merit will be awarded a mark of zero. You may have to verbally answer questions about your submission as part of the assignment marking process.ﾠ Assignment Interviews For the two assignments, the teaching staff will conduct interviews with a subset of students about their submissions for the purpose of establishing genuine authorship. If you write your own code, you have nothing to fear from this process. If you legitimately use permitted code from other sources (following the usage/referencing requirements in the assignment specification), then you are expected to understand that code. If you are not able to adequately explain the design of your solution and/or adequately explain your submitted code (and/or earlier versions of your submission) and/or be able to make simple modifications to your solution as requested at the interview, then your assignment mark will be scaled down based on the level of understanding you are able to demonstrate and/or your submission may be subject to a misconduct investigation where your interview responses form part of the evidence. Interview invitations will be issued by email to your student email account at any time up until the end of week one of the exam period. Failure to respond to an interview invitation by the deadline stated in the invitation (which will be at least one week after the invitation is sent) or failure to attend a scheduled interview will result in zero marks for the assignment unless exceptional circumstances can be demonstrated with supporting evidence. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.\nNote that all assignments are to be worked on individually and must be your own work except where the use of code written or provided by other entities (teaching staff, AI tools, etc.) is explicitly permitted by the assignment specification. Artificial Intelligence (AI) and Machine Translation (MT) tools are permitted to be used in the programming assignments in this course, but they are not required to be used and not recommended to be used as they may inhibit learning and introduce bugs into your code. You must always follow the referencing requirements set out in the assignment specification and documents referenced from the assignment specification. Failure to appropriately reference the resources (tools and information sources) used in your work may result in misconduct allegations against you. You are encouraged to discuss the concepts behind the assignments but under no circumstances should you show your code to, or allow your code to be seen by, another student. You should not look at the code of any other student. You must sufficiently protect all electronic and paper copies of your code. All submitted code will be subject to electronic plagiarism and collusion detection. Assignments with no academic merit will be awarded a mark of zero. You may have to verbally answer questions about your submission as part of the assignment marking process.ﾠ"
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "Timing : The final exam will be scheduled at a fixed time for all students – i.e. students will complete the exam simultaneously. Permitted materials : The exam is open book and students may bring any written or printed material into the examination room. Calculators and other computing or communication devices are NOT permitted. Other Information : The final exam will be a summative assessment which covers all topics in this course. The examination is used to assess both the practical ability of the students on small problems and their understanding of the course material. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Open book examination - any written or printed material is permitted; material may be annotated Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "Timing : The final exam will be scheduled at a fixed time for all students – i.e. students will complete the exam simultaneously. Permitted materials : The exam is open book and students may bring any written or printed material into the examination room. Calculators and other computing or communication devices are NOT permitted. Other Information : The final exam will be a summative assessment which covers all topics in this course. The examination is used to assess both the practical ability of the students on small problems and their understanding of the course material. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (28 Jul - 02 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Lectures will be mainly used to introduce new material. There will also be time during lectures specifically for getting help with assignments. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (04 Aug - 02 Nov)",
+      "activity_type": "Applied Class",
+      "topic": "Applied Classes Applied sessions will be mainly used to work on exercises related to the lecture material. This will be a more interactive process than lecture presentations. The intent is to provide a learning environment that provides better support for the content covered in this course. There will also be time during exercise sessions specifically for getting help with assignments. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

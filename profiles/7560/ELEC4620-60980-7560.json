@@ -1,0 +1,188 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ELEC4620-60980-7560",
+  "scraped_at": "2026-06-04T02:21:49.243691+00:00",
+  "course_code": "ELEC4620",
+  "class_code": "60980",
+  "semester_code": "7560",
+  "full_course_code": "ELEC4620-60980-7560",
+  "course_title": "Digital Signal Processing",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "Advanced digital filtering: polyphase, multirate, all-pass, lattice and IIR filters. Signal conditioning, analogue filter types, sigma delta converters. Fast algorithms; Cooley-Tukey FFT, mixed radix formulations, Good-Thomas algorithm. Autoregressive, moving average signals. DSP applications and programming.\n\nThis course is an introduction to the exciting and rapidly advancing field of digital signal processing. These daysﾠDigital Signal Processing has largely replaced analog electronics for virtually all applications.ﾠDSP technology levers off computer hardware that becomes cheaper and faster every year, so a DSP solution will invariably replace analog solutions over time.ﾠ The course will be delivered in a practical manner and students will be asked to code algorithms in Matlab to demonstrate deep and practical understanding of the course material.ﾠDSP research strengths at UQ will be highlighted and applications of DSP in commodity devices such as CD and DVD players will be used as course examples.\n\nCourse Changes in Response to Previous Student Feedback\n\nCourse was rated highly by students last year so no significant changes were necessary. The exam will be invigilated and identity verified as it will be a traditional paper exam on-campus. Some modules on deep learning will be added due to the impact of this technology on modern DSP.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ELEC3004",
+      "We recommend completing the following courses before enrolling in this one:",
+      "CSSE3010"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ELEC3600",
+      "ELEC4600",
+      "ELEC7462",
+      "ELEC7601"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Sasan Ahdi Rezaeieh",
+      "email": "ELEC4620@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Sasan Ahdi Rezaeieh"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "It is expected that upon successful completion of the course, students will haveﾠdeveloped the ability to code and understand advanced Digital Signal Processing algorithms.ﾠ The ability to code well-known Digital Signal Processing algorithms reinforces a solid understanding of the algorithms and gives the student a solid skill base for their future career.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Implement Digital Signal Processing algorithms in MATLAB"
+    },
+    {
+      "number": "LO2.",
+      "description": "Use and apply data windowing appropriately to solve a range of filtering and analysis problems"
+    },
+    {
+      "number": "LO3.",
+      "description": "Code fundamental DSP algorithms such as the FFT and multi-rate filters"
+    },
+    {
+      "number": "LO4.",
+      "description": "Be able to describe the DSP processing chain of DSP-based devices such as a CD player"
+    },
+    {
+      "number": "LO5.",
+      "description": "Acquire an international perspective on the field through the advanced topics delivered by guest lecturers and recognized researchers"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment 1",
+      "weight": "13%",
+      "due_date": "22/08/2025 4:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment 2",
+      "weight": "13%",
+      "due_date": "19/09/2025 4:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment 3",
+      "weight": "14%",
+      "due_date": "31/10/2025 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment 1",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "13%",
+      "due_date": "22/08/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L05",
+      "task_description": "This task is designed to assess your understanding of convolution and your ability to apply it effectively across a series of questions. You will be required to demonstrate both theoretical knowledge and practical skills related to convolution operations, including their application in signal processing or image processing, depending on the context of the questions. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Electronic submission via Blackboard using Gradescope\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions will be released to students within 14-21 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This task is designed to assess your understanding of convolution and your ability to apply it effectively across a series of questions. You will be required to demonstrate both theoretical knowledge and practical skills related to convolution operations, including their application in signal processing or image processing, depending on the context of the questions. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 2",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "13%",
+      "due_date": "19/09/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02",
+      "task_description": "This task focuses on the application of filters . You will be expected to design, implement, and analyze basic FIR and/or IIR filters. The task may include frequency response analysis, filter stability, and using tools like MATLAB to apply filters to sample signals. Your understanding of filter characteristics and performance will be evaluated. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Electronic submission via Blackboard using Gradescope\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions will be released to students within 14-21 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This task focuses on the application of filters . You will be expected to design, implement, and analyze basic FIR and/or IIR filters. The task may include frequency response analysis, filter stability, and using tools like MATLAB to apply filters to sample signals. Your understanding of filter characteristics and performance will be evaluated. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 3",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "14%",
+      "due_date": "31/10/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L03, L04",
+      "task_description": "This task will assess your understanding of the FFT and its applications in signal analysis and computation. You will explore theoretical derivations, practical signal transformations, and computational techniques using FFT in MATLAB. Emphasis will be placed on interpreting results, comparing methods, and applying the FFT to solve real-world signal processing problems. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Electronic submission via Blackboard using Gradescope\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions will be released to students within 14-21 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This task will assess your understanding of the FFT and its applications in signal analysis and computation. You will explore theoretical derivations, practical signal transformations, and computational techniques using FFT in MATLAB. Emphasis will be placed on interpreting results, comparing methods, and applying the FFT to solve real-world signal processing problems. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L03, L04",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Lecture Series Covers required information on Digital Signal Processing Learning outcomes: L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13",
+      "activity_type": "IT Computing",
+      "topic": "Practical in Computer Laboratory Coding DSP solutions in MATLAB to demonstrate understanding of the lecture material. Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

@@ -1,0 +1,392 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMS7305-61151-7560",
+  "scraped_at": "2026-06-04T02:16:12.169109+00:00",
+  "course_code": "COMS7305",
+  "class_code": "61151",
+  "semester_code": "7560",
+  "full_course_code": "COMS7305-61151-7560",
+  "course_title": "Advanced Microwave Engineering",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "The course introduces EM field principles followed by the network theory to obtain efficient means for analyzing and designing of microwave circuits. It puts a special emphasis on planar guiding structures that enable either hybrid and/or monolithic integration of passive and active mircrowave devices. Next, it introduces the concept of noise and nonlinearities followed by equivalent circuit models of diodes and transitors that are used to generate, switch, phase shift, detect, mix or amplify microwave signals. By applying modern CAD software packages it demonstrates how passive and active microwave sub-systems can be designed, simulated and optimized.\n\nIn the first part, the course introduces microwave network theory to obtain efficient means for analysing and designing microwave devices. An emphasis is placed on planar guiding structures that enable either hybrid and/or monolithic integration of passive and active microwave devices. In the second part, the course covers using microwave diodes and transistorsﾠto generate, switch, phase shift, detect, mix, or amplify microwave signals.ﾠFinally, the course covers the design and operation of microwave systems.\n\nThroughout the course, EM/microwave simulation tools are introduced and demonstrated in examples of designing, analysing, andﾠoptimization ofﾠmicrowave devices and systems.\n\nThe covered material should be of value to students who wish to specialize in the analysis and design ofﾠmodernﾠmicrowave and millimeter-waveﾠsystems, such as mobile communications, radars, satellite communications, and many more.ﾠ\n\nIn response to students' feedback, more details are included in the task sheets of the three projects to avoid any ambiguity on the requirements.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ELEC3100",
+      "ELEC7101",
+      "We recommend completing the following courses before enrolling in this one:",
+      "COMS4104",
+      "COMS7104"
+    ],
+    "companions": [
+      "We recommend completing the following courses at the same time:",
+      "NGGG7302"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMS7302",
+      "COMS7303"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Amin Abbosh",
+      "email": "COMS7305@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Professor Amin Abbosh",
+      "email": "COMS7305@eecs.uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Kamel Sultan"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Wilbert Jesus Villena Gonzales"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Demonstrate an understanding of principles of operation, analysis and design of microwave passive and active circuits"
+    },
+    {
+      "number": "LO2.",
+      "description": "Demonstrate knowledge of the role of passive and active microwave circuits in wireless communication sub-systems"
+    },
+    {
+      "number": "LO3.",
+      "description": "Perform a theoretical analysis of passive or active microwave circuits"
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply critical reasoning to microwave circuit design problems to obtain meaningful solutions"
+    },
+    {
+      "number": "LO5.",
+      "description": "Creatively and efficiently utilize microwave simulation tools"
+    },
+    {
+      "number": "LO6.",
+      "description": "Function as an effective member of a team to analyse and design microwave circuits with the use of CAD tools"
+    },
+    {
+      "number": "LO7.",
+      "description": "Display ability to write clear and concise engineering reports at professional level"
+    },
+    {
+      "number": "LO8.",
+      "description": "Demonstrate an ample knowledge of social and professional responsibilities"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Project",
+      "title": "Project- Task#1",
+      "weight": "10%",
+      "due_date": "5/09/2025 4:00 pm"
+    },
+    {
+      "category": "Project",
+      "title": "Project- Task#2",
+      "weight": "10%",
+      "due_date": "10/10/2025 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "In-semester Exam",
+      "weight": "20%",
+      "due_date": "15/09/2025; This exam will be scheduled in week 8 (starting on 15th Sep), and more information will be provided.",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Project",
+      "title": "Project- Task#3",
+      "weight": "10%",
+      "due_date": "31/10/2025 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Project- Task#1",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "10%",
+      "due_date": "5/09/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "You will be asked to: Design microwave resonators using the principles covered in the Study Modules & Verify your design with the use of the microwave simulation tools available in the course. Design microwave filters using the principles covered in the relevant study modules & verify your design with the use of the microwave simulation tools available in the course. Detailed tasks are shown in the documents available on the course website. You will work in teams in the lab; however, each student is required to submit an individual report for assessment. During your time working in the lab on this task, you will receive initial feedback from the teaching team regarding your performance and understanding of the course material. Read full task description Hide full task description",
+      "submission_guidelines": "Submit your Project Reports through the Blackboard submission system before 4:00pm (Brisbane Time).\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 7-14 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Project- Task#2",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "10%",
+      "due_date": "10/10/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "You will be asked to design microwave amplifiers using the principle covered in the study Modules. Next, you will be asked to verify your design with the use of the microwave simulation tools available in the course. You will work in teams in the lab; however, each student is required to submit an individual report for assessment. Read full task description Hide full task description",
+      "submission_guidelines": "Submit your Project Reports through the Blackboard submission system before 4:00pm (Brisbane Time).\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 7-14 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "In-semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "20%",
+      "due_date": "15/09/2025 This exam will be scheduled in week 8 (starting on 15th Sep), and more information will be provided.",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "The in-semester exam will be a closed-book exam. It will contain a mixture of short answer questions, design, and analytical questions. This exam will assess material taken from week 1 to the exam date. Read full task description Hide full task description",
+      "exam_details": "Planning time no planning time minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Project- Task#3",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "10%",
+      "due_date": "31/10/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "You will be asked to design different types of microwave systems using the principles covered in the study modules. Next, you will be asked to verify your design with the use of the microwave simulation tools available in the course. You will work in teams in the lab; however, each student is required to submit an individual report for assessment. Read full task description Hide full task description",
+      "submission_guidelines": "Submit your Project Reports through the Blackboard submission system before 4:00pm (Brisbane Time).\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nMarked assignments with feedback and/or detailed solutions with feedback will be released to students within 7-14 days where the earlier time frame applies if no extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-4",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "The final exam will be a closed-book exam. It will contain a mixture of short answer questions, design, and analytical questions. This exam will assess material taken in this course throughout the semester. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (28 Jul - 03 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Module 1 Part I Microwave Network Analysis Part I Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (04 Aug - 10 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Module 1 Part II Microwave Network Analysis Part II Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 3 To Week 5 (11 Aug - 31 Aug)",
+      "activity_type": "Practical",
+      "topic": "Project- Task#1 Project- Task#1 (Microwave Networks, Resonators and Filters) due on 05/09/2022, 4 pm Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (11 Aug - 17 Aug)",
+      "activity_type": "Practical",
+      "topic": "Introduction to Simulation Tools A tutorial and demo session in the lab on how to use the simulator ADS Learning outcomes: L05, L06",
+      "learning_outcomes": [
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (11 Aug - 17 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Module 2 Microwave Resonators Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (18 Aug - 24 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Module 3 Microwave Filters Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (25 Aug - 31 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Module 4 Microwave Matching Networks Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 6 To Week 9 (01 Sep - 28 Sep)",
+      "activity_type": "Practical",
+      "topic": "Project- Task#2 Project- Task#2 (Matching Networks and Microwave Diodes & Amplifiers) due on 10/10/2022, 4 pm. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (01 Sep - 07 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Module 5 Microwave Diodes and Applications Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (08 Sep - 14 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Module 6 Microwave Amplifiers- Part I Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (15 Sep - 21 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Module 7 Microwave Amplifiers- Part II Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (22 Sep - 28 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Module 8 Microwave Oscillators and Mixers Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 10 To Week 12 (06 Oct - 26 Oct)",
+      "activity_type": "Practical",
+      "topic": "Project- Task#3 Project- Task#3 (Oscillators, Mixers and Microwave Systems) due on 31/10/2022, 4 pm. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (06 Oct - 12 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Module 9- Part I Microwave Systems- Part I Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (13 Oct - 19 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Module 9 Part II Microwave Systems Part II Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (20 Oct - 26 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Module 9 Part III Microwave Systems Part III Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

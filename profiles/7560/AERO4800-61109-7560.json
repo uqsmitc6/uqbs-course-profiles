@@ -1,0 +1,231 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/AERO4800-61109-7560",
+  "scraped_at": "2026-06-04T02:09:52.137160+00:00",
+  "course_code": "AERO4800",
+  "class_code": "61109",
+  "semester_code": "7560",
+  "full_course_code": "AERO4800-61109-7560",
+  "course_title": "Space Engineering",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "This course draws upon and extends many of the methods used by mechanical and space engineers in their professional practice. In this course you will learn how to perform advanced trajectory design and launch vehicle sizing; analyse issues related to thermal loading, power, and control of space systems; analyse how spacecraft safely return to Earth; perform reliability estimates for complex systems; and communicate your ideas and concepts through in-class exercises and written reports.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MECH2210",
+      "MECH3400",
+      "MECH2700"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MECH4800"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Chris James",
+      "email": "c.james4@uq.edu.au",
+      "phone": "+61 7 3365 3783",
+      "notes": "Please email Dr James to request a consultation."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Chris James",
+      "email": "c.james4@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Richard Morgan",
+      "email": "r.morgan@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course aims to give students an introduction to the broad field of space engineering by giving them an understanding of how the space environment affects the design of space systems, how to analyse the flight of space launch and re-entry vehicles, and how to manage heat, power needs, and reliability in space.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain the environmental and logistical challenges that are unique to space vehicle design."
+    },
+    {
+      "number": "LO2.",
+      "description": "Model and analyse the trajectories of rockets and other space launch vehicles."
+    },
+    {
+      "number": "LO3.",
+      "description": "Determine the orbits of spacecraft orbiting Earth, the sun, and other planets in the solar system to fulfil various mission objectives."
+    },
+    {
+      "number": "LO4.",
+      "description": "Analyse the thermal environment experienced by spacecraft."
+    },
+    {
+      "number": "LO5.",
+      "description": "Model and analyse the trajectories of spacecraft entering the atmospheres of Earth or other planets."
+    },
+    {
+      "number": "LO6.",
+      "description": "Select appropriate spacecraft power systems for different applications."
+    },
+    {
+      "number": "LO7.",
+      "description": "Perform preliminary design and calculate the reliability of different types of spacecraft and space systems."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "In-class problems",
+      "weight": "10%",
+      "due_date": "4/08/2025 2:00 pm; 11/08/2025 2:00 pm; 18/08/2025 2:00 pm; 25/08/2025 2:00 pm; 1/09/2025 2:00 pm; 8/09/2025 2:00 pm; 15/09/2025 2:00 pm; 22/09/2025 2:00 pm; 7/10/2025 2:00 pm; 13/10/2025 2:00 pm; 20/10/2025 2:00 pm; 27/10/2025 2:00 pm; 31/10/2025 5:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Space Engineering Assignment",
+      "weight": "30%",
+      "due_date": "Launch Vehicles Checkpoint (10%) 4/09/2025 2:00 pm; Astrodynamics Checkpoint (10%) 10/10/2025 12:00 pm; Final submission (10%) 30/10/2025 2:00 pm"
+    },
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Thermal Analysis Experiment",
+      "weight": "10%",
+      "due_date": "21/10/2025 - 31/10/2025"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-class problems",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "10%",
+      "due_date": "4/08/2025 2:00 pm 11/08/2025 2:00 pm 18/08/2025 2:00 pm 25/08/2025 2:00 pm 1/09/2025 2:00 pm 8/09/2025 2:00 pm 15/09/2025 2:00 pm 22/09/2025 2:00 pm 7/10/2025 2:00 pm 13/10/2025 2:00 pm 20/10/2025 2:00 pm 27/10/2025 2:00 pm 31/10/2025 5:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "Applied class problems will be issued on Blackboard to students just before the scheduled applied class time. The staff running the applied class will host the applied class in person at the scheduled time. The teaching staff will answer questions and explain the task to be completed individually during the applied class. Solutions to some or all of the applied class problems will be presented and discussed during the course of the applied class. The assessment for each applied class problem is full marks (worth 1%) or zero marks (worth 0%). The total mark for the applied class is then 1% pro-rated by the proportion of problems you passed. A pass requires that you make a reasonable attempt at the question: selecting appropriate theory and methodology from the lecture material and applying it to the problem at hand. Zero marks would constitute either not doing a problem at all or very incorrectly attempting the problem, such as applying an inappropriate analysis to the question at hand. Work must be submitted individually, however, students are actively encouraged to collaborate with group members in completing this learning activity. Submission is online via Blackboard at 2:00 PM the next business day after the applied class. except for Week 10 when it is due at 2PM on Tuesday due to the King's Birthday holiday and Week 13 where it is due on the same day as the class at 5PM as it cannot be due during the Revision week. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for detailed marking criteria. Read full task description Hide full task description",
+      "submission_guidelines": "Submission is online via Blackboard at 2:00 PM the next business day after the applied class. except for Week 10 when it is due at 2PM on Tuesday due to the King's Birthday holiday and Week 13 where it is due on the same day as the class at 5PM as it cannot be due during the Revision week.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThe maximum mark which can be obtained for this item of assessment is 10% (i.e. if you submit 9 applied class problems during the course of the semester and receive full marks for each, your final mark for this item of assessment will be 9%; whereas if you submit 13 applied class problems during the course of the semester and receive full marks for each, your final mark for this item of assessment will be 10%).\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nSolutions to some or all of the applied class problems will be presented and discussed during the course of the applied class.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Applied class problems will be issued on Blackboard to students just before the scheduled applied class time. The staff running the applied class will host the applied class in person at the scheduled time. The teaching staff will answer questions and explain the task to be completed individually during the applied class. Solutions to some or all of the applied class problems will be presented and discussed during the course of the applied class. The assessment for each applied class problem is full marks (worth 1%) or zero marks (worth 0%). The total mark for the applied class is then 1% pro-rated by the proportion of problems you passed. A pass requires that you make a reasonable attempt at the question: selecting appropriate theory and methodology from the lecture material and applying it to the problem at hand. Zero marks would constitute either not doing a problem at all or very incorrectly attempting the problem, such as applying an inappropriate analysis to the question at hand. Work must be submitted individually, however, students are actively encouraged to collaborate with group members in completing this learning activity. Submission is online via Blackboard at 2:00 PM the next business day after the applied class. except for Week 10 when it is due at 2PM on Tuesday due to the King's Birthday holiday and Week 13 where it is due on the same day as the class at 5PM as it cannot be due during the Revision week. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Please refer to Blackboard for detailed marking criteria. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Space Engineering Assignment",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "30%",
+      "due_date": "Launch Vehicles Checkpoint (10%) 4/09/2025 2:00 pm Astrodynamics Checkpoint (10%) 10/10/2025 12:00 pm Final submission (10%) 30/10/2025 2:00 pm",
+      "other_conditions": "Longitudinal. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Multi-part assignment covering the paper-based design of a space vehicle which will launch from Earth, travel to another location in the solar system, and then enter a planetary atmosphere. This assignment will require knowledge gained in the launch vehicles, astrodynamics, and planetary entry parts of the course, which will be applied to a simplified whole mission. Two checkpoint submissions (worth 10% of the course grade each) will be used to demonstrate that the launch vehicles and astrodynamics models developed are appropriate for completing the assignment and to provide feedback to students as they gradually work through the assignment throughout the semester. These submissions will be short preliminary reports which focus on presenting validation cases to demonstrate that the models are functioning as expected. The checkpoints will have their own assignment criteria provided on Blackboard. The final report (worth 10% of the course grade) will formally document the findings of the whole project. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Please refer to Blackboard for detailed marking criteria. Read full task description Hide full task description",
+      "submission_guidelines": "Submission is online via TurnItIn on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFeedback is provided to students following 14 calendar days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Multi-part assignment covering the paper-based design of a space vehicle which will launch from Earth, travel to another location in the solar system, and then enter a planetary atmosphere. This assignment will require knowledge gained in the launch vehicles, astrodynamics, and planetary entry parts of the course, which will be applied to a simplified whole mission. Two checkpoint submissions (worth 10% of the course grade each) will be used to demonstrate that the launch vehicles and astrodynamics models developed are appropriate for completing the assignment and to provide feedback to students as they gradually work through the assignment throughout the semester. These submissions will be short preliminary reports which focus on presenting validation cases to demonstrate that the models are functioning as expected. The checkpoints will have their own assignment criteria provided on Blackboard. The final report (worth 10% of the course grade) will formally document the findings of the whole project. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Please refer to Blackboard for detailed marking criteria. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Thermal Analysis Experiment",
+      "mode": "Activity/ Performance",
+      "category": "Practical/ Demonstration",
+      "weight": "10%",
+      "due_date": "21/10/2025 - 31/10/2025",
+      "learning_outcomes_assessed": "L04",
+      "task_description": "This practical involves the testing of a scaled model of a space shuttle style wing section by subjecting it to electrical heating loads equivalent to those encountered in re-entry from space. Theoretical models of the transient heating and thermal control mechanisms involved must be developed and used to evaluate the experimental results. Practical attendance is compulsory and any student who does not attend a practical session will receive a grade of 0 for the practical. The laboratory sessions will be held in weeks 9 and 10 of semester. There is pre-work which students need to complete before the practical and bring to the session so that it can be marked at the start of the session. The pre-work is also designed to increase understanding of the practical content on the day. Data will be generated during the practical, and students are required to bring their own USB stick to take the data away with them. It is each student's individual responsibility to ensure they leave the practical with a copy of the data. Reports are due three teaching weeks after performing the experiments, in teaching Weeks 12 or 13 by 2:00 PM on the day of the week which the experiments were performed. The experiments are performed in groups; however, the assessment is individual. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Please refer to Blackboard for detailed marking criteria. Read full task description Hide full task description",
+      "submission_guidelines": "Submission is online via TurnItIn on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nIf you are applying for an extension to the laboratory session please ensure you have your correct date and time in your request. You must provide evidence in your request that demonstrates your inability to attend the session at your scheduled date and time. As the laboratory session is timed assessment, discretionary extensions and extensions based on Student Access Plans (SAPs) will not be accepted for the laboratory session.\nFeedback is provided to students following 14 calendar days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This practical involves the testing of a scaled model of a space shuttle style wing section by subjecting it to electrical heating loads equivalent to those encountered in re-entry from space. Theoretical models of the transient heating and thermal control mechanisms involved must be developed and used to evaluate the experimental results. Practical attendance is compulsory and any student who does not attend a practical session will receive a grade of 0 for the practical. The laboratory sessions will be held in weeks 9 and 10 of semester. There is pre-work which students need to complete before the practical and bring to the session so that it can be marked at the start of the session. The pre-work is also designed to increase understanding of the practical content on the day. Data will be generated during the practical, and students are required to bring their own USB stick to take the data away with them. It is each student's individual responsibility to ensure they leave the practical with a copy of the data. Reports are due three teaching weeks after performing the experiments, in teaching Weeks 12 or 13 by 2:00 PM on the day of the week which the experiments were performed. The experiments are performed in groups; however, the assessment is individual. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Please refer to Blackboard for detailed marking criteria. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "Exam scope: Entire course. Formula sheet provided. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "Exam scope: Entire course. Formula sheet provided. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (28 Jul - 02 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Space Engineering Lectures Lectures will be run in person each week. Students are encouraged to participate in the lectures, where they will be able to ask questions and engage with the lecture content. Recordings of the lectures will be made available on Blackboard after the event. Introductory lectures will aim to give students an understanding of how the space environment affects the design of space systems. The first series of lectures cover atmospheric flight. In this part of the course, students will learn how to model the flight of rockets and scramjet systems in the Earth's atmospheric, as well as how to size these systems to get payloads into orbit. The second series of lectures cover advanced orbital mechanics. In this part of the course, students will learn how to calculate basic orbits around Earth, before considering more complicated three-dimensional orbits, transfer orbits, and interplanetary trajectories. The third series of lectures cover planetary entry and thermal management for space systems. In this part of the course students will learn about the techniques and materials which are used to survive planetary entry, as well as how heat is managed in the vacuum of space. They will also learn about the different types of planetary entry trajectories, as well as basic techniques which can be used to analyse accelerations and heat transfer rates during planetary entry to aid in the preliminary design and analysis of space vehicles. The final series of lectures cover space power systems and reliability. In this part of the course, students will learn about which power systems are most appropriate for different space scenarios, and how to size basic systems accordingly. Students will also learn about how to design reliable systems which have a high chance of succeeding in the demanding and remote space environment. Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (28 Jul - 02 Nov)",
+      "activity_type": "Applied Class",
+      "topic": "Applied Classes This time is set aside for solving example problems and includes time to ask questions about the course content and the assignments. The first hour of the applied class will be used to work through an assessed applied class problem and the second hour will be available for further discussion about course content. The applied class will be conducted in person only. Applied class problems will be issued on Blackboard to students just before the scheduled applied class time. The teaching staff will answer questions and explain the task to be completed individually during the applied class. Solutions to some or all of the applied class problems will be presented and discussed during the course of the applied class. Work must be submitted individually, however, students are actively encouraged to collaborate with group members in completing this learning activity. Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (04 Aug - 02 Nov)",
+      "activity_type": "Applied Class",
+      "topic": "Space Engineering Assignment Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 9 To Week 10 (22 Sep - 12 Oct)",
+      "activity_type": "Practical",
+      "topic": "Thermal Analysis Experiment Group experiments are conducted on a simulated thermal protection system segment of a re-entry spacecraft in an evacuated chamber to give students a practical demonstration of transient planetary entry heating. Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

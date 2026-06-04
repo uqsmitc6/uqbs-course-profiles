@@ -1,0 +1,368 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/DATA7002-61575-7560",
+  "scraped_at": "2026-06-04T02:17:43.872774+00:00",
+  "course_code": "DATA7002",
+  "class_code": "61575",
+  "semester_code": "7560",
+  "full_course_code": "DATA7002-61575-7560",
+  "course_title": "Responsible Data Science",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Historical & Philosophical Inq",
+  "course_description": "Gathering, understanding, interpreting and making decisions based on collected data is an invaluable tool for science, business and governments. Concerns about privacy, consent, confidentiality, discrimination, ownership, commercialisation, intellectual property and the importance of fair benefit sharing are known. Being aware of conflicts of interest and the need to ensure equity, reciprocity and respect for cultural diversity are increasingly seen as important. What is less recognised is the nature of the roles of those who access and make decisions about collected linked personal information. The emerging global banked data that has become a key part of contemporary decision-making raises questions about the role of the data scientist. In this course students will critically analyse the ethical and legal foundations of data science governance that are relevant to the technical processes of data collection, storage, exchange and access. Issues covered will include the ethical dimensions of data management, legal and regulatory frameworks in Australia and in relevant jurisdictions, data policy, data privacy, data ownership, legal liabilities regarding analytical decisions, and discrimination. The course will equip students to identify the ethical and legislative requirements that underpin the technical processes of data science and to apply ethical and legal considerations to the core processes of data analytics. It will also introduce algorithms and technical approaches to minimise the risk of data identifiability and disclosure. A range of case studies will be used to explore these issues in applications of data science, including the use of government administrative data for informing social policy, to integrate ethical, legal and technical considerations.\n\nThis course is part of the Master of Data Science ﾠintroduced by EAIT. This is a cross faculty PGCW initiative. The DATA7002 ﾠcourse is one of the four “foundation” courses undertaken by all students enrolled in the program.ﾠ The course aims to provide thoseﾠ working with data sources with an understanding of the ethical and legal frameworks within which they will operate. This courseﾠ equips graduates with an understanding of the ethical, legal and technical concerns they will face in their future careers.",
+  "requirements": {
+    "restrictions": [
+      "Restricted to Master of Data Science and Master of Quantitative Biology students only."
+    ]
+  },
+  "course_staff": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Michael Vincent",
+      "email": "m.vincent2@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Michael Vincent",
+      "email": "m.vincent2@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Slava Vaisman",
+      "email": "r.vaisman@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Zixin Wang",
+      "email": "zixin.wang@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Hamish MacDonald",
+      "email": "h.macdonald1@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Omkar Nadh Pattela",
+      "email": "o.pattela@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Michael Vincent"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Zixin Wang"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Hamish MacDonald"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Omkar Nadh Pattela"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Hui Yao",
+      "email": "h.yao@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Nhat Pham",
+      "email": "nat.pham@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "The course aims to provide data scientists working with data sources with an understanding of the ethical and legal frameworks within which they will operate. This course equips graduates with an understanding of the ethics, legal and technical concerns that they will face in their future careers.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Identify the key ethical, legal and technical considerations that are intrinsic to integrity in data science practice."
+    },
+    {
+      "number": "LO2.",
+      "description": "Gain practical skills in predicting, identifying, assessing, evaluating and responding to the ethical conflicts and dilemmas that are likely to occur within data science."
+    },
+    {
+      "number": "LO3.",
+      "description": "Explain the different legal and ethics approaches that underpin the application of data science."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply relevant Australian and international law and ethics theory to contemporary data science problems."
+    },
+    {
+      "number": "LO5.",
+      "description": "Evaluate the effectiveness of different legal and ethics approaches relevant to the application of data science."
+    },
+    {
+      "number": "LO6.",
+      "description": "Ability to identify relevant ethics and legal aspects of data science and apply appropriate techniques and algorithms for data de-identification to ensure privacy and non-disclosure when required."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Quizzes to be held in Tutorials",
+      "weight": "20%",
+      "due_date": "8/08/2025 - 10/10/2025",
+      "conditions": [
+        "Identity Verified",
+        "In-person",
+        "Online"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Plan for Major Assessment",
+      "weight": "10%",
+      "due_date": "26/09/2025 2:00 pm"
+    },
+    {
+      "category": "Presentation",
+      "title": "Group Presentation",
+      "weight": "30%",
+      "due_date": "16/10/2025 - 31/10/2025",
+      "conditions": [
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Essay/ Critique",
+      "title": "Final Essay",
+      "weight": "40%",
+      "due_date": "3/11/2025 2:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Quizzes to be held in Tutorials",
+      "mode": "Activity/ Performance",
+      "category": "Quiz",
+      "weight": "20%",
+      "due_date": "8/08/2025 - 10/10/2025",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L04, L06",
+      "task_description": "There will be a small quiz in each of the first eight tutorials. It is important that you attend the tutorials and have a device on which to access Blackboard with you. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Most quizzes will be conducted in class, either online or on paper. One of the quizzes will be entirely online without attendance required.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "ai_statement": "There will be a small quiz in each of the first eight tutorials. It is important that you attend the tutorials and have a device on which to access Blackboard with you. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) tools will not be permitted. Any attempted use of Generative AI may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Plan for Major Assessment",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "10%",
+      "due_date": "26/09/2025 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "This is a 'scaffolded writing assignment,' which requires students to complete written sections of a fillable Word document that will be provided on Blackboard. Each section of the fillable Word document will represent a single component of what would traditionally be included in an essay, such as a thesis statement, an introduction, main paragraphs, and a bibliography. Each section will provide instructions concerning how to complete it, including the word limits for responses. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submission will be through a Turnitin portal.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This is a 'scaffolded writing assignment,' which requires students to complete written sections of a fillable Word document that will be provided on Blackboard. Each section of the fillable Word document will represent a single component of what would traditionally be included in an essay, such as a thesis statement, an introduction, main paragraphs, and a bibliography. Each section will provide instructions concerning how to complete it, including the word limits for responses. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Group Presentation",
+      "mode": "Oral",
+      "category": "Presentation",
+      "weight": "30%",
+      "due_date": "16/10/2025 - 31/10/2025",
+      "other_conditions": "Time limited, Peer assessment factor. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "Students are allocated to groups. Each group will be required to identify key ethical, legal and technical considerations relating to a real-life data science problem. Each group will choose their own problem. Each group will create a presentation for 10 minutes followed by a 10 minute question time. The presentation should be comprised of a brief introduction to the real-life problem, and the identification of key ethical, legal and technical concerns. This group assessment task will use BuddyCheck peer assessment factoring. Each team will get a single grade for their presentation, however individual grades may vary somewhat depending on whether the group judges the individual to have been a good team member. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Each group will present in weeks 11 or 12 (or 13 if necessary) and submit the presentation summary and ppt via a link on the e-learning site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nIt is urgent that you seek an official extension if you will not be able to present at your assigned time.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Students are allocated to groups. Each group will be required to identify key ethical, legal and technical considerations relating to a real-life data science problem. Each group will choose their own problem. Each group will create a presentation for 10 minutes followed by a 10 minute question time. The presentation should be comprised of a brief introduction to the real-life problem, and the identification of key ethical, legal and technical concerns. This group assessment task will use BuddyCheck peer assessment factoring. Each team will get a single grade for their presentation, however individual grades may vary somewhat depending on whether the group judges the individual to have been a good team member. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.",
+      "special_indicators": [
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Essay",
+      "mode": "Written",
+      "category": "Essay/ Critique",
+      "weight": "40%",
+      "due_date": "3/11/2025 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "You will write an essay identifying and applying key ethical, legal and technical issues relating to a real-life data science case study. Each student is expected to consider (a) what ethical, legal and technical solutions could have been implemented to ameliorate/stop the problem and (b) reflect on the importance of ethics, law and technical perspectives, in light of what they have learned about the case study/real life problem and their learning on the course. The focus of the analysis should be on demonstrating an ability to identify, describe relevant issues and apply course learnings. There will be extensive discussion of how to do this task in class, and students will be expected to have familiarity with these discussions. Texts and references should be cited according to the University guidelines. In line with common writing practices in philosophy, law and ethics, students may write in first or third person. Word Count: 2000 words. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "You must submit an electronic copy only through Turnitin. All students must ensure they receive their Turnitin receipt on submission of any assessments. A valid Turnitin receipt will be the only evidence accepted if assessments are missing. In the event of Turnitin technical difficulties, immediately send a copy of your essay to course staff so they can see that it was completed on time.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "You will write an essay identifying and applying key ethical, legal and technical issues relating to a real-life data science case study. Each student is expected to consider (a) what ethical, legal and technical solutions could have been implemented to ameliorate/stop the problem and (b) reflect on the importance of ethics, law and technical perspectives, in light of what they have learned about the case study/real life problem and their learning on the course. The focus of the analysis should be on demonstrating an ability to identify, describe relevant issues and apply course learnings. There will be extensive discussion of how to do this task in class, and students will be expected to have familiarity with these discussions. Texts and references should be cited according to the University guidelines. In line with common writing practices in philosophy, law and ethics, students may write in first or third person. Word Count: 2000 words. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (28 Jul - 03 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Introduction and course foundations Week one is an introduction to the course, including expectations regarding assessment. We will then consider how ethics is relevant to data science. An introduction to practical ethics and the nature of moral inquiry and philosophical analysis will follow. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (04 Aug - 10 Aug)",
+      "activity_type": "Lecture",
+      "topic": "The theoretical tools of ethical analysis In the lecture this week we will consider ethical reasoning, some key approaches to philosophical ethics and then practical decision-making and problem solving. Over the next few weeks we will progress from personal ethics, to professional ethics, to large-scale challenges in our social system. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (11 Aug - 17 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Assessment Preparation and Case Studies; Responsibility How the major assessment pieces will function. Some examples of disputes in data science ethics, and how we might resolve them. The place of professionals in the social ecosystem. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (18 Aug - 24 Aug)",
+      "activity_type": "Lecture",
+      "topic": "The Big Picture: socio-political factors The politics of Big Data. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (25 Aug - 31 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Introduction to legal issues in Data Science Introduction to law and legal issues relevant to data science Introduction to law and data science What is law?, Jurisdiction, sources of law, and legal reasoning; law and technological change. Learning outcomes: L01, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (01 Sep - 07 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Intellectual Property and Contract Law Intellectual property and contract law Copyright, patents, and trademarks Law of contracts Open access, open source, and open data Learning outcomes: L01, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (08 Sep - 14 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Privacy and Cybersecurity Law The concept of privacy Information privacy law Law and cybersecurity Learning outcomes: L01, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (15 Sep - 21 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Technical: Responsible statistical practice I Students will learn to recognize some common misuses of statistics through case studies involving various statistical techniques ranging from statistical graphics, hypothesis testing to regression models. Learning outcomes: L01, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (22 Sep - 28 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Technical Strategies for Responsible DataSc: Responsible Statistical Practice Part II and Machine Learning Part I The statistical framework Responsible statistical practice Part II: Students will learn general guidelines on responsible uses of statistics and how to do this. Responsible Machine Learning Part I: In this part of the course we will introduce the ethical considerations in machine learning research and practice. Learning outcomes: L01, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 10 (06 Oct - 12 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Responsible Machine Learning Part II In this part of the course we will explore various biases and discrimination issues in machine learning and introduce actionable strategies to mitigate these biases and realize fairness-aware machine learning. Cognitive Biases, Human Biases in Machine Learning, Actionable Strategies to Mitigate Biases. Learning outcomes: L01, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 11 (13 Oct - 19 Oct)",
+      "activity_type": "Seminar",
+      "topic": "Integrated seminar presentations Presentations will be assessed in the lecture and tutorial times of this week. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (20 Oct - 26 Oct)",
+      "activity_type": "Seminar",
+      "topic": "Integrated seminar presentations Presentations will be assessed in the lecture and tutorial times of this week. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (27 Oct - 02 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Future Directions and Course Summary Discussion for final assessment, addressing what we have learned through the semester. Presentations may be assessed in the tutorial times of this week. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Course guidelines Please note that in order to pass this course all assessment items worth over 15% must be attempted. Learning activities"
+}

@@ -1,0 +1,466 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/WATR7107-61212-7560",
+  "scraped_at": "2026-06-04T02:44:38.365791+00:00",
+  "course_code": "WATR7107",
+  "class_code": "61212",
+  "semester_code": "7560",
+  "full_course_code": "WATR7107-61212-7560",
+  "course_title": "Wastewater Modelling and Control",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Chemical Engineering School",
+  "course_description": "Process models and systems analysis are now widely used across industry to understand, engineer and control water and wastewater treatment. It is not possible to optimise wastewater treatment without process control, and models have become enabling tools. This influences traditional aspects such as sanitation and underpins emerging innovations such as resource recovery (energy, nutrients and water). Modelling and control is able to capture complex interconnectivity between technologies and local systems in an integrated manner, which provides a holistic understanding and better solutions. The importance of this course is emphasized by the fact that most people in water and wastewater industries frequently use models or model outputs for decision making, and hence need to understand models and their application.\n\nThis course introduces systematic approaches to develop process simulation models of water and wastewater treatment, and the use of such models to understand, design, troubleshoot and control treatment processes. Course attendees will become competent at using these approaches to solve engineering problems faced by the water and wastewater treatment sectors. To ensure that the course has direct industry relevance, the course is structured around application case studies using real process scenarios.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CHEE2001",
+      "CHEE3002",
+      "CHEE2040"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Stephan Tait",
+      "email": "s.tait@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Stephan Tait",
+      "email": "s.tait@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "Understand and apply systematic process modelling and analysis approaches to understand, design, troubleshoot and control water and wastewater treatment processes.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain relevant interactions of physics, chemistry and biology relevant to water and wastewater treatment processes."
+    },
+    {
+      "number": "LO2.",
+      "description": "Examine given water or wastewater treatment processes to discuss key objectives of operation and control and develop appropriate control strategies."
+    },
+    {
+      "number": "LO3.",
+      "description": "Solve process models computationally. Analyze and debug model code, obtain and analyze outputs to assess model performance and achieve model study objectives."
+    },
+    {
+      "number": "LO4.",
+      "description": "Analyze and adapt the model in response to field data. Conduct parameter estimation and model validation using field data."
+    },
+    {
+      "number": "LO5.",
+      "description": "Use models to evaluate water and wastewater treatment options and select and defend water and wastewater solutions."
+    },
+    {
+      "number": "LO6.",
+      "description": "Apply models to analyse process dynamic behaviour and use this to devise control and optimisation solutions."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "In-Semester Exam During Class",
+      "weight": "20%",
+      "due_date": "1/09/2025",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "title": "Modelling Project 1",
+      "weight": "20%",
+      "due_date": "19/09/2025 5:00 pm"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "title": "Modelling Project 2",
+      "weight": "20%",
+      "due_date": "24/10/2025 5:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Exam During Exam Period (Central)",
+      "weight": "40% Hurdle",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-Semester Exam During Class",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "20%",
+      "due_date": "1/09/2025",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02",
+      "task_description": "The duration of the written quiz will be Reading: 10 minutes; Duration: 50 minutes. Closed book. Casio FX82 series only or UQ approved and labelled calculator required. Invigilated In-class in-semester quiz. External students are invigilated via Zoom. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The duration of the written quiz will be Reading: 10 minutes; Duration: 50 minutes. Closed book. Casio FX82 series only or UQ approved and labelled calculator required. Invigilated In-class in-semester quiz. External students are invigilated via Zoom. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Modelling Project 1",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "weight": "20%",
+      "due_date": "19/09/2025 5:00 pm",
+      "learning_outcomes_assessed": "L02, L03, L05",
+      "task_description": "Individual report Problem solving using wastewater modelling Artificial Intelligence (AI) and Machine Translation (MT) may be appropriately used to support students in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. Read full task description Hide full task description",
+      "submission_guidelines": "Submissions will be electronic through blackboard. A submission and turnitin link will be made available before the due date.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nAn extension request is not considered late until 24 hours after the assessment due date & time.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessments must be submitted on or before the due date.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Individual report Problem solving using wastewater modelling Artificial Intelligence (AI) and Machine Translation (MT) may be appropriately used to support students in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) may be appropriately used to support students in completing this assessment task. Students must clearly reference any use of AI or MT in each instance."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Modelling Project 2",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Project",
+      "weight": "20%",
+      "due_date": "24/10/2025 5:00 pm",
+      "learning_outcomes_assessed": "L03, L04, L05, L06",
+      "task_description": "Individual report Problem solving using wastewater modelling Artificial Intelligence (AI) and Machine Translation (MT) may be appropriately used to support students in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. Read full task description Hide full task description",
+      "submission_guidelines": "Submissions will be electronic through blackboard. A submission and turnitin link will be made available before the due date.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nAn extension request is not considered late until 24 hours after the assessment due date & time.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessments must be submitted on or before the due date.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Individual report Problem solving using wastewater modelling Artificial Intelligence (AI) and Machine Translation (MT) may be appropriately used to support students in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) may be appropriately used to support students in completing this assessment task. Students must clearly reference any use of AI or MT in each instance."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Exam During Exam Period (Central)",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40% Hurdle",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "learning_outcomes_assessed": "L01, L02, L05, L06",
+      "task_description": "Identity Verified Assessment. Closed book. Students are required to achieve a minimum final exam score of 40% to achieve a passing grade. Do NOT use red pen or pencil. External students are invigilated via Zoom. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "Identity Verified Assessment. Closed book. Students are required to achieve a minimum final exam score of 40% to achieve a passing grade. Do NOT use red pen or pencil. External students are invigilated via Zoom. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 1 - Lecture and in-class demonstration Introduction to modelling. Mass, energy balances, solving in Excel and Python. Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "IT Computing",
+      "topic": "Week 1 - Computer-based learning session Computing based exercises focused on practical integrated problems. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 2 - Lecture and in-class demonstration Biological models in wastewater treatment. Solving dilute systems. Dynamic vs steady state modelling. Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "IT Computing",
+      "topic": "Week 2 - Computer-based learning session Computing based exercises focused on practical integrated problems. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 3 - Lectures and in-class demonstration Modelling multi-compartment systems. Building integrated models. Model types. State transformations. Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "IT Computing",
+      "topic": "Week 3 - Computer-based learning session Computing based exercises focused on practical integrated problems. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 4 - Lecture and in-class demonstration IWA Models focusing on activated sludge models, but also anaerobic digestion and other (e.g. Anammox models). Inorganic chemistry. Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "IT Computing",
+      "topic": "Week 4 - Computer-based learning session Multicompartment modelling including indices and loops in models, Dynamic dissolved oxygen, introduction of kLa and implementing disturbances and dynamic input data. Learning outcomes: L01, L02, L03, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 5 - Lecture and in-class demonstration Computing based exercises focused on practical integrated problems. Learning outcomes: L01, L02, L04, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 5 - Computer-based learning session Control theory. Implementing and testing controllers in simple systems. Sensor, controller, and actuator models including ASM1 and settler model (6stage models). Quiz preparation. Learning outcomes: L01, L02, L03, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 6 - Lecture and in-class demonstration Computing based exercises focused on practical integrated problems. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 7 - Lecture and in-class demonstration Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "IT Computing",
+      "topic": "Week 7 - Computer-based learning session Computing based exercises focused on practical integrated problems. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 8 - Lecture and in-class demonstration Expansion of ASM1 including settler modelling and Parameter estimation. Learning outcomes: L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "IT Computing",
+      "topic": "Week 8 - Computer-based learning session Computing based exercises focused on practical integrated problems. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 9 - Lecture and in-class demonstration Wastewater characterisation. Learning outcomes: L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "IT Computing",
+      "topic": "Week 9 - Computer-based learning session Computing based exercises focused on practical integrated problems. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 10 - Lecture and in-class demonstration Integrated plant wide modelling, control and optimisation. Practice practical exam demonstration. Learning outcomes: L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "IT Computing",
+      "topic": "Week 10 - Computer-based learning session Computing based exercises focused on practical integrated problems. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 11 - Lecture and in-class demonstration Collaborative modelling. Learning outcomes: L01, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "IT Computing",
+      "topic": "Week 11 - Computer-based learning sessions Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Lecture",
+      "topic": "Week 12 - Lecture and in-class demonstration Course review. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "IT Computing",
+      "topic": "Week 12 - Computer-based learning sessions Computing based exercises focused on practical integrated problems. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "",
+      "activity_type": "Tutorial",
+      "topic": "Week 13 - Exam review session Exam review session. Learning outcomes: L01, L02, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

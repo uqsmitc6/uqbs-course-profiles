@@ -1,0 +1,185 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH2100-62113-7560",
+  "scraped_at": "2026-06-04T02:28:41.525076+00:00",
+  "course_code": "MATH2100",
+  "class_code": "62113",
+  "semester_code": "7560",
+  "full_course_code": "MATH2100-62113-7560",
+  "course_title": "Applied Mathematical Analysis",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "ODE's - Systems: variation of constants, fundamental matrix. Laplace transform, transform for systems, transfer function. Stability, asymptotic stability; phase-lane analysis. PDE's - Fourier series. Wave, heat, Laplace's equations. Simple maximum & uniqueness principles. Separation of variables in rectangular & polar coordinates.\n\nThis course will cover the following 4 topics .\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against UQ Policy, and will not be tolerated. We have developed a suite of resources to assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1052",
+      "MATH1072"
+    ],
+    "companions": [
+      "We recommend completing the following courses at the same time:",
+      "MATH2001",
+      "MATH2901"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH2010",
+      "MATH2011",
+      "MATH7100"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Yao-zhong Zhang",
+      "email": "yzz@maths.uq.edu.au",
+      "phone": "+61 7 3365 3256",
+      "notes": "Yao-Zhong Zhang is the lecturer for the second part (i.e. the PDEs part) of the course. Please contact Yao-Zhong Zhang for questions related to lecture material, tutorials and assignments of the second (PDEs) part of the course."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Yao-zhong Zhang",
+      "email": "yzz@maths.uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Ivana Carrizo Molina",
+      "email": "n.carrizomolina@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus – consult your personal timetable for times and locations. Students are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness).\nImportant: if you are ill, then do not attend any classes in person. Alternative arrangements can be organised – consult Blackboard for details.\nThe lectures are taught during weeks 1-13:ﾠThe first part of the course on ODEs is taught during weeks 1-6. The second part on PDEs is taught during weeks 7-13. Applied Classes are taught in weeks 2-13.\nThere are no Applied Classes in week 1.ﾠ\nNote:\nﾠWednesday 13ﾠAugust and Monday 6ﾠOctober are public holidays. There will be no classes on these days. If you have an applied class on one of these days, you may attend any of the other applied class groups for that week only.",
+  "course_aims": "This course is built around the four mathematical notions: Systems of ordinary differential equations (ODEs); Laplace transforms; Fourier series; and Partial Differential Equations (PDEs). Students will be introduced to a number of new concepts and methods, and will be presented with theory and examples. Students with interests in the applications of mathematics to the real world, or with the development of the tools needed for such applications, will need a good understanding of the basic ideas introduced here. This includes those interested in research careers in theoretical physics, engineering, applied mathematics, pure mathematics (analysis), and numerical analysis",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Ordinary Differential equations - use the software package Mathematica to solve systems of differential equations and plot the solutions"
+    },
+    {
+      "number": "LO2.",
+      "description": "Ordinary Differential equations - solve linear systems of ODEs and to be able to interpret their behaviour in the phase plane."
+    },
+    {
+      "number": "LO3.",
+      "description": "Ordinary Differential equations - find equilibrium solutions to nonlinear systems of ODE's and analyse their stability characteristics."
+    },
+    {
+      "number": "LO4.",
+      "description": "Ordinary Differential equations - use the Laplace Transform to solve linear ODE's and systems of ODE's with continuous and discontinuous forcing."
+    },
+    {
+      "number": "LO5.",
+      "description": "Ordinary Differential equations - use the methods described above to analyse systems from Biology, Chemistry, Physics and Engineering (mass spring systems, mixing problems, simple electrical circuit systems, simple chemical rate equations and simple predator prey systems)."
+    },
+    {
+      "number": "LO6.",
+      "description": "Partial Differential Equations - Use ideas such as linear equations, the superposition principle and separation of variables to solve a range partial differential equations."
+    },
+    {
+      "number": "LO7.",
+      "description": "Partial Differential Equations - Use various notions related to Fourier analysis to find and manipulate Fourier series for a range of functions."
+    },
+    {
+      "number": "LO8.",
+      "description": "Partial Differential Equations - solve simple boundary- and initial-value problems, among them the wave equation, the heat equation and Laplace's equation."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "4 Assignments",
+      "weight": "40%",
+      "due_date": "Assignment 1: 18/08/2025 1:00 pm; Assignment 2: 8/09/2025 1:00 pm; Assignment 3: 7/10/2025 1:00 pm; Assignment 4: 27/10/2025 1:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "4 Assignments",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "40%",
+      "due_date": "Assignment 1: 18/08/2025 1:00 pm Assignment 2: 8/09/2025 1:00 pm Assignment 3: 7/10/2025 1:00 pm Assignment 4: 27/10/2025 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "Assignments will comprise problems based on material presented in lectures and applied classes. Each assignment is equally weighted. Read full task description Hide full task description",
+      "submission_guidelines": "All assessment items should be submitted electronically through Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for assessment item/s will be released 7 days after the assessment is due and as such, an extension after 7 days will not be possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L08",
+      "task_description": "The final examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.",
+    "other_course_materials": "If we've listed something under further requirement, you'll need to provide your own. Required Item Description Further Requirement MATH2010 Course Workbook This is the workbook for the first (ODEs) part of the course. It is available as a PDF from the course Blackboard page and is also available as a hard copy from UQ Print. The workbook covers all the lecture material presented throughout the semester. Students should bring this document to all lectures. own item needed MATH2011 Course Workbook This is the workbook for the second (PDEs) part of the course. It is available as a PDF from the course Blackboard page and is also available as a hard copy from UQ Print. The workbook covers all the lecture material presented throughout the semester. Students should bring this document to all lectures. own item needed",
+    "required": "Item Description Further Requirement MATH2010 Course Workbook This is the workbook for the first (ODEs) part of the course. It is available as a PDF from the course Blackboard page and is also available as a hard copy from UQ Print. The workbook covers all the lecture material presented throughout the semester. Students should bring this document to all lectures. own item needed MATH2011 Course Workbook This is the workbook for the second (PDEs) part of the course. It is available as a PDF from the course Blackboard page and is also available as a hard copy from UQ Print. The workbook covers all the lecture material presented throughout the semester. Students should bring this document to all lectures. own item needed"
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 6 (28 Jul - 07 Sep)",
+      "activity_type": "Lecture",
+      "topic": "ODEs and Laplace transform 3 lectures per week. Lectures will be on-campus. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (04 Aug - 02 Nov)",
+      "activity_type": "Applied Class",
+      "topic": "Problem Solving One Applied Class per week (from Week 2), in which a casual academic demonstrates solutions of selected problems and is available to answer questions about the problem sheets and assignment problems. Students work on solving problems and understanding course material and are able to ask questions. Learning outcomes: L01, L02, L03, L04, L05, L06, L07, L08",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 7 To Week 13 (08 Sep - 02 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Fourier Series and PDEs 3 lectures per week. Lectures will be on-campus. Learning outcomes: L06, L07, L08",
+      "learning_outcomes": [
+        "L06",
+        "L07",
+        "L08"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

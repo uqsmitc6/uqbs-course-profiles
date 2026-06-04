@@ -1,0 +1,202 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MECH3301-61116-7560",
+  "scraped_at": "2026-06-04T02:29:48.333516+00:00",
+  "course_code": "MECH3301",
+  "class_code": "61116",
+  "semester_code": "7560",
+  "full_course_code": "MECH3301-61116-7560",
+  "course_title": "Materials Selection",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "This course explores the principles and practices of material selection for mechanical design, covering structural requirements, shape considerations, as well as economic and environmental impacts. Students will utilise material databases, material indices, and selection charts to make informed decisions. Through a practical project, students will gain hands-on experience in material selection tailored for real-world applications.\n\nEngineering is the art of creation, where skilled engineers utilise raw materials to craft incredible things. From soaring skyscrapers to intricate machines, engineers shape the world around us and enhance our life through their creation. However, at the core of all engineering endeavours lies a crucial element that holds the key to success: material selection.\n\nIn this course, we'll dive into the world of material selection in engineering design. You will acquire the knowledge and skills to make methodical and intelligent decisions about what materials to use. These decisions are crucial, as they can have a significant impact on safety, performance, functionality, durability, cost, sustainability and ultimately the success of your designs.\n\nThe main goal of this course is to equip you with the knowledge and skills to effectively select materials, using the Materials Indices method,ﾠas an integral part of the engineering design process. You will gain the ability to systematically assess and compare candidate materials based on their properties. This approach empowers you to make informed decisions, resulting in optimal material selection that aligns with the desired engineering objectives.\n\nTraditional methods of Materials Selection rely on extensive use of tables of material properties and experience, and therefore are largely empirical and can become cumbersome in practice. This method focuses on identifying the combination of material properties that maximises the engineering performance across various aspects, such as mechanical, thermal, and optical properties, as well as cost and sustainability, for a specific application.ﾠFor instance, when considering a tie rod subjected to tensile loading, the material that minimises its mass while maintaining the desired stiffness would be identified by maximising the elastic modulus/density ratio. This ratio, known as the Material Index for the tie rod, serves as a valuable tool for ranking candidate materials. Essentially, the most suitable material for the application is the one that provides the highest value of GPa per kg or the largest Index.\n\nThe material selection conducted through this approach is based on mathematical criteria, ensuring an unambiguous decision-making process. This method enables the selection of materials for structural applications by considering not only their inherent properties but also incorporating considerations of shape. Additionally, the method facilitates material substitutions while addressing multiple and potentially conflicting constraints. For instance, it allows for the identification of materials to make the design both cost-effective and lightweight. While the primary focus of the method is on structural applications, it also encompasses a broader range of physical properties, such as optical and thermal properties. Moreover, the method takes into account factors like price and sustainability, recognising their significance in the modern design process.\n\nThe course is structured around a series of lectures that introduceﾠthe selection method, providing a solid foundation for understanding the concept. A significant portion of the final marks is allocated to the resolution of the problem-based question set during the Applied Classes, with valuable guidance and support provided by the dedicated teaching team. These exercises are solved with the help of a dedicated software package, Granta CES Edupack 2021 (ANSYS), available in the faculty computer lab for the applied classes, and in all computer labs across the Faculty, allowing students to work on their assignments at any convenient time. Furthermore, a laboratory project is integrated into the course, aimed at familiarising students with the analysis of raw material data and the complete process of material selection in engineering design. By engaging in this hands-on experience, students gain a deeper understanding of the material selection process and its practical application. This experiential learning opportunity allows students to apply their knowledge and skills in real-world scenarios, further enhancing their grasp of material selection and its significance in engineering design.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATE1000",
+      "ENGG1200",
+      "ENGG1211",
+      "ENGG1700"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MECH4301"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Mingyuan Lu",
+      "email": "m.lu1@uq.edu.au",
+      "notes": "Please email to arrange a consultation."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Mingyuan Lu",
+      "email": "m.lu1@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course aims to introduce students to a systematic procedure for selecting materials that are best suited for a given engineering application, and to develop their proficiency in deriving material indices based on the relevant equations that describe the specific application. Additionally, the course aims to equip students with the skills necessary to successfully execute a simple mechanical design project. This involves tasks such as identifying the relevant material properties, selecting suitable candidates, and providing justified analysis in a technical report to support recommendations. Through these activities, students will gain hands-on experience and practical knowledge that will enhance their understanding of materials selection and their ability to apply it effectively in real-world engineering scenarios.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand what material indices are and explain how Material Indices relevant to a variety of applications can be determined."
+    },
+    {
+      "number": "LO2.",
+      "description": "Create and use Materials Selection Charts."
+    },
+    {
+      "number": "LO3.",
+      "description": "Select materials that optimises performance in a given application while meeting external constraints."
+    },
+    {
+      "number": "LO4.",
+      "description": "Understand what a Shape Factor is and use Indices which include Shape Factors to rank candidate materials for a given application."
+    },
+    {
+      "number": "LO5.",
+      "description": "Identify Multiple Constraints and the active (i.e. the most restrictive) constraint in a given application and apply material selection method to these scenarios."
+    },
+    {
+      "number": "LO6.",
+      "description": "Understand what exchange constants and penalty functions are and apply trade-off analysis using Compound Objectives/Materials Substitution."
+    },
+    {
+      "number": "LO7.",
+      "description": "Select materials rationally to meet environmental objectives by identifying the phases of product life, energy consumption in production and manufacture, and ways of disposal."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Applied Class (5 assignments)",
+      "weight": "45%",
+      "due_date": "Assignment 1 (5%) 19/08/2025 4:00 pm; Assignment 2 (10%) 2/09/2025 4:00 pm; Assignment 3 (10%) 23/09/2025 4:00 pm; Assignment 4 (10%) 14/10/2025 4:00 pm; Assignment 5 (10%) 31/10/2025 4:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Practical - Material Selection for Bicycle Forks (report)",
+      "weight": "15%",
+      "due_date": "10/10/2025 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Applied Class (5 assignments)",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "45%",
+      "due_date": "Assignment 1 (5%) 19/08/2025 4:00 pm Assignment 2 (10%) 2/09/2025 4:00 pm Assignment 3 (10%) 23/09/2025 4:00 pm Assignment 4 (10%) 14/10/2025 4:00 pm Assignment 5 (10%) 31/10/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "The question sheet will be published in Blackboard before the Applied Class. You will be solving the problem-based questions with the help of the teaching team. The answers will be published in Blackboard a few days after the due day. A1: Use of Materials Selection Charts (weight: 5%) A2: Material Indices (weight: 10%) A3: Materials and Shape (weight: 10%) A4: Multiple Constraints & conflicting objectives (weight: 10%) A5: Hybrid Materials (weight: 10%) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submission of these assessment items must be through TurnItIn via Blackboard site to detect any possibilities of plagiarism or collusion with another student(s) or existing documents.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nFeedback released to students after this time, and avoids overlap into next exercise.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The question sheet will be published in Blackboard before the Applied Class. You will be solving the problem-based questions with the help of the teaching team. The answers will be published in Blackboard a few days after the due day. A1: Use of Materials Selection Charts (weight: 5%) A2: Material Indices (weight: 10%) A3: Materials and Shape (weight: 10%) A4: Multiple Constraints & conflicting objectives (weight: 10%) A5: Hybrid Materials (weight: 10%) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Practical - Material Selection for Bicycle Forks (report)",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "15%",
+      "due_date": "10/10/2025 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "Materials Selection Project completed in pairs. See details in Blackboard, Folder Laboratory Project. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via TurnItIn on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFeedback released to students after this time.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Materials Selection Project completed in pairs. See details in Blackboard, Folder Laboratory Project. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "The Final Exam normally consists of a set of questions involving short derivations of material indices and the use of charts, and one or two exercises on Materials Selection related to existing components of, e.g., cars, aeroplanes, home appliances, bridges, musical instruments, sport goods, etc. (See examples of past exams at the library: https://www.library.uq.edu.au/exams/search.html ). Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials Hardcover Textbook: Ashby, M. F., Materials Selection in Mechanical Design, 4th and 5th edition. Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (28 Jul - 02 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Watch lecture recording The one hour lecture will cover the concepts, methodologies, formulations of material indices and case studies. Lecture recording will be available before 9 am every Monday morning. Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (28 Jul - 02 Nov)",
+      "activity_type": "Applied Class",
+      "topic": "Solving assignment questions The teaching team will provide in-class consultation, give demonstrations on the use of the CES software and provide guidance for solving the questions. Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (11 Aug - 17 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Introduction to the lab project (watch lecture recording) Introduction to Laboratory project. The lecture recording will be released a week prior to the start of the first prac session. Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 4 To Week 6 (18 Aug - 07 Sep)",
+      "activity_type": "Practical",
+      "topic": "Project-material selection for bicycle forks You will only need to attend one of the 3 prac sessions in a team of two. You are required to submit a project report with your partner. Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . You'll also need to be aware of the following policies and procedures while completing this course: Laboratory Occupational Health and Safety Learning activities"
+}

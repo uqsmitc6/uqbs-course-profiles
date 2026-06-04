@@ -1,0 +1,297 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/GEOM7001-62409-7560",
+  "scraped_at": "2026-06-04T02:24:50.325892+00:00",
+  "course_code": "GEOM7001",
+  "class_code": "62409",
+  "semester_code": "7560",
+  "full_course_code": "GEOM7001-62409-7560",
+  "course_title": "Earth Observation: Advanced Image Processing & Modelling",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "The Environment School",
+  "course_description": "Remote sensing or earth observation, is an important tool for monitoring and modelling the condition and dynamics of terrestrial, aquatic and atmospheric environments. The information extracted from images may be used in many ways, as image or thematic maps, directly in decision making, as estimates of biophysical variables or integrated with other spatial information systems for further analysis and display. This information can be collected from local to global scales for examining changes in the habitat of endangered fauna or monitoring continental scale deforestation and global scale oceanic and atmospheric conditions.\n\nThis course is a logical progression from the remote sensing concepts and skills introduced in GEOM2000/7000. GEOM3001/7001 emphasises digital image processing for analysis of remotely sensed imagery, including airborne and satellite multi-spectral, hyper-spectral and synthetic aperture radar data. Practical sessions will involve a progression of practicals in the computer laboratory using the ENVI (Environment for Visualising Images) software package. Concepts and skills acquired in these sessions will be applied in the individual student remote sensing project that can be designed to suit your area of interest.\n\nRemote sensing or earth observation (EO) Science is an important tool for monitoring and modelling the condition and dynamics of terrestrial, aquatic and atmospheric environments. The information extracted from images may be used in many ways, as image or thematic maps, directly in decision making, as estimates of biophysical variables or integrated with other spatial information systems for further analysis and display. This information can be collected from local to global scales for countless applications, including examining changes in the habitat of endangered fauna or monitoring continental scale deforestation and global scale oceanic and atmospheric conditions.\n\nHow this course differs from the introductory GEOM 2000/7000 course:\n\nThis course is a logical progression from the remote sensing or Earth Observation Science concepts and skills introduced in GEOM2000/7000. This course emphasises digital image processing for analysis of remotely sensed imagery, including airborne and satellite multi-spectral, hyperspectral, LiDAR and synthetic aperture radar (SAR) data. Practical sessions will involve a progression of practicals in the computer laboratory, using a combination of open-source and proprietary software. Concepts and skills acquired in these sessions will be applied in the individual student remote sensing project that can be designed to suit your area and application of interest under the guidance of the teaching team.\n\nThis course builds upon the fundamentals taught in GEOM2000/7000 and will develop more advanced EO analytic skills and knowledge. What you’ll learn:\n\n1. Advanced analytical techniques for processing and interpreting EO data.\n\n2. Hands-on experience with big data EO platforms like Open Data Cube.\n\n3. Techniques to calculate biophysical attributes (e.g., biomass) by combining remotely sensed data with ground data and/or modelling algorithms.\n\n4. Advanced theoretical and practical skills for analysing new sources of remote sensing data (e.g., spaceborne LiDAR).\n\n5. How to design, plan and execute a remote sensing project with detailed guidance.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "GEOM2000"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "GEOM3001",
+      "This course is jointly-taught with:",
+      "GEOM7001"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr William Woodgate",
+      "email": "w.woodgate@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr William Woodgate",
+      "email": "w.woodgate@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Stuart Phinn",
+      "email": "s.phinn@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Chris Roelfsema",
+      "email": "c.roelfsema@uq.edu.au"
+    },
+    {
+      "role": "Demonstrator",
+      "name": "Dr Avik Nandy"
+    },
+    {
+      "role": "Demonstrator",
+      "name": "Miss Francesca Devoto"
+    },
+    {
+      "role": "Demonstrator",
+      "name": "Mr Muhammad Hafizt"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course builds upon the fundamentals taught in GEOM7000 and will develop more advanced EO analytic skills and knowledge. What you’ll learn :\n\n1. Advanced analytical techniques for processing and interpreting EO data.\n\n2. Hands-on experience with big data EO platforms like Open Data Cube.\n\n3. Techniques to calculate biophysical attributes (e.g., biomass) by combining remotely sensed data with ground data and/or modelling algorithms.\n\n4. Advanced theoretical and practical skills for analysing new sources of remote sensing data (e.g., spaceborne LiDAR).\n\n5. How to design, plan and execute a remote sensing project with detailed guidance.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Apply the fundamental concepts of remote sensing, including spatial, spectral, radiometric, and temporal resolutions, and their applications in various geographical and professional environments."
+    },
+    {
+      "number": "LO2.",
+      "description": "Demonstrate proficiency in fundamental image processing operations for extracting information from remotely sensed data, including pre-processing, corrections, enhancements, classification, biophysical modelling, and accuracy assessment."
+    },
+    {
+      "number": "LO3.",
+      "description": "Design, plan, and execute a complete remote sensing project, from data acquisition to analysis and presentation, integrating field data and non-image data within GIS or image processing environments."
+    },
+    {
+      "number": "LO4.",
+      "description": "Evaluate the appropriateness of various remotely sensed data sets and ancillary data for specific applications."
+    },
+    {
+      "number": "LO5.",
+      "description": "Apply big data Earth Observation analytic platforms for modern remote sensing applications."
+    },
+    {
+      "number": "LO6.",
+      "description": "Analyse advanced remote sensing data types, including hyperspectral, LiDAR, and RADAR images, as well as conduct multi-temporal analyses."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Project",
+      "title": "Remote Sensing Project Proposal",
+      "weight": "28%",
+      "due_date": "5/09/2025 2:00 pm; Draft Project Proposal (optional) due 25/08/2025 2.00 pm"
+    },
+    {
+      "category": "Quiz",
+      "title": "In-semester practical quiz (online)",
+      "weight": "16%",
+      "due_date": "23/09/2025 8:00 am",
+      "conditions": [
+        "Identity Verified",
+        "Online"
+      ]
+    },
+    {
+      "category": "Project",
+      "title": "Remote Sensing Project Report",
+      "weight": "56%",
+      "due_date": "31/10/2025 2:00 pm; Draft Report (optional) due 13/10/2025 2.00 pm.",
+      "conditions": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Remote Sensing Project Proposal",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "28%",
+      "due_date": "5/09/2025 2:00 pm Draft Project Proposal (optional) due 25/08/2025 2.00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "task_description": "Aim: To design an image processing project based on the image processing operations covered in weeks 1-5 of the course. This includes discussing and implementing the image processing sequence, including: geometric and radiometric corrections, spectral enhancements, spatial enhancements, image classification, and accuracy assessment. Note that some corrections may already be applied. You may choose an aspect of personal interest (land-use, agriculture, vegetation, geomorphology, soils, geology, urban form and condition, or another topic). If you do not have an interest in a particular topic, a land-cover classification project may be suitable. Project Type: Individual Remote Sensing Project You will work individually to apply an image processing sequence to remote sensing data for an area of your choice. The area extent is suggested to be up to 50km2 (with a large degree of freedom) in order to provide an informed analysis. You will need to select a suitable mapping or modelling application to apply. Please speak with the Course Coordinator for recommendations. Overview: To ensure your project is feasible you are required to submit an approx. 8-12 page proposal containing the following: a statement of the aim(s) of your image processing; a short description of the problem (preferably with relevant references), the used Remote sensing image data sets used, study site map, an outline or flowchart of the image processing operations you intend to apply; information extraction process, accuracy assessment, details of your intended output product(s), and, strengths and limitations of the proposed workflow. The remote sensing project proposal should include scientific journal references to support the proposal project. Examples of suitable topics are: land-cover classification for a region; quantifying mine rehabilitation, quantifying snow melt characteristics of an alpine region, evaluating seasonal vegetation patterns etc. Please note: coastline movement is not an acceptable topic. This is the only topic not suitable for assessment. The proposal contributes 28% to the course grade for GEOM3001/7001 and is essential for good preparation of your project and can provide a basis for the final project report. See the supplied Proposal Template and follow this for the submission. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission by Turnitin only by the due date and time. No hard copy or assignment cover sheets are required. Submission via email is not accepted.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (the assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date.\nFor example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In-semester practical quiz (online)",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "16%",
+      "due_date": "23/09/2025 8:00 am",
+      "task_description": "This quiz will be on material covered in the lecture and practical content taught till week 9. It will mostly be hands-on questions using functionality taught in the practicals. The quiz will we conducted during the practical time in Week 9. There will be one attempt only. 90 minute duration. Read full task description Hide full task description",
+      "submission_guidelines": "It will be a Blackboard enabled Quiz.\nDeferral or extension\nYou may be able to defer this exam .\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (the assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date.\nFor example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).\nQuiz is closed after the due date.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Identity Verified",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Remote Sensing Project Report",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "56%",
+      "due_date": "31/10/2025 2:00 pm Draft Report (optional) due 13/10/2025 2.00 pm.",
+      "task_description": "Aim: To complete the project described in the Project Proposal (Assessment #1). Note: the project report can vary from that described in the proposal - please consult the Course Coordinator and/or the demonstration team for guidance. Overview: Upon completion of your image processing and analysis of results you are to compile a report that includes: a brief literature review on the application of remote sensing in your selected topic area; a description of the processing stages and techniques applied; a summary of the results obtained (output maps, summary statistics); comments on the value of processing techniques; and suggestions on how the results may be improved. The remote sensing project report should approx. be 4000-6000 words (excluding tables and bibliography) and should include a background review and synthesis of (at least 10 peer reviewed articles GEOM 3001, or 15 articles for GEOM 7001) refereed scientific journals describing remote sensing applications in your selected area of interest studied in your project. Note: Most of the allocated practical times will be used to introduce image analysis tasks. Coastline movement is not an acceptable topic. This is the only topic not suitable for assessment. Suggested Structure for Remote Sensing Report Write-up: Title Contents Abstract Introduction and Objectives Data and Methods Results and Discussion Conclusions and Future Work References Appendix with Processing Log Your assignment will be marked out of 100 possible points and then re-scaled to a mark out of 56%. Marks are assigned using the assessment criteria. Please use the Project Report template and also refer to the Project Proposal and Project Report guidance document for more information (posted in Blackboard). Read full task description Hide full task description",
+      "submission_guidelines": "Online submission by Turnitin only by the due date and time. No hard copy or assignment cover sheets are required. Submission via email is not accepted.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (the assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date.\nFor example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (28 Jul - 03 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 1: Course introduction and overview Course introduction and overview"
+    },
+    {
+      "learning_period": "Week 1 (28 Jul - 03 Aug)",
+      "activity_type": "Practical",
+      "topic": "Practical 1: code based computing for geospatial data. Part 1: basic python and Sandbox/Planetary PC. intro to data cubes (Digital Earth Aus P1) code based computing for geospatial data: intro to data cubes (Digital Earth Aus P1)"
+    },
+    {
+      "learning_period": "Week 2 (04 Aug - 10 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 2: Digital earths & multi-temporal data analysis Digital earths & multi-temporal data analysis"
+    },
+    {
+      "learning_period": "Week 2 (04 Aug - 10 Aug)",
+      "activity_type": "Practical",
+      "topic": "Practical 2: code based computing for geospatial data: DEA Part 2 - multitemporal data code based computing for geospatial data: DEA P2 - multitemporal"
+    },
+    {
+      "learning_period": "Week 3 (11 Aug - 17 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 3: Open and Online (big) Data Science for Earth Observation (Part 1), Drone processing workflows (Part 2) Open and Online (big) Data Science for Earth Observation (Part 1), Drone processing workflows (Part 2)"
+    },
+    {
+      "learning_period": "Week 3 (11 Aug - 17 Aug)",
+      "activity_type": "Practical",
+      "topic": "Practical 3: code based computing for geospatial data: DEA Part 3 code based computing for geospatial data: DEA P3 - reading in external data"
+    },
+    {
+      "learning_period": "Week 4 (18 Aug - 24 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 4: Image data pre-processing (Geometric, Radiometric, atmospheric corrections) Pre-processing (Geometric, Radiometric, atmospheric corrections)"
+    },
+    {
+      "learning_period": "Week 4 (18 Aug - 24 Aug)",
+      "activity_type": "Practical",
+      "topic": "Practical 4: Introduction to ENVI with new image types"
+    },
+    {
+      "learning_period": "Week 5 (25 Aug - 31 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 5: Thematic information extraction (across platforms) Thematic information extraction (across platforms)"
+    },
+    {
+      "learning_period": "Week 5 (25 Aug - 31 Aug)",
+      "activity_type": "Practical",
+      "topic": "Practical 5: Pre-processing Operations (ENVI)"
+    },
+    {
+      "learning_period": "Week 6 (01 Sep - 07 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 6: Biophysical information extraction & error and accuracy assessment Biophysical information extraction & error and accuracy assessment"
+    },
+    {
+      "learning_period": "Week 6 (01 Sep - 07 Sep)",
+      "activity_type": "Practical",
+      "topic": "Practical 6: Supervised and unsupervised image classifications (ENVI)"
+    },
+    {
+      "learning_period": "Week 7 (08 Sep - 14 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 7: LiDAR image processing & radiative transfer model applications LiDAR image processing & radiative transfer model applications"
+    },
+    {
+      "learning_period": "Week 7 (08 Sep - 14 Sep)",
+      "activity_type": "Practical",
+      "topic": "Practical 7: Accuracy assessment with reference thematic map and data points (ENVI)"
+    },
+    {
+      "learning_period": "Week 8 (15 Sep - 21 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 8: Aquatic remote sensing Aquatic remote sensing"
+    },
+    {
+      "learning_period": "Week 8 (15 Sep - 21 Sep)",
+      "activity_type": "Practical",
+      "topic": "Practical 8: code based computing for geospatial data - other data and tools (Part 1)"
+    },
+    {
+      "learning_period": "Week 9 (22 Sep - 28 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 9: Project review discussion Project review discussion"
+    },
+    {
+      "learning_period": "Week 9 (22 Sep - 28 Sep)",
+      "activity_type": "Practical",
+      "topic": "In semester quiz"
+    },
+    {
+      "learning_period": "Week 10 (06 Oct - 12 Oct)",
+      "activity_type": "Practical",
+      "topic": "Practical 9: code based computing for geospatial data & project support"
+    },
+    {
+      "learning_period": "Week 11 (13 Oct - 19 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 10: Drones for Earth Observation"
+    },
+    {
+      "learning_period": "Week 11 (13 Oct - 19 Oct)",
+      "activity_type": "Practical",
+      "topic": "Practical 10: project support"
+    },
+    {
+      "learning_period": "Week 12 (20 Oct - 26 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 11: Radar image processing and applications Radar image processing and applications"
+    },
+    {
+      "learning_period": "Week 12 (20 Oct - 26 Oct)",
+      "activity_type": "Practical",
+      "topic": "Practical 11: project support"
+    },
+    {
+      "learning_period": "Week 13 (27 Oct - 02 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 12: Class discussion: job ready skills and the future trajectory of space and spatial Class discussion: job ready skills and the future trajectory of space and spatial"
+    },
+    {
+      "learning_period": "Week 13 (27 Oct - 02 Nov)",
+      "activity_type": "Practical",
+      "topic": "Practical 12: project support"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

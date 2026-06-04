@@ -1,0 +1,156 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH2010-62111-7560",
+  "scraped_at": "2026-06-04T02:28:39.299562+00:00",
+  "course_code": "MATH2010",
+  "class_code": "62111",
+  "semester_code": "7560",
+  "full_course_code": "MATH2010-62111-7560",
+  "course_title": "Analysis of Ordinary Differential Equations",
+  "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "1",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "ODE's - Systems: variation of constants, fundamental matrix. Laplace transform, transform for systems, transfer function. Stability, asymptotic stability; phase plane analysis.\n\nThis course will cover the following 2 topics .\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against UQ Policy, and will not be tolerated. We have developed a suite of resources to assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1052",
+      "MATH1072"
+    ],
+    "companions": [
+      "You'll need to complete the following courses at the same time:",
+      "MATH2001",
+      "MATH2901"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH2100"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Ivana Carrizo Molina",
+      "email": "n.carrizomolina@uq.edu.au",
+      "notes": "Please contact Ivana Carrizo Molina for questions related to lecture material, tutorials and assignments of the course."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Ivana Carrizo Molina",
+      "email": "n.carrizomolina@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus – consult your personal timetable for times and locations.ﾠ Students are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness).\nThe lectures are taught during weeks 1-6. Applied classes are taught in weeks 2-7.\nIMPORTANT:ﾠ For any administrative questions related to the course (such as switching applied class groups, textbook requirements, etc.), please email math2100@uq.edu.au (this email will be common for MATH2100, MATH2010, MATH2011 and MATH7100).",
+  "course_aims": "This course is built around two mathematical concepts: Systems of ordinary differential equations (ODEs) and Laplace transforms.\n\nSystems of ODEs generalise the idea of an ODE, as you have seen it covered in MATH1052, for example. Now we have several unknown functions of a single independent variable, say the time t, and we have ODEs linking the unknowns together. We deal mostly with systems of two coupled first-order equations to see the sorts of things that can happen. The notion of the phase-plane is introduced, where the ODEs determine the trajectory of a representative point for the system. Basic notions of stability and instability of equilibrium (critical) points of the system are explored. Illustrative applications are described, such as predator-prey systems, an epidemic model, electrical and mechanical oscillators.\n\nThe Laplace Transform is a tool still widely used to deal with linear ODEs and PDEs (covered in MATH2011), especially in engineering and biological applications. We introduce the basic concepts, including applications to simple systems of ODEs. ﾠ\n\nThe course will also include a brief introduction into the Computer algebra software Mathematica.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Solve linear systems of ODEs and to be able to interpret their behaviour in the phase plane."
+    },
+    {
+      "number": "LO2.",
+      "description": "Find equilibrium solutions to nonlinear systems of ODEs and analyse their stability characteristics."
+    },
+    {
+      "number": "LO3.",
+      "description": "Use the Laplace Transform to solve linear ODEs and systems of ODEs with continuous and discontinuous forcing."
+    },
+    {
+      "number": "LO4.",
+      "description": "Use the software package Mathematica to solve systems of differential equations and plot the solutions."
+    },
+    {
+      "number": "LO5.",
+      "description": "Use the methods described above to analyse systems from Biology, Chemistry, Physics and Engineering (mass spring systems, mixing problems, simple electrical circuit systems, simple chemical rate equations and simple predator prey systems)."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "2 Assignments",
+      "weight": "40%",
+      "due_date": "Assignment 1 18/08/2025 1:00 pm; Assignment 2 8/09/2025 1:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 8/11/2025 - 22/11/2025",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "2 Assignments",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "40%",
+      "due_date": "Assignment 1 18/08/2025 1:00 pm Assignment 2 8/09/2025 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The assignments will be comprised of problems derived from the lectures and applied sessions, and can be downloaded from the Blackboard website. You need to prepare your assignments as a single PDF file, either by typing them or scanning them. Your answers to the questions should be submitted electronically through Blackboard. Assignments are equally weighted. Read full task description Hide full task description",
+      "submission_guidelines": "All assessment items should be submitted electronically though Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for assessment item/s will be released 7 days after the assessment is due and as such, an extension after 7 days will not be possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The final examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 60 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.",
+    "other_course_materials": "If we've listed something under further requirement, you'll need to provide your own. Required Item Description Further Requirement MATH2010 Course Workbook This workbook is available as a PDF from the course Blackboard page and is also available as a hard copy from UQ Print. The workbook covers all the lecture material presented throughout the semester. Students should bring this document to all lectures. own item needed",
+    "required": "Item Description Further Requirement MATH2010 Course Workbook This workbook is available as a PDF from the course Blackboard page and is also available as a hard copy from UQ Print. The workbook covers all the lecture material presented throughout the semester. Students should bring this document to all lectures. own item needed"
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 6",
+      "activity_type": "Lecture",
+      "topic": "ODEs and Laplace transform 3 Lectures a week. Lectures will be on campus. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 7",
+      "activity_type": "Applied Class",
+      "topic": "Problem Solving One Tutorial per week (from Week 2), in which a tutor demonstrates solutions of selected problems and is available to answer questions about the tutorial sheets and assignment problems. Students work on solving problems and understanding course material, and are able to ask questions. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}
