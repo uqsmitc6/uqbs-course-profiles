@@ -1,0 +1,208 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH1051-80105-7580",
+  "scraped_at": "2026-06-04T02:46:42.129596+00:00",
+  "course_code": "MATH1051",
+  "class_code": "80105",
+  "semester_code": "7580",
+  "full_course_code": "MATH1051-80105-7580",
+  "course_title": "Calculus & Linear Algebra I",
+  "study_period": "Summer Semester, 2025 (01/12/2025 - 14/02/2026)",
+  "study_level": "Undergraduate",
+  "location": "External",
+  "attendance_mode": "Online",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Vectors, linear independence, scalar product. Matrices, simultaneous equations, determinants, vector product, eigenvalues, eigenvectors, applications. Equation of straight line and plane. Extreme value theorem, maxima and; minima. Sequences, series, Taylor series, L'Hopital's rules. Techniques of integration, numerical methods, volumes of revolution.\n\nMATH1051 provides an important foundation in calculus and linear algebra that will prove useful for further studies in pure and applied sciences, engineering, finance or further mathematics pursuits.\n\nThe calculus component extends high school concepts. We investigate optimisation techniques, limits and L'Hopital's rule, as well as standard techniques of integration and volumes of revolution. Another important topic is the study of sequences and series (infinite sums). This extends to Taylor series which are an important tool used throughout the sciences. Numerical integration techniques will be developed.\n\nLinear algebra is the study of vectors and matrices and is extensively used to model systems of interacting elements. For example, matrix methods are common in structural engineering and matrix algebra is necessary for computer graphics. This course covers vectors, linear independence and scalar product which are tools to manipulate vectors. The course continues with matrices, simultaneous equations and determinants. An important component of the study concerns eigenvalues and eigenvectors which model resonant frequencies in dynamical systems.\n\nAny questions relating to administrative matters should be sent to ﾠ math1051@uq.edu.au\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is essential for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and againstﾠ UQ Policy , and will not be tolerated. We have developed a suite of resources ﾠ to assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1050"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH1071",
+      "MATH7051"
+    ],
+    "restrictions": [
+      "Semester 1 external offering restricted to students enrolled in Enhanced Studies Program (program code 1014).",
+      "This course is jointly-taught with:",
+      "Another instance of the same course",
+      "MATH1051"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Ivana Carrizo Molina",
+      "email": "n.carrizomolina@uq.edu.au",
+      "notes": "I will coordinate and lecture on the first half of the course in the Summer semester."
+    },
+    {
+      "role": "Course coordinator",
+      "name": "Dr Zhewen Feng",
+      "email": "z.feng@uq.edu.au",
+      "notes": "I will coordinate and lecture on the second half of the course in the Summer semester."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Ivana Carrizo Molina",
+      "email": "n.carrizomolina@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nStudents are required to ensure that they are properly enrolled in and actively participate in the following teaching components:\nThree lectures per week, each of two hours’ duration.\nStudents may follow lectures in any of the following ways:\nface-to-face lectures or online via Zoom (preferred!)\npre-recordings on UQ Extend,\nlecture recordings (usually available soon after the lecture)\nTwo applied classes (APP) per week, each of two hours’ duration.\nInternal students are expected to attend the on-campus applied classes.\nExternal students will participate in the applied classes online via Zoom.\nLectures and applied classes will begin in Week 1.\nThe Support Learning Tutorial (SLT) is optional. This class is highly recommended for:\nStudents who are repeating MATH1051.\nStudents who obtained a Grade 4 in MATH1050.\nStudents who obtained a grade C for Queensland Specialist Mathematics (or equivalent).\nStudents who are returning to maths studies after a significant period.\nCheck Blackboard for further information about the SLT.\nThere are no classes scheduled on Public Holidays. Alternate arrangements will be communicated via Blackboard",
+  "course_aims": "The aim of this course is to provide students with an introduction to and a solid basis for further study in mathematics, in particular mathematical analysis. Students will be introduced to a number of new mathematical concepts, and will be presented with theory and practical examples. The course also aims to help students develop an appropriate level of mathematical rigour needed in presenting mathematical arguments and solutions.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Evaluate limits, derivatives, and integrals, explain the underlying mathematical basis, interpret the results geometrically, and perform calculations associated with a number of applications;"
+    },
+    {
+      "number": "LO2.",
+      "description": "Understand and evaluate the limits of sequences and series, and use them to approximate functions;"
+    },
+    {
+      "number": "LO3.",
+      "description": "Understand linear transformations using matrices;"
+    },
+    {
+      "number": "LO4.",
+      "description": "Work with matrices and vectors including a complete understanding of the behaviour of an m * n linear system;"
+    },
+    {
+      "number": "LO5.",
+      "description": "Understand the concept of invertibility for matrices, know many criteria for invertibility and be able to find inverses;"
+    },
+    {
+      "number": "LO6.",
+      "description": "Understand abstract concepts in linear algebra such as vector space, dimension and basis, and be able to construct simple proofs involving these concepts;"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Participation/ Student contribution, Quiz",
+      "title": "Applied Class Exercise",
+      "weight": "10%",
+      "due_date": "-Week 1: 3/12/2025; -Week 2: both submissions are due 15/12/2025; -Week 3: 22/12/2025; -Week 4: 5/01/2026; -Week 5: both submissions are due 12/01/2026; -Week 6: 19/01/2026; -Week 7: both submissions are due 27/01/2026",
+      "conditions": [
+        "Identity Verified",
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Competency Tests",
+      "weight": "30% split evenly across two competency tests",
+      "due_date": "17/12/2025; 14/01/2026; The applied classes on Wednesday run from 2:00 p.m. to 4:00 p.m.; The competency test will start at 2:45 pm",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment",
+      "weight": "15%",
+      "due_date": "16/01/2026 2:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester Exam",
+      "weight": "45%",
+      "due_date": "End of Semester Exam Period; 7/02/2026 - 14/02/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Applied Class Exercise",
+      "mode": "Written",
+      "category": "Participation/ Student contribution, Quiz",
+      "weight": "10%",
+      "due_date": "-Week 1: 3/12/2025 -Week 2: both submissions are due 15/12/2025 -Week 3: 22/12/2025 -Week 4: 5/01/2026 -Week 5: both submissions are due 12/01/2026 -Week 6: 19/01/2026 -Week 7: both submissions are due 27/01/2026",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "task_description": "You will complete a Blackboard quiz. You are welcome to ask for help with this quiz in your applied class. Please see Blackboard for the scheduled dates and times. Your overall mark for the Applied Class Exercise will be taken from your best 8 out of 10 marks. Read full task description Hide full task description",
+      "submission_guidelines": "You will submit the quiz through blackboard.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nIf you are absent from an Applied Class due to medical reasons, you may apply for an exemption from that Applied Class Exercise. If your application is approved, your overall mark will be reweighted based on the Applied Classes you attend. For example, if you are granted an exemption from one Applied Class, your overall mark will be calculated from your best 7 out of 9 marks.\nThere are NO extensions for the Applied Class Exercise. If you are unable to attend your Applied Class, you must email math1051@uq.edu.au within 5 calendar days of your Applied class and provide appropriate supporting evidence (e.g., medical certificate).\nPlease note that you must attend at least one Applied Class to be eligible to receive marks for this assessment item.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "special_indicators": [
+        "Identity Verified",
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Competency Tests",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "30% split evenly across two competency tests",
+      "due_date": "17/12/2025 14/01/2026 The applied classes on Wednesday run from 2:00 p.m. to 4:00 p.m. The competency test will start at 2:45 pm",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "task_description": "Competency Test One will be conducted in the second applied class of week 3. Students who do not pass Competency Test One will be eligible to re-take a similar test. Two 'resits' are available for Competency Test one. Competency Test Two will be conducted in the second applied class of week 6. Students who do not pass Competency Test Two will be eligible to re-take a similar test. Two 'resits' are available for Competency Test Two. Read full task description Hide full task description",
+      "exam_details": "Planning time no planning time minutes Duration 60 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Other Invigilation Invigilated by Zoom",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nYou cannot defer or apply for an extension for this assessment.\nIf there are extenuating circumstances for why you have missed Competency Test 1 or 2, please email math1051@uq.edu.au . You will need to do this within 5 calendar days of the test and include evidence (e.g., medical certificate). You must attend at least one competency test in order to receive marks for this assessment item.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "15%",
+      "due_date": "16/01/2026 2:00 pm",
+      "task_description": "One assignment will comprise questions on the course material covered in lectures. The assignment will be available on Blackboard. Read full task description Hide full task description",
+      "submission_guidelines": "The assignment will be submitted electronically.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for assessment item/s will be released 7 days after the assessment is due and as such, an extension after 7 days will not be possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End of Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "45%",
+      "due_date": "End of Semester Exam Period 7/02/2026 - 14/02/2026",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "task_description": "The end-of-semester examination will be an in-person, paper-based exam for all students. Internally enrolled students The end-of-semester exam will be an in-person, paper-based exam. Students will sit the exam at the St Lucia Campus. Externally enrolled students The end-of-semester exam will be an in-person, paper-based exam. UQ Examinations will contact students directly to confirm arrangements. You will either sit the exam at the St Lucia campus (if you live within 200km radius of the campus) or will be directed to nominate an exam centre by a certain date. Please ensure you update your semester address in Si-net at the start of the semester. One reminder will be sent and students who fail to nominate an exam centre and will be automatically assigned to the St Lucia campus. Late nominations will not be accepted. Section A of the final exam contains 20 short-answer questions, each worth 1 mark. Section B of the final exam contains a range of short-answer and problem-solving questions. Calculators are not allowed. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 7 (01 Dec - 25 Jan)",
+      "activity_type": "Applied Class",
+      "topic": "Applied Class In the applied class, students will complete collaborative worksheets, receive help on various assessments, get corrected assignments returned, be able to ask questions on the problem sheets, and be able to ask general questions related to coursework. Readings/Ref: workbook ; Anton/Rorres ; Stewart"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 8 (01 Dec - 01 Feb)",
+      "activity_type": "Lecture",
+      "topic": "Lecture Students may choose to attend either Zoom live lectures or view the online UQ Extend lectures. Both lectures will cover the same content. Lectures are centred around the workbook, so it is vital that students have their workbook with them for both the Zoom live lectures and the online UQ Extend lectures. As well as completing the workbook in a comprehensive manner, students will be provided with additional material and examples. Students electing to simply download the completed workbook from Blackboard after each chapter is finished will hence be missing material."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Exam week 1 (01 Dec - 15 Feb)",
+      "activity_type": "Not Timetabled",
+      "topic": "Independent Study During the semester students are expected to work on MATH1051 outside of class time to consolidate the information given during lectures, work on tutorial problem sheets and assignments, complete extra practice problems and study for examinations."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

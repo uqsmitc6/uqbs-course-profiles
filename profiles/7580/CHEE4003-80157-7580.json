@@ -1,0 +1,247 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CHEE4003-80157-7580",
+  "scraped_at": "2026-06-04T02:45:38.057740+00:00",
+  "course_code": "CHEE4003",
+  "class_code": "80157",
+  "semester_code": "7580",
+  "full_course_code": "CHEE4003-80157-7580",
+  "course_title": "Special Topics A",
+  "study_period": "Summer Semester, 2025 (01/12/2025 - 14/02/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "Intensive",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Chemical Engineering School",
+  "course_description": "Topics relating to specific technologies in chemical engineering. For details and availability, contact Head of School.\n\nThis course is NOT typically available to students. It is available in special circumstances when a make-up is required or a special project becomes available. A special topic will only normally be arranged after consultation with an academic advisor. Once it has been agreed with your academic advisor, the Head of School will approve your enrolment in the special topic.\n\nThis year's topic: Artificial Intelligence and Machine Learning for Chemical Engineers.\n\nThis course aims to equip Chemical Engineering undergraduate students with the practical skills to build, train, and deploy machine learning models and specialized chatbots for chemical engineering problems.\n\nPrerequisites:\n\nENGG1001, MATH1051, CHEE2010",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "Permission of Head of School"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Muxina Konarova",
+      "email": "m.konarova@uq.edu.au",
+      "phone": "+61 7 3365 4047"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Muxina Konarova",
+      "email": "m.konarova@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Gloria Milena Monsalve Bravo",
+      "email": "g.monsalvebravo@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Hangil Park",
+      "email": "hangil.park@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Mr Lee Burns",
+      "email": "lee.burns@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nMonday and Tuesday (1 to 4 pm). Starting from 1st of December 2025.",
+  "course_aims": "The aims of this course are to be set out in discussion with an agreed supervisor.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain the basis of machine learning and AI systems and the types of problems that are suited to address in chemical engineering."
+    },
+    {
+      "number": "LO2.",
+      "description": "Identify potential risks associated with the use of machine learning and AI in chemical process systems."
+    },
+    {
+      "number": "LO3.",
+      "description": "Collect, clean, and prepare real-world chemical engineering data for machine learning applications."
+    },
+    {
+      "number": "LO4.",
+      "description": "Implement and evaluate supervised learning algorithms for regression and classification of process and material property data."
+    },
+    {
+      "number": "LO5.",
+      "description": "Apply unsupervised learning techniques for anomaly detection and clustering of process operation data."
+    },
+    {
+      "number": "LO6.",
+      "description": "Implement and deploy neural networks for time series prediction of process variables."
+    },
+    {
+      "number": "LO7.",
+      "description": "Build, test, and demonstrate an intelligent chatbot prototype for supporting distillation plant operators."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Assignment-1: Data Generation and Regression Modelling with the Temperature Control Lab (TCLab)",
+      "weight": "20%",
+      "due_date": "15/12/2025 1:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Assignment-2: Anomaly Detection in TCLab Systems",
+      "weight": "20%",
+      "due_date": "5/01/2026 1:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Assignment -3: LSTM Neural Network Development and Deployment",
+      "weight": "30%",
+      "due_date": "19/01/2026 1:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Practical/ Demonstration, Presentation",
+      "title": "Final Project: RAG-Based Chatbot for Pilot Plant Distillation Column (Written Component and Oral Presentation)",
+      "weight": "30%",
+      "due_date": "Written Component 30/01/2026 5:00 pm; Presentation Run During Exam Period 7-14 Feb 2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment-1: Data Generation and Regression Modelling with the Temperature Control Lab (TCLab)",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "15/12/2025 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "In this assignment, you will use the Temperature Control Laboratory (TCLab) kit to generate, process, and model real-world temperature control data. Begin by designing and executing data collection experiments using the TCLab hardware, capturing temperature readings and heater inputs under various operating conditions (e.g., step changes, ramps, disturbances) across multiple trials. Next, clean and preprocess your collected data using pandas and NumPy, addressing missing values, outliers, and noise reduction appropriate for time-series data. Using the cleaned dataset, develop and evaluate regression models to predict temperature responses based on heater inputs and system dynamics. Implement both linear and polynomial regression models in scikit-learn, compare their performance, and identify which best represents the TCLab’s thermal behaviour. Document your experimental setup, data processing, modelling methodology, and engineering insights in a well-organised Jupyter notebook, and update your GitHub repository with the complete workflow, results, and model comparison. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submission is through Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nAn extension request is not considered late until 24 hours after the assessment due date & time.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessments must be submitted on or before the due date.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "In this assignment, you will use the Temperature Control Laboratory (TCLab) kit to generate, process, and model real-world temperature control data. Begin by designing and executing data collection experiments using the TCLab hardware, capturing temperature readings and heater inputs under various operating conditions (e.g., step changes, ramps, disturbances) across multiple trials. Next, clean and preprocess your collected data using pandas and NumPy, addressing missing values, outliers, and noise reduction appropriate for time-series data. Using the cleaned dataset, develop and evaluate regression models to predict temperature responses based on heater inputs and system dynamics. Implement both linear and polynomial regression models in scikit-learn, compare their performance, and identify which best represents the TCLab’s thermal behaviour. Document your experimental setup, data processing, modelling methodology, and engineering insights in a well-organised Jupyter notebook, and update your GitHub repository with the complete workflow, results, and model comparison. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment-2: Anomaly Detection in TCLab Systems",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "5/01/2026 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L05",
+      "task_description": "In this assignment, you will explore anomaly detection techniques by intentionally introducing faulty signals and abnormal operating conditions into your TCLab system to simulate real-world industrial scenarios where equipment malfunctions or sensor failures occur. Design and execute experiments to collect both normal operating data and anomalous data by creating various fault conditions such as sensor drift, heater malfunctions, or intermittent connectivity issues, ensuring you have a diverse dataset of both healthy and faulty system behaviours. Apply unsupervised anomaly detection methods including Principal Component Analysis (PCA) for dimensionality reduction. Document your fault generation methodology, model implementation, and safety analysis in a Jupyter notebook, update your GitHub repository with all anomaly detection code and datasets, and submit your complete analysis through Blackboard. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submission is through Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nAn extension request is not considered late until 24 hours after the assessment due date & time.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessments must be submitted on or before the due date.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "In this assignment, you will explore anomaly detection techniques by intentionally introducing faulty signals and abnormal operating conditions into your TCLab system to simulate real-world industrial scenarios where equipment malfunctions or sensor failures occur. Design and execute experiments to collect both normal operating data and anomalous data by creating various fault conditions such as sensor drift, heater malfunctions, or intermittent connectivity issues, ensuring you have a diverse dataset of both healthy and faulty system behaviours. Apply unsupervised anomaly detection methods including Principal Component Analysis (PCA) for dimensionality reduction. Document your fault generation methodology, model implementation, and safety analysis in a Jupyter notebook, update your GitHub repository with all anomaly detection code and datasets, and submit your complete analysis through Blackboard. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment -3: LSTM Neural Network Development and Deployment",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "30%",
+      "due_date": "19/01/2026 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L06",
+      "task_description": "Develop and train an LSTM neural network to predict dynamic system behaviour using provided time-series data. Build your model using TensorFlow/Keras with proper preprocessing, hyperparameter tuning, and performance evaluation. Deploy your trained model as an interactive web application using Streamlit that allows users to input data and visualize real-time predictions. Submit your Jupyter notebook with model development, Streamlit app code, deployed application URL, and update your GitHub repository. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submission is through Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nAn extension request is not considered late until 24 hours after the assessment due date & time.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.\nAssessments must be submitted on or before the due date.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "ai_statement": "Develop and train an LSTM neural network to predict dynamic system behaviour using provided time-series data. Build your model using TensorFlow/Keras with proper preprocessing, hyperparameter tuning, and performance evaluation. Deploy your trained model as an interactive web application using Streamlit that allows users to input data and visualize real-time predictions. Submit your Jupyter notebook with model development, Streamlit app code, deployed application URL, and update your GitHub repository. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Project: RAG-Based Chatbot for Pilot Plant Distillation Column (Written Component and Oral Presentation)",
+      "mode": "Oral, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Practical/ Demonstration, Presentation",
+      "weight": "30%",
+      "due_date": "Written Component 30/01/2026 5:00 pm Presentation Run During Exam Period 7-14 Feb 2026",
+      "learning_outcomes_assessed": "L01, L02, L07",
+      "task_description": "Written Component - 30/01/2026 5:00 pm Develop a Retrieval-Augmented Generation (RAG) chatbot specialised for pilot plant distillation column operations, troubleshooting, and knowledge management. The chatbot must incorporate relevant technical documentation, operating procedures, safety protocols, and troubleshooting guides for distillation processes, using vector databases and embedding models to retrieve contextually relevant information before generating responses. Implement the RAG pipeline using appropriate frameworks and a suitable language model to ensure the chatbot can answer questions about the column, operating parameters, common failures, safety procedures. The written report should describe the system architecture, implementation, evaluation, and provide supporting documentation and source citations. Oral Presentation - School-based exam during examination period 7-14 Feb 2026 This oral presentation is part of the hurdle assessment and will be evaluated alongside the written report. Students are required to deliver a 15–20 minute in-person presentation that includes a live demonstration of their RAG chatbot. The presentation should clearly showcase the chatbot’s capabilities through real-time interactions, demonstrating how it assists operators with technical queries related to distillation column operations, troubleshooting, and safety management. It should also provide an overview of the system architecture, explain the RAG implementation, present model performance results, and discuss both limitations and potential industrial applications. Closed-book, no written materials or calculators are permitted. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nAn extension request is not considered late until 24 hours after the assessment due date & time.\nStudents who couldn't attend the specified oral presentation date, can seek an extension within the summer semester period.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessments must be submitted on or before the due date.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (01 Dec - 07 Dec)",
+      "activity_type": "Applied Class",
+      "topic": "Week 1: Data Analysis & Preparation Monday Session (1-4 PM): Hour 1: Python Basics for Data Science Hour 2: NumPy Fundamentals Hour 3: Data Visualization with Matplotlib"
+    },
+    {
+      "learning_period": "Week 1 (01 Dec - 07 Dec)",
+      "activity_type": "Applied Class",
+      "topic": "Week 1: Data Analysis & Preparation Tuesday Session (1-4 PM): Hour 1: Pandas Deep Dive Hour 2: Advanced Visualization with Seaborn Hour 3: Data Preparation Pipeline"
+    },
+    {
+      "learning_period": "Week 2 (08 Dec - 14 Dec)",
+      "activity_type": "Applied Class",
+      "topic": "Week 2: Supervised Learning - Regression Monday Session (1-4 PM): Hour 1: Linear Regression Fundamentals Hour 2: Advanced Regression Techniques Hour 3: Regularization Methods"
+    },
+    {
+      "learning_period": "Week 2 (08 Dec - 14 Dec)",
+      "activity_type": "Applied Class",
+      "topic": "Week 2: Supervised Learning - Regression Tuesday Session (1-4 PM): Hour 1: Non-linear Regression Methods Hour 2: Hands-on Regression Project Hour 3: Model Interpretation & Results"
+    },
+    {
+      "learning_period": "Week 3 (15 Dec - 21 Dec)",
+      "activity_type": "Applied Class",
+      "topic": "Week 3: Supervised Learning - Classification Monday Session (1-4 PM): Hour 1: Classification Fundamentals Hour 2: Model Evaluation Metrics Hour 3: Advanced Classification Methods Tuesday Session (1-4 PM): Hour 1: Multi-class and Multi-label Classification Hour 2: Material Dataset Project Hour 3: Model Selection and Optimization"
+    },
+    {
+      "learning_period": "Week 4 (22 Dec - 28 Dec)",
+      "activity_type": "Applied Class",
+      "topic": "Week 4: Unsupervised Learning Monday Session (1-4 PM): Hour 1: Clustering Algorithms Hour 2: Dimensionality Reduction Hour 3: Anomaly Detection Methods Tuesday Session (1-4 PM): Hour 1: Hands-on Anomaly Detection Hour 2: Model Evaluation for Unsupervised Learning Hour 3: Industrial Applications Discussion"
+    },
+    {
+      "learning_period": "Week 5 (29 Dec - 04 Jan)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Week 5: Mid-Semester Break Starts 25/12/2025 until 04/01/2026"
+    },
+    {
+      "learning_period": "Week 6 (05 Jan - 11 Jan)",
+      "activity_type": "Applied Class",
+      "topic": "Week 6: Neural Networks & Deep Learning Monday Session (1-4 PM): Hour 1: Neural Network Fundamentals Hour 2: Time Series and LSTM Networks Hour 3: LSTM Implementation Tuesday Session (1-4 PM): Hour 1: Model Training and Optimization Hour 2: Model Deployment with Streamlit Hour 3: Hands-on LSTM Project"
+    },
+    {
+      "learning_period": "Week 7 (12 Jan - 18 Jan)",
+      "activity_type": "Applied Class",
+      "topic": "Week 7: Large Language Models & Final Project Monday Session (1-4 PM): Hour 1: Introduction to Large Language Models Hour 2: RAG Implementation Hour 3: Chatbot Development Tuesday Session (1-4 PM): Hour 1-3: Final Project Work Session"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

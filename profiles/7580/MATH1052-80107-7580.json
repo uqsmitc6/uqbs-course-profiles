@@ -1,0 +1,193 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH1052-80107-7580",
+  "scraped_at": "2026-06-04T02:46:43.989237+00:00",
+  "course_code": "MATH1052",
+  "class_code": "80107",
+  "semester_code": "7580",
+  "full_course_code": "MATH1052-80107-7580",
+  "course_title": "Multivariate Calculus & Ordinary Differential Equations",
+  "study_period": "Summer Semester, 2025 (01/12/2025 - 14/02/2026)",
+  "study_level": "Undergraduate",
+  "location": "External",
+  "attendance_mode": "Online",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Vector calculus, arclength, line integrals, applications. Calculus of 2 & 3 variables: partial derivatives, conservative fields, Taylor series, maxima & minima, non-linear equations. 1st order & linear 2nd order differential equations (constant coefficients). Applications (dynamical systems etc), numerical methods.\n\nThe first part of MATH1052 extends your knowledge of calculus to functions of more than one variable. This enables you to differentiate multivariate functions and find maxima and minima. These ideas are basic to optimisation found in many applications such as finance, economics and engineering.\n\nThe second part of MATH1052 introduces ordinary differential equations (ODEs), one of the basic tools in mathematical modelling. In science and engineering, ODEs are used to describe, for instance, the motion of particles and satellites, the rate of chemical reactions or the behaviour of electrical circuits. In biology, ODEs are used to describe population dynamics, for example to model epidemics.\n\nMATH1052 is delivered via lectures and workshop classes.\n\nThe lectures will be held on campus . The content of these will follow the MATH1052 workbook.ﾠ\n\nThe applied classes will be held on campus . This gives students an opportunity to ask for help on the content covered in lectures. It is strongly recommended that you attempt problem sheets or assignment questions before the class, so that you can seek help if necessary, or take part in discussions.\n\nThe web page for MATH1052 is on Blackboard. Current course information will be available at this site, including ﾠproblem sheets, assignment sheets and solutions.\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is essential for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against ﾠ UQ Policy , and will not be tolerated. We have developed a ﾠ suite of resources ﾠ to assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1050"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH1072",
+      "MATH7052",
+      "This course is jointly-taught with:",
+      "Another instance of the same course",
+      "MATH1052"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Zoltan Neufeld",
+      "email": "z.neufeld@uq.edu.au",
+      "notes": "Consultation time to be advised."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Zoltan Neufeld",
+      "email": "z.neufeld@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Zhewen Feng",
+      "email": "z.feng@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nTwo-hour lectures\nare held throughout the week. Students should attend/view\nall\nlectures.\nTwo-hour applied classes\nare held throughout the week. Students should attend two classes per week.\nOnly the second of the scheduled applied classes will run in Week 1.\nFor full details, check the\nStudy Planner\navailable from the course Blackboard site.\nIf you are going to attend your weekly lectures and applied classes ﾠin person on campus, then you should enrol in the INTERNAL version of the course. If you are not going to attend class activities on campus, then you should enrol in the EXTERNAL version of the course. Both class modes will have the same number of contact hours (via Zoom and or/in person) and the same support.\nNote that students are expected to attend classes for the mode in which they are enrolled (internal or external) and should not attend classes for the other mode without permission.\nIMPORTANT: It is especially important that you stay home if you are ill or recovering from an illness. In this course, if you become ill but still wish to attend a class, then you will be able to attend the equivalent class for external students.",
+  "course_aims": "This course aims to give students a foundation knowledge of techniques in multivariate and vector calculus and ordinary differential equations.ﾠ Students should then be able to apply analytical and numerical techniques to problems with real world complexity.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "sketch, interpret and manipulate functions of two or more variables."
+    },
+    {
+      "number": "LO2.",
+      "description": "calculate the equations of tangent planes, and use them to approximate functions."
+    },
+    {
+      "number": "LO3.",
+      "description": "find the maxima and minima of functions of two variables."
+    },
+    {
+      "number": "LO4.",
+      "description": "apply the method of Lagrange multipliers to optimisation problems."
+    },
+    {
+      "number": "LO5.",
+      "description": "solve and analyse certain families of first and second order ODEs."
+    },
+    {
+      "number": "LO6.",
+      "description": "model a problem with ODEs and either analytically or numerically solve the differential equation and interpret the output."
+    },
+    {
+      "number": "LO7.",
+      "description": "work fluently with parametric forms of curves, and derive parametric forms."
+    },
+    {
+      "number": "LO8.",
+      "description": "understand fields and determine conservative fields and path integrals."
+    },
+    {
+      "number": "LO9.",
+      "description": "model and solve problems with some real-world complexity."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Applied Class Exercises",
+      "weight": "20%",
+      "due_date": "2/12/2025 - 30/01/2026; Worksheets are due in each applied class."
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment 1",
+      "weight": "10%",
+      "due_date": "22/12/2025 2:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment 2",
+      "weight": "10%",
+      "due_date": "30/01/2026 2:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 7/02/2026 - 14/02/2026",
+      "conditions": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Applied Class Exercises",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "2/12/2025 - 30/01/2026 Worksheets are due in each applied class.",
+      "task_description": "You must submit solutions to a collection of mathematical problems. The results from your best 9 out of 12 exercises will count towards your final grade. A schedule for all of the weeks of semester will be provided on BlackBoard. Read full task description Hide full task description",
+      "submission_guidelines": "Worksheets will be submitted at the end of your applied class.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nYou cannot defer or apply for an extension for this assessment.\nThere are NO extensions for the collaborative exercise.\nPlease note that you can miss up to three assessed applied classes without penalty. If you are unable to attend more than three assessed applied classes, please email the course coordinator to explain your circumstances, including an explanation of why you cannot attend another in the same week. You will need to do this within 5 calendar days of your applied class and include evidence (e.g., medical certificate). An alternative assessment or reweighting may be offered. ·",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 1",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "10%",
+      "due_date": "22/12/2025 2:00 pm",
+      "task_description": "You must submit detailed solutions to a collection of mathematical problems. Read full task description Hide full task description",
+      "submission_guidelines": "Solutions are to be submitted via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for assessment item will be released 7 days after the assessment is due and as such, an extension after 7 days will not be possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 2",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "10%",
+      "due_date": "30/01/2026 2:00 pm",
+      "task_description": "You must submit detailed solutions to a collection of mathematical problems. Read full task description Hide full task description",
+      "submission_guidelines": "Solutions are to be submitted via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for assessment item will be released 7 days after the assessment is due and as such, an extension after 7 days will not be possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End of Semester Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 7/02/2026 - 14/02/2026",
+      "task_description": "The End of Semester Examination will be an in-person, paper-based exam for all students. Internally enrolled students The final exam will be an in-person, paper-based exam. Students will sit the exam at the St Lucia Campus. Externally enrolled students The final exam will be an in-person, paper-based exam. UQ Examinations will contact students directly to confirm arrangements. You will either sit the exam at the St Lucia campus (if you live within 200km radius of the campus) or will be directed to nominate an exam centre by a certain date. Please ensure you update your semester address in Si-net at the start of the semester. One reminder will be sent and students who fail to nominate an exam centre and will be automatically assigned to the St Lucia campus. Late nominations will not be accepted. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 8",
+      "activity_type": "Applied Class",
+      "topic": "Applied Classes Each student should be enrolled in one applied class and attend the corresponding session twice each week. Applied classes provide students with the opportunity to discuss applied class and assignment problems with their peers and their casual academic. Applied Classes will begin in week 1. Questions about other aspects of the course may also be asked, including the assignments, but work on assignments is to be individual work; other problems can be addressed as a group. Casual Academics are only available during applied workshops. If you have questions about the course content at other times, refer to the Course Help section on the course Blackboard site, in particular look for information on the First Year Learning Centre."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 8",
+      "activity_type": "Lecture",
+      "topic": "Weeks 1-8 Lectures will be delivered in a lecture theatre and streamed online. Topics include: Functions of several variables; Partial derivatives and tangent planes; Maximum and minimum problems on surfaces; Differential equations; Parametrisation of curves and line integrals."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Exam week 1 (01 Dec - 15 Feb)",
+      "activity_type": "Not Timetabled",
+      "topic": "Independent work It is expected that students will work independently on problems and the lecture workbook outside the set contact hours to consolidate information given during lectures, to understand and solve assignments, practise problems, and to study for the end of semester examination."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}
