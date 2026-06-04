@@ -1,0 +1,198 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH2001-80107-7480",
+  "scraped_at": "2026-06-04T01:23:15.348757+00:00",
+  "course_code": "MATH2001",
+  "class_code": "80107",
+  "semester_code": "7480",
+  "full_course_code": "MATH2001-80107-7480",
+  "course_title": "Calculus & Linear Algebra II",
+  "study_period": "Summer Semester, 2024 (25/11/2024 - 08/02/2025)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "Second order differential equations; undetermined coefficients, variation of parameters. Multi-dimensional calculus; surface & volume integrals, cylindrical, spherical and general coordinate transformations. Stoke's & Green's theorems, applications (flux, heat equations). Linear algebra, diagonalisation, quadratic forms, elementary numerical linear algebra. Taylor series, maxima, minima and saddle points in N-dimensions. Method of least squares for functions. Vector spaces, norms and inner products (for square-integrable functions). Gram-Schmidt orthogonalisation and orthogonal matrices.\n\nMATH2001 covers four major topics: ordinary differential equations, integral calculus, vector calculus, and linear algebra.ﾠ The goal of this course is to give its students a strong knowledge base of the fundamentals of each of these topics, and skills to apply this knowledge to solving a wide variety of problems.\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is essential for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against UQ Policy, and will not be tolerated. We have developed a suite of resources to assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1051",
+      "MATH1071",
+      "MATH1052",
+      "MATH1072"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH2000",
+      "MATH2901",
+      "MATH7000",
+      "This course is jointly-taught with:",
+      "MATH2001"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Gabriele Tartaglino Mazzucchelli",
+      "email": "g.tartaglino-mazzucchelli@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Gabriele Tartaglino Mazzucchelli",
+      "email": "g.tartaglino-mazzucchelli@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Zoltan Neufeld",
+      "email": "z.neufeld@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLectures and Tutorials will be on campus. Lectures will also be live-streamed. Please refer to your Timetable for the times and locations. Zoom links for live streaming will be provided on Blackboard.\nThere are no tutorials in week 1.ﾠ\nNote:\nﾠIn Week 5, Monday --Wednesday, 30, 31 December and 1 January (New Year's Day) will not have classes and tutorials. Alternative arrangements for Week 5 will be notified in blackboard during the first half of the course.",
+  "course_aims": "MATH2001 aims to give the student a broad range of mathematical skills and to extend their knowledge of integral calculus, vector calculus and linear algebra. The student should be able to use related techniques to solving both pure and applied mathematical problems.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Solve a variety of first order and second order Ordinary Differential Equations (ODEs)"
+    },
+    {
+      "number": "LO2.",
+      "description": "Derive properties of the hyperbolic functions and apply them in various mathematical contexts."
+    },
+    {
+      "number": "LO3.",
+      "description": "Understand and apply aspects of the theory of multi-dimensional integrals, using a variety of coordinate systems."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply differential calculus to the context of vector functions. Specifically, work with Grad, Div and Curl and understand their significance."
+    },
+    {
+      "number": "LO5.",
+      "description": "Apply integral calculus to the context of vector functions. Specifically, use surface and flux integrals, and the theorems of Green, Gauss and Stokes."
+    },
+    {
+      "number": "LO6.",
+      "description": "Understand and apply eigenvalues, eigenvectors and diagonalisation of matrices in a variety of contexts."
+    },
+    {
+      "number": "LO7.",
+      "description": "Apply concepts of orthogonality and inner product spaces to the method of least squares, best fit and function approximation"
+    },
+    {
+      "number": "LO8.",
+      "description": "Model and solve problems with real-world application using mathematical techniques covered in this course."
+    },
+    {
+      "number": "LO9.",
+      "description": "Present clear and concise mathematical arguments in assignments and exams."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment 1",
+      "weight": "13%",
+      "due_date": "19/12/2024 2:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment 2",
+      "weight": "14%",
+      "due_date": "9/01/2025 2:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment 3",
+      "weight": "13%",
+      "due_date": "23/01/2025 2:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 1/02/2025 - 8/02/2025",
+      "conditions": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment 1",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "13%",
+      "due_date": "19/12/2024 2:00 pm",
+      "task_description": "The assignment problems will cover material from the in-person and live-streamed lectures as well as the online-only lectures. It will be available from the course Blackboard page. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments must be submitted online via Blackboard. The submission link for each assignment and Electronic Submission Guidelines are provided on the Blackboard course webpage.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for assessment item/s are planned to be released 7 days after the assessment is due, and as such, an extension after 7 days will not be possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 2",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "14%",
+      "due_date": "9/01/2025 2:00 pm",
+      "task_description": "The assignment problems will cover material from the in-person and live-streamed lectures as well as the online-only lectures. It will be available from the course Blackboard page. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments must be submitted online via Blackboard. The submission link for each assignment and Electronic Submission Guidelines are provided on the Blackboard course webpage.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for assessment item/s are planned to be released 7 days after the assessment is due, and as such, an extension after 7 days will not be possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 3",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "13%",
+      "due_date": "23/01/2025 2:00 pm",
+      "task_description": "The assignment problems will cover material from the in-person and live-streamed lectures as well as the online-only lectures. It will be available from the course Blackboard page. Read full task description Hide full task description",
+      "submission_guidelines": "Assignments must be submitted online via Blackboard. The submission link for each assignment and Electronic Submission Guidelines are provided on the Blackboard course webpage.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for assessment item/s are planned to be released 7 days after the assessment is due, and as such, an extension after 7 days will not be possible.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 1/02/2025 - 8/02/2025",
+      "task_description": "The final examination in this course will be held during the end-of-semester examination period. The examination will be invigilated on-campus for students enrolled in in-person mode and invigilated over Zoom for students in external mode. You must attend the format allocated for your type of enrolment (in-person/external). Further details for each format will be provided to students before the examination period. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed Book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.",
+    "other_course_materials": "If we've listed something under further requirement, you'll need to provide your own. Required Item Description Further Requirement MATH2001 Course Workbook This Workbook is available as a PDF from the course Blackboard page. A hard copy is also available from UQ Print. The workbook covers all the lecture material presented throughout the semester. Students should bring this document to all lectures. own item needed",
+    "required": "Item Description Further Requirement MATH2001 Course Workbook This Workbook is available as a PDF from the course Blackboard page. A hard copy is also available from UQ Print. The workbook covers all the lecture material presented throughout the semester. Students should bring this document to all lectures. own item needed"
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 8 (25 Nov - 26 Jan)",
+      "activity_type": "Lecture",
+      "topic": "Course lectures Lectures will be on campus"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 8 (25 Nov - 26 Jan)",
+      "activity_type": "Lecture",
+      "topic": "Pre-recorded, online only lectures Most weeks there are two pre-recorded lectures that students should watch, that will not be covered in the on-campus lectures."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 8 (02 Dec - 26 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorials Tutorials provide students with an opportunity for individual assistance with the course and with the assignments."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments - Students Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

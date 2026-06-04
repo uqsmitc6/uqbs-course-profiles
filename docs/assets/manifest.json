@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T01:21:44.134058+00:00",
-  "total_profiles": 852,
+  "generated_at": "2026-06-04T01:24:42.612684+00:00",
+  "total_profiles": 853,
   "semesters": {
     "7460": [
       {
@@ -3798,7 +3798,7 @@
         "units": "2",
         "coordinating_unit": "Business School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/BISM7807-80078-7480",
-        "scraped_at": "2026-05-31T12:14:59.485474+00:00",
+        "scraped_at": "2026-06-04T01:22:13.536542+00:00",
         "assessment_count": 3,
         "lo_count": 6,
         "file": "profiles/7480/BISM7807-80078-7480.json"
@@ -3816,7 +3816,7 @@
         "units": "2",
         "coordinating_unit": "Economics School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/ECON1310-80038-7480",
-        "scraped_at": "2026-05-31T12:16:45.919121+00:00",
+        "scraped_at": "2026-06-04T01:22:28.283405+00:00",
         "assessment_count": 9,
         "lo_count": 5,
         "file": "profiles/7480/ECON1310-80038-7480.json"
@@ -3834,7 +3834,7 @@
         "units": "2",
         "coordinating_unit": "Economics School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/ECON2070-80039-7480",
-        "scraped_at": "2026-05-31T12:17:16.546746+00:00",
+        "scraped_at": "2026-06-04T01:22:29.029184+00:00",
         "assessment_count": 4,
         "lo_count": 4,
         "file": "profiles/7480/ECON2070-80039-7480.json"
@@ -3852,7 +3852,7 @@
         "units": "2",
         "coordinating_unit": "Economics School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/ECON3210-80181-7480",
-        "scraped_at": "2026-05-31T12:17:47.214574+00:00",
+        "scraped_at": "2026-06-04T01:22:30.875289+00:00",
         "assessment_count": 3,
         "lo_count": 5,
         "file": "profiles/7480/ECON3210-80181-7480.json"
@@ -3870,7 +3870,7 @@
         "units": "2",
         "coordinating_unit": "Business School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/EVNT7051-80079-7480",
-        "scraped_at": "2026-05-31T12:19:07.069537+00:00",
+        "scraped_at": "2026-06-04T01:22:42.414447+00:00",
         "assessment_count": 3,
         "lo_count": 5,
         "file": "profiles/7480/EVNT7051-80079-7480.json"
@@ -3888,7 +3888,7 @@
         "units": "2",
         "coordinating_unit": "Business School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7403-80080-7480",
-        "scraped_at": "2026-05-31T12:21:19.377977+00:00",
+        "scraped_at": "2026-06-04T01:22:45.534177+00:00",
         "assessment_count": 3,
         "lo_count": 5,
         "file": "profiles/7480/FINM7403-80080-7480.json"
@@ -3906,7 +3906,7 @@
         "units": "2",
         "coordinating_unit": "Business School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7309-80081-7480",
-        "scraped_at": "2026-05-31T12:25:17.017060+00:00",
+        "scraped_at": "2026-06-04T01:23:25.432767+00:00",
         "assessment_count": 2,
         "lo_count": 6,
         "file": "profiles/7480/MGTS7309-80081-7480.json"
@@ -3924,7 +3924,7 @@
         "units": "2",
         "coordinating_unit": "Business School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7803-80090-7480",
-        "scraped_at": "2026-05-31T12:26:30.730604+00:00",
+        "scraped_at": "2026-06-04T01:23:26.473647+00:00",
         "assessment_count": 2,
         "lo_count": 6,
         "file": "profiles/7480/MGTS7803-80090-7480.json"
@@ -3942,7 +3942,7 @@
         "units": "2",
         "coordinating_unit": "Business School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7809-80095-7480",
-        "scraped_at": "2026-05-31T12:26:39.881681+00:00",
+        "scraped_at": "2026-06-04T01:23:27.615291+00:00",
         "assessment_count": 4,
         "lo_count": 6,
         "file": "profiles/7480/MGTS7809-80095-7480.json"
@@ -3960,10 +3960,28 @@
         "units": "2",
         "coordinating_unit": "Business School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/MKTG7806-80096-7480",
-        "scraped_at": "2026-05-31T12:28:16.836602+00:00",
+        "scraped_at": "2026-06-04T01:23:28.817620+00:00",
         "assessment_count": 3,
         "lo_count": 8,
         "file": "profiles/7480/MKTG7806-80096-7480.json"
+      },
+      {
+        "course_code": "RBUS7999",
+        "class_code": "80193",
+        "semester_code": "7480",
+        "full_course_code": "RBUS7999-80193-7480",
+        "course_title": "Business Industry Placement",
+        "study_period": "Summer Semester, 2024 (18/11/2024 - 21/12/2024)",
+        "study_level": "Postgraduate Coursework",
+        "location": "St Lucia",
+        "attendance_mode": "Intensive",
+        "units": "2",
+        "coordinating_unit": "Business School",
+        "url": "https://course-profiles.uq.edu.au/course-profiles/RBUS7999-80193-7480",
+        "scraped_at": "2026-06-04T01:24:15.584651+00:00",
+        "assessment_count": 3,
+        "lo_count": 7,
+        "file": "profiles/7480/RBUS7999-80193-7480.json"
       },
       {
         "course_code": "TIMS7811",
@@ -3978,7 +3996,7 @@
         "units": "2",
         "coordinating_unit": "Business School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/TIMS7811-80169-7480",
-        "scraped_at": "2026-05-31T12:30:06.492013+00:00",
+        "scraped_at": "2026-06-04T01:24:37.343830+00:00",
         "assessment_count": 3,
         "lo_count": 5,
         "file": "profiles/7480/TIMS7811-80169-7480.json"
