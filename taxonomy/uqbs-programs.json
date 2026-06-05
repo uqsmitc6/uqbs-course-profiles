@@ -12,6 +12,8 @@
   "programs": {
     "BBusMan": {
       "name": "Bachelor of Business Management",
+      "program_code": "2171",
+      "program_code_source": "Jac program-rules (2026-06-05)",
       "level": "UG",
       "core": [
         "ACCT1101",
@@ -100,6 +102,8 @@
     },
     "BTHEM": {
       "name": "Bachelor of Tourism, Hospitality and Event Management",
+      "program_code": "2473",
+      "program_code_source": "Jac program-rules (2026-06-05)",
       "level": "UG",
       "core": [
         "ACCT1101",
@@ -137,6 +141,8 @@
     },
     "BCom": {
       "name": "Bachelor of Commerce",
+      "program_code": "2336",
+      "program_code_source": "Jac program-rules (2026-06-05)",
       "level": "UG",
       "core": [
         "ACCT1102",
@@ -397,6 +403,8 @@
     },
     "MCom": {
       "name": "Master of Commerce",
+      "program_code": "5584",
+      "program_code_source": "Jac program-rules (2026-06-05)",
       "level": "PG",
       "core": [
         "ACCT7101",
@@ -437,6 +445,8 @@
     },
     "MBA": {
       "name": "Master of Business Administration",
+      "program_code": "5770",
+      "program_code_source": "Jac program-rules (2026-06-05)",
       "level": "PG",
       "core": [
         "ACCT7804",
@@ -470,6 +480,8 @@
     },
     "MBus": {
       "name": "Master of Business",
+      "program_code": "5583",
+      "program_code_source": "Jac program-rules (2026-06-05)",
       "level": "PG",
       "core": [
         "MGTS7610"
@@ -587,6 +599,8 @@
     },
     "MEI": {
       "name": "Master of Entrepreneurship and Innovation",
+      "program_code": "5690",
+      "program_code_source": "Jac program-rules (2026-06-05)",
       "level": "PG",
       "core": [
         "EIBS7300",
@@ -623,6 +637,8 @@
     },
     "MBusAn": {
       "name": "Master of Business Analytics",
+      "program_code": "5188",
+      "program_code_source": "Jac program-rules (2026-06-05)",
       "level": "PG",
       "core": [
         "BSAN7204",
@@ -642,6 +658,8 @@
     },
     "MTHEM": {
       "name": "Master of Tourism, Hotel and Event Management",
+      "program_code": "5585",
+      "program_code_source": "Jac program-rules (2026-06-05)",
       "level": "PG",
       "core": [
         "TOUR7000",

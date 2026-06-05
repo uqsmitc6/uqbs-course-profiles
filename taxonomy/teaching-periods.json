@@ -1,0 +1,26 @@
+{
+  "_metadata": {
+    "description": "Registry of UQ teaching-period (semester) codes as used in course-profile URLs and the JacSON index, mapped to labels, types, and Jac (curriculum.uq.edu.au) year/period equivalents. Single source of truth for semester labelling — replaces hardcoded maps in app.js semesterLabel() and import scripts (wiring pending).",
+    "created": "2026-06-04",
+    "notes": [
+      "Code spacing is NOT uniform — always look up, never compute.",
+      "The current course-profiles.uq.edu.au system serves S2 2024 (7460) onwards; earlier periods live on archive.course-profiles.uq.edu.au (legacy ECP, different URL scheme with opaque ids).",
+      "Jac fromYYYYSS = year*100 + period: period 1 = Semester 1, 2 = Semester 2; summer period id TBC (a draft instance showed 202604 — verify before relying on it).",
+      "MBA and other intensive/weekend deliveries do NOT use separate period codes — they appear as additional class instances inside standard semesters (e.g. MGTS7812's two classes in 7620). Match offerings by SI-NET class number, not by period.",
+      "7490/7590 are micro periods (medical school special-calendar courses with 'S'-suffix codes, e.g. IMED1242S). The scraper's course-code regex currently rejects the S suffix — known parked fix.",
+      "7450's label inferred from JacSON folder ordering; verify against harvest data (legacy era, no current-system URLs to confirm from)."
+    ]
+  },
+  "periods": {
+    "7450": { "label": "Semester 1, 2024", "short": "S1 2024", "type": "semester", "year": 2024, "jac_period": 1, "jac_yyyyss": 202401, "system": "legacy", "confidence": "inferred" },
+    "7460": { "label": "Semester 2, 2024", "short": "S2 2024", "type": "semester", "year": 2024, "jac_period": 2, "jac_yyyyss": 202402, "system": "current", "confidence": "confirmed" },
+    "7480": { "label": "Summer Semester, 2024-25", "short": "Sum 24/25", "type": "summer", "year": 2024, "jac_period": null, "jac_yyyyss": null, "system": "current", "confidence": "confirmed-label" },
+    "7490": { "label": "Medical special period, 2024-25", "short": "Med 24/25", "type": "special", "year": 2024, "jac_period": null, "jac_yyyyss": null, "system": "current", "confidence": "inferred" },
+    "7520": { "label": "Semester 1, 2025", "short": "S1 2025", "type": "semester", "year": 2025, "jac_period": 1, "jac_yyyyss": 202501, "system": "current", "confidence": "confirmed" },
+    "7560": { "label": "Semester 2, 2025", "short": "S2 2025", "type": "semester", "year": 2025, "jac_period": 2, "jac_yyyyss": 202502, "system": "current", "confidence": "confirmed" },
+    "7580": { "label": "Summer Semester, 2025-26", "short": "Sum 25/26", "type": "summer", "year": 2025, "jac_period": null, "jac_yyyyss": null, "system": "current", "confidence": "confirmed-label" },
+    "7590": { "label": "Medical special period, 2025-26", "short": "Med 25/26", "type": "special", "year": 2025, "jac_period": null, "jac_yyyyss": null, "system": "current", "confidence": "inferred" },
+    "7620": { "label": "Semester 1, 2026", "short": "S1 2026", "type": "semester", "year": 2026, "jac_period": 1, "jac_yyyyss": 202601, "system": "current", "confidence": "confirmed" },
+    "7660": { "label": "Semester 2, 2026", "short": "S2 2026", "type": "semester", "year": 2026, "jac_period": 2, "jac_yyyyss": 202602, "system": "current", "confidence": "confirmed" }
+  }
+}

@@ -1,0 +1,343 @@
+{
+ "_metadata": {
+  "description": "UQBS (Jac org 29) courses absent from programs-courses.uq.edu.au \u2014 Jac org-pull diffed against the offerings harvest. Generated Session 14 (2026-06-05), read-only Jac access via Sean's session.",
+  "jac_total_codes": 355,
+  "in_harvest": 289
+ },
+ "discontinued": {
+  "ACCT2101": {
+   "instances": 1,
+   "first": 202101,
+   "last": 202101
+  },
+  "ADVT2506": {
+   "instances": 4,
+   "first": 202101,
+   "last": 202201
+  },
+  "ADVT2509": {
+   "instances": 4,
+   "first": 202101,
+   "last": 202201
+  },
+  "ADVT2511": {
+   "instances": 3,
+   "first": 202104,
+   "last": 202104
+  },
+  "ADVT3505": {
+   "instances": 1,
+   "first": 202104,
+   "last": 202104
+  },
+  "ADVT3506": {
+   "instances": 1,
+   "first": 202104,
+   "last": 202104
+  },
+  "ADVT3507": {
+   "instances": 1,
+   "first": 202101,
+   "last": 202101
+  },
+  "ADVT3510": {
+   "instances": 1,
+   "first": 202104,
+   "last": 202104
+  },
+  "BISM2201": {
+   "instances": 3,
+   "first": 202101,
+   "last": 202104
+  },
+  "BISM2204": {
+   "instances": 2,
+   "first": 202101,
+   "last": 202101
+  },
+  "BISM2205": {
+   "instances": 1,
+   "first": 202104,
+   "last": 202104
+  },
+  "BISM2206": {
+   "instances": 7,
+   "first": 202101,
+   "last": 202501
+  },
+  "BISM3204": {
+   "instances": 2,
+   "first": 202101,
+   "last": 202101
+  },
+  "BISM3209": {
+   "instances": 3,
+   "first": 202101,
+   "last": 202104
+  },
+  "BISM3210": {
+   "instances": 3,
+   "first": 202104,
+   "last": 202104
+  },
+  "BISM4201": {
+   "instances": 4,
+   "first": 202101,
+   "last": 202104
+  },
+  "BISM4204": {
+   "instances": 2,
+   "first": 202101,
+   "last": 202101
+  },
+  "BISM7209": {
+   "instances": 4,
+   "first": 202101,
+   "last": 202301
+  },
+  "BLSI7004": {
+   "instances": 10,
+   "first": 202101,
+   "last": 202404
+  },
+  "BLSI7009": {
+   "instances": 8,
+   "first": 202101,
+   "last": 202401
+  },
+  "EIBS7305": {
+   "instances": 1,
+   "first": 202101,
+   "last": 202101
+  },
+  "EVNT2000": {
+   "instances": 4,
+   "first": 202104,
+   "last": 202204
+  },
+  "EVNT2003": {
+   "instances": 4,
+   "first": 202101,
+   "last": 202201
+  },
+  "EVNT2004": {
+   "instances": 2,
+   "first": 202101,
+   "last": 202201
+  },
+  "EVNT3003": {
+   "instances": 5,
+   "first": 202104,
+   "last": 202304
+  },
+  "EVNT3004": {
+   "instances": 4,
+   "first": 202101,
+   "last": 202201
+  },
+  "EVNT3005": {
+   "instances": 4,
+   "first": 202104,
+   "last": 202204
+  },
+  "FINM4999": {
+   "instances": 2,
+   "first": 202101,
+   "last": 202104
+  },
+  "FINM6402": {
+   "instances": 6,
+   "first": 202101,
+   "last": 202601
+  },
+  "FINM7904": {
+   "instances": 2,
+   "first": 202104,
+   "last": 202104
+  },
+  "FINM7905": {
+   "instances": 1,
+   "first": 202101,
+   "last": 202101
+  },
+  "IBUS7330": {
+   "instances": 4,
+   "first": 202104,
+   "last": 202404
+  },
+  "IBUS7331": {
+   "instances": 5,
+   "first": 202101,
+   "last": 202501
+  },
+  "MGTS6600": {
+   "instances": 4,
+   "first": 202104,
+   "last": 202204
+  },
+  "MGTS7819": {
+   "instances": 2,
+   "first": 202104,
+   "last": 202104
+  },
+  "MKTG6500": {
+   "instances": 2,
+   "first": 202201,
+   "last": 202201
+  },
+  "RBUS3904": {
+   "instances": 1,
+   "first": 202101,
+   "last": 202101
+  },
+  "RBUS7913": {
+   "instances": 3,
+   "first": 202307,
+   "last": 202407
+  },
+  "REDE1100": {
+   "instances": 1,
+   "first": 202104,
+   "last": 202104
+  },
+  "REDE1300": {
+   "instances": 2,
+   "first": 202101,
+   "last": 202201
+  },
+  "REDE2201": {
+   "instances": 4,
+   "first": 202101,
+   "last": 202204
+  },
+  "REDE3100": {
+   "instances": 2,
+   "first": 202101,
+   "last": 202201
+  },
+  "REDE3101": {
+   "instances": 4,
+   "first": 202101,
+   "last": 202204
+  },
+  "REDE3102": {
+   "instances": 1,
+   "first": 202104,
+   "last": 202104
+  },
+  "REDE3201": {
+   "instances": 4,
+   "first": 202101,
+   "last": 202204
+  },
+  "REDE3202": {
+   "instances": 1,
+   "first": 202104,
+   "last": 202104
+  },
+  "REDE7201": {
+   "instances": 1,
+   "first": 202101,
+   "last": 202101
+  },
+  "REDE7203": {
+   "instances": 1,
+   "first": 202101,
+   "last": 202101
+  },
+  "REDE7300": {
+   "instances": 1,
+   "first": 202101,
+   "last": 202101
+  },
+  "TOUR2002": {
+   "instances": 2,
+   "first": 202101,
+   "last": 202101
+  },
+  "TOUR2008": {
+   "instances": 4,
+   "first": 202104,
+   "last": 202204
+  },
+  "TOUR2009": {
+   "instances": 1,
+   "first": 202101,
+   "last": 202101
+  },
+  "TOUR3001": {
+   "instances": 4,
+   "first": 202104,
+   "last": 202204
+  },
+  "TOUR3003": {
+   "instances": 1,
+   "first": 202307,
+   "last": 202307
+  },
+  "TOUR3006": {
+   "instances": 2,
+   "first": 202101,
+   "last": 202201
+  },
+  "TOUR3007": {
+   "instances": 3,
+   "first": 202104,
+   "last": 202204
+  },
+  "TOUR3009": {
+   "instances": 1,
+   "first": 202104,
+   "last": 202104
+  },
+  "TOUR7009": {
+   "instances": 1,
+   "first": 202101,
+   "last": 202101
+  },
+  "TOUR7040": {
+   "instances": 3,
+   "first": 202101,
+   "last": 202104
+  }
+ },
+ "newborn_unpublished": {
+  "ADVT7513": {
+   "instances": 1,
+   "first": 202604,
+   "last": 202604
+  },
+  "IBUS7314": {
+   "instances": 1,
+   "first": 202604,
+   "last": 202604
+  },
+  "MGTS7527": {
+   "instances": 1,
+   "first": 202604,
+   "last": 202604
+  },
+  "MGTS7822": {
+   "instances": 1,
+   "first": 202601,
+   "last": 202601
+  },
+  "TIMS7334": {
+   "instances": 1,
+   "first": 202604,
+   "last": 202604
+  }
+ },
+ "indeterminate": {
+  "IBUS7327": {
+   "instances": 1,
+   "first": null,
+   "last": 0
+  },
+  "TIMS7333": {
+   "instances": 1,
+   "first": null,
+   "last": 0
+  }
+ }
+}

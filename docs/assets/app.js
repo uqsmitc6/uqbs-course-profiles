@@ -13,6 +13,7 @@ const STORE = {
   taxonomy: null,
   aol: null,
   loOverrides: null,
+  teachingPeriods: null,
 };
 
 const DATA_PATHS = {
@@ -21,6 +22,7 @@ const DATA_PATHS = {
   taxonomy: "./taxonomy/uqbs-programs.json",
   aol: "./taxonomy/aol-status.json",
   loOverrides: "./taxonomy/lo-overrides.json",
+  teachingPeriods: "./taxonomy/teaching-periods.json",
 };
 
 async function loadManifest() {
@@ -63,6 +65,16 @@ async function loadLoOverrides() {
   if (!res.ok) { STORE.loOverrides = { overrides: [] }; return STORE.loOverrides; }
   STORE.loOverrides = await res.json();
   return STORE.loOverrides;
+}
+
+// Teaching-period registry (taxonomy/teaching-periods.json) — semester-code
+// metadata incl. summer/medical special periods. Graceful fallback when absent.
+async function loadTeachingPeriods() {
+  if (STORE.teachingPeriods) return STORE.teachingPeriods;
+  const res = await fetch(DATA_PATHS.teachingPeriods, { cache: "no-cache" });
+  if (!res.ok) { STORE.teachingPeriods = { periods: {} }; return STORE.teachingPeriods; }
+  STORE.teachingPeriods = await res.json();
+  return STORE.teachingPeriods;
 }
 
 // Get AoL entries for a specific course code (across all semesters, or for a specific semester)
@@ -132,9 +144,12 @@ function semesterLabel(course) {
   if (m) return `S${m[1]} ${m[2]}`;
   const sm = sp.match(/Summer\s+Semester,?\s+(\d{4})/i);
   if (sm) return `Sum ${sm[1]}`;
-  // Fallback: derive from semester_code
+  // Fallback: derive from semester_code via the teaching-period registry
+  // (taxonomy/teaching-periods.json), which knows summer and special periods.
   const code = course.semester_code || "";
-  // Known UQ codes — derive label
+  const reg = STORE.teachingPeriods && STORE.teachingPeriods.periods;
+  if (reg && reg[code] && reg[code].short) return reg[code].short;
+  // Last resort: legacy hardcoded map (kept for registry-load failures)
   const codeMap = {
     "7460": "S2 2024", "7480": "Sum 2025", "7520": "S1 2025",
     "7560": "S2 2025", "7580": "Sum 2026", "7620": "S1 2026",
@@ -708,7 +723,7 @@ async function initBrowser() {
   const $count = document.getElementById("course-count");
   const $meta = document.getElementById("meta-info");
   try {
-    const [manifest, taxonomy, aol] = await Promise.all([loadManifest(), loadTaxonomy().catch(() => null), loadAol().catch(() => null), loadLoOverrides().catch(() => null)]);
+    const [manifest, taxonomy, aol] = await Promise.all([loadManifest(), loadTaxonomy().catch(() => null), loadAol().catch(() => null), loadLoOverrides().catch(() => null), loadTeachingPeriods().catch(() => null)]);
     const courses = getAllCourses(manifest);
     STORE.allCourses = courses;
     STORE.taxonomy = taxonomy;
@@ -998,7 +1013,7 @@ async function initCourseDetail() {
   }
   try {
     const [course, manifest, taxonomy, aol] = await Promise.all([
-      loadCourseJson(filePath), loadManifest(), loadTaxonomy().catch(() => null), loadAol().catch(() => null), loadLoOverrides().catch(() => null)
+      loadCourseJson(filePath), loadManifest(), loadTaxonomy().catch(() => null), loadAol().catch(() => null), loadLoOverrides().catch(() => null), loadTeachingPeriods().catch(() => null)
     ]);
     STORE.currentCourse = course;
     STORE.currentTaxonomy = taxonomy;
@@ -1454,7 +1469,7 @@ async function initProgram() {
   const progKey = getQueryParam("program");
 
   try {
-    const [manifest, taxonomy, aol] = await Promise.all([loadManifest(), loadTaxonomy(), loadAol().catch(() => null)]);
+    const [manifest, taxonomy, aol] = await Promise.all([loadManifest(), loadTaxonomy(), loadAol().catch(() => null), loadTeachingPeriods().catch(() => null)]);
     const courses = getAllCourses(manifest);
     STORE.allCourses = courses;
     STORE.taxonomy = taxonomy;
@@ -1647,7 +1662,7 @@ async function initAol() {
   const $root = document.getElementById("aol-root");
   try {
     const [manifest, taxonomy, aol] = await Promise.all([
-      loadManifest(), loadTaxonomy(), loadAol()
+      loadManifest(), loadTaxonomy(), loadAol(), loadTeachingPeriods().catch(() => null)
     ]);
     STORE.allCourses = getAllCourses(manifest);
     STORE.taxonomy = taxonomy;
@@ -1877,7 +1892,7 @@ async function initAllBrowser() {
   const $count = document.getElementById("course-count");
   const $meta = document.getElementById("meta-info");
   try {
-    const manifest = await loadManifestAll();
+    const [manifest] = await Promise.all([loadManifestAll(), loadTeachingPeriods().catch(() => null)]);
     const courses = getAllCourses(manifest);
     STORE.allCourses = courses;
     // No taxonomy or AoL for all-of-UQ view
