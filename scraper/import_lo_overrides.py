@@ -28,6 +28,12 @@ omits an LO that was present in the scraped data ("override drops scraped LOx").
 CSV columns (default: taxonomy/lo-overrides.csv)
   semester_code     optional — blank = applies to all semesters of the course;
                     a value = that semester only (exact-semester wins over blank)
+  class_number      optional — blank = applies to all classes of the offering;
+                    a value = that SI-NET class only (exact-class wins over
+                    exact-semester). Needed when parallel deliveries (e.g. MBA
+                    intensive vs standard, in-person vs external) share an
+                    assessment title but map different LOs. A class-scoped row
+                    MUST also carry a semester_code.
   course_code       e.g. BISM2207
   assessment_title  must match a scraped assessment title for that course
   learning_outcomes the authoritative LO list, e.g. "LO1, LO2, LO4"
@@ -124,9 +130,12 @@ def load_scraped_index():
       scraped[(course_code, semester_code)] = {
         "lo_count": int,
         "assessments": { norm_title: {"title": original, "los": [LO..]} },
+        "classes": { class_code: { norm_title, ... } },
       }
     'los' is the LO list the scraper *did* capture for that assessment
     (may be empty — that is exactly the bug we're patching).
+    'classes' records which SI-NET classes were scraped and which assessment
+    titles each class's profile carries (for validating class-scoped rows).
     """
     index = {}
     if not PROFILES_DIR.exists():
@@ -144,8 +153,11 @@ def load_scraped_index():
             if not course:
                 continue
             key = (course, sem)
-            rec = index.setdefault(key, {"lo_count": 0, "assessments": {}})
+            rec = index.setdefault(key, {"lo_count": 0, "assessments": {},
+                                         "classes": {}})
             rec["lo_count"] = max(rec["lo_count"], len(d.get("learning_outcomes", [])))
+            cls = (d.get("class_code") or "").strip()
+            cls_titles = rec["classes"].setdefault(cls, set()) if cls else None
 
             # LO refs the scraper captured, keyed by assessment title.
             detail_los = {}
@@ -159,6 +171,8 @@ def load_scraped_index():
                 t = _norm_title(a.get("title"))
                 if not t:
                     continue
+                if cls_titles is not None:
+                    cls_titles.add(t)
                 rec["assessments"].setdefault(t, {
                     "title": (a.get("title") or "").strip(),
                     "los": detail_los.get(t, []),
@@ -189,13 +203,14 @@ def parse_csv(csv_path):
 
         for i, row in enumerate(reader, start=2):
             sem = (row.get("semester_code") or "").strip()
+            cls = (row.get("class_number") or "").strip()
             course = (row.get("course_code") or "").strip().upper()
             title = (row.get("assessment_title") or "").strip()
             lo_raw = (row.get("learning_outcomes") or "").strip()
             notes = (row.get("notes") or "").strip()
 
             # Skip entirely blank rows.
-            if not any([sem, course, title, lo_raw, notes]):
+            if not any([sem, cls, course, title, lo_raw, notes]):
                 continue
 
             line_errors = []
@@ -203,6 +218,8 @@ def parse_csv(csv_path):
                 line_errors.append("missing course_code")
             if not title:
                 line_errors.append("missing assessment_title")
+            if cls and not sem:
+                line_errors.append("class-scoped row must also carry a semester_code")
 
             los = parse_lo_refs(lo_raw)
             # A scaffold row with a blank LO column is not an error — it just
@@ -219,6 +236,7 @@ def parse_csv(csv_path):
             entries.append({
                 "row": i,
                 "semester_code": sem,        # "" = all semesters
+                "class_number": cls,         # "" = all classes
                 "course_code": course,
                 "assessment_title": title,
                 "learning_outcomes": los,
@@ -233,13 +251,30 @@ def validate(entries, known_courses, scraped):
     seen = set()
     for e in entries:
         course, sem, title = e["course_code"], e["semester_code"], e["assessment_title"]
+        cls = e["class_number"]
 
-        # Duplicate (same course+semester+assessment)
-        dkey = (course, sem, _norm_title(title))
+        # Duplicate (same course+semester+class+assessment)
+        dkey = (course, sem, cls, _norm_title(title))
         if dkey in seen:
             warnings.append(f"Row {e['row']}: duplicate override for "
-                            f"{course} / '{title}' (semester '{sem or 'all'}')")
+                            f"{course} / '{title}' (semester '{sem or 'all'}', "
+                            f"class '{cls or 'all'}')")
         seen.add(dkey)
+
+        # Class-scoped row: does that class exist in the scraped profiles,
+        # and does its profile carry this assessment title?
+        if cls and sem:
+            rec = scraped.get((course, sem))
+            if rec:
+                if cls not in rec.get("classes", {}):
+                    warnings.append(f"Row {e['row']}: no scraped profile for "
+                                    f"{course} class {cls} in semester {sem} "
+                                    f"(classes on file: "
+                                    f"{', '.join(sorted(rec.get('classes', {})) ) or 'none'})")
+                elif _norm_title(title) not in rec["classes"][cls]:
+                    warnings.append(f"Row {e['row']}: assessment '{title}' not in "
+                                    f"{course} class {cls}'s scraped profile "
+                                    f"({sem}) — class-scoped override would never fire")
 
         # Course in taxonomy?
         if known_courses is not None and course not in known_courses:
@@ -297,12 +332,15 @@ def build_json(entries, source_name):
             "assessment_title": e["assessment_title"],
             "learning_outcomes": e["learning_outcomes"],
         }
+        if e["class_number"]:
+            rec["class_number"] = e["class_number"]  # scoped to one SI-NET class
         if e["notes"]:
             rec["notes"] = e["notes"]
         overrides.append(rec)
 
     overrides.sort(key=lambda r: (r["course_code"], r["semester_code"],
-                                  r["assessment_title"]))
+                                  r.get("class_number", ""), r["assessment_title"]))
+    n_class_scoped = sum(1 for r in overrides if r.get("class_number"))
     return {
         "_metadata": {
             "description": "LO-to-assessment mappings restored from Jac "
@@ -313,7 +351,13 @@ def build_json(entries, source_name):
                            "entry is the authoritative full LO list for its assessment.",
             "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M"),
             "generated_from": source_name,
-            "semantics": "replace_per_assessment; exact semester_code wins over blank",
+            "semantics": "replace_per_assessment; exact class_number wins over "
+                         "exact semester_code, which wins over blank. Entries "
+                         "with class_number apply ONLY to that SI-NET class "
+                         "(parallel deliveries can map differently). Consumers "
+                         "that do not distinguish classes should ignore "
+                         "class_number entries for offerings they cannot match.",
+            "class_scoped_entries": n_class_scoped,
         },
         "overrides": overrides,
     }
@@ -360,6 +404,7 @@ def scaffold(csv_path, scraped, semester, known_courses=None):
             prev = existing.get(key)
             rows.append({
                 "semester_code": sem,
+                "class_number": (prev or {}).get("class_number", "").strip(),
                 "course_code": course,
                 "assessment_title": a["title"],
                 "learning_outcomes": (prev or {}).get("learning_outcomes", "").strip(),
@@ -367,7 +412,8 @@ def scaffold(csv_path, scraped, semester, known_courses=None):
             })
 
     with open(csv_path, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=["semester_code", "course_code",
+        w = csv.DictWriter(f, fieldnames=["semester_code", "class_number",
+                                          "course_code",
                                           "assessment_title", "learning_outcomes",
                                           "notes"])
         w.writeheader()
@@ -438,7 +484,9 @@ def main():
     print(f"  Overrides: {len(entries)}")
     print(f"  Courses:   {len(set(e['course_code'] for e in entries))}")
     sem_specific = sum(1 for e in entries if e["semester_code"])
+    cls_specific = sum(1 for e in entries if e["class_number"])
     print(f"  Semester-specific: {sem_specific}; all-semesters: {len(entries)-sem_specific}")
+    print(f"  Class-scoped: {cls_specific}")
 
 
 if __name__ == "__main__":

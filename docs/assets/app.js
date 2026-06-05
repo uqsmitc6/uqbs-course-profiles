@@ -208,25 +208,36 @@ function normTitle(t) {
 
 // Resolve the manual LO overrides for a course offering into a lookup keyed by
 // normalised assessment title: { normTitle → { los:[…], notes } }.
-// Precedence: an override whose semester_code matches the offering wins over a
+// Precedence (most specific wins): an override scoped to this exact SI-NET
+// class (class_number) beats an exact-semester override, which beats a
 // blank-semester (all-semesters) override for the same assessment.
-function getLoOverrideMap(courseCode, semesterCode) {
+// Class-scoped overrides exist because parallel deliveries (MBA intensive vs
+// standard, in-person vs external) can share an assessment title but map
+// different LOs. A class-scoped entry never applies to a different class.
+function getLoOverrideMap(courseCode, semesterCode, classCode) {
   const ov = STORE.loOverrides;
   if (!ov || !Array.isArray(ov.overrides) || !courseCode) return {};
-  const blank = {}, exact = {};
+  const blank = {}, exact = {}, exactClass = {};
   for (const o of ov.overrides) {
     if (o.course_code !== courseCode) continue;
     const los = Array.isArray(o.learning_outcomes) ? o.learning_outcomes : [];
     if (!los.length) continue;
     const rec = { los, notes: o.notes || null };
     const nt = normTitle(o.assessment_title);
-    if (o.semester_code && semesterCode && o.semester_code === semesterCode) {
+    const semMatches = o.semester_code && semesterCode && o.semester_code === semesterCode;
+    if (o.class_number) {
+      // Scoped to one class: applies only when both class and semester match.
+      if (semMatches && classCode && String(o.class_number) === String(classCode)) {
+        exactClass[nt] = rec;
+      }
+    } else if (semMatches) {
       exact[nt] = rec;
     } else if (!o.semester_code) {
       blank[nt] = rec;
     }
   }
-  return Object.assign({}, blank, exact); // exact-semester wins over blank
+  // most specific last so it wins the merge
+  return Object.assign({}, blank, exact, exactClass);
 }
 
 // Produce the COMPLETE record for a course: the scraped profile with any
@@ -235,7 +246,7 @@ function getLoOverrideMap(courseCode, semesterCode) {
 // complete data. Restored fields carry a provenance marker; the stored
 // profiles/ JSONs remain raw ingestion (what UQ's published page contains).
 function completeCourseJson(c) {
-  const ovMap = getLoOverrideMap(c.course_code, c.semester_code);
+  const ovMap = getLoOverrideMap(c.course_code, c.semester_code, c.class_code);
   if (!Object.keys(ovMap).length) return c;
   const copy = JSON.parse(JSON.stringify(c));
   const restored = [];
@@ -329,7 +340,7 @@ function downloadBlob(content, filename, mimeType) {
 // Generate a Markdown document from a full course JSON.
 function buildCourseMarkdown(c, taxonomy) {
   const lines = [];
-  const ovMap = getLoOverrideMap(c.course_code, c.semester_code);
+  const ovMap = getLoOverrideMap(c.course_code, c.semester_code, c.class_code);
   lines.push(`# ${c.course_code} — ${c.course_title || ""}`);
   lines.push("");
   const metaRows = [
@@ -504,7 +515,7 @@ function buildCourseMarkdown(c, taxonomy) {
 // Build a standalone HTML document optimised for print-to-PDF.
 function buildPrintableHtml(c, taxonomy) {
   const esc = escapeHtml;
-  const ovMap = getLoOverrideMap(c.course_code, c.semester_code);
+  const ovMap = getLoOverrideMap(c.course_code, c.semester_code, c.class_code);
   const roles = taxonomy ? programRolesFor(c.course_code, taxonomy) : [];
   const progLine = roles.length
     ? roles.map(r => `${esc(r.program)} (${esc(r.role || "")})`).join(" · ")
@@ -1163,7 +1174,7 @@ function renderCourseDetail($root, c, taxonomy, otherOfferings, currentFile) {
   // the summary rows don't carry it directly.
   if (c.assessment_summary && c.assessment_summary.length) {
     const loMap = buildAssessmentLoMap(c);
-    const ovMap = getLoOverrideMap(c.course_code, c.semester_code);
+    const ovMap = getLoOverrideMap(c.course_code, c.semester_code, c.class_code);
     // Resolve the LO list for one assessment row: override wins, then any LOs
     // carried on the summary row, then the scraped assessment-details map.
     const resolveLos = (a) => {
@@ -1239,7 +1250,7 @@ function renderCourseDetail($root, c, taxonomy, otherOfferings, currentFile) {
 
   // Assessment details
   if (c.assessment_details && c.assessment_details.length) {
-    const ovMapDetail = getLoOverrideMap(c.course_code, c.semester_code);
+    const ovMapDetail = getLoOverrideMap(c.course_code, c.semester_code, c.class_code);
     parts.push(`
       <div class="card">
         <h2>Assessment details</h2>
