@@ -23,9 +23,11 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 PROFILES_DIR = REPO_ROOT / "profiles"
+LEGACY_DIR = REPO_ROOT / "profiles-legacy"
 DOCS_DIR = REPO_ROOT / "docs"
 MANIFEST_PATH = DOCS_DIR / "assets" / "manifest.json"
 MANIFEST_ALL_PATH = DOCS_DIR / "assets" / "manifest-all.json"
+MANIFEST_LEGACY_PATH = DOCS_DIR / "assets" / "manifest-legacy.json"
 TAXONOMY_PATH = REPO_ROOT / "taxonomy" / "uqbs-programs.json"
 
 
@@ -48,6 +50,61 @@ def _summary_fields(data: dict, relative_path: str) -> dict:
         "assessment_count": len(data.get("assessment_summary") or []),
         "lo_count": len(data.get("learning_outcomes") or []),
         "file": relative_path,
+    }
+
+
+def _legacy_summary_fields(data: dict, relative_path: str) -> dict:
+    """Lean summary fields for a legacy profile (no class/semester code).
+
+    Adds year/period so the per-course timeline can order legacy offerings
+    chronologically, and a `system` marker so the viewer can badge them.
+    """
+    base = _summary_fields(data, relative_path)
+    base.update({
+        "system": "legacy",
+        "legacy_id": data.get("legacy_id"),
+        "year": data.get("year"),
+        "period": data.get("period"),
+    })
+    return base
+
+
+def _period_key(period: str | None) -> str:
+    return {"Semester 1": "S1", "Semester 2": "S2", "Summer Semester": "SS"}.get(period or "", "X")
+
+
+def _scan_legacy_profiles() -> list[tuple[str, dict]]:
+    """Scan profiles-legacy/{year}-{period}/ → (relative_path, summary) pairs."""
+    if not LEGACY_DIR.exists():
+        return []
+    entries = []
+    for period_dir in sorted(LEGACY_DIR.iterdir()):
+        if not period_dir.is_dir():
+            continue
+        for jf in sorted(period_dir.glob("*.json")):
+            try:
+                with jf.open() as f:
+                    data = json.load(f)
+            except (json.JSONDecodeError, OSError) as exc:
+                print(f"warn: skipping {jf.name}: {exc}", file=sys.stderr)
+                continue
+            rel = f"profiles-legacy/{period_dir.name}/{jf.name}"
+            entries.append((rel, _legacy_summary_fields(data, rel)))
+    return entries
+
+
+def _build_legacy_manifest(entries: list[tuple[str, dict]]) -> dict:
+    """Group legacy entries by '{year}-{period_key}' buckets (no semester codes)."""
+    buckets: dict[str, list] = {}
+    for _rel, summary in entries:
+        key = f"{summary.get('year') or 'unknown'}-{_period_key(summary.get('period'))}"
+        buckets.setdefault(key, []).append(summary)
+    total = sum(len(v) for v in buckets.values())
+    return {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "total_profiles": total,
+        "system": "legacy",
+        "periods": dict(sorted(buckets.items())),
     }
 
 
@@ -132,6 +189,23 @@ def main() -> None:
 
     uqbs_manifest = _build_manifest(uqbs_entries)
     _write_manifest(uqbs_manifest, MANIFEST_PATH, "UQBS")
+
+    # Build and write the legacy manifest (2009–S1 2024), kept entirely
+    # separate from the live UQBS/all manifests so the current viewer is
+    # unaffected. The viewer loads it opt-in for the per-course timeline.
+    legacy_entries = _scan_legacy_profiles()
+    if legacy_entries:
+        legacy_manifest = _build_legacy_manifest(legacy_entries)
+        MANIFEST_LEGACY_PATH.parent.mkdir(parents=True, exist_ok=True)
+        with MANIFEST_LEGACY_PATH.open("w") as f:
+            json.dump(legacy_manifest, f, indent=2)
+        print(
+            f"Wrote {MANIFEST_LEGACY_PATH.relative_to(REPO_ROOT)} "
+            f"({legacy_manifest['total_profiles']} legacy profiles across "
+            f"{len(legacy_manifest['periods'])} period(s))"
+        )
+    else:
+        print("No profiles-legacy/ found — skipping legacy manifest")
 
 
 if __name__ == "__main__":

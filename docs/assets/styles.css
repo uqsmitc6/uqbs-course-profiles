@@ -481,6 +481,83 @@ table.courses td.code a { color: var(--uq-purple); }
   background: var(--uq-purple-light);
   text-decoration: none;
 }
+
+/* Per-course timeline (current + legacy offerings, oldest→newest) */
+.course-timeline { margin-top: 12px; }
+.tl-head {
+  display: flex; align-items: baseline; gap: 10px; margin-bottom: 6px;
+}
+.tl-title { font-size: 13px; font-weight: 700; color: var(--ink); }
+.tl-span { font-size: 12px; color: var(--ink-faint); }
+.tl-track {
+  list-style: none; margin: 0; padding: 0 0 4px;
+  display: flex; gap: 6px; flex-wrap: wrap; align-items: stretch;
+}
+.tl-node {
+  display: inline-flex; flex-direction: column; gap: 2px;
+}
+.tl-node-label {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 4px 11px; border-radius: 999px;
+  font-size: 13px; font-weight: 500;
+  background: var(--chip-bg); color: var(--chip-ink);
+  text-decoration: none; white-space: nowrap;
+}
+a.tl-node-label:hover { background: var(--accent-soft); text-decoration: none; }
+.tl-current .tl-node-label {
+  background: var(--uq-purple); color: #fff; font-weight: 700;
+}
+.tl-legacy .tl-node-label { border: 1px dashed var(--rule); }
+.tl-era {
+  font-size: 9px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase;
+  padding: 1px 5px; border-radius: 999px;
+  background: var(--accent-soft); color: var(--accent);
+}
+.tl-event {
+  font-size: 10px; color: var(--warn);
+  display: inline-block; margin-top: 1px; padding-left: 2px;
+}
+.era-badge {
+  display: inline-block; margin-left: 8px;
+  padding: 2px 9px; border-radius: 999px;
+  font-size: 11px; font-weight: 700; letter-spacing: .02em;
+  background: var(--warn-bg); color: var(--warn);
+  border: 1px solid var(--warn);
+  vertical-align: middle;
+}
+
+/* Timeline compare / diff view */
+.tl-compare {
+  margin-top: 10px; display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+}
+.tl-compare label { font-size: 12px; color: var(--ink-muted); }
+.tl-compare select {
+  font-size: 13px; padding: 3px 8px; border-radius: var(--radius);
+  border: 1px solid var(--rule); background: var(--bg-card); color: var(--ink);
+}
+.cmp-result { margin-top: 8px; }
+.cmp-loading { font-size: 13px; color: var(--ink-faint); }
+.cmp-panel {
+  border: 1px solid var(--rule); border-radius: var(--radius);
+  padding: 10px 12px; background: var(--bg-card);
+}
+.cmp-head { font-size: 13px; margin-bottom: 6px; color: var(--ink); }
+.cmp-none { font-size: 13px; color: var(--ink-muted); }
+.cmp-row {
+  font-size: 13px; padding: 3px 0; display: flex; gap: 8px; align-items: baseline;
+  flex-wrap: wrap; border-top: 1px dotted var(--rule);
+}
+.cmp-row:first-of-type { border-top: none; }
+.cmp-tag {
+  font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em;
+  padding: 1px 6px; border-radius: 999px; white-space: nowrap;
+}
+.cmp-add .cmp-tag { background: var(--ok-bg); color: var(--ok); }
+.cmp-drop .cmp-tag { background: var(--warn-bg); color: var(--warn); }
+.cmp-chg .cmp-tag { background: var(--chip-bg); color: var(--chip-ink); }
+.cmp-meta .cmp-tag { background: var(--accent-soft); color: var(--accent); }
+.cmp-w { color: var(--ink-faint); font-size: 12px; }
+
 .course-header h1 { margin: 0 0 6px; font-size: 24px; }
 .course-header .meta {
   color: var(--ink-muted); font-size: 14px;

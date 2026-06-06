@@ -1,6 +1,6 @@
 # Project Log — UQBS Course Profile Scraper
 
-> **Last updated:** 2026-06-05 (Session 14) — Broken-era UQBS LO backlog plugged: 340 mappings across 5 semesters, incl. new **class-scoped overrides** (`class_number`) and a **stale-matrix audit** (PSYC3052 corrected; all 44 live 7620 instances verified clean). Overnight legacy-HTML fetch may still be running in Sean's terminal. Sessions 12–14 work is **not yet pushed**.
+> **Last updated:** 2026-06-06 (Session 16) — **Legacy data integrated into the viewer (#43 + #45 CLOSED): per-course timeline (walk a course 2009→2026, title-changes flagged, legacy badged) + an offering diff view (pick any two, see assessment add/drop/change, weight + LO shifts).** Separate `manifest-legacy.json` keeps the live UQBS viewer unaffected. Sessions 12–15 are PUSHED (#39 closed, range 02b1f575..31b58be9); the Session 16 viewer work is local-only, push block ready (#46).
 > **Project:** UQBS Course Profile Viewer and Learning Design Intelligence Platform
 > **Tech stack:** Python 3 / BeautifulSoup / requests / GitHub Actions / GitHub Pages
 > **Repository:** [uqsmitc6/uqbs-course-profiles](https://github.com/uqsmitc6/uqbs-course-profiles)
@@ -12,6 +12,8 @@
 The scraper is built, tested, and **production-ready**. It extracts a comprehensive field set from UQ course profile pages — significantly richer than Geoff's JacSON scraper (which covers the whole university but with fewer fields). As of Session 9 (2026-06-02), the scraper supports **all of UQ** via the `--all-uq` flag (3,271 courses across 1,750 per semester), while the live UQBS viewer remains completely isolated via dual manifests. The all-of-UQ expansion is driven by ATLAS, a TIG-funded project that consumes this scraper's JSON as its data spine.
 
 As of Session 12 (2026-06-04): all current-system semesters (S2 2024→S2 2026) are scraped and pushed; the LO override layer is **live** with Jac-provenance framing (Jac is the official source — Sean's reframe); the Drupal bug's onset is dated to the **S2 2024 publishing-system cutover** (legacy archive pages render mappings correctly); every offering of every current UQ course back to ~2009 is indexed in `data/offerings-index.json`; all six faculties' current program structures are extracted from Jac (Science's file-write pending, #35); and an overnight fetch of all 5,234 UQBS legacy profiles (to 2009) is caching raw HTML for the legacy parser (#34) — **still running as of 2026-06-05**.
+
+As of Session 16 (2026-06-06): **fifteen years of UQBS profile history is structured data AND browsable.** All 5,288 legacy profiles (2009–S1 2024) are parsed, pushed (#39), and now wired into the viewer via a separate `manifest-legacy.json` and a **per-course timeline** that lets you walk a course across 2009→2026 in one view, with title-change events flagged and legacy profiles badged. The build is local-only pending a push (#46); the diff view (#45) is the next analytical layer.
 
 **Evolving vision:** The project started as a way to easily navigate published ECPs and download info from the browser (the bulk export is a standout feature). It's now actively becoming a **learning design intelligence platform** for the UQBS team. Two overlay data layers are now built and integrated: **Assurance of Learning (AoL)** and the **LO-to-assessment override** layer (Session 10, patches UQ's Drupal bug that drops LO mappings fully or partially). The AoL layer uses an overlay architecture: team maintains a CSV (`taxonomy/aol-template.csv`), an import script converts it to JSON (`taxonomy/aol-status.json`), and the viewer loads it at runtime to show AoL status across course, programme, and dashboard views. This same pattern will be used for GA mapping, assessment typologies, Indigenous curriculum tracking, and assessment security classification.
 
@@ -71,16 +73,20 @@ As of Session 12 (2026-06-04): all current-system semesters (S2 2024→S2 2026) 
 | 30 | DONE | ~~**Persist activity-to-LO mapping**~~ | 2026-06-03 | — | Saved to `taxonomy/sources/activity-lo-mapping-jac-7620.json` (43 courses, 753 rows) via gzip+base64 transfer |
 | 31 | DONE | ~~**Commit & push the filled overrides**~~ | 2026-06-03 | — | Session 12: pushed (commits 5839218 + a4f2d37 incl. Jac-reframe). Live & verified; ATLAS merged the overlay |
 | 32 | NOTE | **MBA courses are a special case** — run multiple offerings per semester (weekend/intensive/teaching periods) with *different* assessments; use SI-NET class-number matching, not semester-period matching | 2026-06-03 | Med | `jac_extract.js` now supports `{code:[classNumber]}` matching; MGTS7812 was the example this round |
-| 33 | TODO | **rsync legacy cache when overnight fetch finishes** — then cleanup pass (`caffeinate -i python3 scraper/fetch_legacy.py --since-year 2009` re-run retries the ~2 network-blip failures) | 2026-06-04 | High | **Sean's action — fetch still running as of 2026-06-05 morning.** Then `rsync -a .../data/ → Cowork data/` |
-| 34 | TODO | **Build legacy ECP parser** — parse cached legacy HTML (archive.course-profiles.uq.edu.au sections) into profile JSONs; unlocks UQBS history to 2009 incl. correct pre-cutover LO mappings | 2026-06-04 | High | Blocked by #33. Iterate against local cache, no network needed |
+| 33 | DONE | ~~rsync legacy cache when overnight fetch finishes~~ | 2026-06-04 | — | Done by Sean before Session 15: cache verified in the Cowork folder (5,288 profiles × 6 sections = 31,728 files, exact) |
+| 34 | DONE | ~~**Build legacy ECP parser**~~ | 2026-06-04 | — | Session 15: `scraper/parse_legacy.py` built, verified (470-profile independent cross-check, 0 mismatches), batch-run over all 5,288 → `profiles-legacy/{year}-{period}/`, 0 errors. Incl. native LO mappings, GA-to-LO matrices, activity-to-LO refs |
 | 35 | DONE | ~~**Land the Science faculty file**~~ | 2026-06-04 | — | Session 14: `taxonomy/sources/sci-programs-jac-202601.json` (62 programs, 1,244 courses in compact reverse map, 3 cross-ref Grad Certs flagged). Per-chunk checksums caught a 1-char transcription error; gzip-verified clean. All six faculty files now on disk — push via #39 |
 | 36 | DONE | ~~**Broken-era UQBS LO backlog**~~ (UQBS portion) | 2026-06-05 | — | Session 14: 108 offerings / 340 mappings filled & verified, incl. class-scoped overrides + stale-matrix audit. All-of-UQ scope (~3,000) remains a separate decision |
 | 37 | TODO | **Recurring per-semester LO patch routine** — S2 2026+ publishes broken weekly while UQ's Drupal bug lives; run coverage report after bulk publish, batch-extract gaps from Jac, push | 2026-06-05 | Med | ~20 min/semester with existing machinery |
 | 38 | TODO | **Program-rules time series** — extract ALL versions (not just current) per program, diff consecutive versions for course movements (core↔major etc.); Jac retains versions with effective dates back to ~2021 | 2026-06-05 | Med | Same machinery minus the current-version filter. Pre-2021 structure not recoverable from Jac (pre-dates the system) |
-| 39 | TODO | **Push the Sessions 12–14 local-only work** — Session 12: faculty files (bel/hmbs/hass/eait/sci), teaching-periods.json, discover_offerings.py, fetch_legacy.py, data/offerings-index.json. Session 14: lo-overrides.csv/.json, app.js (class-scoped resolver), import_lo_overrides.py, fill_backlog_from_jac.py, taxonomy/sources/lo-overrides-source-jac-backlog-2024-2025.json | 2026-06-04 | High | Sean's action; nothing from 06-04 onward is on GitHub yet. The Session 14 deploy block is in the log (Session 14 entry) |
+| 39 | DONE | ~~**Push the Sessions 12–15 local-only work**~~ | 2026-06-04 | — | Pushed 2026-06-06 (range 02b1f575..31b58be9): code/taxonomy/data commit + separate profiles-legacy commit (31b58be9, 5,288 files, 40.7 MiB pack). Cache correctly excluded |
 | 40 | DONE | ~~**Deleted-courses Jac org-pull (UQBS, org 29)**~~ | 2026-06-03 | — | Session 14: 3,450 instances pulled; 59 discontinued / 5 newborn / 2 indeterminate classified → `taxonomy/sources/uqbs-deleted-courses-jac.json`. Residue check (which still have archive pages) = Sean's `--codes-file` run on the Mac |
 | 41 | DONE | ~~**Wire teaching-periods.json into viewer**~~ | 2026-06-04 | — | Session 14: app.js loads the registry (5 init sites); semesterLabel uses registry `short` (fixes 7480 'Sum 2025'→'Sum 24/25', adds 7490/7590 medical labels); hardcoded map kept as last-resort fallback. 7/7 sandbox tests |
 | 42 | TODO | **Program-rules time series, the SelectionList unlock** — historical (pre-~2024) rule records hold UUIDs only; capture the UI's list-resolution endpoint on a historical record, then batch all versions for the 21 UQBS programs and diff | 2026-06-05 | Med | Probe findings + recipe in 2026-06-05 FINDING entry. Supersedes the extraction half of #38 |
+| 43 | DONE | ~~**Integrate profiles-legacy into the viewer/manifests**~~ | 2026-06-06 | — | Session 16: `manifest-legacy.json` builder (separate from UQBS/all), Pages + serve_local plumbing, per-course timeline (current+legacy offerings, chronological, title-change events), legacy provenance badge. Node-sandbox + local-serve verified. Local-only until pushed |
+| 45 | DONE | ~~**Timeline v2 — the diff view**~~ | 2026-06-06 | — | Session 16: compare control under the timeline; `computeOfferingDiff` (older→newer orientation, title-matched assessment add/drop/change incl. weight + LO-set shifts, LO-count + title deltas) + `renderOfferingDiff`. Node-verified on real ACCT1101 2009/2024/2026 |
+| 46 | TODO | **Push Session 16 viewer integration (timeline + diff)** — build_manifest.py, pages.yml, serve_local.sh, .gitignore, app.js, styles.css, regenerated manifests (incl. manifest-legacy.json) | 2026-06-06 | High | Sean's action. Pages redeploys and the timeline + diff go live. Push block in Session 16 entry |
+| 44 | TODO | **Decide profiles-legacy QA follow-ups** — 137 profiles have no staff-person block (88% coverage, source-genuine); 22 summary rows source-blank LO cells (list in Session 15 entry); IBUS7302-28119 (2009-S2) has per-stream summary variants (5 rows / 3 details — legitimate) | 2026-06-06 | Low | Nothing blocking; documented for the record |
 
 ---
 
@@ -181,6 +187,84 @@ The team needs to be able to update this data easily — not one course at a tim
 ---
 
 ## Session History
+
+### Session 16 — 2026-06-06 — Legacy data goes live in the viewer: the per-course timeline (#43 closed)
+
+**Focus:** Wire the parsed legacy profiles (Session 15) into the viewer so fifteen years of history is browsable, and build the per-course timeline. Followed straight on from the #39 push earlier the same day.
+
+**Decision (Sean's "begin real work" + my stated lean):** the timeline is keyed on **course code** but **surfaces title changes as visible events** — drift (a code repurposed or renamed) is signal an LD team wants, not noise to hide.
+
+**What shipped (all local-only — push is #46):**
+1. **`scraper/build_manifest.py`** — new `manifest-legacy.json`, built from a dedicated `profiles-legacy/{year}-{period}/` scan, grouped into `{year}-{S1|S2|SS}` buckets. Kept **entirely separate** from `manifest.json` (UQBS) and `manifest-all.json` (ATLAS) per the "keep 'em separated" principle — the live UQBS viewer is byte-for-byte unaffected (verified: still 873). Legacy summary entries carry `system/legacy_id/year/period` so the timeline can order and badge them. 5,288 legacy profiles across 46 periods.
+2. **Pages plumbing** — `pages.yml` copies `profiles-legacy/` into `docs/` and adds it to the trigger globs; `serve_local.sh` symlinks it; `.gitignore` covers `docs/profiles-legacy`. Same pattern as the existing `profiles/`/`taxonomy/` staging.
+3. **Viewer (`docs/assets/app.js`)** — `loadManifestLegacy()` + `getLegacyCourses()` (graceful fallback to empty); `offeringChronKey()` (cross-era chronological sort, summer ordered before its S1); `initCourseDetail()` now merges current + all-of-UQ-fallback + legacy offerings of the course; `buildCourseTimeline()` renders the ordered strip with the current offering marked, legacy era tags, and title-change events; a **legacy provenance badge** on the header (keyed on `system`/archive URL) so a pre-cutover ECP is never mistaken for current. The old `.semester-picker` block is superseded by the timeline.
+4. **`docs/assets/styles.css`** — `.course-timeline`/`.tl-*`/`.era-badge` styles, all on existing theme variables so Classic/Fun + light/dark all inherit. Braces 225/225.
+
+**Verification:** `node --check` OK; CSS balanced; manifest builder run (873 UQBS unchanged / 8,020 all / 5,288 legacy). Node-sandbox test against **real** app.js + real manifests on ACCT1101 (present in both eras: 42 legacy + 4 current offerings): `getLegacyCourses` flattens to 42; merged sort gives newest→oldest correctly (S1 2026 … S1 2009) with summer ordered before S1 within a year (2020.1 < 2020.2 < 2020.3); timeline spans "S1 2009 → S1 2026 · 47 offerings" with 42 era tags + current marker; synthetic title-change case fires the event. Local-serve smoke test: `manifest-legacy.json` 200, a legacy profile 200 and parses (3 assessment rows).
+
+**Timeline v2 — the diff view (#45, same session):** a compare control under the timeline lets you pick any other offering and diff it against the one on screen. `computeOfferingDiff(profA, profB)` orients older→newer by chron key, matches assessment items by normalised title, and reports **added / dropped / changed** items (weight shifts and LO-set shifts on matched items) plus LO-count and title deltas; `renderOfferingDiff` paints it (green added / amber dropped / chip changed). Fetches the picked offering on demand via `loadCourseJson`. Node-verified on real ACCT1101: 2009→2024 = full assessment turnover (3 dropped, 3 added, LOs 15→5); 2024→2026 correctly matches "End-of-Semester Examination" across a case difference and flags its weight+LO change while showing the Inspera items as added; orientation robust when args are reversed; self-vs-self reads identical.
+
+**Landmines / watch out for:**
+- Local-only; **not pushed** (#46). On push, Pages redeploys and the timeline + diff go live; the UQBS viewer's existing pages are unchanged until a user opens a course that has legacy history.
+- The all-of-UQ-fallback in `initCourseDetail` makes one extra fetch (`manifest-all.json`) only when a course isn't in the UQBS manifest — keeps the timeline complete for non-UQBS courses reached via the All-UQ browser, at no cost to UQBS course loads.
+- The diff matches assessment items by **title** — a renamed-but-same item reads as drop+add rather than a change. Acceptable (and arguably honest); a fuzzy match could be a later refinement.
+
+**The #46 push block (Sean's terminal — comment-free, run from the git repo):**
+
+```
+cd /Users/uqsmitc6_local/Documents/GitHub/uqbs-course-profiles
+rsync -av "/Users/uqsmitc6_local/Claude Projects/Course Profile Repository/uqbs-course-profiles/scraper/build_manifest.py" scraper/build_manifest.py
+rsync -av "/Users/uqsmitc6_local/Claude Projects/Course Profile Repository/uqbs-course-profiles/docs/assets/app.js" docs/assets/app.js
+rsync -av "/Users/uqsmitc6_local/Claude Projects/Course Profile Repository/uqbs-course-profiles/docs/assets/styles.css" docs/assets/styles.css
+rsync -av "/Users/uqsmitc6_local/Claude Projects/Course Profile Repository/uqbs-course-profiles/docs/serve_local.sh" docs/serve_local.sh
+rsync -av "/Users/uqsmitc6_local/Claude Projects/Course Profile Repository/uqbs-course-profiles/.github/workflows/pages.yml" .github/workflows/pages.yml
+rsync -av "/Users/uqsmitc6_local/Claude Projects/Course Profile Repository/uqbs-course-profiles/.gitignore" .gitignore
+rsync -av "/Users/uqsmitc6_local/Claude Projects/Course Profile Repository/uqbs-course-profiles/PROJECT_LOG.md" PROJECT_LOG.md
+python3 scraper/build_manifest.py
+git add scraper/build_manifest.py docs/assets/app.js docs/assets/styles.css docs/serve_local.sh .github/workflows/pages.yml .gitignore PROJECT_LOG.md docs/assets/manifest.json docs/assets/manifest-all.json docs/assets/manifest-legacy.json
+git commit -m "Legacy viewer integration: per-course timeline + offering diff (items 43, 45)"
+git push
+```
+
+---
+
+### Session 15 — 2026-06-06 — Legacy ECP parser: 15 years of profiles parsed (item #34 closed)
+
+**Focus:** Build the legacy ECP parser against the completed offline cache (`data/legacy_html/`, 5,288 UQBS profiles 2009–S1 2024, 6 section files each) and batch-run it. Sean's standing orders: offline only, iterate carefully, verify against known courses before batch-running, accuracy over speed, nothing pushed without say-so.
+
+**Decisions (Sean, via session questions):**
+- Output layout: `profiles-legacy/{year}-{period_key}/` (period keys S1/S2/SS), NOT invented pre-7450 semester codes. Keeps the legacy era cleanly separate; viewer/manifest integration deferred (#43).
+- Field scope: full parity with the 25-field schema where the legacy layout carries the data, plus additive legacy-only fields.
+
+**Survey findings (whole-cache census before any code):**
+- The legacy template is a **single uniform layout across all 5,288 profiles** and all 15 years. Section headings 1.1–6.2 are numbered and stable; the only variants: 2.3 Graduate Attributes absent in the 198 2024-era profiles ("Aims and Learning Objectives" era), 3.4's school name varies (Business/Economics/Law), 5.3/5.4 occasionally absent.
+- All 5,288 assessment summary tables have the four-column layout incl. a dedicated **Learning Objectives** column; detail blocks carry **Learning Objectives Assessed** — confirming the Session 12 single-course finding at full scale.
+- 1.1 Course Details is `<p><strong>Label:</strong> value</p>` rows; core labels 100% present.
+
+**Built: `scraper/parse_legacy.py`** (offline, resumable via `--resume`, chunkable via `--time-budget`). Schema mapping notes:
+- `class_code`/`semester_code` are null (legacy archive has no SI-NET class number); `legacy_id` carries the archive id; `full_course_code` = `{COURSE}-{legacy_id}-{year}{PK}`; `system: "legacy"`.
+- `assessment_summary` rows carry a **native `learning_outcomes` list** (faithful refs, e.g. ["1","2"]) + `anchor_id` cross-linked to detail ids (`detail_matched`).
+- `assessment_details.learning_outcomes_assessed` is the faithful page string ("1, 2, 4"), matching current-era convention; `category` = the page's "Type:" (verified identical to the summary `<em>` 254/254).
+- `learning_outcomes[].number` is the faithful bare number ("1").
+- Additive legacy-only fields: `graduate_attributes` (the 2.3 **GA-to-LO matrix** — feeds Phase 3A), `course_grading`, `late_submission`, `other_assessment_information`, `course_introduction`, `other_learning_activities_information`, `contact_hours_per_week`; `learning_activities` carry native LO refs (75,894 of 103,706 activities).
+- Enrichment join on `legacy_id` from `data/offerings-index.json` gives `study_period` with date brackets.
+
+**Verification (before batch):** independent regex-based extraction (separate code path) cross-checked against the parser on 205 profiles incl. known courses (ACCT1101 2009 + 2024, MGTS1601 2009, FINM1416 Summer-2020 + 2024) — 663 summary rows + 667 detail blocks, 0 mismatches; summary-vs-detail LO agreement 473/473; eyeball checks vs raw HTML on both era endpoints.
+
+**Two parser bugs found by the batch QA sweep (both fixed, affected profiles re-parsed):**
+1. **Multiple summary tables (70 profiles):** 5.1 can contain several summary tables (per assessment group / delivery stream); parser read only the first. NB the independent checker shared the same assumption — a correlated blind spot the count audit caught. Lesson: count-consistency audits catch what correlated extractors miss. Also: source pages can repeat identical tables verbatim (deduped) or carry genuinely distinct per-stream rows (kept — IBUS7302-28119 has 3 sit dates for one exam).
+2. **Activities layout variant B (2,915 profiles):** 4.1 has two layouts — grid (Date + per-type columns) and list (Date | Activity | Learning Objectives, with native LO refs and the type in parentheses). Variant B tables use a **malformed `<body>` tag instead of `<tbody>`**, so row discovery must not rely on tbody structure.
+
+**Batch result:** 5,288/5,288 parsed, 0 errors → `profiles-legacy/` (46 semester dirs, 2009-S1…2024-S1, 262 MB). Coverage: 100% on title/period/level/location/mode/units/coordinating unit/timetable/LOs/assessment summary+details/resources/activities/policies/grading; 99.9% description; 97.5% requirements; 96.3% graduate_attributes (the 2024 era dropped the section); 88% course_staff (source-genuine). LO mapping: **16,975/16,997 summary rows carry LO refs (99.87%)**; the 22 blanks verified source-blank; 0 unmatched anchors.
+
+**Drupal-bug receipts:** across all 5,288 legacy profiles (2009–S1 2024), 99.87% of assessment rows carry LO mappings vs ~65–68% OK in the current system (Session 12 audit) — the cutover regression is now bracketed with full-scale evidence on both sides.
+
+**Landmines / watch out for:**
+- `profiles-legacy/` and the parser are **local-only, not pushed** — and at 262 MB the push strategy needs Sean's decision (#43).
+- `scraper/_reparse_chunk.py` is a session helper (chunked overwrite re-parses); safe to delete.
+- Sandbox quirks this session: background processes are killed between tool calls (hence `--time-budget` + `--resume` chunking), and file **deletes** in the mounted folder are blocked — overwrite instead.
+
+---
 
 ### Session 14 — 2026-06-05 — Broken-era UQBS backlog plugged; class-scoped overrides; stale-matrix audit
 
@@ -793,17 +877,23 @@ uqbs-course-profiles/
 │   ├── jac_extract.js            ← Browser-console recipe: pull assessment/activity↔LO matrices from Jac API
 │   ├── discover_offerings.py     ← Harvests programs-courses offering links (both eras, to ~2009) → data/offerings-index.json (run from Sean's Mac only)
 │   ├── fetch_legacy.py           ← Overnight fetcher: caches raw legacy-ECP HTML per profile (resumable; cache git-ignored)
+│   ├── parse_legacy.py           ← Legacy ECP parser: data/legacy_html/ → profiles-legacy/ JSONs (offline; --resume, --time-budget)
+│   ├── _reparse_chunk.py         ← Session helper: chunked overwrite re-parses from a stems list (deletable)
 │   └── requirements.txt          ← Python dependencies
 ├── data/
-│   └── offerings-index.json      ← Harvest output: every offering of every current UQ course, 2009→now
+│   ├── offerings-index.json      ← Harvest output: every offering of every current UQ course, 2009→now
+│   └── legacy_html/              ← Raw legacy-ECP HTML cache, 5,288 profiles × 6 sections (git-ignored)
+├── profiles-legacy/              ← Parsed legacy profiles (2009–S1 2024), {year}-{S1|S2|SS}/{COURSE}-{legacy_id}.json — local-only (#43)
 ├── docs/                         ← GitHub Pages static viewer
 │   ├── index.html                ← Course browser (search, filter, sort, bulk downloads)
 │   ├── course.html               ← Per-course detail (JSON / MD / printable HTML downloads)
 │   ├── program.html              ← Program index + per-program core/majors
 │   ├── assets/
-│   │   ├── app.js                ← Fetch + render + theme + colour-mode + downloads
-│   │   ├── styles.css            ← Classic/Fun themes, auto + manual dark mode, print stylesheet
-│   │   └── manifest.json         ← Generated — lean index of all profiles
+│   │   ├── app.js                ← Fetch + render + theme + colour-mode + downloads + per-course timeline
+│   │   ├── styles.css            ← Classic/Fun themes, auto + manual dark mode, print stylesheet, timeline
+│   │   ├── manifest.json         ← Generated — lean index of UQBS profiles (live viewer)
+│   │   ├── manifest-all.json     ← Generated — all-of-UQ index (ATLAS)
+│   │   └── manifest-legacy.json  ← Generated — legacy index 2009–S1 2024, keyed by {year}-{period}
 │   └── serve_local.sh            ← Local dev: regenerate manifest + symlinks + :8000
 ├── profiles/                     ← Scraped JSON output (per semester)
 │   └── {semester_code}/
@@ -836,6 +926,18 @@ uqbs-course-profiles/
 
 ## Changelog
 
+- **2026-06-06** — MILESTONE — **Legacy data integrated into the viewer (#43 closed): the per-course timeline.** Separate `manifest-legacy.json` (5,288 profiles, kept apart from UQBS/all manifests — live viewer unaffected, still 873); Pages + serve_local plumbing; `initCourseDetail` merges current+legacy offerings; `buildCourseTimeline` renders a chronological strip (cross-era sort, summer-before-S1, current marked, legacy era tags, title-change events); legacy provenance badge on the header. Verified in a Node sandbox against real app.js + manifests (ACCT1101, 42 legacy + 4 current → 47-offering timeline 2009→2026) and a local-serve smoke test (200s, parses). Local-only — push is #46.
+- **2026-06-06** — FEATURE — **Timeline diff view (#45 closed).** Compare control under the timeline diffs any two offerings: `computeOfferingDiff` (older→newer, title-matched assessment add/drop/change incl. weight + LO-set shifts, LO-count + title deltas) → `renderOfferingDiff`. Fetches the picked offering via `loadCourseJson`. Node-verified on real ACCT1101 across 2009/2024/2026 (full turnover 2009→2024; matched-item weight+LO change 2024→2026; orientation-robust; self-vs-self identical). Local-only — push is #46.
+- **2026-06-06** — DECISION (Sean) — Timeline keyed on course code but **surfaces title changes as visible events** (a repurposed/renamed code is signal for the LD team, not noise). Drives `buildCourseTimeline`'s title-change comparison against the next-older offering.
+- **2026-06-06** — MILESTONE — **Sessions 12–15 backlog PUSHED (#39 closed).** Two commits, range 02b1f575..31b58be9: (1) code/taxonomy/data — six faculty structures, teaching-periods registry, offerings index, deleted-offerings subset, discover_offerings.py, fetch_legacy.py, parse_legacy.py, program codes, project log; (2) `profiles-legacy/` — all 5,288 parsed legacy profiles (31b58be9). Pack compressed to 40.7 MiB (better than the ~70 MB estimate). Raw HTML cache stayed git-ignored as intended. Remaining for the legacy arc: viewer/manifest integration (#43).
+- **2026-06-06** — DECISION+RESOLUTION — **profiles-legacy minified for push (Sean's call: minify, lose nothing).** All 5,288 JSONs re-written compact with per-file round-trip verification (parsed-object equality) + 5-file fresh-reparse spot-check, all exact. Disk 262→252 MB (indent=1 was already lean — content is the weight, not whitespace); git pack will compress to roughly 70 MB (measured ~3.5:1 gzip on sample dirs). Downstream visualiser test in a Node sandbox against the real `docs/assets/app.js`: minified legacy profiles parse and run clean through `loDisplayCode` (bare "1"→LO1), `buildAssessmentLoMap` (legacy LO strings → correct chips), `semesterLabel` (falls back to study_period, "S1 2009"), `getLoOverrideMap` (null semester/class codes — no crash, no spurious overrides), and `completeCourseJson`. `parse_legacy.py` now writes compact by default. `scraper/_minify_chunk.py` is a deletable session helper.
+- **2026-06-06** — MILESTONE — **Legacy ECP parser shipped & batch-run (#34 closed).** `scraper/parse_legacy.py` parses the 6-section legacy cache into `profiles-legacy/{year}-{period}/` JSONs (full schema parity + additive legacy fields incl. GA-to-LO matrices). 5,288/5,288 parsed, 0 errors; 470-profile independent cross-check 0 mismatches; LO-to-assessment mappings native and verified (16,975 rows; 22 source-blank). Local-only — push strategy is #43.
+- **2026-06-06** — DECISION (Sean) — Legacy output keyed by `{year}-{period}` (S1/S2/SS) in a separate `profiles-legacy/` tree — no invented pre-7450 semester codes; viewer/manifest integration deferred (#43). Full field parity in one pass rather than core-fields-first.
+- **2026-06-06** — RESOLUTION — Two legacy-parser bugs caught by the post-batch QA sweep and fixed, with re-parses: (1) multiple 5.1 summary tables per page (70 profiles; per-stream/dual-table pattern; exact duplicates deduped, distinct per-stream rows kept); (2) 4.1 activities "list" layout variant with a malformed `<body>`-for-`<tbody>` tag (2,915 profiles; variant carries native activity-to-LO refs). Lesson: the independent verifier shared assumption (1) — correlated extractors can agree and both be wrong; structural-consistency audits (summary-vs-detail counts) are the catch.
+- **2026-06-06** — FINDING — **Drupal-bug date-bracket receipts at full scale:** legacy era (2009–S1 2024, 5,288 profiles) renders LO-to-assessment mappings on 99.87% of assessment rows (the rest are source-blank); current system runs ~65–68% OK (Session 12). The regression shipped with the S2 2024 cutover — now evidenced on both sides of the boundary.
+- **2026-06-06** — FINDING — Legacy bonus data layers now on disk: GA-to-LO matrices (96.3% of profiles — feeds Phase 3A), per-activity LO mappings (75,894 activities), course grading cutoffs, contact hours. All faithful to the published pages.
+- **2026-06-05** — MILESTONE — **Overnight legacy fetch COMPLETE; cache in both folders. 5,288 profiles, 0 failures.** All UQBS legacy profiles back to 2009 cached as raw HTML in `data/legacy_html/` — including a 54-profile bonus: the cleanup pass ran after the index merge, so deleted-course legacy offerings (in-taxonomy ones) were fetched too. Cleanup verified everything on disk and healed the 2 overnight network-blip failures. Counter quirk noted: in sections mode `skipped` stays 0 by design (per-section skips are silent; verified-complete profiles count as saved). Cache is git-ignored. **Next session's headline: the legacy parser (#34)** — parse the cache into profile JSONs, including correct pre-cutover LO mappings, and date-bracket the bug with receipts.
+- **2026-06-05** — FINDING+ISSUE+RESOLUTION — **Deleted-courses residue check done; index-clobber incident recovered.** Findings: of the 59 since-deleted UQBS courses, **48 still have live programs-courses pages with archives — 596 offerings, 2009–2024, all legacy-system** (so their history is scrapeable AND their LO mappings render correctly); only **11 are page-gone** (ADVT3510, BISM2201/2204/2205/3204/3209/3210/4201/4204, IBUS7330/7331) — for those we hold Jac class numbers, so direct archive-URL construction is the remaining play; true unrecoverable residue may be zero. Subset saved as `data/deleted-offerings-index.json`. INCIDENT: the `--codes-file` run **overwrote** the full offerings index (script only merged under `--resume`); recovered cleanly because the full index had just been committed (02b1f575) — `git checkout` + merge → 3,349 courses, verified. FIX: `discover_offerings.py` now ALWAYS merges into an existing index; targeted runs can no longer clobber. Lesson for terminal blocks: zsh chokes on `#` comments in interactive paste — keep Sean's blocks comment-free.
 - **2026-06-05** — CHANGE — **Teaching-period registry wired into the viewer (#41) + 9 program codes added to the taxonomy (#13).** `semesterLabel()` now resolves semester codes from `taxonomy/teaching-periods.json` (loaded at all 5 page inits, graceful fallback to the old hardcoded map) — fixes 7480's label ('Sum 2025'→'Sum 24/25') and adds the 7490/7590 medical-period labels. 7/7 sandbox tests. `uqbs-programs.json`: program_code added for the 9 programs that lacked one (source: Jac program-rules), with `program_code_source` provenance field; reverse map intact (323 entries). Local-only — rides the #39 push.
 - **2026-06-05** — MILESTONE — **Deleted-courses Jac org-pull done (#40, UQBS).** Pulled all 3,450 Business School class instances (org 29) via `get-resources {organisationId:29}` paged — read-only, one pass, ~25s. Item fields: course code = `owningCourseCrseCode`, total = `totalNumber`. Diffed 355 distinct Jac course codes against the offerings harvest: 289 still listed on programs-courses; **59 discontinued** (mostly a 2021–22 restructure cluster: ADVT, REDE, EVNT, TOUR families; BLSI pair ran to 2024), **5 newborn** S2-2026 codes not yet published (ADVT7513, IBUS7314, MGTS7527, TIMS7334, MGTS7822 — not deleted!), 2 indeterminate (IBUS7327, TIMS7333 — no fromYYYYSS). Deliverables: `taxonomy/sources/uqbs-deleted-courses-jac.json` (classified) + `logs/deleted-codes.txt` (the 59, for `discover_offerings.py --codes-file`). Remaining: Sean runs the codes-file harvest on his Mac to see which still have live archive pages. Export recipe upgrade: **per-chunk checksums now standard** (page logs SUMS line; workspace verifies before decompress).
 - **2026-06-05** — FINDING — **Program-rules time series (#38) probed: version records exist as hoped, but the pre-~2024 rule schema doesn't embed course codes.** GCBus (5248) confirms the version model: Published windows 202101–202307, 202401–202507, 202601–open (plus a duplicate concurrent record for the first window — dedupe by (from,to), keep latest id). BUT the 2021-era record's components contain ZERO course codes: rule tree sections are present (`topRule.subRules`, type `SelectionList`) yet hold only UUIDs — the selection-list contents live behind a separate endpoint the UI resolves at render time. The 2026-era records embed `selectionListItems` inline (which is why the Session-12 extraction worked). **Recipe for next session:** open a historical program-rules record in the Jac UI, capture the network call that populates a SelectionList (likely keyed by uuid or ruleLogicGuid), then batch as usual. Side win: BEL file supplies the program codes the taxonomy lacked (BBusMan=2171, BCom=2336, BTHEM=2473, MCom=5584, MBus=5583, MBA=5770, MEI=5690, MBusAn=5188, MTHEM=5585) — feeds item #13.

@@ -10,6 +10,8 @@
 // ---- shared ---------------------------------------------------------------
 const STORE = {
   manifest: null,
+  manifestAll: null,
+  manifestLegacy: null,
   taxonomy: null,
   aol: null,
   loOverrides: null,
@@ -19,6 +21,7 @@ const STORE = {
 const DATA_PATHS = {
   manifest: "./assets/manifest.json",
   manifestAll: "./assets/manifest-all.json",
+  manifestLegacy: "./assets/manifest-legacy.json",
   taxonomy: "./taxonomy/uqbs-programs.json",
   aol: "./taxonomy/aol-status.json",
   loOverrides: "./taxonomy/lo-overrides.json",
@@ -39,6 +42,31 @@ async function loadManifestAll() {
   if (!res.ok) throw new Error(`Could not load full manifest: ${res.status}`);
   STORE.manifestAll = await res.json();
   return STORE.manifestAll;
+}
+
+// Legacy profile manifest (2009–S1 2024), kept separate from the live UQBS
+// manifest. Loaded opt-in for the per-course timeline. Graceful fallback when
+// absent (the timeline simply shows current-system offerings only).
+async function loadManifestLegacy() {
+  if (STORE.manifestLegacy) return STORE.manifestLegacy;
+  try {
+    const res = await fetch(DATA_PATHS.manifestLegacy, { cache: "no-cache" });
+    if (!res.ok) { STORE.manifestLegacy = { periods: {} }; return STORE.manifestLegacy; }
+    STORE.manifestLegacy = await res.json();
+  } catch (_e) {
+    STORE.manifestLegacy = { periods: {} };
+  }
+  return STORE.manifestLegacy;
+}
+
+// Flatten a legacy manifest's period buckets into a single offering list.
+function getLegacyCourses(manifestLegacy) {
+  const out = [];
+  const periods = (manifestLegacy && manifestLegacy.periods) || {};
+  for (const key of Object.keys(periods)) {
+    for (const entry of periods[key]) out.push(entry);
+  }
+  return out;
 }
 
 async function loadTaxonomy() {
@@ -156,6 +184,30 @@ function semesterLabel(course) {
     "7660": "S2 2026", "7700": "S1 2027", "7740": "S2 2027",
   };
   return codeMap[code] || code;
+}
+
+// Chronological sort key for an offering, spanning both eras. Returns a
+// comparable string like "2009.1" (year.period-ordinal). Works for current
+// profiles (study_period carries the year) and legacy profiles alike, so a
+// course's offerings line up oldest→newest regardless of which system they
+// came from. Summer is ordered before its Semester 1 (it runs Nov–Feb).
+function offeringChronKey(course) {
+  const sp = course.study_period || "";
+  let year = course.year;
+  let periodOrd = 5; // unknown sorts last within a year
+  let m = sp.match(/Semester\s+(\d),?\s+(\d{4})/i);
+  if (m) { year = year || +m[2]; periodOrd = +m[1] === 1 ? 2 : 3; }
+  else {
+    m = sp.match(/Summer\s+Semester,?\s+(\d{4})/i);
+    if (m) { year = year || +m[1]; periodOrd = 1; }
+  }
+  // Legacy entries carry explicit year/period fields as a fallback
+  if (course.period) {
+    if (/Semester 1/i.test(course.period)) periodOrd = 2;
+    else if (/Semester 2/i.test(course.period)) periodOrd = 3;
+    else if (/Summer/i.test(course.period)) periodOrd = 1;
+  }
+  return `${year || 0}.${periodOrd}`;
 }
 
 // Extract the 4-letter faculty prefix from a course code (e.g. "MGTS1601" → "MGTS").
@@ -1012,18 +1064,30 @@ async function initCourseDetail() {
     return;
   }
   try {
-    const [course, manifest, taxonomy, aol] = await Promise.all([
-      loadCourseJson(filePath), loadManifest(), loadTaxonomy().catch(() => null), loadAol().catch(() => null), loadLoOverrides().catch(() => null), loadTeachingPeriods().catch(() => null)
+    const [course, manifest, manifestLegacy, taxonomy, aol] = await Promise.all([
+      loadCourseJson(filePath), loadManifest(), loadManifestLegacy().catch(() => ({ periods: {} })), loadTaxonomy().catch(() => null), loadAol().catch(() => null), loadLoOverrides().catch(() => null), loadTeachingPeriods().catch(() => null)
     ]);
     STORE.currentCourse = course;
     STORE.currentTaxonomy = taxonomy;
     STORE.aol = aol;
 
-    // Find all offerings of this course across semesters
-    const allCourses = getAllCourses(manifest);
-    const otherOfferings = allCourses
-      .filter(c => c.course_code === course.course_code && c.file !== filePath)
-      .sort((a, b) => (b.semester_code || "").localeCompare(a.semester_code || ""));
+    // Find all offerings of this course across both systems (current + legacy),
+    // ordered newest→oldest. This is the spine of the per-course timeline.
+    const currentOfferings = getAllCourses(manifest);
+    // The all-of-UQ manifest covers non-UQBS courses that the UQBS manifest omits;
+    // fall back to it so the timeline is complete for any course the viewer reached.
+    let pool = currentOfferings.filter(c => c.course_code === course.course_code);
+    if (pool.length === 0) {
+      try {
+        const all = await loadManifestAll();
+        pool = getAllCourses(all).filter(c => c.course_code === course.course_code);
+      } catch (_e) { /* keep UQBS pool */ }
+    }
+    const legacyOfferings = getLegacyCourses(manifestLegacy)
+      .filter(c => c.course_code === course.course_code);
+    const otherOfferings = pool.concat(legacyOfferings)
+      .filter(c => c.file !== filePath)
+      .sort((a, b) => offeringChronKey(b).localeCompare(offeringChronKey(a), undefined, { numeric: true }));
 
     renderCourseDetail($root, course, taxonomy, otherOfferings, filePath);
     document.title = `${course.course_code} — ${course.course_title}`;
@@ -1034,10 +1098,185 @@ async function initCourseDetail() {
     if ($pdf) $pdf.addEventListener("click", () => printCourseToPdf(course, taxonomy));
     if ($md) $md.addEventListener("click", () => downloadCourseMarkdown(course, taxonomy));
     if ($json) $json.addEventListener("click", () => downloadCourseJson(course));
+    // Wire the timeline compare control: fetch the picked offering and diff it.
+    const $cmp = document.getElementById("cmp-pick");
+    const $cmpResult = document.getElementById("cmp-result");
+    if ($cmp && $cmpResult) {
+      $cmp.addEventListener("change", async () => {
+        const file = $cmp.value;
+        if (!file) { $cmpResult.innerHTML = ""; return; }
+        $cmpResult.innerHTML = `<div class="cmp-loading">Loading…</div>`;
+        try {
+          const other = await loadCourseJson(file);
+          $cmpResult.innerHTML = renderOfferingDiff(computeOfferingDiff(course, other));
+        } catch (e) {
+          $cmpResult.innerHTML = `<div class="error">Could not load that offering: ${escapeHtml(e.message)}</div>`;
+        }
+      });
+    }
   } catch (err) {
     $root.innerHTML = `<div class="error">Error loading profile: ${escapeHtml(err.message)}</div>`;
     console.error(err);
   }
+}
+
+// Build the per-course timeline widget. `others` is every OTHER offering of
+// this course (current + legacy), already sorted newest→oldest. The current
+// offering `c` is spliced into chronological position and marked. Legacy
+// offerings get an era badge; a title change between adjacent offerings is
+// flagged as an event (the course code was likely repurposed or renamed).
+function buildCourseTimeline(c, others, currentFile) {
+  others = others || [];
+  if (others.length === 0) return "";
+
+  // Assemble the full ordered list including the current offering.
+  const currentEntry = {
+    file: currentFile || getQueryParam("file"),
+    course_code: c.course_code,
+    course_title: c.course_title,
+    study_period: c.study_period,
+    year: c.year,
+    period: c.period,
+    system: c.system || (c.semester_code ? "current" : "legacy"),
+    _current: true,
+  };
+  const all = others.concat([currentEntry])
+    .sort((a, b) => offeringChronKey(b).localeCompare(offeringChronKey(a), undefined, { numeric: true }));
+
+  const span = `${semesterLabel(all[all.length - 1])} → ${semesterLabel(all[0])}`;
+  const nodes = all.map((o, i) => {
+    const label = semesterLabel(o);
+    const isLegacy = o.system === "legacy";
+    const cls = ["tl-node"];
+    if (o._current) cls.push("tl-current");
+    if (isLegacy) cls.push("tl-legacy");
+    // Title-change event: compare to the next-older offering in the list.
+    const older = all[i + 1];
+    let titleNote = "";
+    if (older && normTitle(older.course_title) !== normTitle(o.course_title)) {
+      titleNote = `<span class="tl-event" title="Title changed from “${escapeHtml(older.course_title || "")}”">title changed</span>`;
+    }
+    const eraTag = isLegacy ? `<span class="tl-era" title="Legacy profile (2009–S1 2024)">legacy</span>` : "";
+    const inner = `${escapeHtml(label)}${eraTag}`;
+    const body = o._current
+      ? `<span class="tl-node-label" title="Currently viewing — ${escapeHtml(o.course_title || "")}">${inner}</span>`
+      : `<a class="tl-node-label" href="course.html?file=${encodeURIComponent(o.file)}" title="${escapeHtml(o.course_title || "")}">${inner}</a>`;
+    return `<li class="${cls.join(" ")}">${body}${titleNote}</li>`;
+  }).join("");
+
+  // Compare control: pick any other offering to diff against the one on screen.
+  const cmpOptions = all.filter(o => !o._current).map(o =>
+    `<option value="${escapeHtml(o.file)}">${escapeHtml(semesterLabel(o))}${o.system === "legacy" ? " (legacy)" : ""}</option>`
+  ).join("");
+  const cmpHtml = `
+    <div class="tl-compare">
+      <label for="cmp-pick">Compare this offering with</label>
+      <select id="cmp-pick">
+        <option value="">— choose an offering —</option>
+        ${cmpOptions}
+      </select>
+    </div>
+    <div id="cmp-result" class="cmp-result" aria-live="polite"></div>
+  `;
+
+  return `
+    <div class="course-timeline" aria-label="Offerings of this course over time">
+      <div class="tl-head">
+        <span class="tl-title">Timeline</span>
+        <span class="tl-span">${escapeHtml(span)} · ${all.length} offering${all.length === 1 ? "" : "s"}</span>
+      </div>
+      <ol class="tl-track">${nodes}</ol>
+      ${cmpHtml}
+    </div>
+  `;
+}
+
+// Compute a structured diff between two full course profiles of the same course.
+// Always oriented older→newer (by chronological key) so "added"/"dropped" read
+// naturally as change over time. Assessment items are matched by normalised
+// title; weight and LO-set changes on matched items are reported.
+function computeOfferingDiff(profA, profB) {
+  // Orient: older first, newer second.
+  let older = profA, newer = profB;
+  if (offeringChronKey(profA).localeCompare(offeringChronKey(profB), undefined, { numeric: true }) > 0) {
+    older = profB; newer = profA;
+  }
+  const norm = s => normTitle(s || "");
+  const loSet = row => {
+    const refs = Array.isArray(row.learning_outcomes) ? row.learning_outcomes
+      : parseLoRefs(row.learning_outcomes_assessed || row.learning_outcomes || "");
+    return refs.map(x => String(x).replace(/^lo/i, "").replace(/\.$/, "")).filter(Boolean)
+      .map(Number).filter(n => !isNaN(n)).sort((a, b) => a - b);
+  };
+  const normWeight = w => String(w == null ? "" : w).replace(/\s+/g, " ").trim();
+
+  const aRows = older.assessment_summary || [];
+  const bRows = newer.assessment_summary || [];
+  const aByTitle = new Map(aRows.map(r => [norm(r.title), r]));
+  const bByTitle = new Map(bRows.map(r => [norm(r.title), r]));
+
+  const added = [], dropped = [], changed = [];
+  for (const r of bRows) {
+    if (!aByTitle.has(norm(r.title))) added.push({ title: r.title, weight: r.weight });
+  }
+  for (const r of aRows) {
+    if (!bByTitle.has(norm(r.title))) dropped.push({ title: r.title, weight: r.weight });
+  }
+  for (const r of bRows) {
+    const a = aByTitle.get(norm(r.title));
+    if (!a) continue;
+    const wOld = normWeight(a.weight), wNew = normWeight(r.weight);
+    const loOld = loSet(a), loNew = loSet(r);
+    const weightChanged = wOld !== wNew;
+    const loChanged = JSON.stringify(loOld) !== JSON.stringify(loNew);
+    if (weightChanged || loChanged) {
+      changed.push({
+        title: r.title,
+        weight: weightChanged ? { from: a.weight, to: r.weight } : null,
+        los: loChanged ? { from: loOld, to: loNew } : null,
+      });
+    }
+  }
+
+  const loCountOld = (older.learning_outcomes || []).length;
+  const loCountNew = (newer.learning_outcomes || []).length;
+  const titleChanged = norm(older.course_title) !== norm(newer.course_title);
+
+  return {
+    older, newer, added, dropped, changed,
+    loCount: loCountOld !== loCountNew ? { from: loCountOld, to: loCountNew } : null,
+    title: titleChanged ? { from: older.course_title, to: newer.course_title } : null,
+    identical: !added.length && !dropped.length && !changed.length && loCountOld === loCountNew && !titleChanged,
+  };
+}
+
+// Render an offering diff (from computeOfferingDiff) to HTML.
+function renderOfferingDiff(diff) {
+  const oLab = semesterLabel(diff.older), nLab = semesterLabel(diff.newer);
+  const head = `<div class="cmp-head"><strong>${escapeHtml(oLab)}</strong> → <strong>${escapeHtml(nLab)}</strong></div>`;
+  if (diff.identical) {
+    return `<div class="cmp-panel">${head}<div class="cmp-none">No changes to title, learning outcomes count, or assessment items between these two offerings.</div></div>`;
+  }
+  const blocks = [];
+  if (diff.title) {
+    blocks.push(`<div class="cmp-row cmp-meta"><span class="cmp-tag">title</span> “${escapeHtml(diff.title.from || "")}” → “${escapeHtml(diff.title.to || "")}”</div>`);
+  }
+  if (diff.loCount) {
+    blocks.push(`<div class="cmp-row cmp-meta"><span class="cmp-tag">LOs</span> ${diff.loCount.from} → ${diff.loCount.to} learning outcomes</div>`);
+  }
+  for (const a of diff.added) {
+    blocks.push(`<div class="cmp-row cmp-add"><span class="cmp-tag">added</span> ${escapeHtml(a.title || "")}${a.weight ? ` <span class="cmp-w">(${escapeHtml(a.weight)})</span>` : ""}</div>`);
+  }
+  for (const d of diff.dropped) {
+    blocks.push(`<div class="cmp-row cmp-drop"><span class="cmp-tag">dropped</span> ${escapeHtml(d.title || "")}${d.weight ? ` <span class="cmp-w">(${escapeHtml(d.weight)})</span>` : ""}</div>`);
+  }
+  for (const ch of diff.changed) {
+    const bits = [];
+    if (ch.weight) bits.push(`weight ${escapeHtml(String(ch.weight.from || "—"))} → ${escapeHtml(String(ch.weight.to || "—"))}`);
+    if (ch.los) bits.push(`LOs ${ch.los.from.length ? "LO" + ch.los.from.join(", LO") : "—"} → ${ch.los.to.length ? "LO" + ch.los.to.join(", LO") : "—"}`);
+    blocks.push(`<div class="cmp-row cmp-chg"><span class="cmp-tag">changed</span> ${escapeHtml(ch.title || "")} <span class="cmp-w">${bits.join(" · ")}</span></div>`);
+  }
+  return `<div class="cmp-panel">${head}${blocks.join("")}</div>`;
 }
 
 function renderCourseDetail($root, c, taxonomy, otherOfferings, currentFile) {
@@ -1052,28 +1291,23 @@ function renderCourseDetail($root, c, taxonomy, otherOfferings, currentFile) {
 
   const parts = [];
 
-  // Semester picker (if multiple offerings exist)
-  let semPickerHtml = "";
-  if (otherOfferings.length > 0) {
-    const currentLabel = semesterLabel(c);
-    const links = otherOfferings.map(o => {
-      const label = semesterLabel(o);
-      return `<a href="course.html?file=${encodeURIComponent(o.file)}" class="sem-pick-link">${escapeHtml(label)}</a>`;
-    }).join("");
-    semPickerHtml = `
-      <div class="semester-picker">
-        <span class="sem-pick-current" title="Currently viewing">${escapeHtml(currentLabel)}</span>
-        ${links}
-      </div>
-    `;
-  }
+  // Per-course timeline: every offering across both systems (current + legacy),
+  // ordered newest→oldest, with the current one marked and title-change events
+  // surfaced so a repurposed course code is visible rather than hidden.
+  const semPickerHtml = buildCourseTimeline(c, otherOfferings, currentFile);
 
   // Header card
   const filePath = currentFile || getQueryParam("file");
   const rawJsonLink = filePath ? `<a href="./${escapeHtml(filePath)}" target="_blank" rel="noopener">Raw JSON ↗</a>` : "";
+  // Legacy provenance badge — make clear a pre-cutover profile is being viewed,
+  // so a 2011 ECP is never mistaken for current.
+  const isLegacy = c.system === "legacy" || (c.url || "").includes("archive.course-profiles.uq.edu.au");
+  const legacyBadge = isLegacy
+    ? `<span class="era-badge" title="Archived profile from the legacy course-profiles system (2009–S1 2024). LO-to-assessment mappings are rendered as originally published.">Legacy profile · ${escapeHtml(semesterLabel(c))}</span>`
+    : "";
   parts.push(`
     <div class="course-header">
-      <div><span class="code">${escapeHtml(c.full_course_code || c.course_code)}</span></div>
+      <div><span class="code">${escapeHtml(c.full_course_code || c.course_code)}</span> ${legacyBadge}</div>
       <h1>${escapeHtml(c.course_code || "")} — ${escapeHtml(c.course_title || "")}</h1>
       <div class="meta">
         ${escapeHtml(c.study_level || "")} · ${escapeHtml(c.units || "")} ·
@@ -2035,4 +2269,10 @@ window.UQBS = {
   applyTheme,
   initColorMode,
   applyColorMode,
+  // exposed for tests
+  offeringChronKey,
+  buildCourseTimeline,
+  getLegacyCourses,
+  computeOfferingDiff,
+  renderOfferingDiff,
 };

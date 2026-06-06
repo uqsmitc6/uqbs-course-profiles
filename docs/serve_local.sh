@@ -21,11 +21,12 @@ cd "$REPO_ROOT"
 echo "[serve_local] Rebuilding manifest..."
 python3 scraper/build_manifest.py
 
-echo "[serve_local] Staging profiles/ and taxonomy/ into docs/ via symlinks..."
+echo "[serve_local] Staging profiles/, profiles-legacy/ and taxonomy/ into docs/ via symlinks..."
 mkdir -p docs
 # Use relative symlinks so they also work if docs is accessed via another path
-rm -f docs/profiles docs/taxonomy
+rm -f docs/profiles docs/profiles-legacy docs/taxonomy
 ln -s ../profiles docs/profiles
+ln -s ../profiles-legacy docs/profiles-legacy
 ln -s ../taxonomy docs/taxonomy
 
 echo "[serve_local] Starting server at http://localhost:${PORT}/docs/"

@@ -20,4 +20,8 @@ Thumbs.db
 
 # Local dev symlinks (created by docs/serve_local.sh)
 docs/profiles
+docs/profiles-legacy
 docs/taxonomy
+
+# Raw legacy ECP HTML cache (fetch_legacy.py) — do not commit
+data/legacy_html/
