@@ -16,12 +16,34 @@ const STORE = {
   aol: null,
   loOverrides: null,
   teachingPeriods: null,
+  selected: new Set(),   // course.file paths ticked for download
+  filtered: [],          // current filtered+sorted list (set by render)
+  renderFn: null,        // active browser's render function
 };
 
+// ---- edition config -------------------------------------------------------
+// One codebase, two published editions. `window.SITE` is set by assets/site-config.js
+// (the only file the dual-build swaps per edition). Falls back to the UQBS,
+// self-contained defaults so local dev and tests behave as before.
+//   edition : "uqbs" -> UQBS view, AoL/GA layers ON
+//             "all"  -> All-UQ public view, AoL/GA layers OFF
+//   dataBase: ""     -> bulk data (profile JSONs + big manifests) served same-origin
+//             "https://host/base/" -> fetched cross-origin from that base, so a
+//               light edition (e.g. UQBS on teach.business) needn't carry the data.
+const SITE = (typeof window !== "undefined" && window.SITE) || { edition: "uqbs", dataBase: "", repoUrl: "", uqbsUrl: "", allUrl: "", reportEmail: "" };
+const EDITION = SITE.edition === "all" ? "all" : "uqbs";
+const DATA_BASE = (SITE.dataBase || "").replace(/\/+$/, "");
+
+// URL for bulk/shared data. Same-origin when DATA_BASE is empty.
+function dataUrl(rel) {
+  const clean = String(rel).replace(/^\.?\//, "");
+  return DATA_BASE ? `${DATA_BASE}/${clean}` : `./${clean}`;
+}
+
 const DATA_PATHS = {
-  manifest: "./assets/manifest.json",
-  manifestAll: "./assets/manifest-all.json",
-  manifestLegacy: "./assets/manifest-legacy.json",
+  manifest: "./assets/manifest.json",                      // primary index — ships with each edition
+  manifestAll: dataUrl("assets/manifest-all.json"),        // bulk/shared
+  manifestLegacy: dataUrl("assets/manifest-legacy.json"),  // bulk/shared
   taxonomy: "./taxonomy/uqbs-programs.json",
   aol: "./taxonomy/aol-status.json",
   loOverrides: "./taxonomy/lo-overrides.json",
@@ -137,7 +159,7 @@ function aolGaChip(ga) {
 }
 
 async function loadCourseJson(relPath) {
-  const res = await fetch(`./${relPath}`, { cache: "no-cache" });
+  const res = await fetch(dataUrl(relPath), { cache: "no-cache" });
   if (!res.ok) throw new Error(`Could not load ${relPath}: ${res.status}`);
   return res.json();
 }
@@ -803,15 +825,17 @@ async function initBrowser() {
     // Default to most recent semester
     const $semFilter = document.getElementById("filter-semester");
     if ($semFilter && semCodes.length) {
-      $semFilter.value = semCodes[semCodes.length - 1];
+      // Default to S1 2026 (7620) when present, else the most recent semester.
+      $semFilter.value = semCodes.includes("7620") ? "7620" : semCodes[semCodes.length - 1];
     }
 
     // Initial render
     STORE.sort = { key: "course_code", dir: "asc" };
+    STORE.renderFn = render;
     bindControls();
     render();
   } catch (err) {
-    $body.innerHTML = `<tr><td colspan="7" class="error">Error loading data: ${escapeHtml(err.message)}</td></tr>`;
+    $body.innerHTML = `<tr><td colspan="11" class="error">Error loading data: ${escapeHtml(err.message)}</td></tr>`;
     console.error(err);
   }
 }
@@ -851,6 +875,7 @@ function bindControls() {
   if ($zipMd) $zipMd.addEventListener("click", () => exportFilteredAsZip("md"));
   const $zipJson = document.getElementById("export-zip-json");
   if ($zipJson) $zipJson.addEventListener("click", () => exportFilteredAsZip("json"));
+  setupSelection();
 }
 
 async function exportFilteredAsZip(format) {
@@ -858,9 +883,9 @@ async function exportFilteredAsZip(format) {
     alert("ZIP library (JSZip) didn't load. Please check your network and try again.");
     return;
   }
-  const courses = applySort(applyFilters(STORE.allCourses || []));
+  const courses = coursesForExport(STORE.filtered || []);
   if (!courses.length) {
-    alert("No courses match the current filters.");
+    alert("No courses to export. Tick some rows, or adjust the filters.");
     return;
   }
   // Safety cap — warn the user for large selections
@@ -926,7 +951,7 @@ async function exportFilteredAsZip(format) {
 }
 
 function exportFilteredAsCsv() {
-  const courses = applySort(applyFilters(STORE.allCourses || []));
+  const courses = coursesForExport(STORE.filtered || []);
   const taxonomy = STORE.taxonomy;
   const columns = [
     "course_code", "course_title", "full_course_code", "study_level",
@@ -957,6 +982,84 @@ function exportFilteredAsCsv() {
   a.href = url; a.download = filename;
   document.body.appendChild(a); a.click(); a.remove();
   URL.revokeObjectURL(url);
+}
+
+// ---- bulk selection (download multiple) -----------------------------------
+// Courses to export: the ticked selection if any, else the current filtered set.
+function coursesForExport(filtered) {
+  const sel = STORE.selected;
+  if (sel && sel.size) {
+    return applySort((STORE.allCourses || []).filter(c => sel.has(c.file)));
+  }
+  return filtered || [];
+}
+
+// Wire row checkboxes, the select-all box, and a "N selected · Clear" indicator.
+// Shared by both browsers; safe to call once per page.
+function setupSelection() {
+  const actions = document.querySelector(".bulk-actions");
+  if (actions && !document.getElementById("sel-info")) {
+    const info = document.createElement("span");
+    info.id = "sel-info";
+    info.className = "small muted";
+    info.style.marginLeft = "4px";
+    const clear = document.createElement("button");
+    clear.id = "sel-clear";
+    clear.type = "button";
+    clear.className = "btn-link";
+    clear.textContent = "Clear selection";
+    clear.style.display = "none";
+    const anchor = document.getElementById("bulk-status");
+    actions.insertBefore(info, anchor);
+    actions.insertBefore(clear, anchor);
+    clear.addEventListener("click", () => {
+      STORE.selected.clear();
+      if (typeof STORE.renderFn === "function") STORE.renderFn();
+    });
+  }
+  const body = document.getElementById("courses-body");
+  if (body && !body._selBound) {
+    body.addEventListener("change", (e) => {
+      const cb = e.target && e.target.closest ? e.target.closest(".row-sel") : null;
+      if (!cb) return;
+      if (cb.checked) STORE.selected.add(cb.dataset.file);
+      else STORE.selected.delete(cb.dataset.file);
+      refreshSelectionUI();
+    });
+    body._selBound = true;
+  }
+  const all = document.getElementById("select-all");
+  if (all && !all._selBound) {
+    all.addEventListener("change", () => {
+      const filtered = STORE.filtered || [];
+      if (all.checked) filtered.forEach(c => STORE.selected.add(c.file));
+      else filtered.forEach(c => STORE.selected.delete(c.file));
+      if (typeof STORE.renderFn === "function") STORE.renderFn();
+    });
+    all._selBound = true;
+  }
+}
+
+// Checkbox cell for a course row.
+function selCell(c) {
+  const checked = STORE.selected && STORE.selected.has(c.file) ? " checked" : "";
+  return `<td class="sel-col"><input type="checkbox" class="row-sel" data-file="${escapeHtml(c.file)}" aria-label="Select ${escapeHtml(c.course_code || "")}"${checked}></td>`;
+}
+
+// Update the selected-count text, Clear button, and select-all tri-state.
+function refreshSelectionUI() {
+  const n = STORE.selected ? STORE.selected.size : 0;
+  const info = document.getElementById("sel-info");
+  if (info) info.textContent = n ? `${n} selected` : "";
+  const clear = document.getElementById("sel-clear");
+  if (clear) clear.style.display = n ? "" : "none";
+  const all = document.getElementById("select-all");
+  if (all) {
+    const filtered = STORE.filtered || [];
+    const inSel = filtered.reduce((acc, c) => acc + (STORE.selected.has(c.file) ? 1 : 0), 0);
+    all.checked = filtered.length > 0 && inSel === filtered.length;
+    all.indeterminate = inSel > 0 && inSel < filtered.length;
+  }
 }
 
 function applyFilters(courses) {
@@ -1001,11 +1104,13 @@ function render() {
   const $body = document.getElementById("courses-body");
   const $count = document.getElementById("course-count");
   const courses = applySort(applyFilters(STORE.allCourses || []));
+  STORE.filtered = courses;
   $count.textContent = courses.length;
 
   if (courses.length === 0) {
-    $body.innerHTML = `<tr><td colspan="9" class="empty">No courses match the current filters.</td></tr>`;
+    $body.innerHTML = `<tr><td colspan="11" class="empty">No courses match the current filters.</td></tr>`;
     updateSortIndicators();
+    refreshSelectionUI();
     return;
   }
 
@@ -1018,6 +1123,12 @@ function render() {
       return `<span class="${cls}" title="${escapeHtml(r.program_name || r.program)} — ${escapeHtml(r.role || "")}">${escapeHtml(r.program)}</span>`;
     }).join("");
     const more = roles.length > 3 ? `<span class="chip muted">+${roles.length - 3}</span>` : "";
+    // Where the course lives in each program: "Core", or the major/list name.
+    const roleChips = roles.slice(0, 3).map(r => {
+      const isCore = (r.role || "").toLowerCase() === "core";
+      return `<span class="chip ${isCore ? "role-core" : "role-major"}" title="${escapeHtml(r.program_name || r.program)}">${escapeHtml(r.role || "")}</span>`;
+    }).join("");
+    const roleMore = roles.length > 3 ? `<span class="chip muted">+${roles.length - 3}</span>` : "";
     const levelClass = (c.study_level || "").toLowerCase().includes("post") ? "level-pill pg" : "level-pill";
     const fullCode = c.full_course_code || [c.course_code, c.class_code, c.semester_code].filter(Boolean).join("-");
     const pfx = coursePrefix(c.course_code);
@@ -1029,6 +1140,7 @@ function render() {
     const semLabel = semesterLabel(c);
     return `
       <tr>
+        ${selCell(c)}
         <td class="${codeCls}"><a href="course.html?file=${encodeURIComponent(c.file)}">${escapeHtml(c.course_code || "")}</a></td>
         <td>${escapeHtml(c.course_title || "")}</td>
         <td class="nowrap">${escapeHtml(semLabel)}</td>
@@ -1037,11 +1149,13 @@ function render() {
         <td>${escapeHtml(c.attendance_mode || "")}</td>
         <td>${escapeHtml(c.location || "")}</td>
         <td>${progChips}${more}</td>
+        <td>${roleChips}${roleMore}</td>
         <td class="aol-col">${aolCell}</td>
       </tr>`;
   }).join("");
   $body.innerHTML = rows;
   updateSortIndicators();
+  refreshSelectionUI();
 }
 
 function updateSortIndicators() {
@@ -1098,6 +1212,28 @@ async function initCourseDetail() {
     if ($pdf) $pdf.addEventListener("click", () => printCourseToPdf(course, taxonomy));
     if ($md) $md.addEventListener("click", () => downloadCourseMarkdown(course, taxonomy));
     if ($json) $json.addEventListener("click", () => downloadCourseJson(course));
+    // Wire the "Report an error" control — opens a prefilled email with the exact
+    // course/offering location baked in so the fix can be pinpointed.
+    const $report = document.getElementById("report-error");
+    const $panel = document.getElementById("report-panel");
+    const $send = document.getElementById("report-send");
+    const $text = document.getElementById("report-text");
+    if ($report && $panel) {
+      $report.addEventListener("click", (e) => {
+        e.preventDefault();
+        $panel.hidden = !$panel.hidden;
+        if (!$panel.hidden && $text) $text.focus();
+      });
+    }
+    if ($send) {
+      $send.addEventListener("click", () => {
+        const desc = ($text && $text.value || "").trim();
+        const $hint = document.getElementById("report-hint");
+        if (!desc) { if ($hint) $hint.textContent = "Add a quick description first."; return; }
+        if ($hint) $hint.textContent = "Opening your email app…";
+        window.location.href = buildReportMailto(course, filePath, desc);
+      });
+    }
     // Wire the timeline compare control: fetch the picked offering and diff it.
     const $cmp = document.getElementById("cmp-pick");
     const $cmpResult = document.getElementById("cmp-result");
@@ -1279,6 +1415,32 @@ function renderOfferingDiff(diff) {
   return `<div class="cmp-panel">${head}${blocks.join("")}</div>`;
 }
 
+// Build a mailto: link for an error report, with the exact course/offering
+// location baked into the body so a fix can be pinpointed (often an LO-mapping gap).
+function buildReportMailto(c, filePath, description) {
+  const to = SITE.reportEmail || "uqsmitc6@uq.edu.au";
+  const code = c.full_course_code || c.course_code || "";
+  const sem = semesterLabel(c);
+  const subject = `Course profile error: ${c.course_code || ""} (${sem})`;
+  const pageUrl = (typeof location !== "undefined" && location.href) || "";
+  const body = [
+    "Reported from the UQ Course Profiles viewer.",
+    "",
+    "What's wrong:",
+    description || "(describe here)",
+    "",
+    "— Pinpoint (please leave this in) —",
+    `Course: ${c.course_code || ""} — ${c.course_title || ""}`,
+    `Full code: ${code}`,
+    `Semester: ${sem} (${c.semester_code || c.period || ""})`,
+    `Class no.: ${c.class_code || ""}`,
+    `File: ${filePath || ""}`,
+    `Page: ${pageUrl}`,
+    `Edition: ${EDITION}`,
+  ].join("\n");
+  return `mailto:${encodeURIComponent(to)}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+}
+
 function renderCourseDetail($root, c, taxonomy, otherOfferings, currentFile) {
   // Default for backward compat
   otherOfferings = otherOfferings || [];
@@ -1298,7 +1460,7 @@ function renderCourseDetail($root, c, taxonomy, otherOfferings, currentFile) {
 
   // Header card
   const filePath = currentFile || getQueryParam("file");
-  const rawJsonLink = filePath ? `<a href="./${escapeHtml(filePath)}" target="_blank" rel="noopener">Raw JSON ↗</a>` : "";
+  const rawJsonLink = filePath ? `<a href="${escapeHtml(dataUrl(filePath))}" target="_blank" rel="noopener">Raw JSON ↗</a>` : "";
   // Legacy provenance badge — make clear a pre-cutover profile is being viewed,
   // so a 2011 ECP is never mistaken for current.
   const isLegacy = c.system === "legacy" || (c.url || "").includes("archive.course-profiles.uq.edu.au");
@@ -1314,8 +1476,17 @@ function renderCourseDetail($root, c, taxonomy, otherOfferings, currentFile) {
         ${escapeHtml(c.attendance_mode || "")} · ${escapeHtml(c.location || "")}
         ${c.url ? ` · <a href="${escapeHtml(c.url)}" target="_blank" rel="noopener">View on course-profiles.uq.edu.au ↗</a>` : ""}
         ${rawJsonLink ? ` · ${rawJsonLink}` : ""}
+        · <a href="#" id="report-error" title="Report something wrong on this page">Report an error ⚑</a>
       </div>
       <div class="meta small" style="margin-top:4px">Last scraped: ${escapeHtml(fmtDate(c.scraped_at))}</div>
+      <div id="report-panel" class="report-panel" hidden>
+        <p class="small">Spotted something wrong — a learning-outcome mapping, an assessment detail, anything? Describe it and we'll open an email with the exact location pre-filled.</p>
+        <textarea id="report-text" rows="3" placeholder="e.g. The final exam should map to learning outcomes 2 and 4, not just 2."></textarea>
+        <div class="report-actions">
+          <button id="report-send" class="dl-btn" type="button">Compose email ✉</button>
+          <span id="report-hint" class="small muted"></span>
+        </div>
+      </div>
       ${semPickerHtml}
       ${progChips ? `<div style="margin-top:10px">${progChips}</div>` : ""}
     </div>
@@ -1857,36 +2028,66 @@ function renderProgramDetail($root, progKey, taxonomy, courses) {
 }
 
 // =========================================================================
-// Theme toggle (Classic ⇄ Fun), shared across all pages
+// Display mode — one control cycling Auto → Light → Dark → Fun.
+// "Fun" is the dark-neon theme; Auto/Light/Dark are the classic theme with the
+// matching palette. Shared across all pages and both editions.
 // =========================================================================
-const THEMES = ["classic", "fun"];
-const THEME_LABELS = { classic: "Classic", fun: "Fun" };
-const THEME_ICONS = { classic: "◐", fun: "✦" };
-const THEME_STORAGE_KEY = "uqbs-theme";
+const MODES = ["auto", "light", "dark", "fun"];
+const MODE_LABELS = { auto: "Auto", light: "Light", dark: "Dark", fun: "Fun" };
+const MODE_ICONS = { auto: "☾", light: "☀", dark: "●", fun: "✦" };
+const MODE_STORAGE_KEY = "uqbs-mode";
 
-function getCurrentTheme() {
-  const t = document.documentElement.getAttribute("data-theme");
-  return THEMES.includes(t) ? t : "classic";
+function getMode() {
+  try {
+    const stored = localStorage.getItem(MODE_STORAGE_KEY);
+    if (MODES.includes(stored)) return stored;
+  } catch (_) { /* ignore */ }
+  if (document.documentElement.getAttribute("data-theme") === "fun") return "fun";
+  const cm = document.documentElement.getAttribute("data-color-mode");
+  return MODES.includes(cm) ? cm : "auto";
 }
 
-function applyTheme(theme) {
-  if (!THEMES.includes(theme)) theme = "classic";
-  document.documentElement.setAttribute("data-theme", theme);
-  try { localStorage.setItem(THEME_STORAGE_KEY, theme); } catch (_) { /* ignore */ }
-  updateThemeToggleLabel(theme);
+function applyMode(mode) {
+  if (!MODES.includes(mode)) mode = "auto";
+  const root = document.documentElement;
+  if (mode === "fun") {
+    root.setAttribute("data-theme", "fun");
+    root.removeAttribute("data-color-mode");
+  } else {
+    root.setAttribute("data-theme", "classic");
+    if (mode === "light" || mode === "dark") root.setAttribute("data-color-mode", mode);
+    else root.removeAttribute("data-color-mode");
+  }
+  try { localStorage.setItem(MODE_STORAGE_KEY, mode); } catch (_) { /* ignore */ }
+  updateModeButton(mode);
 }
 
-function updateThemeToggleLabel(theme) {
-  const $btn = document.getElementById("theme-toggle");
+function updateModeButton(mode) {
+  const $btn = document.getElementById("mode-toggle");
   if (!$btn) return;
-  // Button shows the theme you'll switch TO, to make it obvious what happens
-  const next = theme === "classic" ? "fun" : "classic";
-  const $label = $btn.querySelector(".tt-label");
-  const $icon = $btn.querySelector(".tt-icon");
-  if ($label) $label.textContent = THEME_LABELS[next];
-  if ($icon) $icon.textContent = THEME_ICONS[next];
-  $btn.setAttribute("aria-pressed", theme === "fun" ? "true" : "false");
-  $btn.title = `Switch to ${THEME_LABELS[next]} theme`;
+  const $label = $btn.querySelector(".mt-label");
+  const $icon = $btn.querySelector(".mt-icon");
+  if ($label) $label.textContent = MODE_LABELS[mode];
+  if ($icon) $icon.textContent = MODE_ICONS[mode];
+  const next = MODES[(MODES.indexOf(mode) + 1) % MODES.length];
+  $btn.title = `Display: ${MODE_LABELS[mode]} (click for ${MODE_LABELS[next]})`;
+  $btn.setAttribute("aria-label", `Display mode: ${MODE_LABELS[mode]}. Click to switch to ${MODE_LABELS[next]}.`);
+}
+
+function initMode() {
+  updateModeButton(getMode());
+  const $btn = document.getElementById("mode-toggle");
+  if ($btn && !$btn.dataset.modeBound) {
+    $btn.dataset.modeBound = "1";
+    $btn.addEventListener("click", () => {
+      const cur = getMode();
+      applyMode(MODES[(MODES.indexOf(cur) + 1) % MODES.length]);
+    });
+  }
+}
+
+if (typeof document !== "undefined") {
+  initMode();
 }
 
 // =========================================================================
@@ -2031,93 +2232,6 @@ function renderAolDashboard($root, aol, taxonomy, courses) {
   $root.innerHTML = parts.join("");
 }
 
-function initTheme() {
-  // The inline <script> in <head> has already applied the data-theme attribute
-  // for FOUC prevention. Here we just wire the toggle button.
-  const current = getCurrentTheme();
-  updateThemeToggleLabel(current);
-  const $btn = document.getElementById("theme-toggle");
-  if ($btn && !$btn.dataset.themeBound) {
-    $btn.dataset.themeBound = "1";
-    $btn.addEventListener("click", () => {
-      const next = getCurrentTheme() === "classic" ? "fun" : "classic";
-      applyTheme(next);
-    });
-  }
-}
-
-// Call theme init immediately once the script runs (DOM is ready because
-// this script is at end of body), and also again inside each page-init in
-// case the button is added dynamically.
-if (typeof document !== "undefined") {
-  initTheme();
-}
-
-// =========================================================================
-// Colour-mode toggle (Auto ⇄ Light ⇄ Dark), independent of theme
-// =========================================================================
-const COLOR_MODES = ["auto", "light", "dark"];
-const COLOR_MODE_LABELS = { auto: "Auto", light: "Light", dark: "Dark" };
-const COLOR_MODE_ICONS = { auto: "☾", light: "☀", dark: "●" };
-const COLOR_MODE_STORAGE_KEY = "uqbs-color-mode";
-
-function getCurrentColorMode() {
-  // The <head> FOUC script only sets the attribute when mode is light/dark;
-  // "auto" is represented by the attribute being absent. Fall back to
-  // localStorage so the button label stays accurate across pages.
-  const attr = document.documentElement.getAttribute("data-color-mode");
-  if (COLOR_MODES.includes(attr)) return attr;
-  try {
-    const stored = localStorage.getItem(COLOR_MODE_STORAGE_KEY);
-    if (COLOR_MODES.includes(stored)) return stored;
-  } catch (_) { /* ignore */ }
-  return "auto";
-}
-
-function applyColorMode(mode) {
-  if (!COLOR_MODES.includes(mode)) mode = "auto";
-  if (mode === "auto") {
-    document.documentElement.removeAttribute("data-color-mode");
-  } else {
-    document.documentElement.setAttribute("data-color-mode", mode);
-  }
-  try { localStorage.setItem(COLOR_MODE_STORAGE_KEY, mode); } catch (_) { /* ignore */ }
-  updateColorModeToggleLabel(mode);
-}
-
-function updateColorModeToggleLabel(mode) {
-  const $btn = document.getElementById("mode-toggle");
-  if (!$btn) return;
-  const $label = $btn.querySelector(".mt-label");
-  const $icon = $btn.querySelector(".mt-icon");
-  if ($label) $label.textContent = COLOR_MODE_LABELS[mode];
-  if ($icon) $icon.textContent = COLOR_MODE_ICONS[mode];
-  // Show the NEXT mode in the tooltip so users know what a click will do
-  const nextIdx = (COLOR_MODES.indexOf(mode) + 1) % COLOR_MODES.length;
-  const next = COLOR_MODES[nextIdx];
-  $btn.title = `Colour mode: ${COLOR_MODE_LABELS[mode]} (click for ${COLOR_MODE_LABELS[next]})`;
-  $btn.setAttribute("aria-label", `Colour mode: ${COLOR_MODE_LABELS[mode]}. Click to switch to ${COLOR_MODE_LABELS[next]}.`);
-}
-
-function initColorMode() {
-  const current = getCurrentColorMode();
-  // Don't re-apply if already set — avoids a flash on page load
-  updateColorModeToggleLabel(current);
-  const $btn = document.getElementById("mode-toggle");
-  if ($btn && !$btn.dataset.modeBound) {
-    $btn.dataset.modeBound = "1";
-    $btn.addEventListener("click", () => {
-      const cur = getCurrentColorMode();
-      const idx = (COLOR_MODES.indexOf(cur) + 1) % COLOR_MODES.length;
-      applyColorMode(COLOR_MODES[idx]);
-    });
-  }
-}
-
-if (typeof document !== "undefined") {
-  initColorMode();
-}
-
 // =========================================================================
 // Page: ALL-OF-UQ BROWSER (browse-all.html)
 // =========================================================================
@@ -2149,15 +2263,17 @@ async function initAllBrowser() {
     populateSelect("filter-semester", semOpts);
     const $semFilter = document.getElementById("filter-semester");
     if ($semFilter && semCodes.length) {
-      $semFilter.value = semCodes[semCodes.length - 1];
+      // Default to S1 2026 (7620) when present, else the most recent semester.
+      $semFilter.value = semCodes.includes("7620") ? "7620" : semCodes[semCodes.length - 1];
     }
 
     // Initial render
     STORE.sort = { key: "course_code", dir: "asc" };
+    STORE.renderFn = renderAllBrowser;
     bindAllBrowserControls();
     renderAllBrowser();
   } catch (err) {
-    $body.innerHTML = `<tr><td colspan="8" class="error">Error loading data: ${escapeHtml(err.message)}</td></tr>`;
+    $body.innerHTML = `<tr><td colspan="9" class="error">Error loading data: ${escapeHtml(err.message)}</td></tr>`;
     console.error(err);
   }
 }
@@ -2185,6 +2301,7 @@ function bindAllBrowserControls() {
   if ($zipMd) $zipMd.addEventListener("click", () => exportFilteredAsZip("md"));
   const $zipJson = document.getElementById("export-zip-json");
   if ($zipJson) $zipJson.addEventListener("click", () => exportFilteredAsZip("json"));
+  setupSelection();
 }
 
 function applyAllFilters(courses) {
@@ -2213,11 +2330,13 @@ function renderAllBrowser() {
   const $body = document.getElementById("courses-body");
   const $count = document.getElementById("course-count");
   const courses = applySort(applyAllFilters(STORE.allCourses || []));
+  STORE.filtered = courses;
   $count.textContent = courses.length;
 
   if (courses.length === 0) {
-    $body.innerHTML = `<tr><td colspan="8" class="empty">No courses match the current filters.</td></tr>`;
+    $body.innerHTML = `<tr><td colspan="9" class="empty">No courses match the current filters.</td></tr>`;
     updateSortIndicators();
+    refreshSelectionUI();
     return;
   }
 
@@ -2229,6 +2348,7 @@ function renderAllBrowser() {
     const school = c.coordinating_unit || "";
     return `
       <tr>
+        ${selCell(c)}
         <td class="${codeCls}"><a href="course.html?file=${encodeURIComponent(c.file)}">${escapeHtml(c.course_code || "")}</a></td>
         <td>${escapeHtml(c.course_title || "")}</td>
         <td class="nowrap">${escapeHtml(semLabel)}</td>
@@ -2241,10 +2361,11 @@ function renderAllBrowser() {
   }).join("");
   $body.innerHTML = rows;
   updateSortIndicators();
+  refreshSelectionUI();
 }
 
 function exportAllFilteredAsCsv() {
-  const courses = applySort(applyAllFilters(STORE.allCourses || []));
+  const courses = coursesForExport(STORE.filtered || []);
   if (!courses.length) return;
   const headers = ["course_code", "course_title", "semester_code", "study_level", "units", "attendance_mode", "location", "coordinating_unit"];
   const csvRows = [headers.join(",")];
@@ -2265,14 +2386,44 @@ window.UQBS = {
   initCourseDetail,
   initProgram,
   initAol,
-  initTheme,
-  applyTheme,
-  initColorMode,
-  applyColorMode,
+  initMode,
+  applyMode,
   // exposed for tests
   offeringChronKey,
   buildCourseTimeline,
   getLegacyCourses,
   computeOfferingDiff,
   renderOfferingDiff,
+  EDITION,
+  renderNav,
+  dataUrl,
 };
+
+// Render the header nav from the edition, so the markup stays identical across
+// pages and the dual-build needs no HTML surgery. The UQBS edition shows the
+// AoL + Programs tabs; the All-UQ edition is a lean course browser.
+function renderNav() {
+  if (typeof document === "undefined") return;
+  const page = (document.body && document.body.dataset.page) || "";
+  if (page === "landing") return; // the splash front door has no section nav
+  const nav = document.querySelector("header.site nav");
+  if (!nav) return;
+  const repoUrl = SITE.repoUrl || "https://github.com/uqsmitc6/uqbs-course-profiles";
+  const home = EDITION === "uqbs" ? ["business.html", "UQBS"] : ["browse-all.html", "All UQ"];
+  const links = [["index.html", "⌂ Editions", "_editions"], [home[0], home[1], "home"]];
+  if (EDITION === "uqbs") {
+    links.push(["program.html", "Programs", "programs"], ["aol.html", "AoL", "aol"]);
+  }
+  const html = links
+    .map(([href, label, key]) => `<a href="${href}"${key === page ? ' class="active"' : ""}>${escapeHtml(label)}</a>`)
+    .join("\n      ")
+    + `\n      <a href="${escapeHtml(repoUrl)}" target="_blank" rel="noopener">Repository ↗</a>`;
+  nav.insertAdjacentHTML("afterbegin", html + "\n      ");
+}
+
+(function initChrome() {
+  if (typeof document === "undefined") return;
+  const run = () => { try { renderNav(); } catch (_e) { /* non-fatal */ } };
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", run);
+  else run();
+})();

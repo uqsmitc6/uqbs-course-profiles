@@ -1,6 +1,7 @@
 # Project Log — UQBS Course Profile Scraper
 
-> **Last updated:** 2026-06-06 (Session 16) — **Legacy data integrated into the viewer (#43 + #45 CLOSED): per-course timeline (walk a course 2009→2026, title-changes flagged, legacy badged) + an offering diff view (pick any two, see assessment add/drop/change, weight + LO shifts).** Separate `manifest-legacy.json` keeps the live UQBS viewer unaffected. Sessions 12–15 are PUSHED (#39 closed, range 02b1f575..31b58be9); the Session 16 viewer work is local-only, push block ready (#46).
+> **Last updated:** 2026-06-08 (Session 17) — **State audit + two-edition architecture decided.** Verified against the live site + GitHub API: the Session 16 timeline + diff is PUSHED & LIVE (commit 7fa6b52f, 2026-06-06 — #46 closed); the previous header saying it was local-only was stale. Live counts: UQBS 873 / all-UQ 8,020 / legacy 5,288. NOTE: `taxonomy/aol-status.json` was never committed — it is local-only sample/placeholder data, so no real AoL data is or was public. Next: split the viewer into two audience editions (All-UQ public + UQBS) from one codebase (#47–#49).
+> _Prior (Session 16):_ Legacy data integrated into the viewer (#43 + #45 CLOSED): per-course timeline (walk a course 2009→2026, title-changes flagged, legacy badged) + an offering diff view (pick any two, see assessment add/drop/change, weight + LO shifts). Separate `manifest-legacy.json` keeps the live UQBS viewer unaffected. Sessions 12–15 PUSHED (#39 closed, range 02b1f575..31b58be9).
 > **Project:** UQBS Course Profile Viewer and Learning Design Intelligence Platform
 > **Tech stack:** Python 3 / BeautifulSoup / requests / GitHub Actions / GitHub Pages
 > **Repository:** [uqsmitc6/uqbs-course-profiles](https://github.com/uqsmitc6/uqbs-course-profiles)
@@ -48,7 +49,7 @@ As of Session 16 (2026-06-06): **fifteen years of UQBS profile history is struct
 | 5 | TODO | Set up launchd scheduling on Sean's Mac (optional) | 2026-04-13 | Low | GitHub Actions is primary; local is secondary |
 | 6 | NOTE | GA mapping in taxonomy spreadsheet is draft/WIP | 2026-04-13 | Info | Program-course mappings are correct; GA and typology columns are not finalised |
 | 7 | TODO | Consider updating JacSON Viewer to read from this repo's enriched data | 2026-04-13 | Low | Future integration |
-| 8 | TODO | Update README.md to reflect GitHub Actions as confirmed primary runner | 2026-04-13 | Med | Remove "experimental" language |
+| 8 | DONE | ~~Update README.md~~ | 2026-04-13 | — | Session 16: README now documents the legacy parser, profiles-legacy/ output, the third manifest, and the timeline + diff features; deploy section covers profiles-legacy staging |
 | 9 | DONE | ~~Post-deploy bug fixes: LO codes, assessment→LO mapping, policy-text run-ons~~ | 2026-04-14 | — | All three fixed in Session 6 |
 | 10 | DONE | ~~Viewer polish: Classic/Fun theme, downloads, dark-mode toggle~~ | 2026-04-14 | — | Shipped in Session 6 |
 | 11 | DONE | ~~Taxonomy overhaul: 14→23 programmes, verified against my.UQ~~ | 2026-04-15 | — | Shipped in Session 7 |
@@ -85,7 +86,11 @@ As of Session 16 (2026-06-06): **fifteen years of UQBS profile history is struct
 | 42 | TODO | **Program-rules time series, the SelectionList unlock** — historical (pre-~2024) rule records hold UUIDs only; capture the UI's list-resolution endpoint on a historical record, then batch all versions for the 21 UQBS programs and diff | 2026-06-05 | Med | Probe findings + recipe in 2026-06-05 FINDING entry. Supersedes the extraction half of #38 |
 | 43 | DONE | ~~**Integrate profiles-legacy into the viewer/manifests**~~ | 2026-06-06 | — | Session 16: `manifest-legacy.json` builder (separate from UQBS/all), Pages + serve_local plumbing, per-course timeline (current+legacy offerings, chronological, title-change events), legacy provenance badge. Node-sandbox + local-serve verified. Local-only until pushed |
 | 45 | DONE | ~~**Timeline v2 — the diff view**~~ | 2026-06-06 | — | Session 16: compare control under the timeline; `computeOfferingDiff` (older→newer orientation, title-matched assessment add/drop/change incl. weight + LO-set shifts, LO-count + title deltas) + `renderOfferingDiff`. Node-verified on real ACCT1101 2009/2024/2026 |
-| 46 | TODO | **Push Session 16 viewer integration (timeline + diff)** — build_manifest.py, pages.yml, serve_local.sh, .gitignore, app.js, styles.css, regenerated manifests (incl. manifest-legacy.json) | 2026-06-06 | High | Sean's action. Pages redeploys and the timeline + diff go live. Push block in Session 16 entry |
+| 46 | DONE | ~~**Push Session 16 viewer integration (timeline + diff)**~~ | 2026-06-06 | — | Pushed 2026-06-06 (commit 7fa6b52f); Pages redeployed, timeline + diff live. Verified against the live site + GitHub API in Session 17 |
+| 47 | DONE | ~~**Edition-flag viewer + dual-build**~~ | 2026-06-08 | — | Session 17: `assets/site-config.js` (edition/dataBase/repoUrl) + app.js `EDITION`/`dataUrl()`/`renderNav()`; nav now app-rendered from edition. `scraper/build_editions.py` emits build/all + build/uqbs. 16/16 Node-sandbox tests + local-serve smoke test pass. Built local-only; deploy is #48 |
+| 48 | TODO | **Stand up two fresh repos + auto-mirror** — All-UQ public (ATLAS source) + UQBS edition; UQBS repo auto-mirrors via GitHub Action to the team repo that already mirrors to teach.business.uq.edu.au | 2026-06-08 | High | Sean's infra. Needs team-repo mirror details (trigger, push access / deploy key) |
+| 49 | TODO | **Repoint ATLAS to the new All-UQ URL** once it is live | 2026-06-08 | Med | ATLAS currently reads `manifest-all.json` from the old `uqsmitc6.github.io/uqbs-course-profiles` URL |
+| 50 | TODO | **Real AoL data source** — replace local sample `aol-status.json` with the team's actual spreadsheet→CSV→JSON before the UQBS edition ships AoL | 2026-06-08 | Med | Confirmed sample/placeholder in Session 17; AoL data starts Sem 1 2026 |
 | 44 | TODO | **Decide profiles-legacy QA follow-ups** — 137 profiles have no staff-person block (88% coverage, source-genuine); 22 summary rows source-blank LO cells (list in Session 15 entry); IBUS7302-28119 (2009-S2) has per-stream summary variants (5 rows / 3 details — legitimate) | 2026-06-06 | Low | Nothing blocking; documented for the record |
 
 ---
@@ -187,6 +192,76 @@ The team needs to be able to update this data easily — not one course at a tim
 ---
 
 ## Session History
+
+### Session 17 — 2026-06-08 — State audit + two-edition architecture decided
+
+**Focus:** Sean asked for an accurate read of where things actually stand (the docs had drifted), then floated splitting the viewer into two audience editions. Audit + decisions, then built the edition-flag viewer and dual-build (#47, local-only).
+
+**Audit (verified against the live site + GitHub API, not just the docs):**
+- **#46 is LIVE, not pending.** Last commit `7fa6b52f` (2026-06-06T03:55Z) is exactly the timeline + diff push; Pages redeployed. The PROJECT_LOG header and the #46 row were stale — both corrected this session.
+- Live manifest counts confirmed: UQBS 873 / all-UQ 8,020 / legacy 5,288.
+- **AoL data is not, and never was, public.** The viewer scaffolding (AoL tab, table column, dashboard, overlay loader with graceful 404 fallback) is deployed, but `taxonomy/aol-status.json` is **not committed** to `main` (checked the repo contents API) — it lives only in the local working copy and is Session-8 sample/placeholder data (ACCT1101 with dummy SharePoint rubric links). Confirmed sample by Sean. Boarded as #50.
+- **GA mapping has no data yet.** No `ga-*.json` overlay exists; the legacy GA-to-LO matrices are raw material only (Phase 3A still to build).
+- Architecture confirmed: the public **manifest** is a lean index (no AoL/GA embedded); sensitive layers are runtime overlays only. So stripping them for a public build is trivial.
+
+**Decisions (Sean):**
+- Ship **two audience editions** with **fresh repos + URLs for both** (current repo retired): an **All-UQ public** edition (no AoL/GA — ATLAS consumes it) and a **UQBS** edition (with AoL/GA).
+- **Not secret** — public repos are fine. The split is about giving each audience a clean view, not access control.
+- **Single viewer codebase** with an `EDITION='uqbs'|'all'` flag — no forked copies.
+- UQBS edition lives in **one of Sean's own GitHub repos**, auto-mirrored via a GitHub Action to the **team repo** that already mirrors to **teach.business.uq.edu.au**. Chain: Sean's UQBS repo → (Action push) → team repo → (existing mirror) → school server.
+
+**Team repo / server mapping (learned this session):** the UQBS edition's home is the team repo **`UQ-Business-School/courses`**, which auto-mirrors to **`teach.business.uq.edu.au/ld/`** ~15 min after a push (the server pulls; no GitHub Pages or Action involved). Layout is folder-per-thing, each with its own `index.html` (e.g. `acct/index.html` → `/ld/acct/`). Sean's space is **`uqbsld/`** (already holds `nine-things`, `rubrics`, `time-machine`). Plan: the UQBS edition lands in `uqbsld/profiles/` → `teach.business.uq.edu.au/ld/uqbsld/profiles/`. So the earlier "own repo + auto-mirror" idea is optional — pushing the built edition straight into the team repo is enough.
+
+**What was built (#47, local-only — not pushed):**
+1. **`docs/assets/site-config.js`** — the one file the build swaps per edition: `{edition, dataBase, repoUrl}`. Source copy is the self-contained UQBS default (so local dev/tests are unchanged). Wired into all five pages before `app.js`.
+2. **`docs/assets/app.js`** — added `SITE`/`EDITION`/`DATA_BASE`; `dataUrl(rel)` prefixes bulk data (profile JSONs + `manifest-all`/`manifest-legacy`) with `dataBase` when set, else same-origin; applied to `loadCourseJson`, the raw-JSON link, and the big manifests (primary `manifest.json` + overlays stay local). Nav is now **rendered by `renderNav()` from the edition** (UQBS → UQBS/Programs/AoL tabs; All-UQ → lean All-UQ browser), so the build needs no HTML surgery. Pages tag `<body data-page=…>` for active state.
+3. **`scraper/build_editions.py`** — emits `build/all/` (self-contained public, AoL/GA stripped, `browse-all.html`→`index.html`, ATLAS source) and `build/uqbs/` (light: viewer + UQBS manifest + overlays incl. AoL; bulk data fetched from `--all-data-base`). Flags: `--editions`, `--all-data-base`, `--all-repo`, `--uqbs-repo`, `--uqbs-self-contained`, `--skip-data`. `build/` is git-ignored.
+
+**Verification:** `node --check` OK; 16/16 Node-sandbox assertions (EDITION resolves per config incl. no-`SITE` fallback; nav link sets + active state + repo link per edition; `dataUrl` remote vs local incl. leading-`./` strip); structural build correct (all-UQ tree carries no `aol.html`/`program.html`/`aol-status.json`; UQBS tree carries the overlays and only its small `manifest.json`); local-serve smoke test (all/index = All-UQ browser, `aol.html` 404, edition "all"; uqbs/index = UQBS browser, `aol.html` 200, `aol-status.json` 200, `manifest-all.json` 404 locally → fetched remote). UQBS build ~1 MB, all-UQ manifests ~11 MB before profiles.
+
+**Deployment recipe (Sean, when ready — not done yet, this is #48):**
+1. Create the two fresh repos (e.g. `uqbsld/profiles` folder in `UQ-Business-School/courses` for UQBS; a new public repo for All-UQ + enable Pages).
+2. Decide the All-UQ Pages URL, then build: `python3 scraper/build_editions.py --all-data-base https://<all-uq-pages-url> --all-repo <all-repo-url> --uqbs-repo https://github.com/UQ-Business-School/courses`
+3. Push `build/all/` to the All-UQ repo (root or docs/, set Pages source accordingly); push `build/uqbs/` into the team repo's `uqbsld/profiles/`.
+4. Confirm CORS works (All-UQ Pages serves `Access-Control-Allow-Origin: *`, so the UQBS edition on teach.business can fetch its profile JSON).
+5. Repoint ATLAS to the All-UQ URL (#49); swap the sample `aol-status.json` for real team data before sharing the UQBS edition (#50).
+
+**Landmines / watch out for:**
+- UQBS edition depends on the All-UQ host being up for profile data (timeline/diff/course detail). Acceptable; or build it `--uqbs-self-contained` to carry its own data (heavier).
+- `course.html` calls `loadManifest()` (the UQBS manifest) without a catch — both editions ship `manifest.json`, so don't drop it from either build.
+- The current single repo (`uqsmitc6/uqbs-course-profiles`) is being **retired** in favour of the two fresh repos; ATLAS must be repointed before the old URL goes away.
+
+**Front-door landing page (added same session, Sean's request):** a splash `index.html` with a short rationale and two big buttons — **Strictly Business** (UQBS + AoL/GA) and **All of UQ** (no AoL fields). The UQBS course browser moved from `index.html` to **`business.html`**; the all-UQ browser stays `browse-all.html`. `index.html` is now the landing on both editions. Button targets are config-driven (`site-config.js` `uqbsUrl`/`allUrl`, set by build args `--uqbs-url`/`--all-url`, absolute so the same splash works anywhere); the landing reads them via a small inline script. `renderNav()` now points "home" at `business.html`/`browse-all.html` and adds an "⌂ Editions" link back to the splash; it skips rendering on `data-page="landing"`. Landing styles appended to `styles.css` (`.landing`, `.edition-card*`, theme-variable based). Phase-1 defaults: All-of-UQ button → existing live `…/browse-all.html` (works against the current site today), Strictly-Business button → `…/uqbsld/profiles/business.html`. Re-verified: 11/11 Node-sandbox assertions + serve smoke test (uqbs ships index/business/course/program/aol; all ships index/browse-all/course, no business.html).
+
+**Landing copy (after Sean's review):** positive framing, no swipe at Jac/Drupal — "more complete than the published Drupal pages, easier to navigate than Jac, with a couple of extra features to boot"; mentions search, the side-by-side offering compare, and bulk download. "Strictly Business" card flags AoL/GA as *coming soon* (not yet shipped). Card note is "For UQBS staff" (the LD team are UQBS staff — dropped the redundant pairing).
+
+**Bulk multi-select download (#51, DONE):** added a checkbox column + a select-all (filtered) box to both browsers. A shared selection model (`STORE.selected` keyed by `course.file`) drives it: `coursesForExport()` returns the ticked set if any rows are selected, else the full filtered set; the existing CSV / ZIP-MD / ZIP-JSON exports now honour it. A "N selected · Clear selection" indicator sits by the export buttons. One implementation (`setupSelection`/`selCell`/`refreshSelectionUI` + `STORE.renderFn`) serves both `render()` and `renderAllBrowser()`. (Note for Sean: a "download multiple" capability already existed — the ZIP buttons export everything matching the current filters — this adds per-row picking on top.) Verified: `node --check`, CSS balanced (258/258), 7/7 selection-logic assertions, serve check (checkbox column present in both editions).
+
+**Landing tweak:** removed the "For UQBS"/"For everyone" badge pills above the card titles (Sean — labels stand on their own). The note line under each card stays.
+
+**Report-an-error (#52, DONE):** course-detail header now has a "Report an error ⚑" link that toggles a small panel (textarea + "Compose email"). On send it opens a `mailto:` to `reportEmail` (config-driven, default `uqsmitc6@uq.edu.au`) with the description plus a pinpoint block baked in — course code, full code, semester+code, class number, file path, page URL, edition. So a report lands in Sean's inbox with the exact location; paste it back and the fix (usually an LO-mapping override) is targeted. `reportEmail` added to `site-config.js` + build (`--report-email`). Verified: `node --check`, CSS balanced (262/262), 6/6 mailto-builder assertions, serve check.
+
+**Aesthetic pass (Sean's review, both editions):**
+- **Landing copy** cut to one line ("Every UQ course profile in one place. Search, compare across years, and download in bulk."), no em dash; card badge pills removed; card subs trimmed.
+- **Removed the gold rule** under the purple header (`header.site` border-bottom none; active-tab underline switched from gold to white).
+- **One display control instead of two.** The separate Classic/Fun theme toggle and Auto/Light/Dark colour-mode toggle are merged into a single `#mode-toggle` button that cycles **Auto → Light → Dark → Fun**. Storage unified to one key `uqbs-mode`; the FOUC `<head>` script + `app.js` (`getMode`/`applyMode`/`updateModeButton`/`initMode`) set `data-theme`/`data-color-mode` from it. Old `initTheme`/`applyTheme`/`initColorMode`/`applyColorMode` removed; exports updated to `initMode`/`applyMode`.
+- **Fun is now dark-neon** (Sean's pick), replacing the old magazine/editorial look: near-black purple-tinted base (`#0e0c16`), neon-violet primary (`#c08cff`), cyan links (`#34e7e7`), glow on the header title / mode button / hovers. Self-contained and independent of light/dark (selecting Fun clears `data-color-mode`); the old fun+colour-mode override blocks were removed so they can't fight it.
+
+Verified: `node --check`, CSS balanced (235/235), 10/10 mode-cycle assertions, serve check (single button, `uqbs-mode` key, no `theme-toggle`, both editions). All rebuilt into `build/uqbs/`.
+
+**UQBS browser tweaks (#54, DONE):**
+- New **"Core / Major" column** (UQBS browser only — the all-UQ view has no taxonomy). Shows where the course lives per program from `taxonomy.course_programs[code][].role`: "Core" (highlighted) or the major/list name (Finance, Business Economics, I&E, Program Electives, …), program name in the chip tooltip. Programs column unchanged; the two columns read in the same order. `render()` row + `business.html` thead + colspans (10→11) updated; verified 5/5 render assertions (11 cells, Core/role-major chips, program codes retained).
+- **Default semester is now S1 2026** (code 7620) in both browsers, falling back to the most recent if 7620 isn't present (was: always most recent).
+
+Verified: `node --check`, rebuilt into `build/uqbs/` (header + default confirmed via serve check).
+
+**Major-name normalisation (#55, DONE):** the same UG major was abbreviated in one program and spelled out in another (Sean spotted I&E vs Innovation and Entrepreneurship on TIMS3310). Standardised five to full names in `taxonomy/uqbs-programs.json` — both the `programs[].majors` keys and the `course_programs[].role` values: I&E→Innovation and Entrepreneurship, BIS→Business Information Systems, HR→Human Resources, IB→International Business, BSAN→Business Analytics (6 major-key renames + 50 role renames, 0 abbreviations remaining, JSON valid). PG majors that are genuinely separate (MBus Human Resource Management, MBus/MCom Information Systems, MCom Professional Accounting / Applied Finance) and the BTHEM/MTHEM tourism/hotel variants were left as-is by design. Labels are display-only (no effect on search or the program filter). Rebuilt into `build/uqbs/`. Note: a course in the same major across two programs now shows that major twice in the Core/Major column (correct, tooltips name each program); dedupe is a trivial later tweak if wanted.
+
+**Open items added:** #47 (DONE — edition-flag viewer + dual-build + landing), #48 (two fresh repos + deploy/mirror), #49 (repoint ATLAS), #50 (real AoL data source), #51 (DONE — bulk multi-select download), #52 (DONE — report-an-error), #53 (DONE — merged display toggle + dark-neon Fun + landing polish), #54 (DONE — Core/Major column + S1 2026 default), #55 (DONE — major-name normalisation).
+
+**Still open / unblocked by this work:** #37 recurring LO patch routine; #42 program-rules time series; #24 cron switch.
+
+---
 
 ### Session 16 — 2026-06-06 — Legacy data goes live in the viewer: the per-course timeline (#43 closed)
 
@@ -927,6 +1002,7 @@ uqbs-course-profiles/
 ## Changelog
 
 - **2026-06-06** — MILESTONE — **Legacy data integrated into the viewer (#43 closed): the per-course timeline.** Separate `manifest-legacy.json` (5,288 profiles, kept apart from UQBS/all manifests — live viewer unaffected, still 873); Pages + serve_local plumbing; `initCourseDetail` merges current+legacy offerings; `buildCourseTimeline` renders a chronological strip (cross-era sort, summer-before-S1, current marked, legacy era tags, title-change events); legacy provenance badge on the header. Verified in a Node sandbox against real app.js + manifests (ACCT1101, 42 legacy + 4 current → 47-offering timeline 2009→2026) and a local-serve smoke test (200s, parses). Local-only — push is #46.
+- **2026-06-06** — DOC — **Documentation completed for the session (protocol session-end).** `HANDOVER.md` rewritten for the post-Session-16 state (legacy arc complete + live; queue reset to genuinely-new work: #37 recurring patch, #14 GA mapping, #40-tail deleted-courses harvest, #42 program time series, #24 cron). `README.md` refreshed (#8 closed): legacy parser, `profiles-legacy/` output, third manifest, timeline + diff features, deploy staging. `PROJECT_LOG.md` Current State + Open Items reconciled. Nothing local-only or unpushed remains as of this entry (note: README/HANDOVER edits here ride the next routine push).
 - **2026-06-06** — FEATURE — **Timeline diff view (#45 closed).** Compare control under the timeline diffs any two offerings: `computeOfferingDiff` (older→newer, title-matched assessment add/drop/change incl. weight + LO-set shifts, LO-count + title deltas) → `renderOfferingDiff`. Fetches the picked offering via `loadCourseJson`. Node-verified on real ACCT1101 across 2009/2024/2026 (full turnover 2009→2024; matched-item weight+LO change 2024→2026; orientation-robust; self-vs-self identical). Local-only — push is #46.
 - **2026-06-06** — DECISION (Sean) — Timeline keyed on course code but **surfaces title changes as visible events** (a repurposed/renamed code is signal for the LD team, not noise). Drives `buildCourseTimeline`'s title-change comparison against the next-older offering.
 - **2026-06-06** — MILESTONE — **Sessions 12–15 backlog PUSHED (#39 closed).** Two commits, range 02b1f575..31b58be9: (1) code/taxonomy/data — six faculty structures, teaching-periods registry, offerings index, deleted-offerings subset, discover_offerings.py, fetch_legacy.py, parse_legacy.py, program codes, project log; (2) `profiles-legacy/` — all 5,288 parsed legacy profiles (31b58be9). Pack compressed to 40.7 MiB (better than the ~70 MB estimate). Raw HTML cache stayed git-ignored as intended. Remaining for the legacy arc: viewer/manifest integration (#43).

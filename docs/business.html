@@ -3,9 +3,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>All UQ Courses — Course Profile Viewer</title>
+  <title>UQBS Course Profile Viewer</title>
   <link rel="stylesheet" href="./assets/styles.css">
   <script>
+    // Apply saved theme + colour mode before first paint to avoid FOUC
     (function () {
       try {
         var m = localStorage.getItem("uqbs-mode") || "auto";
@@ -23,7 +24,7 @@
 </head>
 <body data-page="home">
   <header class="site">
-    <h1>UQ Course Profile Viewer</h1>
+    <h1>UQBS Course Profile Viewer</h1>
     <nav>
       <button id="mode-toggle" class="mode-toggle" type="button" aria-label="Display mode">
         <span class="mt-icon" aria-hidden="true">☾</span>
@@ -46,16 +47,16 @@
 
     <div class="filters">
       <div>
-        <label for="search">Search code, title, or school</label>
-        <input id="search" type="search" placeholder="e.g. CHEM1100 or Psychology">
+        <label for="search">Search code or title</label>
+        <input id="search" type="search" placeholder="e.g. MGTS1601 or Strategy">
       </div>
       <div>
         <label for="filter-semester">Semester</label>
         <select id="filter-semester"><option value="">All semesters</option></select>
       </div>
       <div>
-        <label for="filter-school">School</label>
-        <select id="filter-school"><option value="">Any school</option></select>
+        <label for="filter-program">Program</label>
+        <select id="filter-program"><option value="">Any program</option></select>
       </div>
       <div>
         <label for="filter-level">Study level</label>
@@ -83,23 +84,25 @@
             <th data-sort="units">Units</th>
             <th data-sort="attendance_mode">Mode</th>
             <th data-sort="location">Location</th>
-            <th data-sort="coordinating_unit">School</th>
+            <th>Programs</th>
+            <th>Core / Major</th>
+            <th>AoL</th>
           </tr>
         </thead>
         <tbody id="courses-body">
-          <tr><td colspan="9" class="loading">Loading profiles…</td></tr>
+          <tr><td colspan="11" class="loading">Loading profiles…</td></tr>
         </tbody>
       </table>
     </div>
   </main>
 
   <footer class="site">
-    UQ Course Profile Viewer · Data scraped from course-profiles.uq.edu.au
+    UQBS Course Profile Viewer · Data scraped from course-profiles.uq.edu.au · Built with the UQBS course profile scraper
   </footer>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js" referrerpolicy="no-referrer"></script>
   <script src="./assets/site-config.js"></script>
   <script src="./assets/app.js"></script>
-  <script>window.UQBS.initAllBrowser();</script>
+  <script>window.UQBS.initBrowser();</script>
 </body>
 </html>

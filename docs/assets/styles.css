@@ -66,32 +66,38 @@
   --fac-tour: #0277bd;
 }
 
-/* Fun theme (magazine / editorial) ---------------------------------- */
+/* Fun theme — dark neon (self-contained; ignores light/dark colour mode) ---- */
 :root[data-theme="fun"] {
-  --uq-purple: #5a1b8a;
-  --uq-purple-dark: #2e0d4f;
-  --uq-purple-light: #f3ecfa;
-  --uq-gold: #d89b2a;
+  --uq-purple: #c08cff;
+  --uq-purple-dark: #d9b8ff;
+  --uq-purple-light: #1c1730;
+  --uq-gold: #34e7e7;
 
-  --bg: #fbf7f2;            /* warm cream */
-  --bg-card: #ffffff;
-  --header-bg: linear-gradient(135deg, #5a1b8a 0%, #8b2fb3 55%, #d89b2a 100%);
-  --header-ink: #ffffff;
-  --header-accent: #d89b2a;
+  --ink: #e9e6f2;
+  --ink-muted: #968fad;
+  --ink-faint: #6f6889;
+  --rule: #221c33;
+  --bg: #0e0c16;
+  --bg-card: #16121f;
+  --header-bg: #15111f;
+  --header-ink: #f1ebff;
+  --header-accent: #c08cff;
 
-  --chip-bg: #f6e9d8;
-  --chip-ink: #6b3f0a;
-  --accent: #8b2fb3;
-  --accent-soft: #f3ecfa;
+  --chip-bg: #1d1730;
+  --chip-ink: #c9b3ff;
+  --accent: #c08cff;
+  --accent-soft: #1d1730;
+  --accent-ink: #0e0c16;
 
-  --radius: 12px;
-  --radius-lg: 18px;
-  --shadow: 0 2px 6px rgba(31,10,58,0.08), 0 8px 24px rgba(31,10,58,0.06);
-  --shadow-lg: 0 6px 18px rgba(31,10,58,0.10), 0 18px 48px rgba(31,10,58,0.10);
+  --warn: #ffb44d;
+  --warn-bg: #2a1d0a;
+  --ok: #5cf08a;
+  --ok-bg: #0f2417;
 
-  --font-display: Georgia, "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
-  --font-base-size: 16px;
-  --font-lh: 1.62;
+  --radius: 10px;
+  --radius-lg: 14px;
+  --shadow: 0 0 0 1px #221c33, 0 4px 18px rgba(0,0,0,0.5);
+  --shadow-lg: 0 0 0 1px #2a2140, 0 10px 34px rgba(0,0,0,0.6);
 }
 
 /* Dark mode -----------------------------------------------------------
@@ -136,23 +142,8 @@
     --shadow-lg: 0 4px 14px rgba(0,0,0,0.55), 0 18px 44px rgba(0,0,0,0.45);
   }
 
-  :root[data-theme="fun"]:not([data-color-mode="light"]):not([data-color-mode="dark"]) {
-    --uq-purple: #c6a1ec;
-    --uq-purple-dark: #f2e4ff;
-    --uq-purple-light: #2e1d45;
-    --uq-gold: #ecc463;
-
-    --bg: #14101b;
-    --bg-card: #1f1a2a;
-    --header-bg: linear-gradient(135deg, #2e0d4f 0%, #5a1b8a 50%, #a85c14 100%);
-    --header-ink: #fff6e4;
-    --header-accent: #ecc463;
-
-    --chip-bg: #3d2a18;
-    --chip-ink: #ecc463;
-    --accent: #d18bff;
-    --accent-soft: #2e1d45;
-  }
+  /* Fun is self-contained dark-neon — it must not inherit the auto-dark
+     classic overrides, so no fun-specific block here. */
 }
 
 /* Manual: user explicitly chose dark (independent of OS preference) */
@@ -186,24 +177,6 @@
 
   --shadow: 0 1px 2px rgba(0,0,0,0.5), 0 4px 14px rgba(0,0,0,0.35);
   --shadow-lg: 0 4px 14px rgba(0,0,0,0.55), 0 18px 44px rgba(0,0,0,0.45);
-}
-
-:root[data-theme="fun"][data-color-mode="dark"] {
-  --uq-purple: #c6a1ec;
-  --uq-purple-dark: #f2e4ff;
-  --uq-purple-light: #2e1d45;
-  --uq-gold: #ecc463;
-
-  --bg: #14101b;
-  --bg-card: #1f1a2a;
-  --header-bg: linear-gradient(135deg, #2e0d4f 0%, #5a1b8a 50%, #a85c14 100%);
-  --header-ink: #fff6e4;
-  --header-accent: #ecc463;
-
-  --chip-bg: #3d2a18;
-  --chip-ink: #ecc463;
-  --accent: #d18bff;
-  --accent-soft: #2e1d45;
 }
 
 /* Dark mode overrides for AoL colours */
@@ -249,7 +222,7 @@ header.site {
   background: var(--header-bg);
   color: var(--header-ink);
   padding: 16px 24px;
-  border-bottom: 4px solid var(--header-accent);
+  border-bottom: none;
   position: relative;
 }
 header.site a { color: var(--header-ink); }
@@ -267,7 +240,7 @@ header.site nav a {
   color: var(--header-ink);
 }
 header.site nav a.active {
-  opacity: 1; border-bottom: 2px solid var(--header-accent); padding-bottom: 2px;
+  opacity: 1; border-bottom: 2px solid rgba(255,255,255,0.8); padding-bottom: 2px;
 }
 header.site .theme-toggle,
 header.site .mode-toggle {
@@ -822,159 +795,57 @@ hr { border: 0; border-top: 1px solid var(--rule); margin: 20px 0; }
 /* FUN THEME — magazine / editorial tweaks                          */
 /* ============================================================== */
 
+/* ---- Fun (dark neon) component touches -------------------------------- */
 [data-theme="fun"] header.site {
-  padding: 22px 28px 18px;
-}
-[data-theme="fun"] header.site::after {
-  /* subtle halftone dot pattern behind header text */
-  content: "";
-  position: absolute; inset: 0;
-  background-image: radial-gradient(rgba(255,255,255,0.10) 1px, transparent 1px);
-  background-size: 14px 14px;
-  pointer-events: none;
-  opacity: 0.6;
+  box-shadow: 0 1px 0 #2a2140, 0 2px 14px rgba(192,140,255,0.18);
 }
 [data-theme="fun"] header.site h1 {
-  font-size: 26px;
-  font-weight: 700;
-  letter-spacing: -0.2px;
-  font-style: italic;
-  position: relative;
+  color: var(--accent);
+  text-shadow: 0 0 14px rgba(192,140,255,0.45);
 }
-[data-theme="fun"] header.site nav { position: relative; font-size: 15px; }
-
-/* Main text treatment */
-[data-theme="fun"] h1 { font-size: 32px; letter-spacing: -0.4px; }
-[data-theme="fun"] h2 {
-  font-size: 24px; letter-spacing: -0.2px;
-  border-bottom: 3px solid var(--uq-gold);
-  padding-bottom: 8px;
-  margin: 40px 0 16px;
+[data-theme="fun"] header.site nav a.active { border-bottom-color: var(--accent); }
+[data-theme="fun"] .mode-toggle {
+  border-color: #34e7e7;
+  box-shadow: 0 0 10px rgba(52,231,231,0.35);
 }
-[data-theme="fun"] h3 { font-size: 19px; letter-spacing: -0.1px; }
 
-/* Cards: rounder, more air, warmer shadows */
+/* Links glow cyan */
+[data-theme="fun"] a { color: #34e7e7; }
+[data-theme="fun"] td.code a,
+[data-theme="fun"] table.courses a { color: #34e7e7; font-weight: 600; }
+
+/* Surfaces lift on the dark base */
 [data-theme="fun"] .card,
 [data-theme="fun"] .table-wrap,
 [data-theme="fun"] .stat-bar,
-[data-theme="fun"] .filters {
-  border-radius: var(--radius-lg);
-  box-shadow: var(--shadow);
-  padding: 24px 28px;
+[data-theme="fun"] .filters,
+[data-theme="fun"] .program-card,
+[data-theme="fun"] .edition-card {
+  border: 1px solid #2a2140;
 }
-[data-theme="fun"] .table-wrap { padding: 0; }
-[data-theme="fun"] .stat-bar { padding: 16px 24px; }
-[data-theme="fun"] .filters { padding: 20px 24px; gap: 16px; }
+[data-theme="fun"] table.courses tbody tr:nth-child(even) td { background: rgba(192,140,255,0.05); }
+[data-theme="fun"] table.courses tbody tr:hover td { background: rgba(52,231,231,0.07); }
 
-/* Course header: full-bleed editorial hero */
-[data-theme="fun"] .course-header {
-  border-left: none;
-  border-radius: var(--radius-lg);
-  padding: 32px 36px;
-  background:
-    linear-gradient(135deg, var(--accent-soft) 0%, var(--bg-card) 85%);
-  border-top: 6px solid var(--uq-gold);
-  box-shadow: var(--shadow-lg);
-}
-[data-theme="fun"] .course-header h1 {
-  font-size: 36px; line-height: 1.1; margin-bottom: 10px;
-}
-[data-theme="fun"] .course-header .code {
-  background: var(--uq-purple);
-  color: #fff;
-  font-weight: 700;
-  padding: 4px 12px;
-  border-radius: 999px;
-}
+/* Chips / pills as neon outlines */
+[data-theme="fun"] .chip { background: #1d1730; color: #c9b3ff; border: 1px solid #3a2f55; }
+[data-theme="fun"] .level-pill { border: 1px solid #3a2f55; }
 
-/* Level pills & chips: bigger, bolder */
-[data-theme="fun"] .level-pill {
-  padding: 3px 10px; font-size: 12px; border-radius: 999px;
-}
-[data-theme="fun"] .chip {
-  padding: 4px 12px; font-size: 13px; border-radius: 999px;
-  font-weight: 600;
-}
-
-/* Download bar: pill buttons with colour */
+/* Download / action buttons: neon outline that fills on hover */
 [data-theme="fun"] .dl-btn {
-  border-radius: 999px;
-  padding: 10px 18px;
-  font-weight: 600;
-  background: var(--bg-card);
-  border: 2px solid var(--accent);
-  color: var(--accent);
+  background: transparent; border: 1px solid var(--accent); color: var(--accent);
 }
-[data-theme="fun"] .dl-btn:hover, [data-theme="fun"] .dl-btn:focus-visible {
-  background: var(--accent); color: #fff;
-}
-[data-theme="fun"] .btn-link { border-radius: 999px; padding: 6px 14px; font-weight: 600; }
-
-/* Table: zebra rows, bigger header */
-[data-theme="fun"] table.courses th {
-  font-size: 13px;
-  letter-spacing: 0.4px;
-  text-transform: uppercase;
-  padding: 12px 14px;
-}
-[data-theme="fun"] table.courses td { padding: 12px 14px; }
-[data-theme="fun"] table.courses tbody tr:nth-child(even) td {
-  background: color-mix(in srgb, var(--accent-soft) 40%, var(--bg-card));
+[data-theme="fun"] .dl-btn:hover,
+[data-theme="fun"] .dl-btn:focus-visible {
+  background: var(--accent); color: var(--accent-ink);
+  box-shadow: 0 0 12px rgba(192,140,255,0.5);
 }
 
-/* Faculty-prefix colour-coded course code pill (applied in app.js markup) */
-[data-theme="fun"] td.code a { padding: 2px 8px; border-radius: 6px; display: inline-block; }
-[data-theme="fun"] td.code.prefix-ACCT a { background: rgba(184,134,11,0.12); color: var(--fac-acct); }
-[data-theme="fun"] td.code.prefix-FINM a { background: rgba(46,125,50,0.12); color: var(--fac-finm); }
-[data-theme="fun"] td.code.prefix-MGTS a { background: rgba(21,101,192,0.12); color: var(--fac-mgts); }
-[data-theme="fun"] td.code.prefix-MKTG a { background: rgba(194,24,91,0.12); color: var(--fac-mktg); }
-[data-theme="fun"] td.code.prefix-TIMS a { background: rgba(0,131,143,0.12); color: var(--fac-tims); }
-[data-theme="fun"] td.code.prefix-LAWS a { background: rgba(198,40,40,0.12); color: var(--fac-laws); }
-[data-theme="fun"] td.code.prefix-BUSN a { background: rgba(94,53,177,0.12); color: var(--fac-busn); }
-[data-theme="fun"] td.code.prefix-ECON a { background: rgba(239,108,0,0.12); color: var(--fac-econ); }
-[data-theme="fun"] td.code.prefix-LEIS a { background: rgba(0,105,92,0.12); color: var(--fac-leis); }
-[data-theme="fun"] td.code.prefix-TOUR a { background: rgba(2,119,189,0.12); color: var(--fac-tour); }
-
-/* Program cards */
-[data-theme="fun"] .program-card {
-  border-radius: var(--radius-lg);
-  border-left: 6px solid var(--uq-gold);
-  padding: 20px 24px;
+/* Landing edition cards */
+[data-theme="fun"] .edition-card:hover {
+  border-color: #34e7e7;
+  box-shadow: 0 0 0 1px #34e7e7, 0 8px 28px rgba(0,0,0,0.6);
 }
-[data-theme="fun"] .program-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-lg); }
-[data-theme="fun"] .major-section h3 {
-  background: linear-gradient(90deg, var(--accent-soft) 0%, transparent 100%);
-  border-left: 4px solid var(--uq-gold);
-  padding: 10px 14px;
-  font-size: 15px;
-  border-radius: 0 var(--radius) var(--radius) 0;
-}
-
-/* Assessment detail: pull-quote style */
-[data-theme="fun"] .assessment-detail {
-  border: none;
-  border-left: 4px solid var(--uq-gold);
-  border-radius: 0 var(--radius-lg) var(--radius-lg) 0;
-  background: var(--accent-soft);
-  padding: 18px 24px;
-}
-
-/* Learning outcome codes pop */
-[data-theme="fun"] .lo-code {
-  background: var(--uq-purple);
-  color: #fff;
-  padding: 2px 10px;
-  border-radius: 999px;
-  display: inline-block;
-  font-size: 13px;
-  text-align: center;
-}
-
-/* Callouts */
-[data-theme="fun"] .callout { border-radius: var(--radius); border-left-width: 4px; }
-
-/* Footer */
-[data-theme="fun"] footer.site { font-style: italic; }
+[data-theme="fun"] .ec-go { color: #34e7e7; }
 
 
 /* Print stylesheet -------------------------------------------------- */
@@ -989,4 +860,127 @@ hr { border: 0; border-top: 1px solid var(--rule); margin: 20px 0; }
   .chip, .role-core { background: transparent; border: 1px solid #888; color: #333; }
   table.assessment { page-break-inside: auto; }
   tr { page-break-inside: avoid; }
+}
+
+/* ---- Landing / front door ---------------------------------------------- */
+main.landing {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 8px 20px 48px;
+}
+.landing-intro {
+  margin: 24px auto 36px;
+}
+.landing-intro .lead {
+  font-size: 1.25rem;
+  line-height: 1.5;
+  color: var(--ink);
+  margin: 0 0 14px;
+}
+.landing-intro p {
+  font-size: 1.02rem;
+  line-height: 1.6;
+  color: var(--ink-muted);
+  margin: 0;
+}
+.edition-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+@media (max-width: 640px) {
+  .edition-cards { grid-template-columns: 1fr; }
+}
+.edition-card {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 26px 24px 22px;
+  background: var(--bg-card);
+  border: 1px solid var(--accent-soft);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+  text-decoration: none;
+  color: var(--ink);
+  transition: transform 0.12s ease, box-shadow 0.12s ease, border-color 0.12s ease;
+}
+.edition-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--accent);
+}
+.ec-badge {
+  align-self: flex-start;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-weight: 600;
+  color: var(--accent-ink);
+  background: var(--accent);
+  padding: 3px 9px;
+  border-radius: 999px;
+}
+.ec-title {
+  font-size: 1.55rem;
+  font-weight: 700;
+  line-height: 1.15;
+}
+.ec-sub {
+  font-size: 1rem;
+  color: var(--ink);
+  line-height: 1.45;
+}
+.ec-note {
+  font-size: 0.9rem;
+  color: var(--ink-faint);
+}
+.ec-go {
+  margin-top: 6px;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+/* ---- bulk-select column ------------------------------------------------- */
+.courses th.sel-col,
+.courses td.sel-col {
+  width: 34px;
+  text-align: center;
+  padding-left: 8px;
+  padding-right: 4px;
+}
+.courses th.sel-col input,
+.courses td.sel-col input {
+  cursor: pointer;
+  width: 16px;
+  height: 16px;
+  accent-color: var(--accent);
+}
+#sel-info { white-space: nowrap; }
+
+/* ---- report-an-error panel --------------------------------------------- */
+.report-panel {
+  margin-top: 10px;
+  padding: 12px 14px;
+  background: var(--accent-soft);
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+  max-width: 560px;
+}
+.report-panel p { margin: 0 0 8px; }
+.report-panel textarea {
+  width: 100%;
+  box-sizing: border-box;
+  font: inherit;
+  padding: 8px;
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+  background: var(--bg-card);
+  color: var(--ink);
+  resize: vertical;
+}
+.report-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 8px;
 }

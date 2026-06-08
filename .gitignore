@@ -25,3 +25,6 @@ docs/taxonomy
 
 # Raw legacy ECP HTML cache (fetch_legacy.py) — do not commit
 data/legacy_html/
+
+# Generated edition builds (scraper/build_editions.py) — outputs, not source
+build/
