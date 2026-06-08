@@ -177,9 +177,14 @@ def main():
         codes = codes[:args.max]
         print(f"  limited to first {args.max}")
 
+    # ALWAYS merge into an existing index — a targeted run (--codes-file /
+    # --codes-only / --max) must never clobber the full harvest. New results
+    # for a course replace that course's entry; everything else is preserved.
     index: dict = {}
-    if args.resume and OUT_PATH.exists():
+    if OUT_PATH.exists():
         index = json.load(open(OUT_PATH, encoding="utf-8")).get("courses", {})
+        print(f"  merging into existing index ({len(index)} courses already on file)")
+    if args.resume:
         codes = [c for c in codes if c not in index]
         print(f"  resume: {len(codes)} remaining")
 
