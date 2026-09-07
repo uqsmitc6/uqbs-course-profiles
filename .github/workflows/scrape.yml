@@ -111,7 +111,11 @@ jobs:
 
           # Only add profiles if the directory has content
           if [ -d "profiles" ] && [ "$(find profiles/ -name '*.json' 2>/dev/null)" ]; then
-            git add profiles/ docs/assets/manifest.json docs/assets/manifest-all.json taxonomy/ docs/taxonomy/ logs/lo-carry-report.csv
+            # docs/taxonomy is a gitignored symlink (the Pages workflow copies taxonomy/
+            # in at deploy time). Adding it here made every scheduled run from 7 June to
+            # 9 August 2026 scrape for half an hour and then fail at this line, so nothing
+            # was ever committed. Fixed 2026-09-07.
+            git add profiles/ docs/assets/manifest.json docs/assets/manifest-all.json docs/assets/manifest-legacy.json taxonomy/ logs/lo-carry-report.csv
             if git diff --cached --quiet; then
               echo "No changes to commit"
             else
