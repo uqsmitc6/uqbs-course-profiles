@@ -30,6 +30,7 @@ on:
 # Grant write permission so the workflow can push commits
 permissions:
   contents: write
+  actions: write   # so the scrape can dispatch the Pages deploy (see the last step)
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -127,6 +128,17 @@ jobs:
           else
             echo "No profile files found — skipping commit"
           fi
+
+      - name: Redeploy the site with the new profiles
+        # A push made with GITHUB_TOKEN never triggers another workflow, so the bot's
+        # scrape commits never redeployed GitHub Pages: the feed ATLAS and the
+        # teach.business viewer read stayed at whatever a person last pushed. A
+        # workflow_dispatch is the documented exception, so dispatch the Pages deploy
+        # by hand here (2026-09-07).
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run pages.yml --ref main || echo "Pages dispatch failed; push any commit to redeploy"
 
       - name: Upload scrape logs as artifact
         if: always()
