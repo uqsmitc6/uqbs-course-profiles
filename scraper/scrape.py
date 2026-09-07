@@ -115,6 +115,29 @@ def load_all_uq_course_list(semester_filter: str | None = None) -> list[str]:
 # Module-level cache for the repo file index (fetched once per run)
 _repo_index_cache: dict | None = None
 
+# Hardening (2026-08-25): a failed or truncated index fetch used to be cached
+# as an empty index, so the run carried on, found nothing, and exited 0. That
+# is now an error unless --allow-empty-index is passed (debugging only).
+ALLOW_EMPTY_INDEX = False
+
+
+class RepoIndexError(RuntimeError):
+    """The JacSON repo index could not be fetched completely."""
+
+
+def _github_headers() -> dict[str, str]:
+    """Request headers for api.github.com, with a bearer token if one is set.
+
+    Unauthenticated calls from a shared GitHub Actions runner share a small
+    rate limit and fail intermittently. GITHUB_TOKEN (or GH_TOKEN) in the
+    environment lifts that; the workflow passes secrets.GITHUB_TOKEN.
+    """
+    headers = dict(HEADERS)
+    token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    return headers
+
 
 def _fetch_repo_index() -> dict[str, list[dict]]:
     """
@@ -138,17 +161,34 @@ def _fetch_repo_index() -> dict[str, list[dict]]:
     url = GITHUB_TREE_API.format(
         owner=JACSON_REPO_OWNER, repo=JACSON_REPO_NAME, branch="main"
     )
-    log.info("Fetching JacSON repo index from GitHub Tree API...")
+    headers = _github_headers()
+    log.info(
+        "Fetching JacSON repo index from GitHub Tree API "
+        f"({'authenticated' if 'Authorization' in headers else 'unauthenticated'})..."
+    )
+
+    def _fail(msg: str) -> dict[str, list[dict]]:
+        global _repo_index_cache
+        if ALLOW_EMPTY_INDEX:
+            log.error(f"{msg} (--allow-empty-index set; continuing with an empty index)")
+            _repo_index_cache = {}
+            return _repo_index_cache
+        log.error(f"{msg} Nothing can be discovered without the index; stopping.")
+        raise RepoIndexError(msg)
 
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+        resp = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT)
         resp.raise_for_status()
-    except requests.RequestException as e:
-        log.error(f"Failed to fetch JacSON repo index: {e}")
-        _repo_index_cache = {}
-        return _repo_index_cache
+        data = resp.json()
+    except (requests.RequestException, ValueError) as e:
+        return _fail(f"Failed to fetch JacSON repo index: {e}.")
 
-    data = resp.json()
+    if data.get("truncated"):
+        return _fail(
+            "JacSON repo index is truncated: the GitHub Tree API returned "
+            "truncated=true, so the listing is incomplete."
+        )
+
     tree = data.get("tree", [])
 
     index: dict[str, list[dict]] = {}
@@ -1099,6 +1139,7 @@ def main(
     max_courses: int | None = None,
     all_uq: bool = False,
     delay: float | None = None,
+    allow_empty_index: bool = False,
 ):
     """
     Main entry point.
@@ -1107,11 +1148,14 @@ def main(
         semester_filter: Only scrape profiles for this semester code (e.g. '7620')
         course_filter: Only scrape these specific course codes
         max_courses: Limit the number of courses to scrape (useful for testing)
+        allow_empty_index: Debugging only. Carry on with an empty index if the
+            JacSON tree fetch fails or is truncated (the pre-2026-08-25 behaviour)
     """
     # Apply custom delay if specified
-    global REQUEST_DELAY
+    global REQUEST_DELAY, ALLOW_EMPTY_INDEX
     if delay is not None:
         REQUEST_DELAY = max(0.2, delay)  # floor at 0.2s to stay polite
+    ALLOW_EMPTY_INDEX = bool(allow_empty_index)
 
     mode_label = "All-of-UQ" if all_uq else "UQBS"
     log.info("=" * 60)
@@ -1185,6 +1229,20 @@ def main(
         json.dump(results, f, indent=2, ensure_ascii=False)
     log.info(f"Summary saved to {summary_path}")
 
+    # A run that targeted a semester or the whole course set and saved nothing
+    # is a failure, not a quiet success. Exit 2 so a GitHub Actions job goes red.
+    # A run narrowed to named courses (--courses) is exempt: zero can be a true
+    # answer there.
+    if results["total_profiles_scraped"] == 0 and (semester_filter or not course_filter):
+        log.error(
+            "ERROR: zero profiles scraped for a run that targeted "
+            + (f"semester {semester_filter}" if semester_filter else f"the full {mode_label} course set")
+            + ". Nothing was written. Check the JacSON index fetch above "
+            "(GITHUB_TOKEN set? truncated?), the semester code, and whether "
+            "course-profiles.uq.edu.au is reachable. Exiting with status 2."
+        )
+        sys.exit(2)
+
     return results
 
 
@@ -1219,12 +1277,25 @@ if __name__ == "__main__":
         default=None,
         help="Seconds between requests (default: 1.0). Minimum 0.2.",
     )
+    parser.add_argument(
+        "--allow-empty-index",
+        action="store_true",
+        default=False,
+        help="Debugging only. If the JacSON repo index cannot be fetched (or is "
+             "truncated), log the error and carry on with an empty index instead "
+             "of stopping. Restores the pre-2026-08-25 behaviour.",
+    )
     args = parser.parse_args()
 
-    main(
-        semester_filter=args.semester,
-        course_filter=args.courses,
-        max_courses=args.max,
-        all_uq=args.all_uq,
-        delay=args.delay,
-    )
+    try:
+        main(
+            semester_filter=args.semester,
+            course_filter=args.courses,
+            max_courses=args.max,
+            all_uq=args.all_uq,
+            delay=args.delay,
+            allow_empty_index=args.allow_empty_index,
+        )
+    except RepoIndexError as e:
+        log.error(f"ERROR: {e} Exiting with status 2.")
+        sys.exit(2)
