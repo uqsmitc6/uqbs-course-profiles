@@ -40,14 +40,20 @@ function dataUrl(rel) {
   return DATA_BASE ? `${DATA_BASE}/${clean}` : `./${clean}`;
 }
 
+// Everything the weekly scrape refreshes (the manifests, the program taxonomy, the
+// LO overrides, the teaching periods) is read from the data host when one is set,
+// so a hosted edition such as teach.business follows the scrape without a rebuild
+// (2026-09-07; until then the UQBS edition shipped a frozen copy of the manifest
+// and showed the 6 June scrape for three months). Only aol-status.json, which the
+// UQBS edition alone carries, stays local.
 const DATA_PATHS = {
-  manifest: "./assets/manifest.json",                      // primary index — ships with each edition
-  manifestAll: dataUrl("assets/manifest-all.json"),        // bulk/shared
-  manifestLegacy: dataUrl("assets/manifest-legacy.json"),  // bulk/shared
-  taxonomy: "./taxonomy/uqbs-programs.json",
+  manifest: dataUrl("assets/manifest.json"),
+  manifestAll: dataUrl("assets/manifest-all.json"),
+  manifestLegacy: dataUrl("assets/manifest-legacy.json"),
+  taxonomy: dataUrl("taxonomy/uqbs-programs.json"),
   aol: "./taxonomy/aol-status.json",
-  loOverrides: "./taxonomy/lo-overrides.json",
-  teachingPeriods: "./taxonomy/teaching-periods.json",
+  loOverrides: dataUrl("taxonomy/lo-overrides.json"),
+  teachingPeriods: dataUrl("taxonomy/teaching-periods.json"),
 };
 
 async function loadManifest() {

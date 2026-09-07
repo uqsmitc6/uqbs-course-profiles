@@ -1,10 +1,14 @@
 name: UQ Course Profile Scrape
 
 on:
-  # Weekly schedule: every Sunday at 9pm AEST (11:00 UTC)
-  # Scheduled runs are UQBS-only (safe default — does not affect all-of-UQ data)
+  # Two weekly schedules (2026-09-07). Sunday 9pm AEST (11:00 UTC) scrapes the
+  # UQBS courses for the current semesters, about ten minutes. Saturday 9pm AEST
+  # (11:00 UTC Saturday) scrapes all of UQ for the two newest semester codes in the
+  # JacSON index ("--semester recent"), which is what ATLAS's all-of-UQ picker reads;
+  # it runs for a couple of hours. Neither needs a semester code edited in by hand.
   schedule:
     - cron: '0 11 * * 0'
+    - cron: '0 11 * * 6'
 
   # Manual trigger with options
   workflow_dispatch:
@@ -38,7 +42,7 @@ env:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 330
 
     steps:
       - name: Checkout repository
@@ -70,6 +74,10 @@ jobs:
           fi
           if [ "${{ inputs.all_uq }}" = "true" ]; then
             ARGS="$ARGS --all-uq"
+          fi
+          # The Saturday schedule is the all-of-UQ run for the two newest semesters.
+          if [ "${{ github.event.schedule }}" = "0 11 * * 6" ]; then
+            ARGS="--all-uq --semester recent"
           fi
           python scraper/scrape.py $ARGS
 

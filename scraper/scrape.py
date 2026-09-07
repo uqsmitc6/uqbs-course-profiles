@@ -1288,14 +1288,26 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     try:
-        main(
-            semester_filter=args.semester,
-            course_filter=args.courses,
-            max_courses=args.max,
-            all_uq=args.all_uq,
-            delay=args.delay,
-            allow_empty_index=args.allow_empty_index,
-        )
+        # --semester recent (2026-09-07): the two newest semester codes the JacSON
+        # index knows about, which is the current offering and the one being
+        # published for next semester. This is what the scheduled all-of-UQ run
+        # uses, so nobody has to edit a semester code into the workflow each
+        # semester. The scrape then runs once per code.
+        semesters = [args.semester]
+        if args.semester == "recent":
+            index = _fetch_repo_index()
+            codes = sorted({e["semester"] for entries in index.values() for e in entries if e.get("semester")})
+            semesters = codes[-2:]
+            log.info(f"--semester recent resolves to {', '.join(semesters)} (the two newest codes in the index)")
+        for sem in semesters:
+            main(
+                semester_filter=sem,
+                course_filter=args.courses,
+                max_courses=args.max,
+                all_uq=args.all_uq,
+                delay=args.delay,
+                allow_empty_index=args.allow_empty_index,
+            )
     except RepoIndexError as e:
         log.error(f"ERROR: {e} Exiting with status 2.")
         sys.exit(2)
