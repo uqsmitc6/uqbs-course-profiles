@@ -1,0 +1,180 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MATH3070-61984-7660",
+  "scraped_at": "2026-09-07T06:10:18.981348+00:00",
+  "course_code": "MATH3070",
+  "class_code": "61984",
+  "semester_code": "7660",
+  "full_course_code": "MATH3070-61984-7660",
+  "course_title": "Natural Resource Mathematics",
+  "study_period": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mathematics & Physics School",
+  "course_description": "The biggest challenge facing our planet is how to maintain and manage our natural systems such as fisheries, forestry and biodiversity in the face of habitat destruction, climate change, pollution and over harvesting. In this course you will learn how to apply deterministic differential and difference equation models to real world examples, and how to solve them using numerical methods. You will also learn how to quantify system uncertainties with the help of statistical and probabilistic methods. Students will be taught a range of methods that are employed in industry, research, consultancies and government to model complex natural resource problems. In the process, students will learn how certain fundamental mathematical concepts such as critical points, orthogonality, eigenvalues and singularity recur in different mathematical frameworks with different but, invariably, vitally important physical interpretations.\n\nMathematics is fundamental to managing the natural resources—such as fisheries, forests, water, and biodiversity—on which we depend. In this course, we will build mathematical models that are used to manage natural systems subjected to threats such as climate change, habitat destruction, pests, pollution and overexploitation. Students enrolling in this course will study systems of deterministic differential and difference equation models applied to real-world problems. Students will also learn some probability theory and statistical methods for model fitting, validation, and uncertainty quantification. Students will develop programming skills and also learn the entire modelling process; how to formulate, parameterise, code, visualise, test, interpret, and communicate mathematical and statistical models relevant to management and policy decisions. Emphasis will be placed on the appropriate choice of mathematical model for a given situation and the correct interpretation of results. These models allow us to investigate and forecast the response of systems to future conditions, of which there may be no prior experience.ﾠThe R programming language will be taught in this course to enhance learning and to enable students to analyse real-life mathematical problems. However, for assessments, students are welcome to program in anyﾠlanguage they choose, such as MATLAB or Python. Skills developed in this course are in high demand in government, industry and research sectors.\n\nIn the School of Mathematics and Physics we are committed to creating an inclusive and empowering learning environment for all students. We value and respect the diverse range of experiences our students bring to their education, and we believe that this diversity is crucial for fostering a rich culture of knowledge sharing and meaningful exploration. We hold both students and staff accountable for actively contributing to the establishment of a respectful and supportive learning environment.\n\nBullying, harassment, and discrimination in any form are strictly against our principles and against UQ Policy, and will not be tolerated. We have developed a suite of resources to assist you in recognising, reporting, and addressing such behaviour. If you have any concerns about your experience in this course, we encourage you to tell a member of the course teaching team, or alternatively contact an SMP Classroom Inclusivity Champion (see Blackboard for contact details). Our Inclusivity Champions are here to listen, to understand your concerns, and to explore potential actions that can be taken to resolve them. Your well-being and a positive learning atmosphere are of utmost importance to us.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "STAT1201",
+      "STAT1301",
+      "MATH1052",
+      "MATH1072",
+      "We recommend completing the following courses before enrolling in this one:",
+      "STAT2003",
+      "STAT2203",
+      "MATH2010",
+      "MATH2100"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MATH2070",
+      "MATH7130"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Matthew Holden",
+      "email": "m.holden1@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Matthew Holden",
+      "email": "m.holden1@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted on campus. Consult your personal timetable for times and locations.\nStudents are expected to attend these sessions in person unless they have a valid reason for being unable to attend (such as illness).\nImportant: if you are ill, do not attend any classes in person. Videos will be available to aid students in catching up when sick.\nLectures or practicals will be cancelled on public holidays. However, online material may be posted covering missed content if we are running behind.",
+  "course_aims": "Mathematics is fundamental to managing the natural resources—such as fisheries, forests, water and biodiversity—on which we depend. In this course we will build mathematical models that are used to manage natural systems subjected to threats such as climate change, habitat destruction, pests, pollution and overexploitation. Students enrolling in this course will use systems ofﾠdeterministic differential and difference equation models applied to real world problems and solve them using numerical methods. You will also learn some statistical methods for model development and parameter estimation.ﾠ You will develop programming skills and also learn the entire modelling process; how to formulate, parameterise, code, visualise, test, interpret, and communicate models relevant to management and policy decisions. Emphasis is placed on the appropriate choice of mathematical model for a given situation and the correct interpretation of results. These models allow us to investigate and forecast the response of systems to future conditions, of which there may be no prior experience.ﾠThe R programming language will be used throughout to enhance learning and to enable students to analyse real-life mathematical problems. Skills developed in this course are in high demand in government, industry and research sectors.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Have a broad understanding of mathematical approaches to modelling natural resource and environmental management challenges, involving tools ranging from well-established theory to current advances in statistics and modelling."
+    },
+    {
+      "number": "LO2.",
+      "description": "Choose, construct and analyse suitable mathematical and statistical models to describe dynamics of biological and environmental systems with sufficient adequacy to use for applied problems."
+    },
+    {
+      "number": "LO3.",
+      "description": "Clearly present complex mathematical ideas and results."
+    },
+    {
+      "number": "LO4.",
+      "description": "Use objective approaches to address diverse goals of natural resource management, such as establishing economically and ecologically acceptable harvesting regimes."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignment 1",
+      "weight": "20%",
+      "due_date": "17/09/2026 3:00 pm"
+    },
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Assignment 2",
+      "weight": "20%",
+      "due_date": "29/10/2026 3:00 pm"
+    },
+    {
+      "category": "Quiz",
+      "title": "Quizzes",
+      "weight": "60%",
+      "due_date": "19/08/2026 4:50 pm; 9/09/2026 4:50 pm; 23/09/2026 4:50 pm; 14/10/2026 4:50 pm",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment 1",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "17/09/2026 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "Problem set on topics covered in weeks 1 - 6 of the lecture. Read full task description Hide full task description",
+      "submission_guidelines": "Submit this assessment item through the link in Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nSolutions for assignments will be released 14 days after the assessment is due and as such, late submission after 14 days from the original time submission is due will not be possible, regardless of approved extensions.\nSee ADDITIONAL ASSESSMENT INFORMATION for further extension/deferral information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nSolutions for assignments will be released 14 days after the assessment is due and as such, late submission after 14 days from the original time submission is due will not be possible, regardless of approved extensions.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 2",
+      "mode": "Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "29/10/2026 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "Problem set on topics covered in weeks 6 - 12 of the lectures. Read full task description Hide full task description",
+      "submission_guidelines": "Submit this assessment item through the link in Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nSolutions for assignments will be released 14 days after the assessment is due and as such, late submission after 14 days from the original time submission is due will not be possible, regardless of approved extensions.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nSolutions for assignments will be released 14 days after the assessment is due and as such, late submission after 14 days from the original time submission is due will not be possible, regardless of approved extensions.\nSee ADDITIONAL ASSESSMENT INFORMATION for further extension/deferral information relating to this assessment item.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Quizzes",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "60%",
+      "due_date": "19/08/2026 4:50 pm 9/09/2026 4:50 pm 23/09/2026 4:50 pm 14/10/2026 4:50 pm",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "There are four quizzes in this course, each containing problems based on material covered in lectures, applied classes, and practical sessions. Quiz 1 will contain material from weeks 1 - 3. Quiz 2 will contain material from weeks 3 - 6. Quiz 3 will contain material from weeks 6 - 8. The final quiz is cumulative, and contains material from throughout the semester. Your lowest quiz score will be dropped to allow for illness or other exceptional circumstances, and your highest 3 quiz marks will be weighted equally. Read full task description Hide full task description",
+      "submission_guidelines": "The quizzes are 45 minutes and start at the beginning of Wednesday's applied class from 4:05pm to 4:50pm, and are submitted in person at the end of the applied class time, 4:50pm.\nDeferral or extension\nYou may be able to defer this exam .\nQuizzes are completed within the scheduled class time and turned in at the end of the applied class. You can miss one quiz without penalty, to allow for illness or other exceptional circumstances. Your highest 3 quiz marks (out of the 4) will be weighted equally.\nIf you are unable to attend more than one for a valid reason (e.g. illness or other exceptional circumstances), you may apply for a deferred assessment in accordance with University policy. If your deferral request is approved, one of the following options may apply:\nIf students miss two quizzes, they will have to do a 45-minute oral exam during the exam period; the student's overall quiz mark will be determined by weighting the oral exam and their remaining two quizzes equally. This assessment item will be audio-visually recorded and retained in accordance with University requirements.\nIf students miss three or more quizzes, they will have the opportunity to do a 45-minute oral exam as well as a 45-minute written quiz during the exam period. This assessment item will be audio-visually recorded and retained in accordance with University requirements.\nSee ADDITIONAL ASSESSMENT INFORMATION for deferred examination information relating to this assessment item.\nLate submission\nQuizzes are completed within the scheduled class time and turned in at the end of the applied class. There are no late submissions as quizzes are completed in class.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "late_submission": "Quizzes are completed within the scheduled class time and turned in at the end of the applied class. There are no late submissions as quizzes are completed in class.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (27 Jul - 01 Nov)",
+      "activity_type": "Practical",
+      "topic": "Case study practicals Problem-solving sessions based on lectures and/or discussion of questions pertaining to assignments. Will include computing lab problems. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (27 Jul - 01 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Lectures on mathematical modelling, optimisation and statistics as used to understand and manage natural resources. Learning outcomes: L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (27 Jul - 01 Nov)",
+      "activity_type": "Applied Class",
+      "topic": "Applied Classes Problem-solving sessions based on lectures and/or discussion of questions pertaining to assignments. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

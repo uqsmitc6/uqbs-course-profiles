@@ -1,0 +1,319 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/GEOG2001-61251-7660",
+  "scraped_at": "2026-09-07T06:03:22.495520+00:00",
+  "course_code": "GEOG2001",
+  "class_code": "61251",
+  "semester_code": "7660",
+  "full_course_code": "GEOG2001-61251-7660",
+  "course_title": "Digital Geographies: Geospatial Data & Analysis",
+  "study_period": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "The Environment School",
+  "course_description": "This course looks at geographical theories & models of human spatial behaviour. It will examine human activities in time & space, including case studies relating to health, residential location and journey to work, crime and anti-social behaviour, travel & transport, consumer behaviour & retailing. The course will explore both empirical material of spatial behaviour in these contexts and GIS and modelling approaches to effect better planning solutions (especially in relation to facility location).\n\nGEOG2001 explores how human behaviour interacts with space and place through the lens of geospatial technologies. The course begins by unpacking key societal challenges that demand spatial thinking — such as population mobility, housing and transport resource allocation, climate change impacts, and the spatial dynamics of human interactions. Through this lens, students develop both conceptual foundations and applied skills in digital geography, including the collection, processing, analysis, and visualisation of geospatial data. Emphasising real-world applications, the course equips students to engage critically and creatively with urban and environmental planning challenges in an increasingly data-driven world.\n\nGEOG2001 incorporates a field trip in which students are expected to collect primary geospatial data on various types using a range of data collection methods, such as survey, count, and GPS tracing. Students will actively participate in group-based pre-trip workshops, field work, and post-trip analytical sessions. The primary data, in combination with secondary data from various outlets, will be used as the core component of the course project.\n\nDetails of travel and accommodation will be provided in Week 1 during the introduction to the course. Costs for lodging and transport are to be finalised.\n\nParticipation in the field trip is expected in order to complete this assessment. If, under extenuating circumstances a student cannot attend they will need to contact the course coordinator for alternative arrangements to complete the assessment\n\nStudents can access ArcGIS Pro from UQ's IT Services website to install the software on their own machines outside of UQ. Students are required to log in and follow the prompts to download the program. The same program is used in SENVﾠlabs.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "GEOG1000",
+      "GEOM1000"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "GEOS2201"
+    ],
+    "restrictions": [
+      "Minimum enrolment quota of 15 students"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Jonathan Olsen",
+      "email": "j.olsen@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Jonathan Olsen",
+      "email": "j.olsen@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Jonathan Corcoran",
+      "email": "jj.corcoran@uq.edu.au"
+    },
+    {
+      "role": "Field trip coordinator",
+      "name": "Dr Jonathan Olsen",
+      "email": "j.olsen@uq.edu.au"
+    },
+    {
+      "role": "Field trip manager",
+      "name": "Dr Michele Elmes",
+      "email": "m.elmes@uq.edu.au"
+    },
+    {
+      "role": "Field trip tutor",
+      "name": "Dr Yibo Wang"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "GEOG2001 aims to introduce students to the importance of analysing human spatial behaviour in a number of applied settings. The course starts by exploring general principles of spatial behaviour, including a number of core geographical concepts. Then the course examines human spatial behaviour in the fields of journey to work, public transport, migration, residential location and social opportunities. Examples will be drawn from both the developed and developing world.ﾠ\nﾠ\nThe aims of GEOG2001 are to help students to develop knowledge and skills that will assist them to apply an understanding of aspects of human spatial behaviour to enhance their prospects of employment in fields in which geographers and plannersﾠwork, including urban and regional planning, market research, and locational analysis. These aims areﾠachieved through: providing students with an understanding of the theoretical basis for investigating human spatial behaviours at the macro and micro scales;ﾠdeveloping a familiarity with the methods of information collection and data analysis for analysing human spatial behaviour at the aggregate and individual levels of scale; developing an awareness of the implications of patterns of human spatial behaviour for urban and regional planning and the design of urban environments; and applying theoretical and methodological knowledge and skills into a real-world human mobility project.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Demonstrate reasonably comprehensive and well-founded knowledge of theory, methods and applications in the study of human spatial behaviour"
+    },
+    {
+      "number": "LO2.",
+      "description": "Understand how geographic information system (GIS) and models can contribute to a better understanding of spatial behaviour in the city and how these can be used in applied planning and policy situations"
+    },
+    {
+      "number": "LO3.",
+      "description": "Demonstrate an awareness of the issues of research design, approaches to information collection and the use of analytical tools in investigating the nature and characteristics of human spatial behaviour, and the enhancement of skills to undertake those processes."
+    },
+    {
+      "number": "LO4.",
+      "description": "Have an enhanced capability to both work independently and collaboratively in small groups."
+    },
+    {
+      "number": "LO5.",
+      "description": "Possess an enhanced capacity to synthesise and analyse knowledge and information, and to communicate the results of enquiry and analysis."
+    },
+    {
+      "number": "LO6.",
+      "description": "Display an enhanced awareness of social and civic responsibilities, particularly with respect to the needs of disadvantaged and disabled groups in society in living their daily lives."
+    },
+    {
+      "number": "LO7.",
+      "description": "Demonstrate an enhanced awareness of the social and civic responsibilities of urban planners and designers in understanding the intricacies of human spatial behaviour and the implications for those professions."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Practical Workbook",
+      "weight": "20%",
+      "due_date": "31/08/2026 4:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Notebook/ Logbook, Presentation, Project",
+      "title": "Human Spatial Behaviour Project Research & Data collection Plan Report",
+      "weight": "20%",
+      "due_date": "18/09/2026 12:00 pm",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Presentation",
+      "title": "Human Spatial Behaviour Project Data Collection and Presentation",
+      "weight": "30%",
+      "due_date": "1) Data Collection; 23/10/2026 4:00 pm; 2) Individual Presentation 23/10/2026 4:00 pm",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester Exam",
+      "weight": "30%",
+      "due_date": "End of Semester Exam Period; 7/11/2026 - 21/11/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Practical Workbook",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "31/08/2026 4:00 pm",
+      "task_description": "Complete all practical exercises set during Weeks 1 to 4 and submit as a compiled report. There is no word limit for the workbook. The workbook will be assessed on the basis of the precision with which the student completes and responses to each of the exercises and questions posed in each practical. Higher marks will be awarded to students who relate their results and interpretations to aspects of human spatial behaviour raised in the lectures and through their broader reading as well as the overall quality of outputs (such as mapping), general presentation and documentation of references. Use of Artificial Intelligence (AI) and Machine Translation (MT) Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission by Turnitin only by the due date and time. Refer to Blackboard for the submission link. No hard copy or assignment cover sheets are required. Submission via email is not accepted.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional Assessment Information section below for information relating to extension applications.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Complete all practical exercises set during Weeks 1 to 4 and submit as a compiled report. There is no word limit for the workbook. The workbook will be assessed on the basis of the precision with which the student completes and responses to each of the exercises and questions posed in each practical. Higher marks will be awarded to students who relate their results and interpretations to aspects of human spatial behaviour raised in the lectures and through their broader reading as well as the overall quality of outputs (such as mapping), general presentation and documentation of references. Use of Artificial Intelligence (AI) and Machine Translation (MT) Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Human Spatial Behaviour Project Research & Data collection Plan Report",
+      "mode": "Activity/ Performance, Oral",
+      "category": "Paper/ Report/ Annotation, Notebook/ Logbook, Presentation, Project",
+      "weight": "20%",
+      "due_date": "18/09/2026 12:00 pm",
+      "other_conditions": "Student specific, Peer assessment factor. See the conditions definitions",
+      "task_description": "Students will develop a research & data collection plan that outlines how they will collect, analyse and interpret primary data from the field trip to describe and study various human spatial activities. Utilising conceptual knowledge (e.g., journey-to-work), spatial skills (e.g., survey) and practical tools (e.g., GIS). Students will work in small groups, designing data collection tools, and conducting fieldwork in the field. Although the students can work in groups to develop the data collection tools and collect data, the reports must be products individually. Research & data collection plan report : (20% weighting) Students will work in groups over four pre-field trip workshops (weeks 6 & 7) to develop their data collection tools and procedures. This will form the basis of the individual research & data collection plans, students should produce these individually where there will be similarities in the data collection tools and methods, distinctions will be apparent in the background, analysis plans and dissemination sections. The use of AI and MT: This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission via Blackboard only by the due date and time. Refer to Blackboard for the submission details. No hard copy or assignment cover sheets are required. Submission via email is not accepted.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional Assessment Information section below for information relating to extension applications.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (the assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date.\nFor example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Students will develop a research & data collection plan that outlines how they will collect, analyse and interpret primary data from the field trip to describe and study various human spatial activities. Utilising conceptual knowledge (e.g., journey-to-work), spatial skills (e.g., survey) and practical tools (e.g., GIS). Students will work in small groups, designing data collection tools, and conducting fieldwork in the field. Although the students can work in groups to develop the data collection tools and collect data, the reports must be products individually. Research & data collection plan report : (20% weighting) Students will work in groups over four pre-field trip workshops (weeks 6 & 7) to develop their data collection tools and procedures. This will form the basis of the individual research & data collection plans, students should produce these individually where there will be similarities in the data collection tools and methods, distinctions will be apparent in the background, analysis plans and dissemination sections. The use of AI and MT: This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThe use of AI and MT:\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Human Spatial Behaviour Project Data Collection and Presentation",
+      "mode": "Oral",
+      "category": "Presentation",
+      "weight": "30%",
+      "due_date": "1) Data Collection 23/10/2026 4:00 pm 2) Individual Presentation 23/10/2026 4:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "task_description": "Participation in the field trip is expected in order to complete this assessment. If, under extenuating circumstances a student cannot attend they will need to contact the course coordinator for alternative arrangements to complete the assessment. Students will need to submit 2 separate assessments 1.Data collection: (10% weighting) Students will work in groups to collect data in Noosa based on the research & data collection plans developed in groups. The data will be submitted individually via blackboard after the data collection. All students must ensure they have access to the group data immediately following the field trip to use for analysis in the subsequent workshop and their research presentations. 2.Individual Presentation: (20% weighting) All students will present in person and submit a copy of their presentation via Blackboard. Further submission details will be announced via Blackboard An individual research presentation highlighting various human spatial behaviour outcomes from fieldwork is due in Week 12. Students are expected to combine primary data from the fieldtrip and secondary data, such as the National Visitors Survey data, Census data, and other open data. Higher marks will be awarded for in-depth spatial knowledge and analysis, high-quality data visualisation (charts and maps), effective communication and critical thinking on planning and policy implications based on project findings. The presentation is a maximum length of 5-minutes and can be created using various multimedia platforms/styles, as well as a traditional oral presentation with PowerPoint. Students can be creative in the presentation style. All presentations will be given in-person (either by a multimedia output being played in a session, or by giving an oral presentation). Marks will be awarded by content and communication, not media type (video or PowerPoint). Presentations will occur during the scheduled Lecture and Practical time The presentations are scheduled for Week 12 (4hrs during the scheduled Lecture and Practical class), each student will be asked to provide a recording of their presentation in any multimedia style. These will be shown to all students at the session. Both the data collection and the Presentation must then be submitted via Blackboard on the 23rd October 4pm. The use of AI and MT: This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission via Blackboard only by the due date and time. Refer to Blackboard for the submission details. No hard copy or assignment cover sheets are required. Submission via email is not accepted.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional Assessment Information section below for information relating to extension applications.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Participation in the field trip is expected in order to complete this assessment. If, under extenuating circumstances a student cannot attend they will need to contact the course coordinator for alternative arrangements to complete the assessment. Students will need to submit 2 separate assessments 1.Data collection: (10% weighting) Students will work in groups to collect data in Noosa based on the research & data collection plans developed in groups. The data will be submitted individually via blackboard after the data collection. All students must ensure they have access to the group data immediately following the field trip to use for analysis in the subsequent workshop and their research presentations. 2.Individual Presentation: (20% weighting) All students will present in person and submit a copy of their presentation via Blackboard. Further submission details will be announced via Blackboard An individual research presentation highlighting various human spatial behaviour outcomes from fieldwork is due in Week 12. Students are expected to combine primary data from the fieldtrip and secondary data, such as the National Visitors Survey data, Census data, and other open data. Higher marks will be awarded for in-depth spatial knowledge and analysis, high-quality data visualisation (charts and maps), effective communication and critical thinking on planning and policy implications based on project findings. The presentation is a maximum length of 5-minutes and can be created using various multimedia platforms/styles, as well as a traditional oral presentation with PowerPoint. Students can be creative in the presentation style. All presentations will be given in-person (either by a multimedia output being played in a session, or by giving an oral presentation). Marks will be awarded by content and communication, not media type (video or PowerPoint). Presentations will occur during the scheduled Lecture and Practical time The presentations are scheduled for Week 12 (4hrs during the scheduled Lecture and Practical class), each student will be asked to provide a recording of their presentation in any multimedia style. These will be shown to all students at the session. Both the data collection and the Presentation must then be submitted via Blackboard on the 23rd October 4pm. The use of AI and MT: This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThe use of AI and MT:\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End of Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "30%",
+      "due_date": "End of Semester Exam Period 7/11/2026 - 21/11/2026",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "task_description": "On campus in person invigilated exam held during the central exam period. This assessment component is a 90-minute, open-book exam during the semester central examination period. In line with the course goals, its role will be to assess your knowledge of the content in GEOG2001 and to tap certain of your process capacities in analysing and integrating materials. The final exam consists of short-answer questions, each with multiple subsections. More details about the final exam will be available on Blackboard as the end of the semester approaches. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Open book examination - any written or printed material is permitted; material may be annotated Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "On campus in person invigilated exam held during the central exam period. This assessment component is a 90-minute, open-book exam during the semester central examination period. In line with the course goals, its role will be to assess your knowledge of the content in GEOG2001 and to tap certain of your process capacities in analysing and integrating materials. The final exam consists of short-answer questions, each with multiple subsections. More details about the final exam will be available on Blackboard as the end of the semester approaches. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Mid Sem break",
+      "activity_type": "Not Timetabled",
+      "topic": "Mid Semester Break"
+    },
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Lecture",
+      "topic": "Geospatial Knowledge and Society Course introduction Establishing a fundamental understanding of geospatial knowledge's role in societal development"
+    },
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Practical",
+      "topic": "Basic Mapping in GIS Recapping fundamental cartography knowledge Refreshing basic GIS operations (geospatial data and basic mapping techniques)"
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Lecture",
+      "topic": "Geographies of Social Interactions Social interactions in space Criminology and spatial sciences Tracking and mapping social interactions"
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Practical",
+      "topic": "Mapping Social Infrastructure & Crime Data Identify spatial distribution of significant interactions, such as crime incidents Explore the significant built environment factors correlating with such interactions analysis and mapping of spatial data on crime incidents and facility locations in GIS"
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Lecture",
+      "topic": "Geography of Everyday Mobility Time budget and time use Time geography Journey-to-work concepts"
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Practical",
+      "topic": "Mapping Journey-To-Work Journey-to-work data sources and interpretation Mapping journey-to-work flows in GIS"
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Lecture",
+      "topic": "Geographies of Human-Nature Interactions Understanding the spatial interplays of human and natural environments Anthroposcene and climate change The role of geospatial data and analysis"
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Practical",
+      "topic": "Mapping Mobility Traces Tracking individual spatial activities and trajectories Mapping in GIS and interpreting patterns"
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Lecture",
+      "topic": "Geographies of Tourism & Brisbane 2032 Tourist mobility styles Key concepts in tourism geography Geospatial tourism data"
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Practical",
+      "topic": "Mapping Tourism Data Introduction of the Tourism Research Australia (TRA) database Analysing and mapping tourism data in GIS"
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Lecture",
+      "topic": "Lecture: Principles of Research Design. Learning research design principles Understand data collection methods Understanding of data analysis tools"
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Practical",
+      "topic": "Workshop I: Developing a research & data collection plan Group-based activities of designing research plan Identify relevant survey tools for the fieldtrip"
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Workshop",
+      "topic": "Workshop II: Finalising research design Learning various data collection techinques (manual counting, geotagging, GPS tracking) Group-based discussions on data collection practices for the fieldtrip"
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Practical",
+      "topic": "Workshop II: Finalising data collection tools and simulation Finalising research plan. Ensuring all data collection tools are developed. Simulation of data collection plan."
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Fieldwork",
+      "topic": "Fieldtrip Fieldtrip takes place between Friday afternoon (12PM, 18-September) and Sunday afternoon (5PM, 20-September) Students will collect two sets of primary data on human spatial behaviours in four groups."
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Workshop",
+      "topic": "Workshop III: Fieldtrip Data Processing and analysis Primary data cleaning and processing in groups Visualising data using GIS and other visualisation tools"
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Workshop",
+      "topic": "Workshop IV: Fieldtrip Data Visualisation and Spatial Analysis Enhancing analysis using secondary data sources for built environment, sociodemographic characteristics, etc. Producing mapping and spatial analytical output in groups"
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Lecture",
+      "topic": "Geographies of Artificial Intelligence An introduction of GeoAI concepts and knowledge Case studying various (existing and conceptual) GeoAI applications"
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Practical",
+      "topic": "Workshop: Fieldtrip Result Presentation Finalisation Preparing materials for the group-based presentation on Week 12"
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Workshop",
+      "topic": "Student presentation showcase Student presentations on fieldtrip results, highlighting significant human spatial behaviour patterns and their implications"
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Lecture",
+      "topic": "Careers in Geoscience and Course Conclusion Career options and perspectives in geoscience-related fields Conclude the course and review materials on the final exam"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . You'll also need to be aware of the following policies and procedures while completing this course: Student Travel Procedure Learning activities"
+}

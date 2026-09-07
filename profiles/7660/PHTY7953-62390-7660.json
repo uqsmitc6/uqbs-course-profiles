@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PHTY7953-62390-7660",
-  "scraped_at": "2026-06-04T02:48:35.690063+00:00",
+  "scraped_at": "2026-09-07T06:20:36.559108+00:00",
   "course_code": "PHTY7953",
   "class_code": "62390",
   "semester_code": "7660",
@@ -13,7 +13,7 @@
   "units": "2",
   "administrative_campus": "St Lucia",
   "coordinating_unit": "Health & Rehab Sci School",
-  "course_description": "Exercise-based rehabilitation, strength and conditioning in musculoskeletal, sports and exercise physiotherapy",
+  "course_description": "Exercise-based rehabilitation, strength and conditioning in musculoskeletal, sports and exercise physiotherapy\n\nIn PHTY7953 students will advance their knowledge and capabilities in the application of exercise prescription, progression and programming in the management of injury and pathology in musculoskeletal, sports and exercise physiotherapy practice. Students will develop their understanding of exercise-induced adaptations and the use of exercise in the treatment and prevention of musculoskeletal, occupational and sports injuries/conditions and chronic disease. Students will develop skills to design, implement and progress exercise programs at individual and population levels with understanding of pathological and adaptive timeframes and use appropriate outcome measures to guide exercise prescription and progression.",
   "requirements": {
     "restrictions": [
       "MPhty students only"
@@ -24,6 +24,11 @@
       "role": "Course coordinator",
       "name": "Mr Zac Southern",
       "email": "z.southern@uq.edu.au"
+    },
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Michelle Smith",
+      "email": "m.smith5@uq.edu.au"
     }
   ],
   "course_staff": [
@@ -34,44 +39,28 @@
     },
     {
       "role": "Lecturer",
-      "name": "Emeritus Professor Bill Vicenzino"
-    },
-    {
-      "role": "Lecturer",
-      "name": "Professor Sandy Brauer",
-      "email": "s.brauer@uq.edu.au"
-    },
-    {
-      "role": "Lecturer",
-      "name": "Professor Paul Hodges",
-      "email": "p.hodges@uq.edu.au"
-    },
-    {
-      "role": "Lecturer",
-      "name": "Associate Professor Sjaan Gomersall",
-      "email": "s.gomersall1@uq.edu.au"
-    },
-    {
-      "role": "Lecturer",
-      "name": "Associate Professor Anna Hatton",
-      "email": "a.hatton1@uq.edu.au"
-    },
-    {
-      "role": "Lecturer",
-      "name": "Associate Professor Shelley Keating",
-      "email": "s.keating@uq.edu.au"
+      "name": "Associate Professor Michelle Smith",
+      "email": "m.smith5@uq.edu.au"
     },
     {
       "role": "Guest lecturer",
-      "name": "Dr Peter Lawrenson"
+      "name": "Mr Andrew McGough"
     },
     {
       "role": "Guest lecturer",
-      "name": "Mr Kerry Staples"
+      "name": "Mr Jamie Youngson"
     },
     {
       "role": "Guest lecturer",
-      "name": "Dr Michael Drew"
+      "name": "Ms Zoe Russell"
+    },
+    {
+      "role": "Guest lecturer",
+      "name": "Ms Melissa Crunkhorn"
+    },
+    {
+      "role": "Guest lecturer",
+      "name": "Ms Jacinta Carroll"
     },
     {
       "role": "Guest lecturer",
@@ -79,20 +68,23 @@
     },
     {
       "role": "Guest lecturer",
-      "name": "Miss Loretta O'Sullivan"
+      "name": "Dr Andrew Hislop"
     },
     {
       "role": "Guest lecturer",
-      "name": "Ms Lori Forner"
+      "name": "Associate Professor Shelley Keating"
     },
     {
       "role": "Guest lecturer",
-      "name": "Rosemary Grant"
+      "name": "Dr Melanie Plinsinga"
     },
     {
-      "role": "Program director",
-      "name": "Associate Professor Michelle Smith",
-      "email": "m.smith5@uq.edu.au"
+      "role": "Guest lecturer",
+      "name": "Mr Lindsay Bull"
+    },
+    {
+      "role": "Guest lecturer",
+      "name": "Mr Brent Zelinski"
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
@@ -100,48 +92,50 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Understand exercise induced adaptations and mal-adaptations."
+      "description": "Understand the acute and long‑term physiological adaptations and maladaptations to different types of exercise across the neuromuscular, sensorimotor, cardiorespiratory, and metabolic systems."
     },
     {
       "number": "LO2.",
-      "description": "Demonstrated an advance understanding of the use of exercise in the treatment and prevention of musculoskeletal, occupational and sports injuries and conditions, and chronic disease."
+      "description": "Design individualised, safe and progressive evidence‑based exercise programs for diverse populations with musculoskeletal, occupational, sports, and chronic health conditions."
     },
     {
       "number": "LO3.",
-      "description": "Demonstrate the ability to develop, implement and progress effective exercise programs at individual and population levels with understanding of pathological and adaptive timeframes."
+      "description": "Select appropriate assessment, monitoring, periodisation, workload management and criteria‑driven progression to optimise health outcomes at individual and group levels."
     },
     {
       "number": "LO4.",
-      "description": "Demonstrate the ability to develop and implement appropriate assessments and collection of outcome measure data to guide exercise prescription and progression."
+      "description": "Apply advanced clinical reasoning and behaviour‑change strategies to enhance engagement with exercise programs and support sustainable physical activity participation."
+    },
+    {
+      "number": "LO5.",
+      "description": "Evaluate and critically reflect on the effectiveness of exercise‑based rehabilitation to improve client outcomes and refine clinical practice."
     }
   ],
   "assessment_summary": [
     {
-      "category": "Essay/ Critique",
-      "title": "Module 1 Written Assignment",
-      "weight": "15%",
-      "due_date": "21/08/2026 2:00 pm"
-    },
-    {
-      "category": "Essay/ Critique",
-      "title": "Module 2 Written Assignment",
-      "weight": "15%",
-      "due_date": "11/09/2026 2:00 pm"
+      "category": "Examination",
+      "title": "In-semester Written Exam",
+      "weight": "25%",
+      "due_date": "23/09/2026 8:00 am",
+      "conditions": [
+        "Online"
+      ]
     },
     {
       "category": "Essay/ Critique",
       "title": "Exercise Program Written Assignment",
-      "weight": "40%",
-      "due_date": "9/10/2026 2:00 pm",
+      "weight": "35% Must Pass",
+      "due_date": "9/11/2026 2:00 pm",
       "conditions": [
-        "Hurdle"
+        "Hurdle",
+        "Online"
       ]
     },
     {
       "category": "Examination",
       "title": "End of Semester Viva Voce",
-      "weight": "30%",
-      "due_date": "End of Semester Exam Period; 7/11/2026 - 21/11/2026",
+      "weight": "40% Must Pass",
+      "due_date": "18/11/2026 - 20/11/2026",
       "conditions": [
         "Hurdle",
         "Identity Verified",
@@ -152,57 +146,51 @@
   "assessment_details": [
     {
       "id": "assessment-detail-0",
-      "title": "Module 1 Written Assignment",
+      "title": "In-semester Written Exam",
       "mode": "Written",
-      "category": "Essay/ Critique",
-      "weight": "15%",
-      "due_date": "21/08/2026 2:00 pm",
-      "task_description": "This assignment involves a review of the literature to build an evidence informed approach to your practice. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
-      "submission_guidelines": "Submission via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nExtensions can be requested for this assessment item. Please apply for an extension request and provide evidence of circumstance as soon as it becomes evident that an extension is needed, but no later than the assessment item submission date. Further information regarding what constitutes an acceptable reason for an extension and how to apply for an assessment extensions can be found at: Applying for an extension - my.UQ - University of Queensland .\nLate submission\nLate submission of assessment items will attract a penalty of 10% of the mark per day late or, for work graded on a 1-7 scale, a deduction of one grade per day (including weekends and public holidays), unless a formal extension has been organised prior to the due date.",
-      "deferral_or_extension": "You may be able to apply for an extension .",
-      "late_submission": "Late submission of assessment items will attract a penalty of 10% of the mark per day late or, for work graded on a 1-7 scale, a deduction of one grade per day (including weekends and public holidays), unless a formal extension has been organised prior to the due date.",
-      "ai_statement": "This assignment involves a review of the literature to build an evidence informed approach to your practice. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
-    },
-    {
-      "id": "assessment-detail-1",
-      "title": "Module 2 Written Assignment",
-      "mode": "Written",
-      "category": "Essay/ Critique",
-      "weight": "15%",
-      "due_date": "11/09/2026 2:00 pm",
-      "task_description": "This assignment involves a review of the literature to build an evidence informed approach to your practice. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
-      "submission_guidelines": "Submission via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nExtensions can be requested for this assessment item. Please apply for an extension request and provide evidence of circumstance as soon as it becomes evident that an extension is needed, but no later than the assessment item submission date. Further information regarding what constitutes an acceptable reason for an extension and how to apply for an assessment extensions can be found at: Applying for an extension - my.UQ - University of Queensland .\nLate submission\nLate submission of assessment items will attract a penalty of 10% of the mark per day late or, for work graded on a 1-7 scale, a deduction of one grade per day (including weekends and public holidays), unless a formal extension has been organised prior to the due date.",
-      "deferral_or_extension": "You may be able to apply for an extension .",
-      "late_submission": "Late submission of assessment items will attract a penalty of 10% of the mark per day late or, for work graded on a 1-7 scale, a deduction of one grade per day (including weekends and public holidays), unless a formal extension has been organised prior to the due date.",
-      "ai_statement": "This assignment involves a review of the literature to build an evidence informed approach to your practice. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
-    },
-    {
-      "id": "assessment-detail-2",
-      "title": "Exercise Program Written Assignment",
-      "mode": "Written",
-      "category": "Essay/ Critique",
-      "weight": "40%",
-      "due_date": "9/10/2026 2:00 pm",
-      "task_description": "You will be required to design an exercise program for a patient / client returning from an injury to either sport or work. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
-      "submission_guidelines": "Submission via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nExtensions can be requested for this assessment item. Please apply for an extension request and provide evidence of circumstance as soon as it becomes evident that an extension is needed, but no later than the assessment item submission date. Further information regarding what constitutes an acceptable reason for an extension and how to apply for an assessment extensions can be found at: Applying for an extension - my.UQ - University of Queensland .\nLate submission\nLate submission of assessment items will attract a penalty of 10% of the mark per day late or, for work graded on a 1-7 scale, a deduction of one grade per day (including weekends and public holidays), unless a formal extension has been organised prior to the due date.",
-      "deferral_or_extension": "You may be able to apply for an extension .",
-      "late_submission": "Late submission of assessment items will attract a penalty of 10% of the mark per day late or, for work graded on a 1-7 scale, a deduction of one grade per day (including weekends and public holidays), unless a formal extension has been organised prior to the due date.",
-      "ai_statement": "You will be required to design an exercise program for a patient / client returning from an injury to either sport or work. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "category": "Examination",
+      "weight": "25%",
+      "due_date": "23/09/2026 8:00 am",
+      "learning_outcomes_assessed": "L01, L03",
+      "task_description": "This online written examination assesses learning from modules 1, 2 and 3. This assessment task is to be completed online. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time no planning time minutes Duration 90 minutes Calculator options (Online) Casio FX82 series only or UQ approved calculator Open/closed book Open book examination - any written or printed material is permitted; material may be annotated Exam platform Inspera Invigilation Not invigilated",
+      "submission_guidelines": "Online examination via Inspera\nDeferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This online written examination assesses learning from modules 1, 2 and 3. This assessment task is to be completed online. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
       "special_indicators": [
-        "Hurdle"
+        "Online"
       ]
     },
     {
-      "id": "assessment-detail-3",
+      "id": "assessment-detail-1",
+      "title": "Exercise Program Written Assignment",
+      "mode": "Written",
+      "category": "Essay/ Critique",
+      "weight": "35% Must Pass",
+      "due_date": "9/11/2026 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Students are required to design an exercise program for a patient / client returning from an injury to either sport or work. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submission via UQ Learn.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "ai_statement": "Students are required to design an exercise program for a patient / client returning from an injury to either sport or work. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
       "title": "End of Semester Viva Voce",
       "mode": "Oral",
       "category": "Examination",
-      "weight": "30%",
-      "due_date": "End of Semester Exam Period 7/11/2026 - 21/11/2026",
-      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "weight": "40% Must Pass",
+      "due_date": "18/11/2026 - 20/11/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
       "task_description": "You will participate in an online oral examination (Viva Voce), where you will give a short presentation, respond to questions, and provide reflections on your PHTY7953 Exercise Program Written Assignment. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Assessment Procedure (95) When a student is required to complete an oral or practical assessment item worth 20% or more, the performance will be recorded and retained per Appendix 1. Read full task description Hide full task description",
-      "exam_details": "Planning time no planning time minutes Duration 15 minutes Calculator options No calculators permitted Open/closed book Closed book examination - specified written materials permitted Materials Specific materials only (pre-prepared presentation) Exam platform Other Invigilation Invigilated by Zoom",
-      "submission_guidelines": "The viva voce will be conducted online using videoconferencing software.\nDeferral or extension\nYou may be able to defer this exam .",
+      "exam_details": "Planning time 10 minutes Duration 15 minutes Calculator options (Online) Casio FX82 series only or UQ approved calculator Open/closed book Closed book examination - no written materials permitted Exam platform Other Invigilation Invigilated by Zoom",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",
       "ai_statement": "You will participate in an online oral examination (Viva Voce), where you will give a short presentation, respond to questions, and provide reflections on your PHTY7953 Exercise Program Written Assignment. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Assessment Procedure (95) When a student is required to complete an oral or practical assessment item worth 20% or more, the performance will be recorded and retained per Appendix 1. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
       "special_indicators": [
@@ -217,14 +205,28 @@
   },
   "learning_activities": [
     {
-      "learning_period": "Multiple weeks",
-      "activity_type": "Tutorial",
-      "topic": "Online drop-in sessions"
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (27 Jul - 01 Nov)",
+      "activity_type": "Lecture",
+      "topic": "PHTY7953 Online Webcasts This weekly series of online online webcasts are designed for independent, self-paced learning. Each week includes 2-4 webcasts totalling 1-1.5 hour to complete. The webcasts provide information to enhance student's learning about exercise adaptations, prescription and programming for a range of populations. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
     },
     {
-      "learning_period": "Multiple weeks From Week 1 To Week 12 (27 Jul - 25 Oct)",
-      "activity_type": "Lecture",
-      "topic": "PHTY7953 Webcasts Each week you will have access to 3-4 webcasts, totaling 1.5 to 2 hours."
+      "learning_period": "Multiple weeks From Week 3 To Week 13 (10 Aug - 01 Nov)",
+      "activity_type": "Tutorial",
+      "topic": "Online drop-in sessions Online drop in sessions are scheduled during the final week or week following each of the five modules in the course. The drop in sessions are an opportunity for students and ask questions of course staff for clarification of content or assessment. The drop in sessions are scheduled at the following times: Module 1: Thursday August 13th at 2pm QLD time (Semester week 3) Module 2: Thursday September 3rd at 2pm QLD time (Semester week 6) Module 3: Thursday September 17th at 2pm QLD time (Semester week 8) Module 4: Thursday October 8th at 2pm QLD time (Semester week 10) Module 5: Thursday October 29th at 2pm QLD time (Semester week 13) Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
     }
   ],
   "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: Resources for Current Students Learning activities"

@@ -1,0 +1,330 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/GEOM7001-62235-7660",
+  "scraped_at": "2026-09-07T06:03:44.556404+00:00",
+  "course_code": "GEOM7001",
+  "class_code": "62235",
+  "semester_code": "7660",
+  "full_course_code": "GEOM7001-62235-7660",
+  "course_title": "Earth Observation: Advanced Image Processing & Modelling",
+  "study_period": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "External",
+  "attendance_mode": "Online",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "The Environment School",
+  "course_description": "Remote sensing or earth observation, is an important tool for monitoring and modelling the condition and dynamics of terrestrial, aquatic and atmospheric environments. The information extracted from images may be used in many ways, as image or thematic maps, directly in decision making, as estimates of biophysical variables or integrated with other spatial information systems for further analysis and display. This information can be collected from local to global scales for examining changes in the habitat of endangered fauna or monitoring continental scale deforestation and global scale oceanic and atmospheric conditions.\n\nThis course is a logical progression from the remote sensing concepts and skills introduced in GEOM2000/7000. GEOM3001/7001 emphasises digital image processing for analysis of remotely sensed imagery, including airborne and satellite multi-spectral, hyper-spectral and synthetic aperture radar data. Practical sessions will involve a progression of practicals in the computer laboratory using the ENVI (Environment for Visualising Images) software package. Concepts and skills acquired in these sessions will be applied in the individual student remote sensing project that can be designed to suit your area of interest.\n\nExternal courses are delivered entirely online, and students must participate online for learning and assessment.\n\nNote: students may be required to sit exams at a UQ campus or an approved off-campus exam centre. Please refer to the Assessment tab details for information on exam attendance requirements.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "GEOM2000"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "GEOM3001"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr William Woodgate",
+      "email": "w.woodgate@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr William Woodgate",
+      "email": "w.woodgate@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Stuart Phinn",
+      "email": "s.phinn@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Chris Roelfsema",
+      "email": "c.roelfsema@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Muhammad Hafizt",
+      "email": "m.hafizt@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Avik Nandy",
+      "email": "a.nandy@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mrs Chhaysoneath Von",
+      "email": "c.von@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Ms Florina Richard",
+      "email": "f.richard@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Jodie Zhou",
+      "email": "jodie.zhou@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Ms Maria Angelica Prieto Arenas",
+      "email": "m.prietoarenas@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Ms Monique Greco",
+      "email": "m.greco@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course builds upon the fundamentals taught in GEOM7000 and will develop more advanced EO analytic skills and knowledge. What you’ll learn :\n\n1. Advanced analytical techniques for processing and interpreting EO data.\n\n2. Hands-on experience with big data EO platforms like Open Data Cube.\n\n3. Techniques to calculate biophysical attributes (e.g., biomass) by combining remotely sensed data with ground data and/or modelling algorithms.\n\n4. Advanced theoretical and practical skills for analysing new sources of remote sensing data (e.g., spaceborne LiDAR).\n\n5. How to design, plan and execute a remote sensing project with detailed guidance.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Apply the fundamental concepts of remote sensing, including spatial, spectral, radiometric, and temporal resolutions, and their applications in various geographical and professional environments."
+    },
+    {
+      "number": "LO2.",
+      "description": "Demonstrate proficiency in fundamental image processing operations for extracting information from remotely sensed data, including pre-processing, corrections, enhancements, classification, biophysical modelling, and accuracy assessment."
+    },
+    {
+      "number": "LO3.",
+      "description": "Design, plan, and execute a complete remote sensing project, from data acquisition to analysis and presentation, integrating field data and non-image data within GIS or image processing environments."
+    },
+    {
+      "number": "LO4.",
+      "description": "Evaluate the appropriateness of various remotely sensed data sets and ancillary data for specific applications."
+    },
+    {
+      "number": "LO5.",
+      "description": "Apply big data Earth Observation analytic platforms for modern remote sensing applications."
+    },
+    {
+      "number": "LO6.",
+      "description": "Analyse advanced remote sensing data types, including hyperspectral, LiDAR, and RADAR images, as well as conduct multi-temporal analyses."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Project",
+      "title": "Remote Sensing Project Proposal",
+      "weight": "25%",
+      "due_date": "4/09/2026 2:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Notebook/ Logbook, Project",
+      "title": "Remote Sensing Project Report",
+      "weight": "35%",
+      "due_date": "30/10/2026 2:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester Exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 7/11/2026 - 21/11/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Remote Sensing Project Proposal",
+      "mode": "Written",
+      "category": "Project",
+      "weight": "25%",
+      "due_date": "4/09/2026 2:00 pm",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "task_description": "You will work individually to design an image processing project based on the material covered in weeks 1-5 of the course. This project involves selecting a topic, using GenAI to generate initial literature content, critically evaluating and refining that output, and outlining an image processing sequence (including geometric and radiometric corrections, spectral and spatial enhancements, image classification, and accuracy assessment). Note that some corrections may already be applied to the imagery available for use in this project, so please outline these in enough detail to demonstrate your understanding of their purpose and necessity. You may choose an application area of personal interest (land-use, agriculture, vegetation, geomorphology, soils, geology, urban form and condition, or another topic). If you do not have an interest in a particular topic, a land-cover classification project may be suitable. While the choice of problem is flexible, the project's focus must remain on remote sensing and image processing (as opposed to GIS or ecological modelling, for example). The project will outline an image processing sequence of remote sensing data for an area of your choice. The area extent is suggested to be up to ~25 km² (with a large degree of freedom, noting that smaller may be better for targeted insights) to provide an informed analysis. You will need to select a suitable mapping or modelling application to apply. Please speak with the teaching team for recommendations. GenAI use is mandatory for initial literature generation but must adhere to course restrictions: all outputs (if used for the final proposal submission) must be verified and disclosed. See the supplied Proposal Brief and Proposal Template and follow these for the submission. Use of Artificial Intelligence (AI) and Machine Translation (MT) Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission by Turnitin only by the due date and time. Refer to Blackboard for the submission link. No hard copy or assignment cover sheets are required. Submission via email is not accepted.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional Assessment Information section below for information relating to extension applications.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (the assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date.\nFor example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "You will work individually to design an image processing project based on the material covered in weeks 1-5 of the course. This project involves selecting a topic, using GenAI to generate initial literature content, critically evaluating and refining that output, and outlining an image processing sequence (including geometric and radiometric corrections, spectral and spatial enhancements, image classification, and accuracy assessment). Note that some corrections may already be applied to the imagery available for use in this project, so please outline these in enough detail to demonstrate your understanding of their purpose and necessity. You may choose an application area of personal interest (land-use, agriculture, vegetation, geomorphology, soils, geology, urban form and condition, or another topic). If you do not have an interest in a particular topic, a land-cover classification project may be suitable. While the choice of problem is flexible, the project's focus must remain on remote sensing and image processing (as opposed to GIS or ecological modelling, for example). The project will outline an image processing sequence of remote sensing data for an area of your choice. The area extent is suggested to be up to ~25 km² (with a large degree of freedom, noting that smaller may be better for targeted insights) to provide an informed analysis. You will need to select a suitable mapping or modelling application to apply. Please speak with the teaching team for recommendations. GenAI use is mandatory for initial literature generation but must adhere to course restrictions: all outputs (if used for the final proposal submission) must be verified and disclosed. See the supplied Proposal Brief and Proposal Template and follow these for the submission. Use of Artificial Intelligence (AI) and Machine Translation (MT) Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Remote Sensing Project Report",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation, Notebook/ Logbook, Project",
+      "weight": "35%",
+      "due_date": "30/10/2026 2:00 pm",
+      "task_description": "After submitting your Assessment task 1: Project Proposal, you will utilise the theoretical and practicals skills taught throughout the semester (together with any feedback received on your Task 1 submission) to complete this Project Report as Assessment 2 – your image processing project. Your project will be communicated as a report, building on the content of your Proposal - see Report Template (on Blackboard) for a breakdown of sections and detailed requirements. You may directly use material from your Proposal - this is the intention. Report Structure and Requirements Your report must contain the sections below, in order. The word guides indicate the expected depth of each section and are guides, not hard limits; the overall limit of 3500 ±20% words (excluding references, appendices, the data processing log, and the GenAI statement) is the binding constraint. The Report Template (on Blackboard) demonstrates how to lay out each section and provides worked guidance for the elements listed here. Title page and contents: Short informative title (what, where, when, which data); one-sentence research-question subtitle; table of contents. Abstract ( ~300 words): Concise summary of the project and main findings (a structured summary-paragraph format is recommended). Introduction and background (~1000 words): Importance of the topic; why remote sensing is appropriate; literature review of prior studies (data, methods, level of success); research gap(s) and future directions; synthesis linking to your research question. May be carried forward and extended from the Proposal. A comparison table of prior studies is encouraged. Aims and objectives (~150 words): Primary and secondary objectives addressing your research question, plus a brief outline of the main steps you followed. Data and methodology (incl. study site, datasets, methods flowchart, error assessment) (~950 words) Results and Discussion (~1100 words): Meaningful figures and maps that answer the research question (not thumbnails of every image); findings discussed against prior work; agreement, surprises; strengths and limitations of the methods and results. This is the most heavily weighted part of the report. Conclusions and future work (~400 words): Summary of the work and its implications; explicit answers to your aims/research question; recommendations and future work. Appendix, data processing log, GenAI statement, references (Not counted in word count): Supporting material referenced in the body only; a shared link to your data processing log or notebook(s); a GenAI disclosure statement; and a reference list of at least 10 peer-reviewed references (GEOM3001) or at least 15 (GEOM7001) in a consistent style (APA 7th recommended). Key Instructions · Consult the supplied Report Template (on BB) for detailed instructions. · Consult the detailed Assessment 1 & 2 Guidance document (on BB) with more information. Use of Artificial Intelligence (AI) and Machine Translation (MT) Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Online submission by Turnitin only by the due date and time. Refer to Blackboard for the submission link. No hard copy or assignment cover sheets are required. Submission via email is not accepted.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional Assessment Information section below for information relating to extension applications.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (the assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date.\nFor example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "After submitting your Assessment task 1: Project Proposal, you will utilise the theoretical and practicals skills taught throughout the semester (together with any feedback received on your Task 1 submission) to complete this Project Report as Assessment 2 – your image processing project. Your project will be communicated as a report, building on the content of your Proposal - see Report Template (on Blackboard) for a breakdown of sections and detailed requirements. You may directly use material from your Proposal - this is the intention. Report Structure and Requirements Your report must contain the sections below, in order. The word guides indicate the expected depth of each section and are guides, not hard limits; the overall limit of 3500 ±20% words (excluding references, appendices, the data processing log, and the GenAI statement) is the binding constraint. The Report Template (on Blackboard) demonstrates how to lay out each section and provides worked guidance for the elements listed here. Title page and contents: Short informative title (what, where, when, which data); one-sentence research-question subtitle; table of contents. Abstract ( ~300 words): Concise summary of the project and main findings (a structured summary-paragraph format is recommended). Introduction and background (~1000 words): Importance of the topic; why remote sensing is appropriate; literature review of prior studies (data, methods, level of success); research gap(s) and future directions; synthesis linking to your research question. May be carried forward and extended from the Proposal. A comparison table of prior studies is encouraged. Aims and objectives (~150 words): Primary and secondary objectives addressing your research question, plus a brief outline of the main steps you followed. Data and methodology (incl. study site, datasets, methods flowchart, error assessment) (~950 words) Results and Discussion (~1100 words): Meaningful figures and maps that answer the research question (not thumbnails of every image); findings discussed against prior work; agreement, surprises; strengths and limitations of the methods and results. This is the most heavily weighted part of the report. Conclusions and future work (~400 words): Summary of the work and its implications; explicit answers to your aims/research question; recommendations and future work. Appendix, data processing log, GenAI statement, references (Not counted in word count): Supporting material referenced in the body only; a shared link to your data processing log or notebook(s); a GenAI disclosure statement; and a reference list of at least 10 peer-reviewed references (GEOM3001) or at least 15 (GEOM7001) in a consistent style (APA 7th recommended). Key Instructions · Consult the supplied Report Template (on BB) for detailed instructions. · Consult the detailed Assessment 1 & 2 Guidance document (on BB) with more information. Use of Artificial Intelligence (AI) and Machine Translation (MT) Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "End of Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 7/11/2026 - 21/11/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "task_description": "This exam requires attendance on campus, or at an approved off-campus exam centre. You must be able to attend one of these venues. Please refer to the Off-Campus exams information page for further information. Please note a digital exam is not available for this assessment. This task is completed under central examination conditions and schedules. It is the only individually verified, closed-book component of the course, and it assesses your knowledge and abilities to reason and apply Earth-observation image-processing workflows without reference to notes, software, or AI tools. The exam builds directly on the lectures and practicals and on the knowledge and skills you built and applied in your project assessment. Where the project asks you to design and execute a workflow over a semester, the exam asks you to demonstrate the underlying understanding under time constraints - to recognise sound and flawed practice, and to justify your own choices. The focus of the exam: • Workflow critique and applied design. The major section, built on a single scenario in two parts. In the first part you critique a plausible but flawed end-to-end workflow: you identify its most significant methodological problems, explain why each is a problem, and propose corrections. In the second part you design and defend your own approach to the same problem (i.e. data, processing sequence, and accuracy assessment) justifying your choices against the stated constraints and the obvious alternatives. Across the paper you will be expected to: • apply the fundamental concepts of remote sensing, including spatial, spectral, radiometric and temporal resolution, to specific problems; • evaluate image-processing operations (e.g. pre-processing, corrections, enhancements, classification, biophysical modelling, and accuracy assessment) and recognise where they are misapplied; • judge the appropriateness of different remotely sensed and ancillary datasets for a stated application; • reason about advanced data types and multi-temporal analysis; and • explain the strengths, limitations, and sources of error in the data and methods you discuss. Grading criteria are based on correct reasoning and justification, not length or restatement of the question. Indicative marks are shown beside each question on the paper. An example paper will be made available, and exam expectations will be discussed toward the end of semester. GEOM3001 and GEOM7001. Both cohorts sit a single paper of the same total mark value over the same duration. Some questions carry an additional or extended part marked “GEOM7001 only” reflecting the more advanced standard expected at postgraduate level; where GEOM7001 students answer an extended part, the corresponding common part is reduced so that the section totals are the same for both cohorts. Use of Artificial Intelligence (AI) and Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee the Additional Assessment Information section below for information relating to extension applications.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This exam requires attendance on campus, or at an approved off-campus exam centre. You must be able to attend one of these venues. Please refer to the Off-Campus exams information page for further information. Please note a digital exam is not available for this assessment. This task is completed under central examination conditions and schedules. It is the only individually verified, closed-book component of the course, and it assesses your knowledge and abilities to reason and apply Earth-observation image-processing workflows without reference to notes, software, or AI tools. The exam builds directly on the lectures and practicals and on the knowledge and skills you built and applied in your project assessment. Where the project asks you to design and execute a workflow over a semester, the exam asks you to demonstrate the underlying understanding under time constraints - to recognise sound and flawed practice, and to justify your own choices. The focus of the exam: • Workflow critique and applied design. The major section, built on a single scenario in two parts. In the first part you critique a plausible but flawed end-to-end workflow: you identify its most significant methodological problems, explain why each is a problem, and propose corrections. In the second part you design and defend your own approach to the same problem (i.e. data, processing sequence, and accuracy assessment) justifying your choices against the stated constraints and the obvious alternatives. Across the paper you will be expected to: • apply the fundamental concepts of remote sensing, including spatial, spectral, radiometric and temporal resolution, to specific problems; • evaluate image-processing operations (e.g. pre-processing, corrections, enhancements, classification, biophysical modelling, and accuracy assessment) and recognise where they are misapplied; • judge the appropriateness of different remotely sensed and ancillary datasets for a stated application; • reason about advanced data types and multi-temporal analysis; and • explain the strengths, limitations, and sources of error in the data and methods you discuss. Grading criteria are based on correct reasoning and justification, not length or restatement of the question. Indicative marks are shown beside each question on the paper. An example paper will be made available, and exam expectations will be discussed toward the end of semester. GEOM3001 and GEOM7001. Both cohorts sit a single paper of the same total mark value over the same duration. Some questions carry an additional or extended part marked “GEOM7001 only” reflecting the more advanced standard expected at postgraduate level; where GEOM7001 students answer an extended part, the corresponding common part is reduced so that the section totals are the same for both cohorts. Use of Artificial Intelligence (AI) and Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis task is completed under central examination conditions and schedules. It is the only individually verified, closed-book component of the course, and it assesses your knowledge and abilities to reason and apply Earth-observation image-processing workflows without reference to notes, software, or AI tools.\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (27 Jul - 02 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 1: Course introduction and overview Course introduction and overview"
+    },
+    {
+      "learning_period": "Week 1 (27 Jul - 02 Aug)",
+      "activity_type": "Practical",
+      "topic": "Practical 1: code based computing for geospatial data. Part 1: basic python and Sandbox/Planetary PC. intro to data cubes (Digital Earth Aus P1) code based computing for geospatial data: intro to data cubes (Digital Earth Aus P1)"
+    },
+    {
+      "learning_period": "Week 2 (03 Aug - 09 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 2: Digital earths & multi-temporal data analysis Digital earths & multi-temporal data analysis"
+    },
+    {
+      "learning_period": "Week 2 (03 Aug - 09 Aug)",
+      "activity_type": "Practical",
+      "topic": "Practical 2: code based computing for geospatial data: DEA Part 2 - multitemporal data code based computing for geospatial data: DEA P2 - multitemporal"
+    },
+    {
+      "learning_period": "Week 3 (10 Aug - 16 Aug)",
+      "activity_type": "Practical",
+      "topic": "Practical 3: code based computing for geospatial data: DEA Part 3 code based computing for geospatial data: DEA P3 - reading in external data"
+    },
+    {
+      "learning_period": "Week 4 (17 Aug - 23 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 3: Open and Online (big) Data Science for Earth Observation (Part 1), Drone processing workflows (Part 2) Open and Online (big) Data Science for Earth Observation (Part 1), Drone processing workflows (Part 2)"
+    },
+    {
+      "learning_period": "Week 4 (17 Aug - 23 Aug)",
+      "activity_type": "Practical",
+      "topic": "Practical 4: Introduction to ENVI with new image types"
+    },
+    {
+      "learning_period": "Week 5 (24 Aug - 30 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 4: Image data pre-processing (Geometric, Radiometric, atmospheric corrections) Pre-processing (Geometric, Radiometric, atmospheric corrections)"
+    },
+    {
+      "learning_period": "Week 5 (24 Aug - 30 Aug)",
+      "activity_type": "Practical",
+      "topic": "Practical 5: Pre-processing Operations (ENVI)"
+    },
+    {
+      "learning_period": "Week 6 (31 Aug - 06 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 5: Thematic information extraction (across platforms) Thematic information extraction (across platforms)"
+    },
+    {
+      "learning_period": "Week 6 (31 Aug - 06 Sep)",
+      "activity_type": "Practical",
+      "topic": "Practical 6: Supervised and unsupervised image classifications (ENVI)"
+    },
+    {
+      "learning_period": "Week 7 (07 Sep - 13 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 6: Biophysical information extraction & error and accuracy assessment Biophysical information extraction & error and accuracy assessment"
+    },
+    {
+      "learning_period": "Week 7 (07 Sep - 13 Sep)",
+      "activity_type": "Practical",
+      "topic": "Practical 7: Accuracy assessment with reference thematic map and data points (ENVI)"
+    },
+    {
+      "learning_period": "Week 8 (14 Sep - 20 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 7: LiDAR image processing & radiative transfer model applications LiDAR image processing & radiative transfer model applications"
+    },
+    {
+      "learning_period": "Week 8 (14 Sep - 20 Sep)",
+      "activity_type": "Practical",
+      "topic": "Practical 8: code based computing for geospatial data - other data and tools (Part 1)"
+    },
+    {
+      "learning_period": "Week 9 (21 Sep - 27 Sep)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 8: Aquatic remote sensing Aquatic remote sensing"
+    },
+    {
+      "learning_period": "Week 9 (21 Sep - 27 Sep)",
+      "activity_type": "Practical",
+      "topic": "Practical 9: code based computing for geospatial data & project support"
+    },
+    {
+      "learning_period": "Week 10 (05 Oct - 11 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 9: Project review discussion Project review discussion"
+    },
+    {
+      "learning_period": "Week 10 (05 Oct - 11 Oct)",
+      "activity_type": "Practical",
+      "topic": "Practical 10: project support"
+    },
+    {
+      "learning_period": "Week 11 (12 Oct - 18 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 10: Drones for Earth Observation"
+    },
+    {
+      "learning_period": "Week 11 (12 Oct - 18 Oct)",
+      "activity_type": "Practical",
+      "topic": "Practical 11: project support"
+    },
+    {
+      "learning_period": "Week 12 (19 Oct - 25 Oct)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 11: Radar image processing and applications Radar image processing and applications"
+    },
+    {
+      "learning_period": "Week 12 (19 Oct - 25 Oct)",
+      "activity_type": "Practical",
+      "topic": "Practical 12: project support"
+    },
+    {
+      "learning_period": "Week 13 (26 Oct - 01 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 12: Class discussion: job ready skills and the future trajectory of space and spatial Class discussion: job ready skills and the future trajectory of space and spatial"
+    },
+    {
+      "learning_period": "Week 13 (26 Oct - 01 Nov)",
+      "activity_type": "Practical",
+      "topic": "Practical 12: project support"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

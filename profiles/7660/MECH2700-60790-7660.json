@@ -1,0 +1,199 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MECH2700-60790-7660",
+  "scraped_at": "2026-09-07T06:11:51.196461+00:00",
+  "course_code": "MECH2700",
+  "class_code": "60790",
+  "semester_code": "7660",
+  "full_course_code": "MECH2700-60790-7660",
+  "course_title": "Computational Engineering & Data Analysis",
+  "study_period": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "This course provides an introduction to the development and application of numerical methods to resolve common challenges faced in mechanical engineering. It builds an important foundation of knowledge in programming, numerical algorithms, and simulation techniques that is essential for modern day engineers. The course starts with numerical approaches for interpolation, differentiation and quadrature before introducing direct and iterative approaches to solve linear systems. Solution techniques for ordinary differential equations (ODEs) and non-linear equations are formulated and techniques for data fitting and optimisation (inc. least-squares approaches) are developed and applied to engineering problems. The final module of the course formulates computational techniques to solve partial differential equations (parabolic, hyperbolic, and elliptic) with numerous applications involving heat transfer, convection-diffusion, and wave propagation. Completion of this course will provide students with the necessary skills to develop computational approaches to address a wide range of engineering problems.\n\nThe planned course structure will follow the outline below with any modifications required announced in Blackboard:\n\nWeek 1 - Course introduction. Problem solving; A numerical approach. Floating-point numbers and error.\n\nWeek 2 - Interpolation (High-order polynomials, Lagrange basis functions, Chebyshev points). Good programming practices.\n\nWeek 3 - Numerical differentiation (Finite difference formulas and associated errors). *Note impact of Ekka Show Public Holiday this week*\n\nWeek 4 - Numerical integration (Newton-Cotes formulas-Trapezoidal rule, Simpson's 1/3 rule, etc., Composite quadrature).\n\nWeek 5 - Direct solutions to linear systems (Gauss-Jordan elimination, LU decomposition).\n\nWeek 6 - Iterative solutions to linear systems (Jacobi, Gauss-Seidel, Relaxation methods, Least-Squares approach for over-constrained systems).\n\nWeek 7 - Numerical solutions to ODEs (Euler's, Modified Euler's, Runge-Kutta, Runge-Kutta-Fehlberg, Systems of Equations).\n\nWeek 8 - Solving non-linear equations (Bisection, Fixed-Point Iteration, Gradient-based methods).\n\nWeek 9 - Data fitting and optimisation (Least-squares, Chebyshev polynomials, Golden search, Bracketing).\n\nWeek 10 - Intro to numerical solutions of PDEs and Parabolic PDEs (Classifications, finite difference schemes, diffusion problems).\n\nWeek 11 - Parabolic PDEs conti. and Hyperbolic PDEs (Boundary conditions, stability of parabolic PDE solutions, Wave equation).\n\nWeek 12 - Nonlinear Hyperbolic PDEs and Elliptic PDEs (Euler equations, inviscid Burgers equation, shocks, boundary value problems, solution approaches).\n\nWeek 13 - Semester review and feedback.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ENGG1001",
+      "CSSE1001",
+      "MATH1051",
+      "MATH1071",
+      "We recommend completing the following courses before enrolling in this one:",
+      "MATH1052",
+      "MATH1072"
+    ]
+  },
+  "course_staff": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Travis Mitchell",
+      "email": "t.mitchell@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Travis Mitchell",
+      "email": "t.mitchell@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Nick Gibbons",
+      "email": "n.gibbons@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Vincent Wheatley",
+      "email": "v.wheatley@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nContent delivery in MECH2700 is via a 2 hour\nLecture (LEC)\n. The 3rd hour of content per week is a\nWorkshop (WKS)\nwhere we work through the complete engineering problem solving process using numerical methods. You will put your learning into practice each week with a two hour\nApplied Class (APP)\n. You are only required to attend one APP class per week. Please note that the APP sessions start in Week 2, with some requiring students to \"bring your own device (BYOD)\" and others hosted with computer facilities. If you do not own a portable device suitable for running Python code, please be sure to sign-on to an APP class with computer facilities (this will be discussed in Week 1).\nﾠ",
+  "course_aims": "This course aims to continue the development of a student's capability in the mathematical formulation of engineering systems and problems, the application of computers to the numerical analysis of these mathematical models, and the interpretation and reporting of that analysis.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Formulate mathematical models of systems and problems encountered in engineering practice and theory."
+    },
+    {
+      "number": "LO2.",
+      "description": "Construct mathematical models from approximate descriptions of systems and problems encountered in engineering practice and theory."
+    },
+    {
+      "number": "LO3.",
+      "description": "Select or develop numerical methods to analyse the behaviour of mathematical models for engineering systems and problems."
+    },
+    {
+      "number": "LO4.",
+      "description": "Select or develop numerical methods to effectively analyse engineering data."
+    },
+    {
+      "number": "LO5.",
+      "description": "Compose computer programs to implement numerical methods and understand basic software development, testing and maintenance practices in a Python environment."
+    },
+    {
+      "number": "LO6.",
+      "description": "Interpret the results of a numerical analysis in terms of the behaviour of the physical system or problem that is being studied."
+    },
+    {
+      "number": "LO7.",
+      "description": "Evaluate the performance of a numerical analysis in terms of the theoretical accuracy, convergence, sensitivity to inputs and computational efficiency."
+    },
+    {
+      "number": "LO8.",
+      "description": "Formally and succinctly report on the results of a numerical analysis in written and graphical format."
+    },
+    {
+      "number": "LO9.",
+      "description": "Understand the language and notation used in the numerical analysis literature and be able to apply new approaches to study mathematical models."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "title": "Weekly Applied Class Theory and Computer Exercises",
+      "weight": "10%",
+      "due_date": "Due weekly at 4pm Friday from Week 2 through to Week 13."
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Assignment 1",
+      "weight": "15%",
+      "due_date": "11/09/2026 4:00 pm"
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Assignment 2",
+      "weight": "15%",
+      "due_date": "30/10/2026 4:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "End of Semester Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 7/11/2026 - 21/11/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Weekly Applied Class Theory and Computer Exercises",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Tutorial/ Problem Set",
+      "weight": "10%",
+      "due_date": "Due weekly at 4pm Friday from Week 2 through to Week 13.",
+      "task_description": "Short weekly theoretical and/or coding tasks to apply the analysis techniques discussed in lectures to engineering problems. Each weekly task is due at 4pm Friday of the given week. Please refer to Blackboard for a detailed marking criteria. This assessment item provides early and continued feedback during semester so that students can check in on how they are progressing prior to Census Date and isolate any particular modules that they may need to give more focus. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. This can be done, for example, with a comment at the top of submitted code. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submission for the programming task will be through Gradescope, where an autograder will be applied to give feedback. As such, strict naming conventions for files and functions are specified in each Exercise sheet.\nThe theoretical task will be submitted through a multi-choice/short-form quiz on Blackboard.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nTo accommodate unforeseen circumstances such as illness, the best 10 of 12 submissions are used for this assessment task. To allow timely feedback, no extensions or deferral will be accepted. Students who are unable to submit the minimum 10 due to exceptional circumstances should contact the School.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nThe best 10 of 12 submissions are used for this assessment task and timely feedback needs to be provided to students, as such, late submissions will not be accepted.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Short weekly theoretical and/or coding tasks to apply the analysis techniques discussed in lectures to engineering problems. Each weekly task is due at 4pm Friday of the given week. Please refer to Blackboard for a detailed marking criteria. This assessment item provides early and continued feedback during semester so that students can check in on how they are progressing prior to Census Date and isolate any particular modules that they may need to give more focus. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. This can be done, for example, with a comment at the top of submitted code. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. This can be done, for example, with a comment at the top of submitted code.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 1",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "15%",
+      "due_date": "11/09/2026 4:00 pm",
+      "task_description": "An exercise in modelling and programming. The assignment requirements will be described on Blackboard. This is an individual assessment task, however, you are welcome to ask questions in your Applied Class (APP) session. Please refer to Blackboard for a detailed marking criteria. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Your assignment should be submitted as a single PDF document plus a set of Python source code files that can be run for verification. The source code should include a README file that describes how your code can be executed to produce your submitted results. Links for submission of your PDF and code will be provided on BlackBoard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nThese must be requested through standard procedure within 24 hours of the due date and time. If it is received more than 24 hours after the deadline, it will be considered late, which requires further justification and evidence.\nExtensions are limited to 14 days as feedback will be provided within 21 days. This is to allow students to incorporate feedback in their approach to Assignment 2.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nStandard 10% per day for 7 days.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "An exercise in modelling and programming. The assignment requirements will be described on Blackboard. This is an individual assessment task, however, you are welcome to ask questions in your Applied Class (APP) session. Please refer to Blackboard for a detailed marking criteria. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 2",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "15%",
+      "due_date": "30/10/2026 4:00 pm",
+      "task_description": "A larger exercise in modelling and programming. The assignment requirements will be described on Blackboard. You are allowed to complete this assessment in pairs (or individually). If working in pairs, only one submission per group is required. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. Please refer to Blackboard for a detailed marking criteria. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Your assignment should be submitted as a single PDF document plus a set of Python source code files that can be run for verification. The source code should include a README file that describes how your code can be executed to produce your submitted results. A link for submission will be provided on BlackBoard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nThese must be requested through standard procedure within 24 hours of the due date and time. If it is received more than 24 hours after the deadline, it will be considered late, which requires further justification and evidence.\nExtensions are limited to 14 days as feedback will be provided within 21 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nStandard 10% per day for 7 days.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "A larger exercise in modelling and programming. The assignment requirements will be described on Blackboard. You are allowed to complete this assessment in pairs (or individually). If working in pairs, only one submission per group is required. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. Please refer to Blackboard for a detailed marking criteria. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "End of Semester Examination",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 7/11/2026 - 21/11/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (27 Jul - 01 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Lectures - Modelling and Numerical Methods This Learning Activity will cover the following topics: Week 1 - Course introduction. Problem solving; A numerical approach. Floating-point numbers and error. Week 2 - Interpolation (High-order polynomials, Lagrange basis functions, Chebyshev points). Good programming practices. Week 3 - Numerical differentiation (Finite difference formulas and associated errors). Week 4 - Numerical integration (Newton-Cotes formulas-Trapezoidal rule, Simpson's 1/3 rule, etc., Composite quadrature). Week 5 - Direct solutions to linear systems (Gauss-Jordan elimination, LU decomposition). Week 6 - Iterative solutions to linear systems (Jacobi, Gauss-Seidel, Relaxation methods, Least-Squares approach for over-constrained systems). Week 7 - Numerical solutions to ODEs (Euler's, Modified Euler's, Runge-Kutta, Runge-Kutta-Fehlberg, Systems of Equations). Week 8 - Solving non-linear equations (Bisection, Fixed-Point Iteration, Gradient-based methods). Week 9 - Data fitting and optimisation (Least-squares, Chebyshev polynomials, Golden search, Bracketing). Week 10 - Intro to numerical solutions of PDEs and Parabolic PDEs (Classifications, finite difference schemes, diffusion problems). Week 11 - Parabolic PDEs conti. and Hyperbolic PDEs (Boundary conditions, stability of parabolic PDE solutions, Wave equation). Week 12 - Nonlinear Hyperbolic PDEs and Elliptic PDEs (Euler equations, inviscid Burgers equation, shocks, boundary value problems, solution approaches). Week 13 - Semester review and feedback."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (27 Jul - 01 Nov)",
+      "activity_type": "Workshop",
+      "topic": "Workshop - Weekly interactive/guided problem-solving Weekly workshops that begin with a physical engineering problem and work through the entire problem-solving process from defining the problem, to coding up the solution and interpreting the results, getting input from the class at every stage."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 13 (03 Aug - 01 Nov)",
+      "activity_type": "Applied Class",
+      "topic": "Applied Class - Weekly individual problem-solving To achieve the learning outcomes of the course, you will need to work through weekly problem sets to solve engineering related problems using numerical methods. This involves theory problems as well as writing and executing code, and interpreting the results. To do this at a time when applied class assistance is available, you will need to attend one of the WKS sessions that will be held each week from Wk 2."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

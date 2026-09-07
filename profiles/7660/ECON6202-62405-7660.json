@@ -1,0 +1,312 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ECON6202-62405-7660",
+  "scraped_at": "2026-09-07T05:54:51.169147+00:00",
+  "course_code": "ECON6202",
+  "class_code": "62405",
+  "semester_code": "7660",
+  "full_course_code": "ECON6202-62405-7660",
+  "course_title": "Research Applications in Macroeconomics",
+  "study_period": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Economics School",
+  "course_description": "This is an advanced course in applied macroeconomic research intended for Honours students. The course focuses on the practical skills needed to perform research projects in macroeconomics. The course covers topics such as academic review of literature, data collection, replicability, model selection, application of empirical or quantitative tools, and an effective communication of academic research in macroeconomics.\n\nThis is an applied course in macroeconomic research for Honours students. The course is divided into two parts. Part 1 covers quantitative tools for macroeconomic research. It begins with an overview of the differences between empirical and structural approaches and the types of research and policy questions each can answer. Students then learn to calibrate heterogeneous-agent models and use them to analyse macroeconomic policies, applying these tools to their own thesis. Part 2 focuses on research communication: writing and presenting macroeconomic research to academic and non-academic audiences.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ECON6102"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ECON6040"
+    ],
+    "restrictions": [
+      "Enrolment restricted to students in the BEcon(Hons), BAdvFinEcon(Hons), BA(Hons - Economics)"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Mr Jose Alvarado Onell",
+      "email": "j.alvarado@uq.edu.au"
+    },
+    {
+      "role": "School enquiries",
+      "name": "School Enquiries, School of Economics",
+      "email": "enquiries@economics.uq.edu.au",
+      "notes": "All enquiries regarding student and academic administration (i.e. non-course content information, e.g., class allocation, timetables, extension to assessment due date, etc.) should be directed to enquiries@economics.uq.edu.au . Enquiries relating specifically to course content should be directed to the Course Coordinator/Lecturer."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Mr Jose Alvarado Onell"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nStudents should refer to the timetable prior to the commencement of classes to ensure that they have the most up to date information, as from time to time late room changes may occur.\nPublic Holidays: Wed 12 August (Royal Queensland Show), Mon 5 October (King's Birthday).\nMid-Semester Break: 28 September - 2 October. Semester 2 classes recommence Tue 6 October.",
+  "course_aims": "The aim of this course is to provide student with knowledge and practical research experience for macroeconomic research. These include, among others, developing of communications skills, empirical skills, and quantitative tools necessary to perform high quality research in macroeconomics.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Critically assess gaps in macroeconomic literature."
+    },
+    {
+      "number": "LO2.",
+      "description": "Design research questions and research projects to fill the gaps."
+    },
+    {
+      "number": "LO3.",
+      "description": "Apply empirical and/or quantitative tools to advance research projects."
+    },
+    {
+      "number": "LO4.",
+      "description": "Effective communication of research findings in academic presentation."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Empirical Assignment",
+      "weight": "20%",
+      "due_date": "11/09/2026 5:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Creative Production/ Exhibition, Presentation",
+      "title": "Presentations (average of 3)",
+      "weight": "30%",
+      "due_date": "Presentation 1 14/09/2026 2:00 pm; Presentation 2 21/09/2026 2:00 pm; Presentation 3 12/10/2026 2:00 pm",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Assignment II (writing)",
+      "weight": "20%",
+      "due_date": "9/10/2026 5:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Presentation",
+      "title": "Final Research Presentation",
+      "weight": "30%",
+      "due_date": "19/10/2026 2:00 pm",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Empirical Assignment",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "11/09/2026 5:00 pm",
+      "learning_outcomes_assessed": "L01, L03, L04",
+      "task_description": "Students apply the tools covered in lectures in a two-part exercise. Part A (common to all students): calibrate a version of the heterogeneous-agent model from the provided starter code, source and document real data to construct the calibration targets, and compute a macroeconomic policy counterfactual (for example, a tax or transfer reform) with distributional analysis. Part B (thesis-linked): extend the model toward the student’s own thesis question, or confront the model with data from the student’s own research, whether structural or empirical in approach. The submission includes the slides for the first presentation. Results are presented and defended in class in Week 8 (Presentation 1). To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission. Read full task description Hide full task description",
+      "submission_guidelines": "Submission via Blackboard by the due date and time. In addition, students should email their codes for the computational part to the lecturer.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Presentations (average of 3)",
+      "mode": "Oral",
+      "category": "Creative Production/ Exhibition, Presentation",
+      "weight": "30%",
+      "due_date": "Presentation 1 14/09/2026 2:00 pm Presentation 2 21/09/2026 2:00 pm Presentation 3 12/10/2026 2:00 pm",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L04",
+      "task_description": "Students deliver three presentations during the semester, in class. The first (Week 8) presents the results of the Empirical Assignment in academic seminar format, using the slides submitted with the assignment; no new analysis is expected. The second (Week 9) is a critical discussion of a published paper related to the student’s thesis field, also in academic format. The third (Week 11) is a dry run of the final presentation, addressed to a non-academic audience: part of the course’s training in communicating the same research to different audiences. Any presentation materials are submitted by 2pm on the day of the class. Students are expected to speak to their slides rather than read from a script or notes; delivery is part of the assessment criteria for each presentation. Each presentation is followed by questions and feedback, in which students are expected to demonstrate comprehension of the work they present. Read full task description Hide full task description",
+      "submission_guidelines": "Presentations are delivered in class. Presentation materials are submitted by 2pm on the day of the class.\nDeferral or extension\nYou may be able to apply for an extension .\nDiscretionary extensions are not available for this task.\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment II (writing)",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "9/10/2026 5:00 pm",
+      "learning_outcomes_assessed": "L01, L04",
+      "task_description": "Students submit the abstract, the introduction, and the conclusion sections of their own thesis, applying the writing techniques discussed in lectures, together with a brief exploratory outlook (approximately one page) proposing a potential extension or application of their thesis topic using the quantitative tools developed in the course: what tool could be used, what question it could answer, and why that question is relevant. The outlook is a research pitch, not an implementation; no modelling or estimation work is expected. This is the same material students present and defend at the dry run and the final presentation session. Read full task description Hide full task description",
+      "submission_guidelines": "Submission via Blackboard by the due date and time.\nDeferral or extension\nYou may be able to apply for an extension .\nDiscretionary extensions are not available for this task.\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Research Presentation",
+      "mode": "Oral",
+      "category": "Presentation",
+      "weight": "30%",
+      "due_date": "19/10/2026 2:00 pm",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "Each student presents their thesis research at the final presentation session, to an audience that may include invited guests from academia, industry and the public sector. Presentations are approximately 10 minutes, followed by questions, and should be accessible to a general audience without specialist knowledge of the topic. Further details are advised in class. The presentation should include and demonstrate: Clear articulation of the research question, methodology, and key findings using language accessible to non-specialists Demonstration of critical understanding of the research context and significance Application of presentation techniques taught in the workshop sessions Evaluation Students will be evaluated on factual accuracy, clarity of communication, organisation and structure, time management, effective use of visual aids, delivery without reading from a script, ability to effectively communicate their research to the audience, and more generally the demonstration of presentation skills learned throughout the semester. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nDiscretionary extensions are not available for this task.\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (27 Jul - 02 Aug)",
+      "activity_type": "Lecture",
+      "topic": "Why models? Structural and empirical approaches to macroeconomic research Why we need structural models: model-based counterfactuals and econometric estimates (VARs, local projections) might answer different research and policy questions, and knowing which tool fits which question is the first research skill. We examine the limits of representative-agent macroeconomics, the growing role of micro data in macro, and how the field evolved toward heterogeneous-agent modelling, closing with a live demonstration of the computational toolkit developed across the course. A curated self-study module on local projections, SVARs and factor models is posted this week as a supported pathway for empirically inclined students. Learning outcomes: L01, L03",
+      "learning_outcomes": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (03 Aug - 09 Aug)",
+      "activity_type": "Workshop",
+      "topic": "The workhorse: from benchmark model to calibrated research tool An overview of the heterogeneous-agent workhorse, followed by its use as a research tool with the complete starter code provided: extending the benchmark with a policy block (for example, taxes and transfers) and calibrating it to Australian wealth and income moments. Learning outcomes: L01, L03",
+      "learning_outcomes": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (10 Aug - 16 Aug)",
+      "activity_type": "Workshop",
+      "topic": "Counterfactuals and transition dynamics Computing macroeconomic policy counterfactuals in the calibrated model, with a tax reform as the running example. We compare steady states across policy regimes, then use the course code to compute and interpret the transition path between them: who gains and who loses along the way, and why long-run comparisons alone can mislead. These are the core exercises through which a structural model answers a research or policy question. Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (17 Aug - 23 Aug)",
+      "activity_type": "Workshop",
+      "topic": "Distributional and welfare analysis; model selection in applications Distributional and welfare analysis of macroeconomic policy change: Lorenz curves, Gini coefficients, top wealth and income shares, and identifying winners and losers across the distribution. Model selection, meaning the choice of question-driven extensions of the workhorse model, is demonstrated through applications across macroeconomic policy domains (monetary policy and fiscal policy), including how model counterfactuals and reduced-form evidence complement one another. The Empirical Assignment brief is released in this session; its common Part A builds directly on the hands-on exercises of Weeks 2 to 4. Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (24 Aug - 30 Aug)",
+      "activity_type": "Workshop",
+      "topic": "Research Communication Skills Research communication session delivered with the UQ Academic Skills team, jointly with ECON6201, covering presentation skills (structuring an academic talk, designing effective slides, and what to highlight when presenting the same research to an academic audience versus non-academic audiences) and academic writing skills for the thesis. Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (31 Aug - 06 Sep)",
+      "activity_type": "Workshop",
+      "topic": "Thesis application session Each student maps the course toolkit to their own thesis, whether structural or empirical in approach, following a published dual track: structural students specify a model variant and experiment, while empirical students choose one of three model-as-lens pathways. Students produce a one-page research-design map and workshop it with structured peer feedback. Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (07 Sep - 13 Sep)",
+      "activity_type": "Seminar",
+      "topic": "Writing in Macroeconomics Review of foundational papers in macroeconomics as models of effective academic writing: structure, framing a contribution, motivating a research question from a gap in the literature, and the craft of abstracts, introductions and conclusions. Learning outcomes: L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (14 Sep - 20 Sep)",
+      "activity_type": "Seminar",
+      "topic": "Students' Presentations I Each student delivers the first assessed presentation, communicating the results of their Empirical Assignment in academic seminar format: motivating the question from the literature, defending methodological choices, and presenting results with appropriate technical depth. The presentation draws directly on the submitted assignment materials; no new analysis is expected. Structured feedback from peers and the coordinator follows each talk. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9 (21 Sep - 27 Sep)",
+      "activity_type": "Seminar",
+      "topic": "Students' Presentations II Each student delivers the second assessed presentation: a critical discussion of a published paper related to their thesis field, positioning it within the literature and assessing its contribution. Structured feedback from peers and the coordinator follows each talk. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break (28 Sep - 04 Oct)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Mid Semester Break"
+    },
+    {
+      "learning_period": "Week 10 (05 Oct - 11 Oct)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "No class: King’s Birthday public holiday No class this week (King’s Birthday public holiday). The Writing Assignment is submitted online by Friday of this week, 5pm. An optional online consultation is offered during the week for questions on the Writing Assignment and the upcoming dry run."
+    },
+    {
+      "learning_period": "Week 11 (12 Oct - 18 Oct)",
+      "activity_type": "Seminar",
+      "topic": "Students' Presentations III Each student delivers the third assessed presentation: a full dry run of their final research presentation, pitched to a non-academic audience, highlighting the research question, its real-world relevance and the implications of the findings, whether structural or empirical in approach. Detailed feedback is provided for incorporation before the final presentation. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 12 (19 Oct - 25 Oct)",
+      "activity_type": "Seminar",
+      "topic": "Students' Presentation Event Each student delivers their final research presentation to an audience that may include invited guests from industry, academia and the public sector. Further details are advised in class. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 13 (26 Oct - 01 Nov)",
+      "activity_type": "Seminar",
+      "topic": "Review and wrap-up Review of the course: consolidating the heterogeneous-agent toolkit and the research communication skills built across the semester, and drawing together feedback from the final presentations for the last stage of the thesis. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

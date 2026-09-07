@@ -1,0 +1,253 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ELEC4302-60794-7660",
+  "scraped_at": "2026-09-07T05:58:41.091055+00:00",
+  "course_code": "ELEC4302",
+  "class_code": "60794",
+  "semester_code": "7660",
+  "full_course_code": "ELEC4302-60794-7660",
+  "course_title": "Power System Protection",
+  "study_period": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "This course will focus on design of transmission and distribution protection schemes. This will include fundamentals on protection, relay design and protection schemes for transmission lines, transformers and bus. Additionally the course will focus on settings of feeder and transformer protection schemes, and selection of current and voltage instrument transformers for those protection schemes. The issues surrounding power quality and how these affect power systems will be also addressed. This will include measurement and modelling techniques to identify power quality problems and mitigating techniques. Impact of electrical overstress on the design and operation of power systems and electronic equipment will be discussed and protection systems will be built to \"eliminate\" equipment malfunction and damage due to electrical overstress.\n\nA single fault in a power system can cause outages for thousands of civilians. In this course, we will explore how to protect power systems against such events, through the design of power system transmission, as well as distribution level protection schemes. This will include fundamentals on protection, relay design and protection schemes for transmission lines, bus,ﾠtransformers, reactors and generator, as well as the impact of distributed generation, e.g. reverse power flow, on existing protection schemes. Additionally, the course will focus on selecting current and voltage instrument transformers for specific settings of feeder and transformer protection schemes. To apply this learning to the real world, students will also have the opportunity to participate in practical simulations and hardware labs, as well as a series of lectures on industry practice conducted by experienced professionals. In previous years, students highly appreciated the content covered in this course. To encourage students to discuss the content covered in the class two in-class assessments were introduced. An oral viva is introduced to evaluate student's learning outcome through PSCAD exercise.\n\nAI tools may be used in this course where appropriate, and students receive guidance on acceptable use or disclosure. Students are responsible for ensuring that any use of AI complies with academic integrity requirements and is appropriately acknowledged.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ELEC3300",
+      "ELEC3310",
+      "We recommend completing the following courses before enrolling in this one:",
+      "ELEC4300",
+      "ELEC4310"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ELEC4301",
+      "ELEC7304",
+      "ELEC7311"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course enquiries",
+      "name": "Course Email",
+      "email": "ELEC4302@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Chandima Ekanayake"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Chandima Ekanayake"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nMore information on scheduling hardware lab classes and viva will be available through blackboard.",
+  "course_aims": "- To be able to interpret existing power system protection schemes.\n\n- To acquire the skills to solve power system protection settings and coordination problems for a given power system.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain the requirement of different protection schemes for the proper operation of power system."
+    },
+    {
+      "number": "LO2.",
+      "description": "Recognise factors to be considered when designing a power system protection scheme."
+    },
+    {
+      "number": "LO3.",
+      "description": "Demonstrate the operation of various components used in power system protection."
+    },
+    {
+      "number": "LO4.",
+      "description": "Calculate protection settings when designing a protection scheme for a simple power system network and components."
+    },
+    {
+      "number": "LO5.",
+      "description": "Identify challenges and current developments in power system protection."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "In-class assignment submission",
+      "weight": "20%",
+      "due_date": "Assignment submission 1 20/08/2026 11:50 am; Assignment submission 2 8/10/2026 11:50 am; Due in the applied class. More information will be available through Blackboard.",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "A report on software exercise",
+      "weight": "25%",
+      "due_date": "9/10/2026 5:00 pm; More information will be available through Blackboard.",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Practical/ Demonstration, Reflection",
+      "title": "Viva and demonstration",
+      "weight": "10%",
+      "due_date": "19/10/2026 - 26/10/2026; Viva will be conducted during week 12 and 13. More information will be provided on Blackboard. A time slot for each student will be allocated.",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final exam",
+      "weight": "45%",
+      "due_date": "End of Semester Exam Period; 7/11/2026 - 21/11/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-class assignment submission",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "Assignment submission 1 20/08/2026 11:50 am Assignment submission 2 8/10/2026 11:50 am Due in the applied class. More information will be available through Blackboard.",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "Two assignments need to be completed during the applied class in Week 4 and Week 10. More information on assignment will be available in Blackboard. All submissions are collected during the class. Overall worth of these submissions will be 20 marks. The assignments are equally weighted. This assessment task is to be completed in-person during the applied class. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "In-class written submission.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be provided within 14 days. A deferred session will be organised in the following week based on the availability of staff and venue.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nThis assessment takes place in a scheduled class and a 100% penalty will be applied to late submission.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Two assignments need to be completed during the applied class in Week 4 and Week 10. More information on assignment will be available in Blackboard. All submissions are collected during the class. Overall worth of these submissions will be 20 marks. The assignments are equally weighted. This assessment task is to be completed in-person during the applied class. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person during the applied class. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "A report on software exercise",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "25%",
+      "due_date": "9/10/2026 5:00 pm More information will be available through Blackboard.",
+      "other_conditions": "Student specific. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "This is mainly based on PSCAD simulation exercise. PSCAD training will be provided for 5 weeks starting from week 3. More information about the simulation exercise will be available through Blackboard. A completed report based on the simulation exercise has to be submitted. More information related to the structure of the report will be provided through Blackboard. A viva is conducted during the presentations to discuss about your understanding about the content covered in the report and report marks will be weighted based on the student performance during viva. More information related to the marking criteria will be available through Blackboard. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "submission_guidelines": "Submission through Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nIf you do not submit the report by week 12, a viva will not be scheduled during the semester teaching weeks (i.e. before end of week 13).\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This is mainly based on PSCAD simulation exercise. PSCAD training will be provided for 5 weeks starting from week 3. More information about the simulation exercise will be available through Blackboard. A completed report based on the simulation exercise has to be submitted. More information related to the structure of the report will be provided through Blackboard. A viva is conducted during the presentations to discuss about your understanding about the content covered in the report and report marks will be weighted based on the student performance during viva. More information related to the marking criteria will be available through Blackboard. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Viva and demonstration",
+      "mode": "Oral",
+      "category": "Practical/ Demonstration, Reflection",
+      "weight": "10%",
+      "due_date": "19/10/2026 - 26/10/2026 Viva will be conducted during week 12 and 13. More information will be provided on Blackboard. A time slot for each student will be allocated.",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "This viva is to present the analysis performed through PSCAD. A viva is conducted in the lab enviornment and student will have the oopurtunity to present the work completed using PSCAD software. More information will be available in Blackboard including the marking rubric. Marks assigned for the report will be scaled based on the viva/discussion. The scaling factors will be availble through Blackboard in due course. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nStudents who are approved for an extension will need to attend a makeup session scheduled by the course coordinator. Students who do not attend the viva will result in a mark of zero for the \"Viva and demonstration\" and \"A report on software exercise\".\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "This viva is to present the analysis performed through PSCAD. A viva is conducted in the lab enviornment and student will have the oopurtunity to present the work completed using PSCAD software. More information will be available in Blackboard including the marking rubric. Marks assigned for the report will be scaled based on the viva/discussion. The scaling factors will be availble through Blackboard in due course. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "45%",
+      "due_date": "End of Semester Exam Period 7/11/2026 - 21/11/2026",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The final exam will assess all materials presented during the course. This is an invigilated on campus exam. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten notes , single sided, is permitted Notes that are handwritten in a digital format and printed out are permitted. Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The final exam will assess all materials presented during the course. This is an invigilated on campus exam. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Not scheduled",
+      "activity_type": "Not Timetabled",
+      "topic": "Field visit In this course it is planned that an excursion to a relevant factory or substation will be organised based on the industry availability. More information is available through Blackboard. Exact dates will be informed to the students well in advance once the industry confirms the dates. This may be scheduled outside of class hours. Learning outcomes: L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Lectures on various topics Series of lectures covering fault analysis and various protection schemes used in the power systems. Some of the lectures will be covered by the industry experts. Following topics will be covered in this course : Fault analysis, symmetrical components, Relay operation, Different types of relays, Relay coordination, Unit protection, Instrument Transformers, IEC 61850 requirements, effect of renewables on protection schemes Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Applied Class",
+      "topic": "Applied Classes Questions on fault calculations and various protection setting calculations will be discussed during these general contact hours. In week 4 and 10 in-class assessments are conducted. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 3 To Week 7",
+      "activity_type": "IT Computing",
+      "topic": "ICT - PSCAD Simulation Students will learn to use PSCAD software based simulations for checking relay settings for distance and over current protection schemes. Feedback for the PSCAD activities will be given during the in-class sessions. More information will be available through Blackboard. Learning outcomes: L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 8 To Week 13",
+      "activity_type": "Practical",
+      "topic": "PRA - Hands on experience on relay characteristic Students will test relay characteristics on a Siemens distance protection relay Siprotec 7SA87. More information will be available through Blackboard. Learning outcomes: L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . You'll also need to be aware of the following policies and procedures while completing this course: Occupational Health and Safety in the Laboratory Guideline Student Travel Procedure School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

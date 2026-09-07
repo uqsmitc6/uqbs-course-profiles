@@ -1,0 +1,215 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/COMP3820-60554-7660",
+  "scraped_at": "2026-09-07T05:48:49.097127+00:00",
+  "course_code": "COMP3820",
+  "class_code": "60554",
+  "semester_code": "7660",
+  "full_course_code": "COMP3820-60554-7660",
+  "course_title": "Digital Health Software Project",
+  "study_period": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "This course will help you learn the basic fundamentals of digital health technology through hands-on experience, and through exposure to the real-world use of data and informatics in the health industry. The course includes a MOOC component that provides a broad introduction to healthcare informatics. There will also be a number of guest lecturers from industry talking about the current digital health landscape. A major part of the course is composed of a group software development project building a FHIR app for use in a clinical (or clinical education) setting, with real-world clients. FHIR (Fast Healthcare Interoperability Resources) is the new standard for sharing health data that is revolutionising how clinicians and patients are interacting with digital technology and has been adopted by major global IT companies (e.g., Apple, Google, Microsoft, etc.) and digital health vendors (e.g., Cerner, EPIC, etc.). Be at the forefront of healthcare application development by learning about and developing new FHIR and SMART-on-FHIR applications.\n\nCOMP3820 introduces students to interoperability standards for exchanging electronic healthcare data via the FHIR technical standard.\n\nAI Use in this Course\n\nAI tools may be used to support learning and task completion in this course, and the course provides guidance on appropriate use; their use will be expected in some aspects of the course, such as the creation of synthetic patient data. Students are expected to apply their own judgement when using these tools, to check outputs carefully, and to ensure that all submitted work reflects their own understanding. Students are responsible for ensuring that any use of AI complies with academic integrity requirements and is appropriately acknowledged.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CSSE2002",
+      "CSSE7023",
+      "COMP2140",
+      "CSSE2310",
+      "CSSE7231",
+      "DECO2500",
+      "DECO7250",
+      "BIOE6901",
+      "We recommend completing the following courses before enrolling in this one:",
+      "DECO3800",
+      "DECO7380"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "COMP3000"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course enquiries",
+      "name": "Course email",
+      "email": "COMP3820@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Chelsea Dobbins"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Chelsea Dobbins"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nCOMP3820 is scheduled as a 4C course, with one four-hour studio-style session each week.\nStudents are expected to attend the full session.\nGuest speakers will be scheduled when available and may present at any time during the session. These talks will only be recorded with the speaker’s permission, and students must not make their own recordings. Sessions without guest speakers will not be recorded.\nThis is a 2-unit course. Students should plan for a total workload of around 10–12 hours per week for\nsatisfactory\nprogress, including the weekly 4-hour session. In addition to class time, you should expect to spend\nat least\napproximately 6–8 hours per week on independent study and assessment tasks. Actual time may vary depending on individual needs.",
+  "course_aims": "To teach the basic fundamentals of digital health technology through hands-on experience, and through exposure to the real-world use of data and informatics in the health industry. The course includes a MOOC component that provides a broad introduction to healthcare informatics. There will also be a number of guest lecturers from industry talking about how digital health is used in their work. A major part of the course is composed of a group software project building a FHIR app for use in a clinical (or clinical education) setting, with real-world clients. FHIR (Fast Healthcare Interoperability Resources) is the new standard for sharing health data that is revolutionising how clinicians and patients are interacting with digital technology and has been adopted by major global IT companies (e.g. Apple, Google, Microsoft, etc.) and digital health vendors (e.g. Cerner, EPIC, etc.). Be at the forefront of healthcare application development by learning about and developing new FHIR and SMART-on-FHIR applications in collaboration with CSIRO’s Australian e-Health Research Centre, Georgia Tech University (USA) and UQ’s Faculty of Medicine and Faculty of Health and Behavioural Sciences.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Analyse and explain key aspects of the digital health landscape."
+    },
+    {
+      "number": "LO2.",
+      "description": "Apply the Software Development Life Cycle and human-centred design principles to design, develop, and document a functional digital health application using FHIR and interoperability standards."
+    },
+    {
+      "number": "LO3.",
+      "description": "Analyse and address user experience challenges in the design and development of a digital health application."
+    },
+    {
+      "number": "LO4.",
+      "description": "Communicate effectively with stakeholders to gather requirements and manage expectations over the course of the project."
+    },
+    {
+      "number": "LO5.",
+      "description": "Demonstrate an ability to collaborate effectively within a team to achieve shared project goals, while managing individual responsibilities."
+    },
+    {
+      "number": "LO6.",
+      "description": "Evaluate and justify software development processes and design decisions within the context of building digital health applications."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Project, Tutorial/ Problem Set",
+      "title": "Team FHIR Project",
+      "weight": "55% (Team)",
+      "due_date": "Team Charter (formative) 21/08/2026 5:00 pm; Team Project Report and Codebase 9/11/2026 5:00 pm; Team Project Video 13/11/2026 5:00 pm",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Presentation",
+      "title": "Individual Course Review",
+      "weight": "Pass/Fail (Individual)",
+      "due_date": "15/10/2026 2:00 pm; Individual Course Review completed in-class.",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Portfolio",
+      "title": "Individual Portfolio",
+      "weight": "30% (Individual)",
+      "due_date": "23/10/2026 5:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Presentation",
+      "title": "Team Final Demo",
+      "weight": "15% (Team)",
+      "due_date": "29/10/2026 2:00 pm; Presentation completed in-class",
+      "conditions": [
+        "Team or group-based",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Team FHIR Project",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Project, Tutorial/ Problem Set",
+      "weight": "55% (Team)",
+      "due_date": "Team Charter (formative) 21/08/2026 5:00 pm Team Project Report and Codebase 9/11/2026 5:00 pm Team Project Video 13/11/2026 5:00 pm",
+      "task_description": "In teams, you will develop a functional SMART-on-FHIR digital healthcare application. The project will be supported and monitored through a series of formative in-class milestones. All team members must attend these sessions, and you will be expected to discuss your progress and demonstrate your individual contributions. These milestones include: Part A: Proposal and Requirements (Week 4): Define the healthcare problem, users, requirements, and relevant FHIR resources. Part B: Design and Architecture (Week 7): Present the system architecture, data flows, interface design, and interoperability approach. Part C: Prototype (Week 10): Demonstrate a functional prototype implementing core SMART-on-FHIR features. Assessment focuses on problem definition, application of FHIR and interoperability concepts, technical design, implementation quality, and the suitability of the solution for its healthcare context. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submission for each component includes:\nTeam Charter: One team submission via Blackboard by the specified deadline (template provided in class). Team Final Report: One team submission via Turnitin on Blackboard by the specified deadline. Team Final Codebase and Team Project Video: One team submission of each item via Blackboard by the specified deadline.\nFor team submissions, only one team member is required to submit on behalf of the group.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nAdditionally, this course uses team-based assessment where the team assignment is developed and iterated on with students needing to act on regular formative feedback over the semester. Extensions for groupwork are typically not available as this impacts on all members of the team. However, if a group encounters extraordinary difficulties in meeting a deadline, they should contact the Course Coordinator in advance of the due date. Groups will be asked to meet with the Course Coordinator, and be prepared to submit their work, as it stands.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "ai_statement": "In teams, you will develop a functional SMART-on-FHIR digital healthcare application. The project will be supported and monitored through a series of formative in-class milestones. All team members must attend these sessions, and you will be expected to discuss your progress and demonstrate your individual contributions. These milestones include: Part A: Proposal and Requirements (Week 4): Define the healthcare problem, users, requirements, and relevant FHIR resources. Part B: Design and Architecture (Week 7): Present the system architecture, data flows, interface design, and interoperability approach. Part C: Prototype (Week 10): Demonstrate a functional prototype implementing core SMART-on-FHIR features. Assessment focuses on problem definition, application of FHIR and interoperability concepts, technical design, implementation quality, and the suitability of the solution for its healthcare context. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Individual Course Review",
+      "mode": "Oral",
+      "category": "Presentation",
+      "weight": "Pass/Fail (Individual)",
+      "due_date": "15/10/2026 2:00 pm Individual Course Review completed in-class.",
+      "other_conditions": "Secure. See the conditions definitions",
+      "task_description": "This assignment is the secure element of the course, involving a one-on-one review, including responding to questions to evidence your understanding. This assessment task is to be completed in-person and has been designed to verify your individual understanding in a group-based learning environment. In accordance with UQ Assessment Policy, your review will be recorded. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Oral assessment will be run during class in Week 11.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days to ensure students can receive feedback with sufficient time to prepare for their final assessments.\nStudents who are unable to attend their scheduled review due to documented and valid reasons may request one rescheduled session by submitting an extension application through my.UQ.\nAny rescheduled review must be completed by Friday of Week 13. If this session is also missed, the assessment will be recorded as a Fail .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\n100% late penalty (no grace period). Consistent with industry practice around presentations to clients/industry partners, no late submissions will be accepted, and a 100% late penalty applies. This has been approved by the Associate Dean (Academic)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "This assignment is the secure element of the course, involving a one-on-one review, including responding to questions to evidence your understanding. This assessment task is to be completed in-person and has been designed to verify your individual understanding in a group-based learning environment. In accordance with UQ Assessment Policy, your review will be recorded. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Individual Portfolio",
+      "mode": "Written",
+      "category": "Portfolio",
+      "weight": "30% (Individual)",
+      "due_date": "23/10/2026 5:00 pm",
+      "task_description": "In this assessment, you will produce an individual portfolio that demonstrates your learning and engagement across the course. Your portfolio must include reflections and supporting evidence connected to guest speakers, your Team FHIR Project, and how the online course “Digital Health on FHIR” influenced your individual project decisions. The portfolio must present clear, thoughtful reflections supported by specific examples from your work and course activities. This assessment focuses on the quality of reflection, depth of insight, and use of specific examples to support your learning. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "Submit one electronic file via Turnitin on Blackboard by the deadline that contains your assignment. Your submission must include a completed and signed coversheet at the beginning and be uploaded as a single word-processed document (such as a Word or Pages file). PDF files are accepted, but a Word document is preferred.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "ai_statement": "In this assessment, you will produce an individual portfolio that demonstrates your learning and engagement across the course. Your portfolio must include reflections and supporting evidence connected to guest speakers, your Team FHIR Project, and how the online course “Digital Health on FHIR” influenced your individual project decisions. The portfolio must present clear, thoughtful reflections supported by specific examples from your work and course activities. This assessment focuses on the quality of reflection, depth of insight, and use of specific examples to support your learning. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Team Final Demo",
+      "mode": "Oral",
+      "category": "Presentation",
+      "weight": "15% (Team)",
+      "due_date": "29/10/2026 2:00 pm Presentation completed in-class",
+      "other_conditions": "Secure. See the conditions definitions",
+      "task_description": "Teams will present and demonstrate their completed SMART-on-FHIR application in a live, in-class presentation in Week 13. Attendance is mandatory for all team members. Presentations must be delivered live and will be recorded. This assessment focuses on the clarity of communication, quality of the demonstration, and how effectively your solution is presented to an audience. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "submission_guidelines": "A copy of your slides and presentation script to Blackboard prior to class (see task description for further details). Presentation is delivered in-class.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions for groupwork are typically not available as this impacts on all members of the team. Students with valid extension requests will either receive the team mark or will be required to undertake alternative assessment.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nNo grace period. Consistent with industry practice around presentations to clients/industry partners, the 100% late penalty applies.\nThis has been approved by the Associate Dean (Academic)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Teams will present and demonstrate their completed SMART-on-FHIR application in a live, in-class presentation in Week 13. Attendance is mandatory for all team members. Presentations must be delivered live and will be recorded. This assessment focuses on the clarity of communication, quality of the demonstration, and how effectively your solution is presented to an audience. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Team or group-based",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Studio",
+      "topic": "Guest Speakers Guest talks from industry will occur within some of the studio sessions, depending on speaker availability."
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Not Timetabled",
+      "topic": "Online Course Delivered via the \"Digital Health on FHIR\" online course covering the key concepts of digital health."
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Studio",
+      "topic": "Weekly Studio Sessions Students will work with each other on their team project and related activities that support the assessment deliverables. Studio sessions will be delivered in-person (face-to-face) and so you will be expected to participate in an entirely in-person capacity in the sessions. By default, these sessions will not be recorded. Progress on the team project will be monitored during these sessions and students will have an opportunity to receive feedback prior to Census (Week 6). This course relies on students undertaking a self-directed team-based and individual learning approach towards the achievement of assessment deliverables. Active student participation is expected at all sessions . Students are expected to meaningfully contribute to all aspects of the team project. The teaching team are available to assist with issues."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}

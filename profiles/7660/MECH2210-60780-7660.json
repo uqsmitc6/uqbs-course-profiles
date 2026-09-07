@@ -1,0 +1,207 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/MECH2210-60780-7660",
+  "scraped_at": "2026-09-07T06:11:47.832385+00:00",
+  "course_code": "MECH2210",
+  "class_code": "60780",
+  "semester_code": "7660",
+  "full_course_code": "MECH2210-60780-7660",
+  "course_title": "Intermediate Mechanical & Space Dynamics",
+  "study_period": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "Two dimensional kinematics and kinetics of particles and rigid bodies; Applications of work energy and impulse momentum methods; Vibration of single degree of freedom systems; Balancing of rotating masses.\n\nMECH2210 is the first dedicated dynamics course for mechanical, aerospace and mechatronic engineering students. It develops the ability to model, analyse and solve engineering dynamics problems of two-dimensional systems. The course emphasises not only procedural problem-solving but the development of engineering judgement- understanding of the assumptions underpinning a model, when those assumptions are valid, and how to approach problems that do not arrive in textbook form. This prepares students for more advance study in MECH3200 and for professional practice where dynamically generated forces and motions are central to design and analysis.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ENGG1010",
+      "ENGG1400",
+      "ENGG1700",
+      "MATH1051",
+      "MATH1052"
+    ]
+  },
+  "course_staff": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Dale Robinson",
+      "email": "dale.robinson@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Dale Robinson",
+      "email": "dale.robinson@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Paul Meehan",
+      "email": "meehan@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Navid Freidoonimehr",
+      "email": "n.freidoonimehr@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "In this course, you will learn the fundamental principles, tools and methods essential for analysing the dynamics of engineering systems. By the end of the course, you will have developed the ability to model and analyse the planar (two-dimensional) motion of engineering systems and assess the assumptions underlying dynamic models.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Kinematics. Describe and analyse motion of particles and 2D rigid bodies using Cartesian, normal-tangential and polar coordinate systems, and apply relative motion and instantaneous centre of rotation (ICR) methods to determine velocities and acceleration in constrained systems."
+    },
+    {
+      "number": "LO2.",
+      "description": "Kinetics. Formulate Newton-Euler equations to derive and solve equations of motion for particles and 2D rigid bodies, including systems with constraints and coupled bodies, construct Free Body Diagrams (FBDs) and Kinetic Diagrams, calculate mass moments of inertia, and interpret the resulting motion in physical terms"
+    },
+    {
+      "number": "LO3.",
+      "description": "Work-energy methods. Apply principle of work-energy to describe particle and 2D rigid body linear/angular motion, differentiate between conservative and nonconservative forces, and calculate instantaneous power and mechanical efficiency in engineering systems."
+    },
+    {
+      "number": "LO4.",
+      "description": "Impulse-momentum methods. Use linear and angular impulse-momentum principles to analyse particle dynamics and 2D rigid body motion, to solve problems involving collision and varying mass, and select appropriately between Newton-Euler, energy and momentum methods for a given problem"
+    },
+    {
+      "number": "LO5.",
+      "description": "Single degree of freedom vibration. Derive and solve equations of motion for free, forced, undamped and damped single degree of freedom systems, interpret frequency response and vibration transmissibility in the context of isolation and measurement applications."
+    },
+    {
+      "number": "LO6.",
+      "description": "Balancing of rotating machinery and eccentric excitation. Derive conditions for static and dynamic balance of rotating systems, calculate corrective masses and their positioning, evaluate system response due to eccentric excitation including bearing forces due to an imbalance."
+    },
+    {
+      "number": "LO7.",
+      "description": "Modelling Assumptions and Engineering Judgement. Identify and critically evaluate the assumptions underlying Newtonian dynamic models, and recognise when a problem requires more advanced analysis."
+    },
+    {
+      "number": "LO8.",
+      "description": "Transfer and Application to Novel Problems. Analyse the dynamics of unfamiliar engineering systems by selecting appropriate models and methods, constructing and solving equations of motion, and interpreting results in physical and engineering terms"
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "Weekly online quiz",
+      "weight": "19% (10 x 1.9%)",
+      "due_date": "3/08/2026 - 26/10/2026; Quizzes will be run from Weeks 2 to 13 of semester, hence there will be 12 quizzes in total. Each week's quiz will be released on Friday at 4pm, and will test that week's syllabus. The due date will be 5pm on the following Wednesday.",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Practical pre-work assignment",
+      "weight": "15% (3 x 5%)",
+      "due_date": "31/08/2026 - 5/10/2026; Practical 1 Pre-work Assignment due 02/09/2026 5:00 pm; Practical 2 Pre-work Assignment due 18/09/2026 5:00 pm; Practical 3 Pre-work Assignment due 09/10/2026 5:00 pm"
+    },
+    {
+      "category": "Practical/ Demonstration",
+      "title": "Practical laboratory work",
+      "weight": "6% (3 x 2%)",
+      "due_date": "At scheduled practical sessions",
+      "conditions": [
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 7/11/2026 - 21/11/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Weekly online quiz",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "19% (10 x 1.9%)",
+      "due_date": "3/08/2026 - 26/10/2026 Quizzes will be run from Weeks 2 to 13 of semester, hence there will be 12 quizzes in total. Each week's quiz will be released on Friday at 4pm, and will test that week's syllabus. The due date will be 5pm on the following Wednesday.",
+      "task_description": "Weekly online quiz using the Pearson “Mastering Engineering” platform. This platform integrates into Blackboard and enables the course to run assessed quizzes which draw from a large range of example dynamics problems. The problems are randomisable to ensure all students work with a unique set of numbers to ensure individual work in support of academic integrity. The maximum mark for each week's quiz is 1.9% of the overall course grade. There are 12 quizzes in total that will run from weeks 2-13. The total mark for this assessment item is calculated at the end of semester by adding up your best 10 results across the 12 quizzes in the semester You are required to register with Pearson Mastering in Week 1 of Semester so that you are able to complete the assessed online quizzes. If you encounter technical problems doing so, as a first step you should refer to the provided support documents on Blackboard; as a second step, seek advice through the Ed Discussion Board; if you continue to have problems you should contact the Course Coordinator by email. If you leave the registration process until Week 2 and encounter technical problems which prevent submission of your quiz by the due date, these technical problems will not be accepted as grounds for an extension to the assessment. Please note, the Mastering website will periodically be unavailable due to planned maintenance. This typically occurs over a finite number of hours on a weekend day. We will normally provide advance notice of this, and in such cases we expect students to plan their website access around these times. Failure to do so will not be considered an excuse for late submission. Read full task description Hide full task description",
+      "submission_guidelines": "Access to the Pearson Mastering Engineering online quiz is via Blackboard.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nBecause only the best 10 of 12 will contribute to the mark for this assessment item and results/answers are released soon after the due date, no extensions are permitted.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nBecause the results are released soon after the due date in preparation for the following week's quiz and only the best 10 of 12 will contribute to the mark for this assessment item, a 100% penalty will be applied to late submission.\nThis has been approved by the Associate Dean (Academic).",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Practical pre-work assignment",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "15% (3 x 5%)",
+      "due_date": "31/08/2026 - 5/10/2026 Practical 1 Pre-work Assignment due 02/09/2026 5:00 pm Practical 2 Pre-work Assignment due 18/09/2026 5:00 pm Practical 3 Pre-work Assignment due 09/10/2026 5:00 pm",
+      "task_description": "This assessment series involves three separate assignments to be completed individually. Each assignment is in the form of pre-work required to undertake the three practicals. The assignments are: Practical 1 Pre-work Assignment - BALANCING OF ROTATING MASSES Practical 2 Pre-work Assignment - RIGID BODY DYNAMICS OF A GEARED SYSTEM Practical 3 Pre-work Assignment - VIBRATION OF SDOF SYSTEM Please refer to Blackboard for detailed marking criteria. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via Gradescope on Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThe maximum extension is capped at 7 days as feedback will be given within 14 days to ensure students are adequately prepared for the practical which follows on from the assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Practical laboratory work",
+      "mode": "Activity/ Performance",
+      "category": "Practical/ Demonstration",
+      "weight": "6% (3 x 2%)",
+      "due_date": "At scheduled practical sessions",
+      "other_conditions": "Secure. See the conditions definitions",
+      "task_description": "During the semester, you will complete three laboratory tasks that are directly related to the content covered in lectures and practical assignments. Each of these tasks is based around a worksheet, which you can download from the course's Blackboard site. During practical classes students work in small groups and complete a worksheet (one worksheet per group). During the practical sessions, casual academics will be available to assist you with using the experimental equipment and to help clarify the concepts you are learning. Students who experience challenges with their laboratory team can access resources online here . Teams unable to resolve their challenges should reach out to the immediate teaching team for assistance. Criteria and Marking: Assessment will be based on a casual academic's observations of each group's participation in the practical and understanding of the concepts covered. Casual Academics will assign each group a mark of 0, 1, or 2 in each practical based on the following criteria: 0 - The group did not actively participate in the practical and/or demonstrate sufficient understanding. 1 - The group participated in the practical, completed most the work and demonstrated some (but not full) understanding of the concepts involved through answers to the worksheet questions, engaging effectively as a team to do so 2 - The group participated in the practical, completed the work and demonstrated an understanding of the concepts involved through answers to the worksheet questions, engaging effectively as a team to do so. Casual Academics will progressively mark each group during the practical using the practical worksheet and provide feedback on responses. Completed worksheets will be archived by the responsible casual academic, who will record marks obtained by each group against the group members' names. Each student is responsible for ensuring that their name is recorded on the group worksheet. Each student is encouraged to complete an individual copy of the worksheet during the practical for their own records. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nStudents unable to attend their scheduled class must email the Course Coordinator with evidence of exceptional circumstances, as detailed at https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/deferring-exam, AND should indicate three (3) future sessions that they can attend in order of preference. Requests for a rescheduled or make-up session should be emailed to dale.robinson@uq.edu.au. It should be noted that Practical 1 runs in a three week block and Practicals 2 and 3 each run in a two week block. All requests to reschedule should be within the 2 or 3 week block for that practical.\nPractical 1: Weeks 7-9\nPractical 2: Weeks 10-11\nPractical 3: Weeks 12-13\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nAs time is provided within the practical class to complete all work, no late submissions will be accepted and a 100% late penalty applies. Students who fail to complete a practical will receive a score of 0 for that practical.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 7/11/2026 - 21/11/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (27 Jul - 01 Nov)",
+      "activity_type": "Lecture",
+      "topic": "Lectures Introduction of fundamental theories and concepts and demonstration of basic problem solving methods and techniques across the main themes of the subject including particle dynamics, rigid body dynamics, vibration and engineering applications."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13 (27 Jul - 01 Nov)",
+      "activity_type": "Applied Class",
+      "topic": "Applied Classes The applied class sessions provide opportunities to apply the techniques demonstrated in the lectures to solve problems under the guidance of teaching staff. Worked examples are demonstrated on the visualiser. Students can also ask any questions which arise from lectures, applied classes, practicals and assignments. A primary purpose of the applied class sessions is to give individual attention to specific student queries."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 7 To Week 13 (07 Sep - 01 Nov)",
+      "activity_type": "Practical",
+      "topic": "Practicals In the practical classes experimental investigations of coursework material is undertaken. The purpose of the practicals is to demonstrate how the course material relates to measurable physical quantities, and to provide experience in experimental techniques. Students must follow the laboratory safety guidelines outlined in the risk assessment relevant to the practicals (each available on blackboard). · 6363: Practical 1 – Balancing of rotating masses experiment · 6395: Practical 2 – Acceleration of a geared system experiment · 6362: Practical 3 – Rectilinear plant experiment"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

@@ -1,0 +1,267 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CHEE4003-60784-7660",
+  "scraped_at": "2026-09-07T05:46:39.224719+00:00",
+  "course_code": "CHEE4003",
+  "class_code": "60784",
+  "semester_code": "7660",
+  "full_course_code": "CHEE4003-60784-7660",
+  "course_title": "Special Topics A",
+  "study_period": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Chemical Engineering School",
+  "course_description": "Topics relating to specific technologies in chemical engineering. For details and availability, contact Head of School.\n\nThis course is NOT typically available to students. It is available in special circumstances when a make-up is required or a special project becomes available. A special topic will only normally be arranged after consultation with an academic advisor. Once it has been agreed with your academic advisor, the Head of School will approve your enrolment in the special topic.\n\nThis year’s topic is Artificial Intelligence and Machine Learning for Chemical Engineers . The course aims to equip students with the practical skills required to develop, train, and deploy machine learning models and RAG systems for chemical engineering applications.\n\nNo prior experience in artificial intelligence or machine learning is required. However, a basic understanding of programming concepts is advantageous. Introductory experience with Python or similar programming languages will support engagement with computational activities, although all essential skills will be introduced during the early stages of the course.\n\nStudents are expected to be comfortable with fundamental mathematics and statistics , including algebra, functions, and basic statistical concepts such as mean, variance, and correlation. These concepts form the foundation for the data analysis and modelling techniques developed throughout the course.\n\nThe course is designed to support students in transitioning from traditional engineering problem-solving approaches to data-driven modelling and decision-making . This is achieved through a combination of workshops, tutorials, and project-based learning , with a strong emphasis on practical implementation in real-world chemical engineering contexts.\n\nPrerequisites: ENGG1001, MATH1051, CHEE2010",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "Permission of Head of School"
+    ]
+  },
+  "course_staff": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Gloria Milena Monsalve Bravo",
+      "email": "g.monsalvebravo@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Gloria Milena Monsalve Bravo",
+      "email": "g.monsalvebravo@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Muxina Konarova",
+      "email": "m.konarova@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Mr Lee Burns",
+      "email": "lee.burns@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Luke Wylie",
+      "email": "l.wylie@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Christian Zuluaga Bedoya",
+      "email": "c.zuluagabedoya@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Hangil Park",
+      "email": "hangil.park@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Alex Anderson",
+      "email": "alexander.anderson@uq.edu.au"
+    }
+  ],
+  "course_aims": "The aims of this course are to be set out in discussion with an agreed supervisor.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Explain the basis of machine learning and AI systems and the types of problems that are suited to address in chemical engineering."
+    },
+    {
+      "number": "LO2.",
+      "description": "Identify potential risks associated with the use of machine learning and AI in chemical process systems."
+    },
+    {
+      "number": "LO3.",
+      "description": "Collect, clean, and prepare real-world chemical engineering data for machine learning applications."
+    },
+    {
+      "number": "LO4.",
+      "description": "Implement and evaluate supervised learning algorithms for regression and classification of process and material property data."
+    },
+    {
+      "number": "LO5.",
+      "description": "Apply unsupervised learning techniques for anomaly detection and clustering of process operation data."
+    },
+    {
+      "number": "LO6.",
+      "description": "Implement and deploy neural networks for time series prediction of process variables."
+    },
+    {
+      "number": "LO7.",
+      "description": "Build, test, and demonstrate an intelligent chatbot prototype for supporting distillation plant operators."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Assignment 1: Exploratory Data Analysis, Classification, and Regression for a Chemical Engineering Application",
+      "weight": "25%",
+      "due_date": "2/09/2026 5:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Assignment 2: Exploratory Data Analysis, Principal Component Analysis, and Clustering for a Chemical Engineering Application",
+      "weight": "25%",
+      "due_date": "23/09/2026 5:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Assignment 3: Exploratory Data Analysis and LSTM-Based Modelling for a Dynamic Chemical Engineering System",
+      "weight": "20%",
+      "due_date": "7/10/2026 5:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Presentation, Project",
+      "title": "Final Individual Project: Design and Implementation of a RAG-Based Decision Support System for a Chemical Engineering Application",
+      "weight": "30%",
+      "due_date": "17:00 Project Report and Presentation Slides Submission 28/10/2026; Oral presentations in class 26/10/2026 - 30/10/2026; The; project report and presentation slides; are to be submitted before the first scheduled presentation session.; Oral presentations; will take place during the scheduled workshop and tutorial sessions in; Week 13; .",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Assignment 1: Exploratory Data Analysis, Classification, and Regression for a Chemical Engineering Application",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "25%",
+      "due_date": "2/09/2026 5:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "In this assignment, you will apply exploratory data analysis (EDA), classification, and regression techniques to a chemical engineering application using a dataset of key operating variables. You will begin by examining the structure of the data, identifying important patterns and relationships, and distinguishing between different operating regimes. You will then develop and evaluate classification models to predict system behaviour under varying conditions. This includes comparing multiple models, assessing their performance using appropriate evaluation metrics, and interpreting the implications of prediction errors within an engineering and decision-making context. Finally, you will apply regression techniques to model system behaviour and predict key outputs from the input variables. You will explore a range of modelling approaches and evaluate their performance, considering both predictive accuracy and consistency with expected engineering principles. Throughout the assignment, you are expected to critically assess your modelling choices, data preprocessing decisions, and results using sound engineering reasoning and physical insight. Your work should demonstrate a clear understanding of both data-driven methods and the underlying system behaviour. This task has been designed to be challenging, authentic, and complex. While generative AI tools may be used to support learning, successful completion of the assessment will require critical thinking, independent analysis, and the ability to interpret and justify results within an engineering context. Failure to appropriately acknowledge the use of generative AI tools may constitute student misconduct under the University’s Student Code of Conduct. To successfully complete this assessment, students must be able to clearly explain and justify their work independently of AI assistance. Read full task description Hide full task description",
+      "submission_guidelines": "Assessment submission is via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nAn extension request is not considered late until 24 hours after the assessment due date & time.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Course Instance (CI), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessments must be submitted on or before the due date.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "In this assignment, you will apply exploratory data analysis (EDA), classification, and regression techniques to a chemical engineering application using a dataset of key operating variables. You will begin by examining the structure of the data, identifying important patterns and relationships, and distinguishing between different operating regimes. You will then develop and evaluate classification models to predict system behaviour under varying conditions. This includes comparing multiple models, assessing their performance using appropriate evaluation metrics, and interpreting the implications of prediction errors within an engineering and decision-making context. Finally, you will apply regression techniques to model system behaviour and predict key outputs from the input variables. You will explore a range of modelling approaches and evaluate their performance, considering both predictive accuracy and consistency with expected engineering principles. Throughout the assignment, you are expected to critically assess your modelling choices, data preprocessing decisions, and results using sound engineering reasoning and physical insight. Your work should demonstrate a clear understanding of both data-driven methods and the underlying system behaviour. This task has been designed to be challenging, authentic, and complex. While generative AI tools may be used to support learning, successful completion of the assessment will require critical thinking, independent analysis, and the ability to interpret and justify results within an engineering context. Failure to appropriately acknowledge the use of generative AI tools may constitute student misconduct under the University’s Student Code of Conduct. To successfully complete this assessment, students must be able to clearly explain and justify their work independently of AI assistance. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic, and complex. While generative AI tools may be used to support learning, successful completion of the assessment will require critical thinking, independent analysis, and the ability to interpret and justify results within an engineering context.\nFailure to appropriately acknowledge the use of generative AI tools may constitute student misconduct under the University’s Student Code of Conduct. To successfully complete this assessment, students must be able to clearly explain and justify their work independently of AI assistance.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment 2: Exploratory Data Analysis, Principal Component Analysis, and Clustering for a Chemical Engineering Application",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "25%",
+      "due_date": "23/09/2026 5:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L05",
+      "task_description": "In this assignment, you will apply exploratory data analysis (EDA), principal component analysis (PCA), and clustering techniques to a chemical engineering application using a high-dimensional dataset of operating variables. You will begin by examining the structure of the data, identifying key patterns and relationships, and exploring evidence of distinct system behaviours. You will then apply PCA to reduce the dimensionality of the dataset, identify the dominant sources of variation, and interpret the principal components in terms of underlying engineering phenomena. This will involve evaluating explained variance, analysing variable contributions, and linking results to physical system behaviour. Finally, you will develop and evaluate clustering models to identify and characterise distinct operating regimes within the dataset. You will compare multiple clustering approaches, justify model parameters, and assess how effectively each method captures meaningful structure in the data. Throughout the assignment, you are expected to critically evaluate your modelling choices, data preprocessing decisions, and results using sound engineering reasoning and physical insight. Your work should demonstrate a clear understanding of both data-driven methods and the underlying system behaviour. This task has been designed to be challenging, authentic, and complex. While generative AI tools may be used to support learning, successful completion of the assessment will require critical thinking, independent analysis, and the ability to interpret and justify results within an engineering context. Failure to appropriately acknowledge the use of generative AI tools may constitute student misconduct under the University’s Student Code of Conduct. To successfully complete this assessment, students must be able to clearly explain and justify their work independently of AI assistance. Read full task description Hide full task description",
+      "submission_guidelines": "Assessment submission is via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nAn extension request is not considered late until 24 hours after the assessment due date & time.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Course Instance (CI), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessments must be submitted on or before the due date.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "In this assignment, you will apply exploratory data analysis (EDA), principal component analysis (PCA), and clustering techniques to a chemical engineering application using a high-dimensional dataset of operating variables. You will begin by examining the structure of the data, identifying key patterns and relationships, and exploring evidence of distinct system behaviours. You will then apply PCA to reduce the dimensionality of the dataset, identify the dominant sources of variation, and interpret the principal components in terms of underlying engineering phenomena. This will involve evaluating explained variance, analysing variable contributions, and linking results to physical system behaviour. Finally, you will develop and evaluate clustering models to identify and characterise distinct operating regimes within the dataset. You will compare multiple clustering approaches, justify model parameters, and assess how effectively each method captures meaningful structure in the data. Throughout the assignment, you are expected to critically evaluate your modelling choices, data preprocessing decisions, and results using sound engineering reasoning and physical insight. Your work should demonstrate a clear understanding of both data-driven methods and the underlying system behaviour. This task has been designed to be challenging, authentic, and complex. While generative AI tools may be used to support learning, successful completion of the assessment will require critical thinking, independent analysis, and the ability to interpret and justify results within an engineering context. Failure to appropriately acknowledge the use of generative AI tools may constitute student misconduct under the University’s Student Code of Conduct. To successfully complete this assessment, students must be able to clearly explain and justify their work independently of AI assistance. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic, and complex. While generative AI tools may be used to support learning, successful completion of the assessment will require critical thinking, independent analysis, and the ability to interpret and justify results within an engineering context.\nFailure to appropriately acknowledge the use of generative AI tools may constitute student misconduct under the University’s Student Code of Conduct. To successfully complete this assessment, students must be able to clearly explain and justify their work independently of AI assistance.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Assignment 3: Exploratory Data Analysis and LSTM-Based Modelling for a Dynamic Chemical Engineering System",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "7/10/2026 5:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L06",
+      "task_description": "In this assignment, you will apply exploratory data analysis (EDA) and deep learning techniques to a dynamic chemical engineering system using time-series data. You will begin by examining the structure of the dataset, identifying key patterns, and analysing the relationships between inputs and outputs to understand system behaviour over time. You will then develop and evaluate a Long Short-Term Memory (LSTM) model to predict system outputs based on historical input and state information. This involves preparing time-series data for sequence modelling, designing an appropriate model architecture, and analysing training behaviour to assess learning, convergence, and generalisation. Finally, you will evaluate the predictive performance of your model and interpret the results in the context of system dynamics. You will assess model accuracy using appropriate metrics, compare predictions against observed data, and examine how well the model captures temporal patterns and interactions within the system. Throughout the assignment, you are expected to critically evaluate your modelling choices, data preprocessing decisions, and results using sound engineering reasoning and system-level insight. Your work should demonstrate a clear understanding of both data-driven modelling techniques and the dynamic behaviour of engineering systems. This task has been designed to be challenging, authentic, and complex. While generative AI tools may be used to support learning, successful completion of the assessment will require critical thinking, independent analysis, and the ability to interpret and justify results within an engineering context. Failure to appropriately acknowledge the use of generative AI tools may constitute student misconduct under the University’s Student Code of Conduct. To successfully complete this assessment, students must be able to clearly explain and justify their work independently of AI assistance. Read full task description Hide full task description",
+      "submission_guidelines": "Assessment submission is via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nAn extension request is not considered late until 24 hours after the assessment due date & time.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Course Instance (CI), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessments must be submitted on or before the due date.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "In this assignment, you will apply exploratory data analysis (EDA) and deep learning techniques to a dynamic chemical engineering system using time-series data. You will begin by examining the structure of the dataset, identifying key patterns, and analysing the relationships between inputs and outputs to understand system behaviour over time. You will then develop and evaluate a Long Short-Term Memory (LSTM) model to predict system outputs based on historical input and state information. This involves preparing time-series data for sequence modelling, designing an appropriate model architecture, and analysing training behaviour to assess learning, convergence, and generalisation. Finally, you will evaluate the predictive performance of your model and interpret the results in the context of system dynamics. You will assess model accuracy using appropriate metrics, compare predictions against observed data, and examine how well the model captures temporal patterns and interactions within the system. Throughout the assignment, you are expected to critically evaluate your modelling choices, data preprocessing decisions, and results using sound engineering reasoning and system-level insight. Your work should demonstrate a clear understanding of both data-driven modelling techniques and the dynamic behaviour of engineering systems. This task has been designed to be challenging, authentic, and complex. While generative AI tools may be used to support learning, successful completion of the assessment will require critical thinking, independent analysis, and the ability to interpret and justify results within an engineering context. Failure to appropriately acknowledge the use of generative AI tools may constitute student misconduct under the University’s Student Code of Conduct. To successfully complete this assessment, students must be able to clearly explain and justify their work independently of AI assistance. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic, and complex. While generative AI tools may be used to support learning, successful completion of the assessment will require critical thinking, independent analysis, and the ability to interpret and justify results within an engineering context.\nFailure to appropriately acknowledge the use of generative AI tools may constitute student misconduct under the University’s Student Code of Conduct. To successfully complete this assessment, students must be able to clearly explain and justify their work independently of AI assistance.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Individual Project: Design and Implementation of a RAG-Based Decision Support System for a Chemical Engineering Application",
+      "mode": "Oral, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Presentation, Project",
+      "weight": "30%",
+      "due_date": "17:00 Project Report and Presentation Slides Submission 28/10/2026 Oral presentations in class 26/10/2026 - 30/10/2026 The project report and presentation slides are to be submitted before the first scheduled presentation session. Oral presentations will take place during the scheduled workshop and tutorial sessions in Week 13 .",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L07",
+      "task_description": "Project Report (66%) Develop a Retrieval-Augmented Generation (RAG) chatbot tailored to a chemical engineering application involving process operations, troubleshooting, and knowledge management . The system should integrate relevant technical sources such as operational manuals, safety procedures, and process documentation. The chatbot must utilise a vector database and embedding models to retrieve contextually relevant information, which is then combined with a language model to generate accurate, reliable, and context-aware responses. The implementation should demonstrate the chatbot’s ability to support users with queries related to process operation, performance analysis, fault diagnosis, and safety considerations. The written report must: Clearly describe the RAG system architecture Justify key design decisions, including model selection, chunking, and retrieval strategy Present implementation details and evaluation results Critically analyse system performance, including limitations such as retrieval errors and hallucinations Provide appropriate documentation, references, and source citations This assessment has been designed to be challenging, authentic, and complex. While generative AI tools may be used to support learning, successful completion of the assessment will require critical thinking, independent analysis, and the ability to interpret and justify results within an engineering context. Failure to appropriately acknowledge the use of generative AI tools may constitute student misconduct under the University’s Student Code of Conduct. To successfully complete this assessment, students must be able to clearly explain and justify their work independently of AI assistance. Oral Presentation (34%) The oral presentation forms part of a hurdle assessment and will be evaluated in conjunction with the written report. Students are required to deliver a 7-10-minute in-person presentation , followed by 5 minutes of questions . The presentation should: Explain the RAG system architecture and implementation approach Demonstrate how the chatbot supports technical decision-making and information retrieval Present key findings from system evaluation and performance testing Discuss limitations, challenges, and potential improvements , including broader industrial applications Oral Presentation Conditions: The oral presentation is closed-book . No written materials or calculators are permitted. Read full task description Hide full task description",
+      "submission_guidelines": "Written assessment component submission is via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nAn extension request is not considered late until 24 hours after the assessment due date & time.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Course Instance (CI), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessments must be submitted on or before the due date.\nPenalties Apply for Late Submission\nRefer PPL Assessment Procedure Section 3 Part C (48)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Project Report (66%) Develop a Retrieval-Augmented Generation (RAG) chatbot tailored to a chemical engineering application involving process operations, troubleshooting, and knowledge management . The system should integrate relevant technical sources such as operational manuals, safety procedures, and process documentation. The chatbot must utilise a vector database and embedding models to retrieve contextually relevant information, which is then combined with a language model to generate accurate, reliable, and context-aware responses. The implementation should demonstrate the chatbot’s ability to support users with queries related to process operation, performance analysis, fault diagnosis, and safety considerations. The written report must: Clearly describe the RAG system architecture Justify key design decisions, including model selection, chunking, and retrieval strategy Present implementation details and evaluation results Critically analyse system performance, including limitations such as retrieval errors and hallucinations Provide appropriate documentation, references, and source citations This assessment has been designed to be challenging, authentic, and complex. While generative AI tools may be used to support learning, successful completion of the assessment will require critical thinking, independent analysis, and the ability to interpret and justify results within an engineering context. Failure to appropriately acknowledge the use of generative AI tools may constitute student misconduct under the University’s Student Code of Conduct. To successfully complete this assessment, students must be able to clearly explain and justify their work independently of AI assistance. Oral Presentation (34%) The oral presentation forms part of a hurdle assessment and will be evaluated in conjunction with the written report. Students are required to deliver a 7-10-minute in-person presentation , followed by 5 minutes of questions . The presentation should: Explain the RAG system architecture and implementation approach Demonstrate how the chatbot supports technical decision-making and information retrieval Present key findings from system evaluation and performance testing Discuss limitations, challenges, and potential improvements , including broader industrial applications Oral Presentation Conditions: The oral presentation is closed-book . No written materials or calculators are permitted. Read full task description Hide full task description\nThis assessment has been designed to be challenging, authentic, and complex. While generative AI tools may be used to support learning, successful completion of the assessment will require critical thinking, independent analysis, and the ability to interpret and justify results within an engineering context.\nFailure to appropriately acknowledge the use of generative AI tools may constitute student misconduct under the University’s Student Code of Conduct. To successfully complete this assessment, students must be able to clearly explain and justify their work independently of AI assistance.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (27 Jul - 02 Aug)",
+      "activity_type": "Workshop",
+      "topic": "Exploratory data analysis In Week 1, the focus is on introducing the fundamental concepts that underpin the application of artificial intelligence in chemical engineering. Students will gain an overview of the course structure, assessment, and key learning objectives. The workshop session introduces artificial intelligence and machine learning , including the main types of machine learning problems (e.g., classification, regression, and unsupervised learning). Students will also be introduced to the principles of data analysis , highlighting its importance in understanding and improving chemical engineering processes. During the tutorial, students will set up the required computational environment, including the installation of Python and Visual Studio Code . They will then begin applying basic data analysis techniques to distillation plant data , developing initial skills in data handling, exploration, and interpretation. Hands-on activities across both sessions will emphasise practical engagement, allowing students to build foundational skills in data processing, analysis, and visualisation . These skills will support subsequent topics in machine learning and data-driven modelling introduced throughout the course. Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 2 To Week 5 (03 Aug - 30 Aug)",
+      "activity_type": "Workshop",
+      "topic": "Supervised Learning: Classification and Regression Weeks 2-5 build on the foundational concepts introduced in Week 1 by developing core skills in supervised machine learning , focusing on both classification and regression methods relevant to chemical engineering applications. Students are introduced to classification problems , where the goal is to assign data to predefined categories. The workshop sessions cover key classification algorithms, including instance-based methods (e.g., K-Nearest Neighbours), tree-based models (e.g., decision trees and random forests), and margin-based models such as logistic regression and support vector machines (SVM) . Tutorial sessions reinforce these concepts through practical implementation using chemical engineering case studies . The course then progresses to regression methods , which are used to model relationships between variables and predict continuous outcomes. Students are introduced to linear regression techniques , including simple and multiple linear regression, before progressing to more advanced methods such as polynomial regression and regularisation techniques (Ridge, Lasso, and Elastic Net). Tutorials emphasise the application of these models to realistic engineering problems, such as modelling reactor performance and analysing distillation data. Across these weeks, students develop practical skills in model implementation, evaluation, and interpretation using Python , while gaining an understanding of how machine learning techniques can support process analysis, prediction, and decision-making in chemical engineering contexts. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 6 To Week 7 (31 Aug - 13 Sep)",
+      "activity_type": "Workshop",
+      "topic": "Unsupervised Learning: Dimensionality Reduction and Clustering Weeks 6-7 extend the foundational machine learning concepts by introducing unsupervised learning techniques , focusing on identifying patterns and structures in data without predefined labels. Emphasis is placed on methods that support understanding and simplifying complex chemical engineering datasets. Students are introduced to dimensionality reduction , including Principal Component Analysis (PCA) , along with key multivariate statistical concepts such as variance, covariance, and correlation . Workshop sessions explore how these techniques can be used to reduce data complexity, improve interpretability, and extract meaningful features from process data. Tutorial sessions reinforce these concepts through practical applications to engineering datasets. The course then progresses to clustering methods , where the objective is to group similar data points to reveal underlying structure. Students examine different clustering approaches, including distance-based , density-based , and probabilistic methods , with a focus on algorithms such as K-Means, DBSCAN, and Gaussian Mixture Models . Tutorials emphasise the use of these methods in chemical engineering contexts for tasks such as pattern recognition, process monitoring, and anomaly detection. Across these weeks, students develop practical skills in implementing and interpreting unsupervised learning techniques using Python , while gaining insight into how these approaches can support data exploration, process understanding, and decision-making in chemical engineering applications. Learning outcomes: L01, L02, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 8 To Week 9 (14 Sep - 27 Sep)",
+      "activity_type": "Workshop",
+      "topic": "Deep Learning and Sequential Data Modelling Weeks 8-9 extend the machine learning framework by introducing deep learning techniques and their application to complex chemical engineering data. This component focuses on modelling nonlinear relationships and capturing patterns in high-dimensional and sequential datasets. Students are introduced to artificial neural networks (ANNs) , including their structure, components, and fundamental principles. Workshop sessions explore how deep learning models can learn complex representations from data and why they are effective for capturing nonlinear behaviour in engineering systems. Tutorial sessions reinforce these concepts through practical implementation and exploration of neural network models. The course then progresses to deep learning for sequential and time-series data , which are commonly encountered in chemical engineering processes. Students examine recurrent neural networks (RNNs) and Long Short-Term Memory (LSTM) networks, focusing on their ability to model temporal dependencies and dynamic system behaviour. Tutorials emphasise applications in process data analysis, prediction, and monitoring. Across these weeks, students develop practical skills in designing, implementing, and evaluating deep learning models using Python , while gaining an understanding of how these techniques can support advanced process modelling, forecasting, and decision-making in chemical engineering applications. Learning outcomes: L01, L02, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 10 To Week 13 (05 Oct - 01 Nov)",
+      "activity_type": "Workshop",
+      "topic": "Generative AI and Retrieval-Augmented Generation (RAG) systems Weeks 10-13 extend the course into generative artificial intelligence , focusing on techniques that enable models to generate human-like responses and support knowledge-driven decision-making in chemical engineering contexts. This component introduces the principles and capabilities of large language models (LLMs) and their role in processing and generating natural language. Students are introduced to Generative AI concepts , including how LLMs are trained and applied to tasks such as question answering, summarisation, and technical explanation. Workshop sessions explore the strengths and limitations of generative models, including challenges such as hallucination and reliability in engineering applications. The course then focuses on Retrieval-Augmented Generation (RAG) , which combines information retrieval with language model generation to improve accuracy and domain grounding. Students learn how to design RAG systems by integrating document preprocessing, embeddings, vector databases, and retrieval mechanisms with generative models. Tutorial sessions emphasise practical implementation, enabling students to build systems capable of retrieving relevant technical information and generating context-aware responses for engineering problems. Across these weeks, students develop practical skills in implementing generative AI using Python , while gaining insight into how these approaches can support knowledge management, decision support, and operator assistance in chemical engineering applications. Learning outcomes: L01, L02, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L07"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

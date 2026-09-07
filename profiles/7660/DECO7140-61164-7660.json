@@ -1,0 +1,182 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/DECO7140-61164-7660",
+  "scraped_at": "2026-09-07T05:52:19.353321+00:00",
+  "course_code": "DECO7140",
+  "class_code": "61164",
+  "semester_code": "7660",
+  "full_course_code": "DECO7140-61164-7660",
+  "course_title": "Introduction to Web Design",
+  "study_period": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Elec Engineering & Comp Science School",
+  "course_description": "This course introduces students to web design, user experience (UX), web-based user interface design (UI), and front-end development (FED). Students learn to design and develop human-centred websites through integrated study of design principles, accessibility, ethical practice, and modern development techniques. The course emphasises continuous practice, critical judgement, responsible tool use (including AI tools), and practice-based research to support professional capability in contemporary web design and development.\n\nThis course treats web design and development as a practiced capability, not a body of knowledge, developed through structured, continuous engagement that builds both technical competence and professional resilience: capability development through continuous, scaffolded practice.\n\nThis course provides a practice-led introduction to User Experience (UX), User Interface (UI), and Front-End Development (FED). You learn by designing, building, testing, and refining real websites across the semester using HTML, CSS, and JavaScript.\n\nA central feature of the course is ongoing practice and iterative learning. Rather than memorising tools or rules, you develop capability through a structured learning loop: analysing client briefs and user data, translating insights into design decisions, implementing those decisions in code, testing your work, and refining it. This repeated cycle builds technical skill alongside professional judgement.\n\nApplied classes play an essential role in this process. They are assessment-aligned and designed to guide you through key stages of each task. In these sessions, you practise problem-solving, receive feedback, clarify expectations, and progressively develop your work. Assessment is therefore integrated into learning and supports growth over time, rather than evaluating a single final product.\n\nThe course emphasises responsive, accessible, and ethically responsible design. You apply UX/UI principles, accessibility standards, and culturally respectful practices in both design and implementation.\n\nYou also develop responsible AI decision-making capability. You may choose to use AI tools, limit their use, or deliberately not use them. What is assessed is your judgement - how you verify outputs, maintain authorship, and demonstrate critical and ethical reasoning in an AI-present environment.\n\nBy the end of the course, you will be able to design and implement accessible, human-centred websites, use professional development workflows, and clearly justify your design and technical decisions using evidence and structured reasoning.\n\nAs a Master’s-level (AQF-9) course, this subject includes a research component. Students use user research, design theory, accessibility standards, and ethical frameworks to inform their decisions, and clearly justify their reasoning through annotated artefacts and reflection.\n\nAI tools may be used to support learning and task completion in this course, and the course provides guidance on appropriate use. Students are expected to apply judgement when using these tools, to check outputs carefully, and to ensure that all submitted work reflects their own understanding. Students are responsible for ensuring that any use of AI complies with academic integrity requirements and is appropriately acknowledged.\n\nChanges in response to student feedback\n\nThe number of assessment tasks has been reduced to 3 in total.",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "DECO1400",
+      "IENV7961",
+      "MMDS1400",
+      "MMDS7961"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course enquiries",
+      "name": "Course email",
+      "email": "DECO7140@eecs.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Nell Baghaei"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Nell Baghaei"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Yinshu Zhao"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
+  "course_aims": "This course aims to:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Web Design (including accessibility): Analyse client goals and user research to design human-centred website structures and interfaces, and justify design decisions using UX/UI theory, accessibility standards, and ethical considerations. [THIS LEARNING OBJECTIVE CONTRIBUTES TO AQF9 RESEARCH FOR MASTERS PROGRAMS]"
+    },
+    {
+      "number": "LO2.",
+      "description": "Web Development (HTML, CSS, JavaScript): Develop, implement, and evaluate responsive, accessible web pages using HTML, CSS, and JavaScript, following contemporary front-end development practices and coding standards."
+    },
+    {
+      "number": "LO3.",
+      "description": "Tools for Design and Development: Employ industry-standard tools, including design software, development environments, version control, and verification tools, to support, improve, and document design and development processes."
+    },
+    {
+      "number": "LO4.",
+      "description": "Ethics in Web Design and Development: Identify, evaluate, and apply ethical principles to design and development decisions, demonstrating awareness of cultural, social, accessibility, and data-related impacts in professional web practice."
+    },
+    {
+      "number": "LO5.",
+      "description": "Justify the responsible selection, use, adaptation, or rejection of information sources, digital tools, and AI-supported systems within web design and development workflows, demonstrating verification, human judgement, authorship, and academic or professional integrity."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Notebook/ Logbook, Practical/ Demonstration, Presentation, Reflection",
+      "title": "In-person Reviews",
+      "weight": "60%",
+      "due_date": "In-person review 1: During your allocated applied class (10%) Week 4 Mon - Week 4 Fri; In-person review 2: During your allocated applied class (20%) Week 9 Mon - Week 9 Fri; In-person review 3: During your allocated applied class (30%) Week 12 Mon - Week 12 Fri",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Product/ Design",
+      "title": "Research and Proposal",
+      "weight": "20%",
+      "due_date": "21/09/2026 4:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Computer Code, Project",
+      "title": "Website Development",
+      "weight": "20%",
+      "due_date": "6/11/2026 4:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-person Reviews",
+      "mode": "Oral",
+      "category": "Computer Code, Notebook/ Logbook, Practical/ Demonstration, Presentation, Reflection",
+      "weight": "60%",
+      "due_date": "In-person review 1: During your allocated applied class (10%) Week 4 Mon - Week 4 Fri In-person review 2: During your allocated applied class (20%) Week 9 Mon - Week 9 Fri In-person review 3: During your allocated applied class (30%) Week 12 Mon - Week 12 Fri",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Use of AI is RESTRICTED in this Assessment Task This assessment task is completed in person as an identity-verified progress check-in. Students are not permitted to use AI tools to generate answers or complete assessment requirements during the reviews . However, because responsible and transparent use of AI tools is a core learning focus of the course, students may discuss, explain, or demonstrate prior use (or non-use) of AI tools . This may include showing examples of how AI tools were used during their development process, explaining verification steps, or reflecting on limitations, risks, and decision-making. A detailed task sheet and grading criteria for this assessment item is available in Blackboard in the Assessment Folder. It is important that you read this document to understand all of the requirements of this assessment item. Read full task description Hide full task description",
+      "submission_guidelines": "The in-person review sessions are interactive oral assessment during your allocated applied class. These are not artefact submissions but identity-verified, time-bound professional conversations that require attendance, preparation, and active engagement at a specific point in the semester.\nYour identity will be verified during the sessions, so please bring your student card.\nIn accordance with UQ Assessment Policy, the review session will be recorded.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 14 days to allow the following in-person review to proceed as scheduled.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nThe in-person review sessions take place during scheduled applied classes. As a result, late submission is not possible. A 100% late penalty with no grace period applies to any in-person review not completed at the scheduled time.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "Use of AI is RESTRICTED in this Assessment Task This assessment task is completed in person as an identity-verified progress check-in. Students are not permitted to use AI tools to generate answers or complete assessment requirements during the reviews . However, because responsible and transparent use of AI tools is a core learning focus of the course, students may discuss, explain, or demonstrate prior use (or non-use) of AI tools . This may include showing examples of how AI tools were used during their development process, explaining verification steps, or reflecting on limitations, risks, and decision-making. A detailed task sheet and grading criteria for this assessment item is available in Blackboard in the Assessment Folder. It is important that you read this document to understand all of the requirements of this assessment item. Read full task description Hide full task description\nUse of AI is RESTRICTED in this Assessment Task\nThis assessment task is completed in person as an identity-verified progress check-in. Students are not permitted to use AI tools to generate answers or complete assessment requirements during the reviews .\nHowever, because responsible and transparent use of AI tools is a core learning focus of the course, students may discuss, explain, or demonstrate prior use (or non-use) of AI tools . This may include showing examples of how AI tools were used during their development process, explaining verification steps, or reflecting on limitations, risks, and decision-making.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Research and Proposal",
+      "mode": "Written",
+      "category": "Computer Code, Product/ Design",
+      "weight": "20%",
+      "due_date": "21/09/2026 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Use of AI tools is PERMITTED in this assessment task. This course explicitly develops students’ capability for responsible AI decision-making as part of professional web design and development practice. Students may choose to use AI tools, to limit or constrain their use, or to deliberately not use AI tools, provided that this decision is made thoughtfully, transparently, and in alignment with the course Responsible AI Decision-Making Capability Framework . Where AI tools are used, students are expected to: maintain human judgement, authorship, and decision-making authority, critically evaluate and verify AI-generated outputs, use AI tools to support learning and professional reasoning rather than replace them, and transparently acknowledge and reflect on their use as required by the assessment task. Responsible AI decision-making (including justified use, selective use, or deliberate non-use) forms part of the assessment expectations. What is this task? For this task, you will investigate a design problem, analyse research findings, and develop a clear proposal for the website you will build in the next task. In this task, you will respond to a client brief, using research to inform design requirements and proposing a website that meets the client’s goals, values, and constraints. In your submission: research activities and findings are documented, insights are synthesised into design requirements and principles, and a structured design proposal is presented and justified. If you are unable to attend a class, it is essential that you engage with the activities independently, as they form a core part of the learning required to complete this assessment successfully. More information about the requirements for this assessment item are provided in an Assessment Task Sheet that will be available in the course Blackboard site. Read full task description Hide full task description",
+      "submission_guidelines": "Your submission should be uploaded on Blackboard. More details will be provided in the assessment brief.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 14 days as feedback will be provided within 21 days.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "ai_statement": "Use of AI tools is PERMITTED in this assessment task. This course explicitly develops students’ capability for responsible AI decision-making as part of professional web design and development practice. Students may choose to use AI tools, to limit or constrain their use, or to deliberately not use AI tools, provided that this decision is made thoughtfully, transparently, and in alignment with the course Responsible AI Decision-Making Capability Framework . Where AI tools are used, students are expected to: maintain human judgement, authorship, and decision-making authority, critically evaluate and verify AI-generated outputs, use AI tools to support learning and professional reasoning rather than replace them, and transparently acknowledge and reflect on their use as required by the assessment task. Responsible AI decision-making (including justified use, selective use, or deliberate non-use) forms part of the assessment expectations. What is this task? For this task, you will investigate a design problem, analyse research findings, and develop a clear proposal for the website you will build in the next task. In this task, you will respond to a client brief, using research to inform design requirements and proposing a website that meets the client’s goals, values, and constraints. In your submission: research activities and findings are documented, insights are synthesised into design requirements and principles, and a structured design proposal is presented and justified. If you are unable to attend a class, it is essential that you engage with the activities independently, as they form a core part of the learning required to complete this assessment successfully. More information about the requirements for this assessment item are provided in an Assessment Task Sheet that will be available in the course Blackboard site. Read full task description Hide full task description\nUse of AI tools is PERMITTED in this assessment task.\nThis course explicitly develops students’ capability for responsible AI decision-making as part of professional web design and development practice. Students may choose to use AI tools, to limit or constrain their use, or to deliberately not use AI tools, provided that this decision is made thoughtfully, transparently, and in alignment with the course Responsible AI Decision-Making Capability Framework .\nWhere AI tools are used, students are expected to:\nuse AI tools to support learning and professional reasoning rather than replace them, and",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Website Development",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Computer Code, Project",
+      "weight": "20%",
+      "due_date": "6/11/2026 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Use of AI tools is PERMITTED in this assessment task. This course explicitly develops students’ capability for responsible AI decision-making as part of professional web design and development practice. Students may choose to use AI tools, to limit or constrain their use, or to deliberately not use AI tools, provided that this decision is made thoughtfully, transparently, and in alignment with the course Responsible AI Decision-Making Capability Framework . Where AI tools are used, students are expected to: maintain human judgement, authorship, and decision-making authority, critically evaluate and verify AI-generated outputs, use AI tools to support learning and professional reasoning rather than replace them, and transparently acknowledge and reflect on their use as required by the assessment task. Responsible AI decision-making (including justified use, selective use, or deliberate non-use) forms part of the assessment expectations. What is this task? Website Development is your opportunity to turn your previous decisions into a working website. You will implement the website structure, visual and interaction design, and key functionality using HTML, CSS, and JavaScript , while integrating accessibility and ethical considerations in practice. This task recognises that implementation reveals constraints. You may need to adapt parts of your proposal, but you must justify any variations and show how your final build still aligns with your earlier reasoning. What do I need to produce? You will produce and submit a 5-page website deployed online (and committed to version control), implemented with component-based CSS and modular JavaScript. More information about the requirements for this assessment item are provided in an Assessment Task Sheet that will be available in the course Blackboard site. Read full task description Hide full task description",
+      "submission_guidelines": "You will submit a functional website (following the requirements detailed in the task sheet for this assessment item) by uploading a zip of all website files to Blackboard. More details will be provided in the assessment brief.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nNote that extensions on an assessment item due in the exam period may lead to an INC grade being entered for the course.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "ai_statement": "Use of AI tools is PERMITTED in this assessment task. This course explicitly develops students’ capability for responsible AI decision-making as part of professional web design and development practice. Students may choose to use AI tools, to limit or constrain their use, or to deliberately not use AI tools, provided that this decision is made thoughtfully, transparently, and in alignment with the course Responsible AI Decision-Making Capability Framework . Where AI tools are used, students are expected to: maintain human judgement, authorship, and decision-making authority, critically evaluate and verify AI-generated outputs, use AI tools to support learning and professional reasoning rather than replace them, and transparently acknowledge and reflect on their use as required by the assessment task. Responsible AI decision-making (including justified use, selective use, or deliberate non-use) forms part of the assessment expectations. What is this task? Website Development is your opportunity to turn your previous decisions into a working website. You will implement the website structure, visual and interaction design, and key functionality using HTML, CSS, and JavaScript , while integrating accessibility and ethical considerations in practice. This task recognises that implementation reveals constraints. You may need to adapt parts of your proposal, but you must justify any variations and show how your final build still aligns with your earlier reasoning. What do I need to produce? You will produce and submit a 5-page website deployed online (and committed to version control), implemented with component-based CSS and modular JavaScript. More information about the requirements for this assessment item are provided in an Assessment Task Sheet that will be available in the course Blackboard site. Read full task description Hide full task description\nUse of AI tools is PERMITTED in this assessment task.\nThis course explicitly develops students’ capability for responsible AI decision-making as part of professional web design and development practice. Students may choose to use AI tools, to limit or constrain their use, or to deliberately not use AI tools, provided that this decision is made thoughtfully, transparently, and in alignment with the course Responsible AI Decision-Making Capability Framework .\nWhere AI tools are used, students are expected to:\nuse AI tools to support learning and professional reasoning rather than replace them, and"
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Lecture",
+      "topic": "Lectures | Weeks 1 to 13 Lectures in this course provide the conceptual foundations and theoretical frameworks for key topics in User Experience Design (UX), User Interface Design (UI), and Frontend Development (FED). Rather than functioning as extended presentations, lectures are designed as guided learning sessions that build understanding through preparation, discussion, and application. Short preparatory videos or podcasts are generally provided before each lecture to introduce core concepts, terminology, and examples. These materials allow you to engage with the foundational content in advance, so that scheduled lecture time can be used for discussion, clarification, and short structured activities that deepen understanding. Key features of lectures include: Conceptual foundations: Lectures introduce and contextualise essential theories and principles, including usability, accessibility, ethical design, and interaction design concepts that underpin effective web design and development. Active engagement: Scheduled lecture time is used for discussion, reflection, and small activities that help you interrogate ideas, connect theory to practice, and prepare for applied work. Scaffolded learning: Lecture topics are carefully sequenced to build progressively across the semester, supporting increasing independence and complexity in applied and assessment work. Industry relevance: Concepts and examples are grounded in contemporary professional practice, helping you develop transferable understanding rather than tool-specific knowledge. Lectures provide the direction and framing for learning in the course, while deeper understanding is developed through Applied Classes, independent activities, and assessment tasks. Attendance is encouraged, and all preparatory materials, recordings, and resources are made available for review. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 13",
+      "activity_type": "Applied Class",
+      "topic": "Applied Classes | Weeks 1 to 13 Applied Classes are the practical core of this course. They are structured, hands-on sessions where you apply lecture concepts directly to design and development work, supported by guided activities and feedback from the teaching team. These classes are designed to reflect professional web design and development practice. Rather than following step-by-step instructions to produce a fixed outcome, you will engage in iterative design, coding, testing, debugging, and refinement. The focus is on developing understanding, judgement, and professional habits through practice. Key features of Applied Classes include: Applied learning: Activities are closely aligned with weekly lecture content, enabling you to put theory into practice immediately through design and development tasks. Progressive expectations: Activities are sequenced across the semester to move from guided practice toward greater independence, mirroring the increasing expectations across assessment tasks. Feedback and support: Applied Classes provide opportunities for formative feedback, discussion, and clarification, helping you identify issues early and refine your approach before assessment submission. Assessment alignment\" Applied Class activities are intentionally designed to support the completion of assessment tasks. Work completed in these sessions contributes directly to your progress in A1, A2, and A3. Professional practice habits: You are encouraged to explain your decisions, respond to feedback, reflect on challenges, and make responsible choices about tools and workflows, including the use or non-use of AI tools. To benefit fully from Applied Classes, you are expected to come prepared, actively engage with the activities, and use feedback to inform your ongoing work. If you are unable to attend a scheduled class, equivalent activities and resources will be provided, and you are responsible for completing them independently. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: EECS School Guidelines for Students Learning activities"
+}
