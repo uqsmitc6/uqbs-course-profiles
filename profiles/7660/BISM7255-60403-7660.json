@@ -1,0 +1,340 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BISM7255-60403-7660",
+  "scraped_at": "2026-09-07T03:47:25.225685+00:00",
+  "course_code": "BISM7255",
+  "class_code": "60403",
+  "semester_code": "7660",
+  "full_course_code": "BISM7255-60403-7660",
+  "course_title": "Business Information Systems Analysis and Design",
+  "study_period": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "Structured and object-oriented analysis and design of business systems; testing and quality assurance; practical group experience with CASE tools integrated with a relational database for business systems. Critical analysis and discussion of recent research.\n\nSystems analysis and design is a process focused on the development of new and the extension of existing information systems. It requires a unique set of problem-solving skills and knowledge of the information systems and business domains – such skills are in high demand in industry.\n\nAnalysis and design of an information system is an activity that is carried out by a systems analyst with the involvement of various other stakeholders who are the source of requirements for the system. As such it is paramount that as business professionals, students are competent in this area to be able to participate in the process of developing new and extending existing information systems.\n\nThis course provides students with an understanding of various systems development approaches and in-depth knowledge of and experience with the requirements analysis and modelling aspects that lead up to system design and implementation.\n\nSustainable Development Goals - UQ Business School is a proud supporter and Advanced Signatory of the United Nations Principles for Responsible Management Education (UN PRME) . As part of the largest global collaboration between business schools and the UN, the school emphasises its role in empowering students to drive societal transformation through the Sustainable Development Goals . The SDGs highlight that a thriving economy relies on a healthy environment, aiming to balance economic growth, social well-being, and environmental protection for a sustainable future.\n\nCourse Changes in Response to Previous Student Feedback",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "BISM7206"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "BISM3222",
+      "INFS3222"
+    ],
+    "restrictions": [
+      "Quota: Minimum of 15 enrolments"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Mr Keith Harbottle",
+      "email": "k.harbottle@business.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Mr Keith Harbottle"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note:\nTeaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull Name\nStudent ID\nCourse Code",
+  "course_aims": "The understanding of how organisations utilise technology to master internal problems, improve efficiency and unlock innovative opportunities, depends largely on their ability to analyse requirements for and create designs of information systems. This course aims to provide students with the concepts, knowledge and skills required to analyse and design information systems and builds the related problem-solving skills. The course concentrates on the front end of the information systems development life cycle and lightly touches on the implementation of software and their testing and maintenance.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Describe the major alternative methodologies (e.g., agile, lean) that are used in developing information systems and decide which methodology to use in a certain context."
+    },
+    {
+      "number": "LO2.",
+      "description": "Prepare and use various information-gathering techniques for eliciting user information requirements and system expectations."
+    },
+    {
+      "number": "LO3.",
+      "description": "Construct and interpret a variety of system description documents, including UML use case, activity, class, sequence, statechart and entity-relationship diagrams, Structured English, as well as screen, form, and report layouts."
+    },
+    {
+      "number": "LO4.",
+      "description": "Communicate effectively and culturally safe, in both written and oral forms, systems specifications, implementation strategies, and design requirements, and be persuasive and culturally appropriate in these presentations."
+    },
+    {
+      "number": "LO5.",
+      "description": "Solve and innovate on practical problems that may emerge in the job roles of Business Analyst and/or Systems Analyst using UML integrated environments and low-code platforms as an individual or as part of a team."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation, Product/ Design",
+      "title": "Analysis and Design UML Modelling",
+      "weight": "35%",
+      "due_date": "11/09/2026 3:00 pm",
+      "conditions": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "category": "Computer Code, Product/ Design, Reflection",
+      "title": "Application Development",
+      "weight": "20%",
+      "due_date": "9/10/2026 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "45%",
+      "due_date": "End of Semester Exam Period; 7/11/2026 - 21/11/2026",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Analysis and Design UML Modelling",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Paper/ Report/ Annotation, Product/ Design",
+      "weight": "35%",
+      "due_date": "11/09/2026 3:00 pm",
+      "other_conditions": "Peer assessment factor. See the conditions definitions",
+      "learning_outcomes_assessed": "L02, L03, L04, L05",
+      "task_description": "In this assignment, you will be given a real-world case scenario, and it is the student's task to produce the systems analysis and design documentation for the case scenario by creating UML models. The purpose of the assignment is to develop your ability to justify, analyse, and design software applications using Enterprise Architecture. The assignment can be completed individually or in a team of up to 2 students. When working in pairs, students are required to do a peer assessment, which may affect assessment results. Details will be provided on Blackboard. Details of the assignment are given on the course's Blackboard site (i.e, the course's Learn.UQ site). This assessment is to address at least one PRME Sustainable Development Goal and is an opportunity to add an innovative solution to your ePortfolio. Read full task description Hide full task description",
+      "submission_guidelines": "Submitted via Blackboard assessment link. For details, please refer to the assignment specification on the Blackboard site for the course.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Team or group-based"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Application Development",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Computer Code, Product/ Design, Reflection",
+      "weight": "20%",
+      "due_date": "9/10/2026 3:00 pm",
+      "other_conditions": "Longitudinal. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L04, L05",
+      "task_description": "The students are asked to develop an app using a no-code/low-code platform and AI software. Based on the final app, students are asked to write a report about the development. The details about the assessment can be found on the course's Blackboard site after the in-semester break. In order to pass this assessment, a working app must be submitted; failure to submit a working app may result in a score of 0 for this assessment item. Read full task description Hide full task description",
+      "submission_guidelines": "For details please refer to the assignment specification on the Blackboard site for the course (released after the mid-semester break).\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "45%",
+      "due_date": "End of Semester Exam Period 7/11/2026 - 21/11/2026",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The exam will run during the end of the semester examination period. All content of the entire semester is covered. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options No calculators permitted Open/closed book Closed book examination - specified written materials permitted Materials Two A4 sheets of handwritten notes, double sided, are permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Seminar",
+      "topic": "Course Introduction and IS Analysis/Design Learning outcomes: L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Tutorial",
+      "topic": "Tute 1 - UML Modelling of Use Case Diagrams Learning outcomes: L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Seminar",
+      "topic": "Strategic Decision for ISD Learning outcomes: L01, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Tutorial",
+      "topic": "Tute 2 - UML Modelling of Activity Diagrams Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Seminar",
+      "topic": "Capturing the Domain, Identifying Requirements Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Tutorial",
+      "topic": "Tute 3 - UML Modelling of Sequence Diagrams Ekka Public Holiday - Wednesday 12th August 2026 - Check Blackboard for announcements about affected classes. Learning outcomes: L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Seminar",
+      "topic": "Waterfall ISD Methods and Practices Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Tutorial",
+      "topic": "Tute 4 - UML Modelling of Class Diagrams Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Seminar",
+      "topic": "Agile ISD Methods and Practices Learning outcomes: L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Tutorial",
+      "topic": "Tute 5 - UML Modelling of State Machine Diagrams Learning outcomes: L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Seminar",
+      "topic": "Glide - Low-Code Development Introduction Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Tutorial",
+      "topic": "Tute 6 - Comprehensive UML Case Study Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Seminar",
+      "topic": "Glide - Design Databases, Interfaces and Actions Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Seminar",
+      "topic": "Glide - Advanced Components Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Seminar",
+      "topic": "Managing Teams and People - Project Management 1 Learning outcomes: L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "In-Semester Break"
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Seminar",
+      "topic": "Guest Speaker - Industry King’s Birthday Public Holiday - Monday 5th October 2026 - Check Blackboard for announcements about affected classes. Learning outcomes: L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Seminar",
+      "topic": "Managing Teams and People - Project Management 2 Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Seminar",
+      "topic": "DevOps - Deploying Information Systems, and WIL Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Seminar",
+      "topic": "Course Summary and Reflection Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

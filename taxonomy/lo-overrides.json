@@ -1,11 +1,11 @@
 {
   "_metadata": {
     "description": "LO-to-assessment mappings restored from Jac (curriculum.uq.edu.au), the authored curriculum record. UQ's published course profiles omit these mappings (fully or partially) due to a publishing fault; this overlay completes the record. Replace semantics: an entry is the authoritative full LO list for its assessment.",
-    "last_updated": "2026-09-07 03:10",
+    "last_updated": "2026-09-07 03:51",
     "generated_from": "lo-overrides.csv",
     "semantics": "replace_per_assessment; exact class_number wins over exact semester_code, which wins over blank. Entries with class_number apply ONLY to that SI-NET class (parallel deliveries can map differently). Consumers that do not distinguish classes should ignore class_number entries for offerings they cannot match.",
-    "class_scoped_entries": 35,
-    "carried_entries": 30
+    "class_scoped_entries": 122,
+    "carried_entries": 117
   },
   "overrides": [
     {
@@ -52,6 +52,52 @@
       "source": "jac"
     },
     {
+      "course_code": "ACCT1112",
+      "semester_code": "7660",
+      "assessment_title": "Assignment: Understanding Financial Statements",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5",
+        "LO6"
+      ],
+      "class_number": "60242",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "ACCT1112",
+      "semester_code": "7660",
+      "assessment_title": "Final exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60242",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "ACCT1112",
+      "semester_code": "7660",
+      "assessment_title": "In-Semester Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60242",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
       "course_code": "ACCT3101",
       "semester_code": "7460",
       "assessment_title": "Final Exam (closed book invigilated exam)",
@@ -204,6 +250,33 @@
       ],
       "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)",
       "source": "jac"
+    },
+    {
+      "course_code": "ACCT3101",
+      "semester_code": "7660",
+      "assessment_title": "Group Assignment - Case Study: Audit Planning and Testing",
+      "learning_outcomes": [
+        "LO3",
+        "LO4",
+        "LO6"
+      ],
+      "class_number": "60378",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "ACCT3101",
+      "semester_code": "7660",
+      "assessment_title": "In-Semester Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO5"
+      ],
+      "class_number": "60378",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
     },
     {
       "course_code": "ACCT7103",
@@ -282,6 +355,55 @@
       "source": "jac"
     },
     {
+      "course_code": "ACCT7106",
+      "semester_code": "7660",
+      "assessment_title": "Final Examination",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "class_number": "60387",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "ACCT7106",
+      "semester_code": "7660",
+      "assessment_title": "Financial Statement Analysis Project - Part 1",
+      "learning_outcomes": [
+        "LO1"
+      ],
+      "class_number": "60387",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "ACCT7106",
+      "semester_code": "7660",
+      "assessment_title": "Financial Statement Analysis Project - Part 2",
+      "learning_outcomes": [
+        "LO2",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60387",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "ACCT7106",
+      "semester_code": "7660",
+      "assessment_title": "Financial Statement Analysis Project - Part 3",
+      "learning_outcomes": [
+        "LO5"
+      ],
+      "class_number": "60387",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
       "course_code": "ACCT7804",
       "semester_code": "7520",
       "assessment_title": "A1: Online Quizzes",
@@ -314,6 +436,21 @@
       ],
       "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2025 (auto-extracted)",
       "source": "jac"
+    },
+    {
+      "course_code": "BISM2202",
+      "semester_code": "7660",
+      "assessment_title": "Business Analytics Case Study",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60393",
+      "notes": "Carried forward from 7620 (scraped): the 7660 profile shows LO1, LO2, LO3, LO5, a partial drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
     },
     {
       "course_code": "BISM2207",
@@ -352,6 +489,47 @@
       ],
       "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)",
       "source": "jac"
+    },
+    {
+      "course_code": "BISM2207",
+      "semester_code": "7660",
+      "assessment_title": "Final Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3"
+      ],
+      "class_number": "62123",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "BISM2207",
+      "semester_code": "7660",
+      "assessment_title": "Online Quiz",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3"
+      ],
+      "class_number": "62123",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "BISM2207",
+      "semester_code": "7660",
+      "assessment_title": "System Development",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "62123",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
     },
     {
       "course_code": "BISM2208",
@@ -592,6 +770,61 @@
       "source": "jac"
     },
     {
+      "course_code": "BISM3208",
+      "semester_code": "7660",
+      "assessment_title": "Digital Transformation Hackathon - Pitch Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5",
+        "LO6"
+      ],
+      "class_number": "60396",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "BISM3208",
+      "semester_code": "7660",
+      "assessment_title": "Emerging Technology: Team presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4",
+        "LO6"
+      ],
+      "class_number": "60396",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "BISM3208",
+      "semester_code": "7660",
+      "assessment_title": "Established Technology: Individual presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO4"
+      ],
+      "class_number": "60396",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "BISM3208",
+      "semester_code": "7660",
+      "assessment_title": "Learning Reflection and Individual Progress Report",
+      "learning_outcomes": [
+        "LO2",
+        "LO4",
+        "LO6"
+      ],
+      "class_number": "60396",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
       "course_code": "BISM7202",
       "semester_code": "7460",
       "assessment_title": "Invigilated End of Semester Examination",
@@ -615,6 +848,18 @@
       ],
       "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2024 (auto-extracted)",
       "source": "jac"
+    },
+    {
+      "course_code": "BISM7208",
+      "semester_code": "7660",
+      "assessment_title": "Learning Reflection and Individual Progress Report",
+      "learning_outcomes": [
+        "LO2",
+        "LO4"
+      ],
+      "class_number": "60399",
+      "notes": "Carried forward from 7620 (scraped): the 7660 profile shows LO2, a partial drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
     },
     {
       "course_code": "BISM7221",
@@ -926,6 +1171,45 @@
       ],
       "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)",
       "source": "jac"
+    },
+    {
+      "course_code": "BISM7808",
+      "semester_code": "7660",
+      "assessment_title": "Ethical Decision Making Case Study",
+      "learning_outcomes": [
+        "LO1",
+        "LO4"
+      ],
+      "class_number": "60174",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "BISM7808",
+      "semester_code": "7660",
+      "assessment_title": "IT Governance Mechanisms in Action Team Project",
+      "learning_outcomes": [
+        "LO1",
+        "LO3"
+      ],
+      "class_number": "60174",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "BSAN2201",
+      "semester_code": "7660",
+      "assessment_title": "Assessment 3 - Reflection (Video)",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60404",
+      "notes": "Carried forward from 7620 (scraped): the 7660 profile shows LO1, LO3, LO5, a partial drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
     },
     {
       "course_code": "BSAN7206",
@@ -1721,6 +2005,54 @@
       "source": "jac"
     },
     {
+      "course_code": "ECON7002",
+      "semester_code": "7660",
+      "assessment_title": "Author, Moderate and Answer Questions via RiPPLE",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5",
+        "LO6"
+      ],
+      "class_number": "60757",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "ECON7002",
+      "semester_code": "7660",
+      "assessment_title": "End-of-Semester Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5",
+        "LO6"
+      ],
+      "class_number": "60757",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "ECON7002",
+      "semester_code": "7660",
+      "assessment_title": "Markets in Action",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5",
+        "LO6"
+      ],
+      "class_number": "60757",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
       "course_code": "ECON7300",
       "semester_code": "7460",
       "assessment_title": "End-of-Semester Exam",
@@ -1865,6 +2197,45 @@
       "source": "jac"
     },
     {
+      "course_code": "ECON7300",
+      "semester_code": "7660",
+      "assessment_title": "End-of-semester Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4"
+      ],
+      "class_number": "60593",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "ECON7300",
+      "semester_code": "7660",
+      "assessment_title": "Pre-lecture Quizzes",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "class_number": "60593",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "ECON7300",
+      "semester_code": "7660",
+      "assessment_title": "Project",
+      "learning_outcomes": [
+        "LO2",
+        "LO3"
+      ],
+      "class_number": "60593",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
       "course_code": "EIBS7301",
       "semester_code": "7620",
       "assessment_title": "Idea Management Examination",
@@ -2004,6 +2375,92 @@
       "class_number": "62459",
       "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2025 class 62459 only — parallel deliveries map differently (auto-extracted)",
       "source": "jac"
+    },
+    {
+      "course_code": "ENVM7524",
+      "semester_code": "7660",
+      "assessment_title": "Case Study on Carbon Management",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "62231",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "ENVM7524",
+      "semester_code": "7660",
+      "assessment_title": "Quiz 1",
+      "learning_outcomes": [
+        "LO1",
+        "LO3",
+        "LO4"
+      ],
+      "class_number": "62231",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "ENVM7524",
+      "semester_code": "7660",
+      "assessment_title": "Quiz 2",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "62231",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "ENVM7524",
+      "semester_code": "7660",
+      "assessment_title": "Case Study on Carbon Management",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "62279",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "ENVM7524",
+      "semester_code": "7660",
+      "assessment_title": "Quiz 1",
+      "learning_outcomes": [
+        "LO1",
+        "LO3",
+        "LO4"
+      ],
+      "class_number": "62279",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "ENVM7524",
+      "semester_code": "7660",
+      "assessment_title": "Quiz 2",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "62279",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
     },
     {
       "course_code": "EVNT7052",
@@ -2273,6 +2730,49 @@
       "source": "jac"
     },
     {
+      "course_code": "FINM7407",
+      "semester_code": "7660",
+      "assessment_title": "Case Study Assignment",
+      "learning_outcomes": [
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60428",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "FINM7407",
+      "semester_code": "7660",
+      "assessment_title": "Final Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60428",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "FINM7407",
+      "semester_code": "7660",
+      "assessment_title": "In-Semester Examination",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "class_number": "60428",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
       "course_code": "FINM7409",
       "semester_code": "7520",
       "assessment_title": "Final Exam",
@@ -2402,6 +2902,62 @@
       ],
       "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)",
       "source": "jac"
+    },
+    {
+      "course_code": "FINM7805",
+      "semester_code": "7660",
+      "assessment_title": "A1: Oral Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3"
+      ],
+      "class_number": "60073",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "FINM7805",
+      "semester_code": "7660",
+      "assessment_title": "A2: Financial Evaluation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60073",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "FINM7805",
+      "semester_code": "7660",
+      "assessment_title": "A1: Oral Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3"
+      ],
+      "class_number": "60175",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "FINM7805",
+      "semester_code": "7660",
+      "assessment_title": "A2: Financial Evaluation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60175",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
     },
     {
       "course_code": "HOSP2005",
@@ -2601,6 +3157,58 @@
       "source": "jac"
     },
     {
+      "course_code": "IBUS2301",
+      "semester_code": "7660",
+      "assessment_title": "Case Study (Special Topics)",
+      "learning_outcomes": [
+        "LO1",
+        "LO4"
+      ],
+      "class_number": "60436",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "IBUS2301",
+      "semester_code": "7660",
+      "assessment_title": "Company Pitches",
+      "learning_outcomes": [
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60436",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "IBUS2301",
+      "semester_code": "7660",
+      "assessment_title": "Evaluations",
+      "learning_outcomes": [
+        "LO4"
+      ],
+      "class_number": "60436",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "IBUS2301",
+      "semester_code": "7660",
+      "assessment_title": "Final Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60436",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
       "course_code": "IBUS2302",
       "semester_code": "7520",
       "assessment_title": "Final exam",
@@ -2729,6 +3337,21 @@
       "source": "jac"
     },
     {
+      "course_code": "IBUS2309",
+      "semester_code": "7660",
+      "assessment_title": "Cross-Cultural Incident Analysis",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60437",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
       "course_code": "IBUS3306",
       "semester_code": "7520",
       "assessment_title": "Final Exam",
@@ -2848,6 +3471,34 @@
       "source": "jac"
     },
     {
+      "course_code": "IBUS3310",
+      "semester_code": "7660",
+      "assessment_title": "Case Study Presentation & Evaluations",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "62574",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "IBUS3310",
+      "semester_code": "7660",
+      "assessment_title": "Company analysis",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "class_number": "62574",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
       "course_code": "IBUS7302",
       "semester_code": "7520",
       "assessment_title": "Final Exam",
@@ -2966,6 +3617,49 @@
       ],
       "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)",
       "source": "jac"
+    },
+    {
+      "course_code": "IBUS7302",
+      "semester_code": "7660",
+      "assessment_title": "Final Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60439",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "IBUS7302",
+      "semester_code": "7660",
+      "assessment_title": "In-Semester Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60439",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "IBUS7302",
+      "semester_code": "7660",
+      "assessment_title": "Topic Analysis Assignment",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60439",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
     },
     {
       "course_code": "IBUS7306",
@@ -3191,6 +3885,35 @@
       ],
       "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)",
       "source": "jac"
+    },
+    {
+      "course_code": "IBUS7312",
+      "semester_code": "7660",
+      "assessment_title": "Asian Country Analysis - WKS Oral Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "class_number": "61540",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "IBUS7312",
+      "semester_code": "7660",
+      "assessment_title": "Business In An Asian Region",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "61540",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
     },
     {
       "course_code": "LAWS3101",
@@ -3503,6 +4226,18 @@
       "source": "jac"
     },
     {
+      "course_code": "MGTS3301",
+      "semester_code": "7660",
+      "assessment_title": "The Carnival of AI",
+      "learning_outcomes": [
+        "LO1",
+        "LO2"
+      ],
+      "class_number": "60447",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
       "course_code": "MGTS3601",
       "semester_code": "7520",
       "assessment_title": "Industry Change Management Case Study",
@@ -3673,6 +4408,19 @@
       "source": "jac"
     },
     {
+      "course_code": "MGTS7301",
+      "semester_code": "7660",
+      "assessment_title": "In-Semester Examination",
+      "learning_outcomes": [
+        "LO1",
+        "LO3",
+        "LO4"
+      ],
+      "class_number": "60452",
+      "notes": "Carried forward from 7620 (scraped): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
       "course_code": "MGTS7308",
       "semester_code": "7620",
       "assessment_title": "Map the System Proposal & Group Update",
@@ -3836,6 +4584,51 @@
       "source": "jac"
     },
     {
+      "course_code": "MGTS7329",
+      "semester_code": "7660",
+      "assessment_title": "Cross-Cultural Work Adjustment Assignment",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60454",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "MGTS7329",
+      "semester_code": "7660",
+      "assessment_title": "Final Examination",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60454",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "MGTS7329",
+      "semester_code": "7660",
+      "assessment_title": "Group Cross-Cultural Reflection & Emic Analysis",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60454",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
       "course_code": "MGTS7523",
       "semester_code": "7460",
       "assessment_title": "Mid-Semester Exam (Modules 1 - 5)",
@@ -3920,6 +4713,61 @@
       ],
       "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2025 (auto-extracted)",
       "source": "jac"
+    },
+    {
+      "course_code": "MGTS7523",
+      "semester_code": "7660",
+      "assessment_title": "In-class Model Design Challenge",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "class_number": "60455",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "MGTS7523",
+      "semester_code": "7660",
+      "assessment_title": "System Dynamics Modelling Assignment",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "class_number": "60455",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "MGTS7523",
+      "semester_code": "7660",
+      "assessment_title": "Systems Thinking Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60455",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "MGTS7523",
+      "semester_code": "7660",
+      "assessment_title": "Systems thinking report proposal",
+      "learning_outcomes": [
+        "LO1",
+        "LO3"
+      ],
+      "class_number": "60455",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
     },
     {
       "course_code": "MGTS7603",
@@ -4270,6 +5118,47 @@
       "source": "jac"
     },
     {
+      "course_code": "MGTS7803",
+      "semester_code": "7660",
+      "assessment_title": "A1: Advisory report to develop strategic options",
+      "learning_outcomes": [
+        "LO1",
+        "LO2"
+      ],
+      "class_number": "60176",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "MGTS7803",
+      "semester_code": "7660",
+      "assessment_title": "A2: Selecting & Recommending Implementation of a Strategic Option",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60176",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "MGTS7803",
+      "semester_code": "7660",
+      "assessment_title": "A3: Business Simulation Reflection",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60176",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
       "course_code": "MGTS7809",
       "semester_code": "7520",
       "assessment_title": "Executive Board Presentation",
@@ -4545,6 +5434,57 @@
       "source": "jac"
     },
     {
+      "course_code": "MGTS7810",
+      "semester_code": "7660",
+      "assessment_title": "Assessment 2 Individual Case Analysis",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3"
+      ],
+      "class_number": "60074",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "MGTS7810",
+      "semester_code": "7660",
+      "assessment_title": "Assessment 1: Small Group Presentation PowerPoint",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3"
+      ],
+      "class_number": "62573",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "MGTS7810",
+      "semester_code": "7660",
+      "assessment_title": "Assessment 2 Individual Case Analysis",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3"
+      ],
+      "class_number": "62573",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "MGTS7810",
+      "semester_code": "7660",
+      "assessment_title": "Input-Process-Output (IPO) Analysis",
+      "learning_outcomes": [
+        "LO1",
+        "LO2"
+      ],
+      "class_number": "62573",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
       "course_code": "MGTS7812",
       "semester_code": "7520",
       "assessment_title": "A1: Organisation Case-Study - Closing the Gap Group Presentation",
@@ -4715,6 +5655,32 @@
       "source": "jac"
     },
     {
+      "course_code": "MGTS7812",
+      "semester_code": "7660",
+      "assessment_title": "A1: Stakeholder Simulation",
+      "learning_outcomes": [
+        "LO1",
+        "LO3",
+        "LO4"
+      ],
+      "class_number": "60178",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "MGTS7812",
+      "semester_code": "7660",
+      "assessment_title": "A2: Organisation Case-Study - Closing the Gap Group Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4"
+      ],
+      "class_number": "60178",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
       "course_code": "MGTS7820",
       "semester_code": "7520",
       "assessment_title": "A1: Situation Analysis",
@@ -4815,6 +5781,43 @@
       ],
       "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)",
       "source": "jac"
+    },
+    {
+      "course_code": "MGTS7820",
+      "semester_code": "7660",
+      "assessment_title": "A1: Stakeholder and Situation Analysis",
+      "learning_outcomes": [
+        "LO1",
+        "LO4"
+      ],
+      "class_number": "60093",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "MGTS7820",
+      "semester_code": "7660",
+      "assessment_title": "A2: Personal Reflection - Individual",
+      "learning_outcomes": [
+        "LO2",
+        "LO3"
+      ],
+      "class_number": "60093",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "MGTS7820",
+      "semester_code": "7660",
+      "assessment_title": "A3: Final Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4"
+      ],
+      "class_number": "60093",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
     },
     {
       "course_code": "MKTG2501",
@@ -4958,6 +5961,46 @@
       "source": "jac"
     },
     {
+      "course_code": "MKTG7503",
+      "semester_code": "7660",
+      "assessment_title": "Assessment 1: Poster Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO5"
+      ],
+      "class_number": "60466",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "MKTG7503",
+      "semester_code": "7660",
+      "assessment_title": "Assessment 2: Research Report (Group project)",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60466",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "MKTG7503",
+      "semester_code": "7660",
+      "assessment_title": "Assessment 3: Final Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2"
+      ],
+      "class_number": "60466",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
       "course_code": "MKTG7510",
       "semester_code": "7520",
       "assessment_title": "Final Examination",
@@ -5074,6 +6117,21 @@
       ],
       "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2025 (auto-extracted)",
       "source": "jac"
+    },
+    {
+      "course_code": "MKTG7513",
+      "semester_code": "7660",
+      "assessment_title": "Social Change Project - Part B - Team Social Marketing Strategy Pitch",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60095",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows LO1, LO3, LO4, LO5, a partial drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
     },
     {
       "course_code": "PSYC3052",
@@ -5362,6 +6420,19 @@
       ],
       "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)",
       "source": "jac"
+    },
+    {
+      "course_code": "RBUS4411",
+      "semester_code": "7660",
+      "assessment_title": "Presentation and analysis of academic research method",
+      "learning_outcomes": [
+        "LO1",
+        "LO3",
+        "LO5"
+      ],
+      "class_number": "60287",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
     },
     {
       "course_code": "RBUS4999",
@@ -5779,6 +6850,19 @@
       "source": "jac"
     },
     {
+      "course_code": "TOUR1004",
+      "semester_code": "7660",
+      "assessment_title": "Test bank exercises",
+      "learning_outcomes": [
+        "LO1",
+        "LO3",
+        "LO4"
+      ],
+      "class_number": "60481",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
       "course_code": "TOUR7000",
       "semester_code": "7520",
       "assessment_title": "Online Quiz",
@@ -5937,6 +7021,43 @@
       "source": "jac"
     },
     {
+      "course_code": "TOUR7020",
+      "semester_code": "7660",
+      "assessment_title": "Desk Audit",
+      "learning_outcomes": [
+        "LO1",
+        "LO3"
+      ],
+      "class_number": "60483",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "TOUR7020",
+      "semester_code": "7660",
+      "assessment_title": "Impact Analysis",
+      "learning_outcomes": [
+        "LO1",
+        "LO3"
+      ],
+      "class_number": "60483",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "TOUR7020",
+      "semester_code": "7660",
+      "assessment_title": "System Report",
+      "learning_outcomes": [
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "class_number": "60483",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
       "course_code": "TOUR7021",
       "semester_code": "7460",
       "assessment_title": "Final Exam",
@@ -6081,6 +7202,31 @@
       ],
       "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)",
       "source": "jac"
+    },
+    {
+      "course_code": "TOUR7023",
+      "semester_code": "7660",
+      "assessment_title": "Case Study Report",
+      "learning_outcomes": [
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60486",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "TOUR7023",
+      "semester_code": "7660",
+      "assessment_title": "Tourism Destination Assessment: Audit, Infographic and Panel Discussion",
+      "learning_outcomes": [
+        "LO1",
+        "LO2"
+      ],
+      "class_number": "60486",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
     },
     {
       "course_code": "TOUR7031",
@@ -6241,6 +7387,31 @@
       "source": "jac"
     },
     {
+      "course_code": "TOUR7032",
+      "semester_code": "7660",
+      "assessment_title": "Competition Analysis",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3"
+      ],
+      "class_number": "60488",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "TOUR7032",
+      "semester_code": "7660",
+      "assessment_title": "Segmentation and Distribution Channel Review",
+      "learning_outcomes": [
+        "LO1",
+        "LO2"
+      ],
+      "class_number": "60488",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
       "course_code": "TOUR7051",
       "semester_code": "7460",
       "assessment_title": "Destination Market Analysis",
@@ -6288,6 +7459,20 @@
       ],
       "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2025 (auto-extracted)",
       "source": "jac"
+    },
+    {
+      "course_code": "TOUR7051",
+      "semester_code": "7660",
+      "assessment_title": "Destination Market Analysis",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO6"
+      ],
+      "class_number": "60490",
+      "notes": "Carried forward from 7560 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
     }
   ]
 }

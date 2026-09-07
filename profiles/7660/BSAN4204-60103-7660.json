@@ -1,0 +1,281 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN4204-60103-7660",
+  "scraped_at": "2026-09-07T03:47:36.036116+00:00",
+  "course_code": "BSAN4204",
+  "class_code": "60103",
+  "semester_code": "7660",
+  "full_course_code": "BSAN4204-60103-7660",
+  "course_title": "Business Analytics Project",
+  "study_period": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "This project-based course uses live case studies to deliver a signature learning experience in business analytics. Participating businesses offer for study an analytics problem or strategic decision. Further, the partner businesses will make relevant decision-makers and information available to the students. Each student focuses on one of the participating businesses, meeting with their key decision makers and addressing their project to the needs of the partner business. Working under academic supervision, students develop project plans, and write and present their project reports to an audience including representatives of their partner businesses. Finally, each student delivers its partner business with a decision support system embedding its analytics in a graphical user interface. A lecture series on the principles of agile analytics complements the project-based learning.\n\nBSAN4204 requires students to produce a one‑page pitch for a business analytics project, research the technical requirements needed to deliver it, and develop a prototype or a functional application (e.g., an analytics dashboard or web app). Students will work under the guidance of both the BSAN4204 teaching team and an industry partner.\n\nEarly in the course, students will be introduced to the business problem and receive guidance from the industry partner on scoping their analytics projects. This advisory session will focus on the data analytics lifecycle, aligning analytical solutions with strategic objectives, distinguishing user needs from technical research, and understanding how data products are commercialised. Later in the semester, the industry partner will join a sprint session, offering students an optional, non-assessed opportunity to present their working prototypes and gain feedback on how effectively their solutions address real-world business requirements.\n\nCourse Changes in Response to Previous Student Feedback\n\nThe assessment schedule and formats of BSAN4204 have been changed in response to student feedback.\n\nThe one‑page pitch remains unchanged. The research project now comes before the technical demonstration (instead of after) and the application is now demonstrated (instead being submitted as a fully functional app via a deployed URL). This makes the research project forward‑looking rather than reflective, and makes technical demonstration focus on showcasing/explaining the rationale behind in-progress prototype features rather than on documenting the code of a fully functional deployment.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "BISM2201",
+      "BSAN2201"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "BISM4204"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Ms Shannon Lutze",
+      "email": "shannon.lutze@business.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Ms Shannon Lutze"
+    },
+    {
+      "role": "Facilitator",
+      "name": "Ms Milly Chen"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note\n: Teaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull name\nStudent ID\nCourse Code",
+  "course_aims": "This capstone course aims to provide students with unique opportunities to approach and solve authentic business problems, working collaboratively with industry and academic stakeholders, using innovative business analytic skill sets.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Recognise and explain the application of business analytics to solving practical and strategic business problems."
+    },
+    {
+      "number": "LO2.",
+      "description": "Understand how the principles and methods of business analytics can address business problems and improve business performance."
+    },
+    {
+      "number": "LO3.",
+      "description": "To create a project proposal for the design and development of a business analytics project that addresses a problem faced by business, government or society."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply a range of software tools for completing analytics projects and embedding analytics into decision support systems."
+    },
+    {
+      "number": "LO5.",
+      "description": "Assess the value of analytics projects to business and the costs and benefits of investments in analytics projects and teams."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Poster",
+      "title": "One Page Pitch (A1)",
+      "weight": "20%",
+      "due_date": "28/08/2026 4:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Product/ Design",
+      "title": "Research Project (A2)",
+      "weight": "45%",
+      "due_date": "9/10/2026 4:00 pm"
+    },
+    {
+      "category": "Practical/ Demonstration, Product/ Design",
+      "title": "Technical Demonstration (A3)",
+      "weight": "35%",
+      "due_date": "Week 12 - Week 13; Scheduled during Weeks 12/13.",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "One Page Pitch (A1)",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Poster",
+      "weight": "20%",
+      "due_date": "28/08/2026 4:00 pm",
+      "other_conditions": "Work integrated learning. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "This assessment requires a one-page pitch outlining the ideation process for an analytics dashboard (web app) solution to the main business problem. After the problem is introduced, students will receive advice from the industry partner on project ideation. Throughout the first half of the semester, seminars will run as sprint sessions to develop these pitches. These will be paired with sessions focused on understanding the business context, the data, visual prototyping tools, platforms and potential users. The one-page pitch should focus on the main way(s) in which the project may provide value to end-users. Students should aim to maximise the interpretability of their pitch using a combination of written text and visual elements to communicate. A full briefing of the One Page Pitch (A1) will be provided in class, covering more specific requirements of the pitch (i.e., extending what is outlined above). Formatting Requirements: Maximum length: 1 page Page size: A4 Submission format: PDF (.pdf) There is no strict word count. Students should focus on clear and concise communication , using minimal text and supporting it with visual elements (e.g., images, diagrams, graphics, mock-ups) to effectively convey key ideas. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Research Project (A2)",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Paper/ Report/ Annotation, Product/ Design",
+      "weight": "45%",
+      "due_date": "9/10/2026 4:00 pm",
+      "other_conditions": "Work integrated learning. See the conditions definitions",
+      "learning_outcomes_assessed": "L04, L05",
+      "task_description": "This research project investigates the technical requirements, development journey, and future scalability of the analytics dashboard solution proposed in the one-page pitch. The aim is to determine whether the solution is feasible to implement given the practical constraints of available data, software, and personal technical skills. The project should document the requirements gathering process, data enrichment methods used, and the practical challenges encountered while building the solution. It should also critically examine the barriers to scaling the solution beyond a prototype, including data governance, privacy, and broader ethical or AI-related considerations. Run concurrently with the technical build of the analytics dashboard solution, the project should incorporate evidence of this work, such as code snippets and screenshots of progress. A full briefing of the Research Project (A2) will be provided in class, covering more specific requirements within each section of the research project (i.e., extending what is outlined above). Formatting Requirements: There is a strict page limit of 10 A4 pages (with a font size of at least 11pt), not including the title page, table of contents and references. Exceeding the limit may result in a loss of marks in accordance with the grading rubric. Word count: 3,000 words (+/- 300 words, excludes title page, table of contents, headings, headers, footers and references) Submission format: PDF (.pdf) Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Technical Demonstration (A3)",
+      "mode": "Oral, Product/ Artefact/ Multimedia",
+      "category": "Practical/ Demonstration, Product/ Design",
+      "weight": "35%",
+      "due_date": "Week 12 - Week 13 Scheduled during Weeks 12/13.",
+      "other_conditions": "Time limited, Work integrated learning, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L05",
+      "task_description": "An in-person 5-minute demonstration in which students present a functional analytics dashboard, implementing the solution proposed in the One Page Pitch (A1) and developed through the Research Project (A2). The demonstration should showcase the applications main features, overall structure, and user experience. It should illustrate how the application enables users to derive data-driven insights that effectively address the business problem in a technically sound and creative way. A detailed technical explanation of the underlying code is not required. A full briefing of the Technical Demonstration (A3) will be provided in class, covering more specific requirements of the demonstration (i.e., extending what is outlined above). Formatting Requirements: Length: 5 minutes Format: Verbal explanation supported by on-screen interaction with the app. Accompanying slides or pre-recorded content are not permitted. Students demonstrate their app via the in-class projector (using their own laptop). Please Note: The presentation will be recorded for marking purposes per UQ Policy. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nStudents seeking an extension for this assessment are required to contact the course coordinator prior to the deadline.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Seminar",
+      "topic": "Introduction & Problem Framing Introduction to the course project and a business problem which will form the basis for their business analytics project. Students explore the problem space, stakeholders, and rationale for applying business analytics to real-world decision-making. Students are introduced to the responsible use of AI tools to support exploration, idea generation, and problem framing. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Seminar",
+      "topic": "Industry Engagement: Project Discovery Session with the industry partner to discuss how analytics projects typically begin, including ideation, problem framing, discovery activities, and early decision-making. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Seminar",
+      "topic": "Sprint Session 1: Exploration and Insight Generation Students explore a project dataset (supplied) using appropriate analytical tools to examine data structure and patterns, surface potential insights, and begin developing a narrative grounded in user needs in the context of the business problem discussed in Week 1. AI can be used to help formulate the approach to highlighting patterns in the data and to explain unfamiliar data structures. Ekka Public Holiday - Wednesday 12th August 2026 - Check Blackboard for announcements about affected classes. Learning outcomes: L01, L02, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Seminar",
+      "topic": "Sprint Session 2: Prototyping, User Experience and Value Proposition This session introduces low-fidelity prototyping methods. Students translate user insights and needs into initial requirements, then design and communicate application concepts and user flows ahead of technical implementation. AI can support idea generation, requirement articulation, and early prototyping concepts, with students retaining ownership of design decisions. The focus is on shaping analytics outputs that are intuitive and meaningful for end-users, and that clearly communicate value in a decision-making context. Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Seminar",
+      "topic": "Sprint Session 3: Validation and Feedback Peer review and testing of early concepts or prototypes. Students evaluate logic, clarity, and alignment with user needs. Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Seminar",
+      "topic": "Sprint Session 4: Refinement and Planning Reflection on assessment feedback and project direction. Students prioritise features, refine scope, and plan the next phase of development. Learning outcomes: L01, L02, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Seminar",
+      "topic": "Sprint Session 5: Technical Feasibility and Requirements Exploration of technical options and constraints. Students research tools, libraries, or integrations and assess feasibility of proposed features. AI can support code exploration, package research, and troubleshooting strategies, while students critically evaluate all outputs Learning outcomes: L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Seminar",
+      "topic": "Sprint Session 6: AI Tools, Analytical Depth and Data Enrichment This session explores how AI tools can support feature engineering, code generation, and data enrichment using external sources. Students are encouraged to assess the analytical depth of their dashboard and critically evaluate AI-assisted outputs, ensuring the process remains transparent and reproducible. Learning outcomes: L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Seminar",
+      "topic": "Sprint Session 7: Data Governance, Privacy and Ethical AI Considerations This session introduces the governance, privacy, and ethical considerations involved in deploying AI-supported analytics solutions. Students examine issues such as data privacy, secure handling practices, and algorithmic bias, and consider how these factors may impact the responsible development of their solution. Learning outcomes: L02, L05",
+      "learning_outcomes": [
+        "L02",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Midsemester Break No class this week"
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Seminar",
+      "topic": "Sprint Session 8: Communicating Technical Work in Business Terms This session focuses on preparing students to communicate their dashboard to a non-technical audience. Students practise explaining the tools, technical decisions, and use of AI behind their build, connecting these clearly to business value and the original problem, ahead of the technical demonstration. Learning outcomes: L01, L05",
+      "learning_outcomes": [
+        "L01",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Seminar",
+      "topic": "Sprint Session 9: Deployment and Testing Application deployment and troubleshooting. Focus on handling edge cases, refining presentation, and reflecting on development decisions and trade-offs. Learning outcomes: L01, L02, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Seminar",
+      "topic": "Technical Demonstrations (A3) - Session 1 In-class technical demonstrations of a low-fidelity prototype or a functional deployment of an analytics dashboard (web app) solution to the business problem. Students present their app to the class showcasing its functionality, analytical approach, and design rationale. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Seminar",
+      "topic": "Technical Demonstrations (A3) - Session 2 Continuation of in-class technical demonstrations. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . You'll also need to be aware of the following policies and procedures while completing this course: Work Integrated Learning and Work Experience Policy Learning activities"
+}

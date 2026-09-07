@@ -1,0 +1,345 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7206-60078-7660",
+  "scraped_at": "2026-09-07T03:47:40.145521+00:00",
+  "course_code": "BSAN7206",
+  "class_code": "60078",
+  "semester_code": "7660",
+  "full_course_code": "BSAN7206-60078-7660",
+  "course_title": "Business Data Management",
+  "study_period": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "External",
+  "attendance_mode": "Online",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "Business Data management concerns the organizational practice of managing and using data for running daily business transactions and generating analytical insights for business decision-making. The course focuses on transactional and analytical information systems covering topics in conceptual data modeling, creating and manipulating databases, data querying, integrating data, and developing an analytical data warehouse. During the course, students acquire Structured Query Language (SQL) skills and learn to use advanced tools for data modeling and integration.\n\nBusiness Data Management is offered as a part of the UQ’s Master of Business Analytics program. The course focuses on teaching skillsets that are fundamental in designing and managing transactional and informational databases. The topics in the course range from data modelling, creating and manipulating database tables, advanced database querying databases to integrating data, designing analytical databases, and working with big data.ﾠ\n\nThe course is organised into three different modules:\n\nThe course is built in a learning platform rich with an engaging learning experience. Each module is a blend of self-directed learning materials, interactive assessments, hands-on experience using the tools popular across industries, case examples, social discussions, and interactive live sessions. The course educates students on organisational data and takes them through the journey of transforming organisation data into analytical insights. After completing this course, students are expected to develop competency to leverage data for analytical and reporting purposes.\n\nCourse Changes in Response to Previous Student Feedback",
+  "requirements": {
+    "companions": [
+      "We recommend completing the following courses at the same time:",
+      "BSAN7205"
+    ],
+    "restrictions": [
+      "Restricted to students in the MBusAn program"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Sina Ameli",
+      "email": "s.ameli@business.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Sina Ameli"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Hanem Ellethy"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note:\nTeaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull Name\nStudent ID\nCourse Code",
+  "course_aims": "This course aims to help students to perform and develop data management techniques to model, design, and manage organisational data to generate insights and inform decision-making.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Apply fundamental concepts to model, design, and manage organisational data."
+    },
+    {
+      "number": "LO2.",
+      "description": "Manipulate and retrieve data using SQL."
+    },
+    {
+      "number": "LO3.",
+      "description": "Develop skills to generate insights from organisational data."
+    },
+    {
+      "number": "LO4.",
+      "description": "Solve challenges and leverage opportunities in dealing with Big Data."
+    },
+    {
+      "number": "LO5.",
+      "description": "Implement data warehousing solutions and generate business insights that enable value creation from data."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Project",
+      "title": "Data Warehousing Project - Part 1",
+      "weight": "40%",
+      "due_date": "18/09/2026 3:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Project",
+      "title": "Data Warehousing Project - Part 2",
+      "weight": "60%",
+      "due_date": "9/11/2026 3:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Data Warehousing Project - Part 1",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Project",
+      "weight": "40%",
+      "due_date": "18/09/2026 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "This assignment has two sections. The first part focuses on modelling a schema and tests students' ability to capture important aspects of multiple systems that need to be stored in a data warehousing database. Read full task description Hide full task description",
+      "submission_guidelines": "Assessment will be submitted within the course's Learn.UQ site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Data Warehousing Project - Part 2",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Project",
+      "weight": "60%",
+      "due_date": "9/11/2026 3:00 pm",
+      "task_description": "This assignment has two sections. The second part focuses on the implementation of the model designed in part 1, with the students demonstrating the ETL. Read full task description Hide full task description",
+      "submission_guidelines": "Assessment will be submitted on the course's Learn.UQ site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Online"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Lecture",
+      "topic": "Module 1.1 Relational Data Modelling and SQL - Course overview This topic first introduces relational databases and database management systems. It then introduces conceptual modelling using ER diagram Live session: This session will focus on staff and student introductions, outlining course objectives, reviewing assessments, and discussing conceptual modelling. Self-Directed Learning: Students need to complete this weeks self-directed material before the live session. Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Tutorial",
+      "topic": "Module 1.1 Bootcamp Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Lecture",
+      "topic": "Module 1.2 Relational Databases and Normalisation This topic introduces the relational model including its main concept and components, integrity constraints, and how ER diagrams can be mapped into relational models. Live Session: Entity Relational Diagrams (ERD), Normalisation, and Structured Query Language (SQL) will be introduced. Self-Directed Learning: Students need to complete this weeks self-directed material before the live session. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Tutorial",
+      "topic": "Module 1.2 Bootcamp Learning outcomes: L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Lecture",
+      "topic": "Module 1.3 Introduction to SQL (part 1) Structured Query Language (SQL) will be presented in more depth. Different types of data retrieval and manipulation will be explored. Live Session: This overview of relational database management systems focuses on their core components and functionalities. It then examines conceptual modelling, introducing the widely used Entity-Relationship (ER) diagram, its constraints, and its extension, the Extended ER diagram. Finally, it discusses how design choices inform trade-offs in database design. Self-Directed Learning: Students need to complete this weeks self-directed material before the live session. Ekka Public Holiday - Wednesday 12th August 2026 - Check Blackboard for announcements about affected classes. Learning outcomes: L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Tutorial",
+      "topic": "Module 1.3 Bootcamp Learning outcomes: L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Lecture",
+      "topic": "Module 1.4 Introduction to SQL (part 2) Structured Query Language (SQL) will be presented in more depth. This topic focuses on advanced SQL queries based on subqueries, division and views. Live Session: This session introduces the relational data model and its key concepts in database systems. It then examines integrity constraints that ensure data consistency, and concludes with the mapping of ER diagrams to relational schemas. Self-Directed Learning: Students need to complete this weeks self-directed material before the live session. Learning outcomes: L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Tutorial",
+      "topic": "Module 1.4 Bootcamp Learning outcomes: L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Lecture",
+      "topic": "Module 2.1 Dimension Modelling This topic focuses on concepts related to data redundancies, data anomalies, data normalization, need for data denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models. Live Session: This section introduces the dimensional model, a core design approach in analytical systems and data warehouses. It organises data into fact and dimension tables to support efficient querying, reporting, and multidimensional analysis for decision-making. Self-Directed Learning: Students need to complete this weeks self-directed material before the live session. Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Tutorial",
+      "topic": "Module 2.1 Bootcamp Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Lecture",
+      "topic": "Module 2.2 Advanced Dimension Modelling This topics focus on various techniques for creating facts and dimension tables data warehouse architecture, Extract transformation load (ETL), and Microsoft SQL Server integration services (SSIS) tutorial. denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models. Live Session: This session explores the role of dimensions in describing and analyzing fact measures within a data warehouse. It covers the structure of dimensional tables—typically wide, flat, and descriptive—and introduces key design techniques, including surrogate keys, calendar dimensions, hierarchies, slowly changing dimensions, and conformed dimensions. Self-Directed Learning: Students need to complete this weeks self-directed material before the live session. Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Tutorial",
+      "topic": "Module 2.2 Bootcamp Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Lecture",
+      "topic": "Module 2.3 ETL and Metadata (part 1) This topics focus on various techniques for creating facts and dimension tables data warehouse architecture, Extract transformation load (ETL), and Microsoft SQL Server integration services (SSIS) tutorial. denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models. Live Session: This session provides a high-level view of various design choices in creating a data warehouse and walks you through the process of data integration required for creating a data warehouse. Self-Directed Learning: Students need to complete this weeks self-directed material before the live session. Learning outcomes: L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Tutorial",
+      "topic": "Module 2.3 Bootcamp Learning outcomes: L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Lecture",
+      "topic": "Module 2.4 ETL and Metadata (part 2) This topics focus on various techniques for creating facts and dimension tables data warehouse architecture, Extract transformation load (ETL), and Microsoft SQL Server integration services (SSIS) tutorial. denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models. Live Session: This session presents a deeper view of critical design decisions in data warehouse development, with a focus on data integration processes. It covers key components such as ETL (Extract, Transform, Load) workflows and the role of metadata in ensuring consistency, traceability, and effective data management. Self-Directed Learning: Students need to complete this weeks self-directed material before the live session. Learning outcomes: L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Tutorial",
+      "topic": "Module 2.4 Bootcamp Learning outcomes: L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Lecture",
+      "topic": "Module 2.5 Data Warehouse Architecture and ETL This topic focuses on concepts related to data redundancies, data anomalies, data normalization, need for data denormalization, introduction to Data Warehouse, Star Schema, and creation of dimension models. Live Session: This session provides a deeper exploration of data warehouse architecture, focusing on design strategies and the end-to-end ETL (Extract, Transform, Load) process. It also examines the role of metadata in supporting data integration, governance, and the overall effectiveness of data warehouse systems. Self-Directed Learning: Students need to complete this weeks self-directed material before the live session. Learning outcomes: L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Tutorial",
+      "topic": "Module 2.5 Bootcamp Learning outcomes: L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "In-Semester Break"
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Lecture",
+      "topic": "Module 3.1 NoSQL (part 1) This topic introduces NoSQL as a solution to the challenges of Big Data, focusing on document-oriented databases. It examines when and why NoSQL is preferred over traditional relational databases, and explores MongoDB as a practical example for handling flexible, scalable data models. Live Session : NoSQL database, Types of NoSQL, Document-Oriented Databases, MongoDB, MongoDB vs RDBMS, Collection and Data Modelling Strategies and MongoDB Queries Self-Directed Learning: Students need to complete this weeks self-directed material before the live session. Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Tutorial",
+      "topic": "Module 3.1 Bootcamp Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Lecture",
+      "topic": "Module 3.2 NoSQL (part 2) This topic introduces NoSQL as a solution to the challenges of Big Data, focusing on document-oriented databases. It examines when and why NoSQL is preferred over traditional relational databases, and explores MongoDB as a practical example for handling flexible, scalable data models. Live Session : NoSQL database, Types of NoSQL, Document-Oriented Databases, MongoDB, MongoDB vs RDBMS, Collection and Data Modelling Strategies and MongoDB Queries Self-Directed Learning: Students need to complete this weeks self-directed material before the live session. Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Tutorial",
+      "topic": "Module 3.2 Bootcamp"
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Lecture",
+      "topic": "Module 3.3 Big Data This topic presents system architectures to process big data. Live Session: MapReduce Evolution, Apache Spark, Languages/Interfaces, RDD (Resilient Distributed Dataset), Spark Streaming. Self-Directed Learning: Students need to complete this weeks self-directed material before the live session. Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Tutorial",
+      "topic": "Module 3.3 Bootcamp"
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Lecture",
+      "topic": "Module 3.4 Review There is an opportunity for students to discuss their project and receive feedback. Live Session: This session offers a comprehensive review of the essential topics covered throughout the course. Self-Directed Learning: Students need to progress with their assignment project before the live session. Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Tutorial",
+      "topic": "Module 3.4 Bootcamp"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

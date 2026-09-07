@@ -1,0 +1,269 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BISM7213-60400-7660",
+  "scraped_at": "2026-09-07T03:47:20.558506+00:00",
+  "course_code": "BISM7213",
+  "class_code": "60400",
+  "semester_code": "7660",
+  "full_course_code": "BISM7213-60400-7660",
+  "course_title": "Securing Business Information",
+  "study_period": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "A managerial perspective of controls and audit procedures associated with preserving authenticity, accuracy, completeness, timeliness and privacy of business electronic transactions over the Internet; quality assurance for electronic commerce/online business applications for business managers.\n\nEffective information security is an absolute requirement for all businesses seeking the trust of current and potential clients/customers. Within a modern business context, it is essential that business management must exercise fundamental ownership of an effective information security process. All management must appreciate the concepts and solution strategies of information security and contribute to the accurate resourcing, operation, maintenance and improvement of these solution strategies.\n\nSustainable Development Goals - UQ Business School is a proud supporter and Advanced Signatory of the United Nations Principles for Responsible Management Education (UN PRME) . As part of the largest global collaboration between business schools and the UN, the school emphasises its role in empowering students to drive societal transformation through the Sustainable Development Goals . The SDGs highlight that a thriving economy relies on a healthy environment, aiming to balance economic growth, social well-being, and environmental protection for a sustainable future.\n\nCourse Changes in Response to Previous Student Feedback\n\nThe final seminar has been specially redesigned to provide dedicated exam preparation support. This session is intended to help consolidate understanding of key course content, clarify the exam format and expectations, address common areas of difficulty and offer exam strategies. This change aims to ensure you feel prepared and confident as you approach the final exam.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "BISM7206"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "BISM3205",
+      "MGTS3205"
+    ],
+    "restrictions": [
+      "Quota: Minimum of 15 enrolments"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Yao Zhao",
+      "email": "yao.zhao@business.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Yao Zhao"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note\n: Teaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull name,\nStudent ID, and\nthe Course Code",
+  "course_aims": "This course aims to introduce students to the general theory and practice underpinning business information security. Information security challenges and solutions are discussed via an overall framework comprising the following major areas: confidentiality, integrity, availability, authentication, and non-repudiation. These areas are then operationalised within a business context of risk management and business continuity management. Finally, risk management and business continuity management are considered via a practical analysis of a major international security standard.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Appreciate the overall context and need for information security within a business environment."
+    },
+    {
+      "number": "LO2.",
+      "description": "Analyse security issues and propose security policies in terms of the fundamental security goals (confidentiality, integrity, authentication, authorisation, availability, non-repudiation)."
+    },
+    {
+      "number": "LO3.",
+      "description": "Analyse, evaluate and apply the principles of risk management as they relate to business information security."
+    },
+    {
+      "number": "LO4.",
+      "description": "Analyse, evaluate and conceptually apply the major technical controls that are relevant to business information security."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Essay/ Critique",
+      "title": "Essay: Security Case Analysis",
+      "weight": "30%",
+      "due_date": "7/09/2026 3:00 pm"
+    },
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Assignment: Security Topic Analysis",
+      "weight": "30%",
+      "due_date": "26/10/2026 3:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Course Exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 7/11/2026 - 21/11/2026",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Essay: Security Case Analysis",
+      "mode": "Written",
+      "category": "Essay/ Critique",
+      "weight": "30%",
+      "due_date": "7/09/2026 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "This is an individual essay critically investigating a real-world security case. Drawing on course material covered during the first half of the semester, students are required to interrogate security principles and IT governance frameworks, evaluate business and security implications, and formulate recommendations for security controls. The expected output is a structured academic essay that demonstrates the ability to synthesise and justify arguments using independent research from peer-reviewed and industry sources, cited in APA 7th style. We shall introduce and discuss this essay in the relevant seminar. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Assignment: Security Topic Analysis",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "30%",
+      "due_date": "26/10/2026 3:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L04",
+      "task_description": "This is an individual written assignment comprising three short-answer questions, each with sub-parts, drawing on course material covered across the full semester. Topics may include areas such as security technologies, security compliance, and data governance and sovereignty. Each answer must not exceed 300 words and should be written in plain English business language without referencing. The expected output is a concise, business-informed response that demonstrates the ability to analyse, evaluate, and apply course concepts to complex security and governance problems. We shall introduce and discuss this assignment in the relevant seminar. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Course Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 7/11/2026 - 21/11/2026",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "The end of course exam will comprise a series of questions that focus on the course material covered across the course. The exam will include multiple choice questions and may also feature conceptual short questions and/or scenario-based analysis questions. We shall discuss the exam details in the relevant lecture. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Seminar",
+      "topic": "Introduction to Information Security We introduce the concept of information security and the fundamental view we shall use to analyse this topic. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Seminar",
+      "topic": "The Need for Security / Legal and Ethical Issues We discuss the need for information security - types of security threats. We introduce a range of Australian IT related laws and the advantages/disadvantages these pose. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Seminar",
+      "topic": "Planning for Security We discuss management's role in the development, maintenance, and enforcement of information security policy and standards. We explain what an information security blueprint is in the context of the ISO 27000 series. We introduce contingency planning. Ekka Public Holiday - Wednesday 12th August 2026 - Check Blackboard for announcements about affected classes. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Seminar",
+      "topic": "Risk Management (Part 1) In the first part, we focus on defining risk management and its role in the organisation. We describe risk management techniques to identify and prioritise risk factors for assets. We explain how risk is assessed. Learning outcomes: L01, L03",
+      "learning_outcomes": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Seminar",
+      "topic": "Risk Management (Part 2) In the second part, we discuss strategy options used to treat risk. We formulate a cost-benefit analysis (CBA) using existing conceptual frameworks. We describe popular methodologies used in business to manage risk. Learning outcomes: L01, L03",
+      "learning_outcomes": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Seminar",
+      "topic": "Cryptography (Part 1) We consider two major encryption paradigms - symmetric key and public key cryptography - their operational strengths and challenges. Learning outcomes: L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Seminar",
+      "topic": "Cryptography (Part 2) We consider the commercial applications of cryptography - hybrid security applications for the Web and Email. We also consider other important applications such as digital signaturing. Learning outcomes: L01, L02, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Seminar",
+      "topic": "Security Technology (Firewalls, Proxys and the DMZ - Part 1) A business analysis of major types of security controls - operational approaches and positioning within the business network. Learning outcomes: L01, L02, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Seminar",
+      "topic": "Security Technology (Intrusion Detection - Part 2) Consideration of the role of intrusion detection systems - placement and operational approaches. We analyse how intrusion detection systems (IDS) provide 'defence in depth' for the modern business. Learning outcomes: L01, L02, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "In-Semester Break No Seminars during in-semester break."
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Seminar",
+      "topic": "PCI DSS Discussion & Analysis A 'capstone' analysis of the Payment Card Industry Data Security Standard (PCI DSS). A contractually obligatory standard for any business storing, forwarding or processing in-house credit card data for Visa, Mastercard, and Amex. Learning outcomes: L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Seminar",
+      "topic": "Blockchain - Theory & Practice We analyse the blockchain application. Discussion of the blockchain as it underpins bitcoin (crypto-currency). We focus on its architecture, benefits, challenges, and how it implements hashing and cryptography. A business analysis of the variety of blockchain management paradigms that have emerged in business. Learning outcomes: L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Seminar",
+      "topic": "Security Maintenance We focus on security auditing and security testing as part of managing and operating the ongoing security program. Learning outcomes: L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Seminar",
+      "topic": "Exam Review and Preparation This session covers the exam format and structure, reviews key course content, and offers preparation tips and strategies. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

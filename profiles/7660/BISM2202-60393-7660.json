@@ -1,0 +1,375 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BISM2202-60393-7660",
+  "scraped_at": "2026-09-07T03:47:08.475311+00:00",
+  "course_code": "BISM2202",
+  "class_code": "60393",
+  "semester_code": "7660",
+  "full_course_code": "BISM2202-60393-7660",
+  "course_title": "Data Analytics and Information Management",
+  "study_period": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "Data Analytics and Information Management concerns the use of data for decision making in business. It focuses on how organisations can create business value from data by modelling, integrating, analysing and visualising data. It helps students develop fundamental data analytics knowledge, experience contemporary data analytic tools and learn about broader organisational and societal implications of data analytics such as data-driven transformation and ethics of big data.\n\nData analytics comprises skills, processes and technologies used to create timely and meaningful insights from organisational data. The insights improve managerial decision-making and help to create significant business value.\n\nThis course explores the technical and managerial processes of using data for decision-making. Technical topics include dimensional modelling, Extract-Transform-Load (ETL), digital dashboards, regressions and decision trees. Managerial topics include data-driven transformations, data monetisation and appropriate use of data.\n\nThe course provides fundamental knowledge and skills necessary to model , integrate , analyse and visualise data. These analytical skills are highly sought after in industry. As such, this course covers relevant theories as well as providing hands-on experience with business analytics tools.\n\nCourse Changes in Response to Previous Student Feedback",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "BISM2207"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "MGTS2202",
+      "BISM7233",
+      "INFS7233"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Avijit Sengupta",
+      "email": "avijit.sengupta@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Avijit Sengupta"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note:\nTeaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull Name\nStudent ID\nCourse Code",
+  "course_aims": "This course aims to introduceﾠstudents to Data Analytics concepts and techniques that are used to improve organisational decision-making. Students will also develop knowledge and hands-on skills to manage, visualise and analyse data.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Demonstrate knowledge of Data Analytics for decision-making."
+    },
+    {
+      "number": "LO2.",
+      "description": "Apply the principles of data management to model and integrate organisational data."
+    },
+    {
+      "number": "LO3.",
+      "description": "Apply data analytics techniques as an individual to solve business problems."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply data visualisation principles and techniques to represent insights from data."
+    },
+    {
+      "number": "LO5.",
+      "description": "Demonstrate knowledge of managerial and societal issues related to data."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation, Product/ Design",
+      "title": "Data Visualisation Using Microsoft PowerBI",
+      "weight": "20%",
+      "due_date": "14/09/2026 2:00 pm"
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Business Analytics Case Study",
+      "weight": "40%",
+      "due_date": "26/10/2026 2:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Course Exam",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period; 7/11/2026 - 21/11/2026",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Data Visualisation Using Microsoft PowerBI",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Paper/ Report/ Annotation, Product/ Design",
+      "weight": "20%",
+      "due_date": "14/09/2026 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "Using Microsoft PowerBI Students will be expected to: work with a given data set explore the given data set clean the data, rearrange it, transform it if required create multiple visualisations using Microsoft PowerBI to develop interesting insights document their insights generated form the visualisations and report them critically analyse those insights and recommend related actions or interventions Read full task description Hide full task description",
+      "submission_guidelines": "Report and other outputs are to be submitted electronically via TurnItIn and BlackBoard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Business Analytics Case Study",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "40%",
+      "due_date": "26/10/2026 2:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L05",
+      "task_description": "You will complete a report that requires you to undertake research in order to prepare a 1400-1500 word report. You will be presented with a business analytics case with diverse stakeholder requests. You are tasked with developing recommendations for multiple business analytics stages. Full details of the requirements for the written report will be provided with the release of the Project assessment document. Read full task description Hide full task description",
+      "submission_guidelines": "Report and other outputs are to be submitted electronically via TurnItIn and BlackBoard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Course Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "40%",
+      "due_date": "End of Semester Exam Period 7/11/2026 - 21/11/2026",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L03, L04, L05",
+      "task_description": "End of Course exam with a mix of multiple choice questions, conceptual short questions, and/or scenario-based analysis questions. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Lecture",
+      "topic": "Lecture 1: Course Overview and Business Analytics Framework. Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Tutorial",
+      "topic": "Tute 1: Introduction to Business Analytics. Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Lecture",
+      "topic": "Lecture 2: Relational Databases and Normalisation Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Tutorial",
+      "topic": "Tute 2: ER Modelling and SQL. Ekka Public Holiday - Wednesday 12th August 2026 - Check Blackboard for announcements about affected classes. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Lecture",
+      "topic": "Lecture 3: Dimensional Modelling. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Tutorial",
+      "topic": "Tute 3: Dimensional Modelling Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Lecture",
+      "topic": "Lecture 4: Advanced Dimensional Modelling Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Tutorial",
+      "topic": "Tute 4: Dashboards with Microsoft Power BI Learning outcomes: L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Lecture",
+      "topic": "Lecture 5: Performance Dashboards and Information Delivery Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Tutorial",
+      "topic": "Tute 5: Building Report with Power BI Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Lecture",
+      "topic": "Lecture 6: Data Integration and Metadata Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Tutorial",
+      "topic": "Tute 6: ETL with SQL Server Integration Services Learning outcomes: L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Lecture",
+      "topic": "Lecture 7: Data Mining Process and Predictive Analytics Learning outcomes: L01, L02, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Tutorial",
+      "topic": "Tute 7: Slowly Changing Dimensions(SCDs)SSIS Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Lecture",
+      "topic": "Lecture 8: Data Analytics - Classification and Clustering Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Tutorial",
+      "topic": "Tute 8: Predicting with Linear Regression Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Lecture",
+      "topic": "Lecture 9: Big Data Management Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "In-Semester Break."
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Tutorial",
+      "topic": "Tute 9: Classification with RapidMiner Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Lecture",
+      "topic": "Lecture 10: Advanced Analytics Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Tutorial",
+      "topic": "Tute 10: Clustering with RapidMiner Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Lecture",
+      "topic": "Lecture 11: Privacy, Ethics, and Acceptable Data Use. Learning outcomes: L01, L03",
+      "learning_outcomes": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 11: Data Exploration and Challenge This is for practice and preparing for the job market. More information followed! Learning outcomes: L01, L03",
+      "learning_outcomes": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Lecture",
+      "topic": "Lecture 12: Advanced Topics, Discussions, and Debates in Data Analytics. Learning outcomes: L05",
+      "learning_outcomes": [
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "No Tutorial."
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Lecture",
+      "topic": "Lecture 13: Course Revision and Q&A Session. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: Business School site Exams and assessment advice Program and course advice Course guidelines The assignment task has been designed to be challenging, authentic, and complex. Successful completion of the assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. Students are encouraged to demonstrate detailed comprehension of their written submissions without using any Generative AI tools. For all assessment tasks, the use of AI technologies to generate text or solutions to the task inhibits the learning experience. Students are encouraged to undertake an active learning approach and participate in learning by doing. Before every lecture, reading materials or articles related to the lectures will be provided. As a preparation for the lectures, students are advised to consult these materials. Lecture slides will be provided only after each lecture. The course content has been updated based on feedback provided by the students. Learning activities"
+}

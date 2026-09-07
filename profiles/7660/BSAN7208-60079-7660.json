@@ -1,0 +1,371 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7208-60079-7660",
+  "scraped_at": "2026-09-07T03:47:41.534400+00:00",
+  "course_code": "BSAN7208",
+  "class_code": "60079",
+  "semester_code": "7660",
+  "full_course_code": "BSAN7208-60079-7660",
+  "course_title": "Visual Analytics",
+  "study_period": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "External",
+  "attendance_mode": "Online",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "An important part of a business analysts' role is the appropriate and accurate visualisation of insights from analytics activities. This course provides a theoretical basis on which such visualisations are developed, and develops students' data representations skills, while also developing skills with tools.\n\nThis course focuses on the theories, methods, and technical tools that enable analysis, communication, and decision-making with data visualisations. It covers a range of topics from multiple disciplines such as perceptual psychology, data science, and human-computer interaction.ﾠ\n\nThe course is divided into 7 modules:\n\nThis course offers a fully online student experience that engages students through interactive content built into a learning platform. The content engagement is further enhanced with live sessions, coding activities, and discussions on a social platform. Every week has a dedicated live session to dive deeper into a topic, with further examples and activities to practise the several activities in visualisation design and visual analytics.\n\nThe course takes an individual, project-based approach to understanding and practising the steps involved in visual analytics: defining a data problem, performing (visual) exploratory data exploration, designing a visualisation, bringing interactivity, and evaluating a data visualisation. Students will use tools to explore and design (interactive) data visualisations.\n\nCourse Changes in Response to Previous Student Feedback\n\nIn response to student feedback the course assessment has been updated to include a minor research component into customary practices for visualisation prevalent in a student's chosen field of exploration. The course will also include weekly tutorials in visualisation with R to assist student learning.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "BSAN7205",
+      "DATA7001"
+    ],
+    "restrictions": [
+      "MBusAn, MDataSc"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Mark Bremhorst",
+      "email": "m.bremhorst@business.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Mark Bremhorst"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Mrs Agnieszka Nowak"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note:\nTeaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull Name\nStudent ID\nCourse Code",
+  "course_aims": "BSAN7208 Visual Analytics is designed to introduce students to data visualisation and analytics techniques, theory and practice. The course focuses on visualisation design, interaction and evaluation for various type of data to support evidence-based decision making.\n\nStudents will obtain practical skills to build efficient visualisation for data exploration andﾠ communication. The course uses various examples from business and other areas to highlight the crucial role of visualisation in analysing and presenting evidence to stakeholders.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand and apply the fundamental theories of data visualisations."
+    },
+    {
+      "number": "LO2.",
+      "description": "Create efficient and appropriate visualisations to generate insights that support decision making utilising various technologies."
+    },
+    {
+      "number": "LO3.",
+      "description": "Explore and critically evaluate data visualisations to be able to communicate key insights to various stakeholders."
+    },
+    {
+      "number": "LO4.",
+      "description": "Work effectively and collaboratively in a team by critically evaluating the contribution of individual data visualisations in communicating key insights to stakeholders."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "A1 - Problem Statement",
+      "weight": "20%",
+      "due_date": "4/09/2026 4:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Presentation, Product/ Design",
+      "title": "A2 - Interactive Prototype",
+      "weight": "45%",
+      "due_date": "9/10/2026 4:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Presentation",
+      "title": "A3 - Video Presentation",
+      "weight": "35%",
+      "due_date": "Week 11 Thu - Week 13 Thu",
+      "conditions": [
+        "Team or group-based",
+        "Online"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "A1 - Problem Statement",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "4/09/2026 4:00 pm",
+      "learning_outcomes_assessed": "L01",
+      "task_description": "This assessment task is an individual report that draws upon several data sets in a specific business context to support one or more of the United Nations Sustainable Development Goals. In that context, the report is to present an investment recommendation supported by data analysis and data visualisation techniques. You should write the report from the perspective of a business or a government entity considering such an investment. The essay is to provide a broad overview of the context of the problem, identify the sources of the data sets and their relevance to the analysis, present analysis and results, and finally link the analysis to key supporting arguments for the investment recommendation made. You should state any assumptions you make about your analysis or recommendation. Key to success with this assessment task is succinct analysis and strong links between the data visualisation and the key supporting arguments for the recommendation. The discussion is to be supported by citing research that supports the context, analysis, interpretation, and key arguments made in support of the recommendation. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "A2 - Interactive Prototype",
+      "mode": "Product/ Artefact/ Multimedia, Written",
+      "category": "Paper/ Report/ Annotation, Presentation, Product/ Design",
+      "weight": "45%",
+      "due_date": "9/10/2026 4:00 pm",
+      "learning_outcomes_assessed": "L02",
+      "task_description": "In this assessment, you will create an interactive visualisation prototype. It will involve the design and implementation of a set of interactive visualisations and provide a critical evaluation. The aims of this assignment are: to research visualisation practices, to design a set of interactive visualisations to allow for effective visual data exploration and sense making, to provide a critical evaluation of your design. You will develop your report from Assessment 1 with further research and analysis, supported by visualisations you create in R. You will also record a presentation of your analysis and findings. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "A3 - Video Presentation",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Presentation",
+      "weight": "35%",
+      "due_date": "Week 11 Thu - Week 13 Thu",
+      "other_conditions": "Peer assessed, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L03, L04",
+      "task_description": "This assessment will be completed as a group of 3-5. You will critically reflect on each group member’s report. You have the choice of either presenting or pre-recording a group presentation to demonstrate how interactivity built into group members’ visualisations enhanced reporting. Groups need to critique the challenges students had in creating their visualisations and how they addressed them. Groups should also critique any limitations of students' visualisations and analysis. Any future directions that would be needed to better analyse or communicate the data should also be described. The key success factors in the presentation are communication, issues identification, any assumptions made in identifying issues, and presentation style. Group presentations will be either presented live or replayed from pre-recorded video over zoom followed by a live Q&A during weeks 11 - 13 live sessions. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nIf you are unable to attend your presentation, please advise your Course Coordinator on or before the due date.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Team or group-based",
+        "Online"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Seminar",
+      "topic": "Module 1.1: Introduction to Visual Analytics This topic introduces the general concepts of visual analytics. Live session: This session will focus on staff and student introductions, outlining course objectives, reviewing assessments, and discussing the visual analytics. Preparation : Students need to complete this week's self-directed material before the live session. Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Seminar",
+      "topic": "Module 2.1: Theories of visualisation This topic introduces important theories of designing for visual analytics. Live session: This session will take you through some theories of visualisation with examples from Tufte and Few seeking feedback on the images, their flaws, the causes of problems. Preparation : Students need to complete this week's self-directed material before the live session. Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Tutorial",
+      "topic": "Module 2.1: Tutorial Getting started with r Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Seminar",
+      "topic": "Module 3.1: Design process This topic extends theories of visual design to visualisation practices. Live session: This session will introduce the practice of data visualisation for exploration, how to identify various properties of the data, and how to select appropriate exploratory visualisations. Preparation : Students need to complete this week's self-directed material before the live session. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Tutorial",
+      "topic": "Module 3.1: Tutorial Handling data with r Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Seminar",
+      "topic": "Module 3.2: Data types and visualisation idioms This topic introduces Munzner's approach to visual design. Live session: This session will introduce Munzner's framework to designing data visualisations. Preparation : Students need to complete this week's self-directed material before the live session. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Tutorial",
+      "topic": "Module 3.2: Tutorial Handing data with r Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Seminar",
+      "topic": "Module 3.3: The grammar of graphics This topic introduces Wilkinson's Grammar of Graphics and apply it to visualisation. Live session: This session will explore ggplot templates that can be used to create different visualisation types. Preparation : Students need to complete this week's self-directed material before the live session. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Tutorial",
+      "topic": "Module 3.3: Tutorial Creating visualisations with r Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Seminar",
+      "topic": "Module 3.4: The importance of interaction This topic continues to explore visualisation and interactivity. Live session: This session will explore some exemplar interactive visualisations and will demonstrate how the interactions support sense making and understanding. Preparation : Students need to complete this week's self-directed material before the live session. Learning outcomes: L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Tutorial",
+      "topic": "Module 3.4: Tutorial Creating visualisations with r Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Seminar",
+      "topic": "Module 4.1: Evaluation This topic consolidates how knowledge of visual design principles contribute to the evaluation of visualisations. Live session: This session will consolidate critical theories and practice of visual design. Preparation : Students need to complete this week's self-directed material before the live session. Learning outcomes: L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Tutorial",
+      "topic": "Module 4.1: Tutorial Creating visualisations with r Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Seminar",
+      "topic": "Module 5.1: From data to vis to insight This topic explores visual narrative and the use of visualisations in presentations. Live session: This session will explore examples of visual narratives in detail to understand their visual components and how they convey their messages. We will also examine examples of narrative structures using Cohn s schema to help identify their narrative categories and constituents. Preparation : Students need to complete this week's self-directed material before the live session. Learning outcomes: L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Tutorial",
+      "topic": "Module 5.1: Tutorial Adding interactions with r Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Seminar",
+      "topic": "Module 6.1: Practical Examples This topic explores how to apply visual design principles to the evaluation of visualisations. Live session: This session will apply critical theories and practice of visual design to the critical review of visualisations. Preparation : Students need to complete this week's self-directed material before the live session. Learning outcomes: L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Tutorial",
+      "topic": "Module 6.1: Tutorial Adding interactions with r Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "In Semester Break"
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Seminar",
+      "topic": "Module 7.1: Trends and future direction in Visual Analytics This topic explores future trends in data visualisation theory and practice. Live session: This session will explore immersive technologies, the visualisation practices they support, and emerging trends. Preparation : Students need to complete this week's self-directed material before the live session. Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Tutorial",
+      "topic": "Module 7.1: Tutorial Adding interactions with r Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Seminar",
+      "topic": "Group Presentations Assessment 3: Group presentation and Q&A Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial Course summary Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Seminar",
+      "topic": "Group Presentations Assessment 3: Group presentation and Q&A Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Seminar",
+      "topic": "Group Presentations and Course Review Assessment 3 and course review. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

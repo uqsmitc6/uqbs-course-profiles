@@ -1,0 +1,274 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN3210-60075-7660",
+  "scraped_at": "2026-09-07T03:47:31.953221+00:00",
+  "course_code": "BSAN3210",
+  "class_code": "60075",
+  "semester_code": "7660",
+  "full_course_code": "BSAN3210-60075-7660",
+  "course_title": "Technology of Business Analytics",
+  "study_period": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "To be effective business analysts, graduates must understand the technology platforms that support business analytics. Numerical analysis software is the core platform on which business analytics relies. Using the numerical analysis software R, this course provides students with firsthand experience of coding and programming for business analytics. Thus, the course helps to equip students for careers as business analysts by providing them with knowledge of the platforms that support business analytics.\n\nCourse Changes in Response to Previous Student Feedback\n\nBased on students' feedback from the previous semester, this course is taught using Python to better complement the business analytics toolkit required by industry.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "BISM2204",
+      "BSAN2204"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "BISM3210"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Mr Carlos Rincon Hurtado",
+      "email": "c.rinconhurtado@business.uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Mr Carlos Rincon Hurtado"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note: Teaching staff doﾠnotﾠhave access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you emailﾠ\nbusiness.mytimetable@uq.edu.au\nﾠfrom your UQ student email account with the following details:\nFull name,\nStudent ID, and\nthe Course Code",
+  "course_aims": "The broad aim of this course is to provide students with a structured introduction to the technologies of business analytics, with a particular emphasis on the software environments used for business analytics. Students should develop a specific understanding of how these software environments are used and the key concepts in using these software environments (including some emphasis on programming concepts for business analytics). Students should develop an appreciation of how these technologies can increase the productivity of business analysts and business analytics projects, and how businesses and analysts can deploy these technologies to support their business analytics efforts.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Recognise and explain the role of new and emerging technologies for business analytics."
+    },
+    {
+      "number": "LO2.",
+      "description": "Explain the core features of the technology platforms of business analytics."
+    },
+    {
+      "number": "LO3.",
+      "description": "Use and apply the technologies of business analytics with a particular emphasis on open-source computing environments."
+    },
+    {
+      "number": "LO4.",
+      "description": "Compare and critically evaluate the different technologies and software environments used for business analytics."
+    },
+    {
+      "number": "LO5.",
+      "description": "Demonstrate how the technologies of business analytics can support business decision making and improve business performance."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "title": "Python Foundations Project (A1)",
+      "weight": "20%",
+      "due_date": "9/09/2026 5:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Python Programming Skills Quiz (A2)",
+      "weight": "30%",
+      "due_date": "Week 9, Fri; In person during the seminar.",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Computer Code, Project",
+      "title": "Python Decision Support Project (A3)",
+      "weight": "50%",
+      "due_date": "30/10/2026 5:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Python Foundations Project (A1)",
+      "mode": "Written",
+      "category": "Computer Code, Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "9/09/2026 5:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "In this assignment, students apply the Python foundations taught in the first five weeks of the course to a realistic business scenario. They must write a Python script or a Jupyter notebook that uses variables, data types, functions and data structures (e.g., lists, dictionaries, loops) to process and summarise a small business dataset provided to them. Students also write a short reflection identifying which analytics technologies or tools they used, explaining why Python was chosen for this task, and noting any ethical or governance considerations relevant to handling that data. This is important because it verifies that students can connect Python's foundational building blocks to a real business purpose before the course moves into the more demanding Pandas and data-pipeline work of the second half. Read full task description Hide full task description",
+      "submission_guidelines": "Via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Python Programming Skills Quiz (A2)",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "30%",
+      "due_date": "Week 9, Fri In person during the seminar.",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L04",
+      "task_description": "Students complete an in-person assessment covering concepts taught across the first eight weeks of the course. It combines conceptual and practical questions across the full range of topics covered, from the business analytics technology landscape and Python foundations through to data structures, dataset management, and governance. This is important because it independently verifies each student's understanding under exam conditions, ensuring they can reason about both the technology choices and the Python mechanics. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "This is an in-person quiz. Students must complete it during the class time.\nDeferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Python Decision Support Project (A3)",
+      "mode": "Written",
+      "category": "Computer Code, Project",
+      "weight": "50%",
+      "due_date": "30/10/2026 5:00 pm",
+      "learning_outcomes_assessed": "L03, L04, L05",
+      "task_description": "Students act as a lead business analyst and build an end-to-end Python solution for a realistic organisational problem. They are provided with a dataset and a broad business problem, and must apply the full range of skills developed across the course to produce outputs that support business decision-making. The final submission includes well-documented, reproducible code and a business presentation communicating their findings and recommendations to a decision-maker. This is important because it demonstrates the complete arc that business analytics companies value: translating a business problem into a technical solution and communicating the outcome as a decision, which is the core purpose of the course. Read full task description Hide full task description",
+      "submission_guidelines": "Submit via blackboard link.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website .",
+    "other_course_materials": "Recommended Item Description Further Requirement Business Analytics with R and Python / by David L. Olson, Desheng Dash Wu, Cuicui Luo, Majid Nabavi, 1944-1st ed. 2024. Introductory book for those students who would like to learn the basics of programming, particularly in R and Python.",
+    "recommended": "Item Description Further Requirement Business Analytics with R and Python / by David L. Olson, Desheng Dash Wu, Cuicui Luo, Majid Nabavi, 1944-1st ed. 2024. Introductory book for those students who would like to learn the basics of programming, particularly in R and Python."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Seminar",
+      "topic": "Course Introduction Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Seminar",
+      "topic": "Python Foundations for Business Analysts Learning outcomes: L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Seminar",
+      "topic": "Analytics Technologies and AI for Business Learning outcomes: L01, L02, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Seminar",
+      "topic": "Business Data Structures Learning outcomes: L02, L03",
+      "learning_outcomes": [
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Seminar",
+      "topic": "Governance, Ethics and Cybersecurity Learning outcomes: L01, L05",
+      "learning_outcomes": [
+        "L01",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Seminar",
+      "topic": "Business Logic and Automation Learning outcomes: L02, L03, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Seminar",
+      "topic": "Working with Business Data using Pandas Library (Part 1) Learning outcomes: L02, L03, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Seminar",
+      "topic": "Working with Business Data using Pandas Library (Part 2) Learning outcomes: L03, L05",
+      "learning_outcomes": [
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Seminar",
+      "topic": "Python Programming Skills Quiz (A2) Exam In-Class during seminar. Learning outcomes: L02, L03, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "In-Semester break"
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Seminar",
+      "topic": "Building an End-to-End Business Analytics Application Learning outcomes: L01, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Seminar",
+      "topic": "Testing, Documentation and Reproducibility Learning outcomes: L01, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Practical",
+      "topic": "Project Workshop and Consultation Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Seminar",
+      "topic": "Future of Business Analytics Technologies & Revision Learning outcomes: L01, L02, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}

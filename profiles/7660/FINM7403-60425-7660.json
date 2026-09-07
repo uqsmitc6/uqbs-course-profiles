@@ -1,0 +1,447 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7403-60425-7660",
+  "scraped_at": "2026-09-07T03:49:06.806518+00:00",
+  "course_code": "FINM7403",
+  "class_code": "60425",
+  "semester_code": "7660",
+  "full_course_code": "FINM7403-60425-7660",
+  "course_title": "Portfolio Management",
+  "study_period": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "Provides students with techniques for evaluating investments on an individual basis and in the context of portfolios. Techniques for analysing investments focus on maximising expected returns while minimising risk. The most powerful way of achieving this objective is by creating a portfolio of investments.\n\nTopics covered are financial statement analysis, equity investments, debt investments, portfolio management, and macroeconomic and industry analysis.\n\nAfter completing the course, students should be able to construct and evaluate investment portfolios on theoretical and practical grounds. FINM7403 Portfolio Management is integrated with many of the other finance courses (FINM7401, FINM7402, FINM7406, ACCT7106, and FINM7405), providing shared coverage of the fundamentals of investment markets, portfolio theory (the quantitative trade-off of risk and return), bond & equity valuation, risk-factor pricing, macroeconomic analysis, financial statement analysis and the basic features of derivative investments. The course expands on many of these topics in managing a portfolio of assets. It introduces other concepts relevant to portfolio management, such as portfolio performance evaluation and the efficient markets debate.\n\nThe course content addresses key questions of interest to potential investors:\n\nThe course is supplemented with a brief exploration of the Efficient Market Hypothesis, behavioural finance, and investments in financial derivatives. Finally, case studies will be used to complete the learning of the code of ethics and standards of professional conduct.\n\nAlongside their study of financial theories and accompanying practical examples in this course, students will be exposed to relevant published academic studies and international case studies reflecting real-world practice. They will also be provided opportunities to source and process real data in R & Excel and AI tools (such as Copilot, ChatGPT, Claude, or Gemini) to enrich their understanding of portfolio management.\n\nCourse Changes in Response to Previous Student Feedback In response to requests for more practical skills and authentic assessment, the course structure has been updated:",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "FINM7065"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "FINM2416"
+    ],
+    "restrictions": [
+      "Quota: Minimum of 15 enrolments"
+    ]
+  },
+  "course_staff": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Elizabeth Zhu",
+      "email": "y.zhu5@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Elizabeth Zhu"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note:\nTeaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure that you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull Name\nStudent ID\nCourse Code",
+  "course_aims": "This course aims to trainﾠstudents with techniques for evaluating investments on an individual basis and in the context of a portfolio. After completing the course, students should possess the theoretical and practical skills to value investments and construct investment portfolios.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Analyse and evaluate accounting, financial and non-financial information relevant to the task of asset allocation and security selection."
+    },
+    {
+      "number": "LO2.",
+      "description": "Assess the value of a financial asset using a variety of accepted methods."
+    },
+    {
+      "number": "LO3.",
+      "description": "Explain and evaluate the risks associated with investments on portfolio and security levels."
+    },
+    {
+      "number": "LO4.",
+      "description": "Evaluate the performance of a portfolio and portfolio manager."
+    },
+    {
+      "number": "LO5.",
+      "description": "Apply theory to the analysis of real world cases when working as part of a team, and employ databases and software commonly used in the industry."
+    },
+    {
+      "number": "LO6.",
+      "description": "Identify ethical dilemmas in various investment scenarios and explain the potential conflicts of interest that may arise in the investment industry."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Computer Code, Quiz",
+      "title": "Quizzes",
+      "weight": "20% 2 quizzes",
+      "due_date": "Quiz 1 - Week 5, Fri 5:00 pm; Quiz 2 - Week 12, Fri 5:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Presentation, Role play/ Simulation",
+      "title": "Simulated Portfolio - Part A - Pitch Deck, Presentation and Peer Assessment",
+      "weight": "23%",
+      "due_date": "Pitch Deck - Friday 5:00PM - Week 9 Fri; Presentation During Tutorial Class - Week 8 - Week 9; Peer Evaluation - 5:00 PM - Week 10 Fri",
+      "conditions": [
+        "Identity Verified",
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Reflection",
+      "title": "Simulated Portfolio - Part B - Reflection",
+      "weight": "7%",
+      "due_date": "9/10/2026 5:00 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 7/11/2026 - 21/11/2026",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Quizzes",
+      "mode": "Written",
+      "category": "Computer Code, Quiz",
+      "weight": "20% 2 quizzes",
+      "due_date": "Quiz 1 - Week 5, Fri 5:00 pm Quiz 2 - Week 12, Fri 5:00 pm",
+      "other_conditions": "Time limited. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "Students will complete two 24-hour quizzes consisting of multiple-choice, modelling (quantitative/coding), and discussion questions. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Simulated Portfolio - Part A - Pitch Deck, Presentation and Peer Assessment",
+      "mode": "Oral, Product/ Artefact/ Multimedia",
+      "category": "Presentation, Role play/ Simulation",
+      "weight": "23%",
+      "due_date": "Pitch Deck - Friday 5:00PM - Week 9 Fri Presentation During Tutorial Class - Week 8 - Week 9 Peer Evaluation - 5:00 PM - Week 10 Fri",
+      "other_conditions": "Time limited, Peer assessed, Work integrated learning, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "In this assessment, you will step into the role of a Fund Manager reporting to an Investment Committee. Drawing on the data generated during the Live Trading Simulation. You are required to deliver a professional presentation that defends your investment decisions and critically reflects on the outcomes. Part A Format: In-Person Presentation: A professional pitch covering your investment philosophy, strategy execution, and performance attribution. 15 mins (10 min presentation + 5 min Q&A) All team members must contribute to the oral presentation and/or Q&A Please Note: The presentation will be recorded for marking purposes per UQ Policy. Upon completing the team project, you must also complete the Peer Assessment. The results of Peer Assessment may be used to adjust your individual marks according to your contribution. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nIf you are unable to attend your presentation, please advise your Course Coordinator on or before the due date.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\n10% Late Penalty applies to submitted material only.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Identity Verified",
+        "Team or group-based",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Simulated Portfolio - Part B - Reflection",
+      "mode": "Written",
+      "category": "Reflection",
+      "weight": "7%",
+      "due_date": "9/10/2026 5:00 pm",
+      "other_conditions": "Work integrated learning. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "Part B Format: Reflection on the Trading Game (Written ~1000 words) : This component requires you to critically evaluate your simulation experience by contrasting academic financial theory with the realities of practical portfolio management. Read full task description Hide full task description",
+      "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 7/11/2026 - 21/11/2026",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
+      "task_description": "The final assessment consists of Short-answer questions, Essay questions. Further details will be discussed in class. Read full task description Hide full task description",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Lecture",
+      "topic": "Lecture 1: Mean-Variance Framework This topic develops understanding of risk and return, investor's preferences, and capital allocation to risky assets. Learning outcomes: L01, L03, L06",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 1: Mean-Variance Framework Learning outcomes: L01, L03, L06",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Lecture",
+      "topic": "Lecture 2: Capital Asset Pricing Model This topic develops the well-known Capital Asset Pricing Model and discuss its empirical challenges in explaining asset returns. Learning outcomes: L01, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 2: Capital Asset Pricing Model Ekka Public Holiday - Wednesday 12th August 2026 - Check Blackboard for announcements about affected classes. Learning outcomes: L01, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Lecture",
+      "topic": "Lecture 3: Multifactor models: APT, ICAPM This topic discusses macroeconomic and industry analysis which is particularly useful in timing factor investments. It introduces a wide range of multi-factor asset pricing models to address the empirical challenges of the CAPM. Learning outcomes: L01, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 3: Multifactor Models: APT, ICAPM Learning outcomes: L01, L03, L05",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Lecture",
+      "topic": "Lecture 4: Performance Evaluation This topic discusses various methods to evaluate and understand investment fund performance/styles. Learning outcomes: L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 4: Performance Evaluation Learning outcomes: L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Lecture",
+      "topic": "Lecture 5: Fundamental Analysis This topic focuses on ratio analysis and equity valuation models including discounted cash flows and multiples. Learning outcomes: L01, L02, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 5: Fundamental Analysis Learning outcomes: L01, L02, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Workshop",
+      "topic": "Lecuture 6: Trading Simulation I Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 6: Trading Simulation Presentation Preparation Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Workshop",
+      "topic": "Lecture 7: Trading Simulation II Live Trading Game - Part I - Initial Allocation Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 7: Team-based Presentation I Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Lecture",
+      "topic": "Lecture 8: Bond Portfolio Management Live Trading Game - Part II - Dynamic Allocation Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 8: Team-based Presentation II Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Lecture",
+      "topic": "Lecture 9: Options in Portfolio Risk Management This topic focuses on term structure of interest rates, management of bond portfolios, and bond risk factors. Learning outcomes: L02, L03, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "In-Semester Break"
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Self-study: working on Reflection for Trading Simulation which is due Friday; No lecture or tutorial but consultation is available Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 9: Bond Portfolio Management This topic discusses the notion of market efficiency and behavioural finance with applications on security returns. Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 11",
+      "activity_type": "Lecture",
+      "topic": "Lecture 10: Efficient Market Hypothesis and Behavioral Finance Learning outcomes: L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 10: Options in Portfolio Risk Management This lecture discusses basics of options contracts and risk management strategies for portfolio investments. Learning outcomes: L02, L03, L05",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 12",
+      "activity_type": "Lecture",
+      "topic": "Lecture 11: Case Study or Guest Lecture on Special Topics Learning outcomes: L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 11: Efficient Market Hypothesis and Behavioral Finance Learning outcomes: L03, L04, L05",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 13",
+      "activity_type": "Lecture",
+      "topic": "Lecture 12: Ethics, Course Review Learning outcomes: L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}
