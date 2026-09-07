@@ -30,7 +30,8 @@ existing_keys = {(r['semester_code'], (r.get('class_number') or '').strip(),
                   r['course_code'], norm(r['assessment_title'])) for r in existing}
 
 SEM_LABEL = {"7460": "Sem 2 2024", "7480": "Summer 2024-25", "7520": "Sem 1 2025",
-             "7560": "Sem 2 2025", "7580": "Summer 2025-26"}
+             "7560": "Sem 2 2025", "7580": "Summer 2025-26",
+             "7620": "Sem 1 2026", "7660": "Sem 2 2026", "7700": "Sem 1 2027", "7720": "Sem 1 2027"}
 
 # ---- gather: (sem, course, ntitle) -> {class: (los tuple, scraped title)} ----
 gathered = defaultdict(dict)

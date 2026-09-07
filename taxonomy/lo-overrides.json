@@ -1,7 +1,7 @@
 {
   "_metadata": {
     "description": "LO-to-assessment mappings restored from Jac (curriculum.uq.edu.au), the authored curriculum record. UQ's published course profiles omit these mappings (fully or partially) due to a publishing fault; this overlay completes the record. Replace semantics: an entry is the authoritative full LO list for its assessment.",
-    "last_updated": "2026-09-07 03:51",
+    "last_updated": "2026-09-07 04:04",
     "generated_from": "lo-overrides.csv",
     "semantics": "replace_per_assessment; exact class_number wins over exact semester_code, which wins over blank. Entries with class_number apply ONLY to that SI-NET class (parallel deliveries can map differently). Consumers that do not distinguish classes should ignore class_number entries for offerings they cannot match.",
     "class_scoped_entries": 122,
@@ -1212,6 +1212,42 @@
       "source": "carried"
     },
     {
+      "course_code": "BSAN3212",
+      "semester_code": "7660",
+      "assessment_title": "Deep Learning Coding Project Journal (A2)",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "BSAN3212",
+      "semester_code": "7660",
+      "assessment_title": "Deep Learning for Business Essay (A1)",
+      "learning_outcomes": [
+        "LO1",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "BSAN3212",
+      "semester_code": "7660",
+      "assessment_title": "Final Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
       "course_code": "BSAN7206",
       "semester_code": "7560",
       "assessment_title": "Data Warehousing Project - Part 1",
@@ -1242,6 +1278,31 @@
         "LO2"
       ],
       "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2025 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "BSAN7206",
+      "semester_code": "7660",
+      "assessment_title": "Data Warehousing Project - Part 1",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "BSAN7206",
+      "semester_code": "7660",
+      "assessment_title": "Data Warehousing Project - Part 2",
+      "learning_outcomes": [
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
       "source": "jac"
     },
     {
@@ -1655,6 +1716,43 @@
       "class_number": "60652",
       "notes": "Carried forward from 7580 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
       "source": "carried"
+    },
+    {
+      "course_code": "ECON3520",
+      "semester_code": "7660",
+      "assessment_title": "Assignment 1",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "ECON3520",
+      "semester_code": "7660",
+      "assessment_title": "End-of-semester Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "ECON3520",
+      "semester_code": "7660",
+      "assessment_title": "In-semester Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO2"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
     },
     {
       "course_code": "ECON3820",
@@ -2250,6 +2348,41 @@
       "source": "carried"
     },
     {
+      "course_code": "EIBS7302",
+      "semester_code": "7660",
+      "assessment_title": "Blogging on innovation",
+      "learning_outcomes": [
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "EIBS7302",
+      "semester_code": "7660",
+      "assessment_title": "In-class reflection on strategic innovation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "EIBS7302",
+      "semester_code": "7660",
+      "assessment_title": "Self-written case study",
+      "learning_outcomes": [
+        "LO1",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
       "course_code": "EIBS7303",
       "semester_code": "7560",
       "assessment_title": "Building Innovation Capability",
@@ -2262,6 +2395,42 @@
       "class_number": "60395",
       "notes": "Carried forward from 7460 (scraped): the 7560 profile shows LO1, LO2, LO4, a partial drop by the publishing fault. Confirm in Jac if the mapping changed.",
       "source": "carried"
+    },
+    {
+      "course_code": "EIBS7304",
+      "semester_code": "7660",
+      "assessment_title": "In-Class Essay",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "EIBS7304",
+      "semester_code": "7660",
+      "assessment_title": "Personal Leadership Development",
+      "learning_outcomes": [
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "EIBS7304",
+      "semester_code": "7660",
+      "assessment_title": "Wellbeing Polarity Leadership Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
     },
     {
       "course_code": "ENVM7524",
@@ -4125,6 +4294,88 @@
       "class_number": "20352",
       "notes": "Carried forward from 7560 (scraped): the 7620 profile shows LO1, LO2, a partial drop by the publishing fault. Confirm in Jac if the mapping changed.",
       "source": "carried"
+    },
+    {
+      "course_code": "MGTS1301",
+      "semester_code": "7660",
+      "assessment_title": "Diary - Everest Simulation",
+      "learning_outcomes": [
+        "LO2"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "MGTS1301",
+      "semester_code": "7660",
+      "assessment_title": "Final Exam",
+      "learning_outcomes": [
+        "LO1",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "MGTS1301",
+      "semester_code": "7660",
+      "assessment_title": "Structured Analysis of Simulation Experience",
+      "learning_outcomes": [
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "MGTS1301",
+      "semester_code": "7660",
+      "assessment_title": "Team-based tutorial assessment",
+      "learning_outcomes": [
+        "LO1",
+        "LO2"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "MGTS2607",
+      "semester_code": "7660",
+      "assessment_title": "Critical Reflection: Indigeneity At Work (Individual)",
+      "learning_outcomes": [
+        "LO2",
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "MGTS2607",
+      "semester_code": "7660",
+      "assessment_title": "Critical Reflective Journal (Individual)",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "MGTS2607",
+      "semester_code": "7660",
+      "assessment_title": "Critical Review Report (Individual)",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
     },
     {
       "course_code": "MGTS3301",
@@ -6574,6 +6825,49 @@
       "source": "jac"
     },
     {
+      "course_code": "RBUS7985",
+      "semester_code": "7660",
+      "assessment_title": "Research Progress Check-ins",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5",
+        "LO6"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "RBUS7985",
+      "semester_code": "7660",
+      "assessment_title": "Research Proposal Presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "RBUS7985",
+      "semester_code": "7660",
+      "assessment_title": "Research Thesis",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5",
+        "LO6"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
       "course_code": "RBUS7999",
       "semester_code": "7480",
       "assessment_title": "Critical reflection",
@@ -6637,6 +6931,79 @@
         "LO1"
       ],
       "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2025 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "TIMS3310",
+      "semester_code": "7660",
+      "assessment_title": "In-Class Essay",
+      "learning_outcomes": [
+        "LO1",
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "TIMS3310",
+      "semester_code": "7660",
+      "assessment_title": "Personal Leadership Development",
+      "learning_outcomes": [
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "TIMS3310",
+      "semester_code": "7660",
+      "assessment_title": "Wellbeing Polarity Mapping",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "TIMS3311",
+      "semester_code": "7660",
+      "assessment_title": "Project or business case proposal presentation",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "TIMS3311",
+      "semester_code": "7660",
+      "assessment_title": "Project report or business case",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "TIMS3311",
+      "semester_code": "7660",
+      "assessment_title": "Reflective Interview (live)",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
       "source": "jac"
     },
     {
@@ -6760,6 +7127,54 @@
         "LO5"
       ],
       "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "TIMS7328",
+      "semester_code": "7660",
+      "assessment_title": "Climate Change Simulation - Reflection",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "TIMS7328",
+      "semester_code": "7660",
+      "assessment_title": "Reflection on Scenario",
+      "learning_outcomes": [
+        "LO1",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "TIMS7328",
+      "semester_code": "7660",
+      "assessment_title": "Video Team Project - Scenario Planning",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
+      "source": "jac"
+    },
+    {
+      "course_code": "TIMS7328",
+      "semester_code": "7660",
+      "assessment_title": "Viva Voce",
+      "learning_outcomes": [
+        "LO1",
+        "LO4",
+        "LO5"
+      ],
+      "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
       "source": "jac"
     },
     {
