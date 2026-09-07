@@ -90,6 +90,10 @@ jobs:
             echo "No AoL CSV — skipping"
           fi
 
+      - name: Carry LO mappings forward over the publishing fault
+        if: always()
+        run: python scraper/carry_forward_lo.py
+
       - name: Rebuild LO overrides overlay
         if: always()
         run: |
@@ -107,7 +111,7 @@ jobs:
 
           # Only add profiles if the directory has content
           if [ -d "profiles" ] && [ "$(find profiles/ -name '*.json' 2>/dev/null)" ]; then
-            git add profiles/ docs/assets/manifest.json docs/assets/manifest-all.json taxonomy/ docs/taxonomy/
+            git add profiles/ docs/assets/manifest.json docs/assets/manifest-all.json taxonomy/ docs/taxonomy/ logs/lo-carry-report.csv
             if git diff --cached --quiet; then
               echo "No changes to commit"
             else

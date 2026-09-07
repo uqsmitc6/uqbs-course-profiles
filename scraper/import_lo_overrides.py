@@ -60,6 +60,9 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_CSV = REPO_ROOT / "taxonomy" / "lo-overrides.csv"
+# Rows carry_forward_lo.py generated from the previous offering (2026-09-07). Read
+# after the manual/Jac CSV; a manual row for the same assessment always wins.
+CARRIED_CSV = REPO_ROOT / "taxonomy" / "lo-carried.csv"
 DEFAULT_TAXONOMY = REPO_ROOT / "taxonomy" / "uqbs-programs.json"
 DEFAULT_OUTPUT = REPO_ROOT / "taxonomy" / "lo-overrides.json"
 DOCS_OUTPUT = REPO_ROOT / "docs" / "taxonomy" / "lo-overrides.json"
@@ -190,7 +193,7 @@ def course_semester_keys(index, course):
 
 # --- CSV parsing & validation ------------------------------------------------
 
-def parse_csv(csv_path):
+def parse_csv(csv_path, source="jac"):
     """Parse the overrides CSV. Returns (entries, errors)."""
     entries, errors = [], []
     with open(csv_path, "r", encoding="utf-8-sig") as f:
@@ -241,8 +244,24 @@ def parse_csv(csv_path):
                 "assessment_title": title,
                 "learning_outcomes": los,
                 "notes": notes or None,
+                "source": source,
             })
     return entries, errors
+
+
+def merge_carried(manual, carried):
+    """Carried rows fill in only where no manual/Jac row answers for that
+    assessment (exact class, exact semester, or the course-wide blank row)."""
+    answered = set()
+    for e in manual:
+        answered.add((e["course_code"], e["semester_code"], e["class_number"], _norm_title(e["assessment_title"])))
+    out = list(manual)
+    for e in carried:
+        c, sem, cls, t = e["course_code"], e["semester_code"], e["class_number"], _norm_title(e["assessment_title"])
+        if (c, sem, cls, t) in answered or (c, sem, "", t) in answered or (c, "", "", t) in answered:
+            continue
+        out.append(e)
+    return out
 
 
 def validate(entries, known_courses, scraped):
@@ -336,6 +355,9 @@ def build_json(entries, source_name):
             rec["class_number"] = e["class_number"]  # scoped to one SI-NET class
         if e["notes"]:
             rec["notes"] = e["notes"]
+        # "jac" (or manual) rows are the authored record; "carried" rows were
+        # inferred from the previous offering by carry_forward_lo.py.
+        rec["source"] = e.get("source") or "jac"
         overrides.append(rec)
 
     overrides.sort(key=lambda r: (r["course_code"], r["semester_code"],
@@ -358,6 +380,7 @@ def build_json(entries, source_name):
                          "that do not distinguish classes should ignore "
                          "class_number entries for offerings they cannot match.",
             "class_scoped_entries": n_class_scoped,
+            "carried_entries": sum(1 for r in overrides if r.get("source") == "carried"),
         },
         "overrides": overrides,
     }
@@ -454,6 +477,13 @@ def main():
         sys.exit(1)
 
     entries, errors = parse_csv(args.csv)
+    if CARRIED_CSV.exists():
+        carried, cerrors = parse_csv(CARRIED_CSV, source="carried")
+        errors += cerrors
+        before = len(entries)
+        entries = merge_carried(entries, carried)
+        print(f"  → {len(entries) - before} carried rows from {CARRIED_CSV.name} "
+              f"({len(carried) - (len(entries) - before)} superseded by a manual or Jac row)")
     if errors:
         print(f"\n{'='*60}\nERRORS ({len(errors)}) — must fix before import:")
         for e in errors:

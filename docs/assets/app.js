@@ -311,7 +311,7 @@ function getLoOverrideMap(courseCode, semesterCode, classCode) {
     if (o.course_code !== courseCode) continue;
     const los = Array.isArray(o.learning_outcomes) ? o.learning_outcomes : [];
     if (!los.length) continue;
-    const rec = { los, notes: o.notes || null };
+    const rec = { los, notes: o.notes || null, source: o.source || "jac" };
     const nt = normTitle(o.assessment_title);
     const semMatches = o.semester_code && semesterCode && o.semester_code === semesterCode;
     if (o.class_number) {
@@ -1600,7 +1600,7 @@ function renderCourseDetail($root, c, taxonomy, otherOfferings, currentFile) {
     const resolveLos = (a) => {
       const title = (a.title || "").trim();
       const ov = ovMap[normTitle(title)];
-      if (ov) return { los: ov.los, override: true, notes: ov.notes };
+      if (ov) return { los: ov.los, override: true, notes: ov.notes, source: ov.source || "jac" };
       if (a.learning_outcomes && a.learning_outcomes.length) return { los: a.learning_outcomes, override: false };
       if (title && loMap[title]) return { los: loMap[title], override: false };
       return { los: [], override: false };
@@ -1610,11 +1610,16 @@ function renderCourseDetail($root, c, taxonomy, otherOfferings, currentFile) {
     const anyOverride = resolved.some(r => r.override);
     const loHeader = hasAnyLos ? `<th>LOs</th>` : "";
     const rows = c.assessment_summary.map((a, i) => {
-      const { los, override, notes } = resolved[i];
+      const { los, override, notes, source } = resolved[i];
+      // Two provenances: "Jac" is the authored record read back from Jac; "Carried"
+      // was inferred from the previous offering by carry_forward_lo.py (the notes say
+      // which offering and what the published profile showed).
+      const carried = source === "carried";
+      const why = carried ? "Carried forward from the previous offering because the published profile dropped it" : "From Jac, the authored curriculum record — omitted from the published profile";
       const chips = los.length
-        ? los.map(x => `<span class="lo-chip${override ? " override" : ""}"${override ? ` title="From Jac, the authored curriculum record — omitted from the published profile${notes ? ": " + escapeHtml(notes) : ""}"` : ""}>${escapeHtml(x)}</span>`).join(" ")
+        ? los.map(x => `<span class="lo-chip${override ? " override" : ""}"${override ? ` title="${why}${notes ? ": " + escapeHtml(notes) : ""}"` : ""}>${escapeHtml(x)}</span>`).join(" ")
         : "—";
-      const mark = override ? ` <span class="lo-override-mark" title="From Jac, the authored curriculum record — omitted from the published profile by a publishing fault">Jac</span>` : "";
+      const mark = override ? ` <span class="lo-override-mark" title="${why}${carried && notes ? ": " + escapeHtml(notes) : " by a publishing fault"}">${carried ? "Carried" : "Jac"}</span>` : "";
       const loCell = hasAnyLos ? `<td class="lo-list">${chips}${mark}</td>` : "";
       return `
         <tr>
@@ -1629,7 +1634,7 @@ function renderCourseDetail($root, c, taxonomy, otherOfferings, currentFile) {
       `;
     }).join("");
     const legend = anyOverride
-      ? `<p class="lo-override-legend">Mappings marked <span class="lo-override-mark">Jac</span> are from the authored curriculum record in Jac. UQ's published profile omits them due to a publishing fault.</p>`
+      ? `<p class="lo-override-legend">Mappings marked <span class="lo-override-mark">Jac</span> are from the authored curriculum record in Jac; those marked <span class="lo-override-mark">Carried</span> were carried forward from the previous offering. UQ's published profile omits them due to a publishing fault.</p>`
       : "";
     parts.push(`
       <div class="card">
